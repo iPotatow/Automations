@@ -4,7 +4,9 @@
 
 ## Actions
 
-- 每天北京时间 08:23 运行；也支持手动 incremental、full、translate、sync。
+- 仅保留 catalog-sync.yml 生产工作流：collect → translate → publish。检查并入各 job，原诊断和独立检查工作流已移除。
+- 每天北京时间 08:23 采集；12:23、16:23、20:23 独立补译待译队列。也支持手动 incremental、full、translate、sync。
+- 仅对有正文且原文哈希没有有效译文的记录启动翻译；没有待译项就跳过。data/published.json 仅在 Sites 同步成功后记录版本，版本未变化时跳过发布。push 代码变更仅检查和同步，不消耗翻译配额。
 - 保留 16 分类扫描、详情提取、重试与退避、异常减量保护、断点续跑。
 - 翻译由 Actions 直接调用 Cloudflare Workers AI；原文哈希、段落校验、译文缓存、并发和配额保护保持有效。external 模式支持原有 Chat Completions 服务。
 - 进度每五分钟及结束时提交 main 的 data/；数据提交不触发采集循环。并发任务串行运行，更新 main 使用 rebase 后普通 push，禁止强推覆盖新代码。

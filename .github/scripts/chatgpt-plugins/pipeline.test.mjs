@@ -1,0 +1,13 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {plan,operation} from './pipeline.mjs';
+import {sourceHash} from './model.mjs';
+const p={name:'Example',summary:'summary',description:'body',status:'active'};
+const make=(plugin=p,id='new',published='old',mode='incremental')=>plan({plugins:{one:plugin}},{id},{id:published},mode);
+test('unchanged valid translation skips translation and publication',()=>{const plugin={...p,translation:{sourceHash:sourceHash(p),status:'translated'}};assert.equal(make(plugin,'same','same').needs_translation,false);assert.equal(make(plugin,'same','same').needs_publish,false);});
+test('changed original invalidates translation',()=>assert.equal(make({...p,translation:{sourceHash:'old',status:'translated'}}).needs_translation,true));
+test('backlog continues even without a changed manifest',()=>assert.equal(make(p,'same','same','translate').needs_translation,true));
+test('missing body and removed entries are ineligible',()=>{assert.equal(make({...p,description:''}).needs_translation,false);assert.equal(make({...p,status:'removed'}).needs_translation,false);});
+test('sync forces publication without translation',()=>{const result=make(p,'same','same','sync');assert.equal(result.needs_translation,false);assert.equal(result.needs_publish,true);});
+test('first publication and changed generation require publication',()=>{assert.equal(plan({plugins:{}},{id:'new'},null,'translate').needs_publish,true);assert.equal(make().needs_publish,true);});
+test('schedule and manual operation selection',()=>{assert.equal(operation({event:'push'}),'sync');assert.equal(operation({schedule:'23 4,8,12 * * *'}),'translate');assert.equal(operation({schedule:'23 0 * * *'}),'incremental');assert.equal(operation({requested:'full',event:'push'}),'full');});
