@@ -5,7 +5,7 @@ import {translationCurrent} from './model.mjs';
 export function operation({requested='',event='',schedule=''}={}){
   if(requested)return requested;
   if(event==='push')return 'sync';
-  return schedule==='23 4,8,12 * * *'?'translate':'incremental';
+  return schedule==='0 4,8,12 * * *'?'translate':'incremental';
 }
 export function plan(state,manifest,published,mode){
   const pending=Object.values(state.plugins).filter(p=>p.status!=='removed'&&p.description&&!translationCurrent(p)).length;
