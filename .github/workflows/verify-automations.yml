@@ -1,0 +1,37 @@
+name: Verify automation scripts
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/chatgpt-plugins/**'
+      - '.github/workflows/verify-automations.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - '.github/scripts/chatgpt-plugins/**'
+      - '.github/workflows/verify-automations.yml'
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: "24"
+      - name: Verify Playwright script
+        working-directory: .github/scripts/chatgpt-plugins
+        run: |
+          npm ci --ignore-scripts
+          node --check crawl.mjs
+          npm test
+          node --test model.test.mjs translate.test.mjs cloudflare-usage.test.mjs state.test.mjs
+          node --check run.mjs
+          node --check state.mjs
+          node --check translate.mjs
+          node --check cloudflare-usage.mjs
+          node --check sync.mjs

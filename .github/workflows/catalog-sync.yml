@@ -1,0 +1,128 @@
+name: Plugin Catalog Full and Incremental Sync
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "full 刷新全部正文；incremental 续跑与变化更新；translate 仅补译；sync 仅同步已保存目录与图标"
+        default: incremental
+        type: choice
+        options: [incremental, full, translate, sync]
+      detail_limit:
+        description: "本次最多抓取详情（0–20000），默认覆盖全量队列"
+        default: "10000"
+        type: string
+      translation_limit:
+        description: "本轮最多翻译插件数（0–20000；0 表示不限）"
+        default: "250"
+        type: string
+      max_minutes:
+        description: "任务预算分钟（1–240），到点保存进度"
+        default: "210"
+        type: string
+      allow_large_removals:
+        description: "仅确认目录真实减少超过 20% 后启用；仍需两次完整扫描"
+        default: false
+        type: boolean
+  schedule:
+    - cron: '23 0 * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/catalog-sync.yml'
+      - '.github/scripts/chatgpt-plugins/run.mjs'
+      - '.github/scripts/chatgpt-plugins/model.mjs'
+      - '.github/scripts/chatgpt-plugins/translate.mjs'
+      - '.github/scripts/chatgpt-plugins/translate.test.mjs'
+      - '.github/scripts/chatgpt-plugins/cloudflare-usage.mjs'
+      - '.github/scripts/chatgpt-plugins/cloudflare-usage.test.mjs'
+      - '.github/scripts/chatgpt-plugins/state.mjs'
+      - '.github/scripts/chatgpt-plugins/sync.mjs'
+      - '.github/scripts/chatgpt-plugins/sync-client.mjs'
+      - '.github/scripts/chatgpt-plugins/sync-client.test.mjs'
+permissions:
+  contents: write
+  id-token: write
+concurrency:
+  group: plugin-catalog-pipeline
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    env:
+      STATE_DIR: ${{ github.workspace }}
+      OUTPUT_DIR: ${{ github.workspace }}/catalog-results
+      SITE_BASE_URL: ${{ vars.SITE_BASE_URL || 'https://plugin.ipotatouv.chatgpt.site' }}
+      SITES_SERVICE_TOKEN: ${{ secrets.SITES_SERVICE_TOKEN }}
+    defaults:
+      run:
+        working-directory: .github/scripts/chatgpt-plugins
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: .github/scripts/chatgpt-plugins/package-lock.json
+      - name: Install and verify pipeline
+        id: verify
+        run: |
+          npm ci --ignore-scripts
+          npm test
+          node --test model.test.mjs translate.test.mjs cloudflare-usage.test.mjs state.test.mjs sync-client.test.mjs
+          node --check run.mjs
+          node --check state.mjs
+          node --check translate.mjs
+          node --check cloudflare-usage.mjs
+          node --check sync.mjs
+      - name: Install Chromium
+        if: github.event.inputs.mode != 'translate' && github.event.inputs.mode != 'sync' && github.event_name != 'push'
+        run: npx playwright install --with-deps chromium
+      - name: Collect and translate with resumable checkpoints
+        if: github.event.inputs.mode != 'sync' && github.event_name != 'push'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          AI_TRANSLATION_BACKEND: ${{ vars.AI_TRANSLATION_BACKEND || 'workers-ai' }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_BASE_URL: ${{ vars.AI_BASE_URL || secrets.AI_BASE_URL }}
+          AI_MODEL: ${{ vars.AI_MODEL || secrets.AI_MODEL }}
+          WORKERS_AI_MODEL: ${{ vars.WORKERS_AI_MODEL }}
+          AI_CONCURRENCY: ${{ vars.AI_CONCURRENCY || '3' }}
+          AI_MAX_RETRIES: ${{ vars.AI_MAX_RETRIES || '4' }}
+          AI_RETRY_BASE_MS: ${{ vars.AI_RETRY_BASE_MS || '2000' }}
+          AI_REQUEST_TIMEOUT_MS: ${{ vars.AI_REQUEST_TIMEOUT_MS || '120000' }}
+          AI_USER_AGENT: ${{ vars.AI_USER_AGENT }}
+          AI_ORIGINATOR: ${{ vars.AI_ORIGINATOR || 'codex_cli_rs' }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID || secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_AI_DAILY_NEURON_LIMIT: ${{ vars.CLOUDFLARE_AI_DAILY_NEURON_LIMIT || '8500' }}
+          CLOUDFLARE_AI_USAGE_CHECK_EVERY: ${{ vars.CLOUDFLARE_AI_USAGE_CHECK_EVERY || '5' }}
+          MODE: ${{ github.event.inputs.mode || 'incremental' }}
+          DETAIL_LIMIT: ${{ github.event.inputs.detail_limit || '10000' }}
+          TRANSLATION_LIMIT: ${{ github.event.inputs.translation_limit || vars.AI_TRANSLATION_LIMIT || '250' }}
+          MAX_MINUTES: ${{ github.event.inputs.max_minutes || '210' }}
+          MAX_SCROLLS: '250'
+          ALLOW_LARGE_REMOVALS: ${{ github.event.inputs.allow_large_removals || 'false' }}
+        run: xvfb-run -a node run.mjs
+      - name: Persist progress and publication manifest to main
+        if: always() && steps.verify.outcome == 'success' && github.event.inputs.mode != 'sync' && github.event_name != 'push'
+        id: persist
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node state.mjs
+      - name: Synchronize Sites D1 and R2 using repository identity
+        if: always() && steps.verify.outcome == 'success' && (github.event_name == 'push' || steps.persist.outcome == 'success' || github.event.inputs.mode == 'sync')
+        env:
+          GITHUB_EVENT_INPUTS_MODE: ${{ github.event.inputs.mode }}
+        run: node sync.mjs
+      - name: Upload progress and diagnostics
+        if: always()
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: catalog-progress-${{ github.run_id }}-${{ github.run_attempt }}
+          path: catalog-results/
+          if-no-files-found: warn
+          retention-days: 7
