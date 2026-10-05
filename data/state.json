@@ -57511,9 +57511,22 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:08:47.472Z",
       "translationAttemptRun": "37342451051:1",
-      "translationError": {
-        "at": "2026-10-03T16:08:47.797Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translation": {
+        "summary": "检查 x402 门和收据",
+        "description": "SCVD x402 Verifier 检查付款挑战而无需付款,验证签名的 x402 报价和收据,读取记录的终端准备,解释缺陷类,检查 SCVD 文物签名。结果描述了证据和限制;他们不建立交付或保证提供商。所有工具都是免费的,无需钱包或登录。呼叫记录使用统计数据。对于没有记录的探测器的合格主机,准备查询添加主机名,并要求向公共排队进行后续发现扫描;呼叫者身份不包括在那个排队中。",
+        "sourceHash": "cbb657074e7d5f6ee086d6ada2ce6f7a826e4602b9603e8fa2e06b7ab0b93ef5",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:45:07.695Z",
+        "usage": {
+          "prompt_tokens": 726,
+          "completion_tokens": 891,
+          "total_tokens": 1617,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 30.510467529296875
+        }
       }
     },
     "plugin_asdk_app_6aa95107d094819192324cfe1acf2985": {
@@ -57624,9 +57637,22 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:08:51.405Z",
       "translationAttemptRun": "37342451051:1",
-      "translationError": {
-        "at": "2026-10-03T16:08:52.458Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translation": {
+        "summary": "量子计算工作空间",
+        "description": "qBraid 帮助用户探索量子设备,验证和模拟电路,提交量子工作并检查结果. 用户可以管理云计算,检查笔记本和软件环境,浏览 qBook 课程,注册课程,并在授权时审查学习者进度。 它还支持组织会员和信用工作流程,计费总结和支持请求。 信用购买和课程创建或重新部署是通过此应用程序不可用。",
+        "sourceHash": "e03632cce8b55cba3170ea4748dccd2750798bab9f205cf065683f1d05d4a99a",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:45:17.305Z",
+        "usage": {
+          "prompt_tokens": 711,
+          "completion_tokens": 913,
+          "total_tokens": 1624,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 31.111541748046875
+        }
       }
     },
     "plugin_asdk_app_6a3676302a7c8191b136b250046dd761": {
@@ -57673,10 +57699,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:08:54.133Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:08:54.441Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "在虚拟芯片上运行固件",
+        "description": "LabWired 运行真正的嵌入式固件在微控制器(ARM Cortex-M, RISC-V 和 ESP32)的确定性模拟上,直接在对话中。 选择一个板,与传感器,显示器和巴士连接一个 MCU,编译固件,并在您可以观看的交互式硬件实验室中运行 - 无需物理板。 相同的固件二进制在模拟器中运行,所以结果足够可复制来调试和打开 CI。 LabWired 在运行前验证您的连接,列出它所支持的板和组件,从源头编译固件,并打开嵌入 ChatGPT 中的实时实验室视图,您可以看到 GPIO,系列输出和外部设备实时响应。",
+        "sourceHash": "8e06e8cecc3dea3249c8b7167f695401056433d09a9974041382286b1ee80b82",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:45:27.001Z",
+        "usage": {
+          "prompt_tokens": 757,
+          "completion_tokens": 717,
+          "total_tokens": 1474,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 25.351219177246094
+        }
       }
     },
     "plugin_asdk_app_6a1e153fb60c8191a1532e5db9b7fe83": {
@@ -57723,10 +57762,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:08:56.060Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:08:56.368Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "为AI代理商设计系统",
+        "description": "更好的设计为AI编码代理提供了前端工作的设计工程层。\n\nDesign Intelligence 模式在代理人编写 UI 代码之前加载 UI 原则,然后要求代理人对可访问性、视觉设计、运动、内容和理解规则进行自我审查。\n\nScaffold 模式允许代理人安装完整的 shadcn 兼容的视觉系统:代币、全球和组件源. Better Design 还可以从自然语言提示中生成新的自定义设计系统,并返回由此产生的注册表的 shadcn 安装命令。\n\nMCP 服务器暴露了用于寻找和生成设计系统的工具,加载 UI/UX 和 React Native 指导,审查接口质量,提取现有 CSS 代币,并安装图标组件。",
+        "sourceHash": "63d7926ef0bca81e0d287b45513b813c3e1f2b44a965adaf3c6c107b13d21d89",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:45:36.005Z",
+        "usage": {
+          "prompt_tokens": 793,
+          "completion_tokens": 1274,
+          "total_tokens": 2067,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 42.49215316772461
+        }
       }
     },
     "plugin_asdk_app_6a9c56474bd881919827570089abe155": {
@@ -57773,10 +57825,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:08:58.025Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:08:58.333Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "使用 Sign-in 部署 Web 应用",
+        "description": "Tiniest Cloud 主持静态 Web 应用程序,每个应用程序都提供一个登录、用户存储、实时、推送通知、日程工作和一个没有任何配置的语言模型。从一个对话中,您可以部署一个文件夹并获得直播 URL,通过电子邮件与某人共享应用程序,回滚到以前的版本,连接第三方 API 而无需将其钥匙放在页面中,计划重复工作,并将应用程序放到自己的域。",
+        "sourceHash": "591546ac04172a502c796f02cdfa51bf7f8704aad392ff01f2ec31c246f8582b",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:45:32.748Z",
+        "usage": {
+          "prompt_tokens": 701,
+          "completion_tokens": 946,
+          "total_tokens": 1647,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 32.07096481323242
+        }
       }
     },
     "plugin_asdk_app_6a5c3e5e745881918b228734236a933d": {
@@ -57823,10 +57888,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:08:59.983Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:00.291Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "AI 代理商的共享记忆",
+        "description": "AiAkiv 是 AI 代理人和团队成员通过 MCP 共享的长期内存,它将您的对话中的重要部分保存为知识图表,并在会话、工具和团队成员之间回忆起它们,因此一个 AI 将保存背景,另一个将被收集,整个团队将从一个共享内存中工作,而不是分散的私人聊天。",
+        "sourceHash": "bd77669ba2f147b6ee66809e7dc943f27ff16c1e2945146643f1e8586dbdc17a",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:45:35.011Z",
+        "usage": {
+          "prompt_tokens": 709,
+          "completion_tokens": 785,
+          "total_tokens": 1494,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 27.201522827148438
+        }
       }
     },
     "plugin_asdk_app_6a9f3ff2e7908191a15ba5654d952e0d": {
@@ -57873,10 +57951,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:02.240Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:02.547Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "支持证据的软件",
+        "description": "Vioscale AI帮助用户发现,比较和评估软件,使用基于证据的事实,透明的分数和规范引用。",
+        "sourceHash": "5f433a61c0b339e69c12e43691b0b1bde01b81778cb74cf19111ccf33159e9d1",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:45:41.679Z",
+        "usage": {
+          "prompt_tokens": 633,
+          "completion_tokens": 682,
+          "total_tokens": 1315,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 23.71115493774414
+        }
       }
     },
     "plugin_asdk_app_6a91e4895594819184be7d56ec39bd54": {
@@ -57923,10 +58014,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:04.185Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:04.493Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "构建和托管现场Web应用程序",
+        "description": "Tessryx给了一个代理人建立一个地方. 从聊天中,它为真实的网站,API或内部工具创建了数据,逻辑,页面和日程工作,Tessryx在用户自己的域上的公共URL上托管了它们。\n\n工具支持的主要工作流程: - 创建 JSON 方案,然后对其进行验证的数据文件. 相同的方案生成了一个编辑界面,因此非技术人员可以随后在没有代理的情况下维护内容。 - 创建工作流程返回 HTML 或 JSON,并将其绑定到公共 URL 作为边缘缓存的动态终端。 - 一个终端既服务于渲染页面和页面本身的 JavaScript 呼叫的 API 路径。 - 定义对外部系统的参数化 HTTP 呼叫,凭证保留为只写秘密,助手可以参考,但永远不会阅读。\n\n身份验证是 OAuth 2.1;没有用户可以管理的 API 密钥。",
+        "sourceHash": "e80a1ded3c552d7f4b048d3a483d87787dba0b4f6a579ed4a0df249a0b99a080",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:46:00.565Z",
+        "usage": {
+          "prompt_tokens": 845,
+          "completion_tokens": 899,
+          "total_tokens": 1744,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 31.304590225219727
+        }
       }
     },
     "plugin_asdk_app_6aacf78d67d48191a4919b49f37c2579": {
@@ -57973,10 +58077,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:06.210Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:06.518Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "AI驱动的软件测试",
+        "description": "借助 nunu.ai 插件,您可以自动化您的 QA 测试。 自然语言的作者测试案例,并在真实的 Android 和 iOS 设备、Windows VM 和浏览器上运行它们。 自动检查过去的运行,审查错误,并更新测试案例。 创建完整的测试计划,并在每个新构建或时间表上运行它们。",
+        "sourceHash": "c28042501b8f466ac245143de1428330a7701eeae43077d44a243da32989cf67",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:45:55.186Z",
+        "usage": {
+          "prompt_tokens": 678,
+          "completion_tokens": 738,
+          "total_tokens": 1416,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 25.62584686279297
+        }
       }
     },
     "plugin_asdk_app_69fa07fe5ba48191a4ea47c4d7d55a69": {
@@ -58023,10 +58140,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:08.169Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:08.477Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "构建和测试见解",
+        "description": "Tuist 帮助团队检查 Xcode、Gradle 和 Bazel 构建数据、测试结果、缓存活动、预览、运行任务和项目配置,还支持授权帐户设置和选定的试用案例更新。",
+        "sourceHash": "cb9b9c758d4b2d7d94172a5eb3fbf14bb55ec1bff3c8b7555b65e6c15c704f94",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:45:55.401Z",
+        "usage": {
+          "prompt_tokens": 651,
+          "completion_tokens": 968,
+          "total_tokens": 1619,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 32.51018142700195
+        }
       }
     },
     "plugin_asdk_app_6aa02bd506908191bbf12fc2ec2f3161": {
@@ -58073,10 +58203,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:10.149Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:10.457Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "对AI代理人的观察能力",
+        "description": "AI 代理的可观察性:使用 SQL 查询您的日志、痕迹、指标和错误,构建仪表板和图表警报,管理工作时间监视器,响应事件,查看谁在呼叫,并发布状态页面报告。",
+        "sourceHash": "52db067f385c5029e3c0fa3ed77ef06330fcf9e5a2d4a51629222b90c62fe147",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:46:04.299Z",
+        "usage": {
+          "prompt_tokens": 686,
+          "completion_tokens": 582,
+          "total_tokens": 1268,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 20.90877914428711
+        }
       }
     },
     "plugin_asdk_app_6a9a3c1cd0108191807da33c4cd319ed": {
@@ -58124,10 +58267,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:12.170Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:12.477Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "Clerk SDK 代码示例",
+        "description": "Clerk 帮助开发人员找到用于身份验证、登录和登录、组织、访问控制和计费集成的 SDK 代码示例。",
+        "sourceHash": "16a1d5f70529e7e81143c2ecaacd4a9ba98126d31ed234cf0d0943e4f972b3fa",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:46:05.058Z",
+        "usage": {
+          "prompt_tokens": 655,
+          "completion_tokens": 626,
+          "total_tokens": 1281,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 22.106306076049805
+        }
       }
     },
     "plugin_asdk_app_6a898067d0b08191af8af6660eb1a9a5": {
@@ -58174,10 +58330,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:14.202Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:14.511Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "解释公共代码历史",
+        "description": "RepoLore帮助开发人员了解为什么公共GitHub代码存在,通过追踪文件和行范围,通过委托,拖拉请求,问题,补丁和回归证据。",
+        "sourceHash": "b693a0c0d88a2c8b5831e932840ef969aace344f7e3f0269f90a9a374bbc85ae",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:46:11.424Z",
+        "usage": {
+          "prompt_tokens": 640,
+          "completion_tokens": 671,
+          "total_tokens": 1311,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 23.40830421447754
+        }
       }
     },
     "plugin_asdk_app_6a563d3bd288819196199d33db4cfc55": {
@@ -58224,10 +58393,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:16.212Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:16.521Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "旗帜,AI配置和指标",
+        "description": "管理LaunchDarkly功能旗,AgentControl配置(AI代理提示/模型),实验,受保护和自动部署,细分,指标,仪表板,警报和可观性数据(日志,痕迹,错误,会话)直接从聊天中创建和瞄准旗帜,运行和分析实验,配置AI代理提示和工具,构建仪表板和警报,并调查生产问题而不离开谈话。",
+        "sourceHash": "8b39d84b54ba3628292abb04716e8fe9b03bf4e05e2edc215faad925605f8c53",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:46:15.309Z",
+        "usage": {
+          "prompt_tokens": 694,
+          "completion_tokens": 759,
+          "total_tokens": 1453,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 26.33980941772461
+        }
       }
     },
     "plugin_asdk_app_6aa2c81fc7c48191a06e101858e41837": {
@@ -58274,10 +58456,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:18.186Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:18.494Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "从Chat管理您的服务器",
+        "description": "Termalin 连接你的服务器到聊天. 请 ChatGPT 检查磁盘空间,尾声日志,重新启动服务,编辑配置或安装包 - 它通过 SSH 运行真实命令,在你注册的服务器上读取或写文件 SFTP,并在对话中报告。 它还可以列出表并通过相同的安全路径在数据库中运行仅读或完整的查询。 没有 SSH 密钥被粘贴到任何地方:服务器通过 Termalin Connectors (一行安装)连接到外部,每个运行都通过短期证书进行身份验证,并从您的 termal.in 帐户获得 OAuth 访问。 您可以控制:每连接政策(完全访问,允许命令列表或仅读),每个操作的完整审计路线,并单\n\n要开始,你需要一个 termal.in 帐户(专业,团队或试用)至少有一个连接器注册(设置 →连接器,一行安装)和一个验证的电子邮件。",
+        "sourceHash": "c15755a652d67140c90f6b09a1b4c95c8edf6882d9a0d96506231afd65454cb9",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:46:21.296Z",
+        "usage": {
+          "prompt_tokens": 839,
+          "completion_tokens": 813,
+          "total_tokens": 1652,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 28.65601348876953
+        }
       }
     },
     "plugin_asdk_app_6aa10c1a74c48191bd03e5237a024445": {
@@ -58324,10 +58519,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:20.170Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:20.478Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "通过描述它来构建一个宏",
+        "description": "用日常语言描述您想要的自动化,并获得完整的 MacroDroid 宏,准备在您的 Android 手机上导入。\n\nMacroDroid 是超过一百万用户每天使用的 Android 自动化应用程序,用触发器、操作和限制来自动化他们的设备:在会议上保持沉默,在电池低时关闭 WiFi,在开车时大声阅读消息,在回家时发送您的位置,以及其他数千个。\n\n此插件为 ChatGPT 提供了完整的 MacroDroid 功能目录(超过 400 个触发器、操作和限制),每个功能的准确 JSON 布局,以及在你看到它之前检查完成的宏的验证器。\n\n将结果导入,将其保存为 .macro 文件,并在 Macros 卡上选择导入,或者将其粘贴到 remote.macrodroid.com 的 Macro Builder 中,直接发送到您的手机。\n\n无需帐户或登录,您输入的任何内容都不会被 MacroDroid 存储。",
+        "sourceHash": "1740b7afc3351a172a617e16d6beb6432657c25a6f89d3a377deb9789f9350db",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:46:36.922Z",
+        "usage": {
+          "prompt_tokens": 845,
+          "completion_tokens": 810,
+          "total_tokens": 1655,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 28.592336654663086
+        }
       }
     },
     "plugin_asdk_app_6aa2109570b0819194170aae3449f6fb": {
@@ -58374,10 +58582,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:22.170Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:22.479Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "构建和分析负载测试",
+        "description": "Loadster 帮助用户创建和播放测试脚本,准备负载测试场景,配置合成监视器,并通过 ChatGPT 调查完成的测试和监控结果。",
+        "sourceHash": "927d924d7ae66696f919dd1046921fea371f7fbd004584f11653fdfc7683b3c3",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:46:26.474Z",
+        "usage": {
+          "prompt_tokens": 639,
+          "completion_tokens": 628,
+          "total_tokens": 1267,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 22.093263626098633
+        }
       }
     },
     "plugin_asdk_app_6a69853c7df08191801acfc8ff769b01": {
@@ -58424,10 +58645,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:24.155Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:24.463Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "访问您的 RevenueCat Apps",
+        "description": "设置 RevenueCat,将其集成到您的应用程序中,并访问和分析有关您的客户、收入和购买的数据。",
+        "sourceHash": "da99b1870b7fcf97499d329a2d2dd1c6357efd471fc12cb7860665eff4fb20cf",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:46:33.858Z",
+        "usage": {
+          "prompt_tokens": 632,
+          "completion_tokens": 529,
+          "total_tokens": 1161,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 19.043888092041016
+        }
       }
     },
     "plugin_asdk_app_6aa11dfaeb20819187226d4810e1d94a": {
@@ -58474,10 +58708,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:28.463Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:29.534Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "了解您的AI代理人",
+        "description": "连接您的 Flowlines 帐户以审查 AI 代理活动,比较时间间隔的结果,调查失败的会话,并分析用户群。使用累积指标,信号,主题地图和集中式会话证据来了解结果并识别产品需求。在要求时将独立验证的结果保存为私人工作区笔记。 需要 Flowlines 帐户,可以访问包含代理数据的工作区。 授权的结果可以包括最终用户对话和活动数据; 响应应总结证据并掩盖直接的个人标识符。",
+        "sourceHash": "022e52c90e1c8c116c24b1e7b5cc7109390a700d07781111099fa1ab00ef70bf",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:46:37.703Z",
+        "usage": {
+          "prompt_tokens": 719,
+          "completion_tokens": 973,
+          "total_tokens": 1692,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 32.977027893066406
+        }
       }
     },
     "plugin_asdk_app_6a9e71d5acc88191a706c76291f2b39b": {
@@ -58524,10 +58771,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:31.191Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:32.254Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "搜索开发者docs",
+        "description": "Developer Hub MCP 可帮助用户根据文物名称或内容搜索 Sabre Developer Hub 文档,检查文物细节,检索文档页面,并查看最近更新的文档。",
+        "sourceHash": "6d7d736c4cdae06738745300b457e83a104aa0340f09b36b5aafc309139303e5",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:46:43.679Z",
+        "usage": {
+          "prompt_tokens": 641,
+          "completion_tokens": 653,
+          "total_tokens": 1294,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 22.864381790161133
+        }
       }
     },
     "plugin_asdk_app_6a9ded0caab48191bf35e0382b97d935": {
@@ -58574,10 +58834,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:33.901Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:34.228Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "检查您的域安全",
+        "description": "CYBERACE 域扫描可以检查域的电子邮件、HTTPS 和 DNS 安全性,包括 SPF、DKIM、DMARC、TLS 证书、安全标题、DNSSEC 和区块清单。获取安全分数、每个检查结果和建议的修复,在可用时提供临时报告链接。不需要帐户或 API 密钥。每个扫描存储结果,消耗扫描配额,并可能引发行政通知。这个插件提供按需的公共域扫描;它不访问帐户数据,不配置监控或修改 DNS 记录。",
+        "sourceHash": "a76e31ef6e7faeec24a1d9f127ec79b7e3be2a237f92aa8480b05644a8ee0364",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:46:48.165Z",
+        "usage": {
+          "prompt_tokens": 710,
+          "completion_tokens": 679,
+          "total_tokens": 1389,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 23.97582244873047
+        }
       }
     },
     "plugin_asdk_app_6a91978e41a08191a6e7519ce7c40353": {
@@ -58624,10 +58897,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:35.902Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:36.230Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "图表,QR和条形码",
+        "description": "Chartquery 会从 ChatGPT 生成图表、图表、QR 代码、条形码和标签. 描述数据或效用量,并获得您可以打开的公共渲染 URL。\n\n图表:从简短的图表或结构化图表的图表。图表:AI flowchart或结构化图表。代码:URL和Code128条形码的QR代码。标签:预览,解析,验证,转换,编译。视觉工具返回 https://api.chartquery.com/v1/{kind}/render/{id}?utm_source=chatgpt.com. 显示该URL。\n\n连接时使用 Chartquery 帐户登录. 呼叫使用与 app.chartquery.com 相同的信贷和配额。",
+        "sourceHash": "e4cf807ad21a728e52b14ed926b78c0fbedb5b62bb2c59562f931e6437261fa5",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:47:00.262Z",
+        "usage": {
+          "prompt_tokens": 748,
+          "completion_tokens": 767,
+          "total_tokens": 1515,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 26.833335876464844
+        }
       }
     },
     "plugin_asdk_app_6a9ee7d263108191856c3dad41bebe0b": {
@@ -58674,10 +58960,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:37.924Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:38.252Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "发现和运行API",
+        "description": "使用 ApyHub 查找和调用需要外部处理的任务的生产 API. 根据能力搜索目录,然后调用匹配的终端。 涵盖文件转换(Word, PDF,Excel,图像),文档生成,OCR和文本提取,数据验证(电子邮件,电话,增值税,IBAN,税务ID),丰富,地理位置和IP数据,货币和单位转换,QR和条码生成,档案处理和AI实用工具。",
+        "sourceHash": "d832fd6e04e3a72bd1081d96c04783245a0e16fea07c18eb36fdce1ac78ac30a",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:46:58.995Z",
+        "usage": {
+          "prompt_tokens": 725,
+          "completion_tokens": 975,
+          "total_tokens": 1700,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 33.06572341918945
+        }
       }
     },
     "plugin_asdk_app_6a9a83e37cc4819188896feeab8966ea": {
@@ -58724,10 +59023,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:39.897Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:40.225Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "查询和管理远程测量",
+        "description": "Logfire 帮助工程团队查询远程测量,调查例外,构建仪表板和警报,安装可观察性集成,并在其私人工作区中管理提示和变量。",
+        "sourceHash": "b975a43042e5bd174d1b676483408523685008081ce6e82af6bd36f04ff930ec",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:46:54.544Z",
+        "usage": {
+          "prompt_tokens": 643,
+          "completion_tokens": 644,
+          "total_tokens": 1287,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 22.59935760498047
+        }
       }
     },
     "plugin_asdk_app_6a73b856e4348191a97dc8e3a1e58a94": {
@@ -58774,10 +59086,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:41.905Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:42.232Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "连接数据、设备和代理",
+        "description": "Lobu 允许 ChatGPT 对持久的工作区内存、连接数据、设备、通知渠道和其他代理提供受控的访问权限,用户可以搜索和保存共享背景,查询授权数据,预览更改,并在需要时使用人类批准执行授权检查的操作。",
+        "sourceHash": "b49b91695f7f89650f9878138bea15925979d2923adfaac85b61697d6864fe60",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:47:06.109Z",
+        "usage": {
+          "prompt_tokens": 662,
+          "completion_tokens": 743,
+          "total_tokens": 1405,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 25.704227447509766
+        }
       }
     },
     "plugin_asdk_app_6a7e0055cb1c8191adca1ee424ffa6cc": {
@@ -58824,10 +59149,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:43.882Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:44.211Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "建立和启动您的业务",
+        "description": "通过网络解决方案将您的业务理念转化为一个完整的在线存在。 查找和比较可用的域名,生成标志和品牌身份,创建和定制专业网站,并选择合适的托管,以便使其活跃。 用不同的布局,颜色,字体和图像来完善您的网站,检查域名价格,并在您准备购买和推出时继续使用网络解决方案。 您还可以使用网络解决方案工具来部署现有应用程序,随着新功能的推出,添加电子商务,营销和其他服务来帮助您的业务增长和运营。",
+        "sourceHash": "cce1bf06de375716b77c7a52ecbd702b65a88d7a19c7a12d807d23fe91f41689",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:47:15.721Z",
+        "usage": {
+          "prompt_tokens": 719,
+          "completion_tokens": 726,
+          "total_tokens": 1445,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 25.449756622314453
+        }
       }
     },
     "plugin_asdk_app_6aa92269c998819182b551d35a1cd213": {
@@ -58874,10 +59212,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:45.984Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:46.313Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "构建和预览Web应用程序",
+        "description": "Akwadra 允许用户从 ChatGPT 创建、检查、编辑、验证和预览 Web 应用程序项目。ChatGPT 编写源文件,而 Akwadra 将其存储在注册用户的私人工作空间中。",
+        "sourceHash": "daa55b8eb857e409e17d17221e080048f89a9d9863de888ac987150832f00bcf",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:47:07.930Z",
+        "usage": {
+          "prompt_tokens": 679,
+          "completion_tokens": 666,
+          "total_tokens": 1345,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 23.436288833618164
+        }
       }
     },
     "plugin_asdk_app_6a9951eb4eec819180b4c69e9fc78dba": {
@@ -58924,10 +59275,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:47.965Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:48.293Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "创建和管理联系表格",
+        "description": "使用 HTML.contact by 854 Labs 创建您的网站的联系表格,而不构建自定义后端。 获取可安装的 HTML,修复表单设置问题,将电子邮件通知路由到已验证的收件人,并审查所选提交内容。 还支持 lead capture、feedback 和 waitlist 表单。 使用您的链接的 html.contact 帐户; 更改和电子邮件测试需要确认。",
+        "sourceHash": "78e401d1b3d520cd8e971c6f999b09a866e3dc893f4abfa89290b3af7222aab7",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:47:21.561Z",
+        "usage": {
+          "prompt_tokens": 681,
+          "completion_tokens": 1006,
+          "total_tokens": 1687,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 33.80696105957031
+        }
       }
     },
     "plugin_asdk_app_6ab6de6dd34c8191afd2b8eebdc9cfed": {
@@ -58974,10 +59338,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:50.069Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:50.397Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "优化代码性能",
+        "description": "CodSpeed有助于用户通过测量性能数据优化代码,检查基准运行,比较更改,分析闪电图以找到瓶颈并验证改进。",
+        "sourceHash": "8345e19c0be712f4e5cf8959e9615929f6ccb6da227979c60b565822ccb711f2",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:47:14.936Z",
+        "usage": {
+          "prompt_tokens": 653,
+          "completion_tokens": 479,
+          "total_tokens": 1132,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 17.617267608642578
+        }
       }
     },
     "plugin_asdk_app_6aa311aad644819191f07573f21b77ca": {
@@ -59024,10 +59401,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:52.035Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:52.364Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "分析可观测数据",
+        "description": "Honeycomb帮助用户调查可观测数据,检查线索,AI对话和异常信号,运行查询和BubbleUp分析,管理警报和仪表板,并通过ChatGPT遵循仪器迁移指南。",
+        "sourceHash": "7de525fb0e5d5f40f69143c0420198f211c8116038dc278b60a834738088a1fa",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:47:24.734Z",
+        "usage": {
+          "prompt_tokens": 654,
+          "completion_tokens": 776,
+          "total_tokens": 1430,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 26.67289924621582
+        }
       }
     },
     "plugin_asdk_app_6a5656ef5c5481918d7561fc9dced082": {
@@ -59074,10 +59464,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:54.091Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:54.418Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "使用知识图形工作",
+        "description": "WarmHub 帮助用户检查存储库和方案,搜索和浏览版本的知识图表,验证和提交结构化委托,管理收藏,并从 ChatGPT 配置 webhook 订阅。",
+        "sourceHash": "2c78b789a82d4dec1201af95433b4f59509dc7447d3682629868cafd3ae7c3fa",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:47:24.797Z",
+        "usage": {
+          "prompt_tokens": 642,
+          "completion_tokens": 622,
+          "total_tokens": 1264,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 21.924287796020508
+        }
       }
     },
     "plugin_asdk_app_69d3e530928c819191a9738ef3f4def6": {
@@ -59124,10 +59527,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:09:56.081Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:09:56.408Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "查询欺诈 & 设备信号",
+        "description": "Fingerprint MCP 服务器将 ChatGPT 直接连接到 Fingerprint 的设备智能平台,使欺诈分析师、开发人员和安全团队能够更快地调查可疑活动并了解流量模式。\n\n指纹捕获设备情报信号,包括机器人检测,VPN使用,浏览器篡改和访问者行为,在您的高风险页面和操作,如登录,支票和帐户创建。\n\n试试像这样的快点:\n\n“显示我上个小时的机器人流量” - “这个登录峰值是协调操作的一部分吗?” - “谁是我的最可疑的访问者,为什么?” - “帮助我实施指纹来保护我的网站。\n\nChatGPT 查询您的指纹工作区,并在几秒钟内返回见解,开发人员还可以使用它来构建和整合指纹到他们的应用程序中,在不离开谈话的情况下获得设置,配置和最佳实践的指导。\n\n登录你的指纹帐户开始. 新到指纹? 注册免费在fingerprint.com。",
+        "sourceHash": "b43f79f1c0e049d760c5bb278d62857eba569ab936291269ae07f415f3c85464",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:47:40.102Z",
+        "usage": {
+          "prompt_tokens": 829,
+          "completion_tokens": 981,
+          "total_tokens": 1810,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 33.72952651977539
+        }
       }
     },
     "plugin_asdk_app_6a2c0bf33cb48191884d842b15ad3c20": {
@@ -59198,10 +59614,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:10:02.133Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:10:03.146Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "文件代码",
+        "description": "DocuWriter 是一个人工智能驱动的平台,用于为完整的代码库创建和管理完整的结构化文档。 团队可以连接存储库并生成涵盖架构、模块、服务、类、功能、依赖、API、图表、READMEs 和其他技术组件的文档。 它支持单个存储库和更大的多存储库系统。 从 ChatGPT,用户可以通过空间、语义搜索、自动驾驶和存储库工作流程来处理该集中化文档。",
+        "sourceHash": "04c320c881acb99064b50cb732681d83d3dc3f2a7adc9de6353e36a315ac75ee",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:47:33.223Z",
+        "usage": {
+          "prompt_tokens": 699,
+          "completion_tokens": 658,
+          "total_tokens": 1357,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 23.28498077392578
+        }
       }
     },
     "plugin_asdk_app_6a7ae2ab834c8191a93649ac23775d1f": {
@@ -59248,10 +59677,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:10:04.815Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:10:05.134Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "连接定制域名",
+        "description": "doDomain 是域连接作为服务:它为产品提供指向客户自己的域的导向流程,并处理其背后的 DNS 记录、验证和证书。 doDomain 插件允许 ChatGPT 驱动程序从您的帐户中工作:检查域的当前 DNS 状态,列出您团队配置的应用程序,列出现有的域连接,为客户创建新的连接会话,搜索您已经开始的会话,一旦记录已经在位,检查会话,并在连接中重新运行验证。\n\n通过 PKCE 和动态客户端登记的 OAuth 2.1 进行访问。在同意屏幕上,每个功能都被授予范围 - 域、应用、连接和会话的单独阅读和写入范围 - 并且您未授予范围的工具从未被提供给助手。\n\n创建连接会话与您的计划的每月连接配额计数;验证检查是有限的,所以在同一连接上重复重新验证将被告知等待,而不是默默地重复。",
+        "sourceHash": "c4dd98d8e12ed7bce82ce36ddcaaeac1869f620797347ecedf80ac161ed27f92",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:47:45.060Z",
+        "usage": {
+          "prompt_tokens": 866,
+          "completion_tokens": 877,
+          "total_tokens": 1743,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 30.73126220703125
+        }
       }
     },
     "plugin_asdk_app_6aa136938ca08191808d78bef2e7a887": {
@@ -59298,10 +59740,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:10:06.836Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:10:07.157Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "构建易于访问的界面",
+        "description": "搜索 Vlak 的组件目录,检查准确的 React 附件和可访问性指南,并获得对包、CLI、shadcn 注册表或仅使用 CSS 的验证安装说明。",
+        "sourceHash": "fab3fe50b66eb7f41a641d90e2a5ff9a0c08e4f121adf932883b9239a5da6e98",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:47:42.021Z",
+        "usage": {
+          "prompt_tokens": 658,
+          "completion_tokens": 631,
+          "total_tokens": 1289,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 22.272554397583008
+        }
       }
     },
     "plugin_asdk_app_6a96923ff47481919800bde485be3075": {
@@ -59348,10 +59803,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:10:08.859Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:10:09.179Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "查询和优化数据库",
+        "description": "PlanetScale 是一个托管的 MySQL/Vitess 和 Postgres 数据库平台. 该应用连接 ChatGPT 到您的 PlanetScale 数据库,以便诊断慢性或失败的查询并修复它们. 它读取方案,运行查询,并使用 PlanetScale Insights 来识别慢性终端背后的准确查询或索引问题,然后建议或应用更改以保护破坏性操作。 它还审查日志和集群大小,搜索文档,并通过 Stripe Checkout 管理计费。",
+        "sourceHash": "2d47be0f2afcdc3dacfe6cd7de75caa36bd421c38cef535c19cca9700a23cc2f",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:47:48.809Z",
+        "usage": {
+          "prompt_tokens": 700,
+          "completion_tokens": 614,
+          "total_tokens": 1314,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 21.94871711730957
+        }
       }
     },
     "plugin_asdk_app_6aac044a3e4c819182c689d8be994de5": {
@@ -59398,10 +59866,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:10:10.929Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:10:11.249Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "自动软件交付",
+        "description": "Harness 帮助用户检查软件交付状况,诊断失败的执行,查找交付资源,并在他们的 Harness 帐户中执行授权创建,更新,删除和执行操作。",
+        "sourceHash": "26187dc066a5b4d2ae5239cbb484bf5c8cdae234fc53c4fcaa04b44567e49861",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:47:48.349Z",
+        "usage": {
+          "prompt_tokens": 643,
+          "completion_tokens": 420,
+          "total_tokens": 1063,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 15.77301025390625
+        }
       }
     },
     "plugin_asdk_app_6a90296230f4819180d857f69ebe7f2e": {
@@ -59448,10 +59929,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:10:12.919Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:10:13.239Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "构建和管理Expo应用程序",
+        "description": "Expo 帮助开发人员找到官方指导,准备兼容的依赖和 EAS 工作流程,管理构建和工作流程,在云沙盒中创建和运行命令,设置构建使用预算,检查崩溃和存储反馈,并通过 ChatGPT 响应 App Store 和 Google Play 评论。",
+        "sourceHash": "155f2c07e0613b32c06c81222b5ec2048c31ce2324a08133a7095373d8b7ea5d",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:47:54.278Z",
+        "usage": {
+          "prompt_tokens": 664,
+          "completion_tokens": 681,
+          "total_tokens": 1345,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 23.82404136657715
+        }
       }
     },
     "plugin_asdk_app_6ab6537385e081919ae488e0314e4dab": {
@@ -59498,10 +59992,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:10:14.919Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:10:15.239Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "查看 App Store 评论时间",
+        "description": "评论时报显示,AI应用程序,连接器和插件商店现在需要多长时间来审查提交,包括ChatGPT插件,Claude,Meta Muse,Grok和Cursor。\n\n在提交之前询问(“ChatGPT插件审查需要多长时间?”),检查已经安静的审查是否正常,或者在推出之前比较商店。\n\n这些数字来自开发人员的报告,与其来源链接的公共帖子,以及公众评论排队. 如果您想要的话,您可以添加自己的提交,以便数字对每个人都更好。",
+        "sourceHash": "b185965bd6603e8357f5885dfb9f94d59566c754f7351379f0a26f240e35ab72",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:48:04.750Z",
+        "usage": {
+          "prompt_tokens": 758,
+          "completion_tokens": 689,
+          "total_tokens": 1447,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 24.50255012512207
+        }
       }
     },
     "plugin_asdk_app_6a956527ac488191b306c03418ae081f": {
@@ -59548,10 +60055,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:10:17.184Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:10:17.503Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "管理媒体和视图分析",
+        "description": "轻松管理视频和图像库,获取实时性能分析,组织工作区,并自动化媒体处理工作流程,而不离开对话。",
+        "sourceHash": "fccc20145b508a1c9c464cdad3308289aff11b2a7ea5a4b47823a543ae37be0d",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:47:55.572Z",
+        "usage": {
+          "prompt_tokens": 638,
+          "completion_tokens": 613,
+          "total_tokens": 1251,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 21.63151741027832
+        }
       }
     },
     "plugin_asdk_app_6a7045fe403c81918e49f176b04c3035": {
@@ -59598,10 +60118,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:10:19.365Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:10:19.685Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "移动交付安全检查",
+        "description": "mach 连接一个经过批准的帐户来检查 Flutter、React Native 和 Expo 交付工作:项目、云构建、商店提交、OTA 发布、Maestro 测试运行和帐户使用。",
+        "sourceHash": "da8ec45fe738a52d34bcd00bae7eda4a9053b2a57525640c0b526ec5ec2a5172",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:48:05.874Z",
+        "usage": {
+          "prompt_tokens": 662,
+          "completion_tokens": 727,
+          "total_tokens": 1389,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 25.216632843017578
+        }
       }
     },
     "plugin_asdk_app_6a9a645c20f4819187369704eae1f1ec": {
@@ -59648,10 +60181,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:10:21.265Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:10:21.585Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "探索现场区块链数据",
+        "description": "Etherscan 将公共区块链数据带入 ChatGPT. 用户可以检查钱包余额和活动,代币转移,交易和收据,验证的合同来源和 ABI,事件日志,块,天然气推荐和支持的 EVM 链,然后在交互式 Etherscan 卡中显示所选择的结果。",
+        "sourceHash": "cad685abb2df5af47b8d422b85593d3ab56a98ba24a43b391b07b41e28022328",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:48:02.171Z",
+        "usage": {
+          "prompt_tokens": 680,
+          "completion_tokens": 498,
+          "total_tokens": 1178,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 18.321151733398438
+        }
       }
     },
     "plugin_asdk_app_6ab70b1720748191bcfd401a52975db0": {
@@ -59698,10 +60244,11 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:10:23.250Z",
-      "translationAttemptRun": "37134929786",
+      "translationAttemptRun": "37342451051:1",
       "translationError": {
-        "at": "2026-10-03T16:10:23.569Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+        "at": "2026-10-05T16:48:05.237Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 401",
+        "transient": false
       }
     },
     "plugin_asdk_app_6aa8935a002c8191a3b3d80407716bbb": {
@@ -59748,10 +60295,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:10:25.235Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:10:25.554Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37342451051:1",
+      "translation": {
+        "summary": "检查AI模型文物",
+        "description": "检查附加的 AI 模型部署文件而不执行模型代码。 DEEPBOM 分析在浏览器中支持的 TFLite, ONNX, GGUF, SafeTensors, Core ML 和 ExecuTorch 文件,并报告 SHA-256,序列结构,压缩编码,量化证据和静态结果。 探索模型 IR 表和可视化,并导出 SVG, PNG, Word-ready bundles, CycloneDX 1.7 文物证据,或 SPDX 2.3 文物库存。 使用发送 PNG 聊天以共享选定的可视化或通过 ChatGPT 保存以获得生成的文件的下载链接,当主机支持。 这些操作共享生成的导出,而不是模型文件。 结果分离文物缺陷",
+        "sourceHash": "a14dfaa05816aedc01fa5e8db391fd112a3d26372af488402cb1524f04968875",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-05T16:48:19.475Z",
+        "usage": {
+          "prompt_tokens": 799,
+          "completion_tokens": 848,
+          "total_tokens": 1647,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 29.53764533996582
+        }
       }
     },
     "plugin_asdk_app_6aa8c89899a881918862cd7f7f164cc0": {
@@ -207336,30 +207896,761 @@
         },
         "neurons": 20.998069763183594
       }
+    },
+    "cbb657074e7d5f6ee086d6ada2ce6f7a826e4602b9603e8fa2e06b7ab0b93ef5": {
+      "summary": "检查 x402 门和收据",
+      "description": "SCVD x402 Verifier 检查付款挑战而无需付款,验证签名的 x402 报价和收据,读取记录的终端准备,解释缺陷类,检查 SCVD 文物签名。结果描述了证据和限制;他们不建立交付或保证提供商。所有工具都是免费的,无需钱包或登录。呼叫记录使用统计数据。对于没有记录的探测器的合格主机,准备查询添加主机名,并要求向公共排队进行后续发现扫描;呼叫者身份不包括在那个排队中。",
+      "sourceHash": "cbb657074e7d5f6ee086d6ada2ce6f7a826e4602b9603e8fa2e06b7ab0b93ef5",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:45:07.695Z",
+      "usage": {
+        "prompt_tokens": 726,
+        "completion_tokens": 891,
+        "total_tokens": 1617,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 30.510467529296875
+      }
+    },
+    "e03632cce8b55cba3170ea4748dccd2750798bab9f205cf065683f1d05d4a99a": {
+      "summary": "量子计算工作空间",
+      "description": "qBraid 帮助用户探索量子设备,验证和模拟电路,提交量子工作并检查结果. 用户可以管理云计算,检查笔记本和软件环境,浏览 qBook 课程,注册课程,并在授权时审查学习者进度。 它还支持组织会员和信用工作流程,计费总结和支持请求。 信用购买和课程创建或重新部署是通过此应用程序不可用。",
+      "sourceHash": "e03632cce8b55cba3170ea4748dccd2750798bab9f205cf065683f1d05d4a99a",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:45:17.305Z",
+      "usage": {
+        "prompt_tokens": 711,
+        "completion_tokens": 913,
+        "total_tokens": 1624,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 31.111541748046875
+      }
+    },
+    "8e06e8cecc3dea3249c8b7167f695401056433d09a9974041382286b1ee80b82": {
+      "summary": "在虚拟芯片上运行固件",
+      "description": "LabWired 运行真正的嵌入式固件在微控制器(ARM Cortex-M, RISC-V 和 ESP32)的确定性模拟上,直接在对话中。 选择一个板,与传感器,显示器和巴士连接一个 MCU,编译固件,并在您可以观看的交互式硬件实验室中运行 - 无需物理板。 相同的固件二进制在模拟器中运行,所以结果足够可复制来调试和打开 CI。 LabWired 在运行前验证您的连接,列出它所支持的板和组件,从源头编译固件,并打开嵌入 ChatGPT 中的实时实验室视图,您可以看到 GPIO,系列输出和外部设备实时响应。",
+      "sourceHash": "8e06e8cecc3dea3249c8b7167f695401056433d09a9974041382286b1ee80b82",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:45:27.001Z",
+      "usage": {
+        "prompt_tokens": 757,
+        "completion_tokens": 717,
+        "total_tokens": 1474,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 25.351219177246094
+      }
+    },
+    "591546ac04172a502c796f02cdfa51bf7f8704aad392ff01f2ec31c246f8582b": {
+      "summary": "使用 Sign-in 部署 Web 应用",
+      "description": "Tiniest Cloud 主持静态 Web 应用程序,每个应用程序都提供一个登录、用户存储、实时、推送通知、日程工作和一个没有任何配置的语言模型。从一个对话中,您可以部署一个文件夹并获得直播 URL,通过电子邮件与某人共享应用程序,回滚到以前的版本,连接第三方 API 而无需将其钥匙放在页面中,计划重复工作,并将应用程序放到自己的域。",
+      "sourceHash": "591546ac04172a502c796f02cdfa51bf7f8704aad392ff01f2ec31c246f8582b",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:45:32.748Z",
+      "usage": {
+        "prompt_tokens": 701,
+        "completion_tokens": 946,
+        "total_tokens": 1647,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 32.07096481323242
+      }
+    },
+    "bd77669ba2f147b6ee66809e7dc943f27ff16c1e2945146643f1e8586dbdc17a": {
+      "summary": "AI 代理商的共享记忆",
+      "description": "AiAkiv 是 AI 代理人和团队成员通过 MCP 共享的长期内存,它将您的对话中的重要部分保存为知识图表,并在会话、工具和团队成员之间回忆起它们,因此一个 AI 将保存背景,另一个将被收集,整个团队将从一个共享内存中工作,而不是分散的私人聊天。",
+      "sourceHash": "bd77669ba2f147b6ee66809e7dc943f27ff16c1e2945146643f1e8586dbdc17a",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:45:35.011Z",
+      "usage": {
+        "prompt_tokens": 709,
+        "completion_tokens": 785,
+        "total_tokens": 1494,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 27.201522827148438
+      }
+    },
+    "63d7926ef0bca81e0d287b45513b813c3e1f2b44a965adaf3c6c107b13d21d89": {
+      "summary": "为AI代理商设计系统",
+      "description": "更好的设计为AI编码代理提供了前端工作的设计工程层。\n\nDesign Intelligence 模式在代理人编写 UI 代码之前加载 UI 原则,然后要求代理人对可访问性、视觉设计、运动、内容和理解规则进行自我审查。\n\nScaffold 模式允许代理人安装完整的 shadcn 兼容的视觉系统:代币、全球和组件源. Better Design 还可以从自然语言提示中生成新的自定义设计系统,并返回由此产生的注册表的 shadcn 安装命令。\n\nMCP 服务器暴露了用于寻找和生成设计系统的工具,加载 UI/UX 和 React Native 指导,审查接口质量,提取现有 CSS 代币,并安装图标组件。",
+      "sourceHash": "63d7926ef0bca81e0d287b45513b813c3e1f2b44a965adaf3c6c107b13d21d89",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:45:36.005Z",
+      "usage": {
+        "prompt_tokens": 793,
+        "completion_tokens": 1274,
+        "total_tokens": 2067,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 42.49215316772461
+      }
+    },
+    "5f433a61c0b339e69c12e43691b0b1bde01b81778cb74cf19111ccf33159e9d1": {
+      "summary": "支持证据的软件",
+      "description": "Vioscale AI帮助用户发现,比较和评估软件,使用基于证据的事实,透明的分数和规范引用。",
+      "sourceHash": "5f433a61c0b339e69c12e43691b0b1bde01b81778cb74cf19111ccf33159e9d1",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:45:41.679Z",
+      "usage": {
+        "prompt_tokens": 633,
+        "completion_tokens": 682,
+        "total_tokens": 1315,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.71115493774414
+      }
+    },
+    "c28042501b8f466ac245143de1428330a7701eeae43077d44a243da32989cf67": {
+      "summary": "AI驱动的软件测试",
+      "description": "借助 nunu.ai 插件,您可以自动化您的 QA 测试。 自然语言的作者测试案例,并在真实的 Android 和 iOS 设备、Windows VM 和浏览器上运行它们。 自动检查过去的运行,审查错误,并更新测试案例。 创建完整的测试计划,并在每个新构建或时间表上运行它们。",
+      "sourceHash": "c28042501b8f466ac245143de1428330a7701eeae43077d44a243da32989cf67",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:45:55.186Z",
+      "usage": {
+        "prompt_tokens": 678,
+        "completion_tokens": 738,
+        "total_tokens": 1416,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 25.62584686279297
+      }
+    },
+    "cb9b9c758d4b2d7d94172a5eb3fbf14bb55ec1bff3c8b7555b65e6c15c704f94": {
+      "summary": "构建和测试见解",
+      "description": "Tuist 帮助团队检查 Xcode、Gradle 和 Bazel 构建数据、测试结果、缓存活动、预览、运行任务和项目配置,还支持授权帐户设置和选定的试用案例更新。",
+      "sourceHash": "cb9b9c758d4b2d7d94172a5eb3fbf14bb55ec1bff3c8b7555b65e6c15c704f94",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:45:55.401Z",
+      "usage": {
+        "prompt_tokens": 651,
+        "completion_tokens": 968,
+        "total_tokens": 1619,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 32.51018142700195
+      }
+    },
+    "e80a1ded3c552d7f4b048d3a483d87787dba0b4f6a579ed4a0df249a0b99a080": {
+      "summary": "构建和托管现场Web应用程序",
+      "description": "Tessryx给了一个代理人建立一个地方. 从聊天中,它为真实的网站,API或内部工具创建了数据,逻辑,页面和日程工作,Tessryx在用户自己的域上的公共URL上托管了它们。\n\n工具支持的主要工作流程: - 创建 JSON 方案,然后对其进行验证的数据文件. 相同的方案生成了一个编辑界面,因此非技术人员可以随后在没有代理的情况下维护内容。 - 创建工作流程返回 HTML 或 JSON,并将其绑定到公共 URL 作为边缘缓存的动态终端。 - 一个终端既服务于渲染页面和页面本身的 JavaScript 呼叫的 API 路径。 - 定义对外部系统的参数化 HTTP 呼叫,凭证保留为只写秘密,助手可以参考,但永远不会阅读。\n\n身份验证是 OAuth 2.1;没有用户可以管理的 API 密钥。",
+      "sourceHash": "e80a1ded3c552d7f4b048d3a483d87787dba0b4f6a579ed4a0df249a0b99a080",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:46:00.565Z",
+      "usage": {
+        "prompt_tokens": 845,
+        "completion_tokens": 899,
+        "total_tokens": 1744,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 31.304590225219727
+      }
+    },
+    "52db067f385c5029e3c0fa3ed77ef06330fcf9e5a2d4a51629222b90c62fe147": {
+      "summary": "对AI代理人的观察能力",
+      "description": "AI 代理的可观察性:使用 SQL 查询您的日志、痕迹、指标和错误,构建仪表板和图表警报,管理工作时间监视器,响应事件,查看谁在呼叫,并发布状态页面报告。",
+      "sourceHash": "52db067f385c5029e3c0fa3ed77ef06330fcf9e5a2d4a51629222b90c62fe147",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:46:04.299Z",
+      "usage": {
+        "prompt_tokens": 686,
+        "completion_tokens": 582,
+        "total_tokens": 1268,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 20.90877914428711
+      }
+    },
+    "16a1d5f70529e7e81143c2ecaacd4a9ba98126d31ed234cf0d0943e4f972b3fa": {
+      "summary": "Clerk SDK 代码示例",
+      "description": "Clerk 帮助开发人员找到用于身份验证、登录和登录、组织、访问控制和计费集成的 SDK 代码示例。",
+      "sourceHash": "16a1d5f70529e7e81143c2ecaacd4a9ba98126d31ed234cf0d0943e4f972b3fa",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:46:05.058Z",
+      "usage": {
+        "prompt_tokens": 655,
+        "completion_tokens": 626,
+        "total_tokens": 1281,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 22.106306076049805
+      }
+    },
+    "b693a0c0d88a2c8b5831e932840ef969aace344f7e3f0269f90a9a374bbc85ae": {
+      "summary": "解释公共代码历史",
+      "description": "RepoLore帮助开发人员了解为什么公共GitHub代码存在,通过追踪文件和行范围,通过委托,拖拉请求,问题,补丁和回归证据。",
+      "sourceHash": "b693a0c0d88a2c8b5831e932840ef969aace344f7e3f0269f90a9a374bbc85ae",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:46:11.424Z",
+      "usage": {
+        "prompt_tokens": 640,
+        "completion_tokens": 671,
+        "total_tokens": 1311,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.40830421447754
+      }
+    },
+    "8b39d84b54ba3628292abb04716e8fe9b03bf4e05e2edc215faad925605f8c53": {
+      "summary": "旗帜,AI配置和指标",
+      "description": "管理LaunchDarkly功能旗,AgentControl配置(AI代理提示/模型),实验,受保护和自动部署,细分,指标,仪表板,警报和可观性数据(日志,痕迹,错误,会话)直接从聊天中创建和瞄准旗帜,运行和分析实验,配置AI代理提示和工具,构建仪表板和警报,并调查生产问题而不离开谈话。",
+      "sourceHash": "8b39d84b54ba3628292abb04716e8fe9b03bf4e05e2edc215faad925605f8c53",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:46:15.309Z",
+      "usage": {
+        "prompt_tokens": 694,
+        "completion_tokens": 759,
+        "total_tokens": 1453,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 26.33980941772461
+      }
+    },
+    "c15755a652d67140c90f6b09a1b4c95c8edf6882d9a0d96506231afd65454cb9": {
+      "summary": "从Chat管理您的服务器",
+      "description": "Termalin 连接你的服务器到聊天. 请 ChatGPT 检查磁盘空间,尾声日志,重新启动服务,编辑配置或安装包 - 它通过 SSH 运行真实命令,在你注册的服务器上读取或写文件 SFTP,并在对话中报告。 它还可以列出表并通过相同的安全路径在数据库中运行仅读或完整的查询。 没有 SSH 密钥被粘贴到任何地方:服务器通过 Termalin Connectors (一行安装)连接到外部,每个运行都通过短期证书进行身份验证,并从您的 termal.in 帐户获得 OAuth 访问。 您可以控制:每连接政策(完全访问,允许命令列表或仅读),每个操作的完整审计路线,并单\n\n要开始,你需要一个 termal.in 帐户(专业,团队或试用)至少有一个连接器注册(设置 →连接器,一行安装)和一个验证的电子邮件。",
+      "sourceHash": "c15755a652d67140c90f6b09a1b4c95c8edf6882d9a0d96506231afd65454cb9",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:46:21.296Z",
+      "usage": {
+        "prompt_tokens": 839,
+        "completion_tokens": 813,
+        "total_tokens": 1652,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 28.65601348876953
+      }
+    },
+    "927d924d7ae66696f919dd1046921fea371f7fbd004584f11653fdfc7683b3c3": {
+      "summary": "构建和分析负载测试",
+      "description": "Loadster 帮助用户创建和播放测试脚本,准备负载测试场景,配置合成监视器,并通过 ChatGPT 调查完成的测试和监控结果。",
+      "sourceHash": "927d924d7ae66696f919dd1046921fea371f7fbd004584f11653fdfc7683b3c3",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:46:26.474Z",
+      "usage": {
+        "prompt_tokens": 639,
+        "completion_tokens": 628,
+        "total_tokens": 1267,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 22.093263626098633
+      }
+    },
+    "da99b1870b7fcf97499d329a2d2dd1c6357efd471fc12cb7860665eff4fb20cf": {
+      "summary": "访问您的 RevenueCat Apps",
+      "description": "设置 RevenueCat,将其集成到您的应用程序中,并访问和分析有关您的客户、收入和购买的数据。",
+      "sourceHash": "da99b1870b7fcf97499d329a2d2dd1c6357efd471fc12cb7860665eff4fb20cf",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:46:33.858Z",
+      "usage": {
+        "prompt_tokens": 632,
+        "completion_tokens": 529,
+        "total_tokens": 1161,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 19.043888092041016
+      }
+    },
+    "1740b7afc3351a172a617e16d6beb6432657c25a6f89d3a377deb9789f9350db": {
+      "summary": "通过描述它来构建一个宏",
+      "description": "用日常语言描述您想要的自动化,并获得完整的 MacroDroid 宏,准备在您的 Android 手机上导入。\n\nMacroDroid 是超过一百万用户每天使用的 Android 自动化应用程序,用触发器、操作和限制来自动化他们的设备:在会议上保持沉默,在电池低时关闭 WiFi,在开车时大声阅读消息,在回家时发送您的位置,以及其他数千个。\n\n此插件为 ChatGPT 提供了完整的 MacroDroid 功能目录(超过 400 个触发器、操作和限制),每个功能的准确 JSON 布局,以及在你看到它之前检查完成的宏的验证器。\n\n将结果导入,将其保存为 .macro 文件,并在 Macros 卡上选择导入,或者将其粘贴到 remote.macrodroid.com 的 Macro Builder 中,直接发送到您的手机。\n\n无需帐户或登录,您输入的任何内容都不会被 MacroDroid 存储。",
+      "sourceHash": "1740b7afc3351a172a617e16d6beb6432657c25a6f89d3a377deb9789f9350db",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:46:36.922Z",
+      "usage": {
+        "prompt_tokens": 845,
+        "completion_tokens": 810,
+        "total_tokens": 1655,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 28.592336654663086
+      }
+    },
+    "022e52c90e1c8c116c24b1e7b5cc7109390a700d07781111099fa1ab00ef70bf": {
+      "summary": "了解您的AI代理人",
+      "description": "连接您的 Flowlines 帐户以审查 AI 代理活动,比较时间间隔的结果,调查失败的会话,并分析用户群。使用累积指标,信号,主题地图和集中式会话证据来了解结果并识别产品需求。在要求时将独立验证的结果保存为私人工作区笔记。 需要 Flowlines 帐户,可以访问包含代理数据的工作区。 授权的结果可以包括最终用户对话和活动数据; 响应应总结证据并掩盖直接的个人标识符。",
+      "sourceHash": "022e52c90e1c8c116c24b1e7b5cc7109390a700d07781111099fa1ab00ef70bf",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:46:37.703Z",
+      "usage": {
+        "prompt_tokens": 719,
+        "completion_tokens": 973,
+        "total_tokens": 1692,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 32.977027893066406
+      }
+    },
+    "6d7d736c4cdae06738745300b457e83a104aa0340f09b36b5aafc309139303e5": {
+      "summary": "搜索开发者docs",
+      "description": "Developer Hub MCP 可帮助用户根据文物名称或内容搜索 Sabre Developer Hub 文档,检查文物细节,检索文档页面,并查看最近更新的文档。",
+      "sourceHash": "6d7d736c4cdae06738745300b457e83a104aa0340f09b36b5aafc309139303e5",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:46:43.679Z",
+      "usage": {
+        "prompt_tokens": 641,
+        "completion_tokens": 653,
+        "total_tokens": 1294,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 22.864381790161133
+      }
+    },
+    "a76e31ef6e7faeec24a1d9f127ec79b7e3be2a237f92aa8480b05644a8ee0364": {
+      "summary": "检查您的域安全",
+      "description": "CYBERACE 域扫描可以检查域的电子邮件、HTTPS 和 DNS 安全性,包括 SPF、DKIM、DMARC、TLS 证书、安全标题、DNSSEC 和区块清单。获取安全分数、每个检查结果和建议的修复,在可用时提供临时报告链接。不需要帐户或 API 密钥。每个扫描存储结果,消耗扫描配额,并可能引发行政通知。这个插件提供按需的公共域扫描;它不访问帐户数据,不配置监控或修改 DNS 记录。",
+      "sourceHash": "a76e31ef6e7faeec24a1d9f127ec79b7e3be2a237f92aa8480b05644a8ee0364",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:46:48.165Z",
+      "usage": {
+        "prompt_tokens": 710,
+        "completion_tokens": 679,
+        "total_tokens": 1389,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.97582244873047
+      }
+    },
+    "b975a43042e5bd174d1b676483408523685008081ce6e82af6bd36f04ff930ec": {
+      "summary": "查询和管理远程测量",
+      "description": "Logfire 帮助工程团队查询远程测量,调查例外,构建仪表板和警报,安装可观察性集成,并在其私人工作区中管理提示和变量。",
+      "sourceHash": "b975a43042e5bd174d1b676483408523685008081ce6e82af6bd36f04ff930ec",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:46:54.544Z",
+      "usage": {
+        "prompt_tokens": 643,
+        "completion_tokens": 644,
+        "total_tokens": 1287,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 22.59935760498047
+      }
+    },
+    "d832fd6e04e3a72bd1081d96c04783245a0e16fea07c18eb36fdce1ac78ac30a": {
+      "summary": "发现和运行API",
+      "description": "使用 ApyHub 查找和调用需要外部处理的任务的生产 API. 根据能力搜索目录,然后调用匹配的终端。 涵盖文件转换(Word, PDF,Excel,图像),文档生成,OCR和文本提取,数据验证(电子邮件,电话,增值税,IBAN,税务ID),丰富,地理位置和IP数据,货币和单位转换,QR和条码生成,档案处理和AI实用工具。",
+      "sourceHash": "d832fd6e04e3a72bd1081d96c04783245a0e16fea07c18eb36fdce1ac78ac30a",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:46:58.995Z",
+      "usage": {
+        "prompt_tokens": 725,
+        "completion_tokens": 975,
+        "total_tokens": 1700,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 33.06572341918945
+      }
+    },
+    "e4cf807ad21a728e52b14ed926b78c0fbedb5b62bb2c59562f931e6437261fa5": {
+      "summary": "图表,QR和条形码",
+      "description": "Chartquery 会从 ChatGPT 生成图表、图表、QR 代码、条形码和标签. 描述数据或效用量,并获得您可以打开的公共渲染 URL。\n\n图表:从简短的图表或结构化图表的图表。图表:AI flowchart或结构化图表。代码:URL和Code128条形码的QR代码。标签:预览,解析,验证,转换,编译。视觉工具返回 https://api.chartquery.com/v1/{kind}/render/{id}?utm_source=chatgpt.com. 显示该URL。\n\n连接时使用 Chartquery 帐户登录. 呼叫使用与 app.chartquery.com 相同的信贷和配额。",
+      "sourceHash": "e4cf807ad21a728e52b14ed926b78c0fbedb5b62bb2c59562f931e6437261fa5",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:47:00.262Z",
+      "usage": {
+        "prompt_tokens": 748,
+        "completion_tokens": 767,
+        "total_tokens": 1515,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 26.833335876464844
+      }
+    },
+    "b49b91695f7f89650f9878138bea15925979d2923adfaac85b61697d6864fe60": {
+      "summary": "连接数据、设备和代理",
+      "description": "Lobu 允许 ChatGPT 对持久的工作区内存、连接数据、设备、通知渠道和其他代理提供受控的访问权限,用户可以搜索和保存共享背景,查询授权数据,预览更改,并在需要时使用人类批准执行授权检查的操作。",
+      "sourceHash": "b49b91695f7f89650f9878138bea15925979d2923adfaac85b61697d6864fe60",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:47:06.109Z",
+      "usage": {
+        "prompt_tokens": 662,
+        "completion_tokens": 743,
+        "total_tokens": 1405,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 25.704227447509766
+      }
+    },
+    "daa55b8eb857e409e17d17221e080048f89a9d9863de888ac987150832f00bcf": {
+      "summary": "构建和预览Web应用程序",
+      "description": "Akwadra 允许用户从 ChatGPT 创建、检查、编辑、验证和预览 Web 应用程序项目。ChatGPT 编写源文件,而 Akwadra 将其存储在注册用户的私人工作空间中。",
+      "sourceHash": "daa55b8eb857e409e17d17221e080048f89a9d9863de888ac987150832f00bcf",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:47:07.930Z",
+      "usage": {
+        "prompt_tokens": 679,
+        "completion_tokens": 666,
+        "total_tokens": 1345,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.436288833618164
+      }
+    },
+    "8345e19c0be712f4e5cf8959e9615929f6ccb6da227979c60b565822ccb711f2": {
+      "summary": "优化代码性能",
+      "description": "CodSpeed有助于用户通过测量性能数据优化代码,检查基准运行,比较更改,分析闪电图以找到瓶颈并验证改进。",
+      "sourceHash": "8345e19c0be712f4e5cf8959e9615929f6ccb6da227979c60b565822ccb711f2",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:47:14.936Z",
+      "usage": {
+        "prompt_tokens": 653,
+        "completion_tokens": 479,
+        "total_tokens": 1132,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 17.617267608642578
+      }
+    },
+    "cce1bf06de375716b77c7a52ecbd702b65a88d7a19c7a12d807d23fe91f41689": {
+      "summary": "建立和启动您的业务",
+      "description": "通过网络解决方案将您的业务理念转化为一个完整的在线存在。 查找和比较可用的域名,生成标志和品牌身份,创建和定制专业网站,并选择合适的托管,以便使其活跃。 用不同的布局,颜色,字体和图像来完善您的网站,检查域名价格,并在您准备购买和推出时继续使用网络解决方案。 您还可以使用网络解决方案工具来部署现有应用程序,随着新功能的推出,添加电子商务,营销和其他服务来帮助您的业务增长和运营。",
+      "sourceHash": "cce1bf06de375716b77c7a52ecbd702b65a88d7a19c7a12d807d23fe91f41689",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:47:15.721Z",
+      "usage": {
+        "prompt_tokens": 719,
+        "completion_tokens": 726,
+        "total_tokens": 1445,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 25.449756622314453
+      }
+    },
+    "78e401d1b3d520cd8e971c6f999b09a866e3dc893f4abfa89290b3af7222aab7": {
+      "summary": "创建和管理联系表格",
+      "description": "使用 HTML.contact by 854 Labs 创建您的网站的联系表格,而不构建自定义后端。 获取可安装的 HTML,修复表单设置问题,将电子邮件通知路由到已验证的收件人,并审查所选提交内容。 还支持 lead capture、feedback 和 waitlist 表单。 使用您的链接的 html.contact 帐户; 更改和电子邮件测试需要确认。",
+      "sourceHash": "78e401d1b3d520cd8e971c6f999b09a866e3dc893f4abfa89290b3af7222aab7",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:47:21.561Z",
+      "usage": {
+        "prompt_tokens": 681,
+        "completion_tokens": 1006,
+        "total_tokens": 1687,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 33.80696105957031
+      }
+    },
+    "7de525fb0e5d5f40f69143c0420198f211c8116038dc278b60a834738088a1fa": {
+      "summary": "分析可观测数据",
+      "description": "Honeycomb帮助用户调查可观测数据,检查线索,AI对话和异常信号,运行查询和BubbleUp分析,管理警报和仪表板,并通过ChatGPT遵循仪器迁移指南。",
+      "sourceHash": "7de525fb0e5d5f40f69143c0420198f211c8116038dc278b60a834738088a1fa",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:47:24.734Z",
+      "usage": {
+        "prompt_tokens": 654,
+        "completion_tokens": 776,
+        "total_tokens": 1430,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 26.67289924621582
+      }
+    },
+    "2c78b789a82d4dec1201af95433b4f59509dc7447d3682629868cafd3ae7c3fa": {
+      "summary": "使用知识图形工作",
+      "description": "WarmHub 帮助用户检查存储库和方案,搜索和浏览版本的知识图表,验证和提交结构化委托,管理收藏,并从 ChatGPT 配置 webhook 订阅。",
+      "sourceHash": "2c78b789a82d4dec1201af95433b4f59509dc7447d3682629868cafd3ae7c3fa",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:47:24.797Z",
+      "usage": {
+        "prompt_tokens": 642,
+        "completion_tokens": 622,
+        "total_tokens": 1264,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 21.924287796020508
+      }
+    },
+    "04c320c881acb99064b50cb732681d83d3dc3f2a7adc9de6353e36a315ac75ee": {
+      "summary": "文件代码",
+      "description": "DocuWriter 是一个人工智能驱动的平台,用于为完整的代码库创建和管理完整的结构化文档。 团队可以连接存储库并生成涵盖架构、模块、服务、类、功能、依赖、API、图表、READMEs 和其他技术组件的文档。 它支持单个存储库和更大的多存储库系统。 从 ChatGPT,用户可以通过空间、语义搜索、自动驾驶和存储库工作流程来处理该集中化文档。",
+      "sourceHash": "04c320c881acb99064b50cb732681d83d3dc3f2a7adc9de6353e36a315ac75ee",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:47:33.223Z",
+      "usage": {
+        "prompt_tokens": 699,
+        "completion_tokens": 658,
+        "total_tokens": 1357,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.28498077392578
+      }
+    },
+    "b43f79f1c0e049d760c5bb278d62857eba569ab936291269ae07f415f3c85464": {
+      "summary": "查询欺诈 & 设备信号",
+      "description": "Fingerprint MCP 服务器将 ChatGPT 直接连接到 Fingerprint 的设备智能平台,使欺诈分析师、开发人员和安全团队能够更快地调查可疑活动并了解流量模式。\n\n指纹捕获设备情报信号,包括机器人检测,VPN使用,浏览器篡改和访问者行为,在您的高风险页面和操作,如登录,支票和帐户创建。\n\n试试像这样的快点:\n\n“显示我上个小时的机器人流量” - “这个登录峰值是协调操作的一部分吗?” - “谁是我的最可疑的访问者,为什么?” - “帮助我实施指纹来保护我的网站。\n\nChatGPT 查询您的指纹工作区,并在几秒钟内返回见解,开发人员还可以使用它来构建和整合指纹到他们的应用程序中,在不离开谈话的情况下获得设置,配置和最佳实践的指导。\n\n登录你的指纹帐户开始. 新到指纹? 注册免费在fingerprint.com。",
+      "sourceHash": "b43f79f1c0e049d760c5bb278d62857eba569ab936291269ae07f415f3c85464",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:47:40.102Z",
+      "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 981,
+        "total_tokens": 1810,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 33.72952651977539
+      }
+    },
+    "fab3fe50b66eb7f41a641d90e2a5ff9a0c08e4f121adf932883b9239a5da6e98": {
+      "summary": "构建易于访问的界面",
+      "description": "搜索 Vlak 的组件目录,检查准确的 React 附件和可访问性指南,并获得对包、CLI、shadcn 注册表或仅使用 CSS 的验证安装说明。",
+      "sourceHash": "fab3fe50b66eb7f41a641d90e2a5ff9a0c08e4f121adf932883b9239a5da6e98",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:47:42.021Z",
+      "usage": {
+        "prompt_tokens": 658,
+        "completion_tokens": 631,
+        "total_tokens": 1289,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 22.272554397583008
+      }
+    },
+    "c4dd98d8e12ed7bce82ce36ddcaaeac1869f620797347ecedf80ac161ed27f92": {
+      "summary": "连接定制域名",
+      "description": "doDomain 是域连接作为服务:它为产品提供指向客户自己的域的导向流程,并处理其背后的 DNS 记录、验证和证书。 doDomain 插件允许 ChatGPT 驱动程序从您的帐户中工作:检查域的当前 DNS 状态,列出您团队配置的应用程序,列出现有的域连接,为客户创建新的连接会话,搜索您已经开始的会话,一旦记录已经在位,检查会话,并在连接中重新运行验证。\n\n通过 PKCE 和动态客户端登记的 OAuth 2.1 进行访问。在同意屏幕上,每个功能都被授予范围 - 域、应用、连接和会话的单独阅读和写入范围 - 并且您未授予范围的工具从未被提供给助手。\n\n创建连接会话与您的计划的每月连接配额计数;验证检查是有限的,所以在同一连接上重复重新验证将被告知等待,而不是默默地重复。",
+      "sourceHash": "c4dd98d8e12ed7bce82ce36ddcaaeac1869f620797347ecedf80ac161ed27f92",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:47:45.060Z",
+      "usage": {
+        "prompt_tokens": 866,
+        "completion_tokens": 877,
+        "total_tokens": 1743,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 30.73126220703125
+      }
+    },
+    "26187dc066a5b4d2ae5239cbb484bf5c8cdae234fc53c4fcaa04b44567e49861": {
+      "summary": "自动软件交付",
+      "description": "Harness 帮助用户检查软件交付状况,诊断失败的执行,查找交付资源,并在他们的 Harness 帐户中执行授权创建,更新,删除和执行操作。",
+      "sourceHash": "26187dc066a5b4d2ae5239cbb484bf5c8cdae234fc53c4fcaa04b44567e49861",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:47:48.349Z",
+      "usage": {
+        "prompt_tokens": 643,
+        "completion_tokens": 420,
+        "total_tokens": 1063,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 15.77301025390625
+      }
+    },
+    "2d47be0f2afcdc3dacfe6cd7de75caa36bd421c38cef535c19cca9700a23cc2f": {
+      "summary": "查询和优化数据库",
+      "description": "PlanetScale 是一个托管的 MySQL/Vitess 和 Postgres 数据库平台. 该应用连接 ChatGPT 到您的 PlanetScale 数据库,以便诊断慢性或失败的查询并修复它们. 它读取方案,运行查询,并使用 PlanetScale Insights 来识别慢性终端背后的准确查询或索引问题,然后建议或应用更改以保护破坏性操作。 它还审查日志和集群大小,搜索文档,并通过 Stripe Checkout 管理计费。",
+      "sourceHash": "2d47be0f2afcdc3dacfe6cd7de75caa36bd421c38cef535c19cca9700a23cc2f",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:47:48.809Z",
+      "usage": {
+        "prompt_tokens": 700,
+        "completion_tokens": 614,
+        "total_tokens": 1314,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 21.94871711730957
+      }
+    },
+    "155f2c07e0613b32c06c81222b5ec2048c31ce2324a08133a7095373d8b7ea5d": {
+      "summary": "构建和管理Expo应用程序",
+      "description": "Expo 帮助开发人员找到官方指导,准备兼容的依赖和 EAS 工作流程,管理构建和工作流程,在云沙盒中创建和运行命令,设置构建使用预算,检查崩溃和存储反馈,并通过 ChatGPT 响应 App Store 和 Google Play 评论。",
+      "sourceHash": "155f2c07e0613b32c06c81222b5ec2048c31ce2324a08133a7095373d8b7ea5d",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:47:54.278Z",
+      "usage": {
+        "prompt_tokens": 664,
+        "completion_tokens": 681,
+        "total_tokens": 1345,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.82404136657715
+      }
+    },
+    "fccc20145b508a1c9c464cdad3308289aff11b2a7ea5a4b47823a543ae37be0d": {
+      "summary": "管理媒体和视图分析",
+      "description": "轻松管理视频和图像库,获取实时性能分析,组织工作区,并自动化媒体处理工作流程,而不离开对话。",
+      "sourceHash": "fccc20145b508a1c9c464cdad3308289aff11b2a7ea5a4b47823a543ae37be0d",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:47:55.572Z",
+      "usage": {
+        "prompt_tokens": 638,
+        "completion_tokens": 613,
+        "total_tokens": 1251,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 21.63151741027832
+      }
+    },
+    "cad685abb2df5af47b8d422b85593d3ab56a98ba24a43b391b07b41e28022328": {
+      "summary": "探索现场区块链数据",
+      "description": "Etherscan 将公共区块链数据带入 ChatGPT. 用户可以检查钱包余额和活动,代币转移,交易和收据,验证的合同来源和 ABI,事件日志,块,天然气推荐和支持的 EVM 链,然后在交互式 Etherscan 卡中显示所选择的结果。",
+      "sourceHash": "cad685abb2df5af47b8d422b85593d3ab56a98ba24a43b391b07b41e28022328",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:48:02.171Z",
+      "usage": {
+        "prompt_tokens": 680,
+        "completion_tokens": 498,
+        "total_tokens": 1178,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 18.321151733398438
+      }
+    },
+    "b185965bd6603e8357f5885dfb9f94d59566c754f7351379f0a26f240e35ab72": {
+      "summary": "查看 App Store 评论时间",
+      "description": "评论时报显示,AI应用程序,连接器和插件商店现在需要多长时间来审查提交,包括ChatGPT插件,Claude,Meta Muse,Grok和Cursor。\n\n在提交之前询问(“ChatGPT插件审查需要多长时间?”),检查已经安静的审查是否正常,或者在推出之前比较商店。\n\n这些数字来自开发人员的报告,与其来源链接的公共帖子,以及公众评论排队. 如果您想要的话,您可以添加自己的提交,以便数字对每个人都更好。",
+      "sourceHash": "b185965bd6603e8357f5885dfb9f94d59566c754f7351379f0a26f240e35ab72",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:48:04.750Z",
+      "usage": {
+        "prompt_tokens": 758,
+        "completion_tokens": 689,
+        "total_tokens": 1447,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 24.50255012512207
+      }
+    },
+    "da8ec45fe738a52d34bcd00bae7eda4a9053b2a57525640c0b526ec5ec2a5172": {
+      "summary": "移动交付安全检查",
+      "description": "mach 连接一个经过批准的帐户来检查 Flutter、React Native 和 Expo 交付工作:项目、云构建、商店提交、OTA 发布、Maestro 测试运行和帐户使用。",
+      "sourceHash": "da8ec45fe738a52d34bcd00bae7eda4a9053b2a57525640c0b526ec5ec2a5172",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:48:05.874Z",
+      "usage": {
+        "prompt_tokens": 662,
+        "completion_tokens": 727,
+        "total_tokens": 1389,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 25.216632843017578
+      }
+    },
+    "a14dfaa05816aedc01fa5e8db391fd112a3d26372af488402cb1524f04968875": {
+      "summary": "检查AI模型文物",
+      "description": "检查附加的 AI 模型部署文件而不执行模型代码。 DEEPBOM 分析在浏览器中支持的 TFLite, ONNX, GGUF, SafeTensors, Core ML 和 ExecuTorch 文件,并报告 SHA-256,序列结构,压缩编码,量化证据和静态结果。 探索模型 IR 表和可视化,并导出 SVG, PNG, Word-ready bundles, CycloneDX 1.7 文物证据,或 SPDX 2.3 文物库存。 使用发送 PNG 聊天以共享选定的可视化或通过 ChatGPT 保存以获得生成的文件的下载链接,当主机支持。 这些操作共享生成的导出,而不是模型文件。 结果分离文物缺陷",
+      "sourceHash": "a14dfaa05816aedc01fa5e8db391fd112a3d26372af488402cb1524f04968875",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-05T16:48:19.475Z",
+      "usage": {
+        "prompt_tokens": 799,
+        "completion_tokens": 848,
+        "total_tokens": 1647,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 29.53764533996582
+      }
     }
   },
   "lastRun": {
     "runId": "37342451051",
     "runAttempt": "1",
     "startedAt": "2026-10-05T16:40:03.289Z",
-    "updatedAt": "2026-10-05T16:45:04.563Z",
+    "updatedAt": "2026-10-05T16:48:19.587Z",
     "mode": "translate",
     "detailRequests": 0,
-    "translationRequests": 250,
-    "translationAttempts": 70,
+    "translationRequests": 397,
+    "translationAttempts": 112,
     "translationLimit": 250,
     "aiConfigured": true,
     "blocked": false,
-    "aiBlocked": false,
-    "errors": 2,
+    "aiBlocked": true,
+    "errors": 3,
     "stats": {
       "total": 3918,
       "details": 3913,
-      "translated": 326,
+      "translated": 369,
       "missing": 17,
       "removed": 0,
       "pendingDetails": 5,
-      "pendingTranslations": 3592
+      "pendingTranslations": 3549
     }
   }
 }
