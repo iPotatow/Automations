@@ -654,7 +654,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "Notion 文档与工作流",
       "legacySummaryOriginal": "Notion docs and workflows",
@@ -663,13 +663,8 @@
       "description": "Search and reference your Notion pages",
       "information": [
         {
-          "label": "Capabilities",
-          "value": "Interactive, Read, Write",
-          "links": []
-        },
-        {
           "label": "Developer",
-          "value": "Notion",
+          "value": "Notion AI",
           "links": []
         },
         {
@@ -681,17 +676,17 @@
           "label": "Website",
           "value": "",
           "links": [
-            "https://www.notion.so/"
+            "https://mcp.notion.com/mcp"
           ]
         },
         {
           "label": "Version",
-          "value": "0.1.8",
+          "value": "3.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T15:25:35.943Z",
+      "detailCheckedAt": "2026-10-06T05:30:55.181Z",
       "translationAttemptRun": "37342451051:1",
       "translation": {
         "summary": "概念文件和工作流程",
@@ -709,7 +704,8 @@
           },
           "neurons": 21.890850067138672
         }
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69a1d78e929881919bba0dbda1f6436d": {
       "id": "plugin_asdk_app_69a1d78e929881919bba0dbda1f6436d",
@@ -15606,13 +15602,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "部署并管理 AI 智能体",
       "legacySummaryOriginal": "Deploy and manage AI agents",
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Create, configure, deploy, and operate account-scoped Zeiko agents and teams from ChatGPT and Codex, with approvals for consequential changes.",
+      "description": "Create a private customer-support agent from your website, test its answers before launch, and request approval to activate it. Review support quality and evidence-backed improvement suggestions in your Zeiko workspace.",
       "information": [
         {
           "label": "Developer",
@@ -15633,17 +15629,18 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.1.2",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T15:29:19.083Z",
+      "detailCheckedAt": "2026-10-06T05:30:56.763Z",
       "translationAttemptRun": "37134929786",
       "translationError": {
         "at": "2026-10-03T17:51:42.508Z",
         "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a969a0d0e808191b67e75d6eefae803": {
       "id": "plugin_asdk_app_6a969a0d0e808191b67e75d6eefae803",
@@ -28114,13 +28111,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "增强智能体知识",
       "legacySummaryOriginal": "Augment agent knowledge",
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Socra Cortex turns your specific knowledge and work into reusable infrastructure your agents read, think, and act on across tools and time.\n\nWith Cortex, ChatGPT can capture what you know, assemble it into a dependency graph, and learn it on-demand, turning ChatGPT into a subject matter expert in your domain instantly.\n\nKey Features:\n- Context Modules: Composable, reusable context that can be assembled into a complex knowledge dependency graph\n- Flash: Load the complete dependency graph of any Module into the context window in dependency order on demand, turning a generic agent into an SME\n- Issues: Create and manage work across your entire organization\n- Collaboration: Works with your entire team, so you can share context and work",
+      "description": "Socra Cortex helps people and teams stop repeating the same preferences, requirements, and decisions to ChatGPT and Codex. It keeps that knowledge and its reasons in a single source of truth that agents can retrieve before acting, across conversations and tools.\n\nModules record what should be and why, with a responsible owner and version history. Dependencies link the knowledge required to understand it. Flash loads the relevant Module and all its Dependencies, foundations first and each Module once.\n\nTeam members can own different subjects while their knowledge works together. For example, a product requirement Module created in ChatGPT can depend on architecture and security Modules maintained by their owners. Codex can Flash that requirement before implementing it and receive those decisions together.\n\nAs conversations and work reveal new knowledge, agents propose changes to existing Modules, so the knowledge always stays up to date. The suggested workflow asks them to show exact Before and After content and Dependencies for the owner's approval before saving. Updates become available on later Flashes, while version history preserves earlier knowledge and records changes.\n\nIssues connect tasks to the Modules governing them, with assignees, work dependencies, comments, and evidence. Inboxes show unblocked work to its responsible person or agent; completed Issues preserve the outcome and history.\n\nPeople and teams own the knowledge in their Socra Account, with Module permissions for people and groups. Review Modules, the knowledge map, and work at https://cortex.socra.com. Connect ChatGPT, Codex, or any other AI provider to that same Account with Cortex access.\n\nSetup and agent instructions: https://workspace.socra.com/docs/cortex/installation.md",
       "information": [
         {
           "label": "Developer",
@@ -28141,17 +28138,18 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.0.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T15:32:29.152Z",
+      "detailCheckedAt": "2026-10-06T05:30:58.354Z",
       "translationAttemptRun": "37134929786",
       "translationError": {
         "at": "2026-10-03T17:54:10.318Z",
         "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a8cd3d6adfc8191b7e01f6fc439da30": {
       "id": "plugin_asdk_app_6a8cd3d6adfc8191b7e01f6fc439da30",
@@ -28667,13 +28665,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "把食谱存到 SousAI",
       "legacySummaryOriginal": "Save recipes to SousAI",
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "SousAI lets you save any recipe ChatGPT generates or finds directly into your SousAI account — ingredients, steps, prep/cook time, and tags included — so it shows up ready to use in the SousAI app, no copy-pasting required.",
+      "description": "SousAI helps users save, find, view, and update their private recipes, manage grocery lists, and track kitchen inventory from ChatGPT. All tools operate only on the authenticated user's SousAI account. Use it to save a recipe, locate a saved recipe, update recipe details, check a grocery list or pantry, and add items to either list.",
       "information": [
         {
           "label": "Developer",
@@ -28682,7 +28680,7 @@
         },
         {
           "label": "Category",
-          "value": "Productivity",
+          "value": "Other",
           "links": []
         },
         {
@@ -28694,17 +28692,18 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T15:32:37.588Z",
+      "detailCheckedAt": "2026-10-06T05:30:59.928Z",
       "translationAttemptRun": "37134929786",
       "translationError": {
         "at": "2026-10-03T17:54:16.744Z",
         "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_697b6a3d751c81918fbd1d7419eca9b2": {
       "id": "plugin_asdk_app_697b6a3d751c81918fbd1d7419eca9b2",
@@ -31970,14 +31969,14 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "保持故事连贯性",
       "legacySummaryOriginal": "Preserve story continuity",
       "legacyDescriptionSource": "Resume long-running stories with relevant saved canon, approved scenes, and provisional checkpoints. Keep characters and world rules consistent, revise approved facts with history, and compare drafts against established details. With your permission, the assistant can save concise checkpoints while you write so your next conversation has a useful starting point.\nContinuity receives only content sent through its tools; it does not automatically back up entire chats or guarantee saving before context is lost. Requires an existing Continuity account with Pro or active trial access.",
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Resume long-running stories with relevant saved canon, approved scenes, and provisional checkpoints. Keep characters and world rules consistent, revise approved facts with history, and compare drafts against established details. With your permission, the assistant can save concise checkpoints while you write so your next conversation has a useful starting point. Continuity receives only content sent through its tools; it does not automatically back up entire chats or guarantee saving before context is lost. Requires an existing Continuity account with Pro or active trial access.",
+      "description": "Keep character details, world rules, and story events consistent across ChatGPT conversations. Save approved facts and scene summaries, retrieve them when continuing a story in a new chat, and check drafts against saved canon for contradictions. Save provisional checkpoints for unfinished scenes, unresolved questions, and next steps. Continuity receives only content sent through its tools with your permission. It does not automatically back up entire chats, recover unsaved details, or guarantee error-free writing. Requires an existing Continuity account with Pro or active trial access.",
       "information": [
         {
           "label": "Developer",
@@ -31998,17 +31997,18 @@
         },
         {
           "label": "Version",
-          "value": "0.5.0",
+          "value": "0.5.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T15:33:26.321Z",
+      "detailCheckedAt": "2026-10-06T05:31:01.494Z",
       "translationAttemptRun": "37134929786",
       "translationError": {
         "at": "2026-10-03T17:54:57.067Z",
         "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a13e34004448191a3d689bf5b356065": {
       "id": "plugin_asdk_app_6a13e34004448191a3d689bf5b356065",
@@ -46079,7 +46079,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "无服务器 Postgres",
       "legacySummaryOriginal": "Manage Neon databases",
@@ -46089,8 +46089,13 @@
       "description": "Neon lets users inspect and manage Neon projects, branches, computes, Postgres databases, authentication, data APIs, functions, storage, logs, and database changes through ChatGPT.",
       "information": [
         {
+          "label": "Capabilities",
+          "value": "Read, Write",
+          "links": []
+        },
+        {
           "label": "Developer",
-          "value": "Databricks Inc.",
+          "value": "Neon (A Databricks, Inc. company)",
           "links": []
         },
         {
@@ -46107,12 +46112,12 @@
         },
         {
           "label": "Version",
-          "value": "2.0.0",
+          "value": "2.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:02:36.386Z",
+      "detailCheckedAt": "2026-10-06T05:31:03.107Z",
       "translationAttemptRun": "37202584253:1",
       "translation": {
         "summary": "管理Neon数据库",
@@ -46130,7 +46135,8 @@
           },
           "neurons": 17.052949905395508
         }
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a3c407853888191beddc2151c2b6f8b": {
       "id": "plugin_asdk_app_6a3c407853888191beddc2151c2b6f8b",
@@ -71646,14 +71652,14 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "信息流工具",
       "legacySummaryOriginal": "Publish X and Email with AI",
       "legacyDescriptionSource": "FeedClaw is the content inbox for AI agents. Draft posts and newsletters, review them in your inbox, then publish to X or send as email — all from ChatGPT. Every post goes through a human checkpoint before it goes live. Schedule ahead, manage multiple brands, and build subscriber lists.",
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "FeedClaw is the content inbox for AI agents. Draft posts and newsletters, review them in your inbox, then publish to X or send as email — all from ChatGPT. Every post goes through a human checkpoint before it goes live. Schedule ahead, manage multiple brands, and build subscriber lists.",
+      "description": "FeedClaw is the content inbox for AI agents. Ask ChatGPT for a post, an X thread, or a newsletter, review it in the chat or in your inbox, then publish to X, LinkedIn, or email. Nothing goes out until you say so. First-time setup happens in the chat: name your brand, connect a channel from a link, and post. Attach photos or video, schedule ahead, manage several brands, and build subscriber lists.",
       "information": [
         {
           "label": "Developer",
@@ -71674,17 +71680,18 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:18:12.446Z",
+      "detailCheckedAt": "2026-10-06T05:31:04.693Z",
       "translationAttemptRun": "37134929786",
       "translationError": {
         "at": "2026-10-03T16:18:12.750Z",
         "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69b0b3d19240819199df11e97559d1d6": {
       "id": "plugin_asdk_app_69b0b3d19240819199df11e97559d1d6",
@@ -85430,13 +85437,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "社交工具",
       "legacySummaryOriginal": "Post to Instagram, TikTok, X",
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Post to Instagram, TikTok, LinkedIn, X (Twitter), Facebook, Threads and Bluesky from a single message. 1Social fits each caption to the network's limit, warns when a network needs an image, and schedules posts up to 30 days ahead.\n\nAfter publishing it reports each network separately — what landed, what failed and why — and can retry one network without touching the rest. Edit or cancel anything still scheduled.",
+      "description": "Schedule and post to Instagram, TikTok, Facebook, LinkedIn, X (Twitter), Threads and Bluesky from a single message. 1Social fits each caption to the network's limit, warns when a network needs an image, and schedules posts up to 30 days ahead.\n\nAfter publishing it reports each network separately — what landed, what failed and why — and can retry one network without touching the rest. Edit or cancel anything still scheduled.",
       "information": [
         {
           "label": "Developer",
@@ -85457,17 +85464,18 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:27:33.328Z",
+      "detailCheckedAt": "2026-10-06T05:31:06.255Z",
       "translationAttemptRun": "37134929786",
       "translationError": {
         "at": "2026-10-03T16:27:33.653Z",
         "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a840b4bf4cc8191a12c333a0b1dc596": {
       "id": "plugin_asdk_app_6a840b4bf4cc8191a12c333a0b1dc596",
@@ -106203,13 +106211,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "询问你的第一方数据",
       "legacySummaryOriginal": "Ask your first-party data",
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Every post, comment, and reaction in your community is a signal about what your members care about. Social Plus Agentry turns that first-party data into answers — just ask in plain English, right from ChatGPT.\n\nAsk things like:\n - Which communities grew fastest this month?\n - What share of new members posted within their first week?\n - Compare reaction rates on posts vs. stories over the last 30 days\n - Who are our top contributors, and where are they most active?\n\nEvery answer comes back as a clear summary plus the underlying data, so you can tabulate it, chart it, or keep drilling down with follow-up questions. Data refreshes daily and covers roughly the last 90 days of activity.\n\nYour data stays yours: Agentry is read-only. It never posts, modifies, or deletes anything.\n\nTo connect, you'll need a Social Plus network with Agentry enabled and a connect code from a Console super admin.",
+      "description": "social.plus Agentry connects ChatGPT to the first-party data your app already generates. Ask questions about your community, users, content, activity, and growth in plain language, and get a clear answer ready to visualize, tabulate or dig into with follow-up questions.\n\nAsk things like:\n- I'm prepping a campaign brief. What content formats drove the most activity last month, and which user segments engaged the most?\n- We launched a new feature last Tuesday. How did user activity change in the days after compared to the week before?\n- I have a QBR in an hour. Give me a snapshot of growth, active users, and top-performing content in this quarter.\n- What are the trending topics this week? Any notable shifts in what users are talking about?\n- Break down our most active user segments by how they engage. Who posts, who comments, who reacts?\n\nYour data stays yours: Agentry is read-only. It never posts, modifies, or deletes anything. Data refreshes daily and covers roughly the last 90 days of activity.\n\nTo connect, you'll need a social.plus network with Agentry enabled and a connect code from a Console super admin.",
       "information": [
         {
           "label": "Developer",
@@ -106230,17 +106238,18 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:41:45.857Z",
+      "detailCheckedAt": "2026-10-06T05:31:07.825Z",
       "translationAttemptRun": "37134929786",
       "translationError": {
         "at": "2026-10-03T16:41:46.177Z",
         "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_connector_1p_b1cefad35a80819184ba7ed35d601d34": {
       "id": "plugin_connector_1p_b1cefad35a80819184ba7ed35d601d34",
@@ -109802,13 +109811,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "乐谱、TAB 谱与播放",
       "legacySummaryOriginal": "Sheet music, TAB & playback",
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Music Block turns ChatGPT’s music answers into real, engraved sheet music instead of ASCII text.\n\nAsk about licks, scale fingerings, arpeggios, chord voicings, progressions, bass lines, grooves or exercises — “give me 5 licks in melodic minor over B7alt”, “show me four ways to resolve B7alt into Em”, “write a walking bass line over a ii–V–I” — and Music Block renders each example as engraved notation directly in the conversation: standard notation with tablature for guitar, or a grand staff for piano with both hands.\n\nExamples can sound like a band, not just a single line. ChatGPT can add backing tracks — bass, chords, pads, rhythm guitar and drums — so a lick plays over its chord changes and a groove has a rhythm section under it. Backing parts are heard during playback and can be engraved too, so a drum groove or bass lesson gets its own staff.\n\nEvery example is interactive: press play to hear it with real instrument sounds, slow it down or speed it up from 50% to 150% without changing pitch, and mix the tracks yourself — mute or solo any part and adjust its volume to bring out the line you are studying. Switch between examples, and copy the underlying alphaTex source into your own tools.\n\nMusic Block understands guitar technique markings — hammer-ons, pull-offs, slides, half- and full-step bends, vibrato, palm muting and let-ring — plus chord symbols above the staff, time signatures from 4/4 to 12/8, rests, dotted rhythms and pickups. Examples run from a single bar up to a 24-bar solo or chorus.\n\nIt is built for learning and teaching: short, original musical examples composed by ChatGPT in your conversation. It does not look up or reproduce copyrighted songs or published transcriptions, and requires no account. Submitted examples and their rendered output are retained to operate and improve the service, as described in the privacy policy.",
+      "description": "Music Block turns music ideas in ChatGPT into playable sheet music and TAB.\n\nAsk for guitar licks, piano voicings, bass lines, drum grooves, melodies, chord progressions, exercises, arrangements, or music theory examples, and Music Block renders them as engraved notation directly in the conversation.\n\nTry prompts like “give me 5 melodic minor licks over B7alt,” “write a walking bass line over a ii–V–I,” “show me jazz piano voicings with smooth voice leading,” or “arrange this melody for string quartet.”\n\nMusic Block supports guitar, bass, ukulele, piano and keyboards, drums, strings, brass, woodwinds, saxophones, and voices. Guitar, bass, and ukulele examples include TAB; keyboards use a grand staff; ensembles can contain up to eight parts.\n\nEvery example includes playback, so you can hear what you are learning, change the tempo, and mute or solo individual parts. You can also work with alternate tunings, extended-range guitars and basses, swing and shuffle rhythms, tuplets, chord symbols, and common guitar techniques such as bends, slides, hammer-ons, and pull-offs.\n\nUse Music Block for practice, teaching, songwriting, arranging, and exploring music theory with short, original examples created for your conversation.",
       "information": [
         {
           "label": "Developer",
@@ -109829,17 +109838,18 @@
         },
         {
           "label": "Version",
-          "value": "1.1.0",
+          "value": "1.2.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:44:14.081Z",
+      "detailCheckedAt": "2026-10-06T05:31:09.430Z",
       "translationAttemptRun": "37134929786",
       "translationError": {
         "at": "2026-10-03T16:44:14.385Z",
         "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6948af96247c81919904f9478c34334f": {
       "id": "plugin_asdk_app_6948af96247c81919904f9478c34334f",
@@ -110700,14 +110710,14 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "搜索笔记并创建考试",
       "legacySummaryOriginal": "Search notes and create exams.",
       "legacyDescriptionSource": "Find top-rated study notes from students taking the same courses as you. Generate mock exams from the study notes.",
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Find top-rated study notes from students taking the same courses as you. Generate mock exams from the study notes.",
+      "description": "Studocu helps students find study documents, set course context, ground answers from the open web, and manage authenticated study projects—attaching sources, reading artifacts, creating quizzes or mock exams, and keeping durable study memory—through ChatGPT.",
       "information": [
         {
           "label": "Developer",
@@ -110728,17 +110738,18 @@
         },
         {
           "label": "Version",
-          "value": "3.0.0",
+          "value": "4.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:44:50.945Z",
+      "detailCheckedAt": "2026-10-06T05:31:11.130Z",
       "translationAttemptRun": "37134929786",
       "translationError": {
         "at": "2026-10-03T16:44:51.248Z",
         "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69a0d0b83b5881919dd5f0e53b525d31": {
       "id": "plugin_asdk_app_69a0d0b83b5881919dd5f0e53b525d31",
@@ -125234,14 +125245,14 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "干净的公开基本面数据",
       "legacySummaryOriginal": "Clean public fundamental data",
       "legacyDescriptionSource": "Access institutional-grade financial data directly within ChatGPT. Fiscal.ai delivers fundamental metrics and ratios minutes after earnings are reported, with every figure verifiable via direct links to the source filing. Beyond core financials, Fiscal.ai provides company-specific KPIs, revenue segments, and adjusted metrics. Combined with historical and current market quotes, it enables grounded, audit-ready equity research with unmatched speed.",
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Access institutional-grade financial data directly within ChatGPT. Fiscal.ai delivers fundamental metrics and ratios minutes after earnings are reported, with every figure verifiable via direct links to the source filing. Beyond core financials, Fiscal.ai provides company-specific KPIs, revenue segments, and adjusted metrics. Combined with historical and current market quotes, it enables grounded, audit-ready equity research with unmatched speed.",
+      "description": "Fiscal.ai helps users research public companies through source-linked financial statements, ratios, prices, filings, news, ownership, segments, KPIs, earnings events, and fund letters available under their Fiscal.ai account.",
       "information": [
         {
           "label": "Developer",
@@ -125262,17 +125273,18 @@
         },
         {
           "label": "Version",
-          "value": "2.0.0",
+          "value": "3.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:54:58.338Z",
+      "detailCheckedAt": "2026-10-06T05:31:12.737Z",
       "translationAttemptRun": "37134929786",
       "translationError": {
         "at": "2026-10-03T16:54:58.662Z",
         "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69dec38a167c81918dfcd4a2c1d1bbcf": {
       "id": "plugin_asdk_app_69dec38a167c81918dfcd4a2c1d1bbcf",
@@ -127832,13 +127844,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "探索房贷利率",
       "legacySummaryOriginal": "Explore home loan rates",
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Explore home lending rates with LendingTree through ChatGPT. Get an overview of current mortgage and refinance rates seen on our network and filter based on loan term, estimated credit score, state and loan amount. When you’re ready to see your own personalized offers, you can continue to LendingTree to compare your options.\n\nThe app does not provide lender-specific quotes, approvals, pre-qualification, financial advice, or any promise of a specific rate within ChatGPT or on LendingTree’s site. LendingTree is responsible only for the LendingTree content and functionality within the LendingTree app experience and is not responsible for ChatGPT-generated responses or any content or functionality outside of the LendingTree app experience.\n\nConsumers should consult with qualified financial, tax, legal, and/or mortgage professionals to determine which loan product, if any, is appropriate for their individual circumstances.",
+      "description": "Explore financial product rates with LendingTree through ChatGPT. See current rate estimates from the LendingTree network for:\n\n- Mortgages and mortgage refinance loans\n- Home equity loans\n- Personal loans between $5,000 and $50,000\n\nTry prompts like:\n\n@LendingTree What are mortgage rates like in my area?\n\n@LendingTree What would my rate be for a $100,000 home equity loan in CA?\n\n@LendingTree What are rates like right now for a $10,000 personal loan?\n\nFilter your results based on loan purpose, term, estimated credit profile, state, and loan amount to understand how rates may vary. When you’re ready to see personalized offers, you can continue to LendingTree to compare your options.\n\nThe app does not provide lender-specific quotes, approvals, pre-qualification, financial advice, or a promise of a specific rate within ChatGPT or on LendingTree’s site. LendingTree is responsible only for the LendingTree content and functionality within the LendingTree app experience and is not responsible for ChatGPT-generated responses or any content or functionality outside of the LendingTree app experience. Available filters vary by financial product. Consumers should consult with qualified financial, tax, and legal professionals and, where applicable, mortgage professionals to determine which product, if any, is appropriate for their individual circumstances. LendingTree, LLC. NMLS #1136.",
       "information": [
         {
           "label": "Developer",
@@ -127859,17 +127871,18 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:56:44.593Z",
+      "detailCheckedAt": "2026-10-06T05:31:14.312Z",
       "translationAttemptRun": "37134929786",
       "translationError": {
         "at": "2026-10-03T16:56:44.917Z",
         "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a21e73e0710819187cded8a61360db9": {
       "id": "plugin_asdk_app_6a21e73e0710819187cded8a61360db9",
@@ -135127,13 +135140,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "通过 ChatGPT 使用 HelpDol",
       "legacySummaryOriginal": "HelpDol via ChatGPT",
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Control your business by chatting with ChatGPT.\n\nHelpDol is an AI-powered financial management app for sales professionals, service providers, self-employed workers, freelancers, contractors, and small business owners. Chat naturally with ChatGPT to record sales, services, income, expenses, payments, receipts, accounts payable, and accounts receivable using voice, text, or photos.\n\nTrack your financial transactions, cash flow, profit, due dates, and financial summaries in real time. All information stays synchronized with HelpDol, allowing you to manage your business quickly, simply, and efficiently directly through ChatGPT",
+      "description": "Control your business by chatting with ChatGPT.\n\nHelpDol is an AI-powered financial management app for sales professionals, service providers, self-employed workers, freelancers, contractors, and small business owners. Connect your bank account once in the HelpDol app and your income and expenses are imported automatically — no manual typing, no duplicates.\n\nThen just ask. Check your profit, balance, cash flow, accounts payable and receivable, and how much you have paid each helper. Sort out the transfers that still need review, schedule upcoming payments with reminders, generate receipts for helpers and clients, pull your yearly report for the accountant, and charge customers by card or payment link — all from the chat.",
       "information": [
         {
           "label": "Developer",
@@ -135154,17 +135167,18 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.0.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T17:01:47.797Z",
+      "detailCheckedAt": "2026-10-06T05:31:15.887Z",
       "translationAttemptRun": "37134929786",
       "translationError": {
         "at": "2026-10-03T17:01:48.099Z",
         "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69fced09915c8191a27ef57328938fec": {
       "id": "plugin_asdk_app_69fced09915c8191a27ef57328938fec",
@@ -155567,13 +155581,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "查找并预订渡轮票",
       "legacySummaryOriginal": "Find and book ferry tickets",
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Ferryhopper lets you search ferry routes and schedules using natural language. Ask about connections and dates, and the app finds available ferry options in seconds. When you're ready, it provides a direct link to the Ferryhopper website to securely complete your booking.",
+      "description": "Ferryhopper helps travelers plan ferry journeys across Europe and the Mediterranean. Users can look up ferry ports, see which destinations are reachable directly from a port, search one-way, round-trip or island-hopping sailings of up to five legs with indicative prices and per-segment availability (cabins, vehicles, pets, e-tickets), inspect a specific sailing's vessel amenities, photos and accommodation options, and check disruption alerts such as strikes, weather warnings and cancellations. Search results link to ferryhopper.com, where the user completes the booking.",
       "information": [
         {
           "label": "Developer",
@@ -155594,17 +155608,18 @@
         },
         {
           "label": "Version",
-          "value": "2.0.0",
+          "value": "4.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T17:16:06.467Z",
+      "detailCheckedAt": "2026-10-06T05:31:17.461Z",
       "translationAttemptRun": "37134929786",
       "translationError": {
         "at": "2026-10-03T17:16:06.769Z",
         "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a3bddaef8848191b12ee1232f2278fc": {
       "id": "plugin_asdk_app_6a3bddaef8848191b12ee1232f2278fc",
@@ -170069,13 +170084,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "免费塔罗与星座占卜",
       "legacySummaryOriginal": "Free tarot and zodiac readings",
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Evelyn Tarot brings the quiet, unhurried side of tarot into ChatGPT.\n\nDraw your card of the day, pull a past-present-future spread for a question you are carrying, or look up any of the 78 tarot cards and read what it means upright and reversed. Beyond the cards, check this week's reading for your zodiac sign, compare the compatibility of two signs, see the current moon phase and its message, calculate your numerology life path number, or find the meaning behind a repeating angel number.\n\nEverything is free, nothing requires an account, and every tool works in ten languages — English, Turkish, Spanish, Portuguese, Italian, Arabic, French, Japanese, Hindi and Indonesian.\n\nThese readings are offered for reflection and entertainment. They are not medical, legal or financial advice, and no outcome is guaranteed.",
+      "description": "Evelyn Tarot brings the quiet, unhurried side of tarot into ChatGPT.\n\nYou draw your own cards: Evelyn asks your name, your age and what brings you, opens the face-down fan, and waits for you to choose.\n\nEvelyn Tarot lets you draw your own cards. She asks your name, your age and what brings you to the cards, opens a face-down fan, waits for you to choose, and only then turns them. Fourteen reading types — love, who you will marry, what they feel about you, career, a deep psychic reading, the year ahead and more — each written as a long, personal reading in your own language. Also free card meanings, weekly zodiac readings, compatibility, moon phase, numerology and angel numbers.\n\nEverything is free, nothing requires an account, and every tool works in ten languages — English, Turkish, Spanish, Portuguese, Italian, Arabic, French, Japanese, Hindi and Indonesian.\n\nThese readings are offered for reflection and entertainment. They are not medical, legal or financial advice, and no outcome is guaranteed.",
       "information": [
         {
           "label": "Developer",
@@ -170096,17 +170111,18 @@
         },
         {
           "label": "Version",
-          "value": "2.0.0",
+          "value": "3.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T17:26:18.158Z",
+      "detailCheckedAt": "2026-10-06T05:31:19.078Z",
       "translationAttemptRun": "37134929786",
       "translationError": {
         "at": "2026-10-03T17:26:18.482Z",
         "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a2eb9773400819196dedd532327ec92": {
       "id": "plugin_asdk_app_6a2eb9773400819196dedd532327ec92",
@@ -175758,14 +175774,14 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "免费八字与运势解读",
       "legacySummaryOriginal": "Free Saju & Fortune Reading",
       "legacyDescriptionSource": "Doctor Fortune (운세박사) is an AI app that analyzes your birth date using traditional Korean fortune-telling principles (Saju/Four Pillars of Destiny). Simply enter your birthday, birth time, and gender to receive personalized fortune readings including love, career, wealth, and compatibility insights. The app calculates your Saju chart based on authentic Eastern astrology methods and explains results in easy-to-understand language.\nWhether you're curious about your yearly fortune or life path, Doctor Fortune provides clear and structured guidance through an optimized ChatGPT interface.",
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Doctor Fortune (운세박사) is an AI app that analyzes your birth date using traditional Korean fortune-telling principles (Saju/Four Pillars of Destiny). Simply enter your birthday, birth time, and gender to receive personalized fortune readings including love, career, wealth, and compatibility insights. The app calculates your Saju chart based on authentic Eastern astrology methods and explains results in easy-to-understand language. Whether you're curious about your yearly fortune or life path, Doctor Fortune provides clear and structured guidance through an optimized ChatGPT interface.",
+      "description": "SAJU is a free AI Saju reading app by Saju.com — the global edition of Doctor Fortune (운세박사), the #1 fortune-telling app on the ChatGPT store, built with more than 50 professional astrologers. Saju (사주, Four Pillars of Destiny, also known as BaZi / 八字) is the classical Korean and East Asian birth-chart system that reads your destiny from the year, month, day and hour you were born.\n\nJust tell ChatGPT your birth date, birth time, gender and birth city. SAJU casts an accurate Four Pillars chart for any city in the world — real astronomical solar terms, historical time zones and longitude-corrected local time — and shows it as an interactive chart: your Day Master, Heavenly Stems and Earthly Branches, Ten Gods, five-element balance, combinations and clashes, auspicious and challenging stars, and a graphic timeline of your 10-year Luck Pillars, annual luck and monthly luck.\n\nThen keep the conversation going in plain language: personality and life path, career and wealth, love, marriage and compatibility, health, this year and next year, the best months to change jobs or move, and whether a specific day is good for a wedding, a contract or an interview — SAJU pulls the exact day pillar for any date. Works in English, Korean, Japanese, Chinese, Spanish, Portuguese, German, French, Vietnamese, Thai, Hindi, Arabic, Italian, Turkish and Indonesian.\n\nAlso known as: AI Saju · Saju reading · Korean fortune telling · Four Pillars of Destiny · BaZi · Chinese astrology · Day Master · 사주 · 사주팔자 · AI 사주 · 무료 사주 · 四柱推命 · 八字 · 四柱命理 · 算命 · Tứ Trụ · Bát Tự · Tử vi · ดวงจีน · โป๊ยหยี่ · कोरियाई ज्योतिष · Saju coreano · Cuatro Pilares del Destino · Quatro Pilares do Destino · Vier Säulen des Schicksals · Quatre Piliers de la Destinée · Quattro Pilastri del Destino · Kaderin Dört Sütunu · Ramalan Saju · الأعمدة الأربعة للمصير.\n\nSAJU never asks for anything beyond your birth details, and it is free to use.",
       "information": [
         {
           "label": "Developer",
@@ -175781,22 +175797,23 @@
           "label": "Website",
           "value": "",
           "links": [
-            "https://aifortunedoctor.com/"
+            "https://saju.com/"
           ]
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "3.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T17:30:46.583Z",
+      "detailCheckedAt": "2026-10-06T05:31:20.686Z",
       "translationAttemptRun": "37134929786",
       "translationError": {
         "at": "2026-10-03T17:30:46.886Z",
         "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a85aabb74f48191a4071b151ac4a9c3": {
       "id": "plugin_asdk_app_6a85aabb74f48191a4071b151ac4a9c3",
@@ -201093,7 +201110,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Connect your lolcv account to find and read your CVs and cover letters, prepare tailored drafts from content you approve, and search job listings with source links. Choose from 98 CV templates, including 32 Pro designs, or 13 cover-letter designs. Restyle a CV into a separate copy while keeping the original. Pro identifies a design collection; all listed templates are currently selectable. Job filters may be sent to external providers; results may be cached or incomplete. Separate permissions control CVs, cover letters and job search. Open drafts in lolcv to review the layout, edit and export. Requires a lolcv account. Does not send applications, contact employers, publish, overwrite or delete documents.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Guy Sleiman",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Productivity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://lolcv.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.2.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:29:46.336Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a873ec3b6488191aa7416a79715b0ca": {
       "id": "plugin_asdk_app_6a873ec3b6488191aa7416a79715b0ca",
@@ -201108,7 +201153,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "ComingUp Today helps families keep household schedules and shared information in one place. Without signing in, users can search published product information such as feature explanations, setup guides, and integration instructions. After connecting an existing ComingUp account, users can check private household schedules, lists, notes, contacts, and recipes, and make supported changes to ComingUp-owned information. External provider calendar events remain read-only, permissions are explicitly granted, and administrative or cross-household capabilities are excluded.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "COMINGUP TODAY LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Productivity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.comingup.today/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:29:47.935Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aad619989b88191be7c8725658b2a15": {
       "id": "plugin_asdk_app_6aad619989b88191be7c8725658b2a15",
@@ -201123,7 +201196,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Turn products, references and scripts into images, videos and audio with Zim Studio. Plan campaigns, write copy and UGC scripts, create stills and carousel assets, and develop cinematic scenes. Edit existing videos with Mirage, Clone and Angles, create storyboards, and organize results in projects. Creative skills help with direction, continuity, formats and review criteria. Connect your Zim Studio account to use your library, brand knowledge and available features. Check the cost before generating; media creation uses your existing Zim Studio credits.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Zim Content",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://zim.studio/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:29:49.555Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_697a947e772c8191b888e4e23376bcf2": {
       "id": "plugin_asdk_app_697a947e772c8191b888e4e23376bcf2",
@@ -201138,7 +201239,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Templated is an API and drag-and-drop editor for generating images, videos and PDFs from reusable templates. Design a template once (or import it from Canva), then let ChatGPT render it with new text, images and colors on demand.\n\nWith this app ChatGPT can:\n- Render images (PNG, JPG, WebP), multi-page PDFs and MP4 videos from any of your templates by changing layer values\n- Browse, search and inspect your templates, layers and pages to know what can be customized\n- Create, update, clone and organize templates and folders\n- Upload images and fonts from URLs and manage your assets\n- Merge PDF renders and check your account usage\n\nRenders are produced by Templated's rendering engine from templates you designed, so the output is consistent, on-brand and ready to use in marketing, e-commerce, social media, documents and automations. Sign in with your Templated account when connecting.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Templated",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://templated.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.1.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:29:51.144Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aab6c4bd7d88191a4108d8f4c5e4b4e": {
       "id": "plugin_asdk_app_6aab6c4bd7d88191a4108d8f4c5e4b4e",
@@ -201153,7 +201282,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Light Remote lets users connect ChatGPT to explicitly authorized devices they own, inspect device topology and effective policy, open durable sessions, work with files and Git, run bounded commands and managed processes, use real PTY/ConPTY terminals, recover job output after interruptions, and manage Main/Fleet device authority without silently switching targets.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Thái Duy",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://light-remote.thaiduy.digital/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:29:52.731Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a95bf45d8848191a7b0e8ee04637e4e": {
       "id": "plugin_asdk_app_6a95bf45d8848191a7b0e8ee04637e4e",
@@ -201168,7 +201325,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Impreza Host is privacy-first offshore hosting. Connect your account and work with your infrastructure right in the conversation: list your servers, deploy an app from the curated catalog or straight from a git repository, follow the deploy and read container logs when something fails, manage domains and DNS records, control VPS power, snapshots and backups, and check invoices and balance.\n\nEvery tool acts only on the account you authenticate with, and the OAuth scope you grant (read, deploy or manage) decides what is callable. Read-only tools are labelled as such; anything that erases a disk, interrupts a live machine or affects billing is labelled destructive, so it can be confirmed with you before it runs. Purchases are completed on our checkout page, not inside the chat.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "ImpCom International Ltd.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://impreza.host/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.4.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:29:54.334Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a9247b0f9c88191ba78db2d222337a6": {
       "id": "plugin_asdk_app_6a9247b0f9c88191ba78db2d222337a6",
@@ -201183,7 +201368,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Check AI service status across official provider notices, community reports, and opt-in installed-client signals. Sources stay separate so you can compare the evidence yourself.\nRead-only, no account required, and never reads prompts, files, credentials, or messages.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "경원 이",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://notjustyou.dev/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "0.1.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:29:55.936Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa258abd3d881918c6dc56382d59ad2": {
       "id": "plugin_asdk_app_6aa258abd3d881918c6dc56382d59ad2",
@@ -201198,7 +201411,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Swigs Cloud puts your project online in a single sentence. Give it a GitHub repository: the connector detects the framework, builds the project and publishes it over HTTPS on servers located Switzerland. You can then check the status of your sites, read deployment logs, manage environment variables and roll back to a previous version without leaving the conversation. Your data never leaves Swiss territory, backups included, and prices are in Swiss francs.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Swigs SA",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://swigs.cloud/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:29:57.540Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a95a9328ee8819193a42410e997fc50": {
       "id": "plugin_asdk_app_6a95a9328ee8819193a42410e997fc50",
@@ -201213,7 +201454,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Maxed Marketing helps teams explore authorized marketing, AI-visibility, and—where permitted—product-telemetry data to investigate performance and identify next steps.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Amplify 11, inc.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Business & Operations",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://maxedmarketing.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:29:59.755Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa2cf83fd1c8191955cb5416baa54a2": {
       "id": "plugin_asdk_app_6aa2cf83fd1c8191955cb5416baa54a2",
@@ -201228,7 +201497,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Canarics runs AI voice agents that answer and make phone calls for sales and service teams, and analyzes every recorded human call (summary, quality score, sentiment, next steps). This connector lets a team's AI assistant read minute usage, voice agents, call summaries, AI-agent conversations and daily statistics, check history with a specific caller, and request an AI callback to customers the team already knows. Companies without an account can sign up through the assistant: signup produces a claim link where a real person verifies their phone by SMS and accepts the terms, then a trial activates with a demo voice agent generated from the company website. EU-hosted (Google Cloud Run, europe-central2). Read-only by design where it matters: no transcripts, no voice-agent prompt editing, no cold-call capability.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Canarics",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Business & Operations",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://canarics.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "2.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:01.355Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a9586f0e6d081918e32b97360796504": {
       "id": "plugin_asdk_app_6a9586f0e6d081918e32b97360796504",
@@ -201243,7 +201540,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "SmartFlow Portal brings client projects into ChatGPT. View project plans and milestones, follow actions waiting on you, review invoices, and keep delivery moving. Authorized SmartFlow administrators can also manage organizations, plans, client submissions, time entries, and billing workflows, with access enforced from the signed-in user's role and organization scope.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "HUGO GEBEL",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Business & Operations",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://portal.smartflowsa.ch/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:02.953Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a8b5dbaf2b881918d86b6b10f49e0ba": {
       "id": "plugin_asdk_app_6a8b5dbaf2b881918d86b6b10f49e0ba",
@@ -201258,7 +201583,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Made In Show (MIS) is the management platform for event production companies — audio, video and lighting service providers. This connector links ChatGPT to your company's MIS installation so your team can work with live production data in plain language.\n\nAsk about productions and their schedules, check warehouse availability for specific dates, spot material and crew conflicts before they happen, review how complete a production is, and read production notes and supplier statistics — and, when your administrator allows it, act on the data: reserve equipment, add locations, create productions, and draft estimate texts.\n\nAccess is off by default and controlled per user by your MIS administrator: each user's AI access can view data, view and act, or nothing at all. Write operations follow the same per-user permission, enforced server-side on every call; tools designed for impactful changes (such as creating a production) add their own two-step confirmation. The connector authenticates with OAuth against your installation; data flows only between ChatGPT and your MIS backend, is never used for model training by Made In Show, and tool calls are logged for 90 days for audit purposes (responses are never stored).\n\nRequires an account on a Made In Show installation with AI access enabled by the administrator.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "SyncLab Studio",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Business & Operations",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://madeinshow.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.1.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:04.587Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a9b0d0a63cc8191ab798443d0d498db": {
       "id": "plugin_asdk_app_6a9b0d0a63cc8191ab798443d0d498db",
@@ -201273,7 +201626,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Recruiterflow helps users search and count candidates and jobs, resolve team members, companies, stages, and custom fields, inspect job pipelines, and review candidate activity timelines through ChatGPT.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Recruiterflow, Inc.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Business & Operations",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://recruiterflow.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:06.156Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a89d92aea648191a628dc00c21171c8": {
       "id": "plugin_asdk_app_6a89d92aea648191a628dc00c21171c8",
@@ -201288,7 +201669,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Reecopedia searches the primary texts of EU textile sustainability law and returns the matching passages with their source file and page, so answers can be checked against the document instead of trusted. The corpus covers ESPR (Regulation (EU) 2024/1781), the Digital Product Passport, CSRD, CBAM, EU ETS, CWA 18291 (CIRPASS-2) and the JRC preparatory studies for textiles. Typical workflows: ask a compliance question and get cited passages; browse a result list and open a full document page; walk the outline of a standard and jump to the section you need; locate an exact wording such as an article number inside one document. It never browses the open web and never writes the answer itself. When the retrieved passages match poorly it says so, and when the only match is a EUR-Lex national-transposition register card it warns that the date on that card is a notification date and not an entry into force. No account and no personal data are required.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Reeco",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Business & Operations",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://ia.reeco.eco/reecopedia"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.4.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:07.784Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a3c0c4590148191bc33e5587bd0b719": {
       "id": "plugin_asdk_app_6a3c0c4590148191bc33e5587bd0b719",
@@ -201303,7 +201712,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "V7 Go turns documents and unstructured data into structured, queryable information, right inside ChatGPT. Discover and configure workflows, run them over your documents to extract structured fields, search across your files, add documents to knowledge graphs, and query the resulting workflow and context graph data, so you get answers grounded in your own sources.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "V7",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Business & Operations",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.v7labs.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:09.368Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a9c8375f0d48191a13a44fe09eb73ed": {
       "id": "plugin_asdk_app_6a9c8375f0d48191a13a44fe09eb73ed",
@@ -201318,7 +201755,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Statiko brings public Telegram channel data into ChatGPT, so you can research what's happening on Telegram without leaving the conversation.\n\nAsk what's trending across tracked channels in the last 24 hours, then read the actual posts behind a story to see what it's about. Look up any tracked channel for its profile, subscriber count and growth, posting frequency, view rate and engagement - or compare up to ten channels side by side in a single answer. Find channels similar to one you already follow, search a  channel's own posts by keyword or date range, and trace how a specific post's views, forwards and reactions built up hour by hour.\n\nEvery answer links back to the source page on statiko.io, so you can check the numbers yourself.\n\nStatiko is read-only: it looks up public channel data and never posts, joins or messages on your behalf. Connecting requires a Statiko account on the Pro or Business plan.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "ANTON MARFEI",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://statiko.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:11.803Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa5668d53088191bb5d84e110941913": {
       "id": "plugin_asdk_app_6aa5668d53088191bb5d84e110941913",
@@ -201333,7 +201798,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Connect your The Viral Sauce account to discuss your Instagram performance in ChatGPT. Explore stored account and Reel measurements, review your published TVS findings, and turn your existing recommendations into a practical publishing plan. Choose which Instagram accounts to share and disconnect at any time. Available data depends on your TVS subscription.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "The Viral Sauce",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://theviralsauce.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:13.378Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab10e3e2dd8819183b24a92dd7c6c55": {
       "id": "plugin_asdk_app_6ab10e3e2dd8819183b24a92dd7c6c55",
@@ -201348,7 +201841,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Explore cell sites, mobile operators, signal measurements and speed-test summaries for an area with SignalCrow. Compare available network observations and inspect individual sites to better understand local mobile connectivity.\n\nRequires a verified SignalCrow account. Available data and usage limits depend on your account. Measurements reflect available observations and do not guarantee coverage, indoor reception or future speeds.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "ALEIX PELLICER GARCIA",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://signalcrow.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:14.951Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a9a854867b08191953597c2cfde27e0": {
       "id": "plugin_asdk_app_6a9a854867b08191953597c2cfde27e0",
@@ -201363,7 +201884,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Read and analyse data in ActivityInfo databases. Lists databases, forms and fields, retrieves records, and runs pivot analyses.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "ActivityInfo",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.activityinfo.org/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:16.555Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa5b36494c88191946df31c901c796c": {
       "id": "plugin_asdk_app_6aa5b36494c88191946df31c901c796c",
@@ -201378,7 +201927,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Fun Friday runs more than twenty online team-building games for remote teams, including trivia, drawing, bluffing, typing races, and more. Connect it and ChatGPT can tell you what the team could play, open a room and provide the code and join link to share, check whether everyone has joined and who is winning, and report the standings afterward. The games themselves are played by people in the browser: starting one still requires a human to press Start, and the app cannot answer, vote, guess, or draw on anyone's behalf.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "RYAN NORTON",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Communication",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.funfriday.work/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:18.185Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a69de26852081918a58fceabac1bd8d": {
       "id": "plugin_asdk_app_6a69de26852081918a58fceabac1bd8d",
@@ -201393,7 +201970,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Balsio helps users read and manage private conversations, send messages, organize threads, schedule follow-ups, and manage integrations from ChatGPT.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Fyello Productivity SIA",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Communication",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://balsio.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:19.757Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a6c8bf65bb48191b9feebcf95155cef": {
       "id": "plugin_asdk_app_6a6c8bf65bb48191b9feebcf95155cef",
@@ -201408,7 +202013,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "ChildEdu Studio guides teachers, parents, and therapists through creating printable educational materials in multiple languages. Users select the material language, material type, and learning content, then receive a generated file ready to preview and download.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "SANJA DENIC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.childeduai.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:21.314Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a9d56ec6bac819181b134548392acc1": {
       "id": "plugin_asdk_app_6a9d56ec6bac819181b134548392acc1",
@@ -201423,7 +202056,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "FootballGPT helps football coaches use their saved coaching setup (age group, format, club type, formation, experience, qualifications, priorities and squad shape) to get coaching advice, build structured training sessions, search a practice library, and create saved animated practices. Player names, ages, shirt numbers and notes never leave FootballGPT through this app. Coaches remain responsible for reviewing and adapting every recommendation for their players.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "SVMS Consultancy Limited",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://footballgpt.co/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:22.890Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aaf70b7172c8191bcfd6a83657aa6f4": {
       "id": "plugin_asdk_app_6aaf70b7172c8191bcfd6a83657aa6f4",
@@ -201438,7 +202099,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Create a personalized course on any topic, learn through adaptive lessons, take quizzes and assessments, and track mastered concepts, gaps, and progress. Continue from another chat or device with your personal code.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "RUBENS FERNANDO MENEGUELLO",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://any-topic-academy-mcp.rfnando.workers.dev/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:24.546Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aadd00d2dd4819190917bdc699003a2": {
       "id": "plugin_asdk_app_6aadd00d2dd4819190917bdc699003a2",
@@ -201453,7 +202142,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "ポイトコは、会話の中で見つけた大切な情報を残しておけるパーソナルライブラリです。メモ、要約、引用、リスト、ウェブ記事の抜粋などを、ポイトコに直接保存できます。「これをポイトコに保存して」や「これポイして」と話しかけるだけで、あとからポイトコアプリで読み返せます。\n\npoitoko helps you keep useful information from your conversations. Save notes, summaries, quotes, lists, and web excerpts directly to your personal Poitoko library. Just say “save this to poitoko” or “poi this,” and it will be available in the poitoko app for later reading and reflection.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "ALEX CHANT LONG WONG",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.poitoko.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:26.128Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa5749a9ac08191bfa8e7ab09cf92dd": {
       "id": "plugin_asdk_app_6aa5749a9ac08191bfa8e7ab09cf92dd",
@@ -201468,7 +202185,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Search Japanese policy documents in Policy Scope and review document text, sources, related materials, ministries, councils, and meeting information. All tools are read-only and cannot create, modify, or delete data.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "一般社団法人SONOBA",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://policyscope.jp/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:27.720Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab1c65beea4819189c5370627176834": {
       "id": "plugin_asdk_app_6ab1c65beea4819189c5370627176834",
@@ -201483,7 +202228,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Instant Books is AI bookkeeping for small businesses. Connect your Instant Books company and ask about spending by vendor or category, cash position, unpaid bills, overdue invoices, bank transactions and the profit and loss - the same questions the AI Bookkeeper answers in the portal. Restaurants can also record a Toast or DoorDash payout as a posted journal entry: sales, tax, tips and fees on the accounts the company confirmed on its Integrations page. The app reads your books and records entries; it never moves money, pays anyone or changes what is already booked, and a payout recorded twice is refused.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "AI Business Coach Inc.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://instantbooks.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:29.337Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abbf32753248191a0dbf90da0f2a5b6": {
       "id": "plugin_asdk_app_6abbf32753248191a0dbf90da0f2a5b6",
@@ -201498,7 +202271,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Compare every federal repayment plan a loan can elect, estimate a Repayment Assistance Plan (RAP) payment, and compare filing jointly against filing separately, using the same engine Finology Software advisors use for client plans. Figures follow the current federal rules, including the changes in effect since July 1, 2026, and each result states the rule version and date it used. Plans a borrower cannot elect are listed with the rule that excludes them.\n\nAdvisors with a Finology Software account can link it to list their clients, run a projection on a client's imported federal loan file, and chart each plan's balance year by year. Client names can be withheld and replaced with initials.\n\nResults are estimates for education, not financial, legal or tax advice.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Finology Software",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://finology.tech/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.1.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:30.914Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab091bf453481919107a89ab06b84ab": {
       "id": "plugin_asdk_app_6ab091bf453481919107a89ab06b84ab",
@@ -201513,7 +202314,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Price a real-estate investment loan without leaving the conversation. 1st Private Capital is a direct private lender for real estate investors: bridge and hard money loans, fix and flip, ground-up construction, DSCR rental loans, and commercial, mixed-use and equity-based term loans, in 40 states.\n\nDescribe the property and the loan. You get the program that fits, the most you can borrow and what limits it, an indicative rate and monthly payment, points and costs, as a quote card in the chat. When the numbers work, request a term sheet and it goes straight to the lending desk.\n\nBusiness-purpose loans on investment and commercial real estate only. Not for a home you will live in, and not for personal, family or household use. Every figure is an indicative estimate, not a commitment to lend. All loans are subject to underwriting. 1st Private Capital, Inc., California DRE Real Estate Corporation License #02254322.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "1st Private Capital, Inc.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.1stprivatecapital.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:32.602Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a94b47a1ffc8191b199c4f4c33619e4": {
       "id": "plugin_asdk_app_6a94b47a1ffc8191b199c4f4c33619e4",
@@ -201528,7 +202357,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Turn your own trading idea into a structured Pine Script v6 or Python strategy blueprint. Audit generated code against approved rules and run deterministic Monte Carlo robustness checks on chronological backtest returns. PrimeSync Studio does not execute trades, provide personalized financial advice, or guarantee profitability.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "נביה חיר",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://ai.primesync.me/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:34.255Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a906843cab08191875b1054ea7b609a": {
       "id": "plugin_asdk_app_6a906843cab08191875b1054ea7b609a",
@@ -201543,7 +202400,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Connects Codex to your Mollie account through the Mollie MCP server and adds skills for building Mollie integrations: hosted checkout and Components, Mollie Connect for platforms and marketplaces, recurring payments and subscriptions, refunds, captures, chargebacks and settlements, webhook and credential troubleshooting, SDK upgrades, and AI agents built on the Mollie agent toolkit.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Build Mollie payment integrations, Set up Mollie Connect for platforms, Implement recurring payments and subscriptions, Review payments, refunds and settlements, Troubleshoot webhooks and authentication, Upgrade Mollie SDKs and migrate from the Orders API",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "Mollie",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.mollie.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.5.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:35.812Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa8cacd3f288191ad182ced640b1e93": {
       "id": "plugin_asdk_app_6aa8cacd3f288191ad182ced640b1e93",
@@ -201558,7 +202448,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Connect your PortfolIQ account to review holdings, realized and unrealized performance, transaction history, trading activity, and factual account alerts. Explore saved strategies, run historical simulations, and review position plans. With the permissions you grant, record or correct transactions, manage portfolios, and save strategies and retrospective reviews. Transaction tools record trades in your tracker; brokerage order execution is not supported. Historical simulations are not predictions of future returns. A PortfolIQ account is required, and some features depend on your account plan.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Michael Penzin",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://portfoliq..app/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:37.410Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a8c430b9d0c8191b8834dd80a1cef6b": {
       "id": "plugin_asdk_app_6a8c430b9d0c8191b8834dd80a1cef6b",
@@ -201573,7 +202491,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Start your Peninsula journey here. Ask about any of our hotels, compare rooms and rates across your preferred dates, discover dining and wellness experiences, and much more across our properties worldwide. When your plans are settled, we'll pass you to Peninsula.com to complete your booking where you’ll find the best available rates and special offers",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Aven Hospitality",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.peninsula.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:39.052Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab2d6f6a39c8191907d69b1103fe10c": {
       "id": "plugin_asdk_app_6ab2d6f6a39c8191907d69b1103fe10c",
@@ -201588,7 +202534,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Search verified vacation rentals across Greece using live availability, detailed property facts, policies, exact prices, and direct-booking links. Compare suitable stays without inventing dates, guest counts, availability, or prices.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "SMARTYSTAY LTD",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://aegeanbot.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:40.656Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a974e01b37c81919f0d0f68b4a3a140": {
       "id": "plugin_asdk_app_6a974e01b37c81919f0d0f68b4a3a140",
@@ -201603,7 +202577,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Atly scores close to 2 million places — the great majority across the United States, plus pockets in Mexico, Israel and Thailand — against more than 1,400 specific intents - work friendly, gluten free, great cappuccino, dog friendly, good for a first date - using what real reviewers say. Ask for what you actually want and get a ranked shortlist with a 0-10 score per intent, quotable statements from reviews, and a link to each place. Gluten-free results carry structured safety detail such as dedicated kitchen and cross-contamination risk. Coverage is densest in the United States, with pockets in Mexico, Israel and Thailand.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Atly",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.atly.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:42.249Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a2ad16e9824819185f3e87d58515084": {
       "id": "plugin_asdk_app_6a2ad16e9824819185f3e87d58515084",
@@ -201618,7 +202620,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Speed Cameras Radar helps users find nearby speed cameras and speed cameras along bounded driving routes. The app returns capped results with an interactive map, route or radius context, camera type filtering, and localized labels for supported countries.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Bigdream Mobile SL",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://socialsmap.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.2",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:44.070Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a97ce60fbd48191bd9d881bd3e61562": {
       "id": "plugin_asdk_app_6a97ce60fbd48191bd9d881bd3e61562",
@@ -201633,7 +202663,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "bluerails helps users find hotels in Germany, Austria and Switzerland by place, radius, country and hotel classification. For specified dates and guests, it retrieves available room offers, whole-stay totals, average nightly prices, and cancellation terms and photos where supplied. Users can compare offers against a nightly budget and follow booking links to complete reservations on external booking sites; dates and guest details are included where supported. When rates cannot be retrieved, the app reports prices as unknown and provides a booking link where one is available. Confirmed unavailability is distinguished from failed rate lookups. Hotel and room results are displayed inline in the conversation.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Bluerails",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://bluerails.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "0.1.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:45.639Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab33ed097a881918fd86f8fdbde5c02": {
       "id": "plugin_asdk_app_6ab33ed097a881918fd86f8fdbde5c02",
@@ -201648,7 +202706,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Search Goldsainte’s live hotel inventory directly in ChatGPT. Travelers can search by destination and dates, compare live rates and availability, view property details and room options, refresh current pricing, and open the full hotel experience on Goldsainte. Users can also securely connect their Goldsainte account for account-aware features.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Goldsainte",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://goldsainte.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:47.231Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a86f955bdfc8191b4d2b210a9e4b385": {
       "id": "plugin_asdk_app_6a86f955bdfc8191b4d2b210a9e4b385",
@@ -201663,7 +202749,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Plan a single round or a whole golf trip. Greenfee365 searches live tee times and green fee prices at more than 1,400 bookable golf courses, from the Costa del Sol and the Algarve to Scotland, Thailand and the UAE. Ask for a course, a city or a destination and get the times that are genuinely available, the price per player in local currency and how many spots are left. Prices come straight from the Greenfee365 booking platform, so what you see is what the course is selling right now, not an estimate. When you have found your time you get a link to greenfee365.com with date and party size already filled in, and you complete the booking there. No account needed to search.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Greenfee365",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://greenfee365.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:48.830Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aae98d6eb4c819184f316e096e24ade": {
       "id": "plugin_asdk_app_6aae98d6eb4c819184f316e096e24ade",
@@ -201678,7 +202792,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Haz tiradas interactivas de Tarot y Baraja Española directamente en ChatGPT. Elige entre 22 Arcanos Mayores, el mazo completo de 78 cartas o la Baraja Española de 40 cartas. Mezcla, corta y revela tiradas de tres cartas o en cruz de cinco posiciones, y recibe una interpretación que relaciona las cartas, sus posiciones y orientaciones con tu pregunta. Las lecturas son simbólicas y están destinadas a la reflexión y el entretenimiento.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "ESTEBAN ROBERTO ALEART SALAS",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Entertainment",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://tiradadecartas.com.ar/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:50.422Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab00a7a2c988191a774ed0b87559eb3": {
       "id": "plugin_asdk_app_6ab00a7a2c988191a774ed0b87559eb3",
@@ -201693,7 +202835,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Triad Astro reads your birth chart in three astrological traditions at once - Western (Tropical), Vedic (Sidereal), and Chinese (BaZi / Four Pillars) - and shows you where they agree.\n\nGive it a birth date, plus a time and place if you know them, and it calculates all three charts in a single step: Sun, Moon and rising signs, planetary aspects and elemental balance from the Western system; Nakshatra, Navamsa, planetary dignity and the Vimshottari Dasha timeline from the Vedic system; and the Four Pillars, Day Master and ten-year Luck Pillars from the Chinese system.\n\nMost astrology tools give you one system's answer. Triad Astro gives you three, then helps you read the overlap - the themes that show up independently in all three are the ones worth a closer look.\n\nPlanetary positions are computed from ephemeris data aligned to NASA JPL standards, and birth places are resolved to coordinates with automatic timezone handling, so charts are accurate to the minute when the birth time is known. Ambiguous place names can be looked up first so you can confirm the right city.\n\nNo account or sign-in is required. Just ask for a reading - for example: \"Calculate my tri-system birth chart. I was born March 14, 1990 at 7:45am in Bangalore, India.\"",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Shashanka Panuganti",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Entertainment",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://triadastro.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:51.992Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a729c5ebe4081919459747399866578": {
       "id": "plugin_asdk_app_6a729c5ebe4081919459747399866578",
@@ -201708,7 +202878,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-06T05:29:42.497Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "information": []
+      "detailDue": false,
+      "description": "Medina Clean lets you book a house, apartment, condo, or small-business cleaning with Rosa Medina near Woodstock, Marietta, Kennesaw, Acworth, Canton, and Roswell, GA - right from your chat. Check whether your ZIP is in the service area, get an instant starting estimate, and send Rosa an appointment request. The assistant only sends a request: Rosa reviews the address, timing, and property and contacts you to confirm the final price and schedule - it never confirms a booking on its own. Bilingual (English/Spanish). No account or payment required.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Northvalley Intelligence LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Other",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://medinaclean.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-06T05:30:53.596Z",
+      "detailFailures": 0
     }
   },
   "scans": [
@@ -209900,9 +211098,9 @@
     "runId": "37418628815",
     "runAttempt": "1",
     "startedAt": "2026-10-06T05:28:05.698Z",
-    "updatedAt": "2026-10-06T05:29:42.509Z",
+    "updatedAt": "2026-10-06T05:31:22.165Z",
     "mode": "incremental",
-    "detailRequests": 0,
+    "detailRequests": 59,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
@@ -209912,11 +211110,11 @@
     "errors": 0,
     "stats": {
       "total": 3944,
-      "details": 3902,
+      "details": 3944,
       "translated": 367,
       "missing": 14,
       "removed": 16,
-      "pendingDetails": 59,
+      "pendingDetails": 0,
       "pendingTranslations": 3577
     }
   }
