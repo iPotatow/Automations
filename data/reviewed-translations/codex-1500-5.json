@@ -1,0 +1,666 @@
+[
+  {
+    "id": "plugin_asdk_app_6a5f6a2e8f7c81918a0d27d19760fdbd",
+    "name": "Mindola",
+    "sourceHash": "05caa9cb05b64cf1ee3069ad7c556a3a838e913158cb0d5b6ec2efb3d7ff3f02",
+    "summary": "创建实时问答页面",
+    "description": "Mindola 可将关于你本人、工作或企业的经批准信息，转化为可分享的问答页面。创建一个可审核的 AI 视角，用于回答问题、解释你的业务、引导访客采取下一步行动并保留有用背景。哪些内容被纳入由你掌控，未经你批准不会创建任何内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa3ed91acb881918712d2f6731fe0a6",
+    "name": "Minerva",
+    "sourceHash": "f9202f49376d16ed2442cfc060f8ae30bead7bd076447f456511cb01b5ec0033",
+    "summary": "受众搜索与激活",
+    "description": "Minerva 帮助营销团队寻找并了解受众、丰富选定的人员记录并准备受众激活。搜索 Minerva 的美国人员数据或组织已连接的客户数据，查看受众预览和人员详情，探索客户分析与画像，计算相似受众分数，并保存得分最高人员组成的受众。查看已连接的目标和计费用量，然后将选定受众导出为 CSV，或通过支持的集成交付。需要 Minerva 账户；第一方搜索、分析、画像、评分和目标可用性取决于组织设置。部分丰富和受众交付操作会消耗套餐额度，并可能依据现有合同产生费用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_697370f80b8081919f024b93e49a8ab2",
+    "name": "Minty",
+    "sourceHash": "f8c2ce019596f9b78cd00179c4cabecb22a4cc9a740e872a95a77338b2b87dd9",
+    "summary": "购物也能赚钱",
+    "description": "Minty 通过合作商店帮助用户寻找优惠券、返现和促销优惠。用户可按商店名称搜索，查看可用优惠码、返现比例以及带有相应返现跟踪链接的全部优惠。Minty 旨在帮助用户在线购物时节省时间和金钱。\nMinty 不处理付款、不销售商品，也不提供数字商品或订阅。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b2e9aed45c8191b254b207dfcc2bb4",
+    "name": "Mixpanel",
+    "sourceHash": "81ecddefbfe51697403aab6444e243cf72827324b5ecbb0c44e22c946408af4a",
+    "summary": "查询和分析 Mixpanel",
+    "description": "直接在 ChatGPT 中查询和分析你的 Mixpanel 数据。运行细分、漏斗和留存分析，探索事件分类，管理 Lexicon 元数据，并解决数据质量问题，全程无需离开对话。\n连接 Mixpanel MCP 服务器后，ChatGPT 可以结合代码、文档和决策来推理产品分析。用自然语言提问、深入了解用户行为，并获得基于真实数据的答案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2b771cfb288191a4e53af3b66c7ebc",
+    "name": "Mnemom",
+    "sourceHash": "7ec6f18e30ba03bdac8c15b5f2919f48060d97ebae5249521fa40cec201679ea",
+    "summary": "代理互联网的信任基础设施",
+    "description": "Mnemom 是为代理构建的信任基础设施，也服务于运行代理的人类。在一次聊天中查找代理的持续信任评级，包括分数、等级及背后的问责证据，并确认它经过加密签名而非仅凭声称。提交自己的对齐卡即可立即获得信任解读；无需人工介入即可认领可验证身份；还可获得可嵌入 README 或代理卡的信任评级徽章。每次读取都会诚实说明已知范围：安静的记录就显示为安静，绝不会被当作危险信号。系统如实呈现，查看源代码即可验证。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69893af74b808191a27cf931802c3c37",
+    "name": "Monask",
+    "sourceHash": "e5b712ad2b04b4742c8deab7d2ce2830dc4764d86ae24b1d71de2ba933a62b8f",
+    "summary": "读取 ERP 数据",
+    "description": "Monask 帮助用户查看其已认证组织中的只读 ERP 数据，包括库存、批次、销售订单、批发销售、采购、客户、供应商、仓库、促销、税务发票、交易报表和会计结账。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ac46b15ff08191973b374235b22037",
+    "name": "Mondoir.art",
+    "sourceHash": "93b4b1f7d8dcc723953ad8a5344a2e790c996a6220502a343a1c5ff1bc19da26",
+    "summary": "为你的空间寻找艺术品",
+    "description": "Mondoir.art 是发现、收藏和理解当代艺术的平台。它通过结构化生态系统连接收藏家、画廊和艺术家，将传统艺术实践与 AI 辅助洞察和现代文档工具结合起来。\n通过 Mondoir.art 应用，用户可探索精选艺术品，了解艺术家和收藏，并访问艺术品估值、来源和版次等背景信息。平台整理常散落在画廊、市场和社交平台中的信息，让艺术世界更易探索。\n收藏家可以研究艺术品、跟踪版次，了解当代艺术的展示和记录方式。艺术家和画廊可以在支持发现与记录的结构化环境中展示作品。\n通过与 ChatGPT 集成，Mondoir.art 允许用户询问艺术家、作品、展览和收藏相关问题，将复杂的艺术信息转化为清晰易懂的对话。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0444af44a8819189ade3901ce40afd",
+    "name": "Monnier Paris",
+    "sourceHash": "db31f1e378ff985b535adc0ac60192c22f486d539be6549acfc6f50a7b10ea72",
+    "summary": "在 ChatGPT 中浏览奢侈品目录",
+    "description": "Monnier Paris 将精选奢侈品目录带入 ChatGPT。用户可按品牌、商品类型、颜色、价格或尺码搜索；查看完整商品详情；询问相似款式；并在不离开对话的情况下将商品加入购物车。还可查看当前购物车，并从组件内私有购物车中移除选定商品变体。类别包括包袋、鞋履、珠宝、配饰和成衣。应用支持英语和法语，会本地化商品名称、描述、价格及购物车文字，并将结账引导至匹配的 Monnier 商店。浏览和构建购物车在 ChatGPT 内完成；实际购买在 monnierparis.com 按 Monnier 的标准付款、配送和客户服务流程完成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a802ea80f6c8191b3c22d9646503042",
+    "name": "Monoblend AI Barista",
+    "sourceHash": "1212d051b1d6c0a2f18d036aaf9d5872faf6b9fa13c6dec394e63c3579edd096",
+    "summary": "根据口味匹配咖啡",
+    "description": "Monoblend AI Barista 会将用户描述的口味与 Monoblend 六款精品咖啡系列匹配，并支持后续实用步骤。对于“巧克力风味、低酸”“明亮、果香”“送礼”或“晚间无咖啡因”等描述，它会给出稳妥、探索和大胆三种推荐，附匹配分数及理由，并根据“太酸了”或“想要更醇厚”等反馈调整推荐。除匹配外，它还会按冲煮方式和豆子生成配方，根据菜品描述或餐盘照片搭配咖啡，诊断苦、酸或寡淡的成品，横向比较两款豆子，为宾客和礼物设计引导式品鉴流程，并用通俗语言解释酸度、醇厚度、烘焙和处理方式。该应用仅提供信息：不销售咖啡、不显示价格、不接受订单或报告库存；对于没有掌握的商业或门店信息会拒绝回答，而不会凭空编造。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a44727314b881919e46130539309dfb",
+    "name": "Mortgage Matchup",
+    "sourceHash": "88cf116f4f320535e5decc7a70786b3e8411134999898642b0f24b3b4e556d5b",
+    "summary": "房贷建议与工具",
+    "description": "Mortgage Matchup 由 UWM 提供支持，帮助你联系所在地区的住房贷款专家。我们会拆解购房流程，并提供互动工具，帮助你了解融资和再融资选项。\n你可以尝试询问：\n“我能负担多少钱的房子？”\n“什么是预审批？”\n“帮我联系所在地区的住房贷款专家”\n说明你的情况后，我们可以帮助你了解适合自身财务需求的选项。准备好后，我们会帮你联系当地住房贷款专家，由其与你一起梳理目标并寻找最合适的住房融资方案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a27ded46d78819196420bdd82b71aea",
+    "name": "Motel One",
+    "sourceHash": "006d6d81b84ea1dd5efa7bda01a6625345f74ee924ab6a5d353154fe5cdc30e6",
+    "summary": "beOne 酒店与旅行",
+    "description": "直接在 ChatGPT 中查找全球的 Motel One 和 The Cloud One 酒店。可按城市、街区、地标、日期、预算或旅行场景搜索。应用会返回可用性和价格、位置详情、设施、评分、互动地图以及官方 Motel One 系统的直接预订链接。支持英语和德语酒店搜索提示，不在 ChatGPT 内完成预订或收款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a95894fa2fc81918af802988b54c2fc",
+    "name": "Motion",
+    "sourceHash": "2d5b42cdb46ab615f11a60470376d1928a566d82a1ce65f723e66a1f43680f0a",
+    "summary": "分析 Meta 创意广告",
+    "description": "Motion 将 OpenAI 连接到你的创意分析工作区。分析 Meta 广告系列中的广告创意表现，找出高绩效创意、发现表现下滑的创意，并了解哪些内容有效以及原因。研究竞争对手广告库以获取趋势和灵感。访问人口统计细分、创意转录和绩效报告。Motion 帮助营销人员更快地以数据为依据决定下一步创作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6b3177ec8081919da0b2d312f6a2b3",
+    "name": "Motion4rent",
+    "sourceHash": "467447d125b9df15746e69a71540194a069b97b9d66f76e38dc8e34a2f249feb",
+    "summary": "租赁出行设备",
+    "description": "Motion4rent 通过可信的本地合作伙伴网络，让你在全球数千个城市查找并比较出行设备租赁，包括手动和电动轮椅、代步车、膝行车、助行器及类似辅助设备。仅覆盖出行辅助设备，不包括自行车、电动自行车、摩托车或汽车。\n告诉助手城市和旅行日期，它会查找可用设备，并显示最终价格（已含税费和管理费，无隐藏费用）、产品照片、关键规格（最大承重、续航、可折叠性、类型）以及实际适用的交付方式：门店取货、送至住宅、酒店或公寓、机场或邮轮港。价格可按所选货币显示，免费取消和押金条款会提前展示。\n准备预订时，应用会链接到 Motion4rent 网站，在那里安全完成预订和付款。应用本身从不接受预订、不向你收费，也不索取个人或付款信息。\n适合行动不便的旅行者、术后康复者、为年长亲属安排设备的家庭，或任何希望在目的地使用而无需携带自有设备的人。\n由 Motion4rent（TimetoMobility S.L.）运营。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e20acaf7c48191a19ae9baeec8f38f",
+    "name": "motos.net",
+    "sourceHash": "4279c079b9c21710491c9607d8ba2c41b0db206ddafad32813fe12399df4fe09",
+    "summary": "查找新旧摩托车",
+    "description": "访问 motos.net 市场，搜索新款、二手和经典摩托车。可按品牌、型号、价格、年份和位置筛选列表。用户可直接在聊天中获取当前摩托车列表、查看技术详情并比较不同车辆选项。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69825525bd288191971fc673abc1cec8",
+    "name": "Mozio",
+    "sourceHash": "569f151715c980d54e6e462f2f93a4bd5c493ad9ad898df2d7d4fce1da28473e",
+    "summary": "全球机场接送",
+    "description": "Mozio 是面向旅行者的全球机场接送预订平台。当用户询问机场交通、私家车、机场班车、出租车、专车服务，或机场、酒店、邮轮港、火车站与城市目的地之间的预约接送时，可使用 Mozio。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4a69c5381081919f43d22852d2baa6",
+    "name": "Muju",
+    "sourceHash": "d6152c2603e95df2ce6b9c1c3e37e6409aab9318220b604b5f4c0df05b064f55",
+    "summary": "发现并订购本地服务",
+    "description": "Muju 通过对话式 AI 体验连接人们与本地商家。\n用户可以发现附近餐厅、探索本地服务、提问、获取推荐，并完成在参与商家处下单自取等操作。\nMuju 将商家已有的信息、菜单和订购系统连接到 AI，帮助本地商家更容易被发现。\n我们的使命是打造本地连接层，让社区轻松找到并支持身边的商家。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f92063584c8191a086fb70b8ed2539",
+    "name": "Municibid",
+    "sourceHash": "dbbac7c2244c56a2680671989de43e393d10c3307d24155809b7d484c541aee7",
+    "summary": "查找政府拍卖",
+    "description": "搜索正在进行的 Municibid 政府剩余物资拍卖，查看已售同类品，并根据历史拍卖结果获得粗略的市场价值估算。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8d81ae14788191a615c10007505138",
+    "name": "Musafir.com: Visa & Travel",
+    "sourceHash": "85c022d5f24fd2beca28b69414c0f80b7f40fcd9c7021de5a919746a8ff7b6e1",
+    "summary": "签证费用、规则与预约",
+    "description": "Musafir.com Visa 根据 Musafir.com 的实时产品目录回答签证问题：是否需要签证、费用、所需文件、处理时间，以及 Musafir.com 是否可以代办。若签证需要现场预约，还会显示已公布可用性的签证中心及其最近一次显示为开放的日期，让你在做决定前大致了解现实可行的时间。\n签证规则、费用和处理时间不断变化，也因护照不同而异，因此记忆中的或公开发布的数字通常已不适用于提问者。这里的每个答案都来自为 Musafir.com 自有预订定价的目录，并注明适用市场。\n你可以询问目的地、比较多个目的地，或确认所需材料及每份文件的提交方式（在线上传、带到签证中心或通过快递）。准备申请时，应用会把你的详细信息带到 Musafir.com 的匹配页面；申请提交后，Musafir.com 会为你预约。\nMusafir.com 目前服务从阿联酋申请的旅行者。如果你居住地尚未覆盖，连接器会明确说明，而不会为你无法使用的流程报价。\n此连接器为只读。它无法访问账户、查看或修改订单、锁定或预约，也不能收款。预约可用性是签证中心最近公布的信息，不是预订，也不是保证。它说明 Musafir.com 能办理的事项，这不等同于政府要求，也绝不预测签证是否获批。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f096ddcdb48191b90a6c698088749a",
+    "name": "MyCarTracks",
+    "sourceHash": "8300768595b311fcaa710e880798134d1333cbd51194ab671ca7e30e34ca0e38",
+    "summary": "跟踪里程和车辆",
+    "description": "MyCarTracks 将 ChatGPT 连接到你的里程和车辆跟踪流程。使用 MyCarTracks 数据询问行程、路线、车辆活动、里程记录、报销、报告、地理围栏、费用、调度工作和维护详情。它帮助个体司机和企业团队更快从驾驶及车队记录中获得答案，无需手动打开报表。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6e1cad46b08191bb187c0c7f3daf51",
+    "name": "mysaas.lol",
+    "sourceHash": "5665e497ada761c721d990f4b47523ae061eaee24be9d75341e4291a1083972f",
+    "summary": "寻找相关 SaaS 梗图",
+    "description": "mysaas.lol 帮助用户为发布、事件更新、版本说明、新闻简报、README 或社区帖子选择现有的 SaaS、创业公司、创始人、开发者、产品、销售或营销梗图。它会返回包含标题、笑点解释、匹配背景、规范页面和官方分享格式的视觉候选列表。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e850aba4fc8191a0268ac2d130c7f5",
+    "name": "Nailie Beauty",
+    "sourceHash": "48f3326f372a3b111ecde31c6c3f96d4261a3d7c321caedbfbd00ce17117fb20",
+    "summary": "搜索 Nailie 美容师",
+    "description": "Nailie Beauty 帮助用户在 ChatGPT 中按地区、日期、预算和服务类型搜索公开列出的 Nailie 美容师，在嵌入式结果界面查看匹配候选人，并查看美容师详情或支持的地区候选项；不会进行预订或付款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0346f97e5881919b8b5f87513cf533",
+    "name": "Namify",
+    "sourceHash": "86d698b53f54a2991acb53012cf5b8633bdba0e7b7078d8f0d54ac257e36c593",
+    "summary": "从创意到域名，即刻完成",
+    "description": "Namify 将一个想法变成可打造品牌且可注册的域名，无需反复把各种变体输入搜索框。用自然语言描述业务、输入一个单词概念，或粘贴带首选后缀的种子域名，Namify 就会即时返回相关名称建议，并显示多个 TLD 的实时可用性。\nNamify 的特点不止于回答“这个域名是否空闲”。每个建议都可进行完整品牌就绪检查：运行商标检查以发现法律冲突，并检查社交账号名称以确认各大平台是否可用。它为希望名称真正适合作为品牌的人提供域名发现，而不只是一个碰巧未注册的 URL。\n适用于为新企业、副业项目、应用或产品发布命名，并在一次对话中从想法走到可注册域名。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa9b7c140a48191bdd4b7a04cc9acb0",
+    "name": "Nanga",
+    "sourceHash": "66ddc25340b5a5f5f8ada881c38ca80f961609efeb7bdd3ed12d0e88523b6865",
+    "summary": "你的营销数据，只读访问",
+    "description": "Nanga 是由 Spark Data Team（巴黎）打造的 B2B 营销分析平台，电商公司使用它跟踪广告和创意表现。\n此连接器以你自己的 Nanga 权限，为连接时选择的一家公司提供现有 Nanga 账户的只读访问。它可以查找账户中保存的公司以及付费或创意仪表板，读取仪表板最新保存的分析（包括期间、生成日期、发现和建议），读取 Company Brain 中账户有权访问的公司背景（定位、重点和内部备注），并直接从公司数据仓库查看最近广告数据（最多完整 90 天，不含今天）。\n连接时，Company Brain 和最近广告数据的访问权限分别通过单独复选框授予；已保存的仪表板和分析始终包含在内。通过此连接器无法写入、生成分析或更改广告系列。\n需要已有 Nanga 账户；此连接器不会创建账户或订阅，且公司必须由 Nanga 团队启用连接器。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698593c82c2c819191b0a9c6fb89eb97",
+    "name": "NannyFYI",
+    "sourceHash": "6a33529859079476a5afce5b86e65c872d36356af5eaa29b4c945cb12ce08456",
+    "summary": "查找并审核护理人员",
+    "description": "搜索公开的护理人员资料，比较资质和评价，验证 NannyFYI 技能证书，浏览公开的护理工作列表，并探索护理人员市场的汇总统计数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4d01b190608191b26f3345fffec191",
+    "name": "Nas.com",
+    "sourceHash": "9153675ac5f9b1fd58ecf36d74a87452965f051bcdf085bb6348f7ab2f3e6fc6",
+    "summary": "Nas.com 构建你的店铺",
+    "description": "Nas.com 是面向个人卖家、创作者、教育者、教练和创业者的 AI 商业平台，帮助他们快速启动并发展在线业务。用户可在一个地方搭建在线店铺、创建商品列表、生成营销内容、运行广告、寻找客户并接受付款。\n它不只托管商店，还专注于用 AI 帮助卖家营销和销售产品。用户可以销售课程、模板、辅导服务、数字产品、手工制品、服装、珠宝及其他产品或服务。其目标是让人们无需编码技能、设计经验、大量受众或完整营销团队，也能更容易地为自己工作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69912bb07c888191bf0301a6c334830e",
+    "name": "Nashville Real Estate AI",
+    "sourceHash": "5fdea12a4698bcb88ce562e6d693c3a21b796db01a00539721f208282adacb36",
+    "summary": "为房地产经纪人节省时间",
+    "description": "Nashville Real Estate AI 帮助房地产经纪人在一次对话中创建专业的房源描述、客户邮件、社交媒体内容、市场更新、开放日跟进序列、社区介绍、异议回复和投资分析。描述房产、说出客户姓名或选择一个异议，即可即时获得润色完成、可直接使用的内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6995f5172f088191b89b2b9ed48b1b5a",
+    "name": "Neartail",
+    "sourceHash": "3f9b2b39cf17b8b6c1075138f0a061dbc73d3d1466233864e723bbc4648e1c33",
+    "summary": "创建食品订单表单",
+    "description": "你的菜单每周都会变化。你需要的是几分钟内即可更新的订单表单，而不是每次都要重建的电商网站。\n创建订单表单如果像编辑 Google Forms 一样简单会怎样？Neartail 就是这样。描述菜单、设置价格，即可获得自动计算总价的订单表单。客户无需浏览电商网站、加入购物车后迷路，只需填写表单、核对订单并提交，简单明了。\n订单会同步到 Google Sheets，可与厨房共享以备餐，也可与配送人员共享以规划路线。下周更新菜单即可继续使用。\n描述你的需求，例如“包含 5 种餐食的备餐订单表单”“办公室食堂每周午餐菜单”或“带取货时间的面包店预订”。Neartail 会创建包含定价和付款功能的表单。备餐公司、办公室食堂、面包店和餐饮承办商使用 Neartail，是因为菜单每周变化，而 Google Sheets 已是团队的工作方式。\n描述。分享。接单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab2f511d1b881919026fe9b6aeb5790",
+    "name": "Nectar",
+    "sourceHash": "34f36a269ff22a5b8bd6aa570737fe568092bf529d887271503f2ded62037a27",
+    "summary": "你的社交运营系统",
+    "description": "Nectar Social 将 ChatGPT 连接到品牌在各平台的社交表现、竞争对手基准和社区对话。\n询问本周内容表现、竞争对手发布会效果，或客户在付费和自然内容评论中抱怨什么，即可获得基于真实社交数据并结合 ChatGPT 对你业务了解的答案。\n面向希望更快做出数据驱动决策的营销、社交、网红和竞争情报团队及代理机构。\n需要 Nectar Social 账户（https://www.nectarsocial.com）。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699652da05808191891ee313009645ca",
+    "name": "Needle",
+    "sourceHash": "e702dfc42dcf28e805821a057507270503e3e9ddaf5a8b4e523725318c692c26",
+    "summary": "发现社交媒体研究",
+    "description": "Needle 是面向创始人和市场进入（GTM）团队的客户发现平台。搜索 Reddit、Hacker News、GitHub、Stack Overflow、X 等平台的公开对话，查看按购买意向和情绪排序的主题。找到已经讨论你的产品、比较替代方案或寻找类似解决方案的人，并在出现新匹配时收到摘要提醒。\nNeedle ChatGPT 应用可访问用户的一般业务信息，例如网站和联系邮箱。应用还允许用户联系 Needle 团队。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fcdf4878748191b4ce3678822c4c7e",
+    "name": "Neria",
+    "sourceHash": "910fd65b7e374146eb0d3bffe54126ab8d65c27ced8c2832a220dcbc82c013bf",
+    "summary": "全天候 AI 接待员",
+    "description": "Neria 是 24/7 AI 接待员，可自动处理企业电话。连接 Neria 账户到 ChatGPT 后，可查看近期通话、管理常见问题、更新团队成员、查看通话统计并与接待员对话。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694889287454819185d67a822c97f628",
+    "name": "Nesha",
+    "sourceHash": "9810dbb9ed028dfc69191fc77165a720f4c9a831a9683287ca56e67aa0430a11",
+    "summary": "发现 B2B 合作伙伴",
+    "description": "Nesha 通过 Synergy Engine 帮助创始人、GTM 团队和企业发展负责人寻找高度匹配的战略合作伙伴。获取联合销售、渠道联盟、技术联盟、市场进入协作以及授权/白标/OEM 的排名推荐，并了解“为什么匹配”及实际合作方式。点击“请求引荐”即可发起双方选择同意的暖介绍。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a96ade70330819198edc2a61281bf31",
+    "name": "Net Zero Insights",
+    "sourceHash": "f8b38bd6dfcf8688c2102c125f8aad22932044c84863d3b7db3f84dc5712cb7f",
+    "summary": "转型市场情报",
+    "description": "直接在 AI 工具中研究和评估新兴气候与能源市场。使用 Net Zero Insights 数据发现和筛选公司、比较竞争对手和供应商、进行初步尽调、构建市场地图、识别相关投资者、分析融资活动，并探索商业协议、基础设施项目和企业活动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a639452476481919136cb04815275bb",
+    "name": "NETAQ",
+    "sourceHash": "20bf8c8285dcd76f4db0cd1f6618ec21f80cff63f45200620037336715e2f533",
+    "summary": "AI 营销代理助手",
+    "description": "NETAQ 是沙特的 AI 数字营销代理助手。估算项目成本范围（电商店铺、移动应用、广告、社交媒体、SEO 与 GEO、设计、战略），获得合适服务建议，保存信息供 NETAQ 团队跟进，查看可用咨询时段并预约免费咨询。NETAQ 服务沙特阿拉伯和海湾地区。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7e0055cb1c8191adca1ee424ffa6cc",
+    "name": "Network Solutions",
+    "sourceHash": "cce1bf06de375716b77c7a52ecbd702b65a88d7a19c7a12d807d23fe91f41689",
+    "summary": "建立并启动你的业务",
+    "description": "用 Network Solutions 将业务创意变成完整的在线形象。查找并比较可用域名，生成标志和品牌识别，创建并自定义专业网站，并选择合适的托管服务上线。用不同布局、颜色、字体和图片优化网站，查看域名价格，准备购买和发布时继续前往 Network Solutions。还可使用 Network Solutions 工具部署现有应用，并在新能力推出后添加电商、营销和其他服务，帮助发展和运营业务。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a73e4d5bcf0819198829ebfccd0b014",
+    "name": "Nifty",
+    "sourceHash": "86697214a3d87ecc395e5b4706de6591e56d629dbfaf31f45eea01c84812f789",
+    "summary": "管理转售业务",
+    "description": "将 Nifty 连接到 ChatGPT，分析并整理你在各个市场经营的转售业务。ChatGPT 可以搜索和筛选库存，获取完整商品详情和照片，检查库存状况，管理收藏、私密备注和标签，查看订单历史和费用，编辑商品并更新市场列表，还能分析销售、利润和售罄率。Nifty 统一管理 eBay、Poshmark、Mercari、Depop、Etsy 和 Whatnot 上转售商的库存与销售。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a79de2b746881918127ddf42127ddc4",
+    "name": "Nimble",
+    "sourceHash": "7c1f9fefa4c05d40bea24c5fe494dcad783dcf9aa4518601b358ab7b8cb76789",
+    "summary": "面向代理的专家级网页搜索",
+    "description": "Nimble 以每个答案更低的令牌成本，为代理提供受治理且准确的公共网络访问。Search 会返回带排名结果和摘要的当前页面；Extract 可从任何 URL 提取干净、结构化的内容，包括需要 JavaScript 或交互的页面。Extraction Templates 可从已知网站持续返回形状一致的记录。Web Search Agents 可跨多个来源处理开放式任务，并以引用返回发现，用于研究、丰富和数据集构建。\n还包括竞争对手研究、公司画像、会议准备、市场发现、品牌监测、SEO 和人才寻源等现成工作流。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c236abbea481918d9180a100abd6b0",
+    "name": "Nitrosend - AI Native Email",
+    "sourceHash": "b54ce55f10fe89a6d9bc707f1f318be3ea6dcf23fea70ad556e40c7268890859",
+    "summary": "为构建者提供更快的邮件",
+    "description": "Nitrosend 是 AI 原生的邮件营销平台。将其连接到 ChatGPT，通过对话控制完整邮件技术栈。\n你可以：\n- 使用 GPT/Codex 撰写的文案创建并发送邮件营销活动\n- 构建自动化流程（欢迎系列、入职引导、召回、购物车放弃）\n- 发送事务性邮件（密码重置、收据、验证）\n- 管理联系人、列表和细分\n- 监控邮件分析并获取改进建议\n- 自动设计符合品牌的邮件\nNitrosend 会学习你的品牌语调，并在每次发送后变得更智能。可使用自己的发送基础设施（SendGrid、SES、Postmark、Resend）或使用我们的基础设施。所有套餐均提供不限数量的联系人。\n由 SmartrMail（100 亿封邮件，2022 年被收购）和 Sendicate（28,000 名用户）背后的团队打造。\n开始使用：在 app.nitrosend.com 注册，然后从 ChatGPT 应用目录连接 Nitrosend。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a44a9d050d081918636f82d3a5a5d4f",
+    "name": "Noah",
+    "sourceHash": "e2d5e5784003c305c27d4b6daa8ed20aba40a2b8ec871b5a49c7fb6662f463ab",
+    "summary": "研究风险与趋势",
+    "description": "Noah Predict 帮助用户调查公开信号、评估风险和趋势、委托持久化研究、获取有证据支持的结果、继续调查，并创建面向客户的研究成果。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69bc243a6d5c8191a2d69b6be17360da",
+    "name": "Northwest Registered Agent",
+    "sourceHash": "b9b3818e647657ccafcaf3bd58e26a284144dc8bcc1c63a4376f12cf96ed5317",
+    "summary": "注册 LLC 与企业身份",
+    "description": "Northwest Registered Agent 是一家家族经营的 Business Identity 服务，为你启动和发展企业提供所需的一切。我们在全美 50 个州设立公司，提供注册代理服务，并免费提供地址、域名、网站、邮箱和本地电话号码等身份服务。\n所有服务均由内部构建，遵循 Privacy by Default®，绝不向第三方出售或交易你的数据。我们的 Corporate Guides® 专家团队会在企业整个生命周期中持续回答问题，而不只是注册时提供帮助。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a152f6c51c081919f83f5c17ebd6e72",
+    "name": "Notifly",
+    "sourceHash": "54cf456386dfb98871ffe6fbd7d9dd1e970c3d2a6c9011c82fa62de1084e30db",
+    "summary": "自动化客户消息",
+    "description": "Notifly 是营销自动化平台，用于跨移动推送、网页推送、弹窗、电子邮件、短信、KakaoTalk 和 Webhook 等渠道发送和管理客户消息。\n团队可构建基于行为的营销活动和用户旅程，个性化受众，查看送达和转化表现，并通过 SDK、HTTP API 和外部集成连接 Notifly。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a200e742bb48191bf0d78b73f6ca4e9",
+    "name": "Novasol",
+    "sourceHash": "6998043c82a4734cd86f8417a355af06980d305b8902879e9d9dbeb397e80b69",
+    "summary": "搜索欧洲度假屋",
+    "description": "NOVASOL 帮助旅行者发现欧洲各地的度假屋、度假公寓和度假目的地。\n在一次对话中搜索覆盖 18 个欧洲国家的数千套可预订度假房源。\n告诉 ChatGPT 目的地、日期、人数、预算和必需设施，它会以排序轮播展示匹配房源的名称、位置、价格、评分、卧室数量和宠物政策。可即时调整：更改日期、目的地、预算或设施，结果会立即更新。精选房源会突出显示，你可以直接打开卡片查看照片、完整设施列表和预订选项。此应用仅支持自助式度假租赁搜索，不支持酒店、航班、租车、套餐旅行、城市短租公寓、汇总价格统计，也不执行预订或付款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a71ebe0200c8191bda1264a60ea290a",
+    "name": "nowo Immobilien",
+    "sourceHash": "ae530091efde3005acc3ebdd002e8388f402f5af992fdbf93923170a4e2fbaa9",
+    "summary": "不伦瑞克房地产",
+    "description": "nowo Immobilien 是一家专注于不伦瑞克地区的现代房地产公司。应用提供基于位置的直观方式，用于发现、购买或出售不伦瑞克及周边地区的房产。\n用户无需浏览冗长房源列表，可直接在互动地图上探索可售住宅、公寓、土地和投资房产，一眼了解位置、周边基础设施和环境，从而更快、更高效地找房。\n凭借深入的本地市场知识和个性化服务，nowo Immobilien 将现代数字解决方案与区域专业能力结合，帮助买家、卖家和投资者了解不伦瑞克房地产市场。\n主要优势\n* 互动地图找房\n* 更快了解不伦瑞克及周边地区\n* 更好理解街区、基础设施和本地设施\n* 专注于精选住宅和投资房产\n* 轻松比较不同城市和社区\n* 通过可视化导航提高找房效率\n* 直接联系经验丰富的房地产专业人士\n* 现代易用的移动体验\n无论你是在寻找不伦瑞克的公寓、周边地区的家庭住宅，还是有吸引力的投资机会，nowo Immobilien 都提供现代、透明的区域房地产探索方式。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa0025f2fe081918ba84d19a36bc4a4",
+    "name": "nowyourlink Developer Docs",
+    "sourceHash": "659e19b861724cc3ca26418d7998c64155f9b672d12e334f11015418fae7a2d7",
+    "summary": "阅读 API 集成文档",
+    "description": "在 ChatGPT 中阅读已发布的 nowyourlink 开发者文档。构建集成时了解公共 API 的身份验证、分页、错误、请求限制、版本控制和隐私边界。此文档连接不会检索广告、访问账户、出价或处理付款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a449de9da948191b44f8566d49eb16a",
+    "name": "Nuboo",
+    "sourceHash": "744503eacbf34dc4de9f333f6d5f6785f5a1ad6c5aceb3d7c23aef1fac9fc235",
+    "summary": "管理房地产销售",
+    "description": "Nuboo 帮助房地产顾问搜索项目和可售地块，查看地块详情，比较融资选项和当前促销，创建可下载 PDF 的房产及投资报价，管理潜在客户，安排跟进事件，并查看其已连接 Nuboo 账户中获授权的销售信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2ae47de5e08191962381231866870a",
+    "name": "Nuvemshop",
+    "sourceHash": "7ed8636b2fdbec80b75e67f33b4e3f2b7d10e55af08b769cd18af7a627a3446d",
+    "summary": "管理你的网店",
+    "description": "将 ChatGPT 连接到 Nuvemshop 商店，用自然语言管理业务。搜索、创建和编辑商品及类别，查看订单、客户、优惠券、促销、配送方式和付款选项，全程只需一次对话。非常适合希望无需离开聊天即可运营电商的店主。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69659a1d99048191ac706d1ee132c3cd",
+    "name": "NYCU Library",
+    "sourceHash": "196739a7ced2a57c51cc63715d64d6c6905a546c45124fe83441fde44f517bb0",
+    "summary": "图书馆与研究助手",
+    "description": "你的国立阳明交通大学（NYCU）图书馆和研究伙伴，无需离开 ChatGPT 即可访问图书馆服务和学术资源。\n搜索 NYCU 及台湾联合大学系统（UST）的图书、期刊和学位论文目录。快速查看个人面板中的当前借阅、到期日、预约和采购申请。通过 Semantic Scholar 集成深入开展学术研究：搜索论文、阅读摘要、探索引用与参考文献，并发现相似研究。\n功能：\n- 图书馆目录搜索（实体和在线资源，可按校区和格式筛选）\n- 个人图书馆面板：借阅、到期日、预约、采购申请\n结果会显示在互动组件中，包括图书卡片和个人账户视图，让图书馆研究自然融入对话。面向 NYCU 学生、研究人员和教职员工。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5eaf04e9e08191b1890908b62f01e8",
+    "name": "Nylon",
+    "sourceHash": "286d08f0ee93e4d32dbb83d3447510015967de77b0b3b058508b983783c7e8f2",
+    "summary": "开展税务与法律研究",
+    "description": "Nylon 让 ChatGPT 直接访问新西兰、澳大利亚和英国的主要法律资料，包括法规、判例法和评论（含政府指南），使法律和税务问题的答案基于真实、当前的来源。\n用自然语言提问，Nylon 会在资料库中进行关键词和语义搜索，既能处理精确查找，也能开展开放式研究。\n每个结果都带有指向原文的引用链接，你可以核实所读内容并自信引用。Nylon 面向律师、税务顾问及任何需要可靠、严谨法律研究的人。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1e8ef9486081919612885f617e3b80",
+    "name": "Octopad",
+    "sourceHash": "aebf0bba4016ff0c3f730b5eddafba07c78bd1d9996ed2a9a66a69185a0756e1",
+    "summary": "组织工作与知识",
+    "description": "Octopad 是构建者的 AI 大脑：一个让 AI 按共同方法组织工作和知识的工作区。\nChatGPT 会把讨论转成包含详细任务的结构化计划，并跨会话持续保存，让项目不断推进而无需重新开始。\n工作期间，它会保存项目背后的知识，从产品规格到商业模式或竞争分析，并记录决策及其原因等关键信息。\n执行任务前，ChatGPT 会询问为该任务量身定制的简报，让它从充分背景开始，而不是从空白页面开始。\n你连接的每个 AI 都在同一工作区中使用同一记录，以相同方式工作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6994dfe75c6481918fb1531735e4c4f2",
+    "name": "Octopart Component Finder",
+    "sourceHash": "694edf9ff313fdaf192cc064a64aed90fa04744d940fa0bcec7565aa6c2f7b90",
+    "summary": "查找零件和价格",
+    "description": "Octopart Component Finder 帮助用户按描述或制造商零件号搜索电子元件，比较分销商价格，检查库存可用性，并在 ChatGPT 小组件中查看区域价格和供应情况。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a491fb9c4f881918137021c4c30fc4d",
+    "name": "Off Plan AI",
+    "sourceHash": "98aede9cd5ae40868c4e93cffae07b826cc1ffd07ea5ed36eb4b79e8f0f516ff",
+    "summary": "沙特期房项目",
+    "description": "搜索沙特期房项目和开发商实时库存，比较可用单元及当前价格，并直接从 ChatGPT 发送初步预订请求。提交前 Off Plan AI 会重新检查单元可用性和价格，需要明确确认与同意，返回预订 ID，并允许用户跟踪开发商确认。账户通过 OAuth 连接。ChatGPT 不收取付款，所有请求均以开发商确认为准。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a687c4b79848191bb197c3b33df25f1",
+    "name": "Ofia Doc Maker",
+    "sourceHash": "a4ae787ab56b0fbc04eb64e6285b4ac6fca7b9ebd72ded0c782f18d1df006aa5",
+    "summary": "起草并导出 PDF 文档",
+    "description": "根据提示直接创建精美的 PDF 文档。Ofia 可以起草并排版报告、研究论文、商业计划、提案和简报，然后让你修改并导出完成的 LaTeX 文档。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f8b721487c819186183b2084d733b3",
+    "name": "Ognissanti Hotels",
+    "sourceHash": "82c5332483176359f7e10e3208f6e5d3c93e50c23c8665bf025916fea1df255e",
+    "summary": "查找佛罗伦萨酒店和游览",
+    "description": "搜索并预订佛罗伦萨 7 家 Ognissanti 酒店的客房：Palazzina Fusi、Hotel Lombardia、Hotel Arcadia、Hotel Villa Betania、L'Antica Porta、Residenza Ognissanti 和 Novella's Apartment。\n用自然语言询问（例如“五月住两晚，靠近大教堂的安静双人房”），应用会从我们的预订系统返回实时可用性、实际价格、照片和直接预订链接，也可即时生成个性化报价。\n还可浏览合作伙伴 Ciao Florence 的佛罗伦萨体验，包括乌菲兹免排队游、托斯卡纳葡萄酒品鉴、Vespa 租赁、烹饪课以及前往比萨和锡耶纳的一日游，每项均带直接预订链接。\n无需登录。预订和付款通过 HotelInCloud 预订系统完成，不在聊天内进行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fc29a6b7f481919049274f924ddece",
+    "name": "OLX India",
+    "sourceHash": "089b9bd596558bd16d6e661884d147a228b27a30e6fcd4685bd88d81a1b9a579",
+    "summary": "搜索 OLX 列表",
+    "description": "OLX India 帮助用户通过 ChatGPT 查找印度市场列表。应用可以解析列表位置和类别，查看特定类别筛选条件，按结构化条件搜索列表，在嵌入式目录组件中显示结果，并打开选定商品的详情。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694e8b8715108191a49fe2db4398d9e2",
+    "name": "Omni",
+    "sourceHash": "634ba05fc68cf5a436367b57d7506d32c8490593459c8838ea38e42705c3eb4f",
+    "summary": "查询业务数据",
+    "description": "Omni 让用户在 ChatGPT 中使用组织受治理的商业智能数据。应用可以列出可用的 Omni 模型，为问题选择最佳主题，生成并运行单个分析查询，启动 Omni 完整 AI 助手进行更深入的多步分析，查看助手任务状态，并搜索 Omni 文档。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0311e2fa788191a2f4ed717d855663",
+    "name": "OnePageCRM",
+    "sourceHash": "350cb341a34b5bc0529f30a3f998ba453185f4ee2d478338e190c85d852dbf94",
+    "summary": "管理 OnePageCRM 数据",
+    "description": "将 ChatGPT 变成你的 CRM 助手。它可以总结 Action Stream、开展研究、创建联系人、安排跟进、重新安排逾期任务、记录通话后的备注、更新交易并构建简单仪表板。让 AI 处理管理工作，你可以用 OnePageCRM 建立关系、完成交易并专注于发展业务。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa8e3fdddd48191964d1118f5290476",
+    "name": "Onlinecomponents Search",
+    "sourceHash": "309434e1b6dabaef2a5f6207550746fd8921e262aae56470ba58203d24acd300",
+    "summary": "OnlineComponents 实时搜索",
+    "description": "将 ChatGPT 连接到 OnlineComponents Search，按制造商、零件号或关键词探索完整的电子元件目录。获取当前库存水平、价格和数量阶梯、包装选项、订购要求及生命周期状态。适合需要在 ChatGPT 中寻找零件、比较替代品并检查供应情况的工程师和采购人员。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a56f4323d9c8191bb35f36dd8b4db81",
+    "name": "Onsellr Marketplace",
+    "sourceHash": "5b47b6b7e45aaeab303cabeb82d2f9db6479f2428a3b26c1215ddc38534508ee",
+    "summary": "在澳大利亚查找汽车",
+    "description": "Onsellr Marketplace 帮助澳大利亚用户搜索、比较和研究 Onsellr 上列出的汽车。买家可以打开列表详情、查看可用性，并在登录后通过 Onsellr 请求咨询、试驾、融资信息、置换洽谈或可退款的车辆保留押金。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a81780cd2d08191896ba0a7759627a4",
+    "name": "OPEN - what is open right now",
+    "sourceHash": "ab6f9566fbeb36baa3e88f85498c396e300fd37b8fdfe980bb68e354a1813fde",
+    "summary": "查看当前营业的商家",
+    "description": "OPEN 只回答一个问题：这家商店现在营业吗，营业到几点。\n营业时间说明一个地方通常的状态；OPEN 告诉你此刻的真实状态，因为答案来自商家老板，他们用手机更新。今天提前关门的店会明确说明。没有新鲜信息的地方显示为“未知”，绝不会被呈现为“已关闭”。\n用自然语言提问，例如“现在 Machane Yehuda 附近有什么营业的地方？”或“找一家至少还营业一小时的咖啡店”，答案会在对话中配有互动地图。水管工、电工、杂工和锁匠等服务专业人士也会报告当前是否可接单。\n四个只读工具：open_now、search_businesses、get_business 和 list_categories。不需要登录，不支持写入，不收集个人数据，也没有广告。\n覆盖范围：OPEN 目前在以色列耶路撒冷试点，目录通过线下招募商家老板不断增长。查询其他城市可能返回很少或没有结果。支持希伯来语和英语。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a79cf1668bc81919b7c5fffd14675f8",
+    "name": "Orca Security",
+    "sourceHash": "624f775b6ea1b0c1026ad410a4a164cf2caaf68b984b8e11b2a645a7bbd91e94",
+    "summary": "修复代码、云和 AI 风险",
+    "description": "将 Orca Security 的推理能力扩展到 ChatGPT。这意味着在用户提问之前，每项资产、告警、身份和依赖项都已在 Orca 统一数据模型中关联。每个答案从首次响应起就会考虑可达性、爆炸半径和业务影响。\n对于希望直接获得推理而无需编写提示的团队，Orca 维护 AI Skills Hub，这是一个开源 GitHub 代理技能仓库。输入“triage alert orca-9012345”，orca-alert-triage 技能就会负责检索、分析和格式化。团队可以派生、修改并扩展到自己的使用场景。\n结果是安全和工程团队可在一个工作区中处理云、代码和 AI，每个答案背后都有 Orca 的推理。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6952abb0d70881919c298489ca08208a",
+    "name": "OriginalVoices",
+    "sourceHash": "3659073fb5249b5ab49434b3d43f97e9195d591fb35fe7d7c4395d36f5a07291",
+    "summary": "获取任何主题的人类洞察",
+    "description": "AI 的人类智能层。\nOriginalVoices 让 ChatGPT 即时接触真实人的观点，使决策和 AI 输出建立在目标受众真实的想法、感受和价值观之上。\n无需猜测或依赖假设，可直接在 ChatGPT 中从真实用户获得反馈。分享想法、测试文案、验证概念或探索任何受众关心的事情，用这些洞察了解受众、改善决策并生成更有针对性的 AI 输出。\n使用 OriginalVoices，你可以：\n- 定义任意目标受众\n- 分享任何内容——问题、链接、文案、产品概念或营销活动想法\n- 从我们数万名 Digital Twins 网络获得即时回应；他们是现实个体的 AI 表征，每个由其所代表的人拥有、训练并验证\nOriginalVoices 的用途\n- 将真实人类智能带入 ChatGPT，让每次对话都成为了解并响应真实受众观点的机会\n- 与目标受众测试消息、文案或创意概念\n- 了解人们关心什么以及为何重要\n- 获取对落地页、产品想法或营销策略的反馈\n- 创建能与特定受众产生共鸣的内容和广告\n- 比较不同人口群体或细分市场的观点\n- 无需等待即可开展定性研究\n使用方式\n- 在 ChatGPT 中标记 OriginalVoices\n- 描述目标受众（例如“英国幼儿家长”“关注可持续发展的 Z 世代”“小企业主”）\n- 分享想获取反馈的内容——问题、URL、想法或已写文案，任何内容都可以\n- OriginalVoices 会识别相关 Digital Twins 并收集回应。个人观点会直接返回 ChatGPT，为决策和输出提供真实的人类背景。\n立即开始使用 OriginalVoices ChatGPT 应用，将真实的人类洞察带入 AI 工作流。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa9bc6e67e08191b93ea9e5219d824a",
+    "name": "Orion",
+    "sourceHash": "f076256e91a8bbae3658f21dae0a2b3dae6cf59403829a662914172148433de3",
+    "summary": "从数据中获取洞察",
+    "description": "Orion 24/7 全天候运行，在你登录前分析趋势、发现机会并准备下一步行动。你的数据只讲述了一半故事，Orion 将业务指标与外部数据源连接起来。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5548420f6c8191a4b9ef2f3946d251",
+    "name": "Otnox",
+    "sourceHash": "81fa185c5413ecec5d08633593ceaf0e195c631745dfcccdadf95a142bb81045",
+    "summary": "搜索公共招标",
+    "description": "Otnox 帮助供应商直接在 ChatGPT 中寻找并评估公共采购机会。\n你可以：\n- 按国家、类别、关键词、截止日期和金额搜索 85 个国家采购市场（覆盖欧洲、拉丁美洲、非洲和亚洲）的开放招标。\n- 打开招标信息：买方、截止日期、预计金额及已发布公告链接。\n- 查询采购机构：采购内容、采购金额及中标供应商。\n- 检查某项招标的竞争情况：投标人数、单一投标人历史和重复中标者。\n- 询问是否应投标：根据已保存的公司档案进行匹配评估。每次新评估会消耗 Otnox 账户中的 5 个评估额度。\n首次使用时，应用会帮助设置账户：询问你销售的市场和公司业务，然后将市场及匹配的采购类别保存到档案。\n需要 Otnox 账户。可用市场和功能取决于套餐；超出套餐范围时，应用会明确说明。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5da538102c819198aa8938b94f5350",
+    "name": "OTTASIA",
+    "sourceHash": "c304582a0c8a4abf79c0f5382c366f6b28adb42135c929f93aae7a0f674f1ce3",
+    "summary": "查找流媒体播放渠道",
+    "description": "OTTASIA 回答美国以外流媒体搜索常答错的问题：在这里可以合法观看什么？覆盖 34 个市场（印度、巴基斯坦、孟加拉国、印度尼西亚、韩国、日本、海湾地区等，以及面向侨民的美国、英国、加拿大和澳大利亚）和 60 多项服务，包括全球工具常遗漏的区域平台（JioHotstar、ZEE5、Sun NXT、Aha、Hoichoi、Chorki、ARY Plus、Shahid、Viu、iQIYI）。可用性来自实时数据，包括 OTTASIA 每日扫描本地服务目录以及巴基斯坦电视剧的官方免费 YouTube 频道。还可回答任一市场任一服务上的新内容，并按多种语言（英语、罗马化文字或原文脚本）查找影视作品。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2f175866808191a86932c78e6cc8b3",
+    "name": "Otto Travel",
+    "sourceHash": "749964f48275d2ebc8825a5fa95d4cf3f940fe08aaf3f06a2ae9a7cef4cb4403",
+    "summary": "规划、预订和管理旅行",
+    "description": "Otto 将商务旅行预订带入 GPT。搜索航班和酒店、比较选项，然后预订所选方案。你的偏好会筛选搜索结果（舱位等级、座位、酒店品牌、航空公司），会员号会附加到预订中。计划变更时，可改签或取消航班或酒店。按需检索旅行详情：航班时间、酒店地址和确认号码。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0783e216e48191957d34a5381e3b06",
+    "name": "Outreach",
+    "sourceHash": "44ec08668fc2eaa3f56b764ff8d92b729ee2e88c0ccb224eab76535b6e3fa2d1",
+    "summary": "面向收入团队的 AI 代理",
+    "description": "将 Outreach 的知识和操作带入 ChatGPT，让团队更快行动、跨系统整合洞察，并完成高级收入任务而无需切换工具。Outreach 是面向所有市场进入团队的端到端 AI 收入平台。通过在每个收入工作流中嵌入代理式 AI，Outreach 提高销售生产力、扩大销售管道，并为领导者提供规模化增长所需的可见性和可预测性。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699b23e7fe9481919fda5e9bdc6d50ab",
+    "name": "Paardplaats Horse Finder",
+    "sourceHash": "45449c7cb42f790083e50cab88b52df007de064f8a4c374cae01ea2fed620b05",
+    "summary": "全球查找待售马匹",
+    "description": "Paardplaats Horse Finder 通过高级结构化筛选帮助买家找到合适的马匹。按项目、年龄、预算、水平和适配性搜索，快速缩小最佳匹配范围。\nPaardplaats.nl 是荷兰在线马术市场。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ef657024848191b86f94341d6b2570",
+    "name": "PagePulse",
+    "sourceHash": "41dbc02fdb2ce8e90727901e72815c1a20d733bb91408772217d79454ef640a0",
+    "summary": "跟踪 SEO 和页面变化",
+    "description": "PagePulse 将 Google Search Console 数据、Google Analytics 4 指标和检测到的页面变化历史带入 ChatGPT。按项目、页面或主题询问网站，获得基于真实分析数据的答案。\n其独特之处在于关联分析。PagePulse 会跟踪检测到的每次页面变化，包括标题重写、内容更新、结构化数据编辑和链接变化，并按重要性评分。因此，当你问“为什么上周定价页流量下降？”时，ChatGPT 可以提取分析数据，找出相关页面变化，并显示哪些编辑与变化时间相吻合。\n用于调查流量下降、审计网站变化、查找为特定页面带来展示的查询、按标签浏览页面，或快速了解项目表现，无需在仪表板之间切换。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2da571f8f88191a20309aa4d11fdfc",
+    "name": "PaidSync",
+    "sourceHash": "76df230b34f2084703ec1895c8f2f68ee15d904002c8034fbd7c0f4416af976e",
+    "summary": "审计并优化广告",
+    "description": "PaidSync 让 ChatGPT 通过一个连接操作你自己的 13 个平台付费媒体账户：Google Ads、Meta、TikTok、LinkedIn、Snapchat、Reddit、Pinterest、Microsoft 和 ChatGPT Ads，以及 Google Analytics（GA4）、Google Tag Manager（GTM）、Search Console 和 Merchant Center。审计账户、跨平台比较表现、找出浪费支出、起草预算和出价变更、构建受众并设置转化跟踪。PaidSync 只会更改广告系列设置，不会转移资金或处理付款。每次写入都会先起草供你审核，未经确认不会应用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8b9b2f9d5081918094d97967bbe843",
+    "name": "Palisade",
+    "sourceHash": "611d1c9fb0f5845c08f8dbd167af391508a924bd31b5aeb18b4abd986ce8039d",
+    "summary": "监控邮件送达能力",
+    "description": "Palisade 帮助邮件团队调查 SPF、DKIM、DMARC 和 MTA-STS 问题。查看受监控域名、DMARC 通过率和发送来源，检查 DNS 与 SPF 记录，并获取带证据的修复任务。利用结果确定修复优先级并准备 DNS 变更计划。此插件只读访问 Palisade 账户：不会发布 DNS 记录、修改域名、发送邮件或管理计费。需要 Palisade 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0f5ffd83d48191804db94fab92add0",
+    "name": "PandaFind",
+    "sourceHash": "0057ba424541798e6b01be4be25e55df206e1ff0326b3fce87251f5f065f3019",
+    "summary": "更好地搜索 AliExpress",
+    "description": "AliExpress 充满细分产品、混乱标题和特定变体；除非知道正确的市场用词，否则很难找到。PandaFind 让你用自然语言描述需求，然后帮助助手直接搜索 AliExpress，并提供更有背景的结果比较。\nPandaFind 可用于：\n- 不知道完美关键词时搜索 AliExpress\n- 查找细分产品、特定变体和更便宜的替代品\n- 购买前比较相似列表\n- 判断其他市场的商品是否只是加价销售的 AliExpress 商品\n- 决定更低价格、更快配送、更容易退货或卖家可信度哪个最重要",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2a9f5229348191b67a297741777f46",
+    "name": "Pararius",
+    "sourceHash": "e190b2d4ebb1bb6c497d1fc01b4132dc3cd7b2e88abf1977bc6731e2bba592ce",
+    "summary": "寻找新家",
+    "description": "借助 Pararius，每个人都能轻松找到合适的家。打开网站或应用，只需几秒即可搜索荷兰最大的私人住房市场。输入城市、街区或邮政编码发现房源，按价格、面积、房间数量或家具配置筛选，设置提醒以第一时间获知新房，并直接联系中介。即使没有荷兰租赁市场经验，也能直观使用。从阿姆斯特丹的单间和公寓到阿珀尔多伦的家庭住宅，找到适合你的家。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aab49271bb081919c40f06d159364c1",
+    "name": "Parks Open",
+    "sourceHash": "91ee96e47fc23ec189534eb64c9a0a39e7e490c3a36f88d51573980ee9ad1acd",
+    "summary": "查找露营地和日票",
+    "description": "查找符合日期、车辆和营位需求的 BC Parks 露营地，并按公园、入口区域和时段查看实时日票状态。比较完整住宿可用性、公园日历、天气和官方公告，然后打开 BC Parks 官方搜索流程。结果包含观测时间和来源链接。Parks Open 独立运行，从不选择、预订、保留或收取露营地或门票费用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a99c656d25881918909ef4fdcebf204",
+    "name": "Parse.ly",
+    "sourceHash": "af9aa63486efbbbebc01a97b818f6f77530e43521039940effa25b5cd4c3ab34",
+    "summary": "查询内容分析",
+    "description": "Parse.ly 是出版商和营销团队用来了解内容表现的内容分析平台。此应用连接 ChatGPT 与 Parse.ly 账户，你可以用自然语言询问网站，并获得基于真实数据的答案。\n询问本周表现最佳的文章、流量来源、特定文章表现、领先作者或栏目、当前网站读者数量，以及营销活动、转化、目标和标题测试的表现。还可以搜索帖子、作者、栏目、标签和活动，查询 Parse.ly 文档，并管理目标和保存的群组。\n使用现有 Parse.ly 登录信息登录。应用只能看到你在 Parse.ly 仪表板中已有权限查看的网站和数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a0ebc137fc8191a31ea04dadda2208",
+    "name": "Particl Market Research",
+    "sourceHash": "746c675df894deac636e4597124d38cbf00a7f5477c5dfbc48bf6d09138b571d",
+    "summary": "电商市场情报",
+    "description": "Particl Market Research 帮助团队直接在 ChatGPT 中回答电商研究问题。支持公司发现、商品目录研究、商品详情和变体分析、市场领导者发现、市场趋势分析、营销素材发现、零售活动跟踪、销售时间序列及商品组合拆解。\n应用使用已认证的 Particl 账户，并从 Particl API 返回结构化市场情报数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5df14bd1708191ae93920224894638",
+    "name": "Partner.io",
+    "sourceHash": "46dd98266884c0455e3ce99da49cddee43dd11a37d650189d2b78a6c6036fa0b",
+    "summary": "运行你的合作伙伴计划",
+    "description": "无需打开任何标签页即可管理 Partner.io 计划。只需提出请求，就能添加合作伙伴、记录和更新潜在客户、记录付款、创建奖励并构建计划层级。AI 助手直接使用实时 Partner.io 账户，每项变更都会准确落到团队现有的工作环境中。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a83176bebfc819187076994aba78396",
+    "name": "Partnership Leaders Research",
+    "sourceHash": "7a7be65e038d4b5c53b2c3fccb2fc16c937202f3a95e28804b4731301cac02ed",
+    "summary": "合作伙伴研究洞察",
+    "description": "Partnership Leaders Research 帮助用户搜索并回答跨 SI、EC75 和 AI-in-partnerships 研究的、有来源依据的合作伙伴生态问题。支持自然语言研究答案、证据查找、公司和分类扫描、活动摘要，以及用于测试的基于评分标准的答案评估。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0636db199c819183b328bcb24aed18",
+    "name": "Pattern Intelligence",
+    "sourceHash": "1dc40ad38938b2b9db6daeb330942c4aec879210793b3ecbd7a8893cda13703e",
+    "summary": "电商 AI，始终在线",
+    "description": "Pattern Intelligence 是用于电商品牌管理的 AI 代理。询问有关业务表现、购物车首选位健康度、价格抑制、库存缺口和 Amazon、Walmart 等平台市场趋势的问题，即可获得即时的专家支持答案。它建立在 Pattern 13 年市场经验和超过 77 万亿个专有数据点之上，全天候监控品牌，在风险影响损益表前发现风险并自动解决。无需等待报告或追问答案。Pattern Intelligence 提供帮助你领导业务的情报，而不只是报告数据，让电商领导者和品牌经理能够自信地规模化运营。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a97be4264688191a69e26bc2d189271",
+    "name": "PayU Builder MCP",
+    "sourceHash": "3f11fa4df058fe451c26ceaa77b75582fdd5b42083d360905cdfdb7f788ae0a8",
+    "summary": "PayU 文档、代码与集成",
+    "description": "搜索 PayU 官方文档，按平台和语言浏览支付集成目录，并获取适用于 Web、iOS、Android、React Native、Flutter、Cordova 和 API 集成的生产就绪代码片段。支持 9 种编程语言，提供 UPI、银行卡、网上银行、钱包、EMI 和令牌化的现成示例。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f854aa7a748191a5ddc48f183e3539",
+    "name": "Pazarama",
+    "sourceHash": "00c8681b3a0c4e28ef0a20ff30f8ef8c5695db35f82962bbc86295433c0e4624",
+    "summary": "在 Pazarama 搜索商品",
+    "description": "快速在 Pazarama 市场查找购物清单中的商品。只需说出需求，ChatGPT 就会比较型号并提供直接购买链接。以聊天的速度体验土耳其值得信赖的市场。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6948b56084f88191b0c86f77d7f59dce",
+    "name": "PDF Translator",
+    "sourceHash": "904cd1987e5b2518addab53e26dd4159b5fbacf29f837fb8154930a208df061e",
+    "summary": "并排翻译 PDF",
+    "description": "1. 独家并排视图\n即时核验：不同于原生 ChatGPT，我们的分屏模式让你可以逐段比较原文和译文，立即检查准确性。\n2. 保留原始布局\n格式保留：完整保持表格、图表和文本布局，让阅读轻松无碍，不再出现格式破碎。\n3. 全球语言支持\n50 多种语言：可将英语译成西班牙语、法语译成德语等，获得专业准确度。\n4. 下载即用\n整洁的 PDF 输出：立即获得保留布局、可下载的 PDF，无需再手动复制原始 Markdown 文本。\n适用场景：适合需要在不丢失原始格式的情况下翻译合同和论文的商务人士、学生和研究人员。\n在 ChatGPT 中使用\n1. 连接应用：将 PDF Translator 连接到 ChatGPT。\n2. 触发：输入“@PDF Translator ”。\n示例提示：“@PDF Translator 将此 PDF 翻译成西班牙语。”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a683d9ba010819192fad99cfc06a589",
+    "name": "Peach for WhatsApp Business",
+    "sourceHash": "774a0ed84c1aac6c7906ca204705571030674fb8a726ffc91e8c6e8dc181569d",
+    "summary": "管理 WhatsApp CRM",
+    "description": "将 ChatGPT 直接连接到 WhatsApp Business API，以编排消息、构建基于触发器的工作流并部署面向客户的 AI 代理。通过 Peach MCP 集成，ChatGPT 可为已认证的 WhatsApp Business 渠道提供管理和运营工具：读取对话和消息历史，发送模板及应用消息，管理媒体，安排定向群发，构建 AI 支持代理，响应 Shopify 事件，路由对话，管理 Meta 官方 WhatsApp 模板，并根据 WhatsApp 互动更新联系人和销售管道阶段。把你的 WhatsApp 号码变成可在 ChatGPT 内直接管理的活跃自动化运营系统。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab30ea179008191a0890554b69274c7",
+    "name": "Peptide Critic",
+    "sourceHash": "f7cdf017e70c46ef8aee47158cfae5afee2f215ede0f82bfcdb968dddbaae407",
+    "summary": "肽类评价与价格",
+    "description": "Peptide Critic 为 BPC-157、GHK-Cu 和 TB-500 等研究肽提供独立供应商评价、第三方实验室检测和价格比较。按名称或同义词查找化合物，比较供应商评分和评价数量，查看供应商级别的实验室验证 COA 及警示标志，比较每毫克的标价和折扣价，并查找优惠码。可按供应商发货地和包装规格筛选，或查看供应商档案。结果采用 Peptide Critic 的最佳价值排名，在报价相当时倾向合作伙伴；返回的购买链接为跟踪型联盟链接。应用无需登录即可返回公开目录数据，不下单也不处理付款。处方药类似物不纳入化合物搜索和比较。仅供研究使用；不提供剂量或医疗建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9a84607ce88191a3cf97bef308fe06",
+    "name": "PerceptionX",
+    "sourceHash": "2c9352c67caa4b7c2871bfd3872f78647570b8e6bd000e904180241755032092",
+    "summary": "AI 雇主品牌情报",
+    "description": "PerceptionX 帮助雇主品牌、人才招聘和传播团队了解领先 AI 平台如何描述其组织。使用已连接 PerceptionX 组织中的数据，探索雇主认知分数、情绪、可见度、反复出现的主题、引用来源、竞争对手提及、市场差异和季度趋势。",
+    "model": "codex-subagent-reviewed"
+  }
+]

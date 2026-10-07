@@ -1,0 +1,666 @@
+[
+  {
+    "id": "plugin_asdk_app_6a83873578e481919bd787b146af7e31",
+    "name": "Perchli Property Search",
+    "sourceHash": "2f29a6eca5126e1bd1d1b570693519f03cf34fda1e0fadabdb68431cf3b89f10",
+    "summary": "搜索北爱尔兰房产",
+    "description": "Perchli 连接买家与北爱尔兰房地产经纪人。该 MCP 插件可按地点、价格、卧室数、类型、EPC 和设施搜索实时房源，获取具体房源的价格、产权、EPC、费率、设施、营销代理和照片；也可基于官方 LPS/NISRA 北爱尔兰房价指数回答平均或典型价格，并用收入、首付和实时英格兰银行利率估算预算及月供。所有工具匿名且只读：无需登录，不收集个人数据，不预订也不改变状态。可负担性数字仅供参考，不构成金融建议；看房请求会转交 Perchli 应用供用户确认。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a49382adf148191b86d3a83ad0c3d8b",
+    "name": "Peristyle Grocery Cart",
+    "sourceHash": "8dc153cf8dffefb6e3259249d78063655e8e7846d08b557c6d90a9136697f8a8",
+    "summary": "将食谱变成购物车",
+    "description": "该插件将食谱变成购物车。以下功能和限制适用：\n\nPeristyle turns a recipe into a ready-to-checkout grocery cart. Search  a recipe, and it pulls the ingredient list, matches each item to real products at Kroger or  Walmart, and shows you the options — with size, price, and brand — before anything is added to a cart. Connect your Kroger account once to shop directly through the assistant, or use Walmart's catalog with no sign-in at all. Peristyle remembers your default store, pickup or delivery preference, dietary needs, and preferred brands, so repeat shopping gets faster over time.\n\nYou always see and approve product matches before they're added — Peristyle fills the cart\nbut never places the order or handles payment. Checkout happens on Kroger's or Walmart's own site.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3e93300218819184f841f1310838d6",
+    "name": "Perk",
+    "sourceHash": "660ba2fd0d7e6b1b2dc4513eb5ed971b503c1c611d891d911ce009811f63b0c8",
+    "summary": "规划行程并管理支出",
+    "description": "该插件规划行程并管理支出。以下功能和限制适用：\n\nPerk brings your business travel and spend into ChatGPT. Plan and review trips, check bookings, track spend, and pull travel and expense reports - all without leaving the conversation. Built for Perk customers who want fast answers from their own travel and spend data.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_696cff9a48cc8191b5c0e3c7c8f8c740",
+    "name": "Pet Project Co-Founder AI",
+    "sourceHash": "c20580fc66f6ee3d91966a7ea3c4a77f4ac1183a28e461235cad21d0f60cffd7",
+    "summary": "用真实数据验证想法",
+    "description": "“Pet Project Co-Founder AI”是您的市场研究助手。它使用可信市场研究服务的真实数据帮助您验证产品想法，而不是猜测或幻觉；ChatGPT 会将原始市场数据解读为清晰洞察。您无需营销经验，只需提出问题，应用就会为您制定市场研究计划，包括从第三方服务收集数据，并指导您选择服务和运行查询。使用推荐服务后，将数据复制粘贴回应用，即可获得 ChatGPT 的清晰解读。\n\n目前支持：\n- SparkToro——受众情报（用户是谁、阅读什么、关注谁）\n- Ubersuggest——关键词需求和 SEO 指标\n- AnswerThePublic——真实搜索问题和措辞\n\n免责声明：\n- 应用不会自动从推荐的市场研究服务收集数据，只帮助构建查询并报告结果；您必须自行访问和使用这些服务，应用不会自动抓取数据。\n- 应用不提供推荐市场研究服务的付费订阅；您须遵守这些服务的使用条款。\n- 应用目前仅支持 SparkToro、Ubersuggest 和 AnswerThePublic，营销研究期间只会推荐这些服务。您可通过 developer@petprojectcofounder.ai 请求增加新服务。\n- 为获得最佳体验，建议在桌面设备上使用此应用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69aee91207a08191851ad93dcc71f69e",
+    "name": "Petco",
+    "sourceHash": "35c310f55fff93025b6ba323cb50c3063a4e5866e40491bff6f0ce5d138bfb22",
+    "summary": "购物助手",
+    "description": "该插件购物助手。以下功能和限制适用：\n\nPetco Shopping Assistant helps pet parents discover, select, and add pet essentials to their cart using natural language. The assistant recommends products, supports new pet adoption preparation, and guides customers toward appropriate food, toys, grooming supplies, non-prescription health and wellness supplies, and other pet products available at Petco. Payment, final checkout, and order completion happen outside ChatGPT on Petco's external checkout experience.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a837089eb1c8191b29a0d126a54f770",
+    "name": "Pexafy",
+    "sourceHash": "09f4e16393d91bd540fa644195b2fa69da084d47fa45ff3a87875789b02a0613",
+    "summary": "查找可免费使用的图库照片",
+    "description": "Pexafy 按你描述的场景搜索照片，例如“深夜独自在安静公寓中、只有温暖台灯照明的人”。搜索同时覆盖 9 个免费许可来源：Unsplash、Pexels、Pixabay、Kaboompics、Burst、StockSnap、Picjumbo、Skitterphoto、NegativeSpace。三个工具全部只读：可按文字场景、颜色、方向、来源、许可、摄影师或日期搜索，也可用参考图找相似照片，或继续查找与已找到照片相似的图片。每个结果包含署名行、多个尺寸、尺寸、主色、方向、来源和许可。无需安装或 API 密钥；登录 Pexafy 后连接仅获读权限。免费账户每月可搜索 5,000 次，无需银行卡。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7b5a0c6f5c8191978777f40f445540",
+    "name": "Pi by Placer.ai",
+    "sourceHash": "f5d802b74da6ee28d17a3fd031ab7a5199d07294463b65174f5615ca8d1ff447",
+    "summary": "回答现实世界的问题",
+    "description": "Placer.ai Pi 回答基于现实世界测量行为的商业问题。用自然语言提出完整分析问题，Pi 会运行完整的 Placer.ai 分析——客流趋势、访客人口统计和旅程、商圈、交叉购物以及销售和支出——然后返回书面答案、数据诚实性注意事项、使用的网页来源，以及一个深度链接，在 Pi 中打开相同分析和交互式地图。完整分析通常需要几分钟：ask_pi 启动分析并返回句柄，get_pi_result 收集答案并在运行期间报告进度。典型工作流包括门店和组合表现、商圈和选址分析、竞争基准、租户组合和联合租赁审查、市场可行性，以及品类或市场份额跟踪。后续问题可以复用之前的分析，确保对话中的数字保持一致。访问需要拥有 Pi 和 MCP 访问权限的 Placer.ai 账户；Pi 只返回登录的 Placer 用户有权查看的数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa2be7123248191bd3ef3b14ed4f730",
+    "name": "Piazza in Festa",
+    "sourceHash": "ca2fecc9029aed383370c6651ecd5a152ecaf1bb803636187e827e74e9df149c",
+    "summary": "意大利城镇活动与集市",
+    "description": "Piazza in Festa 回答意大利城镇正在发生的活动，包括乡村节庆、主保圣人节、食品和葡萄酒集市、街市、音乐会和展览。目录每天根据市政厅依法发布的官方登记公告重建，因此也覆盖其他日历不会列出的小城镇。用户可以按城镇、地区、类别、自由文本或日期范围搜索，打开单个活动查看日期、地点和主办方等实用详情，并询问某个地区覆盖哪些城镇。每个结果都带有活动页面链接和据此生成的官方文件链接，方便核验。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aafd241175c819186db1fe910bdc783",
+    "name": "Pillr",
+    "sourceHash": "4fde75970039f5abfe3cb0ceab39248202379b8f7ecd59ceea8b80793c0063db",
+    "summary": "获取法国房地产数据",
+    "description": "Pillr 免费提供无需登录的法国房地产公共数据：任何市镇的每平方米价格、市场摘要（租金、收益率、价格趋势、分区），以及翻修项目所需的许可或申报要求。每个数字均来自官方公共数据（DVF、DHUP、INSEE）和法国城市规划法；不会显示房源、地址或专有评分。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69de42bea5608191a000f5b296b53668",
+    "name": "Pixelixe",
+    "sourceHash": "a899cc046f4a2f59f208eb52312a52dfd4da3ce452d5177053782ce58e92cbb8",
+    "summary": "创建和编辑图形",
+    "description": "该插件创建和编辑图形。以下功能和限制适用：\n\nConnect your Pixelixe account to find saved documents, inspect a design, create a new graphic from scratch, or generate a new variant from an existing document. Pixelixe is useful for social posts, promos, event graphics, and other reusable marketing visuals. New outputs are saved to your Pixelixe workspace so you can open them in Studio and keep editing.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8c361886e88191a4704eed6fe6c3ec",
+    "name": "PKB Immobilien",
+    "sourceHash": "97339ab1ffd80fc44ac4023affb63425594c9c7b48bc2e3dd88e98f7fd36b29e",
+    "summary": "Baunatal 和 Kassel 房产",
+    "description": "该插件Baunatal 和 Kassel 房产。以下功能和限制适用：\n\nPKB Immobilien is a locally focused real estate company specializing in Baunatal, Kassel, the Kassel district, and the Schwalm-Eder district. The app provides an intuitive, location-based way to discover, buy, or sell properties throughout the region.\n\nInstead of browsing through long property listings, users can explore available houses, apartments, plots of land, and investment properties directly on an interactive map. This makes it easy to understand location, infrastructure, and the surrounding neighborhood at a glance, making the property search simpler and more efficient.\n\nCombining in-depth local market knowledge with personal advice, PKB Immobilien connects modern digital solutions with regional real estate expertise. Buyers, sellers, and investors gain transparent and convenient access to the property market in Baunatal, Kassel, and the surrounding region.\n\nKey Benefits\n\n* Interactive property search with a modern map view\n* Quick orientation across Baunatal, Kassel, and Northern Hesse\n* Better understanding of location, infrastructure, and surroundings\n* Focus on selected residential and investment properties\n* Easy comparison of different locations and municipalities\n* More efficient property searches through visual navigation\n* Local market expertise and personalized real estate advice\n* Modern and user-friendly access to the regional property market\n\nWhether you are looking for an apartment in Kassel, a family home in Baunatal, a property in the Kassel district, or an attractive investment property in the Schwalm-Eder district, PKB Immobilien offers a modern, transparent, and regionally focused way to access the local real estate market.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4c1509f4b08191bad565a7a48fbd2c",
+    "name": "Plasmole",
+    "sourceHash": "614da75ffd01208d65d705b3dd8984f2fd166fd019081f55e3800285c303ad5a",
+    "summary": "设计、编辑并注释 DNA",
+    "description": "该插件设计、编辑并注释 DNA。以下功能和限制适用：\n\nPlasmole brings deterministic molecular-biology tools into ChatGPT. Annotate raw DNA (ORF and parts detection), parse GenBank/FASTA files, edit and assemble sequences, design and visualize PCR primers, find restriction sites and predict digests, calculate melting temperature, design CRISPR guides, optimize codons, align two or many sequences, verify a clone against its reference, check a design for problems, export GenBank or FASTA, and fetch public NCBI records by accession, or resolve a gene, plasmid or vector name to one. Plasmid-producing tools render an interactive circular map inline; drag-select a region to design primers against it. Constructs are versioned, so you can compare or restore any earlier snapshot. For research use only.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7da30673a481918a1f6867aaf0ec06",
+    "name": "PlatoForms",
+    "sourceHash": "da5596996cc1d52b06af07e798e59547c2293c5e50530c02292f84e03a4ae1e1",
+    "summary": "查找表单和提交记录",
+    "description": "PlatoForms 是用于网页表单、可填写 PDF 表单和 PDF 文档的在线构建器。连接账户后可在对话中查找表单、读取完整字段架构（字段 ID、类型、标签、是否必填、选项和验证规则）、按日期或关键词查看提交、按精确字段值查找提交，并获取 PDF、CSV、签名证书或附件的限时下载 URL。还可创建带预填字段、可单次使用或带过期时间的跟踪邀请链接，提交已发布表单（验证错误原样返回），或获取新表单/PDF 的构建器链接。通过 OAuth 登录，密码不会共享；访问可为只读或读写，随时可撤销。需要包含 API 访问权限的 PlatoForms 账户；操作计入套餐 API 配额。HIPAA 模式团队默认关闭，需明确选择加入；发送给第三方 AI 助手的数据不受 PlatoForms 商业伙伴协议覆盖。不能编辑、发布、删除、重命名或复制现有表单/文档，不能发邮件或配置工作流。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a80877913308191bbd7ba0f4af2b4c8",
+    "name": "PLAZA Hotels",
+    "sourceHash": "2d58eb4c31aea8f948a007903902bd31aec421cb2674f67eba596f4b3e34540d",
+    "summary": "PLAZA 酒店信息与预订",
+    "description": "该服务由 mediaconstructor GmbH & Co. KG 代表 PLAZA Hotelgroup GmbH 运营。询问德国 PLAZA 酒店，可从每家酒店自己的知识库获取入住和退房时间、停车、早餐、宠物、Wi‑Fi、房型、家庭和会议室、无障碍设施及电动车充电信息；也可询问附近值得游览的地点或入住期间城市活动。每家酒店都可查询您日期的实时房态和真实价格，并在不离开对话的情况下在酒店预订系统创建真实预订。聊天中绝不付款：低于 200 欧元的预订会直接确认并在酒店付款；达到或超过 200 欧元时，预订系统会发出三天有效报价，客人需在酒店自己的安全页面使用银行卡确认。无需 PLAZA 账户或登录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a55920ce320819182ee40634e3a169d",
+    "name": "PokeBot.ai Career Coach",
+    "sourceHash": "32a8b8491ea576166533ec38d771b6db297a33dd957c5debb6353eac064e00f2",
+    "summary": "简历、面试与求职准备",
+    "description": "该插件简历、面试与求职准备。以下功能和限制适用：\n\nPokeBot adds purpose-built career-readiness workflows to ChatGPT. It evaluates your resume and interview answers against role-specific criteria, returning structured scores, evidence-backed gaps, and prioritized next steps instead of relying on one-off career prompts.\n\nMatch your resume against a job description, re-score it after edits to see what improved, run mock interviews with feedback on every answer, draft tailored cover letters, map your skill gaps, and build week-by-week growth plans. PokeBot covers quantitative finance, AI/ML, software engineering, data science, product management, finance, and more.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a54bd377acc8191ab61241cccd56979",
+    "name": "Pokeka",
+    "sourceHash": "ba9a9671c38f56aa536cd27b539e6c15dbeaf358ef560637513b0534535e3277",
+    "summary": "有评级宝可梦卡牌价格",
+    "description": "该插件有评级宝可梦卡牌价格。以下功能和限制适用：\n\npokeka is a market reference for graded Pokémon trading cards. Ask in plain language — even collector nicknames like \"Moonbreon\" — and get the exact card identity (set and number), a representative market value with date, 30/90-day trend, and scarcity signals. It covers Japanese, English, and Simplified-Chinese cards with a separate market-data track for each language. Data comes from verified auction results and is refreshed continuously.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a582d6eaba881919f5a84069a0556f3",
+    "name": "Popl",
+    "sourceHash": "4d91ca001dddc62aeeb7d17a06903533b51ae690ead5ee8d85f32b0cb24abee2",
+    "summary": "丰富并分析潜在客户",
+    "description": "该插件丰富并分析潜在客户。以下功能和限制适用：\n\nPopl helps users discover and enrich business contacts, retrieve team leads, inspect campaigns and members, and analyze event pipeline and ROI from ChatGPT.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a10afd73e7c81919bf3abc516520edc",
+    "name": "Porter Metrics",
+    "sourceHash": "33bcff2e5cbd7b79fd9952455b7affb363367a80533be029c2f0f88aff820b51",
+    "summary": "分析广告和销售数据",
+    "description": "该插件分析广告和销售数据。以下功能和限制适用：\n\nPorter brings your marketing and ecommerce data into ChatGPT. Connect accounts from Facebook Ads, Google Ads, Shopify, GA4, TikTok Ads, LinkedIn Ads, and other supported platforms in Porter, then ask questions in plain English — \"Which campaigns drove the most revenue last week?\", \"How did spend compare across channels yesterday?\" — and get answers pulled live from your authorized accounts.\n\nCompare performance across platforms using unified metrics like clicks and spend, even when the underlying numbers come from different sources.\n\nWhen you need the data outside the chat, schedule recurring exports of any query to a BigQuery table — Porter handles the cron and the schema, so your dashboards and warehouse stay in sync.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a860c1e1308819198e318e1d21f8e81",
+    "name": "Poshmark",
+    "sourceHash": "a05f9af4b617ac4ea6e1e87097afe2e090d20c90de1f217b33a4627631b1e959",
+    "summary": "购买时尚、美妆等商品",
+    "description": "该插件购买时尚、美妆等商品。以下功能和限制适用：\n\nPoshmark is a style-led marketplace powered by real people. Discover one-of-a-kind finds from wardrobes, curated closets, and brands you know and love.   The Poshmark plugin allows for conversational discovery of Poshmark inventory, leveraging the strengths of both Poshmark and ChatGPT.\n\nHow to Use Poshmark in ChatGPT\n\nJust type @Poshmark followed by what you're looking for:\n\n\"@Poshmark Recommend an outfit for a graduation party\"\n\"@Poshmark Find a pair of running shoes for a marathon\"\n\"@Poshmark Compare denim jackets that I can wear for fall\"",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6a109fe5ac8191a5329c53684f11e8",
+    "name": "post bridge",
+    "sourceHash": "ecce1ec50509a45b8edd89ef898cb05552ee3a38bdbee89e2e4da3f008a2c371",
+    "summary": "安排社交媒体帖子",
+    "description": "post bridge 允许你从一个已连接账户，在 10 个社交平台创建、安排和发布帖子：X、Instagram、TikTok、YouTube、Facebook、LinkedIn、Pinterest、Bluesky、Threads 和 Google Business。可让 ChatGPT 起草文案、附加媒体、同时在多个平台安排帖子，或取回已发布帖子的浏览量、点赞和评论。它会处理各平台的媒体要求、文案和发布时间规则。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5f6cd1de288191a59184a231a6db7c",
+    "name": "Poster Maker",
+    "sourceHash": "2e27fe5cb80fea310e86ec48da5cc84e58778e4d2f9914bace694484990f8531",
+    "summary": "设计海报和传单",
+    "description": "该插件设计海报和传单。以下功能和限制适用：\n\nPoster Maker helps you turn your ideas into professional posters without leaving the chat.\nSimply describe what you need—a birthday invitation, restaurant offer, festival greeting, business promotion, event flyer, or social media post—and Poster Maker searches its template library to find the best matching designs. It displays personalized previews directly in ChatGPT instead of generic samples.\nAdd details such as a name, date, price, discount, contact number, or business information, and Poster Maker automatically places your content into the selected design so you can see how the final poster will look.\nOnce you've found the design you like, open it in the Poster App Lab editor to customize colors, fonts, images, and layout, then download and share your finished poster anywhere.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3b65deef9881919825c50e69cdf23f",
+    "name": "PosterMyWall",
+    "sourceHash": "3a068b611996b1a62ac9db6ed55791d39f866809c74af8b0c701f2ffef6b3a69",
+    "summary": "查找设计模板",
+    "description": "PosterMyWall 将设计模板带入聊天。用自然语言描述需求——开业传单、婴儿送礼会请柬、乐队标志或 Instagram 促销帖——即可浏览对话中出现的模板选项。\n\n你可以：\n- 用日常语言描述想要的设计。\n- 提供尺寸、颜色、风格或主题等细节，结果会与之匹配。\n- 浏览聊天中出现的模板选项。\n- 在 PosterMyWall 中打开任意模板进行自定义。\n\n适用于各种设计\n为小企业、活动、教会、学校和各类组织提供传单、请柬、标志、海报、社交媒体帖子、菜单等设计。\n\n自定义模板\n此插件负责查找并显示模板；编辑在 PosterMyWall 上完成。每个模板预览都包含“在 PosterMyWall 中打开”按钮，会在新标签页打开模板页面，你可以在 PosterMyWall 的拖放编辑器中替换文字和图像、调整其他平台的尺寸并下载。\n\n可以尝试：\n- 为我找一张咖啡店开业传单。\n- 显示柔和粉彩色的婴儿送礼会请柬。\n- 我需要一张周末 50% 折扣促销用的方形 Instagram 帖子。\n- 为摇滚乐队找一个垃圾摇滚风格的标志。\n\n要求：打开模板无需账户。保存或下载设计需要免费的 PosterMyWall 账户。每个模板都有免费下载选项；高分辨率下载需付费。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5cb08939488191b11c6c5648be95b9",
+    "name": "PostFast",
+    "sourceHash": "2d6e0c456855aa509b06a89d59cbdafb6e71c8ee96839e12cd710f2e935471ee",
+    "summary": "规划并安排社交帖子",
+    "description": "PostFast 是社交媒体管理工具。连接现有 PostFast 工作区后，可在对话中规划发布流程：起草帖子、选择连接账户、附加图片或视频、安排时间、保存草稿、提交审批或批准待处理帖子、查看队列并移除已安排帖子。支持 X、LinkedIn、Instagram、Facebook、TikTok、Pinterest、Threads、YouTube、Bluesky、Telegram 和 Google Business。任何发布或删除等操作都需依照工作区权限，并在需要时由你确认。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6948546f43f081918ccc4c9ef63e3ce1",
+    "name": "Powerly",
+    "sourceHash": "5a6c539f95dcb5a67fc4e303b56bafb5867ae7c4fc3699623a021ceac27bda26",
+    "summary": "构建品牌化充电应用",
+    "description": "该插件构建品牌化充电应用。以下功能和限制适用：\n\nPowerly helps small and medium-sized businesses build their own branded EV charging apps. Businesses can customize their branding, select app features, preview the configuration, and generate an app connected to Powerly’s EV charging platform. Generated apps can connect to compatible charging infrastructure and roaming networks using OCPP and OCPI.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6976d78ed2888191beaaf2524e0046fb",
+    "name": "Powers Index",
+    "sourceHash": "0a3f9dcc643312593d3c578aa59b1388f5d17a1b74b64a95c8abc69f2e04dcbc",
+    "summary": "了解高校表现",
+    "description": "该插件了解高校表现。以下功能和限制适用：\n\nThe Powers Index Guided Intelligence tool helps college and university leaders assess institutional performance using a structured framework of 12 signals covering areas such as governance, finance, operations, enrollment, and external conditions.\n\nUsers describe a challenge or question, and the app identifies relevant signals, highlights potential risks, and suggests considerations for action.\n\nThis tool is intended for decision-makers at colleges and universities involved in institutional oversight and planning.\n\nThis app does not provide legal, financial, investment, or accreditation advice.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69dfe3803970819187d8db35d1082ea1",
+    "name": "PracticPro",
+    "sourceHash": "e8163618e7763e1bca1e2176577743ca2828cf70b4f59eb541b18c4dbdeefe7d",
+    "summary": "服务企业的 CRM",
+    "description": "PracticPro 是承包商和服务企业用于管理完整工作流的 CRM 与运营平台，涵盖客户和潜客、报价、电子签名合同、发票和付款、电话、短信、电子邮件、排程及自定义报告。在 ChatGPT 中，整个工作流都可用自然语言运行，例如发送报价供签署、记录 5,000 美元定金、短信确认明日安装、起草 4,200 美元厨房拆除发票，或显示未付余额超过 10,000 美元的工作。每项操作都会使用您现有权限，直接在实时 PracticPro 账户中执行。执行操作前请确认。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a57f0e928fc8191b6eee8f1f0c008b6",
+    "name": "PredictLeads",
+    "sourceHash": "0e5d5a6f694d58dc74fa4cf480ef796b03b836cdd378a5c5162ccdc011b04ad0",
+    "summary": "结构化公司信号",
+    "description": "该插件结构化公司信号。以下功能和限制适用：\n\nGive your AI assistant structured intelligence on millions of companies worldwide. Data sourced directly from company websites, career pages, news outlets, SEC filings, and review sites. Continuously refreshed, with 5+ years of history.\n\nEvery API endpoint is a native tool: ask natural-language questions, get structured answers.\n\n- Enrich known companies by domain name: news, job postings, technographics, key customers, lookalikes.\n- Discover net new companies by criteria: technologies used, hiring activity, funding received and more. Filtered by location, size, and industry.\n\nSignal types: News Events (launches, partnerships, leadership changes...), Job Openings (with salaries, seniority, locations), Technology Detections, Financing Events, Similar Companies, SEC Filings (as Markdown), Product offerings, Key Customers, and GitHub Activity.\n\nBuilt for GTM teams, researchers, and investors running agentic workflows that need live, structured company data.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69443c60fa6481919e4ecf30e6b382f0",
+    "name": "Preply Language Tutor Finder",
+    "sourceHash": "14b81d4ffecb4fab4ec837507e78394a8fce05ca8f118f7b674215f7feb4ac1f",
+    "summary": "查找语言导师",
+    "description": "找到适合你的导师\n浏览数千名专家导师，参加 90+（90）种语言的一对一课程。Preply Tutor Finder 帮助你按语言（科目）、价格范围、导师会说的语言、导师原籍国和是否为母语者筛选，从而匹配符合你的目标、时间安排和学习方式的导师。\n\n你可以：\n• 探索数千名专业导师\n• 按语言（科目）、价格范围、导师会说的语言、原籍国和母语者身份筛选\n• 学习 90+ 种语言，包括英语、西班牙语、法语、德语、意大利语、日语、中文、阿拉伯语等\n\n为什么选择 Preply\nPreply 将你与真实导师连接起来，由导师根据你的水平和学习方式个性化课程。\n• 适合每种预算的导师，价格清晰透明\n• 具有已验证档案和学习者评价的专家导师\n• 全球数百万学习者信赖\n\n工作方式\n1. 按语言（科目）、价格范围、导师会说的语言、原籍国和母语者身份提出导师需求\n2. 浏览 Preply 为你匹配的个性化导师列表\n3. 选择导师并继续在 Preply 上预订第一节课\n\n注意\n此应用帮助你查找和探索导师。课程预订和付款在 Preply 上完成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0c45498a2081918ddff7597086fa59",
+    "name": "Presentations.AI",
+    "sourceHash": "a7a170d93a7a42248c8f740c41e0739bf2a0ac532d219de5bf37102c70263f2a",
+    "summary": "创建幻灯片和演示文稿",
+    "description": "该插件创建幻灯片和演示文稿。以下功能和限制适用：\n\nPresentations.AI turns ideas, text, and source documents into complete presentations.\n\nDescribe what you want — a Series A pitch, a quarterly business review, a training module, or a single explainer slide — and you get a finished deck back: structured layouts, visuals, and editable content. You can also paste an article or notes, or upload a PDF, Word document, or PowerPoint file, and convert it into a presentation directly.\n\nEvery result is delivered as an editable PowerPoint file, a PDF, individual slide images, or a shareable web link.\n\nBuilt for founders, executives, sales and marketing teams, educators, and anyone who needs a finished presentation in minutes — not just an outline or a draft.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab57728af008191aed23057ad0b8cdd",
+    "name": "Pressure Atlas",
+    "sourceHash": "471dfa14147671ac36f0ee9320e6120d864a585a134c8a2c5641d5359bba6ad6",
+    "summary": "了解 AI 的宏观压力背景",
+    "description": "该插件了解 AI 的宏观压力背景。以下功能和限制适用：\n\nPressure Atlas is a daily macro pressure gauge that helps you and your AI understand the broader environment behind markets and headlines.\n\nLike barometric pressure in weather, it provides one important measurement within a larger picture: whether macro pressure is building or releasing, how much pressure is present, and whether its pace is increasing or slowing.\n\nUse it to bring consistent macro context into your research, AI conversations, and analytical models. Explore recent readings, compare changing conditions, and consider how the broader environment fits alongside your own data and analysis.\n\nEach daily reading includes a 0–5 value, a plain-language label, and direction and pace indicators. Pressure Atlas measures conditions—it does not provide predictions or recommendations.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b7b4b8c9288191898267ebbce9dab1",
+    "name": "Priority Guardian",
+    "sourceHash": "887e71317fc95a480d350a4400c6f96da6dd82c7a14c31feb0cd929730b19848",
+    "summary": "守护重要目标",
+    "description": "该插件守护重要目标。以下功能和限制适用：\n\nPriority Guardian — Your priorities deserve more than good intentions.\n\nProtected Time, Flexible Planning: Priorities don't fail because you stopped caring. They fail because everything else is loud and your most important work is quiet. Priority Guardian makes the quiet work visible — so you can protect it.\n\nBuilt for people who do entrepreneurial work and juggle more than one thing at a time.\n\nHOW IT WORKS:\nPriority Guardian connects your priorities to your Google Calendar so you can see where your time is actually going and stay accountable to what matters. \n\nTwo modes:\nDeadline work — hours invested, pace against deadline, where effort is going\nOngoing commitments — weekly hour targets, streaks, monthly results check-in\n\n\n1. Kick off with: \"Set up my priorities in Priority Guardian.\"\n2. Name your priorities and assign a keyword (P1, P2, P3) to tag your Google Calendar events\n3. See your priorities dashboard anytime — current progress at a glance. → \"Show me my priorities.\"\n4. Get your first weekly report  → \"Show me my weekly report.\"\n5. Inspect and adjust weekly → \"Let's dig into what helps me progress/ hinders my progress\"\n6. Discover patterns over time  → \"How was I keeping up with my priorities over the last weeks and months?\"\n\nThe AI guides setup, narrates your data, and asks the questions worth sitting with. You decide what to do with it.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab4ed5292d48191bc192893c8c83045",
+    "name": "Prisma",
+    "sourceHash": "2558e37b365179bad7fc7a4a1baece2930136432c6b8c61a3d030f82c017753b",
+    "summary": "构建并部署应用",
+    "description": "Prisma 可将应用从想法带到线上 URL：结合 Prisma Compute 应用托管、Prisma Postgres 托管数据库和 Prisma ORM 类型安全的数据访问。使用 Prisma Composer 构建新应用，或让现有应用准备好在 Compute 上运行。插件会引导设置、本地测试和部署，然后检查线上应用是否正常；可选诊断使用 Prisma MCP 服务器检查部署状态和日志。需要带本地执行功能的 ChatGPT 桌面应用，最初在 macOS 上测试。请勿使用此插件处理受保护健康信息（PHI）或 PCI DSS 监管的支付卡数据，包括连接数据库、应用日志或项目文件中的数据。医疗或支付相关原型应使用仅含合成数据的独立环境。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ac8cc11bf48191816e305e37953f06",
+    "name": "PrivacyHawk",
+    "sourceHash": "7e40b29467471520f22ffdadf719e94edc2e2cf62dbaf1a962ec3b62062e7e04",
+    "summary": "保护个人数据",
+    "description": "PrivacyHawk 帮助管理、控制和删除数千家企业持有的个人数据，减少数字足迹、垃圾信息以及身份盗窃、诈骗和黑客风险。可自动从暴露或出售个人信息的数据库删除数据，向企业发送“请勿出售”请求，退订垃圾信息并管理隐私请求。执行删除或请求前需按你的指示和授权操作，服务能力取决于目标企业。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a02832083a48191929828b6c48d4ee9",
+    "name": "Process Documentation AI",
+    "sourceHash": "2bef722f407215c9673bacfe7bd3ba985109bd1b1ed45afe162fa1ea6591b39e",
+    "summary": "由 Tallyfy 提供的免费工具",
+    "description": "免费 AI 工具，可记录任何业务流程或工作流。用通俗英语描述流程，即可获得可执行程序：结构化章节、编号步骤、角色分工、截止日期指导、任务类型分类，以及单独的 Tallyfy 自动化章节，说明如何让流程自动运行。输出为可下载 Word 文档，含营销前言和末页 CTA，邀请用户在 tallyfy.com/start 免费注册、上传文档并转换为可跟踪工作流。使用此工具无需注册或账户。适合记录 SOP、招聘流程、客户入职、供应商审批、费用流程、事故响应运行手册及其他可重复业务流程。由工作流自动化平台 Tallyfy 构建。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f8aba82de0819193c016bb8a5611bc",
+    "name": "Productive",
+    "sourceHash": "137cfeb94c4fc312c608ce1378b819cdee0b25f3c197b81899b1564d973fe5c6",
+    "summary": "在一个地方管理工作",
+    "description": "该插件在一个地方管理工作。以下功能和限制适用：\n\nThe Productive app connects OpenAI to your Productive organization, giving you conversational access to your operations platform.\n\nProductive is built for professional services teams - agencies, consultancies, and software companies, to manage projects, track time, plan resources, and oversee finances. With this connector, you can query and act on that data directly from ChatGPT, without switching tools.\n\nAsk about team availability, budget utilization, overdue tasks, or pipeline status, and get instant answers grounded in your live Productive data.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a16c49819348191a9f8924ee41a66bb",
+    "name": "ProEigentum Immobilien",
+    "sourceHash": "06e7f0a7be7e5d254a8716892848a16ef586b93357638297bd37533c37a38d7e",
+    "summary": "慕尼黑地区房产",
+    "description": "该插件慕尼黑地区房产。以下功能和限制适用：\n\nProEigentum Immobilien is a modern real estate company specializing in the greater Munich area and offers an intuitive, location-based way to discover, buy, or sell properties.\n\nInstead of browsing through long and confusing property listings, users can explore available houses, apartments, and investment properties directly on an interactive map. This makes it immediately clear where a property is located and what the surrounding area looks like — creating a faster, more transparent, and more enjoyable property search experience.\n\nWith a clear focus on Munich and the surrounding regions, ProEigentum Immobilien combines local market expertise with modern digital solutions to make property searching simpler and more efficient.\n\nAdvantages at a Glance\nInteractive property search with a modern map view\nFaster orientation within Munich and surrounding areas\nBetter understanding of micro-locations and infrastructure\nFocus on selected properties in the greater Munich region\nEasier comparison of different residential areas\nTime savings through visual location-based searching\nDirect contact with regional real estate experts\nModern and user-friendly mobile experience\n\nWhether it’s a city apartment in Munich, a family home in the suburbs, or an attractive investment property — ProEigentum Immobilien provides a modern and transparent gateway to the real estate market in the greater Munich area.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7623de3ab881918f64ee87cd6a86b4",
+    "name": "Promptbanken",
+    "sourceHash": "a339f162da3dee0fecfc9b835470070fc9dd1d31af8222536416468363ff154f",
+    "summary": "查找并使用提示词模板",
+    "description": "Promptbanken 是面向市政机构、学校、企业、协会和个人的开放、精选提示词模板库。可搜索任务、完整获取模板并逐步使用提示词包。连接器开放且只读，无需账户或登录；只接收工具定义的搜索词、角色词、筛选器及目录条目的 ID 或 slug，不会接收对话中的其他内容，也没有写入工具，因此不能存储、修改、发布或删除任何内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6999b01e27848191b089311e21048f3e",
+    "name": "ProofX",
+    "sourceHash": "675011c116ca11614703c3a0dc569f4955fc78a6f5427f497d4ce18aec7349da",
+    "summary": "保护并验证内容",
+    "description": "该插件保护并验证内容。以下功能和限制适用：\n\nProofX protects your digital content with cryptographic signatures.\n\nWhat you can do:\n- Protect your articles, poems, scripts, code, and text with tamper-proof cryptographic proof\n- Verify if content is registered with ProofX using a content ID or hash\n- Look up creator profiles and their protection history\n- Get digital fingerprints of your content\n\nHow it works:\n1. Connect your ProofX account (free signup at proofx.co.uk)\n2. Ask ChatGPT to protect your content\n3. Get a verification link anyone can use to prove you created it\n\nUsed by 300+ creators including photographers, writers, journalists, and musicians.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e5be7461d88191814dabaea57e77a1",
+    "name": "Propalt",
+    "sourceHash": "1f9ba96550b78bba367e695b186ce8cee4659eca1163566625f12bcd4938110a",
+    "summary": "英国房产数据与洞察",
+    "description": "该插件英国房产数据与洞察。以下功能和限制适用：\n\nResearch UK properties and local markets with Propalt in ChatGPT. Find property facts and turn available data into useful research, pricing evidence and reports.\n\n• Look up residential properties, sale and rental listings, ownership and lease details, EPC records and property history.\n• Get indicative residential valuations, compare sold or listed properties, and explore local market trends and House Price Index data.\n• Explore planning applications and available planning constraints. Search applications by property, postcode or outcode, such as NW1.\n• Search non-residential land records using supported classifications, and find property records linked to a specified registered company.\n• Find nearby schools, transport stops and amenities. Transport and amenity results include straight-line distances.\n• Filter sale and rental listings by estate agent brand and supported property criteria. Use UPRN or UDPRN references for supported property lookups.\n• Use guided workflows to prepare valuation briefs, pricing reports, property comparisons, price-reduction cases, negotiation notes and local property articles.\n• Build property prospecting lists and export selected addresses to CSV for Propalt My Lists.\n\nPlanning data covers England and Wales. Planning-application searches support outcodes; planning-constraint searches require supported property or location inputs. Data coverage, availability and record dates vary by dataset. Valuations are estimates, and nearby transport data does not provide live timetables.\n\nConnect a Propalt account with API access and sufficient credits.\n\nAPI documentation: https://account.propalt.ai/api\n\n需要连接具有 API 访问权限且额度充足的 Propalt 账户。API 文档：https://account.propalt.ai/api",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a68a3cbbb9481918cc81087bc39a17a",
+    "name": "Property Index Dubai",
+    "sourceHash": "480ae20f978d321f011fc30aed03a84526dc8a3242f9b2cf0f791203ea9f5113",
+    "summary": "迪拜房地产数据",
+    "description": "该插件迪拜房地产数据。以下功能和限制适用：\n\nAsk ChatGPT anything about Dubai Real Estate data and get informed responses, giving you the ability to query 11m+ Dubai property sales and rental records with infinite possibilities. Loved by Dubai's best real estate brokers, investors, and property professionals. Property Index is approved under the Dubai Land Department's Real Estate Evolution Space Initiative and is powered by official DLD real estate data.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6952b7a6833c819181bdf6c0283108a7",
+    "name": "Propolis Health",
+    "sourceHash": "a0e706b6c0cdd752d3ad46c842b15bb48786e3c28092c4d0bc0aed0ef86455f1",
+    "summary": "蜂胶产品信息",
+    "description": "Propolis Health 可查询蜂源补充剂目录中的官方产品信息，包括蜂胶胶囊、液体蜂胶提取物和蜂王浆胶囊。询问产品即可获得产品名、形式、类别及 propolis-health.com 官方页面链接。应用仅提供产品信息，完全只读，不提供医疗建议、不诊断、不推荐剂量，也不处理购买、结账或付款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a719decf05c8191b8ef62a812686b74",
+    "name": "Proposal.Biz",
+    "sourceHash": "2978f9e145b47c9c57453d61482b3b89b2afbafc3803e7b515bc33bcc24e6b55",
+    "summary": "创建专业文档",
+    "description": "该插件创建专业文档。以下功能和限制适用：\n\nCreate professional, beautifully designed business documents from a single prompt in under 60 seconds. Just describe what you need and let AI do the rest.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1c27238bbc81918a142ba902208173",
+    "name": "Proprietio",
+    "sourceHash": "b69239325a34da24694215de99bb8c445599725e268a927b1a1913ad9a2b210c",
+    "summary": "房产运营与会计",
+    "description": "该插件房产运营与会计。以下功能和限制适用：\n\nProprietio connects ChatGPT to a property management portfolio so users can review operations, accounting, maintenance, and owner reporting in one place. It can generate a daily operations brief, command center, portfolio risk radar, and owner update; look up properties, units, leases, residents, rent roll, NOI, delinquency, income statement, balance sheet, and general ledger; manage work orders; browse approved vendors; and message residents or vendors. It is built for property managers, owners, and accounting teams who want to identify priorities and take routine actions without leaving ChatGPT.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a05de7314dc819181be899b114e2a48",
+    "name": "Protplex",
+    "sourceHash": "ddee1e9b22fd1d63d0cba6bfdd2da215cf90c0d5e0b2f8be8cc7ae18b9287297",
+    "summary": "查找蛋白质结构",
+    "description": "该插件查找蛋白质结构。以下功能和限制适用：\n\nProtplex makes the Protein Data Bank searchable in natural language through distilled structural, functional, and biochemical profiles. It helps users search 240,000+ PDB structures across function, structure, chemistry, organism, assembly, ligands, and experimental context.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5fd24c21a08191a71ebc8099bb99b8",
+    "name": "PuraFi Expenses",
+    "sourceHash": "f1883e657aa5fbd2a137fc9d33b817e0b9a8e58953785f0f3fe0dbcd04a5ba34",
+    "summary": "在聊天中提交费用报告",
+    "description": "PuraFi 将对话转化为完整费用报告。您可以把收据照片、PDF 或文字描述放入聊天，PuraFi 会按月份或行程记录商户、日期、类别和金额；描述行程（“办公室到 Hartford 客户处再返回”）后，它会计算实际驾驶距离并应用当前 IRS 里程费率，包括电子表格可能遗漏的年中费率变化。准备好后，它会生成精美 PDF 报告，并提供财务团队可直接在 Excel 或 QuickBooks 中打开的文件。它会检查缺失详情、遗漏的参与者和重复收费，然后通过一键审核链接发送给审批人。审批人无需账户或应用。发送后，PuraFi 跟踪报告状态（待处理、已批准或已拒绝）并计算等待天数，因此“我应得多少钱？”始终有实际答案。您可以用它整理收据、按当前 IRS 里程费率记录商务里程、生成 PDF/Excel/QuickBooks 文件、发送给经理一键审批和跟踪状态。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9a83e37cc4819188896feeab8966ea",
+    "name": "Pydantic Logfire",
+    "sourceHash": "b975a43042e5bd174d1b676483408523685008081ce6e82af6bd36f04ff930ec",
+    "summary": "查询和管理遥测数据",
+    "description": "该插件查询和管理遥测数据。以下功能和限制适用：\n\nLogfire helps engineering teams query telemetry, investigate exceptions, build dashboards and alerts, install observability integrations, and manage prompts and variables in their private workspace.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7eb386661081918aaf06a7e097d51f",
+    "name": "Qualisend",
+    "sourceHash": "fe2417a53e720b5f97ac1e30873cb312952815414d1082ab1e5b2246daafaa55",
+    "summary": "验证并清理电子邮件列表",
+    "description": "该插件验证并清理电子邮件列表。以下功能和限制适用：\n\nQualisend verifies email addresses and cleans lists so your messages reach real inboxes and bounces stay low. Ask it to check a single address, a batch, or a whole list — you get a clear deliverable / risky / undeliverable / unknown verdict for each, with typo suggestions and disposable- and role-address detection.\n\nIt runs the full check: syntax, domain and mail server (MX), disposable and role detection, catch-all, and a real mailbox (SMTP) check. Large lists run in the background and return a result summary you can review.\n\nOn the Pro plan it also checks whether a sending domain is set up correctly (SPF/DMARC), generates the DNS records you need (SPF, DMARC, BIMI, MTA-STS), and analyzes raw email headers to diagnose deliverability. With the Blacklist Monitoring add-on it can check whether a domain or IP is on major blacklists.\n\nEach verification uses one Qualisend credit, and you connect your own Qualisend account.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e0ace8682481919ed9bce7fb231a52",
+    "name": "Quanti IA",
+    "sourceHash": "fffb533ac0d2167e04eedc14a2fb03ef077fa8cedbe45fa8f627da580bb84345",
+    "summary": "查询营销数据仓库",
+    "description": "Quanti Analytics 将 ChatGPT 连接到 BigQuery、Snowflake 和 Redshift 营销数据仓库，可用实际表架构生成 SQL 查询并跨 200 多个连接器运行只读查询，包括 Google Ads、Meta、TikTok、Amazon Ads、Microsoft Ads、Shopify 和 Piano Analytics。可浏览报告目录、保存分析并导出结果；不会修改数据或执行写入。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e6af3297d88191b4925772c50df286",
+    "name": "Quo",
+    "sourceHash": "255fddffc8a936370c57e77cdba1946b0ddb84703f98332aa82cbebcbcf8e953",
+    "summary": "给你的代理一个电话号码",
+    "description": "该插件给你的代理一个电话号码。以下功能和限制适用：\n\nQuo is a next-generation business phone system that helps teams engage customers, collaborate internally, and scale communication with AI — without losing the personal touch. Connecting Quo gives ChatGPT access to your customer conversations across calls, text messages, and contacts. You can ask questions about those interactions to uncover patterns in what customers are saying and where opportunities may be lost. ChatGPT can search, analyze, and summarize conversations to surface insights like Why are we losing deals? What do customers love about our service? What complaints show up most often?",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d2ab5058c08191b7134f3398932476",
+    "name": "QuoteCraft AI",
+    "sourceHash": "06ca56dd31ee210a2e2ab8d6969e3198a9b9b42a19d7df55a6ea172c75e227d8",
+    "summary": "生成报价和估算",
+    "description": "该插件生成报价和估算。以下功能和限制适用：\n\nQuoteCraft AI helps contractors and service businesses create first-pass estimates in ChatGPT for paver patios, lawn makeovers, and pressure washing. It collects project details, calculates low, working, and high estimates from deterministic pricing rules, and returns transparent assumptions, formula breakdowns, suggested upsells, and client-ready quote copy.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a70ca16fd8c81919b5cf5fd3d615267",
+    "name": "Quotient",
+    "sourceHash": "bac518185f4836cd709f7e0ecf5a42c551c23537c85f6581309b22c83ae0a73a",
+    "summary": "GTM 与营销自动化",
+    "description": "该插件GTM 与营销自动化。以下功能和限制适用：\n\nQuotient is an AI-native platform and intelligent agent in one; built to plan and execute campaigns across email, social, blog, and events, without the fragmented tools you've outgrown.\n\nAt its core, Quotient is an AI demand marketing platform. It brings everything that attracts customers: blogs, social posts, email, webinars and events, and brand-building, into one integrated workspace. You work with Quotient like a coworker. Describe what you want in plain English, and it takes it from there.\n\nCampaigns organize your marketing around a central goal, like a feature launch or event. Each is a coordinated set of tasks and deliverables moving through a clear workflow. Deliverables are the real assets Quotient creates and ships: blog posts, email broadcasts, marketing events, automated flows, and social posts for X, LinkedIn, Instagram, Facebook, and TikTok. Ask Quotient to build a campaign end to end: it writes the brief, breaks the work into tasks, sets the timeline, and produces each deliverable.\n\nQuotient gets smarter over time, drawing on a Knowledge Store of brand information, recording memories of your preferences, and using tools to search the web and pull from your audience of people and companies.\n\nThe result is a single platform where strategy, content, and execution live together, replacing the patchwork of disconnected marketing tools with one AI that plans, writes, and ships.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9a8d3450b88191835993047364a53b",
+    "name": "Radisson Hotels",
+    "sourceHash": "0d1e8c4eca3a72ecc492a61e3c7a30d5da29d666dcd4001e58792dc3433fdeaa",
+    "summary": "发现并规划住宿",
+    "description": "该插件发现并规划住宿。以下功能和限制适用：\n\nDiscover and plan your Radisson stay, now directly in ChatGPT.\n\nJust describe what you’re looking for, and the app helps you search and compare Radisson properties with up-to-date rates, location context, and practical hotel details. You can explore results on an interactive map, quickly understand which options are closest to the places that matter to you, and compare hotels by price, amenities, and overall fit without jumping between multiple tabs.\n\nWhether you’re planning far ahead or figuring things out last minute, you can refine your search in seconds by adjusting destination, dates, budget, or preferences as you chat. The experience is designed to keep planning easy from start to finish: ask, compare, narrow down, and choose with confidence.\n\nTry prompts like:\n - Find Radisson hotels near downtown Amsterdam for next weekend\n - Show options with breakfast included and a fitness center\n - Get me the best-value stays near the airport\n - Which Radisson hotel is best for walkable dining and shopping?\n\nWhen you’re ready, just select the option you like, and the app gives you a direct booking link to complete your Radisson reservation with ease. No payment is processed within ChatGPT.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7f1ff4342c8191bf89c83a28b80a2d",
+    "name": "RainbowStats",
+    "sourceHash": "ab15b2fc1c4c0ab3d1ba759fa9cd57fa87bafe6f3c70f06845171314ef854a36",
+    "summary": "经济数据与统计",
+    "description": "该插件经济数据与统计。以下功能和限制适用：\n\nRainbowStats helps users retrieve, transform, analyze, and visualize economic and financial time-series data in conversation. It provides access to FRED and other public databases and supports statistical scripting, regression, correlation, forecasting, distribution analysis, and interactive charts.\n\nResults include reusable RainbowStats scripts so users can reproduce or extend their analysis on rainbowstats.com. RainbowStats is intended for research and educational purposes and does not provide investment advice.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694cfc47f9d48191b00b9cb304d5e12c",
+    "name": "Rakhys",
+    "sourceHash": "b8cdee50da79840444eb713c8f3666b223508b262af747d4d67085e1e212440f",
+    "summary": "查找最佳电子产品价格",
+    "description": "该插件查找最佳电子产品价格。以下功能和限制适用：\n\nRakhys helps users compare electronics prices across major online stores in Saudi Arabia and the Gulf.\n\nThe app brings together product prices, specifications, and availability in one place, making it easier to find the best option before purchasing.\n\nRakhys provides:\n\nDaily updated prices from multiple online retailers\n\nClear comparison of product specifications\n\nAI-powered recommendations based on user needs\n\nA simple and fast interface for smart shopping decisions\n\nRakhys is designed to save users time and money by helping them make informed buying decisions.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fa8eea4c9081919175171bbb73064e",
+    "name": "RAMMP",
+    "sourceHash": "6c4ec653f7dec4da59945f400451c29638a90056457c2fb99f495bcc92d4741e",
+    "summary": "评估并改进营销",
+    "description": "RAMMP 帮助创始人和营销人员找出营销未转化的原因。它根据企业自己的 Google Analytics 数据和收入目标，免费计算 0–100 的品牌信任分，使用 ADORE 框架找出漏斗最薄弱阶段，并返回影响最大的修复建议。完整报告工具会扩展为逐里程碑评分和处方式指导，辅助工具则针对策略、品牌、网站、承诺、入职和留存提供阶段建议。所有工具均为只读：只根据用户提供的输入计算并返回指导，绝不会修改用户数据或任何外部系统。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f4ff416e948191b53586c77b559615",
+    "name": "Ramp Data",
+    "sourceHash": "93d381284dc041830eddd6b6966568a7ff411dc7e3c76c4d7b860aa2c9a7b689",
+    "summary": "分析 Ramp 经济数据",
+    "description": "Ramp Data MCP 让 ChatGPT 访问来自 50,000 多家企业、规模达数十亿美元的真实企业支出数据，包括 Ramp Rate（供应商采用、价格和更换趋势）及 AI Index（企业如何支出于 AI）。数据供创始人、采购负责人、研究人员、投资人和政策分析师使用，并被 NYT、WSJ、Bloomberg 等引用；结果用于研究和分析，不代表你的实际账户支出或财务建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69aa70e213a8819197fe9fb53fa23eb6",
+    "name": "Ray Arceneaux AI Consulting",
+    "sourceHash": "0fa2b9d50a5d2fb5748b21f07c469bd8308b3aeb9a11386123fc5f70dbd13de0",
+    "summary": "检查 AI 搜索可见度",
+    "description": "检查您的企业出现在 AI 助手回答中的可能性，并了解纳什维尔顾问 Ray Arceneaux（MBA）提供的 AI 实施和培训服务。通过 AI Visibility Audit 输入企业名称、城市和行业（网站可选），即可获得预估可发现性分数、可行动性分数、可见度评级和 2–3 条优先建议，其中包括今天可执行的一步。还可查看 AI 准备度会议、AI 实施和员工培训等服务，了解 Discover、Design、Build、Train 四步流程，询问费用、时间表和技术要求，并请求咨询、通过电子邮件接收服务概览和一次性 30 分钟 Zoom 预约链接。只有在您要求联系时才会收集联系方式；保存或发送前会用一次性代码验证电子邮件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4669e30f388191b0b6f7b345db7b2a",
+    "name": "Raytheon Careers",
+    "sourceHash": "db24659f150a33a6ddf76ee8daa5217c35b63e68aeabe92fdf356ad78f57dfed",
+    "summary": "寻找下一份机会",
+    "description": "该插件寻找下一份机会。以下功能和限制适用：\n\nAt Raytheon, every breakthrough begins with extraordinary talent driven to solve the world’s most complex challenges. Here, your work isn’t hypothetical, it has real-world impact. Join the teams developing advanced technologies that help connect and protect the world while making a difference where it matters most.\n\nThe Raytheon Careers ChatGPT app makes it easy to discover opportunities that align with your skills, interests, and career goals. Search by location, job title, discipline, or skill set across engineering, manufacturing, software, cybersecurity, systems, operations, supply chain, business, and more.\n\nWhether you’re exploring your next opportunity or ready to take on a new challenge, you’ll find meaningful work, opportunities to grow and the chance to help shape what’s next in defense technology.\n\nYour next opportunity starts here.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a963448b0cc8191ab6f111554522f89",
+    "name": "Reacher",
+    "sourceHash": "fbeb0a571026079ef3e88f8e98be8dec800bfdc4dd1dfb9f07d5497be5c5409c",
+    "summary": "管理 TikTok Shop 联盟",
+    "description": "该插件管理 TikTok Shop 联盟。以下功能和限制适用：\n\nReacher connects ChatGPT to your TikTok Shop affiliate program. Ask about GMV, creators, videos, samples and campaigns in plain language and get answers from your live Reacher data instead of a dashboard. Find creators across the open TikTok market, see who is actually driving sales, review sample requests and automations, and pull the numbers behind a weekly report — for one shop or all of them. Write actions such as creating an automation or replying to a creator are labelled and confirmed before they run, and money movement is not available through ChatGPT.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a60f7f4a744819194ab9d1344b9178c",
+    "name": "RealAI",
+    "sourceHash": "086d33f8c1594a605e2119597087b916f9f3f8160ef986e227213387dbe8c92f",
+    "summary": "住宅房地产数据",
+    "description": "该插件住宅房地产数据。以下功能和限制适用：\n\nThe RealAI MCP provides ChatGPT access to RealAI’s authoritative real estate data catalog, spanning 126 million US properties (including 230,000 multifamily communities with unit-level operating detail), aggregated data on the 250 million people who live in them, their rent and leasing activity, and market/geographic data from the metro down to the census-block level.\n\nRealAI doesn't just describe properties and places — it scores and ranks them. Every area and building carries normalized national and local benchmarks across hundreds of attributes, so RealAI can rank an entire population — markets, neighborhoods, or buildings — against any combination of criteria a user cares about, rather than profiling one place at a time off a fixed template.\n\nTwo examples of data depth most tools can't match: migration data that captures not just population flows but the age, income, wealth, and education profile of who is moving in versus out of a market; and unit-level rent-roll history built from nightly listings nationwide — asking vs. in-place rents, occupancy, days on market, rent growth, turnover, and tradeouts.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694564c08f748191bae28af902356838",
+    "name": "Realtor.com",
+    "sourceHash": "3f86c56b229c3b99f82716718d58dcfebf463f98ffebda5082511a1bc476763f",
+    "summary": "查找待售和出租房屋",
+    "description": "该插件查找待售和出租房屋。以下功能和限制适用：\n\nKick off your home search with intuitive, conversational features powered by real-time property data and home-search tools, all within ChatGPT.\n\nThe Realtor.com app delivers:\n\n- Listing Search: Browse listings for sale and rentals using simple, natural language commands.\n- Affordability Insights: Find out how much home you can afford based on income, savings and current market insights.\n- Neighborhood Discovery: Compare locations based on what matters to you, like school boundaries and commute times.\n\nPlus, continue the conversation to get local insights for your home search and tailored advice for first-time home buyers.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a360288ef548191955bf7572a4ef981",
+    "name": "Rebarly",
+    "sourceHash": "dd4d07259b08698c0e1f87784fd5cd70bd2d29854299052b458d3b4bfd837f01",
+    "summary": "用 ChatGPT 查询建筑规范",
+    "description": "该插件用 ChatGPT 查询建筑规范。以下功能和限制适用：\n\nWe help architects and engineers effectively use AI. We provide access to the IBC and IRC and UFGS code in a simple and effective way. Your ChatGPT can now speak the code saving time and money.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a19594d066c819188c6c988a0a1817b",
+    "name": "Recruiter Roles",
+    "sourceHash": "84ac42d1cb6c0420d90cf13ce0ea87449e9c1175e24d7fc5a93c856a420f06ba",
+    "summary": "查找招聘人员职位和薪资",
+    "description": "Recruiter Roles 是专为招聘人员和人才招聘专业人士打造的职位板。可用自然语言查找实时职位，例如“薪资超过 9 万美元的远程招聘职位”“加拿大医疗人才招聘职位”或“本周新增的初级招聘职位”。可在美国、英国和加拿大按行业、地点、资历、薪资以及远程或混合办公筛选 1,000 多个职位，打开职位查看完整描述、要求和直接申请链接。还提供按行业和资历划分的招聘人员薪资中位数、每周发布趋势，以及包括 Robert Half、Korn Ferry 和 Kelly 在内的机构与雇主目录；仅限招聘岗位，无登录墙。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5a300495f88191bc275d9a593a4acb",
+    "name": "RED Atlas API",
+    "sourceHash": "a39b4c5269996dd08f00f4ad7865889b33f2719303db8c48e5f6eb33020dd9a2",
+    "summary": "波多黎各和哥伦比亚房地产数据",
+    "description": "该插件波多黎各和哥伦比亚房地产数据。以下功能和限制适用：\n\nAsk for RED Atlas real-estate data in plain language. Search and filter listings, parcels, properties, transactions, permits and taxes across Puerto Rico and Colombia; pull market statistics and trends; look up locations and boundary polygons; and generate AVM and comparables valuation reports. You sign in with your own RED Atlas account, and answers are grounded in Atlas data with links back to the app.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa7f950fdec8191a220906ae82b69a1",
+    "name": "Redpine",
+    "sourceHash": "76d05978a981a2602dc50469033f731c520a69046723b0509eebe9df3162ca7d",
+    "summary": "搜索授权内容",
+    "description": "网页搜索返回无法核验的摘要、付费墙和引用；Redpine 返回文档中的相关片段。\n\nRedpine 直接从出版商和研究机构授权全文研究，并通过 MCP 与大型开放获取语料库一起提供给 ChatGPT/Codex，一次查询同时搜索两者。\n\n默认提供来源溯源。每个结果都带有出版商、标题、发布日期和 DOI 等可解析标识符。授权内容与开放获取内容分别标记，因此两者不会在回答中混淆。\n\n你会先看到价格。任何搜索都可以免费预览。ChatGPT/Codex 会看到每条结果的标题、来源和摘要片段，以及解锁它们的确切费用，然后在消费任何额度前询问。只解锁重要的 3 条结果，而不是返回的 30 条。相同结果在 7 天内可免费重新获取。发现、模式检查、预览和余额查询始终免费。\n\nRedpine 面向出错代价高的问题：临床决策、系统综述、研究工程，以及任何必须经得起来源核验的分析。\n\n账户还可以包含文献以外的数据集成。ChatGPT/Codex 会在运行时读取该账户获授权的内容，而不是假设固定的工具列表。\n\n补偿会返还权利持有人。新账户获得免费查询。额度在 Redpine 仪表板购买，连接器绝不处理付款详情：它会显示价格，并在任何收费前询问。\n\n需要 Redpine 账户。首次使用通过 OAuth 登录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6abb1a5d9bcc8191a2c68a7324c7307b",
+    "name": "RelayShield Scam Checks",
+    "sourceHash": "68177fa88e9cea6d87c1418df3dc5b37df92445def5e6373d7333fecf3bfa04f",
+    "summary": "免费链接诈骗检查",
+    "description": "RelayShield Free Scam Checks 会将链接、加密钱包、可疑邮件和邮箱地址与 RelayShield 威胁情报库比对，该库包含 115 个受监控 Telegram 市场、494K+ 指标和 7.8M+ 引用。四个工具全部只读：检查 URL 的钓鱼和恶意软件、筛查钱包的制裁与诈骗标记、评估可疑邮件的钓鱼信号、查询邮箱是否出现在已知数据泄露中。免费、无需注册或 API 密钥。结果只会是 FLAGGED（已标记）或 unknown（未知），不会报告“安全”，因为没有证据不等于不存在风险。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f3733aea5c8191972146733a985d2d",
+    "name": "RemAI",
+    "sourceHash": "7ce62df5e806c554c4ee86ab8dcde8049b05a689876efd9eb5c2b9cdad4b5bef",
+    "summary": "菜谱购物",
+    "description": "该插件菜谱购物。以下功能和限制适用：\n\nRemy turns ChatGPT into your personal cook and grocery assistant. Generate recipes with ingredients you have in your kitchen, adapted to your dietary needs, and shop them with one of our supported supermarkets (UK only).\n\nConnect your kitchen (find your 6-character code in the Remy app under Profile > My Kitchen) to unlock personalized recommendations, save recipes and shopping lists.\n\nNo account? You can still discover recipes and generate shopping lists without one.\n\nBuilt by East London St Innovations Ltd. More countries and retailers coming soon.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a47e8e914688191a099b19e8edc717f",
+    "name": "RemodelerIQ",
+    "sourceHash": "70605f9330b2ba829c79a582a3f5b19414e91b1a76ae7d54315e26dc3636e5ec",
+    "summary": "承包商报价公平吗？",
+    "description": "RemodelerIQ 帮助房主避免装修超支。描述或粘贴承包商报价后，RemodelerIQ 会从公平性和风险两个维度打出 0–100 分，并标记定金过高、范围模糊、缺少许可证或付款进度等问题。每个数字都基于真实数据，包括 BLS 行业工资、Zonda Cost vs. Value 基准和覆盖美国 152 个都会区的地区成本调整。您还可以询问所在州厨房、浴室、屋顶或扩建应有的成本，或公平的工种人工费率。免费、无需注册、完全只读。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699df4cdb8b48191858bc621ce9df10e",
+    "name": "Reportei",
+    "sourceHash": "848130496be05eb275131222596e92a94f61e334de97326fa2d190df431d4c48",
+    "summary": "多渠道报告",
+    "description": "该插件多渠道报告。以下功能和限制适用：\n\nReportei is a marketing reporting and dashboard platform designed for agencies \nand marketing teams. It provides a unified data layer where all your client \nperformance data is stored, structured, and accessible.\n\nWith this integration, your AI assistant connects directly to your Reportei \naccount and can:\n\n- Fetch structured marketing metrics stored in Reportei for any client project \n  and date range\n- Browse your projects, connected data sources, and available templates\n- Create reports and live dashboards for any client project\n- Set up and manage scheduled report automations with email or notification delivery\n- Log timeline events and milestones for client projects\n\nAll data is served from Reportei's own API. Reportei manages authorization and \ndata collection from each connected source on your behalf.\n\nThis integration is intended for existing Reportei subscribers who want to \nquery their account data and automate reporting workflows through conversation.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8163d9224c81919fcf99ae872b223e",
+    "name": "Repuso",
+    "sourceHash": "c40fa3ebbbb7369c1471d67c8d8f1c02742f3494cc2097c6b17e0021a2e0e20f",
+    "summary": "监控并分析评论",
+    "description": "Repuso 将 ChatGPT 连接到评论监控，可从 50 多个平台（Google、TripAdvisor、Trustpilot、G2、App Store 等）获取标准化评论，每条带情感标签和即时翻译。可询问客户称赞和待改进之处、生成各资料的 AI 评论摘要、跟踪官方评分历史、与监控的竞争者比较、为工作流添加标签，并管理新评论和评分变化事件的签名 webhook。可按企业名称或 URL 添加资料。每次调用使用你自己的 Repuso Monitoring API 账户，遵循 REST API 的密钥、配额和价格；提供 10 天免费试用，无需银行卡。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f4e096af108191a28bce7711bbc4af",
+    "name": "Resimplifi Agent",
+    "sourceHash": "71eb33b3ea8ce881d8b9b1f41124508eb225668e42b3f4e06441eb8923d599de",
+    "summary": "搜索并分析商业地产房源",
+    "description": "该插件搜索并分析商业地产房源。以下功能和限制适用：\n\nResimplifi CRE Data Search and analyze verified, accurate, and real-time commercial real estate listings directly within Claude. Resimplifi is natively integrated as an MCP server, bringing live CRE data into your AI workflow without switching platforms. Analyze communities, explore market availability, and move deals forward - all from one place. Built for professionals who need a faster, more sustainable workflow.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3da23321a88191914164e95151ccd5",
+    "name": "Resolve AI",
+    "sourceHash": "e2aaf10e247f5af9eb4e3e88a781785616d74683542de211246bec312bc57553",
+    "summary": "生产环境 AI",
+    "description": "该插件生产环境 AI。以下功能和限制适用：\n\nConnect ChatGPT and Codex to Resolve AI. Start and steer investigations, pull live production context, and turn root-cause findings into pull requests.\nThe Resolve plugin connects ChatGPT and Codex to Resolve AI over MCP. Resolve's agents join your on-call rotations to triage and investigate alerts and work alongside engineers to reach root cause faster; this plugin brings that surface directly into your coding agent so you can act on it where you already code.\nIt installs skills for listing and filtering alerts, reading and summarizing investigations, starting new root-cause analyses, asking follow-up questions, steering an active investigation with context you have locally, pulling an area's production profile before a risky change, and translating findings into local code changes and a PR.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69457256862081919686f32b07ac4699",
+    "name": "Responsive",
+    "sourceHash": "6da1161acf3861b84e061d7a166f38dbcc331138d16228f7a8eaeb3b221e9e8d",
+    "summary": "Responsive 工作流",
+    "description": "将 ChatGPT 连接到 Responsive。经过身份验证的用户可以搜索已批准的公司内容，列出和创建 Content Library 问答，查询标签、集合、业务部门、必填字段和公司用户，创建并查看分配的项目，生成初稿回复，运行 Answer Agent，管理项目评论，创建 intake，并在 Responsive 中更新答案工作流。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_695b101534508191a313998a4a5badc0",
+    "name": "Retell AI",
+    "sourceHash": "1f4e7885219c9156739f4d39bd2c65e2bc86e0abc5ff6d957462c28ebabd4b9c",
+    "summary": "构建并部署语音代理",
+    "description": "该插件构建并部署语音代理。以下功能和限制适用：\n\nBuild, deploy, and manage AI voice agents that handle phone calls for your business. Retell powers call center automation for receptionists, sales outreach, collections, customer support, and more. Use ChatGPT to create agent prompts, configure call transfers, edit settings, and deploy to live phone numbers - all conversationally.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9d8147d5788191b592aab023141579",
+    "name": "ReturnOS Hospitality Commerce",
+    "sourceHash": "3b375ca17114237bc56262413c603d660e15853f6a6b15803bde7e4994cc7ae9",
+    "summary": "查找住宿和实时直订价格",
+    "description": "该插件查找住宿和实时直订价格。以下功能和限制适用：\n\nSearch direct-bookable accommodation, check live availability and current direct prices, and continue to the host’s direct booking path. Live results come from ReturnOS inventory and pricing. Booking and payment remain guest-controlled.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a605cbc508481918272ea7e7efdb5e7",
+    "name": "Review Buddy- draft AI replies",
+    "sourceHash": "6ef7a180c6d463bff2a1793918a43a3d45ce92cf8c92c2a612a018c8604f3812",
+    "summary": "生成更好的回复",
+    "description": "该插件生成更好的回复。以下功能和限制适用：\n\nWrite the perfect replies to your online reviews.\n\nThis app helps business owners write clear, personal, and polite replies to customer reviews. Copy a review, paste it into the app, and get a response that sounds friendly and professional. Save time, keep your customers happy, and build a better online reputation without staring at a blank page.\n\nGood review? Bad review? Short review? Long review? This app can help. It creates thoughtful replies that fit the customer’s message instead of giving the same answer every time. You stay in control and can edit every reply before you post it.\n\nCustomers notice when businesses reply. A simple thank you can make a good review even better. A calm and caring answer to a bad review can show that you listen and want to help. Taking time to reply builds trust, but writing every response can take hours. This app does the hard part for you.\n\nThe app is made for busy business owners, managers, and teams. It works well for restaurants, cafés, shops, hotels, plumbers, electricians, salons, gyms, dentists, doctors, real estate agents, law firms, cleaners, contractors, and many other businesses. If people leave reviews about your business, this app can help you answer them.\n\nEvery reply is written to sound natural. The app looks at what the customer said and writes a response that matches the situation. Happy customers get warm thanks. Customers with questions get helpful answers. Customers who had a bad experience get a calm and respectful reply that shows you care.\n\nYou can change the reply before you use it. Add your own details, adjust the tone, or make it shorter or longer. The app gives you a strong starting point so you spend less time writing and more time running your business.\n\nReplying to reviews can help your business grow. People often read reviews before they choose where to spend their money. When they see helpful replies from the owner, they know someone is paying attention. That can build confidence and encourage more people to visit, call, or buy.\n\nThe app is easy to use. Paste a review, choose the style you want, and generate a reply in seconds. There is no need to search for templates or wonder what to say. The app helps you find the right words quickly.\n\nUse it for positive reviews, negative reviews, five-star reviews, one-star reviews, first-time customers, regular customers, complaints, compliments, questions, and everything in between. Every review is different, and every reply should feel personal.\n\nKeep your brand voice consistent. Whether your business is fun, formal, warm, or simple, you can create replies that match your style. This helps customers recognize your business and builds a stronger connection over time.\n\nThe app also helps reduce stress. Many business owners worry about saying the wrong thing, especially when responding to unhappy customers. Instead of starting from scratch, you get a thoughtful draft that you can review and adjust before posting.\n\nFast replies can make a big difference. Customers like knowing they have been heard. A quick response shows that your business cares about feedback and wants to improve. Even a short reply can leave a lasting impression.\n\nWhether you receive a few reviews each month or many every day, this app helps you stay on top of them. Save time, reply with confidence, and give every customer the attention they deserve. Better conversations lead to better relationships, stronger trust, and a better reputation. Start writing smarter review replies today and spend less time typing while making every customer feel heard.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a77434eea1881918e59ba084442bbdb",
+    "name": "RezervaOnline",
+    "sourceHash": "41775dcac322a05f0647c1c468cb1e24841b7b1d828dda95d89eab5f36e93b0c",
+    "summary": "预订罗马尼亚酒店",
+    "description": "RezervaOnline 帮助旅客在罗马尼亚查找和预订住宿，包括民宿（pensiuni）、酒店和别墅。可按地点或名称搜索，查看实时房态及罗马尼亚列伊（RON）价格，并直接在对话中创建预订。预订由住宿方确认，抵达时付款，因此预订无需在线付款。该服务连接在 RezervaOnline 平台上管理预订的住宿方。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a63bad25528819187bf1eeabd8a9af3",
+    "name": "Rhizome AI",
+    "sourceHash": "b0f54ffdd1c78636c3c6cb5c28cccc7168e16713faa4e8cb1b927fa9fc009205",
+    "summary": "了解 FDA 的看法",
+    "description": "该插件了解 FDA 的看法。以下功能和限制适用：\n\nRhizome's built an AI regulatory coworker that helps life sciences know what their regulator thinks.\n\nWe're backed by the same investors as Benchling and have gone from 0 -> >25 customers in the last 18 months. \n\nWe've indexed >3 TB worth of data put out by the FDA, EMA, MHRA, PMDA, etc., and built an agent that helps you:\n - automate precedents research \n - research FDA expectations around clinical endpoints, trial design, labeling, etc. \n - review briefing booklets, write pre-IND meeting packages, create white papers on almost any topic \n\nThere's a few things that separate it from general AI tools:\n - each fact is backed by a citation, each citation is backed by the page of a health authority document \n - much more comprehensive answers, as our AI goes up to 1,000 sources \n - we've had no hallucinations reported last 18 months \n\nFor more info, read rhizomeai.com/llms.txt\n\nFor support, reach out to support@rhizomeai.com",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5e5256e6088191af09d4672c7964ee",
+    "name": "Rhythm Systems",
+    "sourceHash": "066711f39a1ba6aa4015bb688c006ddbbf9fd24aff6b0cfe1a30521c29405d4f",
+    "summary": "战略计划、目标与 KPI",
+    "description": "Rhythm Systems 是面向中型市场业务领导者的战略运营系统。此 AI Connector 为 AI 助手提供按用户隔离的安全访问，读取公司的 Rhythm 数据：战略和年度计划、季度目标与 KPI、会议议程、任务、Week in Sync 笔记、职位记分卡和仪表板。您可以询问目标状态、更新优先级、准备会议和记录笔记；所有操作均通过 OAuth 受现有 Rhythm 权限管理。需要 Rhythm Systems 账户，并由管理员启用 AI Connector 访问权限。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f9511a65a08191aed1b7825d52f930",
+    "name": "Rhythms",
+    "sourceHash": "9ad9e84a536cfa39f3ad2b75c7359cea6e98d00380a2be35a47f099c1e22e4dc",
+    "summary": "AI 战略与运营",
+    "description": "该插件AI 战略与运营。以下功能和限制适用：\n\nAI agents are powerful but context-blind. They don't know your priorities, what's been decided, how teams are organized, or what your company has learned. Rhythms gives ChatGPT a live, two-way connection to your organization's strategic context — goals, decisions, knowledge, teams, and progress. Query what matters. Create goals and documents. Generate business reviews from live data. Everything you contribute makes the context richer for your entire organization.",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3eb1c694c48191a71f81680f21f486",
+    "name": "ride.auto",
+    "sourceHash": "16b13c2e1f425f1ec12d6ad913533fc9e1a8bd663051dfc1ae4c7e28f1e2a976",
+    "summary": "查找可信车主的车辆",
+    "description": "ride.auto 可查找并预订独特租赁车辆，从日常汽车到 Tesla、卡车和 SUV。按地点、日期和车型搜索，比较包含完整费用明细的价格，并直接通过市场平台预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a856978bdf0819191b886f2fe9f4f53",
+    "name": "RideDesk",
+    "sourceHash": "da869424688e1ed229f5832b39a0790d5b10e1ebd2e86f8d196be677552c3193",
+    "summary": "构建接送预订网站",
+    "description": "RideDesk 是机场接送、专车、出租车和车辆租赁运营商使用的预订与调度软件，按运营商自己的品牌管理预订、报价、司机、开票和付款。此插件将 RideDesk 开发者文档作为可查询工具，让代理在构建运营商预订网站时获取准确 API 合同，包括三次调用的“报价 → 预订 → 结账”流程、可嵌入预订组件、访客归因、实时聊天、客户门户及每个账户自己的 MCP 预订服务器。它是只读的，无需账户或身份验证。实际报价和预订发生在运营商自己的域名上，绝不会通过此插件完成；价格始终由服务器根据运营商自己的费率表计算，而不是由代理计算。典型用途包括构建预订网站前获取集成简报、查询结账合同、获取指定域名的组件嵌入代码片段，或搜索验证码、归因和客户门户详情。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694af876013c8191ac0c6b83e05a2a1b",
+    "name": "RIFO Home",
+    "sourceHash": "b09c2cff65a04ffa34199c4c16b24de85e87067eb9ad514e14e259b8b7a73dc1",
+    "summary": "查找待售和出租房屋",
+    "description": "该插件查找待售和出租房屋。以下功能和限制适用：\n\nRIFO Home makes it easy to search homes for sale and rent through conversation.\nSimply describe what you’re looking for — location, budget, commute, schools, neighborhood, lifestyle, or nearby places — and explore listings that match your needs.\n\nGo beyond standard home search filters with location-aware discovery. Find homes near parks, schools, supermarkets, cafes, restaurants, and other points of interest, or search based on preferences around transit, highways, railways, and surrounding infrastructure. You can also search by school boundary, nearby places, and intersections to discover homes in the areas that fit your daily life.\n\nTry asking things like:\n• Find 2 bedroom detached house for sale near schools and parks in Markham under $2M.\n• Show me 1 bedroom condo rentals near a subway station under $2,500 in Yonge and Finch.\n• Are there any 3-bedroom townhouses in Richmond Hill under $1.2M that are located away from highways and power lines?",
+    "model": "codex-subagent-reviewed"
+  }
+]

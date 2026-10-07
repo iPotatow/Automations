@@ -1,0 +1,674 @@
+[
+  {
+    "id": "plugin_asdk_app_69eba17551ac81918231c83822b703b6",
+    "name": "Datasite",
+    "sourceHash": "0d715be5a2f4f16ea53d589347f5ef425466632ae5841b191699a91f1f3e44e0",
+    "summary": "管理并购数据室",
+    "description": "连接 ChatGPT 到 Datasite 虚拟数据室，可用自然语言建立文件夹、邀请用户、搜索文件、跟踪买方问答、检查数据室准备情况并管理访问权限。\n\n1. 设置交易室：“为 Project Alpha 创建新的 Datasite Prepare 数据室，设置标准 M&A 文件夹索引，并邀请 sarah@advisorfirm.com 作为管理员。”\n2. 语义搜索文件：“搜索数据室中与待决诉讼或监管风险相关的文件。”\n3. 跟踪买方问答：“显示数据室所有未解决的 Q&A，并为有支持文件的问题起草回复。”\n4. 审计准备情况：“检查空文件夹、缺失文件，以及标记为受密码保护或空白的文件。”\n5. 管理用户访问：“创建仅查看权限的买方角色，并为 Acme Capital 的以下五位联系人创建邀请草稿。”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5610d5d034819186cb063a811800aa",
+    "name": "Dataslayer",
+    "sourceHash": "624377267e223b72ae9c51cd309c92831dcf2ddde6c6a0f5e51eacc80b190d44",
+    "summary": "询问营销数据",
+    "description": "将 ChatGPT 连接到 Dataslayer 账户中可用的营销和分析数据。使用自然语言查询 Google Ads、Meta Ads、Google Analytics 4、LinkedIn Ads、TikTok Ads、Microsoft Advertising、Amazon Ads、Shopify、HubSpot 等平台的数据。您可以发现可用数据源和已连接账户，查找各平台支持的指标和维度，按账户和日期范围获取活动与表现数据，比较活动、账户和报告期间，分析趋势与变化，并将数据转成摘要、表格和可执行洞察。示例：显示上月 Google Ads 的点击、展示、费用和转化；比较本月与上月活动表现；查看 GA4 可用的收入指标；列出已连接的 Meta Ads 账户；按活动和日期拆分 TikTok Ads 表现。Dataslayer 直接从已连接的营销平台获取数据，ChatGPT 帮助您探索、解释和呈现结果。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698d462b7cdc81919f262bb8c55f3483",
+    "name": "Dazzly",
+    "sourceHash": "319a47add8e472952c522c6744729cdc433de320d052a389998174c67486818c",
+    "summary": "即时聊天构建网站",
+    "description": "Dazzly 是一体化建站工具，提供模板、托管、免费 SSL、图片优化及图库；内置电商购物车支持支付、自提、配送和取货付款，并包含 SEO 基础功能。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a761f3e12008191814f6de594ce93d2",
+    "name": "DealKeep",
+    "sourceHash": "f432306333a07846af064ef0661bdacf3b2c56a9a942bd907b8b3fc7214678d6",
+    "summary": "管理终身软件优惠",
+    "description": "DealKeep 面向终身软件优惠买家，提供只读工具来搜索已购工具、发现重复购买、查看许可证详情、列出优惠并提示创始人风险。不能购买、兑换、编辑或删除，只访问你的 DealKeep 数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a80320b4aec8191ba59af3c4665cf1d",
+    "name": "Decionis",
+    "sourceHash": "6d3de360dc45dbffa7461226995c021e1f147ced519cb0354a948e3ac461e531",
+    "summary": "执行授权",
+    "description": "Decionis 在 AI 代理执行重要操作前按组织政策评估，决定允许、暂缓或要求额外授权；需要时通过 Presence 请求可验证批准，并生成可审计的决策档案和加密证据。它只授权执行，不执行付款、转账、订单或系统变更。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_695d0a81f29c8191be9fcd0c203ba23a",
+    "name": "Deel",
+    "sourceHash": "be05b484842ec10d5f4d12c69c68d895aff683b3ee64840ec423d18ea49fda4c",
+    "summary": "自信地做招聘决策",
+    "description": "Deel 帮助规划全球招聘：比较雇佣模式成本、估算雇主总成本和员工到手收入，并提供覆盖 150 多个国家、由 2,000 多名当地专家支持的本地洞察和薪资背景。\n\n关于 Deel：Deel 帮助团队在 150 多个国家招聘、支付和管理工作人员。\n\n仅供规划使用，不构成法律或税务建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698ebfa1aadc81918b3bb13ae2118af0",
+    "name": "Demandbase",
+    "sourceHash": "a8cc52b61b1d25f48ab13b46f1d6e85619e975ea5ed7ee7eb6625cff14ecad4c",
+    "summary": "B2B GTM 智能",
+    "description": "Demandbase 集成让销售、营销和 GTM 团队在 ChatGPT/Codex 中访问一方与三方 B2B 数据，搜索公司和联系人、查看意向与参与度、识别买方小组并生成账户简报。需要相应 Demandbase 许可；访问请联系 CSM，技术支持为 support@demandbase.com。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a39860c83d88191ac7008a2c684a916",
+    "name": "Denison Yachting",
+    "sourceHash": "939e5e9ba211541e653c4d8bd1e58d938f702d7118ec0f172acd48a95d632441",
+    "summary": "搜索待售游艇",
+    "description": "按品牌、型号、价格、尺寸、地点或类型搜索全球待售游艇、船只和超级游艇，浏览详情、比较选项并查看 Denison Yachting 库存。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a1cf9421d081919ce806c97034e6b8",
+    "name": "DepositPhotos",
+    "sourceHash": "1efa75221e36935f3962d771d04aa7939899772d5b551e23e75d227f876dbf2b",
+    "summary": "我们热爱你的创意",
+    "description": "Depositphotos 将超过 2.5 亿张免版税照片、矢量图、视频和音乐带入 ChatGPT，可用自然语言搜索并打开官方页面查看许可和下载选项。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4aa6c99a288191be8f5b43676a41a8",
+    "name": "Digimarket",
+    "sourceHash": "ab317dc29c9ebc7ed6b6c2470828955a200e6f7622f5e3fe61b72d706c5166c5",
+    "summary": "查找工业库存",
+    "description": "Digimarket 帮助经过验证的企业搜索和发布过剩工业库存，可按 OEM 零件号、品牌、类别、数量、单位和价格查找电缆、端子、连接器等；市场操作需要企业验证。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a889b580ea48191b9a86635a6306573",
+    "name": "DiligenceSquared",
+    "sourceHash": "50d4317eefc05d541db4ad4ae231eb98cf8db163cb59401b571105daec245776",
+    "summary": "访问市场情报",
+    "description": "以自然语言搜索 DiligenceSquared 项目访谈，获取带专家姓名归属的逐字引述、报告章节及底层数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a212790a6648191a52b10823b187e65",
+    "name": "Din Bostad",
+    "sourceHash": "c16004d666ca484cf27600c8f2292ba9b18e6e722fc4fdf69c6653cc6636d333",
+    "summary": "查找瑞典房产",
+    "description": "Din Bostad 可在 ChatGPT 中搜索瑞典待售房产，包括公寓（lägenheter、bostadsrätter）、独栋住宅（villor、hus）、联排别墅（radhus）、小屋（stugor）、地块（tomter）及其他待售房产。\n\n助手会将用户提到的地名解析为具体行政位置（län、kommun、area、place、street），再使用价格区间、房产类型、房间数、居住面积、地块面积、设施（泳池、阳台、车库、壁炉）、能源等级、看房时间、周边兴趣点（水域、公园、学校、公共交通）、发布时间和排序等结构化筛选查询列表。此前对话中的条件会保留，无需重复。\n\n匹配的房源会在交互式地图组件中显示，并提供侧栏列表和全屏详情查看器。每条房源都链接到 dinbostad.se 的完整广告页，可查看所有照片和看房时间、预约看房或联系经纪人。示例包括：“Lund 和 Malmö 至少 5 个房间、地块超过 800 平方米且能源等级 C 或更好”“Helsingborg 和 Lund 低于 5 百万瑞典克朗、至少 4 个房间的联排别墅”“Bohuslän 靠水带泳池的房屋”“Malmö 低于 800 万 SEK 的三居室别墅”“Värmland 待售小屋”“Umeå 最新房源”。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9c513fd9e48191989c9dca54474101",
+    "name": "Dino Run+",
+    "sourceHash": "bb2c1f29818c8ef7167c7527241d0b3650c681c3765f2296f530b04d04754024",
+    "summary": "玩恐龙跑酷",
+    "description": "在 ChatGPT 中玩恐龙跑酷：选择恐龙，用空格、上、W 或点击跳跃并可二段跳；收集金币、解锁 6 个皮肤、挑战最高分。无需账户或付费；进度仅在允许本地存储时保存，金币无现金价值。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0c7d8ab08c8191b881c80f10897ee5",
+    "name": "Disney Careers",
+    "sourceHash": "5ae3ba92714b4977330d3c46d3c072d68a42aa1b3b24ce1af0a985875161a863",
+    "summary": "探索迪士尼职位",
+    "description": "在 ChatGPT 中探索迪士尼职位，可按关键词、团队、职能、地点、薪资或工作偏好查找，并查看职责、资格、福利和薪酬；通过官方职位页面继续申请。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7145dacf4481918c673d3db236c4cc",
+    "name": "DisputeChat",
+    "sourceHash": "00735053d609640085a04f36c22074dec3795c103085a0080bce02fbcb766d0b",
+    "summary": "争议管理软件",
+    "description": "连接授权的 DisputeChat 企业工作区，查找客户和潜客、打开可视化 Client Command Center 和 Client 360、查看实时状态、争议、信件和优先级，并准备需审批的 CRM 操作。任何操作都不会执行，直到授权所有者或管理员在 DisputeChat 中批准确切操作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a312ec3f7d4819188700fc54fc90178",
+    "name": "doctorSIM Agentic Commerce",
+    "sourceHash": "bf13ad7c60cdbd83c387964bd9dbddd1b33f825c4348407138936a99ae107aba",
+    "summary": "充值、礼品卡和 eSIM",
+    "description": "doctorSIM Agentic Commerce 可浏览国家和运营商、比较充值价格、购买礼品卡、选择旅行 eSIM、预览总额、下单并查询状态。普通用户通过 doctorsim.com 支付链接付款，PRO 用户使用预付余额；访客结账无需登录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7eeae9c1e88191ab072fb1375d2e31",
+    "name": "Dolphin Fitness",
+    "sourceHash": "89ff416aa2de32c3c5dd66b74893d3a97337c45bafcee1179ad791761d816512",
+    "summary": "购买健身与健康产品",
+    "description": "搜索 Dolphin Fitness 目录，查看实时价格和库存并创建或管理访客购物篮；之后在其网站安全完成结账和付款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3b5a966ce08191944c4b8f29ceebf5",
+    "name": "Dominio Tech Delivery",
+    "sourceHash": "85060caaa12794814543eb884bf954b1bcd427409bb0be34f9324a5d8e585e73",
+    "summary": "创建外卖订单",
+    "description": "查找参与的餐厅、浏览菜单、按当前价格建立购物车并打开预填充的安全结账。配送范围、费用和总价在结账时计算，地址、付款和确认也在那里完成；可用购买后代码追踪订单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a01b63be1288191990be7ceb5e001a9",
+    "name": "doola",
+    "sourceHash": "6507688ea08ccee13d6d161891e2c1165d8fef5fd9f04192ccea4891dce6f2ad",
+    "summary": "几分钟成立美国 LLC",
+    "description": "doola 可通过对话成立美国 LLC，收集设立信息后提供直接链接以完成结账并访问仪表板，整个流程只需几分钟。面向全球创业者，无需美国社会安全号；doola 在后台处理州备案、注册代理服务和设立文件。来自 175+ 个国家的 15,000 多名创始人使用 doola 创办和运营美国企业。目前支持怀俄明州 LLC（全球创始人最常选择的州），其他州将陆续推出。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa2d3d35ef08191aa832313d4ca9c41",
+    "name": "DoveVannoINostriSoldi",
+    "sourceHash": "77b9efc33e3093797de7a5805ee85664f932e1896dd9dc86ee258edbb67baa7e",
+    "summary": "探索意大利公共数据",
+    "description": "探索 DoveVannoINostriSoldi 的意大利公共数据，查询支出、收入、福利等指标及来源、期间、单位和限制。只读，不付款或改数据；数据快照有各自报告期和更新时间，异常不代表浪费、欺诈或个人责任。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a843c0928081918d0c8ecadf4b5274",
+    "name": "Dow Jones Factiva",
+    "sourceHash": "2353ff7f18d0a3d49be8a3a71039d59e4f8b4af4f1b9b2d3940b9f8de869437c",
+    "summary": "访问全球商业新闻",
+    "description": "Factiva 连接器允许获授权用户搜索含 Dow Jones 高级来源的全球新闻档案，并带引用和原文链接用于研究。需要 Factiva 订阅；内容不得分享给组织外部，也不得用于机器学习或 AI 训练，仅限组织的 ChatGPT 实例。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7afe588ab08191833eda9ff7fd59a1",
+    "name": "Dreambooth Studio",
+    "sourceHash": "d93e1b564b41c4927d310aed29598913633b6e0dc7b3c6d2742361666b1d64d6",
+    "summary": "启动并运营照相亭",
+    "description": "Dreambooth Studio 提供自助照相亭资料和账户只读分析。可询问硬件、相机、打印机、价格、耗材及支付，也可查看亭台表现、收入、在线状态、AI 额度和产量；不会编辑、退款、转账或删除，且现金和代金券收入不进入钱包账本。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7be9a728448191adb2f3bead7b99d0",
+    "name": "Drivethrough",
+    "sourceHash": "96a6b8fd6311465cc311118508dfcd70c58a8910cf5cc0fae5180e2acde0a822",
+    "summary": "构建并发布网站",
+    "description": "描述你想要的网站，Drivethrough 会在几秒内生成并上线。网站默认私有，可像文档一样分享或公开；修改会保存并可回滚，表单和 RSVP 发到邮箱，公共站点可使用自有域名，免费起步。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a072ea4483c81919db2ea1d20666d10",
+    "name": "DriveTime Careers",
+    "sourceHash": "5f191d73abb4c28aa42629e837e7ab6da0b46d3ca166009fb35231dbbae87128",
+    "summary": "探索 DriveTime 职位",
+    "description": "在 ChatGPT 中探索 DriveTime 职位，可按关键词、团队、职能、地点、经验和工作偏好搜索，并查看职责、资格、薪酬、福利和排班信息，最后打开官方职位页面申请。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a771fa2bae48191af8e607f90d4ceed",
+    "name": "Dropshipping Product Scout",
+    "sourceHash": "1bbde5c1fe155832a2de7bc646e51cf89c6ee872b9bcfbbcb2bab8d1bf36eb3f",
+    "summary": "精选产品与配送",
+    "description": "Dropshipping Product Scout 是独立、只读的研究工具，使用 CJ Dropshipping API 数据帮助用户查看少量人工精选的通用目录。可按关键词或获批准的 CJ 产品代码搜索，查看销售状态、获批变体、公开价格和标准化仓库库存，再为一个获批变体估算配送方式、运输时间和美元运费。它不会访问 CJ 账户、客户订单、地址、跟踪或支付数据，也不能预留库存、一件代发、预订运输、发布列表或购买。库存和配送是数据源的当前估算，可能变化。CJ Dropshipping 与 OpenAI 不赞助或认可此独立应用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69de842128008191a89b8568406633d9",
+    "name": "DrugBank",
+    "sourceHash": "cd0ca883e1d708773f1e69013a3b567c475ef63bc56ea0bb568327ebe2ed3e61",
+    "summary": "分析药物情报",
+    "description": "DrugBank 将生物医药情报带入 ChatGPT，可评估药物资产和靶点、探索药物—靶点—疾病关系、跟踪试验与管线、监测竞争者，并基于可追溯且持续更新的专家数据生成洞察。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ceb0e849788191aa3fd4d416204a9d",
+    "name": "Dynamoi",
+    "sourceHash": "023d95c57ae175b105b406b5ba934ef099f6164fa203abd338e3147ae2926dcb",
+    "summary": "艺人链接与报告",
+    "description": "Dynamoi 帮助艺人和唱片公司创建或刷新免费的 Spotify Smart Link、查看页面和分析、搜索记录并查看活动状态；不会收款、启动付费活动、修改预算或发起外部 OAuth，相关操作留在仪表板。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7c655fd030819191f30ed593d292d9",
+    "name": "ECDB",
+    "sourceHash": "c3abe46ced0b25a67c16f0340feceb71037592e36d7e27a314deef0d5b9b3078",
+    "summary": "在 ChatGPT 中使用 ECDB",
+    "description": "使用 ECDB 订阅查询电商市场情报：覆盖 100 多个国家的零售商收入、市场规模、品类排名和交易 KPI，用于竞争对标、市场规模评估和进入研究。数据基于真实交易，每月更新。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b2ee120a888191903e1ae8f87b9cf9",
+    "name": "Edmunds",
+    "sourceHash": "173a3dc747144ffcfe2d5635265088c27b0e30e26c2daae165b4c3939f1ca6ab",
+    "summary": "卖车并获取报价",
+    "description": "Edmunds 可在几分钟内查询车辆价值并获取即时报价。它帮助您查看车辆价值、获取即时现金报价，并比较 CarMax、EchoPark 等顶级买家的真实可兑现报价。输入 VIN 或车辆信息、里程和车况，最多可获得 3 个竞争买家的真实报价。您无需承诺出售；如果没有报价，可获得基于真实汽车销售数据的 Edmunds True Market Value®（TMV®）可信估值。Edmunds 拥有 60+ 年汽车专业经验，帮助您自信地买车、卖车和评估车辆。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a97060894f48191a83c9d4fd92614a5",
+    "name": "EduOpus",
+    "sourceHash": "c227c628480646c56c56f50d69b3cf0c3a6d64beeb8195814c2733804ca5afbb",
+    "summary": "AI 学校管理",
+    "description": "EduOpus 将学校管理系统连接到 ChatGPT，让获授权教职员工用自然语言查看和管理学生记录、出勤、作业、费用、付款、员工等信息并执行支持的操作；权限取决于连接账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a82756d9a248191b26fb1930fe91466",
+    "name": "ELLIE VINCY NAILS",
+    "sourceHash": "803918269f393cc2dcb5da8fc5ecd65259dd261052da93d949f7b81a80a2bd00",
+    "summary": "按手指定制美甲",
+    "description": "Ellie Vincy 按你十根手指的模具手工制作贴片甲，使其贴合天然指甲，而不是通用尺码。应用说明完整流程：订购 Custom Nail Starter Pack，在家为十根手指取模，用无需打印机或邮票的预付 USPS QR 码寄回，跟踪模具到达工作室的状态，之后由工匠按模具手工制作每套美甲；模具存档后复购无需再次取模。应用还会通过 Shopify Storefront API 实时按风格、形状、长度或护理用品搜索 ellievincynails.com 目录，返回匹配商品、当前价格、库存状态和直接链接。只读，仅展示实物商品，结账在店铺完成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a755f9301d481919ab12736ff4abfde",
+    "name": "Embrasure",
+    "sourceHash": "d5b95fe10b58c54021b46ea95ef845dfad95b116804dcfd88d13f63888073e48",
+    "summary": "追踪故障与数据血缘",
+    "description": "Embrasure 帮助 ChatGPT/Codex 调查无声数据故障：检查表健康和 Scout 证据、追踪表及列级血缘、识别下游服务和负责人并评估影响范围。读取遵循工作区权限；Scout 更改必须预览并明确批准。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7a6345054881919ed7a3c912d69277",
+    "name": "EMLAKIE",
+    "sourceHash": "684a49a02bd2ad50ddc2793db604260c1274ad1a8419c5f8f967d02d6fbc06ac",
+    "summary": "搜索出租房源",
+    "description": "EMLAKIE 是免费租赁市场，可按城市、价格、卧室数和房型搜索，查看照片、设施、Matterport 3D、押金和其他前期费用，并无需账户直接向发布者咨询。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_696a2c4321188191a92cb65fbc2e4943",
+    "name": "Emlakjet",
+    "sourceHash": "9e77398c1797df06ccffe5409058a4dea18c989c67b2b0bf8bc1c395e43e24b7",
+    "summary": "搜索和筛选房产",
+    "description": "在 ChatGPT 中搜索土耳其房产，包括公寓、别墅、土地和商业空间；用自然语言描述需求，查看价格、面积、地点、照片和地图周边，并跳转完整房源联系发布者。示例支持卡德柯伊三居室、Çeşme 海景别墅、巴勒克埃西尔 2,000,000 TL 以下投资地块等筛选。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a18b61a91708191a01e7578e63bc803",
+    "name": "Endlss",
+    "sourceHash": "5341ec4daa2f7a80eed7919240f3f336a009239afbcc0fa24de85de05e56e6bd",
+    "summary": "运营大使计划",
+    "description": "Endlss 连接品牌大使计划，可查看成员、订单贡献、赠送或补货产品；还能发起付费内容邀约、邀请创作者、用 Creator Match 招募、设置自动外联、分层、复用模板并查看表现。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a32c44c7bc4819182e04e401d3eb0c9",
+    "name": "Energy Aspects",
+    "sourceHash": "89b89d61e8f3b6ac8a12bba1f30bdc6632e387a00cc4093dadda33798301b8d9",
+    "summary": "商品市场洞察",
+    "description": "Energy Aspects 为 AI 代理提供石油、天然气、电力等能源市场研究、实时评论和时间序列数据，涵盖供需、库存、流量和价格，并支持查询历史发布时点。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a29247dd3fc8191aa56c8363bdfa2d4",
+    "name": "Engel & Völkers",
+    "sourceHash": "56357fb71e1d40fad9583544e1b520a2b7906670f43884f910caab89c45f12f2",
+    "summary": "查找房产列表",
+    "description": "Engel & Völkers 是全球高端住宅和商业地产平台，可在 ChatGPT 对话中用自然语言搜索专属公寓、历史别墅和优质投资房，无需繁琐表单。可查看精美图片、互动地图和详细价格，以轮播或地图方式浏览结果。示例：“显示柏林 3 居室公寓”“找巴黎带花园的待售房屋”“寻找巴塞罗那海景顶层公寓”“显示罗马高端房屋”。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab13c882c04819196d6c65ee921a93b",
+    "name": "Enrow",
+    "sourceHash": "6e77cae9c135ad6ff657d6af4256daea9f60c79d1c192948273fcc722c15c317",
+    "summary": "查找并验证联系数据",
+    "description": "Enrow 可从完整姓名和公司名称或域名查找专业邮箱（单个或批量），并验证邮箱是否可投递（包括 catch-all 域名）；还可从 LinkedIn 个人资料 URL，或姓名和公司查找手机号码，查询 Enrow 额度余额和已注册 webhook。搜索为异步操作：查找或验证工具会启动搜索并返回 ID，ChatGPT 随后用匹配的获取工具检索结果；大量批处理可能需要几分钟。它不会搜索或读取用户邮箱、写邮件、查找一般客服号码，也不提供个人（非职业）联系方式。需要 Enrow 账户。开始使用：https://enrow.io。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699db9b4bdd88191928a7bb58f2c4db7",
+    "name": "ENUYGUN",
+    "sourceHash": "9c981880dfb81d9964e0cb26da5269780518345f8d2822678ed2546534350b99",
+    "summary": "航班、巴士、租车和酒店",
+    "description": "ENUYGUN 提供土耳其及国际航班、巴士、酒店和租车搜索比较与预订，覆盖众多航空、巴士和租车公司及目的地；可比较价格、管理行程并按预算选择，最终在服务方完成预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9a96187ca88191bce99bd6784e917c",
+    "name": "Epinium",
+    "sourceHash": "eedb0b1a08d66131fe92106af65decbe2d3aab97c0aedfb847e6f04bcad277bc",
+    "summary": "Amazon 广告与目录数据",
+    "description": "Epinium 读取你的 Amazon 目录、广告、表现和自动化数据，可按活动、广告组、目标、产品和搜索词分析花费、销售、ACOS、ROAS 等，并以交互表格返回。只读，不改变出价、预算或列表；需要至少连接一个 Amazon 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fd7f74d13481919360da072b871129",
+    "name": "eSIM Copilot",
+    "sourceHash": "ce3ad5f107195e5af979b0b7b092cf300689c2768d69fe379331e9adad48651b",
+    "summary": "购买和管理 eSIM",
+    "description": "eSIM Copilot 帮助查找国内外移动套餐，创建账户、购买和安装 eSIM、管理套餐、排查网络连接并分析账户活动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a434332b1cc81918d75188a90ed8348",
+    "name": "eSIM Finder",
+    "sourceHash": "aed8eb12f3dcac8d7c028f5d804641005cdb6347db4a4021aff4c89f9fcc36fb",
+    "summary": "查找并比较旅行 eSIM",
+    "description": "eSIM Finder 比较覆盖 190 多个国家和地区的旅行 eSIM 数据套餐，显示流量、40 种货币价格和套餐类型，并提供购买链接；另有覆盖约 130 国、12 个月可复用的年度通行证。连接器匿名只读，无需账户，不接触姓名、邮箱或历史；付款在供应商商店完成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69dfa26ad60081919fb9e3a1a50e3e53",
+    "name": "Etsy",
+    "sourceHash": "f9462373e798707f0a69f8151ea7f2e761cad721eb3da92bad18f4414075932e",
+    "summary": "购买家居、时尚等商品",
+    "description": "Etsy 是独立卖家市场。有关产品警告、免责声明、退货政策或举报房源，请查看商品页面；响应由 ChatGPT 提供。点击“连接”即同意 Etsy 使用条款和隐私政策。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a626c71d66481919cf83d4d7f05a791",
+    "name": "European Union Tender Search",
+    "sourceHash": "dccd9a3432aa2d2435edbd9b22545fb14f7b488a633352ec995e1eea755efdc8",
+    "summary": "搜索 TED 采购公告",
+    "description": "在 Tenders Electronic Daily（TED）中按分类代码、买方国家、公告类型、关键词、金额和发布时间搜索欧洲公共采购公告。应用由 Telemark Digital 独立提供，不代表 TED、欧盟或出版办公室；结果仅供参考，不构成法律或采购建议，无需账户或付款，并受每日及共享月度容量限制。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a06e24abdb48191a94eeebb062c72d7",
+    "name": "Eurostars Hotel Company",
+    "sourceHash": "4b9c1676d67413d949fb3bfa0a4132be75630707a7b16753848072357ba2d96c",
+    "summary": "查找 Eurostars 酒店",
+    "description": "用 Eurostars Hotel Company 规划旅行：可发现并快速预订合适酒店。旗下品牌包括 Eurostars Hotels、Áurea Hotels、Dorma Hotels、Exe Hotels、Ikonik Hotels、Crisol Hotels 和 Tandem Suites。告诉 ChatGPT 目的地、日期、预算及区域、早餐、停车、SPA、健身房或房型偏好，即可筛选；示例包括“本周末塞维利亚带 SPA 的浪漫酒店”“瓦伦西亚适合 4 人的市中心酒店”“巴塞罗那今晚 €150 以下的空房”。选定后在 Eurostars 官网完成预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7b24cde5c88191a9b34f7e9d845e2e",
+    "name": "Events Match",
+    "sourceHash": "60a047b73edb54f940a1a4337810cc8cd587ad9bba0f57eabee47f0102de2e9f",
+    "summary": "按目标查找活动",
+    "description": "Events Match 根据你的角色、行业、地点、阶段、预算和目标，为创始人、创作者、营销人员、投资人等推荐活动，提供匹配理由、官方链接和准备计划。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6abbbd66fc608191851a8ceeb8e2ed0d",
+    "name": "Everest Group AI",
+    "sourceHash": "b81769fdaa0e7f3af5cd25a8289cb2bc2fe4d122c9813de53dbaf74f07f67793",
+    "summary": "访问 Everest Group 研究",
+    "description": "Everest Group AI 将研究内容带入 ChatGPT，需要有效会员并用网站凭据认证；回答带引用但可能有误，应核对来源。相关问题可联系 privacy@everestgrp.com。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a95f81c026081918845945f1d017936",
+    "name": "Everlaw",
+    "sourceHash": "4dc3ad7d2bf67ad314dc02702f5baf76ab21b0272c3a8a929b7d242b83c62135",
+    "summary": "搜索和分析证据",
+    "description": "Everlaw MCP 连接经认证用户的实时案件数据，将自然语言转换为搜索逻辑，检索文档和文本，分析元数据与 Bates 结果集，生成报告并使用 Deep Dive。所有请求遵循 Everlaw 权限，只能访问已有权限的数据，不改变案件记录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ef2ddef5b08191a33266316ca6b75d",
+    "name": "Evertrace",
+    "sourceHash": "069b5296e590e3a524a8e4042aa72f187f95c3cb41415bdaad292ae8b92369e2",
+    "summary": "发现全球新创始人",
+    "description": "Evertrace 是面向风险投资人的 AI 创始人发现引擎，追踪数字世界信号，帮助更早发现新兴创始人。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cc46b541008191b4bbe9dfe091afe5",
+    "name": "Every AI",
+    "sourceHash": "89a5f313e4f691d451ff0f538a2b1488e3e7d6147abcfe77899822e646467821",
+    "summary": "管理客户和发票",
+    "description": "Every AI 让你在 ChatGPT 中创建和发送发票、生成提案、搜索客户、跟踪付款、记录费用、管理销售管道、搜索 Gmail 并起草或发送邮件、查看日历、安排会议、管理预订和生成财务报告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2a5e2838a0819194e0cf9f0db34fcc",
+    "name": "EVT Hotels & Resorts",
+    "sourceHash": "d0279686e0ab427e8105014ad1b8b3e4d57a0fc736fcfcd861c295fcd358aa1f",
+    "summary": "查找酒店和客房",
+    "description": "EVT Hotels & Resorts 可按城市、地区、品牌或旅行需求查找澳大利亚、新西兰和新加坡的 Rydges、QT、Atura、LyLo、Ode 等酒店，比较设施和房型并获取预订路径。房态、价格、包含项目和条件会变化，最终请通过官方渠道确认。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7b9a597ef48191a3c6d05168fcd8fd",
+    "name": "EZFlow Pro",
+    "sourceHash": "16f727dab57d72543ebe0b2595ee20a5e49b6000163ccd174c9e21fac460a6a6",
+    "summary": "创建报价和发票",
+    "description": "EZFlow Pro 连接承包商业务，可查询客户、工作、日程和欠款，并创建报价和发票草稿；聊天中创建的文件在你于 EZFlow Pro 审核发送前不会发给客户。可使用无需账户的演示工作区。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d319ffb64c8191a1c1abcd30fae202",
+    "name": "FantasyBot Sports",
+    "sourceHash": "194372c46043f5de932fcb88da849c34eb1ed2acebd4421ecf6cc5f439d0743a",
+    "summary": "AI 阵容、交易和统计",
+    "description": "FantasyBot Sports 是覆盖梦幻橄榄球（NFL）、篮球（NBA）、棒球（MLB）和冰球（NHL）的 AI 梦幻体育助手。\n\n你可以用日常语言询问：\n\n- “本周该让 Jefferson 还是 Chase 首发？”（结合预测和对阵的首发/替补建议）\n- “这笔交易公平吗？”（结合球员价值和赛季剩余展望的交易分析）\n- “我该从弃权名单中选谁？”（带建议放弃球员的弃权目标）\n- “比较 Jokic 和 Embiid”（球员一对一比较）\n- “本赛季排名前 30 的 WR”（任意运动项目的位置排名）\n- “我的球队表现如何？”（阵容评分、对阵预览、联赛实力排名）\n\n无需设置联赛即可开始：获取带趋势和对阵评分的球员统计、双方市场价值的交易分析、任意球员的首发/替补判断、所有梦幻平台的热门增删球员、球员交易价值、位置排名和一对一比较。\n\n在 FantasyBot 应用中连接 Sleeper、ESPN、Yahoo 或其他支持的联赛后，回答会使用你的真实阵容：阵容每个位置的首发/替补判断、联赛中实际可用且带安全放弃候选的弃权球员、球队的位置优势和弱点评分、每周对阵展望、对手阵容查询，以及你在联赛实力排名中的位置。\n\n每个回答都有真实球员统计、预测、伤病状态和趋势数据支持，并直接在聊天中以交互式卡片展示。\n\n支持：梦幻橄榄球（NFL）、梦幻篮球（NBA）、梦幻棒球（MLB）、梦幻冰球（NHL）。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a851c2b4af881918846fd5707821dd5",
+    "name": "Farmooly",
+    "sourceHash": "8c7b7355bf679e4567fd137710b4cc98dbd393413ccadc6ad5eeed2326510763",
+    "summary": "查找本地食品与市场",
+    "description": "搜索 Farmooly 实时市场和本地食品目录，查找附近生产者、产品、库存、履约方式、SNAP/EBT 信号及农贸市场时间；结果链接回 Farmooly 查看最新详情。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6969334d50c081919de6597e024c2983",
+    "name": "FashionTrendAI",
+    "sourceHash": "3d9bc6b6d95bb94b93fe28fb439667213e39b06c809ea390552a0f749e2fa78d",
+    "summary": "分析时尚趋势",
+    "description": "FashionTrendAI 为设计师、商品企划、创意总监和品牌分析秀场、色彩、廓形、面料、造型和市场信号，并转化为系列方向、情绪板输入、产品简报和设计概念。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f0f137c4688191a54cb89b24c2b15f",
+    "name": "Feedoptimise",
+    "sourceHash": "3672b723942c0546fd9020d62739414a28f9c4631fdc9f2d8d6b94771d2d1cfe",
+    "summary": "产品信息流管理",
+    "description": "直接在 ChatGPT 管理商品信息流：检查来源、产品、属性映射和修订历史，审计质量问题，查看 Merchant Center 诊断、阻止商品、强制同步，并获取设置、优化和 A/B 测试指导；支持 Google、Meta、Microsoft、TikTok、Pinterest、ChatGPT Ads 等 3500 多个渠道。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a855c92f26c8191a68d5a80bf10be6a",
+    "name": "FieldCamp",
+    "sourceHash": "75334507d35747c848d15ce4a3a0f667c92a1449aefa61309324107b9486c131",
+    "summary": "AI 现场服务软件",
+    "description": "FieldCamp 连接现场服务业务，可查客户和历史、日程及技师空闲，创建或更新工单、报价和发票、记录付款并追踪库存；所有操作遵循账户角色和权限，需要 FieldCamp 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d3e530928c819191a9738ef3f4def6",
+    "name": "Fingerprint",
+    "sourceHash": "b43f79f1c0e049d760c5bb278d62857eba569ab936291269ae07f415f3c85464",
+    "summary": "查询欺诈与设备信号",
+    "description": "Fingerprint MCP Server 连接设备情报平台，帮助调查机器人、VPN、浏览器篡改和访客行为等信号，查询异常流量和可疑访客并获得集成指导。需要 Fingerprint 账户，新用户可在 fingerprint.com 注册。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e1fe1aff308191a3c3838f72809fe0",
+    "name": "Fintech Explainer",
+    "sourceHash": "ff51a82286541887c5574134e8a528f8162195fffbd788fca1581789b3dace27",
+    "summary": "解释金融科技新闻",
+    "description": "Fintech Explainer 用清晰语言解释欧洲金融科技和 AI 新闻、行业变化、市场转向及新技术，说明对银行、初创企业、监管机构和金融从业者的影响；内容来自 Fintech.hu 匈牙利语编辑档案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a472e17233c8191a0674e5aab41b4a4",
+    "name": "Firmable",
+    "sourceHash": "add4fbc3e9c613220d6b6ae17d7e3ba1881fcd32f23af67dcbc93191ad04abf6",
+    "summary": "你的 AI 销售队友",
+    "description": "Firmable 是 AI 原生 B2B 销售情报平台，拥有 15,000,000+ 个经过验证的公司档案和 135,000,000+ 个决策者联系人。它监测职位和领导层变动、融资轮次、招聘激增及技术变化，提供购买信号；可用自然语言定义 ICP，按行业、公司规模、国家、州、技术栈和招聘活动建立名单，并获取经验证的手机号码和电子邮箱。支持 Salesforce、HubSpot、Pipedrive 和 Microsoft Dynamics 365 的双向 CRM 同步；Firmable 已获 ISO 27001 认证。平台受到 1,300+ 家企业信赖，在 G2 上评分 4.7/5，数据符合隐私要求。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4f758777dc8191ad51a88d6c4866a7",
+    "name": "First FMCG",
+    "sourceHash": "d73627d5d94553522aacc4845568b280d88aa8b7777a6f63b82f2c2aeb7c058e",
+    "summary": "FMCG 批发报价",
+    "description": "First FMCG 是快速消费品 B2B 批发市场，买家可搜索供应商库存、比较单件价格、查看报价并发起采购请求；供应商可从聊天发布和管理报价。供应商接受前保持匿名，佣金为 0%。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3941529248819187322ac590899e91",
+    "name": "Flatre",
+    "sourceHash": "ef2a7a8aff1ea896f653ca05ae5a11a5692208dd1bcbf1966ccfb25ab3ae227d",
+    "summary": "管理房地产交易",
+    "description": "Flatre 为房地产经纪和交易团队统一联系人、房源、交易、任务、看房、文件、佣金、日历和工作流，并连接邮件、日历、MLS、电子签名、会计和存储工具；AI 以审批为先，协助起草沟通和整理下一步。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a15368c058c819199ba791afd7c9818",
+    "name": "FlightPoints",
+    "sourceHash": "8f9bbddbc96b833d434fe83b682b8345b9cde0c5e44c84a3aee11711c8aa4fd9",
+    "summary": "查找奖励机票",
+    "description": "FlightPoints 搜索各航空忠诚度计划的奖励票库存，比较积分价格并按舱位和航线筛选；可匿名搜索缓存或连接账户获取实时结果。可打开预订交接链接，但不完成预订或收款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7b87fe3238819184aac81c1eed5a1a",
+    "name": "Floaro",
+    "sourceHash": "6d2480487ba70b820a5808318e10c5079572a1ec789464ac6a5b9a508d0fd7bd",
+    "summary": "在 ChatGPT 中管理 eBay 业务",
+    "description": "连接 Floaro 账户后可查看已连接市场账户、产品总数、销售表现、指定期间售出商品和无模板列表。使用安全 OAuth，只返回授权公司和市场账户可见数据；只读，不能创建、编辑、发布、购买或删除。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa11dfaeb20819187226d4810e1d94a",
+    "name": "Flowlines",
+    "sourceHash": "022e52c90e1c8c116c24b1e7b5cc7109390a700d07781111099fa1ab00ef70bf",
+    "summary": "了解 AI 代理",
+    "description": "连接 Flowlines 后可审查 AI 代理活动、比较时段结果、调查失败会话、分析用户群组，并用聚合指标、信号和主题图识别产品需求；可保存私有工作区笔记。结果可能含终端用户对话，回答应总结证据并遮蔽直接身份信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a997b8bb20881918d0413051bb6f9c5",
+    "name": "Fodda",
+    "sourceHash": "5e8b2c9f3fec5ae9e70ea8f85fbbc4ae290a05c0765a97df6cb4b1ab0c5d3619",
+    "summary": "品牌、市场与收益情报",
+    "description": "Fodda 连接由专家维护的零售、消费品、科技、可持续发展、文化和金融知识图谱，用于研究市场趋势、品牌竞争版图及财报电话会发言；每个发现都有来源证据和归属。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a605ef150fc819190b151f4a38329d9",
+    "name": "Font Pairing: Design & Brands",
+    "sourceHash": "ed8104a9651572425a29235d4909e891ae9102731fd011d1057f9bee65e43bc1",
+    "summary": "生成 UI 字体组合",
+    "description": "用 AI 为网站、品牌、演示文稿或社交内容生成字体三元组：标题、强调和正文字体，按风格、受众和行业推荐可读且协调的组合，并支持持续提出替代方案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2f8d084db08191aec15ef7735968f1",
+    "name": "Form Field Extractor",
+    "sourceHash": "fba6f370e32a80f01331df600324e6d5e76f302b0ef8c7d949ee0c8dcf5aa540",
+    "summary": "提取表单字段",
+    "description": "Form Field Extractor 从用户提供的表单文本中提取字段名和值，识别空字段并可规范化字段名，返回结构化结果。只读，不提交或修改表单、不验证必填项、不联系任何人或执行外部系统操作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6951364345348191b2cbf9ee0449650e",
+    "name": "Formfacade",
+    "sourceHash": "b209991b22b368b74af140d1e412f185696cf1fbce778d72b91cb227ed655f99",
+    "summary": "几分钟创建获客诱饵",
+    "description": "Formfacade 可从 Google Form 或自然语言创建带品牌、评分、计算和获客的表单；访客得到个性化结果，自动邮件延续沟通，线索及回答写入 Google Sheets，并提供转化跟踪。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8041755d8c8191834f987a924e80ad",
+    "name": "FORTVISION",
+    "sourceHash": "a5bee82e1653bb4f6668ee9ba5a5f6a7ca690e6bbf283bbe60cd983ea00171f2",
+    "summary": "管理营销活动和潜客",
+    "description": "FORTVISION 将营销活动集中到一个工作区，可规划和管理活动、跟踪潜客与对话、协调外联和自动化并整理跨渠道工作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7ef10884808191ae915f3447218355",
+    "name": "Fospha (EMEA & APAC)",
+    "sourceHash": "392ff58e2007af431b459c9dff5fad4ffdadead39d1a3ac694eb23bd8766e2ec",
+    "summary": "询问、回答并行动于数据",
+    "description": "连接 Fospha 的每日跨渠道测量数据，在 ChatGPT 中了解付费营销表现、可扩展空间和下一步行动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a21bbefe8bc81919d395e1b9e90b91d",
+    "name": "FoundRole Jobs",
+    "sourceHash": "df35b16269eae50585a25e871e9d02812cd32affe2766d5295a4fe64989846b1",
+    "summary": "职位、远程工作、简历与薪资",
+    "description": "FoundRole 是 AI 求职搜索和申请跟踪器，可按职位、地点、薪资、发布时间和远程/现场类型搜索；提供薪资洞察、幽灵职位信号、H-1B 赞助和 E-Verify 信息。添加简历后可获匹配分和技能差距，管理申请阶段、备注、联系人、提醒和职位提醒；免费且与网页端同步。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a316d9991cc8191be9e2fd3b45ee56a",
+    "name": "Fr8Labs Analytics",
+    "sourceHash": "d928ea8cdab91d53a19b8d893d8ba1d32404f5ac3aefe2d9de401997c8383427",
+    "summary": "询问货运数据",
+    "description": "用自然语言查询 Fr8Labs 货运转发数据，包括货运、收入、成本、利润、损益和应收应付账龄，并生成图表、仪表板和定时邮件报告。查询仅限公司隔离数据，邮件仅发到本公司域名。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a818ab42f908191a5576692eb3183d5",
+    "name": "Fraghab",
+    "sourceHash": "612c328f601505babf26d953f6e9cbeee13d518f16c8de50c40285d24026b46a",
+    "summary": "追踪香水收藏",
+    "description": "Fraghab 是香水收藏管理器，跟踪您拥有的香水瓶和分装、每瓶余量、使用时间及愿望清单。连接后可用自然语言管理自己的香水架：查询春季以来未使用的香水，记录今天使用 Santal 33 分装四喷并自动扣除毫升数，用一句话添加新购买的香水，修改已有评分或备注，将香水分组到货架，并保存常用叠喷组合。它还会为愿望清单估价：搜索当前最低价、告诉您哪家店有货并提供产品照片。您在 Fraghab 页面授权连接并逐项批准权限。通过此连接不能删除任何内容；编辑会替换原有内容，因此 ChatGPT 在修改已有数据前会先询问。更改 Fraghab 密码会立即撤销访问。Fraghab 免费，完全不收取任何形式的付款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a21d9628cac8191bfe79ebbbf898379",
+    "name": "Fullmetrix",
+    "sourceHash": "4e4a78c9ba56ea8dc961c860e6386701371a72294a87afed5c4618cbbf50f8be",
+    "summary": "电商销售分析",
+    "description": "Fullmetrix 让网店主用自然语言查询所有活跃店铺的订单、销售、净收入、税费、运费、销量及新老客户，可按日期、店铺、国家、客户类型或订单状态分组，并应用组织收入规则。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2bc16567548191832b2be64604745b",
+    "name": "Funnel",
+    "sourceHash": "e6cb3b299483a529990dd3440fd5746fa71f0c538581ef88daf4b9f68d7439e3",
+    "summary": "访问全部营销数据",
+    "description": "Funnel 将 Google、Meta、TikTok、LinkedIn、Analytics、Microsoft、Shopify、HubSpot 及 600 多个平台的营销数据、语义和业务背景带入 ChatGPT，可比较渠道支出、CPA、ROAS、收入、预算进度和 HubSpot 管道。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a50a1b40c6081919f4fe2da37db0f70",
+    "name": "FunNow",
+    "sourceHash": "08e94828e2fe70c739c1d7d41d38a5bd1ea6f5872f96d317fb206a510ee165d8",
+    "summary": "餐饮与即时预订",
+    "description": "FunNow 可在台湾、日本、香港、泰国、马来西亚、新加坡和菲律宾搜索并预订餐厅，提供实时空桌、即时折扣和按地点、口味及场合的个性化推荐。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a362167b9b88191ba28ae960b85efb1",
+    "name": "Fyrebox",
+    "sourceHash": "467741d987c5b799370c0faaf5cfcd53f9b572a55f0e6b8a4eee3e19e3dc9b4e",
+    "summary": "从聊天创建测验",
+    "description": "Fyrebox 是无代码测验和表单构建器，可从提示创建问答、性格、评估和分支测验，编辑问题、评分和逻辑，自定义外观、获客表单和结果页，生成 AI 背景图、克隆或删除测验并查看回答。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a99ed098c7481919d72739eaa9a4cec",
+    "name": "GadgetOS",
+    "sourceHash": "ae98420ed5968285206dc13e1efe6eaad45f9babedd56657c07e2a85628e4bd0",
+    "summary": "库存、销售与维修",
+    "description": "GadgetOS 是孟加拉国手机、电脑和电子产品商店的零售管理系统，涵盖 POS、IMEI/序列号库存、保修维修、供应商和含 VAT 收据。可查询销量、补货、指定 IMEI、维修索赔和保修；经店主授权可创建或修改商品、价格、库存、采购、付款和维修状态。数据严格限于单一店铺，金额为整数派沙、日期为 Asia/Dhaka，支持孟加拉语和英语；拒绝或退款保修索赔需要经理 PIN。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698a098735908191989f5788d7ee317e",
+    "name": "Gamma",
+    "sourceHash": "59393ace34becf0e35db162c7ff1d53e5112a1f97ff8ba77156de541aab28126",
+    "summary": "创建演示文稿和文档",
+    "description": "Gamma 可在 ChatGPT 中把想法转为精致、专业且符合品牌的内容。无论你要起草路演演示文稿、营销简报还是团队更新，Gamma 都能在不离开工作流的情况下创建漂亮的品牌化演示文稿、文档、社交帖子和网页。\n\n你可以让 Gamma：\n\n- “读取这个 Gamma 演示文稿，<link_to_deck>”\n- “把技术报告改成高管摘要。”\n- “为我们的网络安全产品制作营销简报，并改写为面向非技术受众。”\n- “创建一个关于夏威夷团队外出的 4 页路演演示文稿，并加入一些笑话。”\n- “设计一份深色主题的项目提案文档。”（主题决定外观和感觉。）",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1173f02cd081919f2912a4f2b5964e",
+    "name": "Getir",
+    "sourceHash": "08726d0d3b51702f03206e2080892d3487f2770ba7db1a6797662f86691c5eaf",
+    "summary": "几分钟送达",
+    "description": "Getir 让您无需离开 ChatGPT 对话即可订购杂货。应用连接您的账户，允许您从已保存的配送地址中选择，建立购物车，然后转到 Getir 移动应用完成付款；每一步都以聊天中的小型交互卡片显示。Getir 提供几分钟送达的即时便利篮子，GetirBüyük 提供品类更广、适合每周采购的当日大篮子。您可以用自然语言搜索产品，查看实时价格和库存，选择或新增地址，添加、删除或批量更新购物车商品；例如说“规划周末购物清单”，即可生成供您审核和确认的多商品清单。准备下单时，付款在 Getir 应用或网页购物车中完成。账户和支付数据留在 Getir；仅将履行订单所需的信息分享给 ChatGPT，支付数据永远不会发送给 ChatGPT。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a95a6871f108191b6846e59cc4d3a9c",
+    "name": "GETWAB Federal Procurement AI",
+    "sourceHash": "6fcf92c3a4a701b087f3dc1cbd244286e4180837e9654a9e3837536f380ab55c",
+    "summary": "搜索美国联邦合同",
+    "description": "GETWAB 是面向联邦承包商和 GovCon 顾问的采购情报平台，可用自然语言查找和筛选美国联邦机会、评估投标与否、研究机构和市场、识别竞争者并分析历史授标、分包、实体和排除记录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f4f32f6c90819189c4e591859d3ab8",
+    "name": "GigHQ.ai",
+    "sourceHash": "93b68463895c7ce4a68beb47698050ba6ee34d1318f9ac7734bbe9f2a22cfd19",
+    "summary": "追踪职位与成长",
+    "description": "GigHQ.ai 帮助查找公司和就业市场信号、查看赞助和申请详情、管理私密申请与备注、检查管道健康，并在 GigHQ 中记录职业成就。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_connector_1p_5925693c1aa88191a4959257e60d0734",
+    "name": "GitLab (Beta)",
+    "sourceHash": "72dfdf8e7900cf05e9bdab928202190aecc90c1486f740a74be4f288d7a0924a",
+    "summary": "分诊 GitLab MR 和 CI/CD",
+    "description": "将 GitLab 工作流带入 ChatGPT：浏览项目和仓库、管理 issue、审查合并请求、处理反馈、调查失败的 CI/CD 检查，并在准备好后修改代码和创建草稿合并请求。",
+    "model": "codex-subagent-reviewed"
+  }
+]

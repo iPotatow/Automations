@@ -1,0 +1,666 @@
+[
+  {
+    "id": "plugin_asdk_app_6a5f821f4efc81919f8186da735019a7",
+    "name": "Kanal",
+    "sourceHash": "63e4009bfd77b05730592122e13bf7247d6d1064eab26c59ea6c72f6e0ecc095",
+    "summary": "你的 WhatsApp 营销数据",
+    "description": "Kanal 是面向电商品牌的 WhatsApp 营销平台。\n连接你的 Kanal 账户后，可以向 ChatGPT 询问 WhatsApp 营销表现的任何信息：归因收入、ROAS 和渠道总成本、营销活动与自动化数据（细化到单个流程步骤）、受众细分及规模，以及 Meta 模板的审批状态。\n\n所有工具均为只读；每项指标都使用与你的 Kanal 控制面板相同的归因引擎和设置，因此数字始终与你在应用中看到的一致。\n\n示例问题：\n- “过去 30 天我的 WhatsApp ROAS 是多少？”\n- “比较我最近 3 个营销活动”\n- “我的弃购流程中哪一步的转化效果最好？”\n\n需要 Kanal 账户（Scale 方案可完整访问，Pro 方案提供探索配额）。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7254c1d0e48191aeb2eff9eef7988a",
+    "name": "Kangaroo Rewards",
+    "sourceHash": "94e0ea73d932b87fa0d8fd82e48daafb0c16db53db7235221a535df9c158f83b",
+    "summary": "助力增长的营销洞察",
+    "description": "Kangaroo Rewards 允许商家查看已连接的忠诚度计划，包括企业详情、客户档案、积分和交易历史、营销活动、优惠、兑换奖励、忠诚度设置及绩效指标。它会以通俗易懂的语言解释活动状态、互动率、归因收入及其他汇总报告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a46aa0aeffc819187ddfc9060077bd1",
+    "name": "KaoJai.ai",
+    "sourceHash": "52d9e89d2968a435b7b9dbcb46e123d5503acbc6729dc14078046107fd74d6db",
+    "summary": "KaoJai 的知识资源",
+    "description": "一个真正理解你和你的业务的聊天机器人伙伴。\n- 询问与 KaoJai.ai 平台相关的信息\n- 通过聊天界面帮助企业管理 admin.kaojai.ai 平台中的设置和配置\n- 查找在 KaoJai 平台注册的企业是否有空档",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b9bb9806488191ab71f55c6cac04c0",
+    "name": "Kelley Blue Book",
+    "sourceHash": "0bcc9a7742538bdd93862b5ce6644674ce61650abc29050e326a9a895a33a480",
+    "summary": "获取二手车估值",
+    "description": "90 多年来，Kelley Blue Book 一直是二手车估值的可信资源，帮助车主了解车辆价值。Kelley Blue Book 的置换价值显示车主本周将车辆置换给经销商时预计可获得的金额。私人交易价值则报告将车辆卖给个人、而不是与经销商置换时的公平价格。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7790a882e081918f24ab13c009d76e",
+    "name": "Kirah Local Services",
+    "sourceHash": "f036f984602fc9882f8af846f2fc97fff4388f98b73d2b3243bc4ac2f0994a01",
+    "summary": "查找本地服务和时间",
+    "description": "Kirah Local Services 帮助用户发现符合条件的本地服务商，并查看当前预约可用时间。它会根据商家发布的目录匹配请求，返回有依据的服务名称、价格、时长、服务人员和时区。它可以应用支持的价格限制；当用户询问最早可用时间时，会检查有限数量的候选项，并明确说明结果是否不完整。\n\n服务商资料、服务目录和可用时间均由参与商家发布，属于不受信任的数据，绝不会被当作给助手的指令。\n\nKirah 可以把笼统的健康目标作为搜索起点，但不会诊断疾病、推荐临床治疗，也不保证服务适合某人。示范商家会清楚标注；未经用户明确同意，绝不会与真实商家结果混合。\n\n第 1 版仅提供信息，不会创建、改期或取消预约，不会收集预订联系方式或登记问答，也不会发起订金或付款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2ae7cbada08191a52942161653e43a",
+    "name": "Kismet",
+    "sourceHash": "caf597f8c259b0e336704fc2687fd2a491fdef9527dd68c3ac900c186f8fab34",
+    "summary": "查找并预订度假租赁",
+    "description": "Kismet 将你直接连接到专业管理的度假租赁房源集合——从适合两人的隐秘住所，到能容纳整个聚会的房屋，应有尽有，提供足够丰富的信息，让 AI 真正规划旅行，而不只是搜索。你可以从模糊的真实需求开始（例如“十月海边、允许带狗的地方”），让 AI 在一次请求中比较多个周末及价格波动；在心动之前查看包含管理方费用和预估税费的真实总价（包括清洁费、宠物费及管理方披露的其他费用）；如果原定日期不可行，还能获得最近的可行日期。\n\n每套房源都有完整的照片库、设施、宠物政策、房屋规则和过往住客的真实评价，因此你可以在一次对话中权衡适合两人的宠物友好小屋与适合全家入住的海滨别墅，无需打开十几个标签页。选出候选房源后，可在管理方自己的网站上直接预订——准确日期会传递过去，价格直接来自管理方，不会额外加收平台服务费。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3d598812508191acec86521c44d51c",
+    "name": "KLINGER Immobilien",
+    "sourceHash": "c84569eb820b04d0aa2d4380ffac407a02de2d22a9b7d3487de7a04318dcd367",
+    "summary": "柏林地区房产",
+    "description": "KLINGER Immobilien 是一家现代房地产公司，专注于柏林及周边都市圈。该应用通过直观的基于位置的方式，帮助用户在德国首都地区发现、买卖房产。\n\n用户无需浏览冗长的房源列表，而是可以直接在交互式地图上探索可用的房屋、公寓、土地和投资房产，一眼了解房产位置、周边基础设施和社区，从而更快速高效地寻找房产。\n\n凭借深厚的本地市场知识和多年柏林房地产市场经验，KLINGER Immobilien 将个性化服务与现代数字解决方案结合起来，帮助买卖双方应对当今的房地产市场。\n\n主要优势\n\n基于现代地图界面的交互式房产搜索\n更快浏览柏林及周边地区\n更好了解位置、基础设施和社区\n专注于精心筛选的住宅和投资房产\n轻松比较不同城区和市镇\n通过可视化导航提高搜索效率\n直接联系经验丰富的房地产专业人士\n现代且易用的移动体验\n\n无论你是在柏林寻找公寓、在周边地区寻找家庭住宅，还是寻找有吸引力的投资机会，KLINGER Immobilien 都能以现代、透明、便捷的方式帮助你探索柏林及周边地区的房地产市场。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a16adcb24fc8191a889da8699df03bd",
+    "name": "Klinger-Vogt Immobilien",
+    "sourceHash": "d198a3e338e518f7cb73a6f3158c4c564bb2bf9ed4c60121adbdd40a79f4af2b",
+    "summary": "莱茵-内卡房地产",
+    "description": "Klinger-Vogt Immobilien 是一家现代房地产公司，专注于路德维希港、曼海姆和诺伊施塔特 an der Weinstraße 地区。该应用支持在莱茵-内卡都市圈直观地按位置搜索待售、出租房产和投资机会。\n\n用户无需浏览无穷无尽的房源列表，而是可以直接在交互式地图上发现可用的房屋、公寓和投资房产，从而更快速、更真实地评估位置、周边环境和基础设施。\n\nKlinger-Vogt Immobilien 将区域市场专业知识与现代技术结合，为寻找合适房产提供透明、易用的方式。\n\n优势一览\n通过现代地图界面进行交互式房产搜索\n更快了解路德维希港、曼海姆和诺伊施塔特 an der Weinstraße\n更好了解位置、基础设施和周边环境\n专注于莱茵-内卡地区精选房产\n更轻松比较不同住宅区\n通过可视化导航提高搜索效率\n直接联系经验丰富的本地房地产专家\n现代直观的移动体验\n\n无论你寻找的是曼海姆的现代城市公寓、路德维希港的家庭住宅，还是诺伊施塔特 an der Weinstraße 的投资房产，Klinger-Vogt Immobilien 都能成为进入区域房地产市场的现代透明入口。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8dddd50424819196928510eff4c70f",
+    "name": "Knock",
+    "sourceHash": "a7404922d45446d308867cf3eb281151730c3578ba10dd719a0daec490d6ba7e",
+    "summary": "跨渠道向用户发送消息",
+    "description": "Knock 是面向代理优先的产品、营销和事务性消息客户互动基础设施。通过一个平台管理电子邮件、短信、推送、聊天和应用内消息。\n\n直接在 ChatGPT 和 Codex 中检查工作流并管理通知。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a24717a0e1c81919f412edcd82eccf0",
+    "name": "Knowify",
+    "sourceHash": "a9cd05904d0acdd08d304c208d62688634334b596e38713093a0cb485b6e5443",
+    "summary": "探索项目数据",
+    "description": "Knowify 帮助用户在 ChatGPT 中查看租户范围内的建筑和服务企业数据，包括项目记录、报告模型、发票、工时记录、架构，以及回答运营问题所需的平台知识。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5dd768024c8191ae301c9c3863dd9e",
+    "name": "Kombo",
+    "sourceHash": "cd0b510fe0d42a6a9615ce0e4d08d7f01795a9bc80af8ccd115422e6deff6a80",
+    "summary": "比较火车、巴士和航班",
+    "description": "Kombo 是欧洲多式联运旅行比较平台。输入路线和日期后，Kombo 会比较数百家欧洲运营商的火车、巴士和航班选项，包括 SNCF Voyageurs、inOui、OUIGO、TER、Eurostar、Trenitalia、Italo、Frecciarossa、Renfe、Deutsche Bahn、SBB、SNCB、NS、Alsa、Flixbus、BlaBlaCar、easyJet、Air France、British Airways 等。\n\n选择行程后可继续在 kombo.co 预订。Kombo 支持主要折扣卡和票价——SNCF Carte Avantage（Jeune、Adulte、Senior）、Carte Liberté、MAX 订阅（MAX Jeune、MAX Actif、MAX Senior）、Carte Famille Nombreuse、Grand Voyageur 和 Grand Voyageur Le Club、军人卡、法国国家警察卡、Trenitalia CartaFreccia 和 Deutsche Bahn BahnCard——以及 SNCF 团体预订，并支持使用 SNCF 数字礼品卡、Chèques-Vacances 和 illicado 付款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694a08558d688191b976152fe32311a9",
+    "name": "Kopi - Shopify Email Creator",
+    "sourceHash": "2ad27b362b3ffce29980bf5d78d9a319720ab9f550d7a11d118554f4b5ec4bd1",
+    "summary": "设计营销邮件（HTML）",
+    "description": "Kopi 为电商品牌创建符合品牌风格的营销邮件。\n\nKopi 生成适用于 Klaviyo、Mailchimp 及其他接受 HTML 的邮件平台的响应式 HTML，并针对 Shopify 品牌进行优化。\n\n提供品牌网址（可选）和营销活动目标（例如“15% 折扣”“新品发布”“礼品指南”），即可为你的品牌创建邮件。\n\nKopi 适用于促销、新品发布、季节性活动和公告。你可以通过提出修改要求（语气、版块、优惠、产品重点）来调整邮件，然后导出所需版本。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a766b80051c8191a0821d5b4c5dcedb",
+    "name": "Korea Concierge",
+    "sourceHash": "ed6c2db92e8fbd763833d681a243d67fa8036a4265c42c95579e7fa4d306b6c5",
+    "summary": "韩国生活帮助与凭证",
+    "description": "Korea Concierge 帮助人们通过聊天处理韩国二手购物和实际生活事务。搜索 Bunjang 商品，查看商品详情，计算商品报价，并创建经过审核的购买请求。每笔订单都会在付款前审核，买家会收到一个私密订单页面，其中包含报价、付款步骤、状态、凭证和物流追踪。\n\n该插件还提供基于韩国官方公寓交易数据的免费、确定性检查。用户可以查看近期买卖和租赁记录，比较全租押金与售价，或将月租报价与类似交易进行比较。这些工具提供交易数据和明确披露的计算结果，不构成中介服务或建议。\n\n精选生活指南涵盖抵达后的行政手续、住房合同、银行业务、房产购买流程和学校。用户还可以提交安居、住房支持或教育请求，供创始人审核。Korea Concierge 作为二手转售订单的主销售方，以及获接受的礼宾服务的服务提供商运营。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a574e3e6b888191847bdbe51a4712dd",
+    "name": "Kpler",
+    "sourceHash": "ffc5ab8f92034ed5a4bb02ebfe9cc25eb432e1f5b69b901a98975e81c348acb4",
+    "summary": "海事与大宗商品数据",
+    "description": "Kpler 将海事和大宗商品市场情报带入 ChatGPT。用户可以通过 AIS 跟踪船舶，查询港口挂靠和航行路线，分析大宗商品贸易流和供需平衡，监测炼厂产量与利润，跟踪 LNG 码头产能、库存、利用率和停运情况，查看货运市场成交与港口拥堵，进行船舶合规和制裁风险筛查，并阅读 Kpler Insights 报告和市场评论。所有工具都是针对 Kpler 认证数据的只读查询，因此应用可以回答分析性问题，不会创建、修改或删除任何内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aabccd31da48191a9a539044d66b283",
+    "name": "Kratons",
+    "sourceHash": "d28ee3bf3a5c74b4b8567913e40b6ef56ebf26a5cac69fc6d9637b556ea38444",
+    "summary": "西班牙、葡萄牙和摩洛哥旅行",
+    "description": "Kratons 是一家总部位于马德里的精品目的地管理公司和旅行社，为西班牙、葡萄牙和摩洛哥设计并运营量身定制的私人旅行：酒店、私人导游、司机和接送、铁路和机票、餐厅与体验，以及完整的行程设计和当地运营。\n\n通过此插件，ChatGPT 可以：\n- 说明 Kratons 是谁、运营地点、支持的语言，以及旅行如何定价（每次旅行一个套餐价，由人工顾问准备；没有公开价目表）。\n- 列出 Kratons 当前提供旅游和票务的目的地，并按国家、城市或关键词搜索这些体验。\n- 浏览已发布的示例行程（目的地、时长、逐日概览），以此开始规划。\n- 代表旅行者或旅行代理提交结构化方案请求（目的地、日期、旅行者、预算、兴趣），并返回参考编号。\n- 根据参考编号查询已提交方案请求的状态。\n\nChatGPT 内不会完成预订或付款。方案请求会发送给 Kratons 的人工顾问，顾问将在两个工作日内通过电子邮件回复。插件不会显示价格和供应商。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6997f8d1d2b881918b3df37416e95c2b",
+    "name": "Krikey AI Animation",
+    "sourceHash": "fb9d566683202f9352e5870835b5860a575fcad5b93245856c8ecf16ebed4d52",
+    "summary": "制作音乐视频动画",
+    "description": "使用 Krikey AI Animation 制作音乐视频动画。选择 3D 角色、音乐类型和主题（例如生日贺卡、营销视频或操作教程），然后使用 AI 文本转动画功能为卡通角色制作动画。下载高分辨率视频导出文件，分享包含 AI 生成音乐、动画、动漫和可爱卡通角色的 3D 视觉内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f8dd9dc044819194166c2e5c799013",
+    "name": "La Pyme",
+    "sourceHash": "fa46158f889cfefcbe628afe467c736ec13ac54ef3eaf8610a0a1ce671a98ace",
+    "summary": "管理你的业务",
+    "description": "ChatGPT 版 La Pyme 让经过身份验证的中小企业运营者从 ChatGPT 操作其 La Pyme 账户。用户可以查看销售、库存、产品、联系人摘要、采购、付款、转账、采购订单、报告和公共 API 合约，并执行范围受限的业务流程，例如创建销售、客户、采购、付款、转账和采购订单草稿。联系人工具默认尽量减少个人标识符；当用户明确请求客户/供应商标识符，或使用获授权的 API 读取工具时，回复可能包含电子邮件、电话、税号或地址等运营个人信息。应用不会收集健康、生物特征、社会保障号码或完整支付卡数据等受限个人数据，并会从模型可见的工具回复中删除身份验证、请求和卡片元数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a04eabc564881919f1c58b970a37dde",
+    "name": "LandscaperNow",
+    "sourceHash": "4ac475ab43de8b562883418e8f32b386e5f696a0390147767ce26ad26f921b8c",
+    "summary": "估算割草费用",
+    "description": "LandscaperNow 帮助房主估算住宅地址的割草费用并在线继续操作。\n\n输入地址即可根据公共房产数据、服务频率和可用房产详情，获得无需承诺的割草估价。在活跃服务区域内，你可以继续前往 LandscaperNow 查看并请求预订；在服务尚未覆盖的区域，你可以保存估价，并在服务可用时收到通知。\n\n估价不具约束力。最终价格和可用性可能因房产详情、服务条件及当地专业人员供给而异。ChatGPT 内不会处理付款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6989d602c3148191a79d5622a894473d",
+    "name": "Landwirt.com",
+    "sourceHash": "df91bb9ef5b55ffdf49e1323ed2716253414738e50218a9600775ac02d5c754b",
+    "summary": "查找农业机械",
+    "description": "无论你寻找拖拉机还是其他新旧农业机械，Landwirt.com ChatGPT 应用都能访问 www.landwirt.com 上的完整商品范围。\n\n农业市场\n从拖拉机到鸡——Landwirt.com ChatGPT 应用提供来自奥地利、德国、意大利、匈牙利、斯洛文尼亚、瑞士及其他国家的 130,000 多条分类广告和机械列表。\n\n精准搜索——查找区域和国际报价\n应用允许你浏览农业机械经销商和私人卖家的列表。可按地点筛选，从而找到附近或其他国家的商品。\n\n快速安全沟通\n买卖双方可以通过平台内置的消息中心直接沟通。\n\n可用类别\n- 新旧拖拉机和机械\n- 拖拉机和机械配件\n- 林业和木工技术\n- 承包作业和农业服务\n- 以及更多！",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a563d3bd288819196199d33db4cfc55",
+    "name": "LaunchDarkly",
+    "sourceHash": "8b39d84b54ba3628292abb04716e8fe9b03bf4e05e2edc215faad925605f8c53",
+    "summary": "功能开关、AI 配置和指标",
+    "description": "直接在聊天中管理 LaunchDarkly 功能开关、AgentControl 配置（AI 代理提示词/模型）、实验、受保护和自动化发布、分群、指标、仪表板、告警及可观测性数据（日志、追踪、错误、会话）。创建并定位功能开关，运行和分析实验，配置 AI 代理提示词和工具，构建仪表板和告警，并在不离开对话的情况下调查生产问题。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6992c6ed041881919acdff0663c78164",
+    "name": "Laundryheap",
+    "sourceHash": "08411fc35f0efa3d23f6940577ebf012f87c8001909ca5e16be7fd7cdcadc394",
+    "summary": "预订洗衣取送",
+    "description": "Laundryheap 帮助用户查看取件可用性，浏览洗衣和干洗服务，查看价格，选择返还时间段，确认付款准备情况，并在 ChatGPT 中创建 Laundryheap 订单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa8da67e0c88191a6c3baebe145836a",
+    "name": "Laup",
+    "sourceHash": "9c9081c9633d749604c427b07a7eb5099dc737b76db2f885eef4b005bb662e49",
+    "summary": "追踪 AI 如何推荐你",
+    "description": "Laup 追踪 ChatGPT、Gemini、Copilot 和 Claude 如何回答客户的购买问题，以及它们是否推荐你的企业或竞争对手。此插件将这些数据带入 ChatGPT，方便你在对话中探索。\n\n按引擎和产品类别询问你的 AI 可见度，阅读某个提示词的完整回答，查看引擎使用哪些网站作为来源，并检查它们执行的网络搜索。你还可以检查网站的 AI 就绪度，并处理 Laup 行动计划：评估和验证建议，对其分类处理并添加评论。\n\n需要 Laup 账户，并至少有一个受追踪的域名。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6c54800a9c8191bf510c47361b6255",
+    "name": "Lead Recorder",
+    "sourceHash": "7d6d55610fbeba53e0e374d3cb89ec36c2145fa61458e377c6a3238a50185eab",
+    "summary": "查看每条潜在客户线索的来源",
+    "description": "Lead Recorder 展示你的潜在客户线索实际来自哪里。\n\n它会追踪网站上的每次电话点击、表单提交和咨询，并将每条线索匹配回产生它的具体广告、Google 搜索或帖子。此插件让你可以用日常语言询问这些数据，无需打开控制面板。\n\n三个只读工具：\n\nList Sites 返回你的账户可以报告的客户网站。\n\nGet Quiet Sites 列出过去几天没有线索的网站。如果你管理许多客户网站，它有助于在客户发现问题前及时发现。\n\nGet Monthly Report 返回指定网站某个月的数字：线索总数、新访客与回访访客、电话点击/表单/邮件咨询的构成、付费/自然/直接渠道分布、主要来源和活动，以及营业时间之外到达的线索比例。\n\n你可以询问：\n\n“我的哪些客户网站本周没有线索？”\n“Bob’s Plumbing 上个月表现如何，线索来自哪里？”\n“使用真实数字为客户撰写本月线索报告。”\n\n它面向营销机构及其合作企业，尤其适合咨询通常通过电话而非在线结账完成的本地服务企业。\n\n你需要一个 Lead Recorder 账户，并至少在一个网站安装跟踪代码。有免费方案，安装大约需要 30 秒。通过此插件无法修改账户中的任何内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6992cdddc1088191a47f65e9c68e099e",
+    "name": "LeapScholar",
+    "sourceHash": "18c8f3c4fd43e2167fa87ef73ea62f5c7f7ef7a33210e857812d6c8823e52a75",
+    "summary": "搜索海外大学项目",
+    "description": "直接在 ChatGPT 中按国家、学科、入学时间和学位级别搜索并比较海外大学项目。\nLeapScholar 连接到涵盖英国、美国、加拿大、爱尔兰、澳大利亚、德国等地大学的精选数据库。你可以询问：\n• “英国的数据科学项目”\n• “美国适合 2027 年 1 月入学的计算机科学大学”\n• “比较英国和加拿大的金融项目”\n• “爱尔兰 2026 年 9 月入学的一年制计算机科学研究生项目”\n结果会以交互式卡片展示大学名称、课程、学费、时长、排名和入学时间。点击卡片即可访问大学项目页面查看完整详情。\n此工具为只读，无需登录，不存储任何用户数据，仅查询 LeapScholar 的内部大学数据库。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6994f3546cec819184a464f0089ca8d6",
+    "name": "LegalZoom",
+    "sourceHash": "d43d573c517726d82559418623d058f10c7d9eb105bee700947d34f4e31eb2c9",
+    "summary": "获取企业法律信息",
+    "description": "LegalZoom 提供可靠的法律信息，帮助你创办和经营企业。你可以使用该应用提问、发现相关 LegalZoom 资源，并获得常见法律事务的引导式后续步骤。\n\n你可以：\n1. 了解企业设立基础（有限责任公司与股份公司的区别、常见申报步骤）\n2. 获得合同导航帮助（应包含哪些内容、何时使用哪种协议）\n3. 了解合规和更新要求（注册代理人、年度/两年一次的要求、修订）\n\n重要提示：此应用提供法律信息和教育内容，不提供法律建议，也不能替代律师。如需针对具体情况的建议，请考虑咨询律师。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8a488e2d708191a0bd6abcb1b9ac06",
+    "name": "Leni",
+    "sourceHash": "0ffaec3d3c354bfe0494fc2399daebad383671e079cee2b9f082a8d5b1dd86c0",
+    "summary": "房地产数据与背景信息",
+    "description": "使用 Leni 的智能运行时，根据你获授权的数据和持久化上下文回答房地产、财务、运营、市场研究和组织相关问题。读取投资组合指标、分析表现、查阅相关记忆，并在将结果限定于你的 Leni 账户、组织和获授权房产的前提下，明确保存持久化偏好。Leni 连接受支持的物业管理和数据系统，为高准确度、具备上下文感知的回答提供统一运行时。你可以在 https://leni.co/request-demo/ 了解更多或连接数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694d5d79a9c481918305d9446a0f0d21",
+    "name": "LetsBot",
+    "sourceHash": "c1682097f3b8f3015350902ed52014762ba7217ef4462cd5928147387862d22b",
+    "summary": "管理企业聊天",
+    "description": "LetsBot 让你直接在 ChatGPT 中管理 WhatsApp 商务对话。发送和接收消息、管理联系人和标签、使用 AI 自动回复，并与 Salla 和 Zid 电商平台集成。非常适合使用 WhatsApp 进行客户支持和销售的企业。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9f12de5b508191b079837167196c31",
+    "name": "LetsPackUp",
+    "sourceHash": "dd7e647e2e78c10269e60669fa64398f9bff8d82b016968fcb686355b7f33c2a",
+    "summary": "整理并共享你的旅行",
+    "description": "与你已经在聊天的助手一起规划旅行，旅行会变成 LetsPackUp 中真实、井然有序且可与同行者共享的行程。\n\n比如请助手安排和三位朋友在葡萄牙度过一周，它会按旅行应有的方式在 LetsPackUp 中整理：按顺序排列的日期和时间、地图上的每个停留点、打包清单，以及记录谁为谁支付了什么的地方，公平分摊费用而无需有人计算。然后共享行程，每个人看到的是同一趟旅行，而不是充满截图的聊天串。\n\n分享后朋友和家人可以看到：\n- 按天列出的计划、时间和地点。\n- 地图上的每个停留点及其备注。\n- 打包清单，避免有人忘带充电器。\n- 每个人支付了什么以及谁欠谁多少钱，系统为团队计算。\n- 日历，用于找出大家都能出行的日期。\n- 群聊和投票，用于解决待定问题。\n- 点子箱，任何人都可以提议一个下午、一家餐厅或一整天的安排，由群组投票。\n\n你邀请的每个人都可以在网页或 Android 上打开同一趟旅行；加载后即使没有网络也能使用。任何人添加的内容，整个群组都能看到。\n\n助手如何参与\n助手只在你选择的旅行中工作，并且只做你允许的事情：查看计划、添加内容、创建旅行，或进一步删除内容、阅读聊天、发消息以及为你拥有的旅行创建分享链接。你只需设置一次，随时可以改变想法，也可以一键关闭助手。它添加的所有内容都会显示在你的名下，群组可以编辑、投票或移除。\n\n你的内容仍归你所有\n助手绝不会更改同行者写下的内容；绝不会看到他们的电子邮件地址、位置、文件或紧急联系人，也绝不会看到任何人的实际位置。它无法将任何人移出旅行，也无法删除你亲自创建的旅行。\n\nLetsPackUp 免费，与助手配合使用也免费。支持 16 种语言。问题请访问：https://letspackup.com/en/faq 或发送邮件至 support@letspackup.com。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f8dcf5fa448191b05aff9d3e6e389e",
+    "name": "Levitate",
+    "sourceHash": "0f1c66d65957a97517987315514d40471399558ecbe6eb17aa9ca20abc0b406a",
+    "summary": "管理人际关系",
+    "description": "Levitate 应用让你可以用自然语言访问关系营销平台。搜索和管理联系人，查看完整档案，批量添加标签，并跟进待办事项——全部通过对话完成。你还可以追踪捐赠和筹款活动，管理销售管道各阶段的商机，以及查看保险保单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a57946a7e008191a57e77c8398f960b",
+    "name": "LIAM",
+    "sourceHash": "bb23db6762d47c6d8a2be52fdc617ba75f6cb8c473c4d764034d6a0591fcf3d3",
+    "summary": "你的个人记忆助手",
+    "description": "LIAM 是个人记忆助手。它会保存并回忆你希望跨对话保留的事实、偏好和笔记；存储和搜索联系人；记录多步骤食谱与日常流程；记录餐食和收据，并提供每日营养与支出摘要。你可以输入请求，也可以直接上传照片——收据、餐食、名片或笔记——LIAM 会读取并自动归档到正确位置（例如餐厅收据会同时记为支出和餐食）。只存储提取出的文本/数值，绝不保存原始图片。\n\n示例用法\n“记住我坐飞机喜欢靠窗座位——给它加上‘旅行’标签。”\n“我在 Nova Retail 认识谁？”/“把 Acme 的 Sarah Chen 添加为联系人。”\n“记录我的午餐：鸡肉凯撒沙拉”→“我今天摄入了多少蛋白质？”\n“记录这张收据：Loblaws 杂货 $87.43”→“我今天花了多少钱？”\n上传名片照片→创建联系人；上传收据照片→记录支出和餐食。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5bb283d24481918813e6efbc3d66ad",
+    "name": "Liftosaur",
+    "sourceHash": "3c70f77f6917160349655fe7c57f8ff0b3ad8472a7b18a84f83cdf18289c840a",
+    "summary": "创建可编程训练",
+    "description": "Liftosaur 是一款可编程训练应用，使用名为“Liftoscript”的语言定义训练。该插件允许用户编写和管理 Liftoscript 程序、训练历史、动作、健身房器材、测量数据等。\n\n免费的参考工具提供 Liftoscript 语法、示例、训练计划设计指导、内置计划和动作名称。\n\n私有账户工具要求用户向 Liftosaur 完成身份验证并拥有有效订阅，之后才能读取或修改训练计划、历史、健身房、器材、动作设置或测量数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aaaf2fcaa388191a7cb1f5b0003c2e5",
+    "name": "Lightreel",
+    "sourceHash": "df7c46fea6731b4f21ec2df9d66d3dc2ac686da57dab4bb9c0b173519e670c2d",
+    "summary": "社交媒体与 Meta 广告研究",
+    "description": "Lightreel 帮助研究 TikTok、Instagram 和 Meta 广告，寻找网红和微型创作者、制定病毒式传播策略、发现广告格式并探索内容，可作为 24/7 全天候营销助手。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a70f280e1a08191bf1995c56f59ce75",
+    "name": "Lightweight",
+    "sourceHash": "c7102fb3c9578527a12e1912ee8b7e910221b98b65600a4170e71f891f2aa76e",
+    "summary": "训练洞察与训练计划",
+    "description": "Lightweight 将 ChatGPT 连接到你选择分享的训练数据。它可以分析完整历史，包括已完成的训练和不涉及训练动作的健身房签到；计算高级趋势；检查已保存的训练计划；只有在你确认具体改动后，才会创建或更新计划。它还会解释 Lightweight 的使用方法。OAuth 会分享私密 Lightweight 账户 ID、已验证邮箱和验证状态，用于身份及工作区域检查。分析可能使用训练、计划、文件夹、动作和健身房的名称及技术 ID，以及训练和更新的时间、组数指标、计划/容量，还有你原样输入的任何一次性地点标签。它不会读取单独的地址、坐标或其他位置字段，也不会读取笔记、媒体、社交数据、可穿戴设备健康数据、支付数据或凭据。确认后，它可以将训练计划归档到已有的私有文件夹，或创建/复用一个命名的私有文件夹。它无法删除训练计划/文件夹、开始训练或编辑训练历史。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a57f46306a08191b1a5b9a21b88d989",
+    "name": "Limodia",
+    "sourceHash": "1435950ae813a14746ab7abb44a9481de578bb4369711b68e3d1ebc57fa83c7a",
+    "summary": "查找豪华汽车服务",
+    "description": "Limodia Marketplace 帮助用户在美国各城市查找并比较豪华司机和汽车服务运营商；当提供上车点和下车点时，还可获取经过验证的路线报价。用户提供上车时间后，它会返回运营商的预订页面链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8fb168c9f48191b96b1e877626eab0",
+    "name": "LINEAR Magazine",
+    "sourceHash": "c5939d210a8a878422e2e5db730eb907aa182b75d9094edd17dc3e2227f8a0d0",
+    "summary": "精选空间与地点",
+    "description": "LINEAR 是一本设计与建筑杂志，报道全球最具思考性的空间。此 MCP 是 LINEAR 精选档案的只读窗口：按城市、建筑师、氛围或预算搜索设计感住宿和空间，并获取任意房产的完整记录——设计故事、建筑师及重要细节。它绝不写入、预订、保留或定价。想入住某处时，它会提供 LINEAR Concierge 的链接，这是由人工运营的旅行服务台；你自行提交请求，由人工在付款前确认每笔预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cdf9990c90819185974d8727ef9d73",
+    "name": "LinkedIn Ads",
+    "sourceHash": "4cb94fddb82140c943fbb081649d23b2185c21e3579d49b69b97d158c588381a",
+    "summary": "发展你的业务",
+    "description": "LinkedIn Ads 帮助广告主让每一笔营销预算都推动业务增长，使广告组表现更易理解和采取行动。了解哪些做法有效，增强信心，在你已有的规划和分析位置做出更明智的营销决策。连接 LinkedIn Ads 账户与 ChatGPT 即可开始。\n\n此应用目前处于测试阶段，仅支持有限的 LinkedIn Ads 功能。它提供广告组表现的只读访问，帮助你了解结果。随着工具覆盖范围扩大，支持的功能和用例可能会变化。\n\n在测试阶段，你可以：\n- 查看并搜索你有权访问的广告账户和广告组\n- 用自然语言询问广告组和广告表现\n- 按日期范围、广告组或广告拆分指标\n\n可询问：\n- “显示账户 X 中所有活跃广告组”\n- “账户 X 的广告组上周表现如何？”\n- “广告组 Y 中哪些广告的 CTR 最高？”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69536057b5048191a73aa81ab1e35cdb",
+    "name": "Linkly URL Shortener",
+    "sourceHash": "c28b6977c1e021ca1de36aa8b5e98c27bcec11ef5535e2e68cdf4f4a02e4a600",
+    "summary": "面向营销人员的 URL 缩短器",
+    "description": "面向营销人员的 URL 缩短器\n\n直接在 ChatGPT 中创建品牌短链接、追踪点击并优化营销活动。此应用让营销人员生成自定义跟踪网址，根据设备或位置应用智能重定向，并创建可随时更新的动态二维码。\n\n非常适合希望快速创建链接、获得实时分析和生成可用于活动的 URL 的营销人员、增长团队和机构，无需离开 ChatGPT。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0147bfff8c819184c7505d9b8af6aa",
+    "name": "Links Connect",
+    "sourceHash": "2076ba677c3b350063f3b2c743dc30e84f812133db856351db262e00ad2586c2",
+    "summary": "统一业务数据",
+    "description": "Links Connect 为财务团队提供单一事实来源，将运营系统与财务系统连接起来，使业务数据直接流入 ChatGPT。连接你已在使用的工具，让 ChatGPT 自动处理分析、报告和工作流，而不打乱现有安排。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0765f330f08191a2e5d95f075948a9",
+    "name": "Listen Labs",
+    "sourceHash": "dc87fd2683c006dae8d9ac0dde5564d71cd8e5fbe1f6f1aed5fcbee1a8dfaf5e",
+    "summary": "大规模访谈客户",
+    "description": "浏览你的 Listen Labs 研究、提取回答数据、查看研究设计并发现分析洞察，全程无需离开工作流。直接在 ChatGPT 中创建、编辑和启动新的用户研究。无论你开展的是市场探索、产品发现、可用性测试还是假设验证，Listen Labs 都会成为研究流程中的原生组成部分：由 AI 驱动的助手，帮助你更快综合定性发现并获得更深入的洞察。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8db0425790819187dd2fb0702b26ed",
+    "name": "Lito",
+    "sourceHash": "f85351ec92a93cbe6f8ec5a471b9eba791537f6d3a08b4bec952bdfa0ef9546a",
+    "summary": "搜索律所数据",
+    "description": "Litera 的 Lito 插件将律所的集体知识和经验带入 ChatGPT。用自然语言提问，获得来自律所经验数据并带有引用的回答，无需离开对话。\n\n- 自然语言搜索：询问“显示日本银行客户的并购交易”等问题，并获得跨事项、客户、人员和经验记录的实体链接结果。\n- 表格结果：从任何搜索查看分页、可排序的表格，快速浏览和比较结果。\n- 事项档案：从搜索结果深入某个事项，查看完整事项详情。\n- 客户档案：获取完整客户档案，了解关系历史和相关经验。\n- 人员档案：查找个人的专业领域、事项历史和律所职务。\n- 营销资料包档案：访问完整经验资料包，为推介、方案和 RFP 提供支持。\n- 对话式细化：将上述功能串联起来，通过后续问题精准缩小所需范围。\n\n所有回答都包含引用，并遵守律所安全权限、道德隔离墙和用户授权，因此专业人士只会看到获准访问的内容。Litera 的 Lito 帮助律师和商业专业人士以确定性准确度利用律所知识，为原本需要浏览多个系统或依赖机构记忆的流程提升标准。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aaf8bc687e481919ad3b612c14e067d",
+    "name": "LiveSpot",
+    "sourceHash": "a2162684a8bf6f436dd520b217e03965d974685302f5b7b07ca0db83c15af4c2",
+    "summary": "查找瑞典活动",
+    "description": "LiveSpot 是独立的瑞典活动指南。用自然语言提问——“本周末哥德堡有什么活动？”“斯德哥尔摩 500 SEK 以下的音乐会”——即可获得带场馆、日期、价格和直接购票链接的当前活动。可按自由文本、城市、类别、日期范围或预算搜索；打开包含描述、场馆、可用性和票务链接的完整活动详情；按城市或类别浏览；查找与你喜欢的活动相似的活动。覆盖瑞典各地的音乐会、戏剧、音乐剧、舞蹈、喜剧、体育、节庆和家庭活动，每天从 13 家票务提供商收集信息。免费且只读：无需账户或 API 密钥。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa2109570b0819194170aae3449f6fb",
+    "name": "Loadster",
+    "sourceHash": "927d924d7ae66696f919dd1046921fea371f7fbd004584f11653fdfc7683b3c3",
+    "summary": "构建并分析负载测试",
+    "description": "Loadster 帮助用户创建和运行测试脚本、准备负载测试场景、配置合成监控，并通过 ChatGPT 调查已完成的测试和监控结果。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69bda0ecbc0881919d6fddb830721187",
+    "name": "Loft",
+    "sourceHash": "730a212f1f5eeb37aad10efb7ff5bb1acd1afe28797722bc92fc458e71459870",
+    "summary": "寻找下一处房产",
+    "description": "Loft 应用以简单、快速、智能的方式帮助你找到理想房产。\n你可以搜索待售或出租房产、比较选项、了解市场价格，并更有信心地做决定。\n\n除搜索之外，应用还提供让选择更轻松的洞察，例如价值估算、房产特征和不同地区之间的比较。所有设计都面向希望在选择居住或投资地点时避免麻烦、节省时间的人。\n\n无论你寻找下一套住宅还是绝佳投资机会，Loft 都会提供清晰信息和技术支持你的决策。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6b00f513248191bbad865fb8ae8271",
+    "name": "Logimu Shopping",
+    "sourceHash": "890c05d113a2b6af9002dae036d81f53f0bd77957e85d53395f0eaa8dae4b272",
+    "summary": "查找 Amazon 和 Walmart 商品",
+    "description": "在聊天时查询 Amazon 和 Walmart 的真实商品数据。\n\n提出开放式问题（“$150 以下、声音安静的锥刀磨豆机”），即可获得按排名排列的候选清单，包括当前价格、评分和库存。询问具体商品，可获得价格、库存状态、评分、评论数、参与竞争的卖家数量，以及过去 30 天价格和可用性的变化。\n\n数据来自持续刷新的仓库，覆盖 Amazon 美国、英国、德国、加拿大和澳大利亚站点，以及 Walmart 美国站的 17M+ 件受追踪商品。每条记录都带有观测时间戳，方便判断新鲜度。排名基于商品数据本身——不含联盟链接、赞助展示或付费卖家位置。\n\n无需注册即可使用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0453db29a48191b06e9b3ac1c53c0e",
+    "name": "Loop AI",
+    "sourceHash": "181e4720a347856ad27dd88153b3f4db41095d3622181fd1633bffe699563bf2",
+    "summary": "餐饮行业 AI 代理",
+    "description": "为餐饮和零售品牌带来盈利增长的 AI 代理。Loop AI 将配送、POS 和评价数据连接起来，挽回流失收入，发现各门店的运营问题，并将客户反馈转化为行动——让数据真正运营业务，而不只是生成报告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3d596a3f608191bf8283d5c3b35e1b",
+    "name": "Lott Immobilien",
+    "sourceHash": "381db692b86fe96eb04305ed213154f37ecd9d18806ed9f95f0ffbf9bcb9be46",
+    "summary": "莱尔至奥尔登堡房产",
+    "description": "Lott Immobilien 是一家现代房地产公司，专注于从 Leer 经 Augustfehn 到 Oldenburg 的地区。该应用通过直观的基于位置的方式，帮助用户在德国西北部发现、购买或出售房产。\n\n用户无需浏览冗长的房源列表，而是可以直接在交互式地图上探索可用的房屋、公寓、地块和投资房产，一眼查看房产位置、附近基础设施和周边社区，让搜索过程更简单高效。\n\n凭借广泛的本地市场知识和个性化建议，Lott Immobilien 将创新数字解决方案与多年区域市场经验结合起来。\n\n主要优势\n基于现代地图界面的交互式房产搜索\n更快浏览从 Leer 经 Augustfehn 到 Oldenburg 的地区\n更好了解房产位置、基础设施和社区\n专注于该地区精心筛选的住宅和投资房产\n更轻松比较不同城市和市镇\n通过可视化导航提高搜索效率\n直接联系经验丰富的房地产专业人士\n现代、易用的移动体验\n\n无论你是在 Leer 寻找独立式家庭住宅、在 Oldenburg 寻找公寓、在 Augustfehn 寻找房产，还是寻找有吸引力的投资机会，Lott Immobilien 都能以现代、透明、便捷的方式帮助你进入区域房地产市场。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69482e4ec0c08191967b7187cc2704a7",
+    "name": "Lugg",
+    "sourceHash": "16cebe3ee86f13992af01bf4da36ed63ac214e6ba372d51c243049b5c1902af6",
+    "summary": "按需搬运工和卡车",
+    "description": "为按需搬家和配送提供即时报价。告诉 ChatGPT 取件和送达地点，比较价格真实的卡车选项，并在几分钟内预订经过审核的专业搬运工。家具配送、二手平台取货、搬入仓储、捐赠物品送达、垃圾清运——Lugg 全都能处理。支持当天或预约服务，价格提前透明。已完成超过 100 万次搬运。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2d9a84fc2481918d43aeb91176737e",
+    "name": "Lusca",
+    "sourceHash": "40089799f55fd7d55a9a252df47b4f56e39d2e19b1884a93e17a1dab0db4201b",
+    "summary": "管理电商增长",
+    "description": "Lusca 帮助 Shopify 商家将商店和营销账户连接到 ChatGPT。它会检查目录健康状况、Google Ads 表现、Merchant Center feed 状态和 Search Console 需求信号，然后准备安全建议和每日报告。任何可能改变商店或营销活动的操作都会在审批页面显示，并且必须获得人工明确批准后才能执行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e5f69b54d8819185e1638e73c15e3b",
+    "name": "Lusha",
+    "sourceHash": "3f346b96a0daa8facbd7b8503f33d28bbe32aed3edbc167702984fa61d02593c",
+    "summary": "经过验证的 B2B 数据与信号",
+    "description": "将 Lusha 连接到 ChatGPT，直接在聊天中获取 B2B 销售情报、潜客开发和市场进入数据，包括经过验证的联系人、决策者和公司信息补充。Lusha 是 3 亿多个已验证联系人的 B2B 数据层，供销售、营销、RevOps 和招聘团队用于获客、CRM 数据补充、客户研究和外呼活动。符合 GDPR、CCPA、SOC 2 Type II 和 ISO 27701 合规要求。\n\n使用 Lusha 可以：\n\n按职务、资历、行业或地点查找联系人和决策者：“查找纽约市 10 位 Series B SaaS 公司的 RevOps 副总裁”\n获取经过验证的工作邮箱、直拨电话和手机号码，邮箱送达率 98%、电话准确率 85%：“获取 Notion 市场负责人经过验证的邮箱和手机号”\n找出目标客户中的采购决策委员会：“找出我应该联系 Notion 和 Figma 的决策者”\n用公司基本信息、技术信息、员工数量和收入补充 CRM 记录、潜客和入站注册：“为这 25 个网络研讨会报名者补充行业、技术栈和招聘信号”\n追踪融资、领导层招聘和技术栈变化等购买信号：“显示这 15 个账户过去 90 天的购买信号”\n获取按潜客匹配度和意向评分排序的公司和联系人推荐：“推荐符合我们最佳客户画像的公司，并按购买信号排序”\n根据已赢单客户查找相似账户：“查找 20 家与这 5 个客户相似的公司”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7496f80f488191b987fa497abbfe72",
+    "name": "Lux AI",
+    "sourceHash": "fbe68e3eb46333570d8c4a55d44396e9cdf25ad44fdf827586dd9199ac056ccd",
+    "summary": "搜索 Lux Research 报告",
+    "description": "Lux AI 让你只需提出一个问题，就能获取 Lux Research 精选的分析师知识。询问新兴技术、公司、市场和学术研究，获得来自 Lux 专有出版物的回答。每项主张都带有来源引用，链接回底层研究，让你在几秒内从问题得到可辩护、有来源的答案。需要你的组织拥有有效的 Lux Research 订阅。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c10573cd3c819181d1adebad001dec",
+    "name": "Luxauto",
+    "sourceHash": "5a024647102f4cf938eaa588720a92f50b2aa53713f66c9adc5ba9391934199a",
+    "summary": "购买或租赁汽车和摩托车",
+    "description": "Luxauto 以简单的对话方式帮助你寻找购买或租赁的汽车和摩托车。只需描述需求——预算、车辆类型或生活方式——Luxauto 就会从卢森堡及大区（法国、比利时和德国）最大的车辆选择中，为你提供相关建议和房源。\n\n无论你寻找家庭用车、城市车辆还是更具体的车型，该应用都能帮助你探索选项、细化条件，并快速访问 Luxauto 市场中匹配的报价。\n\n专为让车辆搜索更轻松、更快速、更直观而设计。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a706dc692d08191a3a1aa5e52a34c12",
+    "name": "LZ Virtual Mail",
+    "sourceHash": "c900db1fd5b7119d7ccf6a3dc4bf22f23cf7916d5fe53864ffd3479c0891fb6c",
+    "summary": "在线管理实体邮件",
+    "description": "LegalZoom Virtual Mail 将你的企业和个人纸质邮件数字化，现在你可以直接在 ChatGPT 中查找、理解和管理邮件。\n\n询问新邮件或未读邮件，搜索特定项目，并阅读或总结扫描文档。你还可以用文件夹和标签整理邮件，查看邮箱状态和提醒，以及检查邮件处理请求的进度。\n\n你可以：\n• 按发件人、收件人、日期、状态、标签或内容查找邮件\n• 阅读和总结扫描邮件\n• 请求打开并扫描符合条件的邮件\n• 归档、整理或安全粉碎符合条件的邮件\n• 追踪包裹和可用的转寄活动\n\n需要 LegalZoom Virtual Mail 账户。部分功能取决于你的账户、方案、验证状态以及每封邮件可执行的操作。实体邮件请求可能需要处理时间。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a883213fb288191aa91f89a5db31f60",
+    "name": "MagicPath",
+    "sourceHash": "d3c77ec0e8ca6e9b362ea0dcd2cfe423a620af83b76cdf847b316504e2325fa6",
+    "summary": "直接在 ChatGPT 中设计",
+    "description": "MagicPath 是一款 AI 设计与原型工具，在共享画布上创建交互式网站、应用界面、仪表板和视觉化计划。通过 MagicPath 插件，描述你想要制作的内容，把想法、笔记或现有设计变成可编辑的作品，供你探索和完善。\n\n创建落地页、制作应用原型，或设计带有可用交互的仪表板。比较多种 UI 和 UX 设计方向，完善布局和内容，并应用可复用主题以保持一致的外观。将会议笔记、产品需求或流程转化为流程图、线框图、用户旅程和工作坊板，让下一步更容易理解。\n\nMagicPath 支持设计师、产品经理、创始人、营销人员、开发者、教育工作者和规划产品外观或行为的团队。将相关设计放在团队项目中并共享链接供审阅。在拥有文件访问权限的编码环境中，可以将现有 React UI 代码调整到 MagicPath，或导出 React 和 TypeScript 组件，继续在应用中实现。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a99b662c5a881919b0c8b65bcf09e00",
+    "name": "Magister Marketing",
+    "sourceHash": "08c8fde9724a0ed28f1134220417a2aa5751bf18192e9969a1f7e874abe82075",
+    "summary": "规划并执行营销",
+    "description": "Magister Marketing 将品牌营销工作区连接到 ChatGPT。查看品牌资料和营销计划，然后逐项执行计划：读取下一项优先任务及完整简报，记录进展笔记，并在工作完成时更新项目状态。\n\n追踪 AI 可见度和 GEO。查看 ChatGPT、Claude、Gemini、Perplexity 和 Google AI Overviews 如何回答买家对你所在品类实际提出的问题，开始新一轮评分，并打开交互式报告，查看各轮评分趋势、各 AI 模型结果和每个提示词的详情。\n\n运行 SEO 和答案引擎审计，查看各渠道健康评分；研究带搜索量和难度的关键词；审查 Google Ads、Meta Ads 和 TikTok Ads 表现。以品牌声音起草并安排社交帖子，获取每条帖子和粉丝分析，按渠道和主题发现影响者，使用项目资产和文件，监测公开来源中的品牌提及，并针对已连接的 GitHub 仓库创建拉取请求。\n\n所有写入操作都受范围限制并经过审计。发布帖子、发送邮件、合并拉取请求和删除文件，都会在实际发生前停留在明确确认步骤，或等待人工在 Magister 应用中授予服务器端批准。Meta 或 TikTok 上创建的新广告活动会以暂停状态创建，此连接器无法启用活动或开始广告支出。需要 Magister 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e63299c5e48191a99883c542441da4",
+    "name": "Magnetly",
+    "sourceHash": "7148f51e34560f38a1b4309d22c81fa1601115099fdd1326c42a93b57fcca39f",
+    "summary": "构建互动式获客工具",
+    "description": "Magnetly 帮助你创建由 AI 驱动的互动式获客工具。\n\n你可以创建测验、计算器和生成器，向受众提供个性化结果，而不是使用静态 PDF。这些工具能吸引访客、自动收集潜客并提高转化率。\n\n使用 Magnetly，你可以：\n\n- 将想法变成互动式获客磁铁\n- 使用 AI 生成个性化输出\n- 自定义设计以匹配品牌\n- 收集潜客并同步到 CRM\n- 发布能带来 SEO 流量的工具\n\n它面向希望通过简单的无代码工具，把网站流量转化为合格潜客的营销人员、机构和创始人。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f0a9b3c7508191a0f4af7131da7de8",
+    "name": "magnews",
+    "sourceHash": "8884a515cf1ee9eff101d0663697d5f5f29e4a15d7e2d9fc7b09c3a75b9a06ab",
+    "summary": "电子邮件营销分析",
+    "description": "在 ChatGPT 中使用 magnews 分析邮件营销活动、新闻简报、营销自动化、工作流、受众和数据库。查看 magnews 账户中可用的表现、打开率、点击、转化、互动、内容和趋势，并获得通俗易懂的解释和可执行建议，将营销数据转化为行动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6cf7506ec88191b19e91e11afe0436",
+    "name": "Magnus",
+    "sourceHash": "ffe074e55bae1e3fb5b65758558f18e43ed965c5621069b2e455d4122934f3d0",
+    "summary": "面向应用发布商的分析",
+    "description": "Magnus 是面向移动和 Web 应用发布商的分析平台。它将广告网络营销支出、订阅和应用内收入、广告网络变现、支付服务商结果以及第一方产品分析事件汇总到一个地方，让发布商可以询问某个活动、应用或实验的真实表现。\n\n该应用通过 MCP 以只读方式提供数据。三个工具用于回答问题：marketing_timeline_report 提供获客和变现表现（安装量、支出、收入、ROMI、预测）；finances_risk_report 和 finances_risk_approval_rates 提供支付风险信息（批准率、退款、欺诈警报、争议、拒付）。另一组工具根据发布商自己的 SDK 事件回答产品分析问题：事件数量、漏斗、留存、用户属性分群和 A/B 实验配置。其他工具都是查找辅助工具，用于为上述工具提供真实 ID、筛选值和指标定义，因为应用 ID、事件名称和指标含义因账户而异，无法猜测。\n\n访问权限限定在已登录用户作为活跃成员所属的公司内，并且每次调用都会重新检查成员资格，因此模型永远无法访问其他租户的数据。应用请求的 OAuth 范围 mcp:analytics.read 仅授予读取权限：服务器中没有任何工具可以创建、更新或删除内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6b2a7035c08191914a7c6ead20af80",
+    "name": "MailerLite",
+    "sourceHash": "f3e9732921fbaffc08df3c503cc405e3becbb1271d2688323dcde009ed973dcc",
+    "summary": "管理电子邮件营销",
+    "description": "MailerLite 帮助用户通过 ChatGPT 管理订阅者、群组、营销活动、表单、细分、Webhook、自动化、模板和电商营销数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a03a3be33648191aef497e780854dcd",
+    "name": "MailSenpai",
+    "sourceHash": "6a4558391bd93637a8c715214d2deae1cdbfae32d3a9d26ff51ea4e55d4f1bf8",
+    "summary": "管理电子邮件营销",
+    "description": "使用此应用可以查看营销活动、创建新通信、安排发送、阅读统计数据，并更快速、轻松地操作账户数据。ChatGPT 可以把简单请求转化为实际操作，例如准备活动、检查发送状态或分析表现。\n\nMailSenpai Cold 面向希望减少手动工作、更快访问电子邮件平台关键功能的营销团队、机构和企业。发送或取消订阅等敏感操作会遵守账户中配置的权限，执行前可能需要明确确认。\n\n借助 MailSenpai Cold，你可以把 ChatGPT 当作运营助手，更好地管理电子邮件营销，同时掌控账户设置、权限和数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f332f4b5888191837e7005f8816cb7",
+    "name": "Mantic",
+    "sourceHash": "04bad7f68ec10393e7f50f8a17af00f2d424461ad371d0e896dbee8585cc8d93",
+    "summary": "探索并请求预测",
+    "description": "Mantic 帮助用户探索有关地缘政治、商业、政策、市场、技术和文化的概率预测。搜索可访问的问题和仪表板，查看预测及可用的推理，比较预测历史，并探索条件场景和概率分布。保存并修改问题草稿，然后创建问题，使用 Mantic 账户的问题创建配额请求一次性预测。访问预测可能会根据账户设置产生计费使用量。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694e289261b08191b244259e30ce0836",
+    "name": "Manus",
+    "sourceHash": "65617febfb745550f57112aa63f8604966340753ff4d153e9a596c1374d851a6",
+    "summary": "创建幻灯片、网站和视频",
+    "description": "Manus 是自主 AI 代理，你可以直接在 ChatGPT 中委托给它复杂任务。它不仅生成内容，还能从一条指令开始管理整个项目，直到交付成品。你可以要求它针对特定主题创建“幻灯片”，它会制作专业演示文稿；告诉它为项目“构建网站”，它会交付功能完整的在线网站；要求它为营销活动“制作视频”，它会交付润色完成的成片；或者让它“开展广泛研究”，以获得综合报告、综合结论和来源。告诉 Manus 你的目标，剩下的工作由它处理。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aadd160d70c8191b359d02c0bcc99f0",
+    "name": "Marketing Intelligence",
+    "sourceHash": "61f3fd5592463b888354650207f89825103b1f6fd083029f1db858d0efe48584",
+    "summary": "搜索营销案例",
+    "description": "搜索经过精选的广告、邮件、营销活动和增长手册案例库。按品牌、渠道、主题和营销目标比较案例，然后获取用于研究和规划的聚焦文本预览。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e795096e888191b3908a4dd48a323d",
+    "name": "Markifact - Ads & Analytics",
+    "sourceHash": "3cf2834b182c9c274f6e67245c409b792736746c56309a86fa2e3992009c7b3f",
+    "summary": "运行 Google Ads、Meta 及其他 50 多个平台",
+    "description": "Markifact 是面向 ChatGPT 的营销自动化和广告管理连接器，服务营销人员、机构、媒体投放人员、PPC 专家、增长团队和内部营销团队，让他们无需在广告仪表板之间切换，即可进行跨渠道报告、付费媒体分析和活动管理。\n\n广告平台：Google Ads、Meta Ads（Facebook 和 Instagram）、Microsoft Ads、TikTok Ads、LinkedIn Ads、Reddit Ads、Snapchat Ads、Pinterest Ads、Amazon Ads、Apple Search Ads、OpenAI Ads（ChatGPT 广告）、Display & Video 360（DV360）、Spotify Ads、Data Manager。\n\n分析和数据：Google Analytics 4（GA4）、Google Search Console、Google Tag Manager（GTM）、Google Trends、Google Search、BigQuery、SEMrush、Adjust、Bing Webmaster Tools、PageSpeed Insights。\n\n电商和 CRM：Shopify、HubSpot、Klaviyo 和 Google Merchant Center。\n\n工作区和报告：Google Sheets、Google Slides、Google Docs、Google Drive、Microsoft SharePoint（OneDrive）、Dropbox、Google Business Profile 和 Google Maps。\n\n社交和消息：Facebook、Instagram、LinkedIn、Slack、Pinterest、YouTube、TikTok、WhatsApp。\n\n使用 Markifact 进行跨渠道广告报告、PPC 报告、营销活动审计、账户监控、预算节奏控制、搜索词和关键词分析、创意表现分析、营销数据提取及营销活动优化。ChatGPT 可以从任何已连接账户中获取营销活动、广告组、广告、关键词、受众、预算、转化、表现指标、维度和账户结构。\n\nMarkifact 还支持广告自动化。创建营销活动和广告，更新预算和出价，暂停或启用活动，编辑受支持的广告字段，上传图片和视频，管理定向并执行其他平台支持的操作，然后将结果直接发送到 Google Sheets、Slides、Docs 或 Slack。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a736035c5608191904a2398aaadeab7",
+    "name": "Marriott Bonvoy",
+    "sourceHash": "a172b2cf524fac72da53d6c5261fdc7465c877b648128ef1b1b6f16c480f586b",
+    "summary": "搜索 10,000 多家酒店",
+    "description": "找到适合你旅程的住宿。\n探索 Marriott Bonvoy 旗下 30 多个酒店品牌和全球 10,000 多个目的地。无论你计划家庭度假、商务出差还是周末短途旅行，都能发现适合各种旅行方式的酒店和度假村。\n\n点击“立即预订”即可在 Marriott Bonvoy 应用或 Marriott.com 上预订，并加入 Marriott Bonvoy 享受会员权益。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69de66a3ae6c8191a29deae81697d641",
+    "name": "Master Metrics",
+    "sourceHash": "5f322b8ef2b01c7911d6278fe2ee01d518bd426fa3cc8e38968c5d20ea40e68a",
+    "summary": "营销数据聚合",
+    "description": "Master Metrics 将 25 多个数据源连接到一处，服务营销团队。无需在平台之间切换，即可从 Google Ads、Meta Ads、TikTok Ads、Google Analytics、Shopify、WooCommerce、Tiendanube、Kommo 以及 25 多个数据源提取表现数据。\n\nMaster Metrics 专为管理多个客户的营销团队设计，是拉丁美洲及其他地区团队最易用、最直接的替代方案。需要免费注册账户。请在 mastermetrics.com 注册。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9d13a8da6c8191b4688b9203af2370",
+    "name": "MatchLah",
+    "sourceHash": "40b11d0948ed0d9ac0a218f000c6d0d65202831ad057fdca8513fe22fb653368",
+    "summary": "专注新加坡的辅导",
+    "description": "将你的 MatchLah 家长或导师账户连接起来，安排专注新加坡的辅导。家长可以准备并提交私人导师请求，查看请求状态；导师可以创建个人档案，在审核期间更新档案，并预览和保存可选的个人照片。向 MatchLah 提交前，请先审阅每份草稿。\n\n在线课程可以连接海外家长、学习者和导师。线下课程在新加坡进行。费用以新加坡元计，课程时区会确认。请求和档案均需管理员审核；提交不保证获批、导师联系或成功匹配。\n\n连接器会收集课程详情和可选的非医疗教育偏好。请勿提供诊断、医疗或残障详情、政府身份标识、支付卡数据或身份验证密钥。导师性别会为公开档案匹配而披露；照片是可选的档案图片，不用于身份验证或生物特征分析。\n\n照片传输取决于主机，必要时会使用私密上传链接作为备用。可选编辑取决于聊天应用。已批准的导师档案以及对已提交家长请求的更改，请通过网站或支持渠道进行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a95a9328ee8819193a42410e997fc50",
+    "name": "Maxed Marketing",
+    "sourceHash": "013bc6d5665be12a1702e0b3648ad0eef68666db0610c67ca3b002991486a7bb",
+    "summary": "分析营销表现",
+    "description": "Maxed Marketing 帮助团队探索获授权的营销、AI 可见度以及在允许情况下的产品遥测数据，以调查表现并确定下一步。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a84ab2019f48191ac14ef00a8019c92",
+    "name": "Maysynthel Shopping",
+    "sourceHash": "218512485cc3ae1ec5de125f0f61697ea0dee642ea9d824f404b27a6945e7923",
+    "summary": "Maysynthel 时尚与生活方式",
+    "description": "Maysynthel 是面向全球的时尚与生活方式目的地，精选男装、女装、童装、包袋、配饰、家居用品和生活方式产品。从设计师灵感单品和创意时装到日常必需品，Maysynthel 专注于人人可负担的风格、精湛工艺以及经过严格质量检查的产品，为全球购物者服务。\n\nMaysynthel Shopping 将这种体验直接带入 ChatGPT。购物者可以按风格、类别、价格、可用性、属性及其他偏好发现商品；探索商品详情和准确规格；并在购买前查看当前价格和库存。\n\n准备购买时，Maysynthel Shopping 可以准备选定商品或准确规格，并安全地交接到 Maysynthel 完成购物车和结账。Maysynthel 为国际客户提供服务，配送覆盖 130 多个国家。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a729c5ebe4081919459747399866578",
+    "name": "Medina Clean",
+    "sourceHash": "0b9a5571360bfda2674b225a3d718a8c30f856602c50a807ab14ac324fa06bd7",
+    "summary": "预订 Rosa 的清洁服务",
+    "description": "Medina Clean 让你可以直接在聊天中，预订 Rosa Medina 在伍德斯托克、玛丽埃塔、肯尼索、阿克沃思、坎顿和佐治亚州罗斯韦尔附近提供的房屋、公寓、共管公寓或小型企业清洁服务。检查邮编是否在服务范围内，获取即时起始估价，并向 Rosa 发送预约请求。助手只会发送请求：Rosa 会审核地址、时间和房产，然后联系你确认最终价格和时间；它不会自行确认预订。支持英语和西班牙语。无需账户或付款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a68d7b82c4c8191bf0cb464e6001d97",
+    "name": "Meeters",
+    "sourceHash": "312d0304bb859c2566c014ff310e00e4d44b6e3aa419c927051ddfd37252bb77",
+    "summary": "查找团体旅行",
+    "description": "Meeters 帮助用户发现当前可预订的团体旅行和周末行程，比较公开价格和行程详情，并继续前往 Meeters 官方页面。它只读取公开旅行目录，不访问或更改账户、参与者、预订、订单或付款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a77161fdca48191a4a48bcff84e510f",
+    "name": "Meistron",
+    "sourceHash": "99a87dcc71e10504b48b253cd99c6d41ebafd8e4da7656e63ffa0925bd047917",
+    "summary": "通过 AI 管理订单和发票",
+    "description": "Meistron 是手工业企业的运营软件。企业通过 AI 入口将 ChatGPT 连接到自身数据后，可以查询和维护订单、发票、报价、材料、工时和选定设置。各领域的权限可分别设置为关闭、读取或写入；对外影响另行授权。该入口不会触发信件寄送，不会显示银行账户信息或付款指令，也不会删除数据记录。通过电子邮件发送发票还需要额外的两步确认。登录和同意通过 OAuth 2.1 与 PKCE 完成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a314bdb9f708191b77d80151d681a12",
+    "name": "Mentionlytics",
+    "sourceHash": "b44e6d70c1f60a7dda3db4d906b1d9a02510ee6dd7e7dc30d91916f246bd1257",
+    "summary": "分析社交聆听数据",
+    "description": "Mentionlytics 让营销、公关和社交媒体团队探索并分析此前无法在 ChatGPT 中获取的社交媒体聆听数据。发现社交媒体、网页、评价及其他受监测媒体中推动讨论的人、渠道和来源。让 ChatGPT 深入分析你的品牌和竞争对手在社交媒体上的提及，发现模式并得出有意义的结论。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a28f1ae232c819195f8a8faec6c255c",
+    "name": "MentorCruise",
+    "sourceHash": "44679d5ff9fb533f231ec58616e5a0d95b19028bbeef4d54b210648f5ea457a5",
+    "summary": "寻找真人导师",
+    "description": "在聊天中查找合适的 MentorCruise 导师。可按技能、预算和响应时间搜索 1,000s 名经过审核的导师、比较资料并获取预订链接。支持科技、产品、设计、营销和领导力领域；可按技能、行业、语言、月预算和通常回复速度筛选，并查看背景、服务和价格，然后直接链接到 MentorCruise 预订课程或开始持续指导。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7de4f28dfc8191babd11c98abe9111",
+    "name": "Menu Integrado",
+    "sourceHash": "923986a20a56aa1a2f3cc6a04a3efab10bd8accbacb165600d2a712089ee94b8",
+    "summary": "运营分析",
+    "description": "Menu Integrado 通过安全的只读数据访问，帮助企业管理者更好地了解运营。分析订单、销售、渠道、配送方式、财务交易、税务文件、产品、目录详情、技术表和销售历史。\n\n该应用支持多个地点，用户可以逐个查询每个地点、比较不同期间，并合并信息来了解表现和发现改进机会。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a9503763a0819193b0d6e1544863cf",
+    "name": "MeranO",
+    "sourceHash": "fcad8b9189afc39b7c2e1567d4289f96372fd1f4800a03d37384f765221fc478",
+    "summary": "酒店、徒步、活动和美食",
+    "description": "使用意大利南蒂罗尔梅拉诺市的应用，你可以随时获得活动、酒店和住宿、自行车路线、徒步路线、美食指南等最新信息。一年四季探索梅拉诺及其广阔公园和绿色步道。丰富的文化活动包括 Merano Spring、传统的“Traubenfest”、梅拉诺圣诞市场、Südtirol Festival Merano 以及 Merano WineFestival。使用你的 AI 工具规划 MeranO 假期。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e233392df88191b50d0847abed7c76",
+    "name": "Mergado",
+    "sourceHash": "2c505d482f2182c74931480df6aa5353ce45527df5ea38a8499a5c9b785d84d2",
+    "summary": "管理电商数据",
+    "description": "Mergado 是电商产品 feed 管理平台。连接 Mergado 账户后，可直接在 ChatGPT 中审计产品 feed、管理规则并优化商品数据，以用于 Google Shopping、Facebook 和 Heureka 等市场。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_696609ce0304819185fafa6a660e0f1e",
+    "name": "Mermaid Chart",
+    "sourceHash": "2bcc860038839e7739fae00081794bbbf98eb0ae40c808412af6cc9f302a0ca9",
+    "summary": "创建、编辑和修复图表",
+    "description": "验证 Mermaid 语法，将图表渲染为高质量 SVG，并在交互式界面中即时显示，让用户实时预览、缩放和迭代。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a60933782748191a74381510fe1089f",
+    "name": "Metaprona",
+    "sourceHash": "1828002b9215a072d5ba4b6d87ddb5c4468dad1f411ab7c3092375ccea9e1e74",
+    "summary": "查找阿尔巴尼亚房产",
+    "description": "搜索阿尔巴尼亚和科索沃各地的实时待售和出租房源——公寓、房屋、别墅、办公室和土地，覆盖地拉那、都拉斯、发罗拉、萨兰达、普里什蒂纳等地。按城市、价格、房间和面积筛选，查看各城市平均 €/m² 和租金，并直接在 metaprona.com 打开任意房源。结果实时来自 Metaprona（阿尔巴尼亚开放房产市场）17,000 多条活跃房源。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a468ab04fb081919990214f10c2685d",
+    "name": "Metz Immobilien",
+    "sourceHash": "5c91128934ea53031d02a5eb59578a7dda12de11f1d5b156e89178dd92e7d3ae",
+    "summary": "法兰克福房产",
+    "description": "Metz Immobilien 是一家现代房地产公司，专注于法兰克福及周边地区。该应用通过直观的基于位置的方式，帮助用户在德国最具活力的经济区域之一发现、购买或出售房产。\n\n用户无需浏览冗长的房源列表，而是可以直接在交互式地图上探索可用的公寓、房屋、土地和投资房产，一眼了解每处房产的位置、周边基础设施和社区，从而更快、更直观地搜索房产。\n\n凭借深入的市场知识和个性化指导，Metz Immobilien 将现代数字解决方案与区域专业知识结合起来，帮助买家、卖家和投资者自信地应对法兰克福房地产市场。\n\n主要优势\n\n* 基于现代地图界面的交互式房产搜索\n* 更快了解法兰克福及周边地区\n* 更好了解位置、基础设施和社区\n* 专注于精心筛选的住宅和投资房产\n* 更轻松比较不同城区和住宅区\n* 通过可视化导航提高搜索效率\n* 直接联系经验丰富的房地产专业人士\n* 现代且易用的移动体验\n\n无论你是在法兰克福市中心寻找公寓、在周边地区寻找家庭住宅，还是寻找有吸引力的投资机会，Metz Immobilien 都能以现代、透明的方式帮助你探索法兰克福及周边地区的房地产市场。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5729b1c8708191bf68d3ff1daad8e9",
+    "name": "mfloow",
+    "sourceHash": "b1cffe59c2c8d6c9136af0e60d064ce9ed107569e4bf6e96d7c14d1690e4be27",
+    "summary": "mfloow：AI 工作流平台",
+    "description": "mfloow 是一个业务流程改进平台，使用 AI 提供端到端支持，从可视化运营到确保改进在整个组织中成功落地。\n\n通过可视化任务进度、负责人、截止日期和审批状态，mfloow 让用户快速了解运营整体状态。它还会标准化业务工作流，减少个人之间的不一致，防止流程依赖特定员工。此外，mfloow 会自动执行启动工作流、分配任务和发送通知等日常活动，从而减少行政工作和人为错误。其 AI 辅助的工作流创建能力帮助组织缩短设计流程所需的时间、提高运营质量，并建立可持续的持续改进框架。\n\nmfloow 插件允许用户访问存储在 mfloow 中的流程和任务信息，并通过对话界面检查进度、截止日期和分配的工作。用户可以查看进行中的流程、找出分配给自己的任务、发现逾期任务，还可以查看任务评论、检查清单、相关任务和审批状态等详细信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aaba3aabc288191ae970d1eaa122c07",
+    "name": "Microburbs",
+    "sourceHash": "73ecbb200d5ebe1830df5833ac08262cca351089cc61e43682302e07065f4af9",
+    "summary": "澳大利亚房产数据",
+    "description": "Microburbs 是澳大利亚最全面、最准确的房产和地理空间数据提供商。公司成立于 2013 年，拥有覆盖澳大利亚每个地址、街道和郊区的 50 多亿个数据点，是唯一提供细粒度街道和网格区块级数据的提供商。询问任意郊区或房产，即可获得基于这些数据的回答：经过回测的价格预测、中位数价格和租金、收益率和上市天数、与全国中位数相比的犯罪情况、学区范围和排名、洪水及丛林火灾风险、分区和开发情况，以及人口普查人口统计数据。没有账户时，回答覆盖九个示例郊区，每个州和领地各一个：Bondi、Belmont North、St Kilda（维多利亚州）、Fortitude Valley、Subiaco、Unley、Sandy Bay、Kambah 和 Nightcliff。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ccbb3ffc248191a85d54f948607406",
+    "name": "Milanuncios",
+    "sourceHash": "375e7ff125a4b7edac987d7fff14f88c1f21be2a79505b54ba5aa36e689c9a98",
+    "summary": "搜索二手商品",
+    "description": "直接通过 ChatGPT 访问西班牙领先的市场平台。此应用允许用户在 Milanuncios 生态系统中搜索二手商品、车辆、房产和专业服务。按类别、地点和价格筛选结果，实时查找最佳本地优惠。无论你寻找二手车、出租公寓还是当地职位，这项集成都能提供最新房源和必要的商品详情。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a073e0e5f0481918b9d8fafbb47337c",
+    "name": "MiMove",
+    "sourceHash": "0bd78a1801112258f0a9f149e010373e97c32b4e3de9580885118860859225f5",
+    "summary": "西班牙和葡萄牙房产交易",
+    "description": "MiMove 帮助用户直接在 ChatGPT 中搜索西班牙和葡萄牙的待售及出租房产。浏览公寓、房屋、别墅和投资房产，按地点和预算探索房源，并通过自然对话快速发现符合偏好的住宅。",
+    "model": "codex-subagent-reviewed"
+  }
+]

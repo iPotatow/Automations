@@ -20,8 +20,8 @@ const rules=[
  [/\bno credit card required\b/i,/(?:无需|不需要|不用|不需).{0,6}信用卡/, 'no credit card'],
  [/\bread.only\b/i,/只读/, 'read-only'],
  [/\b(?:confirm|confirmation|approval)\b/i,/确认|批准|审批|核准|获批|证实/, 'confirmation'],
- [/\b(?:requires?|required|requirements)\b/i,/需要|需|要求|必须|须|必填|必要/, 'requirement'],
- [/\b(?:credits|paid|pricing|costs?|fees?)\b/i,/积分|额度|点数|付费|价格|定价|报价|费用|收费|成本|消耗|缴税|税费|支付|付款|收款|年费|保费|手续费|花费|多少钱/, 'cost'],
+ [/\b(?:requires?|required|requirements)\b/i,/需要|需|要求|必须|须|必填|依法|法定|必要/, 'requirement'],
+ [/\b(?:credits|paid|pricing|costs?|fees?)\b/i,/积分|额度|点数|付费|价格|定价|报价|费用|收费|成本|消耗|缴税|税费|支付|付款|收款|学费|有薪|薪资|工资|年费|保费|手续费|花费|多少钱/, 'cost'],
  [/never submits orders directly/i,/(?:不会|从不|绝不).{0,12}(?:提交|下单)/, 'no direct orders'],
 ];
 function positionTerms(source){
@@ -29,7 +29,7 @@ function positionTerms(source){
  if(/checkers|draughts|chess|endgame|board game/i.test(source))return /局面|棋局|棋盘|位置/;
  if(/debate|argue|viewpoints|stance/i.test(source))return /立场|观点/;
  if(/recruit|vacanc|job positions|hiring|candidate/i.test(source))return /岗位|职位/;
- return /持仓|头寸/;
+ return /持仓|头寸|位置/;
 }
 export function checkCompleteness(source,target,context=''){
  if(typeof target!=='string'||!target.trim())throw new Error('Empty translation');
