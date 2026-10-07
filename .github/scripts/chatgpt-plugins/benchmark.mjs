@@ -19,7 +19,7 @@ await save();const guard=createWorkersAiQuotaGuard({env:{...process.env,CLOUDFLA
 const system=TRANSLATION_SYSTEM_PROMPT+'\n术语表：'+GLOSSARY+'\n本次输出格式替换为 {"segments":[{"id":"原输入id","text":"完整中文译文"}]}。每个输入id必须恰好输出一次，禁止拆分、合并或添加id。不要输出summary或paragraphs字段。';
 outer:for(const sample of report.samples)for(const model of models){
  const key=sample.id+'|'+model;if(report.results[key]?.completed)continue;
- if(Date.now()>deadline||attempts>=30)break outer;
+ if(Date.now()>deadline||attempts>=150)break outer;
  const decision=await guard.reserve();if(!decision.allowed){report.pauseReason=decision.reason;break outer;}
  attempts++;const start=Date.now();let record={sampleId:sample.id,model,at:new Date().toISOString(),completed:false};
  try{

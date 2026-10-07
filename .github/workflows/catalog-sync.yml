@@ -4,7 +4,7 @@ permissions:
   id-token: write
 concurrency:
   group: plugin-catalog-pipeline
-  cancel-in-progress: false
+  cancel-in-progress: ${{ github.event_name == 'push' }}
 jobs:
   collect:
     runs-on: ubuntu-latest
