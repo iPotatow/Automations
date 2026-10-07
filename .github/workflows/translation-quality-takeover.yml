@@ -1,0 +1,27 @@
+name: Apply translation quality takeover
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/translation-quality-takeover.yml]
+permissions:
+  actions: write
+jobs:
+  stop-outdated-translator:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Stop only the pinned outdated translation run
+      env:
+        GH_TOKEN: ${{ github.token }}
+      run: |
+        node --input-type=module <<'JS'
+        const url='https://api.github.com/repos/iPotatow/Automations/actions/runs/37609331348';
+        const headers={Authorization:'Bearer '+process.env.GH_TOKEN,Accept:'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28'};
+        const response=await fetch(url,{headers});
+        if(!response.ok)throw new Error('Unable to verify old run: '+response.status);
+        const run=await response.json();
+        if(run.head_sha!=='b63393664cfb1430def305c8513d75228bd4e485')throw new Error('Run identity mismatch');
+        if(run.status==='completed'){console.log('Old run already finished');process.exit(0);}
+        const cancel=await fetch(url+'/cancel',{method:'POST',headers});
+        if(!cancel.ok)throw new Error('Cancel failed: '+cancel.status);
+        console.log('Outdated translator cancellation requested');
+        JS
