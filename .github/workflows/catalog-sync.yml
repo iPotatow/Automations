@@ -170,7 +170,7 @@ jobs:
         if-no-files-found: warn
         retention-days: 7
     needs: collect
-    if: always() && needs.collect.outputs.ready == 'true' && needs.collect.outputs.needs_translation == 'true'
+    if: ${{ !cancelled() && needs.collect.outputs.ready == 'true' && needs.collect.outputs.needs_translation == 'true' }}
     outputs:
       ready: ${{ steps.plan.outputs.ready }}
       needs_publish: ${{ steps.plan.outputs.needs_publish }}
@@ -213,10 +213,10 @@ jobs:
     needs:
     - collect
     - translate
-    if: always() && needs.collect.outputs.ready == 'true' && (needs.translate.result == 'skipped' || needs.translate.outputs.ready == 'true') && (needs.collect.outputs.needs_publish == 'true' || needs.translate.outputs.needs_publish == 'true')
+    if: ${{ !cancelled() && needs.collect.outputs.ready == 'true' && (needs.translate.result == 'skipped' || needs.translate.outputs.ready == 'true') && (needs.collect.outputs.needs_publish == 'true' || needs.translate.outputs.needs_publish == 'true') }}
   benchmark:
     needs: [translate, publish]
-    if: always() && needs.translate.outputs.ready == 'true'
+    if: ${{ !cancelled() && needs.translate.outputs.ready == 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 30
     env:

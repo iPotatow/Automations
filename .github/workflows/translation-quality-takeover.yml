@@ -21,7 +21,7 @@ jobs:
         const run=await response.json();
         if(run.head_sha!=='b63393664cfb1430def305c8513d75228bd4e485')throw new Error('Run identity mismatch');
         if(run.status==='completed'){console.log('Old run already finished');process.exit(0);}
-        const cancel=await fetch(url+'/cancel',{method:'POST',headers});
+        const cancel=await fetch(url+'/force-cancel',{method:'POST',headers});
         if(!cancel.ok)throw new Error('Cancel failed: '+cancel.status);
-        console.log('Outdated translator cancellation requested');
+        console.log('Outdated translator force cancellation requested');
         JS
