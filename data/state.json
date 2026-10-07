@@ -98331,8 +98331,9 @@
       "detailCheckedAt": "2026-10-03T16:33:34.680Z",
       "translationAttemptRun": "37573889568:1",
       "translationError": {
-        "at": "2026-10-03T16:33:34.984Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+        "at": "2026-10-07T05:54:50.958Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6a908cd7176081919717ffa210436393": {
@@ -98380,9 +98381,14 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:33:36.698Z",
       "translationAttemptRun": "37573889568:1",
-      "translationError": {
-        "at": "2026-10-03T16:33:37.003Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translation": {
+        "summary": "与客户数据合作",
+        "description": "将 ChatGPT 连接到您的 Amperity 客户数据平台. 查询统一的客户配置文件,调查身份分辨率,构建和激活细分,监控工作流程,并使用现有的 Amperity 权限管理活动,旅行,编排和预测模型。",
+        "sourceHash": "8eb02e2a7bcffcd230e9b9637df0efe7a206d5b19dc15fadd5d62d4ff916e62d",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:54:55.835Z",
+        "usage": null
       }
     },
     "plugin_asdk_app_697d413990c88191a2bf4799604f8f6c": {
@@ -98434,10 +98440,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:33:38.675Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:33:38.979Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "管理 Salesforce 记录",
+        "description": "用 Salesforce 和 ChatGPT 重新想象您的销售工作流程. 直接在 ChatGPT 中获得每个交易的 CRM 背景,这样重组员可以更快地研究,计划和关闭。\n\n从管道更新到账户研究,它为您提供了清晰度,速度和指导,您需要自信地完成更多交易。",
+        "sourceHash": "1b1c1789aa01b764c7e5c9fb863db4f6f8ae2c54a928d917bd6fcce4f01dd4e4",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:04.408Z",
+        "usage": {
+          "prompt_tokens": 686,
+          "completion_tokens": 696,
+          "total_tokens": 1382,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 24.382902145385742
+        }
       }
     },
     "plugin_connector_1p_e4d796f7afc48191bf6af2220a55fdd6": {
@@ -98490,10 +98509,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:33:40.634Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:33:40.947Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "管理工作区所有者或管理员的 ChatGPT 工作区。",
+        "description": "管理工作区成员、组、角色、计费、使用限制和增加请求;分析工作区和Codex使用情况. 支持基于信贷和原生美元的工作区:阅读 balance_unit,使用明确标记的美元金额输入,永不将学分转换为原生美元。",
+        "sourceHash": "809474068e89650b89f7e824deb3969f2f54c176eabca584291d38aec58c2823",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:08.207Z",
+        "usage": {
+          "prompt_tokens": 678,
+          "completion_tokens": 937,
+          "total_tokens": 1615,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 31.690326690673828
+        }
       }
     },
     "plugin_asdk_app_699caef2d680819188727b0ddbb349dd": {
@@ -98541,10 +98573,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:33:42.612Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:33:42.918Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "分析您的产品数据",
+        "description": "PostHog 讓您的 AI 代理人直接存取您的產品分析、功能旗、實驗、錯誤追蹤、調查、日志和 LLM 分析,詢問您的數據、創建洞察力、轉換功能旗、分析錯誤、搜尋文件等 — 所有從聊天中。",
+        "sourceHash": "f9597e395a79397024792f52639a2b706116afecf3c10149a7e4a4194bba19f1",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:03.901Z",
+        "usage": {
+          "prompt_tokens": 666,
+          "completion_tokens": 688,
+          "total_tokens": 1354,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 24.046613693237305
+        }
       }
     },
     "plugin_asdk_app_69b9f38bfa248191877ad584f5608b92": {
@@ -98592,10 +98637,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:33:44.648Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:33:44.952Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "访问您的 Helium 10 数据",
+        "description": "直接在 Amazon 销售商和 FBA 品牌的 ChatGPT 中访问您的 Helium 10 数据. 查询关键字和 ASIN 数据,分析 PPC 活动的性能和盈利能力,并从您的列表和排名跟踪中提取见解。\n\n让 Helium 10 成为您 ChatGPT 工作流程的原生部分,而无需在仪表板之间切换或导出文件。",
+        "sourceHash": "35db445ddc313346171ee9239571a9923330583a9d918e006736c2f03f48ec41",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:13.019Z",
+        "usage": {
+          "prompt_tokens": 702,
+          "completion_tokens": 782,
+          "total_tokens": 1484,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 27.077726364135742
+        }
       }
     },
     "plugin_asdk_app_6a3e889766b481919d6b2861e94a8afa": {
@@ -98643,10 +98701,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:33:46.695Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:33:46.999Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "构建表单,分析答案",
+        "description": "构建表单、联系人列表和自动化,而不离开ChatGPT. 使用自然语言来分析表单和调查数据,创建丰富数据的联系人配置文件,并构建自动化,将您的表单受访者变成客户。",
+        "sourceHash": "57eada1c16f387c66dcc68adad67d875f4de67e5057a92095f44571779283194",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:11.429Z",
+        "usage": {
+          "prompt_tokens": 670,
+          "completion_tokens": 598,
+          "total_tokens": 1268,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 21.3223819732666
+        }
       }
     },
     "plugin_connector_690e2dabf430819196f8b3701ec838ec": {
@@ -98694,10 +98765,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:33:48.704Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:33:49.008Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "分析您的产品数据",
+        "description": "将 Amplitude 工作区连接到搜索图表和仪表板、查询指标和实验结果,探索事件和属性,创建或更新图表,仪表板和警报,而不会离开对话。",
+        "sourceHash": "9c9b2ce96e518dc0ff439dea5ac8a953aa26fb2a0c965f2b07aed97618a24f0b",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:18.218Z",
+        "usage": {
+          "prompt_tokens": 672,
+          "completion_tokens": 504,
+          "total_tokens": 1176,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 18.467002868652344
+        }
       }
     },
     "plugin_asdk_app_69a880b0d024819182db60f36cb48420": {
@@ -98745,10 +98829,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:33:50.647Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:33:50.952Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "查找和分析区块链数据",
+        "description": "在 ChatGPT 中直接查询 90 多个 EVM 兼容的区块链网络的实时区块链数据 Blockscout 允许您立即访问钱包余额、交易历史、代币持有、NFT、智能合约源代码和合约 ABI,无需 API 密钥。\n\n用简单的英语问问题:“这个钱包持有哪些代币?”“向我展示本合同的最近交易”或“解决这个ENS名称”。",
+        "sourceHash": "b0a48b04061a094804879a3bdae978d2f71d9bf587016d3b3327505aaef6bc3b",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:18.439Z",
+        "usage": {
+          "prompt_tokens": 716,
+          "completion_tokens": 725,
+          "total_tokens": 1441,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 25.405410766601562
+        }
       }
     },
     "plugin_asdk_app_69b2e9aed45c8191b254b207dfcc2bb4": {
@@ -98801,10 +98898,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:33:52.856Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:33:53.162Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "查询和分析Mixpanel",
+        "description": "直接在 ChatGPT 中查询和分析您的 Mixpanel 数据. 运行细分、管道和保留分析,探索您的事件分类,管理 Lexicon 元数据,并解决数据质量问题 - 所有这些都不会离开您的对话。\n\n随着Mixpanel MCP服务器的连接,ChatGPT可以与您的代码,文档和决策一起推理您的产品分析,用简单的语言提出问题,研究用户行为,并获得基于您的实际数据的答案。",
+        "sourceHash": "81ecddefbfe51697403aab6444e243cf72827324b5ecbb0c44e22c946408af4a",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:19.616Z",
+        "usage": {
+          "prompt_tokens": 698,
+          "completion_tokens": 619,
+          "total_tokens": 1317,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 22.091842651367188
+        }
       }
     },
     "plugin_asdk_app_69a22803c8c481919da6f9b41bd93725": {
@@ -98852,10 +98962,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:33:54.857Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:33:55.160Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "您的品牌智能引擎",
+        "description": "Waldo 帮助用户研究品牌、广告、社交对话、趋势和捕获的工作空间智能,通过将专业技能与外部数据和身份验证的工作空间环境相结合。",
+        "sourceHash": "ab716597d89f666e3fd5c6d6ca5c8d39cf15c379c06f775cbc38c43d1ac92f17",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:26.124Z",
+        "usage": {
+          "prompt_tokens": 637,
+          "completion_tokens": 562,
+          "total_tokens": 1199,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 20.07267951965332
+        }
       }
     },
     "plugin_asdk_app_698b10719a688191b53a37692efb6d81": {
@@ -98903,10 +99026,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:33:58.963Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:33:59.268Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "SEO数据和关键字研究",
+        "description": "构建语义关键字集群,从1000多个类别中发现未开发的市场小区,并进行全面的竞争对手分析。通过他们的关键字组合,反馈配置文件,最佳表现页面和排名动态,检查竞争对手的SEO策略。跟踪跨地区的域名位置,审核网站的技术问题,识别内容差距,并通过体积和困难指标评估关键字机会。克劳德自然地导航这些功能 - 结合来自多个来源的数据,实时验证SEO假设,并通过交互式对话构建全面的策略。",
+        "sourceHash": "a82376a6deb3a43aeb3ebfab8d71a18a5eb0efda15c5f5dd4fe8fcf6fd06b645",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:27.012Z",
+        "usage": {
+          "prompt_tokens": 711,
+          "completion_tokens": 869,
+          "total_tokens": 1580,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 29.770652770996094
+        }
       }
     },
     "plugin_asdk_app_69a2327e44fc8191ace64618746edc84": {
@@ -98953,10 +99089,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:34:00.969Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:34:01.274Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "查找您的 SQL 数据库",
+        "description": "BlazeSQL 允许 ChatGPT 和 Codex 查询您的数据库或仓库,并提供所有必要的背景,以获得正确的答案。\n\n连接到 Snowflake、BigQuery、Redshift、Microsoft SQL Server、PostgreSQL、MySQL、AWS Athena、MariaDB、SQL Anywhere、Databricks、Clickhouse 和 Oracle。\n\n凭借环境管理、可观察性和综合访问控制,BlazeSQL 将 ChatGPT 或 Codex 转化为企业准备的 AI 数据分析师,可在整个公司范围内提供可靠的自助服务。\n\n作为一个全面的商业智能层,BlazeSQL还允许可视化,仪表板,高级统计分析,预测分析,计划报告和自定义PDF或交互式HTML报告。",
+        "sourceHash": "65e8a76f7cd1e7ed0d241e306d83d31e9341af8e28f3ea2b873e0113e463021d",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:31.574Z",
+        "usage": {
+          "prompt_tokens": 744,
+          "completion_tokens": 695,
+          "total_tokens": 1439,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 24.620655059814453
+        }
       }
     },
     "plugin_asdk_app_6a5937013728819186b9de76e1f68de1": {
@@ -99004,10 +99153,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:34:02.954Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:34:03.258Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "(不久就消失了!)",
+        "description": "这个基于MCP的插件将很快被淘汰,请切换使用新的Tableau插件。",
+        "sourceHash": "d38249826650a9807c89c68cf3e6cb2974d6690f4a64674d3bd38b1392862b1e",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:32.963Z",
+        "usage": {
+          "prompt_tokens": 636,
+          "completion_tokens": 590,
+          "total_tokens": 1226,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 20.921348571777344
+        }
       }
     },
     "plugin_connector_690a9430a270819196671dcb4c95898e": {
@@ -99060,10 +99222,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:34:04.933Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:34:05.236Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "问问题,做分析",
+        "description": "回答数据问题并使用 Hex Agent 创建新的分析。",
+        "sourceHash": "ab38221f5ee2336baf2c0ac262f1f609b4858aa67ee7ab554c7e52c5975eb22c",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:35.072Z",
+        "usage": {
+          "prompt_tokens": 620,
+          "completion_tokens": 747,
+          "total_tokens": 1367,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 25.631895065307617
+        }
       }
     },
     "plugin_asdk_app_6a4438da388081919a4222e44c6cd1bb": {
@@ -99111,10 +99286,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:34:06.899Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:34:07.203Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "国家法庭调查",
+        "description": "直接访问美国州审判法院系统,允许对案件,判决,法官,律师,动议,诉讼趋势等的法律研究和见解 - 所有这些都是基于和来源于审判法院数据和文件。",
+        "sourceHash": "2bb9581094e35886d1d3781cf426cd6f77b16c6db321d3de6ed84932882432f8",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:37.827Z",
+        "usage": {
+          "prompt_tokens": 653,
+          "completion_tokens": 696,
+          "total_tokens": 1349,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 24.23029136657715
+        }
       }
     },
     "plugin_asdk_app_698ccc7e538481918e43736065f8ca42": {
@@ -99162,10 +99350,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:34:08.902Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:34:09.206Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "获得无询问的答案",
+        "description": "Connect AI 与云数据仓库、关系数据库、数据湖泊、分析平台等一起工作,以便您可以通过对话探索和分析数据。 使用您的数据作为您在 ChatGPT 中所做的工作的输入,例如将产品远程测量与发布时间表相关联,以调查用户参与度。 在 Connect AI 中,您可以构建具有定义关系和语义背景的源头上的虚拟数据集,并将其表面化为有目的的工具 – 因此,ChatGPT 以您的业务理解的方式与您的数据合作,而不仅仅是存储的方式。",
+        "sourceHash": "c3659ec03dc75ebc2c2daecfde1e7907ad899f9f400f869e254bc24951c2e85a",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:43.142Z",
+        "usage": {
+          "prompt_tokens": 742,
+          "completion_tokens": 683,
+          "total_tokens": 1425,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 24.245708465576172
+        }
       }
     },
     "plugin_asdk_app_696a54f1c91c81919002b9153ce0e336": {
@@ -99213,10 +99414,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:34:10.872Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:34:11.176Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "从您的数据中获得答案",
+        "description": "将AI助理连接到您的MotherDuck数据仓库,使用自然语言探索、可视化和管理数据,无需 SQL 技能。创建Dives:交互式可视化,允许您与您的团队保存和共享答案,同时保持最新数据的最新状态。",
+        "sourceHash": "53b2ebc2a6c18de5b06dfe2f2b70a99aae8e68286f21a800647baac88b0e6ebc",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:44.226Z",
+        "usage": {
+          "prompt_tokens": 703,
+          "completion_tokens": 997,
+          "total_tokens": 1700,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 33.63442611694336
+        }
       }
     },
     "plugin_asdk_app_6a736fa1def48191af5a8f0c9cf88d4f": {
@@ -99264,10 +99478,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:34:12.858Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:34:13.162Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "体育统计,奖励,比赛",
+        "description": "StatsHawk 提供 ChatGPT 的真实、当前的体育数据,而不是从训练数据中获得的猜测。 询问任何比赛,并获得 NBA、WNBA、MLB、NFL、NHL、KBO、NCAA篮球和足球以及包括英超联盟在内的主要足球比赛的得分、日程表、排名、票房得分、列表和球员搜索,所有这些都被规范成一个一致的形状,数字在票房得分发布后几分钟内降落。\n\n超越基本:MLB球场比球场与Statcast细节(球场类型,速度,发射数据,可过滤到球场比球)和预先计算的球员支持分析,季节,最近和家 / 外的平均值与对任何线的打击率,用于幻想研究,开始 / 坐位呼叫和比赛准备。\n\n连接时使用免费的 StatsHawk 帐户登录;没有管理的 API 密钥. 免费包含每月 5,000 个使用信贷和每个标准的 stat 工具。",
+        "sourceHash": "332c5691a090a80597f13ceaf41b9c71c06865c6f3c383922d1575e0c3b2c391",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:51.340Z",
+        "usage": {
+          "prompt_tokens": 810,
+          "completion_tokens": 839,
+          "total_tokens": 1649,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 29.31424331665039
+        }
       }
     },
     "plugin_asdk_app_6a4674940e1881918a0c756045d25d63": {
@@ -99315,10 +99542,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:34:14.854Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:34:15.157Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "创建地图和GIS分析",
+        "description": "GIS云是一个云地理空间平台,由60多个国家的政府、公用事业和实地团队使用。\n\n该应用程序允许您以简单的语言与GIS云帐户合作,没有GIS专业知识或单击所需的菜单。\n\n请 ChatGPT 构建和编辑地图,创建和样式层,添加或查询功能,运行空间分析,为现场团队设计移动数据收集表单,导入数据集,并生成报告。\n\n您可以做的是: - 创建,更新和组织地图和层 - 添加,编辑和查询功能和属性数据 - 运行空间分析和计算统计数据 - 构建和管理移动数据收集表单的现场团队 - 导入文件和管理数据集 - 从您的地理空间数据生成报告\n\n您保持控制权. GIS Cloud 使用一个提出和确认模型:在任何东西被写入您的帐户之前提出更改,并明确标记破坏性行为。\n\n与您现有的 GIS 云帐户一起工作. 新进入 GIS 云? 免费在 giscloud.com 注册。",
+        "sourceHash": "2b8532d14021e4433ea38acf05f02df69f65a92dafbfb8e15db0a9eb66e24b2d",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:58.889Z",
+        "usage": {
+          "prompt_tokens": 856,
+          "completion_tokens": 854,
+          "total_tokens": 1710,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 29.984094619750977
+        }
       }
     },
     "plugin_asdk_app_6a14890167bc8191b77dea0507fb2af6": {
@@ -99365,10 +99605,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:34:16.879Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:34:17.184Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37573889568:1",
+      "translation": {
+        "summary": "访问Powerset研究数据",
+        "description": "Powerset Research (https://research.powerset.co/)是来自Powerset(https://powerset.co/)的技术日志,我们分析技术趋势,发布分析,并提供免费的工具来帮助创始人。",
+        "sourceHash": "5df0dc55a6273ac934d840c8da6bb9b871b769bc3cb88b5d21836d3e21fc9b29",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T05:55:53.510Z",
+        "usage": {
+          "prompt_tokens": 671,
+          "completion_tokens": 615,
+          "total_tokens": 1286,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 21.845077514648438
+        }
       }
     },
     "plugin_asdk_app_695cdd7e863c819192b88beffc2033b6": {
@@ -224840,30 +225093,362 @@
         },
         "neurons": 21.894882202148438
       }
+    },
+    "8eb02e2a7bcffcd230e9b9637df0efe7a206d5b19dc15fadd5d62d4ff916e62d": {
+      "summary": "与客户数据合作",
+      "description": "将 ChatGPT 连接到您的 Amperity 客户数据平台. 查询统一的客户配置文件,调查身份分辨率,构建和激活细分,监控工作流程,并使用现有的 Amperity 权限管理活动,旅行,编排和预测模型。",
+      "sourceHash": "8eb02e2a7bcffcd230e9b9637df0efe7a206d5b19dc15fadd5d62d4ff916e62d",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:54:55.835Z",
+      "usage": null
+    },
+    "f9597e395a79397024792f52639a2b706116afecf3c10149a7e4a4194bba19f1": {
+      "summary": "分析您的产品数据",
+      "description": "PostHog 讓您的 AI 代理人直接存取您的產品分析、功能旗、實驗、錯誤追蹤、調查、日志和 LLM 分析,詢問您的數據、創建洞察力、轉換功能旗、分析錯誤、搜尋文件等 — 所有從聊天中。",
+      "sourceHash": "f9597e395a79397024792f52639a2b706116afecf3c10149a7e4a4194bba19f1",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:03.901Z",
+      "usage": {
+        "prompt_tokens": 666,
+        "completion_tokens": 688,
+        "total_tokens": 1354,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 24.046613693237305
+      }
+    },
+    "1b1c1789aa01b764c7e5c9fb863db4f6f8ae2c54a928d917bd6fcce4f01dd4e4": {
+      "summary": "管理 Salesforce 记录",
+      "description": "用 Salesforce 和 ChatGPT 重新想象您的销售工作流程. 直接在 ChatGPT 中获得每个交易的 CRM 背景,这样重组员可以更快地研究,计划和关闭。\n\n从管道更新到账户研究,它为您提供了清晰度,速度和指导,您需要自信地完成更多交易。",
+      "sourceHash": "1b1c1789aa01b764c7e5c9fb863db4f6f8ae2c54a928d917bd6fcce4f01dd4e4",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:04.408Z",
+      "usage": {
+        "prompt_tokens": 686,
+        "completion_tokens": 696,
+        "total_tokens": 1382,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 24.382902145385742
+      }
+    },
+    "809474068e89650b89f7e824deb3969f2f54c176eabca584291d38aec58c2823": {
+      "summary": "管理工作区所有者或管理员的 ChatGPT 工作区。",
+      "description": "管理工作区成员、组、角色、计费、使用限制和增加请求;分析工作区和Codex使用情况. 支持基于信贷和原生美元的工作区:阅读 balance_unit,使用明确标记的美元金额输入,永不将学分转换为原生美元。",
+      "sourceHash": "809474068e89650b89f7e824deb3969f2f54c176eabca584291d38aec58c2823",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:08.207Z",
+      "usage": {
+        "prompt_tokens": 678,
+        "completion_tokens": 937,
+        "total_tokens": 1615,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 31.690326690673828
+      }
+    },
+    "57eada1c16f387c66dcc68adad67d875f4de67e5057a92095f44571779283194": {
+      "summary": "构建表单,分析答案",
+      "description": "构建表单、联系人列表和自动化,而不离开ChatGPT. 使用自然语言来分析表单和调查数据,创建丰富数据的联系人配置文件,并构建自动化,将您的表单受访者变成客户。",
+      "sourceHash": "57eada1c16f387c66dcc68adad67d875f4de67e5057a92095f44571779283194",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:11.429Z",
+      "usage": {
+        "prompt_tokens": 670,
+        "completion_tokens": 598,
+        "total_tokens": 1268,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 21.3223819732666
+      }
+    },
+    "35db445ddc313346171ee9239571a9923330583a9d918e006736c2f03f48ec41": {
+      "summary": "访问您的 Helium 10 数据",
+      "description": "直接在 Amazon 销售商和 FBA 品牌的 ChatGPT 中访问您的 Helium 10 数据. 查询关键字和 ASIN 数据,分析 PPC 活动的性能和盈利能力,并从您的列表和排名跟踪中提取见解。\n\n让 Helium 10 成为您 ChatGPT 工作流程的原生部分,而无需在仪表板之间切换或导出文件。",
+      "sourceHash": "35db445ddc313346171ee9239571a9923330583a9d918e006736c2f03f48ec41",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:13.019Z",
+      "usage": {
+        "prompt_tokens": 702,
+        "completion_tokens": 782,
+        "total_tokens": 1484,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 27.077726364135742
+      }
+    },
+    "9c9b2ce96e518dc0ff439dea5ac8a953aa26fb2a0c965f2b07aed97618a24f0b": {
+      "summary": "分析您的产品数据",
+      "description": "将 Amplitude 工作区连接到搜索图表和仪表板、查询指标和实验结果,探索事件和属性,创建或更新图表,仪表板和警报,而不会离开对话。",
+      "sourceHash": "9c9b2ce96e518dc0ff439dea5ac8a953aa26fb2a0c965f2b07aed97618a24f0b",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:18.218Z",
+      "usage": {
+        "prompt_tokens": 672,
+        "completion_tokens": 504,
+        "total_tokens": 1176,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 18.467002868652344
+      }
+    },
+    "b0a48b04061a094804879a3bdae978d2f71d9bf587016d3b3327505aaef6bc3b": {
+      "summary": "查找和分析区块链数据",
+      "description": "在 ChatGPT 中直接查询 90 多个 EVM 兼容的区块链网络的实时区块链数据 Blockscout 允许您立即访问钱包余额、交易历史、代币持有、NFT、智能合约源代码和合约 ABI,无需 API 密钥。\n\n用简单的英语问问题:“这个钱包持有哪些代币?”“向我展示本合同的最近交易”或“解决这个ENS名称”。",
+      "sourceHash": "b0a48b04061a094804879a3bdae978d2f71d9bf587016d3b3327505aaef6bc3b",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:18.439Z",
+      "usage": {
+        "prompt_tokens": 716,
+        "completion_tokens": 725,
+        "total_tokens": 1441,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 25.405410766601562
+      }
+    },
+    "81ecddefbfe51697403aab6444e243cf72827324b5ecbb0c44e22c946408af4a": {
+      "summary": "查询和分析Mixpanel",
+      "description": "直接在 ChatGPT 中查询和分析您的 Mixpanel 数据. 运行细分、管道和保留分析,探索您的事件分类,管理 Lexicon 元数据,并解决数据质量问题 - 所有这些都不会离开您的对话。\n\n随着Mixpanel MCP服务器的连接,ChatGPT可以与您的代码,文档和决策一起推理您的产品分析,用简单的语言提出问题,研究用户行为,并获得基于您的实际数据的答案。",
+      "sourceHash": "81ecddefbfe51697403aab6444e243cf72827324b5ecbb0c44e22c946408af4a",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:19.616Z",
+      "usage": {
+        "prompt_tokens": 698,
+        "completion_tokens": 619,
+        "total_tokens": 1317,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 22.091842651367188
+      }
+    },
+    "ab716597d89f666e3fd5c6d6ca5c8d39cf15c379c06f775cbc38c43d1ac92f17": {
+      "summary": "您的品牌智能引擎",
+      "description": "Waldo 帮助用户研究品牌、广告、社交对话、趋势和捕获的工作空间智能,通过将专业技能与外部数据和身份验证的工作空间环境相结合。",
+      "sourceHash": "ab716597d89f666e3fd5c6d6ca5c8d39cf15c379c06f775cbc38c43d1ac92f17",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:26.124Z",
+      "usage": {
+        "prompt_tokens": 637,
+        "completion_tokens": 562,
+        "total_tokens": 1199,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 20.07267951965332
+      }
+    },
+    "a82376a6deb3a43aeb3ebfab8d71a18a5eb0efda15c5f5dd4fe8fcf6fd06b645": {
+      "summary": "SEO数据和关键字研究",
+      "description": "构建语义关键字集群,从1000多个类别中发现未开发的市场小区,并进行全面的竞争对手分析。通过他们的关键字组合,反馈配置文件,最佳表现页面和排名动态,检查竞争对手的SEO策略。跟踪跨地区的域名位置,审核网站的技术问题,识别内容差距,并通过体积和困难指标评估关键字机会。克劳德自然地导航这些功能 - 结合来自多个来源的数据,实时验证SEO假设,并通过交互式对话构建全面的策略。",
+      "sourceHash": "a82376a6deb3a43aeb3ebfab8d71a18a5eb0efda15c5f5dd4fe8fcf6fd06b645",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:27.012Z",
+      "usage": {
+        "prompt_tokens": 711,
+        "completion_tokens": 869,
+        "total_tokens": 1580,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 29.770652770996094
+      }
+    },
+    "65e8a76f7cd1e7ed0d241e306d83d31e9341af8e28f3ea2b873e0113e463021d": {
+      "summary": "查找您的 SQL 数据库",
+      "description": "BlazeSQL 允许 ChatGPT 和 Codex 查询您的数据库或仓库,并提供所有必要的背景,以获得正确的答案。\n\n连接到 Snowflake、BigQuery、Redshift、Microsoft SQL Server、PostgreSQL、MySQL、AWS Athena、MariaDB、SQL Anywhere、Databricks、Clickhouse 和 Oracle。\n\n凭借环境管理、可观察性和综合访问控制,BlazeSQL 将 ChatGPT 或 Codex 转化为企业准备的 AI 数据分析师,可在整个公司范围内提供可靠的自助服务。\n\n作为一个全面的商业智能层,BlazeSQL还允许可视化,仪表板,高级统计分析,预测分析,计划报告和自定义PDF或交互式HTML报告。",
+      "sourceHash": "65e8a76f7cd1e7ed0d241e306d83d31e9341af8e28f3ea2b873e0113e463021d",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:31.574Z",
+      "usage": {
+        "prompt_tokens": 744,
+        "completion_tokens": 695,
+        "total_tokens": 1439,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 24.620655059814453
+      }
+    },
+    "d38249826650a9807c89c68cf3e6cb2974d6690f4a64674d3bd38b1392862b1e": {
+      "summary": "(不久就消失了!)",
+      "description": "这个基于MCP的插件将很快被淘汰,请切换使用新的Tableau插件。",
+      "sourceHash": "d38249826650a9807c89c68cf3e6cb2974d6690f4a64674d3bd38b1392862b1e",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:32.963Z",
+      "usage": {
+        "prompt_tokens": 636,
+        "completion_tokens": 590,
+        "total_tokens": 1226,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 20.921348571777344
+      }
+    },
+    "ab38221f5ee2336baf2c0ac262f1f609b4858aa67ee7ab554c7e52c5975eb22c": {
+      "summary": "问问题,做分析",
+      "description": "回答数据问题并使用 Hex Agent 创建新的分析。",
+      "sourceHash": "ab38221f5ee2336baf2c0ac262f1f609b4858aa67ee7ab554c7e52c5975eb22c",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:35.072Z",
+      "usage": {
+        "prompt_tokens": 620,
+        "completion_tokens": 747,
+        "total_tokens": 1367,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 25.631895065307617
+      }
+    },
+    "2bb9581094e35886d1d3781cf426cd6f77b16c6db321d3de6ed84932882432f8": {
+      "summary": "国家法庭调查",
+      "description": "直接访问美国州审判法院系统,允许对案件,判决,法官,律师,动议,诉讼趋势等的法律研究和见解 - 所有这些都是基于和来源于审判法院数据和文件。",
+      "sourceHash": "2bb9581094e35886d1d3781cf426cd6f77b16c6db321d3de6ed84932882432f8",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:37.827Z",
+      "usage": {
+        "prompt_tokens": 653,
+        "completion_tokens": 696,
+        "total_tokens": 1349,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 24.23029136657715
+      }
+    },
+    "c3659ec03dc75ebc2c2daecfde1e7907ad899f9f400f869e254bc24951c2e85a": {
+      "summary": "获得无询问的答案",
+      "description": "Connect AI 与云数据仓库、关系数据库、数据湖泊、分析平台等一起工作,以便您可以通过对话探索和分析数据。 使用您的数据作为您在 ChatGPT 中所做的工作的输入,例如将产品远程测量与发布时间表相关联,以调查用户参与度。 在 Connect AI 中,您可以构建具有定义关系和语义背景的源头上的虚拟数据集,并将其表面化为有目的的工具 – 因此,ChatGPT 以您的业务理解的方式与您的数据合作,而不仅仅是存储的方式。",
+      "sourceHash": "c3659ec03dc75ebc2c2daecfde1e7907ad899f9f400f869e254bc24951c2e85a",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:43.142Z",
+      "usage": {
+        "prompt_tokens": 742,
+        "completion_tokens": 683,
+        "total_tokens": 1425,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 24.245708465576172
+      }
+    },
+    "53b2ebc2a6c18de5b06dfe2f2b70a99aae8e68286f21a800647baac88b0e6ebc": {
+      "summary": "从您的数据中获得答案",
+      "description": "将AI助理连接到您的MotherDuck数据仓库,使用自然语言探索、可视化和管理数据,无需 SQL 技能。创建Dives:交互式可视化,允许您与您的团队保存和共享答案,同时保持最新数据的最新状态。",
+      "sourceHash": "53b2ebc2a6c18de5b06dfe2f2b70a99aae8e68286f21a800647baac88b0e6ebc",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:44.226Z",
+      "usage": {
+        "prompt_tokens": 703,
+        "completion_tokens": 997,
+        "total_tokens": 1700,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 33.63442611694336
+      }
+    },
+    "332c5691a090a80597f13ceaf41b9c71c06865c6f3c383922d1575e0c3b2c391": {
+      "summary": "体育统计,奖励,比赛",
+      "description": "StatsHawk 提供 ChatGPT 的真实、当前的体育数据,而不是从训练数据中获得的猜测。 询问任何比赛,并获得 NBA、WNBA、MLB、NFL、NHL、KBO、NCAA篮球和足球以及包括英超联盟在内的主要足球比赛的得分、日程表、排名、票房得分、列表和球员搜索,所有这些都被规范成一个一致的形状,数字在票房得分发布后几分钟内降落。\n\n超越基本:MLB球场比球场与Statcast细节(球场类型,速度,发射数据,可过滤到球场比球)和预先计算的球员支持分析,季节,最近和家 / 外的平均值与对任何线的打击率,用于幻想研究,开始 / 坐位呼叫和比赛准备。\n\n连接时使用免费的 StatsHawk 帐户登录;没有管理的 API 密钥. 免费包含每月 5,000 个使用信贷和每个标准的 stat 工具。",
+      "sourceHash": "332c5691a090a80597f13ceaf41b9c71c06865c6f3c383922d1575e0c3b2c391",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:51.340Z",
+      "usage": {
+        "prompt_tokens": 810,
+        "completion_tokens": 839,
+        "total_tokens": 1649,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 29.31424331665039
+      }
+    },
+    "5df0dc55a6273ac934d840c8da6bb9b871b769bc3cb88b5d21836d3e21fc9b29": {
+      "summary": "访问Powerset研究数据",
+      "description": "Powerset Research (https://research.powerset.co/)是来自Powerset(https://powerset.co/)的技术日志,我们分析技术趋势,发布分析,并提供免费的工具来帮助创始人。",
+      "sourceHash": "5df0dc55a6273ac934d840c8da6bb9b871b769bc3cb88b5d21836d3e21fc9b29",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:53.510Z",
+      "usage": {
+        "prompt_tokens": 671,
+        "completion_tokens": 615,
+        "total_tokens": 1286,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 21.845077514648438
+      }
+    },
+    "2b8532d14021e4433ea38acf05f02df69f65a92dafbfb8e15db0a9eb66e24b2d": {
+      "summary": "创建地图和GIS分析",
+      "description": "GIS云是一个云地理空间平台,由60多个国家的政府、公用事业和实地团队使用。\n\n该应用程序允许您以简单的语言与GIS云帐户合作,没有GIS专业知识或单击所需的菜单。\n\n请 ChatGPT 构建和编辑地图,创建和样式层,添加或查询功能,运行空间分析,为现场团队设计移动数据收集表单,导入数据集,并生成报告。\n\n您可以做的是: - 创建,更新和组织地图和层 - 添加,编辑和查询功能和属性数据 - 运行空间分析和计算统计数据 - 构建和管理移动数据收集表单的现场团队 - 导入文件和管理数据集 - 从您的地理空间数据生成报告\n\n您保持控制权. GIS Cloud 使用一个提出和确认模型:在任何东西被写入您的帐户之前提出更改,并明确标记破坏性行为。\n\n与您现有的 GIS 云帐户一起工作. 新进入 GIS 云? 免费在 giscloud.com 注册。",
+      "sourceHash": "2b8532d14021e4433ea38acf05f02df69f65a92dafbfb8e15db0a9eb66e24b2d",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T05:55:58.889Z",
+      "usage": {
+        "prompt_tokens": 856,
+        "completion_tokens": 854,
+        "total_tokens": 1710,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 29.984094619750977
+      }
     }
   },
   "lastRun": {
     "runId": "37573889568",
     "runAttempt": "1",
     "startedAt": "2026-10-07T05:00:54.717Z",
-    "updatedAt": "2026-10-07T05:54:50.635Z",
+    "updatedAt": "2026-10-07T05:55:59.012Z",
     "mode": "translate",
     "detailRequests": 0,
-    "translationRequests": 1672,
-    "translationAttempts": 231,
+    "translationRequests": 1746,
+    "translationAttempts": 250,
     "translationLimit": 250,
     "aiConfigured": true,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 127,
+    "errors": 128,
     "stats": {
       "total": 3969,
       "details": 3969,
-      "translated": 724,
+      "translated": 744,
       "missing": 15,
       "removed": 28,
       "pendingDetails": 0,
-      "pendingTranslations": 3245
+      "pendingTranslations": 3225
     }
   }
 }
