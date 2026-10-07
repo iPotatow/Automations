@@ -1,0 +1,1059 @@
+{
+  "version": 2,
+  "createdAt": "2026-10-07T11:01:24.846Z",
+  "models": [
+    "@cf/qwen/qwen3-30b-a3b-fp8",
+    "@cf/mistralai/mistral-small-3.1-24b-instruct",
+    "@cf/google/gemma-4-26b-a4b-it"
+  ],
+  "samples": [
+    {
+      "id": "plugin_connector_68df33b1a2d081918778431a9cfca8ba",
+      "name": "Canva",
+      "categories": [
+        "featured",
+        "new-and-noteworthy",
+        "small-business",
+        "creativity"
+      ],
+      "sourceHash": "c928524887e3af954fbc83c155aff6f30e0bed231061f7b3d170c36ac442849e",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Create, review, edit designs",
+          "paragraph": -1
+        },
+        {
+          "id": "p4.0",
+          "text": "@Canva, create a pitch deck from this outline.\n@Canva, make an Instagram post announcing our Friday sale.\n@Canva, generate an illustration of a lighthouse at dawn.\n@Canva, remove the background from this photo.\n@Canva, upload this PDF and turn it into a presentation.\n@Canva, resize this design for social media.\n@Canva, create designs from this spreadsheet using my brand template.\n@Canva, update the headline in this design.\n@Canva, implement the feedback in the comment threads.\n@Canva, check this design against my Brand Kit.\nRequirements: Connect your Canva account to use the plugin.\nBulk Create requires an eligible Canva Enterprise plan.\nDesign and image generation use Canva AI credits.",
+          "paragraph": 4
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e",
+      "name": "Notion",
+      "categories": [
+        "featured",
+        "productivity"
+      ],
+      "sourceHash": "78039a037be8c5b7816c7b7ae752c5afdee33436f9219a96f9ef4eea747d4b55",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Create docs, tasks, databases",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Search and reference your Notion pages",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698",
+      "name": "Shopify",
+      "categories": [
+        "featured",
+        "new-and-noteworthy",
+        "small-business",
+        "business-and-operations"
+      ],
+      "sourceHash": "4ebb270b42510071f82a53940eb85188a320185c8481717c113a1e7bdbfddaa7",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Create and manage your store",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Shopify for ChatGPT makes starting, running, and growing an online store as easy as having a conversation.\nTurn a small business idea into an ecommerce website with Shopify’s AI store builder: describe what you sell, create your store, add products, and sell online.\nAlready have a Shopify store?\nConnect it to manage inventory across locations, create discount codes, review orders and customer details, and pull analytics on your store’s performance.\nShopify supports selling online, in person, B2B, on marketplaces, and selling internationally.\nWhether you run a print on demand business, sell digital products, operate an online boutique, dropship, or serve wholesale buyers, Shopify gives you the foundation to build, sell, and grow.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14",
+      "name": "HubSpot",
+      "categories": [
+        "featured",
+        "small-business",
+        "business-and-operations"
+      ],
+      "sourceHash": "73f03dddbd989591bcee60da64d84def298a32cb1785a17318c9f78e02c0b807",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Insights to action in HubSpot",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Work with your HubSpot data to analyze patterns, create and update records, and manage your CRM operations.\nRead from and write to deals, contacts, companies, tickets, engagements, and other objects you have permission to access.\nPrepare reports, update deal stages, log calls and emails, create tasks, or review pipeline details before meetings.\nUse it for quick updates in chat or comprehensive CRM management, all grounded in your actual HubSpot data.\nLearn more: https://knowledge.hubspot.com/integrations/connect-your-hubspot-account-to-chatgpt",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_694a52cfaa3c819192bea84eaa254968",
+      "name": "Windsor.ai",
+      "categories": [
+        "featured",
+        "business-and-operations"
+      ],
+      "sourceHash": "10f59c8964e419f48c6eebcfe5035bc15dc75464a4a3135a5b4fa315dfd3e36c",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Connect 350+ data sources",
+          "paragraph": -1
+        },
+        {
+          "id": "p1.0",
+          "text": "It pulls performance data from any connected source, and on supported ad and marketing platforms it can make changes directly, such as pausing or enabling a campaign, setting a budget, creating a Google Business Profile post, or replying to a review, always after you confirm.",
+          "paragraph": 1
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_69bc11db874881918718abaca20b68ce",
+      "name": "Interactive Brokers (IBKR)",
+      "categories": [
+        "featured",
+        "finance"
+      ],
+      "sourceHash": "e07ba877adb10da709f8ac0aa31bbb4aa779f0d1f624e6ca8325243f0b0f98f5",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Analyze global markets",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Connect your Interactive Brokers account to ChatGPT and manage your portfolio through natural language.\nAsk about positions, balances, P&L, allocations, and open orders, or request real-time quotes and historical market data.\nYou can also prompt ChatGPT to draft trade instructions — for example, \"Buy 100 shares of AAPL at a limit of $200\" — which are sent to your IBKR account for your review and approval.\nChatGPT never submits orders directly to the market.\nAny trading symbols displayed or discussed are for illustrative purposes only and are not intended to portray recommendations.\nMember SIPC.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d",
+      "name": "Outlook Calendar",
+      "categories": [
+        "featured",
+        "productivity"
+      ],
+      "sourceHash": "e09037e300e86ba67df334f79cf952f83ad9b8d29e33735381ed3a5410f466a7",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Manage Outlook schedules",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Microsoft Outlook calendar for scheduling work: check availability, plan meetings, create events, manage invites.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_69d3e5ee6a708191baa733f7b8931995",
+      "name": "Supabase",
+      "categories": [
+        "featured",
+        "developer-tools"
+      ],
+      "sourceHash": "d5c3478d90d13fc10c232fbf1986085faacce58735986eb25c970aafb3fde585",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Manage and query databases",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Manage Supabase projects directly through ChatGPT.\nExecute SQL queries on PostgreSQL databases, design and modify table schemas, deploy serverless edge functions, and configure user authentication.\nAccess real-time logs for debugging, create and apply database migrations, and manage development branches through natural language.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_693a0a79ffe48191901173077edcf914",
+      "name": "Lovable",
+      "categories": [
+        "featured",
+        "developer-tools"
+      ],
+      "sourceHash": "c1b44a5aa9e36d3dcae2ee990f87432b76a22397d2dd43007f1aadae95323d8f",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Build full-stack apps by chat",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Lovable builds and edits full-stack web apps from natural language.\nDescribe an app and Lovable creates a project, writes the TypeScript, Tailwind, and shadcn/ui code, and returns a live preview you can watch build.\nFollow-up messages refine the app, and you can inspect the generated code and diffs, add a PostgreSQL database and third-party connectors, manage reusable project knowledge and skills, and publish the finished app to a public URL.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a8061659144819197910ef2762afbc0",
+      "name": "Gateway",
+      "categories": [
+        "developer-tools"
+      ],
+      "sourceHash": "c2bbe45428997bf0d7fc3a672514f006a80c068fcfc38078b51c5de3b17ba8f6",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Manage servers through SSH",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Gateway lets users manage owned Linux and Windows OpenSSH servers from ChatGPT: inspect health and configuration, run auditable commands and typed administrative operations, transfer files, and follow durable jobs.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a48a3d89f7c81918b5810d628260b10",
+      "name": "Grow My Website",
+      "categories": [
+        "developer-tools"
+      ],
+      "sourceHash": "81c8f386d970c2f60cd30b4a7e66d4cf061822cdf0ae932bb3e4e908e78f60b4",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Free website scans and growth",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Scan any public web page for 11 SEO fundamentals with a plain-language 'why it matters' and example fix for each issue, get a 10-step website growth framework, or look up how to fix a specific SEO issue",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a8f6c526c5481918eb8a48806fa112b",
+      "name": "Lumen UI",
+      "categories": [
+        "developer-tools"
+      ],
+      "sourceHash": "2ddbee1f8e2fe5ef2fa140edd1aa25aaa64e9e68a7fca5fb38d7e90c7e8ee723",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Build interfaces with Lumen",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Lumen UI helps coding agents build accessible interfaces from a real multi-framework design-system contract.\nSearch the component catalog, retrieve framework-specific usage and source, inspect web and native recipes, read semantic tokens, and follow the bundled Lumen workflow for Astro, React, Web Components, React Native, SwiftUI, and Jetpack Compose.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab",
+      "name": "AT&T",
+      "categories": [
+        "communication"
+      ],
+      "sourceHash": "0900a3bda3b08bc188b553d1ee2b1f0499499227eb6d65e67c05217d1cb554ea",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Shop Internet & Wireless",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "AT&T Products provides an integrated conversational experience that enables users to verify home internet availability, evaluate internet and wireless offerings, explore devices and service plans, locate AT&T stores, manage shopping carts, and transition seamlessly to AT&T checkout.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc",
+      "name": "EasyReply",
+      "categories": [
+        "communication"
+      ],
+      "sourceHash": "435abf72547171e38cc49c7230db79bffaa22d8a37d3c5c2c54109fd2cfa3df2",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Customer Support Platform",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "EasyReply is a customer support platform",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39",
+      "name": "Mailbox MCP",
+      "categories": [
+        "communication"
+      ],
+      "sourceHash": "e21ac9fe54cc2d1fd39a1811612cc8141b5c9d5dabe4dc75b2f6d0fade6a74ca",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Read, send and file your email",
+          "paragraph": -1
+        },
+        {
+          "id": "p3.0",
+          "text": "Your address book comes with the mailbox: Outlook contacts on Microsoft 365, or a CardDAV book on any host that offers one.\nIt can find a person, read their card with the postal address and postcode, add and correct contacts, and import a contacts file.\nMailboxes on Microsoft 365, and any host offering CalDAV, get calendar tools on the same connection: read and search the diary, create and update events, check who is free, find a meeting time, send and answer invitations, and set an out of office reply.\nWhich tools appear is measured against your servers when you connect, so you are never offered one they could not honour.",
+          "paragraph": 3
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6985e5ad62908191ad013449cab57d02",
+      "name": "A-Z Links",
+      "categories": [
+        "productivity"
+      ],
+      "sourceHash": "3c4769096cef69cd794c26763581b33bd7db9c48595ab59d342536b913d0cb6d",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Easy accessible links in chat",
+          "paragraph": -1
+        },
+        {
+          "id": "p3.0",
+          "text": "- \"Show me all the links from this chat\"\n- \"Give me 10 links to help me plan a trip to San Francisco\"\n- \"Amazon links for the top 5 sci-fi books of all time\"",
+          "paragraph": 3
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_698cc70ed4048191af62942353547f57",
+      "name": "NoClick",
+      "categories": [
+        "productivity"
+      ],
+      "sourceHash": "06db067093fe63b116f5e9de78c34acc50e14bcd2bac89964dcff59d278738dc",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Build and run AI workflows",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Build, test, and deploy automated workflows.\nNoClick makes automation accessible — connect your favorite tools, add logic and AI steps, and let your workflows save your time.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a52268982b081919d26887c12f67a2c",
+      "name": "Support Ticket Validator",
+      "categories": [
+        "productivity"
+      ],
+      "sourceHash": "54e0138b6b5502bb08f6410d4694996343643aef550a95b30c38a151d92a729b",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Check support ticket fields",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Support Ticket Validator checks whether support ticket data contains the required fields before human processing or handoff.\nIt returns a structured completeness result with checked fields, present fields, missing fields, and validation errors, helping support teams identify incomplete ticket information without modifying external systems.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6",
+      "name": "AWS Data Analytics",
+      "categories": [
+        "new-and-noteworthy",
+        "data-and-analytics"
+      ],
+      "sourceHash": "e1be345ad84d57e2d7b11d2eacfa4b9e9c644d29ef123eb334174baccca42535",
+      "units": [
+        {
+          "id": "summary",
+          "text": "AWS Data Analytics Plugin",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Data lake, analytics, and ETL workflows with S3 Tables, AWS Glue, and Athena.\nCovers managed Iceberg tables on S3 Tables, ingestion from JDBC databases, Amazon Redshift, Snowflake, BigQuery, and DynamoDB, AWS Glue Data Catalog inventory and asset discovery, federated Athena queries, and vector storage and semantic search on Amazon S3 Vectors.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc",
+      "name": "Wix",
+      "categories": [
+        "small-business",
+        "business-and-operations"
+      ],
+      "sourceHash": "eb730c2a7ce5ef060608a08b0c859acb53d314fd9465f5579e8923a718ef3683",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Create your own website",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Build your entire site and buy a domain right from the chat.\nJust ask Wix for the website you want, including all the functionality you need, and get a complete, business-ready site generated for you in minutes.\nYou can also connect the perfect custom domain to your site and manage everything seamlessly in one place.\nIf you like, you can continue editing it inside the Wix Harmony editor using tons more AI tools and smooth drag and drop.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204",
+      "name": "Docusign",
+      "categories": [
+        "small-business",
+        "productivity"
+      ],
+      "sourceHash": "eabb2176d141fa0b40546866e90ec86e98ee8db47331ccaa28e4b58bd3527b38",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Manage contracts from ChatGPT",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Simplify contract management with intelligent automation powered by Docusign.\nGo beyond simple execution to make complex agreement workflows effortless.\nUse natural language to create and send a contract, instantly surface insights like renewal dates and key obligations, and automate workflows that keep your business moving faster and with less friction.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a7c329c161c8191a8df623446a34000",
+      "name": "HoneyBook",
+      "categories": [
+        "small-business",
+        "business-and-operations"
+      ],
+      "sourceHash": "a224b354a4f119689c90e2b845bf3518397ee55f470b5d9602c16289a3d08544",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Book clients, get paid",
+          "paragraph": -1
+        },
+        {
+          "id": "p3.0",
+          "text": "Built for photographers, event planners, venues, designers and consultants.\nRequires a HoneyBook account.",
+          "paragraph": 3
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96",
+      "name": "Montage",
+      "categories": [
+        "creativity"
+      ],
+      "sourceHash": "be37ae3af8107af68498222d47e88ee4af99f71954a46f7cbcbc8599d9e51296",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Import videos and cut clips",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Give Montage a URL or a Google Drive link and it pulls the video in and watches the import until it's done.\nFrom there, ask for a moment.\nIt cuts the clip and replies with an editor link, so you can trim it or fix the styling before you post it anywhere.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a7201527fa48191af83141ef896370a",
+      "name": "Air",
+      "categories": [
+        "creativity"
+      ],
+      "sourceHash": "4345c858ac572d1fbdd1934067e161a6c4575e0f575f7f351d01aed03ecc8e30",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Your agent for creative tasks",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Air understands your brand, organizes your library, and scales creative while keeping humans involved where they matter most.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92",
+      "name": "Flatma",
+      "categories": [
+        "creativity"
+      ],
+      "sourceHash": "bf22d04c70774dc5cafab02430b5463bb6700672b77a2bed785a4a43c1f08ff6",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Create 3D Cabinets & Furniture",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Create custom cabinets and furniture from a text prompt.\nFlatma generates an editable 3D model with real dimensions and panel thicknesses, so you can adjust sizes, shelves, drawers, materials, and other details.\nDesign wardrobes, kitchen cabinets, desks, tables, shelves, and more.\nOpen your project on flatma.com for detailed drawings and cut lists.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95",
+      "name": "Ashby",
+      "categories": [
+        "business-and-operations"
+      ],
+      "sourceHash": "c068365dac7adf00034f9345ec137120cc64d90eb02b89541d41fffff671db3f",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Analyze and act on hiring data",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Ashby in ChatGPT gives you instant access to your pipeline, candidate profiles, open jobs, interviews, and transcripts.\nAsk questions, uncover hiring trends, and take action by adding notes, moving stages, or sending emails directly from the chat.\nAshby connects ChatGPT to your live recruiting data through secure user-level OAuth.\nEvery request and action respects your existing permissions and your data stays protected.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173",
+      "name": "Nexoya",
+      "categories": [
+        "business-and-operations"
+      ],
+      "sourceHash": "58ae8e712215e1f4fbe52ddbb2cfc6e69dda45a38fedf479878591e0566da3aa",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Marketing analytics",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Nexoya connects ChatGPT to a Nexoya workspace so marketers can ask natural-language questions about marketing portfolios, campaign or adset contents, funnel steps, labels, events, performance metrics, daily trends, regression-based attribution, and budget optimization recommendations.\nThe app helps users summarize marketing performance, compare periods and channels, inspect ROI and ROAS, reason about trends, and explain the latest optimization proposal without leaving ChatGPT.\nAccess is scoped to the signed-in user's Nexoya account and team permissions.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1",
+      "name": "Company Dossier",
+      "categories": [
+        "business-and-operations"
+      ],
+      "sourceHash": "0fe7410712b6c9f3c4510034111245ec9e784b4061ee78e4d9a62f4393618d87",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Sourced company dossiers",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Company Dossier compiles a complete, source-attributed intelligence file on any company or domain — entirely from public data.\nOne request returns nine sections: overview & identity, people & org chart, hiring radar, money trail, locations, tech fingerprint, news & timeline, relationship web, and risk flags.\nEvery claim is tied to a public source and tagged High/Medium/Low confidence.\nBuilt for due diligence, vendor vetting, sales prep, and competitive research.\nNo accounts, no private data — public sources only.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a96846e8814819189ddb980b090aa20",
+      "name": "Finom",
+      "categories": [
+        "finance"
+      ],
+      "sourceHash": "5e24c8b34a12a8df6335f16c452ac78f669898934b95d5bacb232faf9787c6c1",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Business Banking & Invoicing",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Finom is a business finance platform for SMEs and freelancers across Europe, combining a business account, invoicing, expense management, and accounting in one place.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_696e4b35d354819199e87f105ca545a5",
+      "name": "Simply Business",
+      "categories": [
+        "finance"
+      ],
+      "sourceHash": "0cdc7a402bc90df2becedc5b3129491b11cd3f7ceb74fff19ee869778872c970",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Find small business insurance",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Get a price estimate for your business insurance.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb",
+      "name": "CoinMarketCap",
+      "categories": [
+        "finance"
+      ],
+      "sourceHash": "e8c8b8d79fec3cf403fcfb17b152ab79fb18d43e3d4bd07ab8185764da76aacb",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Real-time crypto market data",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Real-time prices, market cap, and volume for millions of crypto assets tracked by CoinMarketCap, from major cryptocurrencies to long-tail DEX tokens across every major chain.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1",
+      "name": "Sangria",
+      "categories": [
+        "other"
+      ],
+      "sourceHash": "7f6a5da6ea46739a7f83ea5ec0223f700b897a18676375e460a4b949f08c7e6e",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Buy products online",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Sangria helps users quote supported physical products, review price-locked matches, purchase approved products with an existing Sangria USD credit balance, and check order status.\nProfile setup, payment methods, and credit top-ups happen on Sangria's dashboard outside ChatGPT.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a60a513907881919ca0e120f0963692",
+      "name": "CineOS",
+      "categories": [
+        "other"
+      ],
+      "sourceHash": "6e3b2cca54ba6737ec678335a1b2149dab17a57ec577e23718b87fee86dac58a",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Find what's on at UK cinemas",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "AI-native film and cinema discovery for the UK with verified showtimes and direct booking links.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273",
+      "name": "Zinde AI Free Calorie Tracker",
+      "categories": [
+        "other"
+      ],
+      "sourceHash": "45063fd96082f1186c568fa61b8a9e9064ce736dcab5c6932a4cecf9c7e21c4e",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Track meals, water, exercise",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Zinde connects ChatGPT with your Zinde account so you can review daily nutrition, water, steps, exercise, and goal progress in one place.\nAsk for a daily or weekly summary, get meal suggestions based on your remaining targets, update your goals, and log meals, water, or exercise after reviewing a preview.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a97be305050819192a4130e3e3acedc",
+      "name": "Joti",
+      "categories": [
+        "healthcare"
+      ],
+      "sourceHash": "8db05ae625887b95790497c54bf498f2c8560ecc67d32a07f6c435eae145fba1",
+      "units": [
+        {
+          "id": "summary",
+          "text": "AI workout planning & tracking",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Joti is a workout tracking app for planning, scheduling, and logging strength, bodyweight, flexibility, and cardio training.\nThis connector lets ChatGPT read a user's own workouts, completed workout history, aggregated stats (volume, consistency, personal bests, top lifts), and the shared exercise library (roughly 800 exercises plus the user's own custom ones), and to schedule workouts onto the user's calendar.\nWrites are additive only: create a brand-new workout, duplicate an existing one, and fully manage scheduled-workout calendar entries.\nIt cannot edit or delete an existing workout's exercises/sets, and cannot start, log, or alter a session — those stay in the Joti app.\nBody measurements and progress photos are out of scope entirely.\nReads are scoped to data the user owns outright; every write is undoable in Joti's Activity feed.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc",
+      "name": "FitAI Pro",
+      "categories": [
+        "healthcare"
+      ],
+      "sourceHash": "641da1f14240c4ca34cc3cbcaf8e12a4e6fe23bc12269860eaffd138fc07e2bb",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Build workouts and log sets",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "FitAI Pro is a workout management app built to help users plan and track gym sessions more efficiently.\nIt includes a database of over 5,000 exercises with form notes and set/rep guidance, along with tools for logging weights, reps, and sets during workouts.\nUsers can generate workout plans based on available equipment and monitor their training progress over time.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0",
+      "name": "Breethe Meditations Made 4 You",
+      "categories": [
+        "healthcare"
+      ],
+      "sourceHash": "6ac5999af4fcb23a0e1dfa48e352a9120ee7f3844bc74e244f74a9e6f247780a",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Personalized meditations, now!",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Breethe Meditations Made 4 You: Personalized Guided Meditation",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef",
+      "name": "Inner Sanctum SAGE",
+      "categories": [
+        "data-and-analytics"
+      ],
+      "sourceHash": "6b4469fd1855f63196a67667064163a098cdd82b1d9f6d4849a1c04aa2c5d781",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Fantasy football decisions",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "SAGE helps fantasy football players make weekly and draft decisions using Inner Sanctum rankings and analysis.\nCompare players for start/sit and flex decisions, view weekly positional rankings, get lineup recommendations for a linked league, evaluate individual players, and get draft outlooks based on scoring format and roster context.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996",
+      "name": "Trace",
+      "categories": [
+        "data-and-analytics"
+      ],
+      "sourceHash": "16d3847e7fd78e2f6ce6c45b3b14c02c1c96de35f25815dd3dfa4298b1631037",
+      "units": [
+        {
+          "id": "summary",
+          "text": "AI native technographics",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Trace gives agents structured data on what technologies companies use, who they partner with, and who they're hiring.\nAsk about any company's tech stack, integration ecosystem, or recent hiring signals, and Trace returns structured answers.\nCreate lists to monitor changes over time.\nUseful for account research, market analysis, competitive insights, or spotting when a company adopts a new tool or partner.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_connector_690a9430a270819196671dcb4c95898e",
+      "name": "Hex",
+      "categories": [
+        "data-and-analytics"
+      ],
+      "sourceHash": "ce9321ea888b2edf540fa482f4662e1d0df67b87a55e67bd28deff910ca4fbb5",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Ask questions, run analyses",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Answer data questions and spin up new analyses with the Hex Agent.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a",
+      "name": "MediPrep Study Navigator",
+      "categories": [
+        "education-and-research"
+      ],
+      "sourceHash": "27196b9cf61f8887cf850869660c64ccd782388fb9e864623210db706b412e1a",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Map lectures to study routes",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "MediPrep Study Navigator helps medical students turn lectures and study topics into reviewed, source-safe learning routes.\nChatGPT analyzes learner-provided files and sends MediPrep only short medical concept phrases; MediPrep returns coordinated video metadata, rights-approved shared UWorld question IDs when available, public references, and human-published MediPrep practice.\nMediPrep does not receive uploaded files or proprietary question bodies.\nThird-party product names are used descriptively; MediPrep is not affiliated with or endorsed by their owners.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70",
+      "name": "Descrybe Legal Engine",
+      "categories": [
+        "education-and-research"
+      ],
+      "sourceHash": "292d0b8764ad127a0f05a0d71278021dc7c6bffca8ef3aca9f26b0cfba86f2d8",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Primary law research toolkit",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Descrybe Legal Engine brings U.S. primary-law research tools into ChatGPT.\nUse it to search legal authority, resolve citations, retrieve case details and source passages, check case treatment and citing authorities, and verify quoted legal language.\nIt helps legal professionals and serious legal researchers move from a question to primary legal sources they can read and verify.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4",
+      "name": "HadithDB",
+      "categories": [
+        "education-and-research"
+      ],
+      "sourceHash": "1e67d10a23b96318f29bb43a9b7b6942aafa1f510453ad1ab6b9a186fa7efb83",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Search Quran, tafsir, hadith",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Search and retrieve Quran ayahs, tafsir commentary, hadith search results, and detailed hadith records with Arabic and English text, source headings, grades, and canonical links.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699",
+      "name": "PartnerProf - Quanntum Core",
+      "categories": [
+        "scientific-research"
+      ],
+      "sourceHash": "8ff851a6b62538010da2fba6e5bc033bd261d1657d1090a8d7e4b237540066ff",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Assess state feasibility",
+          "paragraph": -1
+        },
+        {
+          "id": "p4.0",
+          "text": "When facing a major and costly decision—or planning an experiment, test system, detector, prototype, or complex technical configuration—PartnerProf allows you to verify first whether the intended state is actually feasible within the defined reality before investing in its realization.",
+          "paragraph": 4
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a88631af75081918917d89fb00269ad",
+      "name": "Rowan",
+      "categories": [
+        "scientific-research"
+      ],
+      "sourceHash": "7780b60589e3185413d4a885b61e7e5d28fbc94a8e9ed8cf582db42ff9e69812",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Chemistry & Biology Simulation",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Use Rowan in ChatGPT to run and manage computational chemistry and structural biology workflows.\nPredict molecular properties, search conformers and reaction paths, and calculate energies, structures, spectra, and electronic properties with quantum chemistry.\nPrepare proteins and run structure prediction, docking, molecular dynamics, and binding affinity workflows.\nCalculations are saved to Rowan and available in the web app,  while existing Rowan work can be viewed and managed from ChatGPT.\nTrack jobs, inspect results, and download supported files.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba",
+      "name": "PeptidePrices COA Verifier",
+      "categories": [
+        "scientific-research"
+      ],
+      "sourceHash": "cefc03fa3b55045e047536a5d291f0ab60252687f2da33311e0dbb1ee73e7975",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Verify peptide COA evidence",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Search and inspect public peptide certificates of analysis using the PeptidePrices evidence library and supported laboratory records.\nLook up exact report identifiers or public certificate URLs, review vendor and compound matches, inspect reported testing panels, browse a vendor’s published certificate feed, or compare documented COA coverage across vendors.\nResults keep laboratory-record confirmation, vendor attribution, product and labeled-strength matching, reported analytical results, and physical-vial chain of custody separate.\nMissing, blocked, unsupported, or unresolved records remain unknown rather than being treated as failures.\nEach result includes structured evidence and links to PeptidePrices, certificate documents, and specific official laboratory records when available.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a54f7589a18819194670b479e14137c",
+      "name": "Above Security",
+      "categories": [
+        "security"
+      ],
+      "sourceHash": "5ae22c6684047c2d1887e91b7b05de8775f1b175c15ffd9a0fd1b0d2a1dfb6c6",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Investigate insider threats",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Above brings your identity-security data into ChatGPT.\nAsk in plain language to list open incidents and high-risk identities; inspect incident timelines, evidence, and insights; look up devices, monitored applications, and audit logs; and run investigative searches across your tenant.\nYou can also triage from chat — set incident status, verdict, and resolution notes, or add an identity to the watch list.\nAccess requires an Above Security account and is scoped to your role and company; read and write are governed by explicit OAuth consent.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446",
+      "name": "Bitdefender",
+      "categories": [
+        "security"
+      ],
+      "sourceHash": "7631c29998992dde97fa842fe1de2c2be7df3a719748f6576aaea9de578b999e",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Free digital security tools",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Bitdefender Plugin has a collection of free tools which help users avoid malware, phishing attempts, and counterfeit websites which includes: \n- Link Checker \n- Phone Number \n- Password Generator\n- Digital Footprint Checker\n- Product Recommendations",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9",
+      "name": "Safeguard",
+      "categories": [
+        "security"
+      ],
+      "sourceHash": "7f7a8e3eb9201de766fa456627024ce3033e1adbb6e72ee9ac3b306d5beca8ee",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Secure software supply chain",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "Safeguard helps users inspect software supply chain risk from ChatGPT, including vulnerabilities, SBOMs, findings, projects, components, policies, guardrails, compliance reports, remediation plans, SCM integrations, notifications, and organization workflows.",
+          "paragraph": 0
+        }
+      ]
+    },
+    {
+      "id": "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c",
+      "name": "TiCATi",
+      "categories": [
+        "travel"
+      ],
+      "sourceHash": "118c9352c51ae8a10a2680787a4c9f32d0076d01fd1eff75669aae91d86560f9",
+      "units": [
+        {
+          "id": "summary",
+          "text": "Book hotels & cruises",
+          "paragraph": -1
+        },
+        {
+          "id": "p0.0",
+          "text": "TiCATi is a curated luxury travel platform with direct hotel contracts and exclusive guest benefits.\nSearch thousands of hotels worldwide, get live room availability and pricing instantly in your currency, and explore curated cruise voyages with exclusive onboard credits and VIP amenities.\nAsk for a hotel by name and TiCATi returns live rates immediately, no sign-in required.\nA personal concierge is available via WhatsApp for bookings, upgrades, and special requests.",
+          "paragraph": 0
+        }
+      ]
+    }
+  ],
+  "results": {},
+  "complete": false,
+  "updatedAt": "2026-10-07T11:01:25.205Z",
+  "pauseReason": "limit",
+  "summary": [
+    {
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "requested": 50,
+      "completed": 0,
+      "checksPassed": 0,
+      "errors": 0,
+      "reportedNeurons": 0
+    },
+    {
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "requested": 50,
+      "completed": 0,
+      "checksPassed": 0,
+      "errors": 0,
+      "reportedNeurons": 0
+    },
+    {
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "requested": 50,
+      "completed": 0,
+      "checksPassed": 0,
+      "errors": 0,
+      "reportedNeurons": 0
+    }
+  ]
+}
