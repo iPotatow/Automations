@@ -50,13 +50,14 @@
       "detailCheckedAt": "2026-10-03T15:25:27.904Z",
       "translationAttemptRun": "37191352830:1",
       "translation": {
-        "summary": "构建和自动化,任何地方",
-        "description": "通过桌面指挥官的远程MCP,从ChatGPT访问授权的计算机的文件系统和终端。该应用程序将安全连接到用户控制的机器,以便ChatGPT可以检查文件,运行命令,管理流程,编辑本地文档,并从聊天自动开发工作流程。",
+        "summary": "随时随地开发和自动化",
+        "description": "通过 Desktop Commander 的 Remote MCP，从 ChatGPT 访问已获授权计算机的文件系统和终端。该应用将安全连接转接到用户控制的计算机，让 ChatGPT 检查文件、运行命令、管理进程、编辑本地文档，并通过聊天自动执行开发工作流程。用户始终可以决定连接哪些设备，并可随时断开连接。",
         "sourceHash": "0f50e61482c4ca7eb7cdfa4c54da90f8fe9a5c3724b1d5500ef889179dd49faf",
         "status": "translated",
-        "model": "@cf/meta/m2m100-1.2b",
-        "translatedAt": "2026-10-04T09:11:52.111Z",
-        "usage": null
+        "model": "editorial-review",
+        "qualityVersion": 2,
+        "reviewedAt": "2026-10-07T10:55:15.571Z",
+        "translatedAt": "2026-10-07T10:55:15.571Z"
       }
     },
     "plugin_connector_1p_1a69035c238881919c4190932b2df699": {
@@ -111,7 +112,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T15:25:28.535Z",
-      "translationAttemptRun": "37191352830:1",
+      "translationAttemptRun": "37610497087:1",
       "translation": {
         "summary": "分类处理拉取请求、问题、持续集成和发布流程",
         "description": "访问仓库、问题和拉取请求。某些功能（如Codex）所需的条件",
@@ -128,6 +129,11 @@
           },
           "neurons": 15.946844100952148
         }
+      },
+      "translationError": {
+        "at": "2026-10-07T10:55:17.031Z",
+        "message": "Workers AI daily neuron safety limit reached (9083.847 / 8500); translation will resume after the 00:00 UTC reset",
+        "transient": false
       }
     },
     "plugin_connector_1p_6bcb5879c73c819196abc70016166099": {
@@ -449,13 +455,14 @@
       "detailCheckedAt": "2026-10-03T15:25:33.232Z",
       "translationAttemptRun": "37202584253:1",
       "translation": {
-        "summary": "创建、审查、编辑设计",
-        "description": "将您的 Canva 设计工作流纳入 Codex,并通过自然的对话创建、改进和审查设计。\n\nCanva 可以做些什么: 创建设计:将简短、概述或草案复制成演示文稿、文档、海报、通讯、社交帖子、简历等。 创建图像:从提示中创建照片、插图、图标和图形,或者重新创建您已经拥有的图像。 删除背景:将主题从图像中升至透明的背景。 上传文件:将附件和文件从您的聊天中带到 Canva 用于您的设计。 重量化社交媒体:在一个步骤内调整 Facebook、Instagram 和 LinkedIn 的设计。 大量创建:使用品牌模板生成多种图表数据的设计。 编辑设计:更新文本、媒体和格式化或重新配置和重量化设计元素。 获取:收到关于视觉\n\n一旦安装,用简单的语言描述您想要的内容,或者直接使用 @Canva 调用 Canva。\n\n试试像这样的快点:\n\n@Canva,创建这个框架的投影台。 @Canva,创建一个Instagram帖子宣布我们周五出售。 @Canva,在黎明时生成一个灯塔的插图。 @Canva,从这张照片中删除背景。 @Canva,上传此PDF并将其转换为演示文稿。 @Canva,重建这个设计用于社交媒体。 @Canva,使用我的品牌模板创建这个设计板。 @Canva,更新这个设计的标题。 @Canva,在评论线中实施反馈。\n\n想要采取更实用的方法? 立即在 Canva 的强大的编辑器中打开您的设计,以获得最终的触摸。",
+        "summary": "创建、审阅和编辑设计",
+        "description": "将 Canva 设计工作流程带入 Codex，通过自然对话创建、完善和审阅设计。\n\nCanva 可以做什么：\n创建设计：将需求说明、大纲或文案草稿转化为演示文稿、文档、海报、传单、社交媒体帖子、简历等。\n生成图像：根据提示生成照片、插画、图标和图形，或改变现有图像的风格。\n移除背景：将图像主体提取出来，放到透明背景上。上传文件：把聊天中的附件和文件导入 Canva，用于设计。\n适配社交媒体：一步调整设计，适配 Facebook、Instagram 和 LinkedIn。\n批量创建：使用品牌模板，根据电子表格数据生成多个设计。\n编辑设计：更新文本、媒体和格式，或调整元素的位置和尺寸。\n获取设计反馈：获得有关视觉层次、布局、可读性、一致性和无障碍性的结构化反馈。\n落实反馈：查看评论讨论，并应用明确、可执行的修改。品牌检查：对照您的品牌套件（Brand Kit），检查颜色、字体、Logo 用法和文案。\n\n安装后，用自然语言描述需求，或直接使用 @Canva 调用 Canva。\n\n可以尝试这些提示：\n\n@Canva，根据这个大纲创建一份路演演示文稿。\n@Canva，制作一条 Instagram 帖子，宣布周五促销活动。\n@Canva，生成一幅黎明时分灯塔的插画。\n@Canva，移除这张照片的背景。\n@Canva，上传这个 PDF，并将其转换为演示文稿。\n@Canva，调整这个设计，适配社交媒体。\n@Canva，使用我的品牌模板，根据这个电子表格创建设计。\n@Canva，更新这个设计的标题。\n@Canva，落实评论讨论中的反馈。\n@Canva，对照我的品牌套件检查这个设计。\n使用要求：需要连接 Canva 账户才能使用插件。批量创建功能需要符合条件的 Canva Enterprise 套餐。设计和图像生成会消耗 Canva AI 积分。\n\n想亲自进一步调整？立即在 Canva 的强大编辑器中打开设计，完成最后的润色。",
         "sourceHash": "d59f7af267c304a26b13d0af962683ac5581d0b35efb188bfd5ae1e29dadbbe9",
         "status": "translated",
-        "model": "@cf/meta/m2m100-1.2b",
-        "translatedAt": "2026-10-04T12:35:39.358Z",
-        "usage": null
+        "model": "editorial-review",
+        "qualityVersion": 2,
+        "reviewedAt": "2026-10-07T10:55:15.571Z",
+        "translatedAt": "2026-10-07T10:55:15.571Z"
       }
     },
     "plugin_asdk_app_69ea4ed2cf7c8191b742ef3622479ddd": {
@@ -689,21 +696,14 @@
       "detailCheckedAt": "2026-10-06T05:30:55.181Z",
       "translationAttemptRun": "37418628815:1",
       "translation": {
-        "summary": "创建文件、任务、数据库",
-        "description": "搜索和引用您的概念页面",
+        "summary": "创建文档、任务和数据库",
+        "description": "搜索并引用您的 Notion 页面。",
         "sourceHash": "720df8f53fbceed2300728111ea91ba6d866c48fb0ae8ebab8cefb267b87c0b8",
         "status": "translated",
-        "model": "@cf/meta/m2m100-1.2b",
-        "translatedAt": "2026-10-06T05:31:47.296Z",
-        "usage": {
-          "prompt_tokens": 616,
-          "completion_tokens": 440,
-          "total_tokens": 1056,
-          "prompt_tokens_details": {
-            "cached_tokens": 0
-          },
-          "neurons": 16.257640838623047
-        }
+        "model": "editorial-review",
+        "qualityVersion": 2,
+        "reviewedAt": "2026-10-07T10:55:15.571Z",
+        "translatedAt": "2026-10-07T10:55:15.571Z"
       },
       "detailFailures": 0
     },
@@ -826,21 +826,14 @@
       "detailCheckedAt": "2026-10-03T15:25:37.319Z",
       "translationAttemptRun": "37342451051:1",
       "translation": {
-        "summary": "创建和管理您的商店",
-        "description": "Shopify for ChatGPT 使在线商店的启动、运行和发展与交谈一样容易。 使用 Shopify 的 AI 商店构建器将小型业务想法转化为电子商务网站:描述您销售的东西、创建您的商店、添加产品并在线销售. 您已经拥有 Shopify 商店吗? 将其连接到不同地点的库存管理、创建折扣代码、审查订单和客户细节,并对您的商店性能进行分析。 Shopify 支持在线销售,个人销售, B2B,在市场上销售,并在国际上销售。 无论您是经营需求业务,销售数字产品,经营在线精品店,降价店,还是为批发商提供服务, Shopify 都为您提供构建、销售和成长的基础。",
+        "summary": "创建并管理您的商店",
+        "description": "Shopify for ChatGPT 让开设、运营和发展网店变得像聊天一样简单。借助 Shopify 的 AI 建站工具，将小生意创意变成电商网站：描述您销售的商品，创建商店，添加产品，即可在线销售。已经拥有 Shopify 商店？连接后即可管理多个地点的库存、创建折扣码、查看订单和客户信息，并获取店铺经营表现的分析数据。Shopify 支持线上销售、线下销售、B2B、平台销售和跨境销售。无论您从事按需印刷业务、销售数字产品、经营在线精品店、开展一件代发，还是服务批发买家，Shopify 都能为您提供开店、销售和发展的基础。",
         "sourceHash": "eba39ce0f8b14cf80ab31a62418f566f60ed9de615064348c33c23ff20a52c06",
         "status": "translated",
-        "model": "@cf/meta/m2m100-1.2b",
-        "translatedAt": "2026-10-05T16:40:28.830Z",
-        "usage": {
-          "prompt_tokens": 755,
-          "completion_tokens": 693,
-          "total_tokens": 1448,
-          "prompt_tokens_details": {
-            "cached_tokens": 0
-          },
-          "neurons": 24.610576629638672
-        }
+        "model": "editorial-review",
+        "qualityVersion": 2,
+        "reviewedAt": "2026-10-07T10:55:15.572Z",
+        "translatedAt": "2026-10-07T10:55:15.572Z"
       }
     },
     "plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14": {
@@ -891,21 +884,14 @@
       "detailCheckedAt": "2026-10-03T15:25:37.957Z",
       "translationAttemptRun": "37342451051:1",
       "translation": {
-        "summary": "洞察 HubSpot 中的行动",
-        "description": "使用您的 HubSpot 数据来分析模式,创建和更新记录,并管理您的 CRM 操作。 阅读并写到交易,联系人,公司,门票,约会和其他您有权访问的对象。 准备报告,更新交易阶段,登录呼叫和电子邮件,创建任务或审查会议前的管道细节。 使用它在聊天或全面的 CRM 管理中快速更新,所有这些都基于您的实际 HubSpot 数据。 了解更多: https://knowledge.hubspot.com/integrations/connect-your-hubspot-account-to-chatgpt",
+        "summary": "将 HubSpot 中的洞察转化为行动",
+        "description": "使用 HubSpot 数据分析规律、创建和更新记录，并管理 CRM 业务操作。您可以读取和写入交易、联系人、公司、工单、互动记录，以及其他已获访问权限的对象。准备报告、更新交易阶段、记录通话和邮件、创建任务，或在会议前查看销售管道详情。无论是在聊天中快速更新，还是全面管理 CRM，都以您实际的 HubSpot 数据为基础。了解更多：https://knowledge.hubspot.com/integrations/connect-your-hubspot-account-to-chatgpt",
         "sourceHash": "0a9a738ebe0a574c29f97901d2671ca76115f2ba481b8adcbff511eab023bafa",
         "status": "translated",
-        "model": "@cf/meta/m2m100-1.2b",
-        "translatedAt": "2026-10-05T16:40:42.406Z",
-        "usage": {
-          "prompt_tokens": 721,
-          "completion_tokens": 822,
-          "total_tokens": 1543,
-          "prompt_tokens_details": {
-            "cached_tokens": 0
-          },
-          "neurons": 28.384586334228516
-        }
+        "model": "editorial-review",
+        "qualityVersion": 2,
+        "reviewedAt": "2026-10-07T10:55:15.572Z",
+        "translatedAt": "2026-10-07T10:55:15.572Z"
       }
     },
     "plugin_connector_690a90ec05c881918afb6a55dc9bbaa1": {
@@ -1025,21 +1011,14 @@
       "detailCheckedAt": "2026-10-03T15:25:39.404Z",
       "translationAttemptRun": "37418628815:1",
       "translation": {
-        "summary": "连接 350 多种数据源",
-        "description": "Windsor.ai 将您的营销和业务数据源连接到您的人工智能助理,因此您可以用简单的英语提问和采取行动。\n\n它从任何连接的源头中提取性能数据,在支持的广告和营销平台上,它可以直接进行更改,例如暂停或启用竞选活动,设置预算,创建 Google Business Profile 帖子或回复评论,随时在您确认后。\n\n常见工作流程: - 在每个连接的广告帐户中比较支出、点击和转换 - 查找并暂停表现不佳的Meta Ads、Google Ads、TikTok Ads、LinkedIn Ads或Microsoft Ads活动 - 作为您的Instagram、Threads、Facebook或Google Business Profile帐户发布或回复 - 直接将GA4,Google Search Console或YouTube Analytics数据拖入对话中 - 同步HubSpot、Salesforce或Shopify记录 - 更新Klaviyo流或亚马逊销售商中心列表\n\n连接到 350 多个广告、分析、有机社交、CRM、电子商务、电子邮件和付款渠道,包括 Google Ads、Meta(Facebook) Ads、Instagram、TikTok Ads、LinkedIn Ads、LinkedIn Company Pages、Microsoft Ads(Bing)、GA4、Google Search Console、YouTube、Google Business Profile、HubSpot、Salesforce、Shopify、Klaviyo、Amazon Ads、Google Merchant Center、Stripe 和 GoHighLevel。\n\n阅读数据只需要连接相关帐户一次。进行更改(暂停活动,发布内容,回复评论)总是要求您先确认,并且仅在Windsor明确支持写入的平台上可用。\n\nWindsor.ai 是一个独立的产品,不与其连接的平台相关联或支持。",
+        "summary": "连接350多个数据源",
+        "description": "Windsor.ai 将营销和业务数据源连接到您的 AI 助手，让您用日常英语提问并执行操作。\n\n它可以从任何已连接的数据源提取表现数据；对于支持的广告和营销平台，还能直接进行修改，例如暂停或启用广告活动、设置预算、创建 Google Business Profile 帖子，或回复评价。每次修改前都会请求您的确认。\n\n常见工作流程：\n- 比较各个已连接广告账户的花费、点击量和转化量\n- 找到并暂停表现不佳的 Meta Ads、Google Ads、TikTok Ads、LinkedIn Ads 或 Microsoft Ads 广告活动\n- 以您的 Instagram、Threads、Facebook 或 Google Business Profile 账户身份发布内容或回复\n- 将 GA4、Google Search Console 或 YouTube Analytics 数据直接引入对话\n- 同步 HubSpot、Salesforce 或 Shopify 记录\n- 更新 Klaviyo 自动化流程或 Amazon Seller Central 商品信息\n\n可连接广告、分析、自然社交、CRM、电商、邮件及支付领域的350多个数据源，包括 Google Ads、Meta（Facebook）Ads、Instagram、TikTok Ads、LinkedIn Ads、LinkedIn Company Pages、Microsoft Ads（Bing）、GA4、Google Search Console、YouTube、Google Business Profile、HubSpot、Salesforce、Shopify、Klaviyo、Amazon Ads、Google Merchant Center、Stripe 和 GoHighLevel。\n\n读取数据只需连接一次相关账户。进行修改（暂停广告活动、发布内容、回复评价）时，总会先请求您的确认，且仅适用于 Windsor 明确支持写入权限的平台。其他所有已连接数据源均为只读。提供免费套餐，无需信用卡。\n\nWindsor.ai 是独立产品，与其连接的平台没有关联，也未获得这些平台的背书。",
         "sourceHash": "5525f2cb3e2c2d88ce74850b483ce7d39bfee18a3a9ac8db6dd086d0e22a9798",
         "status": "translated",
-        "model": "@cf/meta/m2m100-1.2b",
-        "translatedAt": "2026-10-06T05:32:10.136Z",
-        "usage": {
-          "prompt_tokens": 982,
-          "completion_tokens": 1064,
-          "total_tokens": 2046,
-          "prompt_tokens_details": {
-            "cached_tokens": 0
-          },
-          "neurons": 36.966495513916016
-        }
+        "model": "editorial-review",
+        "qualityVersion": 2,
+        "reviewedAt": "2026-10-07T10:55:15.572Z",
+        "translatedAt": "2026-10-07T10:55:15.572Z"
       }
     },
     "plugin_asdk_app_69fb9378663481919a68e8a2109644e5": {
@@ -1218,20 +1197,13 @@
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "分析全球市场",
-        "description": "将您的互动经纪人帐户连接到ChatGPT,并通过自然语言管理您的投资组合。 询问位置、余额、P&L、分配和开放订单,或者要求实时报价和历史市场数据。 您还可以要求ChatGPT撰写交易指令 - 例如“以200美元的限额购买AAPL100股” - 这些指令被发送到您的IBKR帐户进行审查和批准。 ChatGPT从不向市场直接提交订单。 显示或讨论的任何交易符号仅供示意图,并且不用于描绘推荐。",
+        "description": "将您的 Interactive Brokers（盈透证券）账户连接到 ChatGPT，通过自然语言管理投资组合。\n查询持仓、余额、盈亏、资产配置和未成交委托，或获取实时报价及历史市场数据。\n您还可以让 ChatGPT 起草交易指令，例如“以200美元的限价买入100股 AAPL”。这些指令会发送到您的 IBKR 账户，由您审核和批准。\nChatGPT 从不直接向市场提交订单。任何显示或讨论的交易代码仅作示例，不构成投资建议。\nSIPC 会员。",
         "sourceHash": "f247834ebf76a53a00cb4817b765a8f2a3aad71d236978d09a9f329a3e2a17f4",
         "status": "translated",
-        "model": "@cf/meta/m2m100-1.2b",
-        "translatedAt": "2026-10-06T05:32:36.886Z",
-        "usage": {
-          "prompt_tokens": 746,
-          "completion_tokens": 886,
-          "total_tokens": 1632,
-          "prompt_tokens_details": {
-            "cached_tokens": 0
-          },
-          "neurons": 30.450584411621094
-        }
+        "model": "editorial-review",
+        "qualityVersion": 2,
+        "reviewedAt": "2026-10-07T10:55:15.572Z",
+        "translatedAt": "2026-10-07T10:55:15.572Z"
       }
     },
     "plugin_asdk_app_69dd11f3e50c8191b1ca48d03cf7e2ad": {
@@ -98641,20 +98613,13 @@
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "分析您的产品数据",
-        "description": "PostHog 讓您的 AI 代理人直接存取您的產品分析、功能旗、實驗、錯誤追蹤、調查、日志和 LLM 分析,詢問您的數據、創建洞察力、轉換功能旗、分析錯誤、搜尋文件等 — 所有從聊天中。",
+        "description": "PostHog 让您的 AI 智能体直接访问产品分析、功能开关、实验、错误跟踪、调查、日志和 LLM 分析。您可以询问数据、创建分析洞察、切换功能开关、分析错误、搜索文档等，所有操作都可在聊天中完成。",
         "sourceHash": "f9597e395a79397024792f52639a2b706116afecf3c10149a7e4a4194bba19f1",
         "status": "translated",
-        "model": "@cf/meta/m2m100-1.2b",
-        "translatedAt": "2026-10-07T05:55:03.901Z",
-        "usage": {
-          "prompt_tokens": 666,
-          "completion_tokens": 688,
-          "total_tokens": 1354,
-          "prompt_tokens_details": {
-            "cached_tokens": 0
-          },
-          "neurons": 24.046613693237305
-        }
+        "model": "editorial-review",
+        "qualityVersion": 2,
+        "reviewedAt": "2026-10-07T10:55:15.572Z",
+        "translatedAt": "2026-10-07T10:55:15.572Z"
       }
     },
     "plugin_asdk_app_69b9f38bfa248191877ad584f5608b92": {
@@ -214396,13 +214361,14 @@
   ],
   "translationCache": {
     "0f50e61482c4ca7eb7cdfa4c54da90f8fe9a5c3724b1d5500ef889179dd49faf": {
-      "summary": "构建和自动化,任何地方",
-      "description": "通过桌面指挥官的远程MCP,从ChatGPT访问授权的计算机的文件系统和终端。该应用程序将安全连接到用户控制的机器,以便ChatGPT可以检查文件,运行命令,管理流程,编辑本地文档,并从聊天自动开发工作流程。",
+      "summary": "随时随地开发和自动化",
+      "description": "通过 Desktop Commander 的 Remote MCP，从 ChatGPT 访问已获授权计算机的文件系统和终端。该应用将安全连接转接到用户控制的计算机，让 ChatGPT 检查文件、运行命令、管理进程、编辑本地文档，并通过聊天自动执行开发工作流程。用户始终可以决定连接哪些设备，并可随时断开连接。",
       "sourceHash": "0f50e61482c4ca7eb7cdfa4c54da90f8fe9a5c3724b1d5500ef889179dd49faf",
       "status": "translated",
-      "model": "@cf/meta/m2m100-1.2b",
-      "translatedAt": "2026-10-04T09:11:52.111Z",
-      "usage": null
+      "model": "editorial-review",
+      "qualityVersion": 2,
+      "reviewedAt": "2026-10-07T10:55:15.571Z",
+      "translatedAt": "2026-10-07T10:55:15.571Z"
     },
     "a9740649a8343330a6ceff1268718d1511018fbd17d04bf8f7db207636670a1b": {
       "summary": "分类处理拉取请求、问题、持续集成和发布流程",
@@ -214567,13 +214533,14 @@
       }
     },
     "d59f7af267c304a26b13d0af962683ac5581d0b35efb188bfd5ae1e29dadbbe9": {
-      "summary": "创建、审查、编辑设计",
-      "description": "将您的 Canva 设计工作流纳入 Codex,并通过自然的对话创建、改进和审查设计。\n\nCanva 可以做些什么: 创建设计:将简短、概述或草案复制成演示文稿、文档、海报、通讯、社交帖子、简历等。 创建图像:从提示中创建照片、插图、图标和图形,或者重新创建您已经拥有的图像。 删除背景:将主题从图像中升至透明的背景。 上传文件:将附件和文件从您的聊天中带到 Canva 用于您的设计。 重量化社交媒体:在一个步骤内调整 Facebook、Instagram 和 LinkedIn 的设计。 大量创建:使用品牌模板生成多种图表数据的设计。 编辑设计:更新文本、媒体和格式化或重新配置和重量化设计元素。 获取:收到关于视觉\n\n一旦安装,用简单的语言描述您想要的内容,或者直接使用 @Canva 调用 Canva。\n\n试试像这样的快点:\n\n@Canva,创建这个框架的投影台。 @Canva,创建一个Instagram帖子宣布我们周五出售。 @Canva,在黎明时生成一个灯塔的插图。 @Canva,从这张照片中删除背景。 @Canva,上传此PDF并将其转换为演示文稿。 @Canva,重建这个设计用于社交媒体。 @Canva,使用我的品牌模板创建这个设计板。 @Canva,更新这个设计的标题。 @Canva,在评论线中实施反馈。\n\n想要采取更实用的方法? 立即在 Canva 的强大的编辑器中打开您的设计,以获得最终的触摸。",
+      "summary": "创建、审阅和编辑设计",
+      "description": "将 Canva 设计工作流程带入 Codex，通过自然对话创建、完善和审阅设计。\n\nCanva 可以做什么：\n创建设计：将需求说明、大纲或文案草稿转化为演示文稿、文档、海报、传单、社交媒体帖子、简历等。\n生成图像：根据提示生成照片、插画、图标和图形，或改变现有图像的风格。\n移除背景：将图像主体提取出来，放到透明背景上。上传文件：把聊天中的附件和文件导入 Canva，用于设计。\n适配社交媒体：一步调整设计，适配 Facebook、Instagram 和 LinkedIn。\n批量创建：使用品牌模板，根据电子表格数据生成多个设计。\n编辑设计：更新文本、媒体和格式，或调整元素的位置和尺寸。\n获取设计反馈：获得有关视觉层次、布局、可读性、一致性和无障碍性的结构化反馈。\n落实反馈：查看评论讨论，并应用明确、可执行的修改。品牌检查：对照您的品牌套件（Brand Kit），检查颜色、字体、Logo 用法和文案。\n\n安装后，用自然语言描述需求，或直接使用 @Canva 调用 Canva。\n\n可以尝试这些提示：\n\n@Canva，根据这个大纲创建一份路演演示文稿。\n@Canva，制作一条 Instagram 帖子，宣布周五促销活动。\n@Canva，生成一幅黎明时分灯塔的插画。\n@Canva，移除这张照片的背景。\n@Canva，上传这个 PDF，并将其转换为演示文稿。\n@Canva，调整这个设计，适配社交媒体。\n@Canva，使用我的品牌模板，根据这个电子表格创建设计。\n@Canva，更新这个设计的标题。\n@Canva，落实评论讨论中的反馈。\n@Canva，对照我的品牌套件检查这个设计。\n使用要求：需要连接 Canva 账户才能使用插件。批量创建功能需要符合条件的 Canva Enterprise 套餐。设计和图像生成会消耗 Canva AI 积分。\n\n想亲自进一步调整？立即在 Canva 的强大编辑器中打开设计，完成最后的润色。",
       "sourceHash": "d59f7af267c304a26b13d0af962683ac5581d0b35efb188bfd5ae1e29dadbbe9",
       "status": "translated",
-      "model": "@cf/meta/m2m100-1.2b",
-      "translatedAt": "2026-10-04T12:35:39.358Z",
-      "usage": null
+      "model": "editorial-review",
+      "qualityVersion": 2,
+      "reviewedAt": "2026-10-07T10:55:15.571Z",
+      "translatedAt": "2026-10-07T10:55:15.571Z"
     },
     "71d1bedf2bdf03af8d55132528a35dbd676aded4ebf73cf47de97bb11358734b": {
       "summary": "面向AI代理的网络搜索",
@@ -218610,38 +218577,24 @@
       }
     },
     "eba39ce0f8b14cf80ab31a62418f566f60ed9de615064348c33c23ff20a52c06": {
-      "summary": "创建和管理您的商店",
-      "description": "Shopify for ChatGPT 使在线商店的启动、运行和发展与交谈一样容易。 使用 Shopify 的 AI 商店构建器将小型业务想法转化为电子商务网站:描述您销售的东西、创建您的商店、添加产品并在线销售. 您已经拥有 Shopify 商店吗? 将其连接到不同地点的库存管理、创建折扣代码、审查订单和客户细节,并对您的商店性能进行分析。 Shopify 支持在线销售,个人销售, B2B,在市场上销售,并在国际上销售。 无论您是经营需求业务,销售数字产品,经营在线精品店,降价店,还是为批发商提供服务, Shopify 都为您提供构建、销售和成长的基础。",
+      "summary": "创建并管理您的商店",
+      "description": "Shopify for ChatGPT 让开设、运营和发展网店变得像聊天一样简单。借助 Shopify 的 AI 建站工具，将小生意创意变成电商网站：描述您销售的商品，创建商店，添加产品，即可在线销售。已经拥有 Shopify 商店？连接后即可管理多个地点的库存、创建折扣码、查看订单和客户信息，并获取店铺经营表现的分析数据。Shopify 支持线上销售、线下销售、B2B、平台销售和跨境销售。无论您从事按需印刷业务、销售数字产品、经营在线精品店、开展一件代发，还是服务批发买家，Shopify 都能为您提供开店、销售和发展的基础。",
       "sourceHash": "eba39ce0f8b14cf80ab31a62418f566f60ed9de615064348c33c23ff20a52c06",
       "status": "translated",
-      "model": "@cf/meta/m2m100-1.2b",
-      "translatedAt": "2026-10-05T16:40:28.830Z",
-      "usage": {
-        "prompt_tokens": 755,
-        "completion_tokens": 693,
-        "total_tokens": 1448,
-        "prompt_tokens_details": {
-          "cached_tokens": 0
-        },
-        "neurons": 24.610576629638672
-      }
+      "model": "editorial-review",
+      "qualityVersion": 2,
+      "reviewedAt": "2026-10-07T10:55:15.572Z",
+      "translatedAt": "2026-10-07T10:55:15.572Z"
     },
     "0a9a738ebe0a574c29f97901d2671ca76115f2ba481b8adcbff511eab023bafa": {
-      "summary": "洞察 HubSpot 中的行动",
-      "description": "使用您的 HubSpot 数据来分析模式,创建和更新记录,并管理您的 CRM 操作。 阅读并写到交易,联系人,公司,门票,约会和其他您有权访问的对象。 准备报告,更新交易阶段,登录呼叫和电子邮件,创建任务或审查会议前的管道细节。 使用它在聊天或全面的 CRM 管理中快速更新,所有这些都基于您的实际 HubSpot 数据。 了解更多: https://knowledge.hubspot.com/integrations/connect-your-hubspot-account-to-chatgpt",
+      "summary": "将 HubSpot 中的洞察转化为行动",
+      "description": "使用 HubSpot 数据分析规律、创建和更新记录，并管理 CRM 业务操作。您可以读取和写入交易、联系人、公司、工单、互动记录，以及其他已获访问权限的对象。准备报告、更新交易阶段、记录通话和邮件、创建任务，或在会议前查看销售管道详情。无论是在聊天中快速更新，还是全面管理 CRM，都以您实际的 HubSpot 数据为基础。了解更多：https://knowledge.hubspot.com/integrations/connect-your-hubspot-account-to-chatgpt",
       "sourceHash": "0a9a738ebe0a574c29f97901d2671ca76115f2ba481b8adcbff511eab023bafa",
       "status": "translated",
-      "model": "@cf/meta/m2m100-1.2b",
-      "translatedAt": "2026-10-05T16:40:42.406Z",
-      "usage": {
-        "prompt_tokens": 721,
-        "completion_tokens": 822,
-        "total_tokens": 1543,
-        "prompt_tokens_details": {
-          "cached_tokens": 0
-        },
-        "neurons": 28.384586334228516
-      }
+      "model": "editorial-review",
+      "qualityVersion": 2,
+      "reviewedAt": "2026-10-07T10:55:15.572Z",
+      "translatedAt": "2026-10-07T10:55:15.572Z"
     },
     "c8c35833b51e1fd8ecd8989dd70236abeaf90f6eec9b40b52e8d25da7d69f3ff": {
       "summary": "构建和部署Web应用程序和代理",
@@ -220429,38 +220382,24 @@
       }
     },
     "720df8f53fbceed2300728111ea91ba6d866c48fb0ae8ebab8cefb267b87c0b8": {
-      "summary": "创建文件、任务、数据库",
-      "description": "搜索和引用您的概念页面",
+      "summary": "创建文档、任务和数据库",
+      "description": "搜索并引用您的 Notion 页面。",
       "sourceHash": "720df8f53fbceed2300728111ea91ba6d866c48fb0ae8ebab8cefb267b87c0b8",
       "status": "translated",
-      "model": "@cf/meta/m2m100-1.2b",
-      "translatedAt": "2026-10-06T05:31:47.296Z",
-      "usage": {
-        "prompt_tokens": 616,
-        "completion_tokens": 440,
-        "total_tokens": 1056,
-        "prompt_tokens_details": {
-          "cached_tokens": 0
-        },
-        "neurons": 16.257640838623047
-      }
+      "model": "editorial-review",
+      "qualityVersion": 2,
+      "reviewedAt": "2026-10-07T10:55:15.571Z",
+      "translatedAt": "2026-10-07T10:55:15.571Z"
     },
     "5525f2cb3e2c2d88ce74850b483ce7d39bfee18a3a9ac8db6dd086d0e22a9798": {
-      "summary": "连接 350 多种数据源",
-      "description": "Windsor.ai 将您的营销和业务数据源连接到您的人工智能助理,因此您可以用简单的英语提问和采取行动。\n\n它从任何连接的源头中提取性能数据,在支持的广告和营销平台上,它可以直接进行更改,例如暂停或启用竞选活动,设置预算,创建 Google Business Profile 帖子或回复评论,随时在您确认后。\n\n常见工作流程: - 在每个连接的广告帐户中比较支出、点击和转换 - 查找并暂停表现不佳的Meta Ads、Google Ads、TikTok Ads、LinkedIn Ads或Microsoft Ads活动 - 作为您的Instagram、Threads、Facebook或Google Business Profile帐户发布或回复 - 直接将GA4,Google Search Console或YouTube Analytics数据拖入对话中 - 同步HubSpot、Salesforce或Shopify记录 - 更新Klaviyo流或亚马逊销售商中心列表\n\n连接到 350 多个广告、分析、有机社交、CRM、电子商务、电子邮件和付款渠道,包括 Google Ads、Meta(Facebook) Ads、Instagram、TikTok Ads、LinkedIn Ads、LinkedIn Company Pages、Microsoft Ads(Bing)、GA4、Google Search Console、YouTube、Google Business Profile、HubSpot、Salesforce、Shopify、Klaviyo、Amazon Ads、Google Merchant Center、Stripe 和 GoHighLevel。\n\n阅读数据只需要连接相关帐户一次。进行更改(暂停活动,发布内容,回复评论)总是要求您先确认,并且仅在Windsor明确支持写入的平台上可用。\n\nWindsor.ai 是一个独立的产品,不与其连接的平台相关联或支持。",
+      "summary": "连接350多个数据源",
+      "description": "Windsor.ai 将营销和业务数据源连接到您的 AI 助手，让您用日常英语提问并执行操作。\n\n它可以从任何已连接的数据源提取表现数据；对于支持的广告和营销平台，还能直接进行修改，例如暂停或启用广告活动、设置预算、创建 Google Business Profile 帖子，或回复评价。每次修改前都会请求您的确认。\n\n常见工作流程：\n- 比较各个已连接广告账户的花费、点击量和转化量\n- 找到并暂停表现不佳的 Meta Ads、Google Ads、TikTok Ads、LinkedIn Ads 或 Microsoft Ads 广告活动\n- 以您的 Instagram、Threads、Facebook 或 Google Business Profile 账户身份发布内容或回复\n- 将 GA4、Google Search Console 或 YouTube Analytics 数据直接引入对话\n- 同步 HubSpot、Salesforce 或 Shopify 记录\n- 更新 Klaviyo 自动化流程或 Amazon Seller Central 商品信息\n\n可连接广告、分析、自然社交、CRM、电商、邮件及支付领域的350多个数据源，包括 Google Ads、Meta（Facebook）Ads、Instagram、TikTok Ads、LinkedIn Ads、LinkedIn Company Pages、Microsoft Ads（Bing）、GA4、Google Search Console、YouTube、Google Business Profile、HubSpot、Salesforce、Shopify、Klaviyo、Amazon Ads、Google Merchant Center、Stripe 和 GoHighLevel。\n\n读取数据只需连接一次相关账户。进行修改（暂停广告活动、发布内容、回复评价）时，总会先请求您的确认，且仅适用于 Windsor 明确支持写入权限的平台。其他所有已连接数据源均为只读。提供免费套餐，无需信用卡。\n\nWindsor.ai 是独立产品，与其连接的平台没有关联，也未获得这些平台的背书。",
       "sourceHash": "5525f2cb3e2c2d88ce74850b483ce7d39bfee18a3a9ac8db6dd086d0e22a9798",
       "status": "translated",
-      "model": "@cf/meta/m2m100-1.2b",
-      "translatedAt": "2026-10-06T05:32:10.136Z",
-      "usage": {
-        "prompt_tokens": 982,
-        "completion_tokens": 1064,
-        "total_tokens": 2046,
-        "prompt_tokens_details": {
-          "cached_tokens": 0
-        },
-        "neurons": 36.966495513916016
-      }
+      "model": "editorial-review",
+      "qualityVersion": 2,
+      "reviewedAt": "2026-10-07T10:55:15.572Z",
+      "translatedAt": "2026-10-07T10:55:15.572Z"
     },
     "b70fe46d0cac4cdbdc4e23186d05838c70f973bf9f34a7f1ca8edc66deac7e0f": {
       "summary": "网站搜索 AI",
@@ -220498,20 +220437,13 @@
     },
     "f247834ebf76a53a00cb4817b765a8f2a3aad71d236978d09a9f329a3e2a17f4": {
       "summary": "分析全球市场",
-      "description": "将您的互动经纪人帐户连接到ChatGPT,并通过自然语言管理您的投资组合。 询问位置、余额、P&L、分配和开放订单,或者要求实时报价和历史市场数据。 您还可以要求ChatGPT撰写交易指令 - 例如“以200美元的限额购买AAPL100股” - 这些指令被发送到您的IBKR帐户进行审查和批准。 ChatGPT从不向市场直接提交订单。 显示或讨论的任何交易符号仅供示意图,并且不用于描绘推荐。",
+      "description": "将您的 Interactive Brokers（盈透证券）账户连接到 ChatGPT，通过自然语言管理投资组合。\n查询持仓、余额、盈亏、资产配置和未成交委托，或获取实时报价及历史市场数据。\n您还可以让 ChatGPT 起草交易指令，例如“以200美元的限价买入100股 AAPL”。这些指令会发送到您的 IBKR 账户，由您审核和批准。\nChatGPT 从不直接向市场提交订单。任何显示或讨论的交易代码仅作示例，不构成投资建议。\nSIPC 会员。",
       "sourceHash": "f247834ebf76a53a00cb4817b765a8f2a3aad71d236978d09a9f329a3e2a17f4",
       "status": "translated",
-      "model": "@cf/meta/m2m100-1.2b",
-      "translatedAt": "2026-10-06T05:32:36.886Z",
-      "usage": {
-        "prompt_tokens": 746,
-        "completion_tokens": 886,
-        "total_tokens": 1632,
-        "prompt_tokens_details": {
-          "cached_tokens": 0
-        },
-        "neurons": 30.450584411621094
-      }
+      "model": "editorial-review",
+      "qualityVersion": 2,
+      "reviewedAt": "2026-10-07T10:55:15.572Z",
+      "translatedAt": "2026-10-07T10:55:15.572Z"
     },
     "02912a272e2bb08614b1addf34eac29e0de9cb6443e0bcf5b2253283689c27d0": {
       "summary": "寻找高速公路摄像头",
@@ -226576,20 +226508,13 @@
     },
     "f9597e395a79397024792f52639a2b706116afecf3c10149a7e4a4194bba19f1": {
       "summary": "分析您的产品数据",
-      "description": "PostHog 讓您的 AI 代理人直接存取您的產品分析、功能旗、實驗、錯誤追蹤、調查、日志和 LLM 分析,詢問您的數據、創建洞察力、轉換功能旗、分析錯誤、搜尋文件等 — 所有從聊天中。",
+      "description": "PostHog 让您的 AI 智能体直接访问产品分析、功能开关、实验、错误跟踪、调查、日志和 LLM 分析。您可以询问数据、创建分析洞察、切换功能开关、分析错误、搜索文档等，所有操作都可在聊天中完成。",
       "sourceHash": "f9597e395a79397024792f52639a2b706116afecf3c10149a7e4a4194bba19f1",
       "status": "translated",
-      "model": "@cf/meta/m2m100-1.2b",
-      "translatedAt": "2026-10-07T05:55:03.901Z",
-      "usage": {
-        "prompt_tokens": 666,
-        "completion_tokens": 688,
-        "total_tokens": 1354,
-        "prompt_tokens_details": {
-          "cached_tokens": 0
-        },
-        "neurons": 24.046613693237305
-      }
+      "model": "editorial-review",
+      "qualityVersion": 2,
+      "reviewedAt": "2026-10-07T10:55:15.572Z",
+      "translatedAt": "2026-10-07T10:55:15.572Z"
     },
     "1b1c1789aa01b764c7e5c9fb863db4f6f8ae2c54a928d917bd6fcce4f01dd4e4": {
       "summary": "管理 Salesforce 记录",
@@ -228820,27 +228745,27 @@
     }
   },
   "lastRun": {
-    "runId": "37609331348",
+    "runId": "37610497087",
     "runAttempt": "1",
-    "startedAt": "2026-10-07T10:44:27.849Z",
-    "updatedAt": "2026-10-07T10:54:35.388Z",
+    "startedAt": "2026-10-07T10:55:16.298Z",
+    "updatedAt": "2026-10-07T10:55:17.901Z",
     "mode": "translate",
     "detailRequests": 0,
-    "translationRequests": 450,
-    "translationAttempts": 115,
-    "translationLimit": 250,
+    "translationRequests": 0,
+    "translationAttempts": 1,
+    "translationLimit": 10,
     "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 2,
+    "errors": 1,
     "stats": {
       "total": 3969,
       "details": 3969,
-      "translated": 857,
+      "translated": 8,
       "missing": 15,
       "removed": 28,
       "pendingDetails": 0,
-      "pendingTranslations": 3112
+      "pendingTranslations": 3961
     }
   }
 }
