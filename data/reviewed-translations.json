@@ -1,0 +1,58 @@
+[
+  {
+    "id": "plugin_asdk_app_6a057d268ebc81919918d37eec718425",
+    "name": "Remote Desktop Commander",
+    "sourceHash": "0f50e61482c4ca7eb7cdfa4c54da90f8fe9a5c3724b1d5500ef889179dd49faf",
+    "summary": "随时随地开发和自动化",
+    "description": "通过 Desktop Commander 的 Remote MCP，从 ChatGPT 访问已获授权计算机的文件系统和终端。该应用将安全连接转接到用户控制的计算机，让 ChatGPT 检查文件、运行命令、管理进程、编辑本地文档，并通过聊天自动执行开发工作流程。用户始终可以决定连接哪些设备，并可随时断开连接。"
+  },
+  {
+    "id": "plugin_connector_68df33b1a2d081918778431a9cfca8ba",
+    "name": "Canva",
+    "sourceHash": "d59f7af267c304a26b13d0af962683ac5581d0b35efb188bfd5ae1e29dadbbe9",
+    "summary": "创建、审阅和编辑设计",
+    "description": "将 Canva 设计工作流程带入 Codex，通过自然对话创建、完善和审阅设计。\n\nCanva 可以做什么：\n创建设计：将需求说明、大纲或文案草稿转化为演示文稿、文档、海报、传单、社交媒体帖子、简历等。\n生成图像：根据提示生成照片、插画、图标和图形，或改变现有图像的风格。\n移除背景：将图像主体提取出来，放到透明背景上。上传文件：把聊天中的附件和文件导入 Canva，用于设计。\n适配社交媒体：一步调整设计，适配 Facebook、Instagram 和 LinkedIn。\n批量创建：使用品牌模板，根据电子表格数据生成多个设计。\n编辑设计：更新文本、媒体和格式，或调整元素的位置和尺寸。\n获取设计反馈：获得有关视觉层次、布局、可读性、一致性和无障碍性的结构化反馈。\n落实反馈：查看评论讨论，并应用明确、可执行的修改。品牌检查：对照您的品牌套件（Brand Kit），检查颜色、字体、Logo 用法和文案。\n\n安装后，用自然语言描述需求，或直接使用 @Canva 调用 Canva。\n\n可以尝试这些提示：\n\n@Canva，根据这个大纲创建一份路演演示文稿。\n@Canva，制作一条 Instagram 帖子，宣布周五促销活动。\n@Canva，生成一幅黎明时分灯塔的插画。\n@Canva，移除这张照片的背景。\n@Canva，上传这个 PDF，并将其转换为演示文稿。\n@Canva，调整这个设计，适配社交媒体。\n@Canva，使用我的品牌模板，根据这个电子表格创建设计。\n@Canva，更新这个设计的标题。\n@Canva，落实评论讨论中的反馈。\n@Canva，对照我的品牌套件检查这个设计。\n使用要求：需要连接 Canva 账户才能使用插件。批量创建功能需要符合条件的 Canva Enterprise 套餐。设计和图像生成会消耗 Canva AI 积分。\n\n想亲自进一步调整？立即在 Canva 的强大编辑器中打开设计，完成最后的润色。"
+  },
+  {
+    "id": "plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e",
+    "name": "Notion",
+    "sourceHash": "720df8f53fbceed2300728111ea91ba6d866c48fb0ae8ebab8cefb267b87c0b8",
+    "summary": "创建文档、任务和数据库",
+    "description": "搜索并引用您的 Notion 页面。"
+  },
+  {
+    "id": "plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698",
+    "name": "Shopify",
+    "sourceHash": "eba39ce0f8b14cf80ab31a62418f566f60ed9de615064348c33c23ff20a52c06",
+    "summary": "创建并管理您的商店",
+    "description": "Shopify for ChatGPT 让开设、运营和发展网店变得像聊天一样简单。借助 Shopify 的 AI 建站工具，将小生意创意变成电商网站：描述您销售的商品，创建商店，添加产品，即可在线销售。已经拥有 Shopify 商店？连接后即可管理多个地点的库存、创建折扣码、查看订单和客户信息，并获取店铺经营表现的分析数据。Shopify 支持线上销售、线下销售、B2B、平台销售和跨境销售。无论您从事按需印刷业务、销售数字产品、经营在线精品店、开展一件代发，还是服务批发买家，Shopify 都能为您提供开店、销售和发展的基础。"
+  },
+  {
+    "id": "plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14",
+    "name": "HubSpot",
+    "sourceHash": "0a9a738ebe0a574c29f97901d2671ca76115f2ba481b8adcbff511eab023bafa",
+    "summary": "将 HubSpot 中的洞察转化为行动",
+    "description": "使用 HubSpot 数据分析规律、创建和更新记录，并管理 CRM 业务操作。您可以读取和写入交易、联系人、公司、工单、互动记录，以及其他已获访问权限的对象。准备报告、更新交易阶段、记录通话和邮件、创建任务，或在会议前查看销售管道详情。无论是在聊天中快速更新，还是全面管理 CRM，都以您实际的 HubSpot 数据为基础。了解更多：https://knowledge.hubspot.com/integrations/connect-your-hubspot-account-to-chatgpt"
+  },
+  {
+    "id": "plugin_asdk_app_694a52cfaa3c819192bea84eaa254968",
+    "name": "Windsor.ai",
+    "sourceHash": "5525f2cb3e2c2d88ce74850b483ce7d39bfee18a3a9ac8db6dd086d0e22a9798",
+    "summary": "连接350多个数据源",
+    "description": "Windsor.ai 将营销和业务数据源连接到您的 AI 助手，让您用日常英语提问并执行操作。\n\n它可以从任何已连接的数据源提取表现数据；对于支持的广告和营销平台，还能直接进行修改，例如暂停或启用广告活动、设置预算、创建 Google Business Profile 帖子，或回复评价。每次修改前都会请求您的确认。\n\n常见工作流程：\n- 比较各个已连接广告账户的花费、点击量和转化量\n- 找到并暂停表现不佳的 Meta Ads、Google Ads、TikTok Ads、LinkedIn Ads 或 Microsoft Ads 广告活动\n- 以您的 Instagram、Threads、Facebook 或 Google Business Profile 账户身份发布内容或回复\n- 将 GA4、Google Search Console 或 YouTube Analytics 数据直接引入对话\n- 同步 HubSpot、Salesforce 或 Shopify 记录\n- 更新 Klaviyo 自动化流程或 Amazon Seller Central 商品信息\n\n可连接广告、分析、自然社交、CRM、电商、邮件及支付领域的350多个数据源，包括 Google Ads、Meta（Facebook）Ads、Instagram、TikTok Ads、LinkedIn Ads、LinkedIn Company Pages、Microsoft Ads（Bing）、GA4、Google Search Console、YouTube、Google Business Profile、HubSpot、Salesforce、Shopify、Klaviyo、Amazon Ads、Google Merchant Center、Stripe 和 GoHighLevel。\n\n读取数据只需连接一次相关账户。进行修改（暂停广告活动、发布内容、回复评价）时，总会先请求您的确认，且仅适用于 Windsor 明确支持写入权限的平台。其他所有已连接数据源均为只读。提供免费套餐，无需信用卡。\n\nWindsor.ai 是独立产品，与其连接的平台没有关联，也未获得这些平台的背书。"
+  },
+  {
+    "id": "plugin_asdk_app_69bc11db874881918718abaca20b68ce",
+    "name": "Interactive Brokers (IBKR)",
+    "sourceHash": "f247834ebf76a53a00cb4817b765a8f2a3aad71d236978d09a9f329a3e2a17f4",
+    "summary": "分析全球市场",
+    "description": "将您的 Interactive Brokers（盈透证券）账户连接到 ChatGPT，通过自然语言管理投资组合。\n查询持仓、余额、盈亏、资产配置和未成交委托，或获取实时报价及历史市场数据。\n您还可以让 ChatGPT 起草交易指令，例如“以200美元的限价买入100股 AAPL”。这些指令会发送到您的 IBKR 账户，由您审核和批准。\nChatGPT 从不直接向市场提交订单。任何显示或讨论的交易代码仅作示例，不构成投资建议。\nSIPC 会员。"
+  },
+  {
+    "id": "plugin_asdk_app_699caef2d680819188727b0ddbb349dd",
+    "name": "PostHog",
+    "sourceHash": "f9597e395a79397024792f52639a2b706116afecf3c10149a7e4a4194bba19f1",
+    "summary": "分析您的产品数据",
+    "description": "PostHog 让您的 AI 智能体直接访问产品分析、功能开关、实验、错误跟踪、调查、日志和 LLM 分析。您可以询问数据、创建分析洞察、切换功能开关、分析错误、搜索文档等，所有操作都可在聊天中完成。"
+  }
+]

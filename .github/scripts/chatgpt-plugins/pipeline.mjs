@@ -4,7 +4,7 @@ import {directory,loadState} from './state.mjs';
 import {translationCurrent} from './model.mjs';
 export function operation({requested='',event='',schedule=''}={}){
   if(requested)return requested;
-  if(event==='push')return 'sync';
+  if(event==='push')return 'translate';
   return schedule==='0 4,8,12 * * *'?'translate':'incremental';
 }
 export function plan(state,manifest,published,mode){

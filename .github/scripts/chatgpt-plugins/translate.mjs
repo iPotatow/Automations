@@ -2,8 +2,9 @@ import {type,release,arch} from 'node:os';
 import {readFileSync} from 'node:fs';
 import {sourceHash,validateTranslation} from './model.mjs';
 import {createWorkersAiQuotaGuard} from './cloudflare-usage.mjs';
+import {QUALITY_VERSION,GLOSSARY,parseModelOutput,translationUnits,unitBatches,validateUnits,assembleUnits} from './translation-quality.mjs';
 
-const TRANSLATION_SYSTEM_PROMPT=`你是一名以简体中文为母语的专业翻译与重写专家。你的任务不是逐词直译，而是在完全保留原文事实、信息量和约束的前提下，把英文插件资料重写成自然、准确、可直接发布的简体中文。
+export const TRANSLATION_SYSTEM_PROMPT=`你是一名以简体中文为母语的专业翻译与重写专家。你的任务不是逐词直译，而是在完全保留原文事实、信息量和约束的前提下，把英文插件资料重写成自然、准确、可直接发布的简体中文。
 
 ## 核心原则
 1. 忠实优先：不得概括、缩写、删减、合并或补写原文信息。能力、限制、使用示例、费用、账户要求、兼容性、条件和例外都必须完整保留。
@@ -55,14 +56,14 @@ export function providerHeaders(){
 }
 
 export async function translate(p,cache,{onRequest=()=>{}}={}){
- const key=sourceHash(p);if(cache[key])return {...cache[key],sourceHash:key,status:'translated'};if(inflight.has(key))return inflight.get(key);
+ const key=sourceHash(p);if(cache[key]?.qualityVersion===QUALITY_VERSION)return {...cache[key],sourceHash:key,status:'translated'};if(inflight.has(key))return inflight.get(key);
  const promise=siteCredentialsReady()?requestSiteTranslation(p,cache,onRequest):requestExternalTranslation(p,cache,onRequest);inflight.set(key,promise);try{return await promise;}finally{inflight.delete(key);}
 }
 
 function translationPayload(p){return {name:p.name,summary:p.summary||p.name,paragraphs:p.description.split(/\n\s*\n/).filter(part=>part.trim())};}
-function translationRecord(result,p,key,model,usage=null){const validated=validateTranslation(result,p);const translation={...validated,sourceHash:key,status:'translated',model,translatedAt:new Date().toISOString(),usage};return translation;}
+function translationRecord(result,p,key,model,usage=null){const validated=validateTranslation(result,p);const translation={...validated,sourceHash:key,status:'translated',model,translatedAt:new Date().toISOString(),qualityVersion:QUALITY_VERSION,usage};return translation;}
 async function requestSiteTranslation(p,cache,onRequest){
- const key=sourceHash(p);if(cache[key])return {...cache[key],sourceHash:key,status:'translated'};
+ const key=sourceHash(p);if(cache[key]?.qualityVersion===QUALITY_VERSION)return {...cache[key],sourceHash:key,status:'translated'};
  if(!quotaGuard)quotaGuard=createWorkersAiQuotaGuard();const decision=await quotaGuard.reserve();
  if(!decision.allowed){
   if(decision.reason==='limit'){workersAiQuotaBlocked=true;const used=Number(decision.usage?.neurons||0);const error=new Error(`Workers AI daily neuron safety limit reached (${used.toFixed(3)} / ${decision.limit}); translation will resume after the 00:00 UTC reset`);error.quota=true;error.transient=false;throw error;}
@@ -79,25 +80,28 @@ async function requestSiteTranslation(p,cache,onRequest){
     const data=await response.json();if(!data.success)throw new Error('Cloudflare AI inference failed');return data.result;
    }
   }
-  let parsed,selected=model,result;
-  try{
-   result=await infer(model,{messages:[{role:'system',content:TRANSLATION_SYSTEM_PROMPT},{role:'user',content:JSON.stringify(input)}],stream:false,temperature:0.1,max_tokens:8000});
-   const text=typeof result==='string'?result:result.response||result.choices?.[0]?.message?.content;
-   parsed=JSON.parse(String(text).trim().replace(/^```(?:json)?\s*/,'').replace(/\s*```$/,''));
-   validateTranslation(parsed,p);
-  }catch(error){
-   if(error.stop)throw error;
-   selected='@cf/meta/m2m100-1.2b';const values=[];
-   for(const text of [input.summary,...input.paragraphs]){const decision=await quotaGuard.reserve();if(!decision.allowed){workersAiQuotaBlocked=true;throw new Error('Workers AI quota unavailable for fallback');}const translated=await infer(selected,{text,source_lang:'en',target_lang:'zh'});values.push(translated.translated_text||translated.translation||translated.response);}
-   parsed={summary:values[0],paragraphs:values.slice(1)};
+  const units=translationUnits(p),translated=[],usages=[];
+  for(const batch of unitBatches(units)){
+   let last;
+   for(let attempt=0;attempt<3;attempt++){
+    const decision=await quotaGuard.reserve();
+    if(!decision.allowed){workersAiQuotaBlocked=decision.reason==='limit';const error=new Error('Workers AI quota unavailable; translation remains pending');error.stop=true;throw error;}
+    const system=TRANSLATION_SYSTEM_PROMPT+'\n术语表：'+GLOSSARY+'\n本次输出格式替换为 {"segments":[{"id":"原输入id","text":"完整中文译文"}]}。每个输入id必须恰好输出一次，禁止拆分、合并或添加id。不要输出summary或paragraphs字段。';
+    try{
+     const result=await infer(model,{messages:[{role:'system',content:system},{role:'user',content:JSON.stringify({name:p.name,segments:batch.map(({id,text})=>({id,text}))})}],stream:false,temperature:0.1,max_tokens:8000});
+     const accepted=validateUnits(parseModelOutput(result),batch);translated.push(...accepted);usages.push(result?.usage||{});last=null;break;
+    }catch(error){if(error.stop)throw error;last=error;if(attempt<2)await sleep(retryDelayMs(attempt));}
+   }
+   if(last)throw last;
   }
-  const translation=translationRecord(parsed,p,key,selected,result?.usage||null);cache[key]=translation;return translation;
+  const usage={requests:usages.length,neurons:usages.reduce((n,u)=>n+Number(u.neurons||0),0),total_tokens:usages.reduce((n,u)=>n+Number(u.total_tokens||0),0)};
+  const translation=translationRecord(assembleUnits(translated,p),p,key,model,usage);cache[key]=translation;return translation;
  }catch(cause){const error=new Error(`Workers AI translation failed: ${redact(cause?.message||cause)}`);error.stop=!!cause.stop;error.transient=!error.stop;throw error;}
 
 }
 
 async function requestExternalTranslation(p,cache,onRequest){
- const key=sourceHash(p);if(cache[key])return {...cache[key],sourceHash:key,status:'translated'};
+ const key=sourceHash(p);if(cache[key]?.qualityVersion===QUALITY_VERSION)return {...cache[key],sourceHash:key,status:'translated'};
  let base;try{base=new URL(process.env.AI_BASE_URL);if(base.protocol!=='https:')throw new Error();}catch{const error=new Error('AI_BASE_URL must be a valid HTTPS API URL');error.stop=true;throw error;}
  const headers=providerHeaders(),payloadData=translationPayload(p),endpoint=base.href.replace(/\/$/,'').endsWith('/chat/completions')?base.href.replace(/\/$/,''):base.href.replace(/\/$/,'')+'/chat/completions';
  const payload={model:process.env.AI_MODEL,messages:[{role:'system',content:TRANSLATION_SYSTEM_PROMPT},{role:'user',content:JSON.stringify(payloadData)}]};

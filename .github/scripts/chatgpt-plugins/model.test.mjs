@@ -12,7 +12,7 @@ test('only full independent scans can remove; failures, reruns and large drops p
  applyScan(s,scan(['plugin_a','plugin_b']),{at:'2026-10-04T02:00:00Z',runId:'7'});assert.equal(s.plugins.plugin_b.status,'active');
 });
 test('source changes invalidate translation and reject omitted paragraphs',()=>{
- const p={name:'Demo',summary:'short',description:'First paragraph.\n\nSecond paragraph.'};p.translation={sourceHash:sourceHash(p),status:'translated',summary:'简介',description:'第一段。\n\n第二段。'};assert.ok(translationCurrent(p));p.description+=' changed';assert.equal(translationCurrent(p),false);
+ const p={name:'Demo',summary:'short',description:'First paragraph.\n\nSecond paragraph.'};p.translation={qualityVersion:2,sourceHash:sourceHash(p),status:'translated',summary:'简介',description:'第一段。\n\n第二段。'};assert.ok(translationCurrent(p));p.description+=' changed';assert.equal(translationCurrent(p),false);
  assert.throws(()=>validateTranslation({summary:'简介',paragraphs:['第一段。']},p));assert.throws(()=>validateTranslation({summary:'summary',paragraphs:['First paragraph.','Second paragraph.']},p));
  assert.equal(validateTranslation({summary:'简介',paragraphs:['完整第一段。','完整第二段。']},p).description,'完整第一段。\n\n完整第二段。');
 });

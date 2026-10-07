@@ -32,9 +32,15 @@ test('Actions calls Workers AI directly with quota visibility and caches validat
    if(String(url).endsWith('/graphql'))return Response.json({data:{viewer:{accounts:[{aiInferenceAdaptiveGroups:[{count:0,sum:{totalNeurons:0}}]}]}}});
    assert.equal(String(url),'https://api.cloudflare.com/client/v4/accounts/account-test/ai/run/@cf/qwen/qwen3-30b-a3b-fp8');
    assert.equal(options.headers.Authorization,'Bearer cf-test');inference++;
-   return Response.json({success:true,result:{response:JSON.stringify({summary:'直接翻译',paragraphs:['原始段落。']})}});
+   return Response.json({success:true,result:{response:{segments:[{id:'summary',text:'直接翻译'},{id:'p0.0',text:'原始段落。'}]}}});
   };
   const cache={},p={name:'Direct',summary:'Translate directly',description:'Original paragraph.'};
   const result=await translate(p,cache);assert.equal(result.description,'原始段落。');await translate(p,cache);assert.equal(inference,1);
  }finally{globalThis.fetch=oldFetch;restoreEnv(saved);}
+});
+
+test('rejected Workers output remains pending and never calls M2M100 or reuses legacy cache',async()=>{
+ const saved=saveEnv(),oldFetch=globalThis.fetch;configure();process.env.AI_TRANSLATION_BACKEND='workers-ai';process.env.CLOUDFLARE_API_TOKEN='cf-test';process.env.CLOUDFLARE_ACCOUNT_ID='account-test';
+ const p={name:'Notion',summary:'Read Notion',description:'Search Notion pages'},cache={};let requests=0;
+ try{globalThis.fetch=async(url)=>{if(String(url).endsWith('/graphql'))return Response.json({data:{viewer:{accounts:[{aiInferenceAdaptiveGroups:[{count:0,sum:{totalNeurons:0}}]}]}}});assert.ok(!String(url).includes('m2m100'));requests++;return Response.json({success:true,result:{response:{segments:[{id:'summary',text:'读取概念'},{id:'p0.0',text:'搜索概念页面'}]}}});};await assert.rejects(translate(p,cache),/protected name/);assert.equal(requests,3);assert.equal(Object.keys(cache).length,0);}finally{globalThis.fetch=oldFetch;restoreEnv(saved);}
 });

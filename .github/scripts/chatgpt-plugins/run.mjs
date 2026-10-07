@@ -1,3 +1,4 @@
+import {translationPriority} from './translation-quality.mjs';
 import {chromium} from 'playwright';
 import {mkdir,writeFile,appendFile} from 'node:fs/promises';
 import {CATEGORIES,canonicalPluginUrl,normalizeCards,chooseDescription,isBlocked,boundedInteger} from './helpers.mjs';
@@ -28,7 +29,7 @@ const translationBatchFull=()=>translationLimit>0&&translationAttempts>=translat
 async function translateOne(p){if(!translationReady()||aiBlocked||translationBatchFull()||!p.description||translationCurrent(p))return false;if(p.translationAttemptRun===runInstance)return false;p.translationAttemptRun=runInstance;translationAttempts++;try{p.translation=await translate(p,state.translationCache,{onRequest:()=>translationRequests++});delete p.translationError;}catch(e){p.translationError={at:new Date().toISOString(),message:e.message,transient:!!e.transient};if(e.stop)aiBlocked=true;await failure('translation',p.url,e);}return true;}
 
 try{
- if(translationReady())for(const p of Object.values(state.plugins).filter(p=>p.status!=='removed'&&p.description&&!translationCurrent(p)).slice(0,5)){if(translationBatchFull()||aiBlocked)break;await translateOne(p);await checkpoint();}
+ if(translationReady())for(const p of Object.values(state.plugins).filter(p=>p.status!=='removed'&&p.description&&!translationCurrent(p)).sort((a,b)=>translationPriority(a)-translationPriority(b)).slice(0,5)){if(translationBatchFull()||aiBlocked)break;await translateOne(p);await checkpoint();}
  if(mode!=='translate'){
   const categories=[];
   for(const category of CATEGORIES){if(Date.now()>deadline||blocked)break;const url=`https://chatgpt.com/plugins?category=${category}`;try{
@@ -49,7 +50,7 @@ try{
   }catch(e){deferDetail(p,e);await failure('detail',p.url,e);if(e.blocked){consecutiveBlocks++;console.log(`Challenge on one URL; cooling down before the next independent page (${consecutiveBlocks}/3).`);await page.waitForTimeout(30000);if(consecutiveBlocks>=3)blocked=true;}}await checkpoint();await page.waitForTimeout(1200);}
  }
  if(translationReady()&&!aiBlocked&&!translationBatchFull()){
-  const pending=Object.values(state.plugins).filter(p=>p.status!=='removed'&&p.description&&!translationCurrent(p)&&p.translationAttemptRun!==runInstance).sort((a,b)=>(a.translationError?.at||'').localeCompare(b.translationError?.at||'')||String(a.id).localeCompare(String(b.id)));
+  const pending=Object.values(state.plugins).filter(p=>p.status!=='removed'&&p.description&&!translationCurrent(p)&&p.translationAttemptRun!==runInstance).sort((a,b)=>translationPriority(a)-translationPriority(b)||(a.translationError?.at||'').localeCompare(b.translationError?.at||'')||String(a.id).localeCompare(String(b.id)));
   await runPool(pending,{concurrency:boundedInteger(process.env.AI_CONCURRENCY,3,1,8),shouldStop:()=>Date.now()>deadline||aiBlocked||translationBatchFull()},async p=>{await translateOne(p);await checkpoint();});
  }
 }finally{await context?.close();await browser?.close();await checkpoint(true);}

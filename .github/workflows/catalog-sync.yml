@@ -118,6 +118,8 @@ jobs:
         for file in *.mjs; do node --check "$file"; done
 
         '
+    - name: Apply reviewed translation repairs
+      run: node repair-reviewed.mjs
     - name: Translate pending original versions
       env:
         GITHUB_TOKEN: ${{ github.token }}
@@ -138,7 +140,7 @@ jobs:
         CLOUDFLARE_AI_USAGE_CHECK_EVERY: ${{ vars.CLOUDFLARE_AI_USAGE_CHECK_EVERY || '5' }}
         MODE: translate
         DETAIL_LIMIT: ${{ github.event.inputs.detail_limit || '10000' }}
-        TRANSLATION_LIMIT: ${{ github.event.inputs.translation_limit || vars.AI_TRANSLATION_LIMIT || '250' }}
+        TRANSLATION_LIMIT: ${{ github.event.inputs.translation_limit || (github.event_name == 'push' && '10') || vars.AI_TRANSLATION_LIMIT || '50' }}
         MAX_MINUTES: ${{ github.event.inputs.max_minutes || '210' }}
         MAX_SCROLLS: '250'
         ALLOW_LARGE_REMOVALS: ${{ github.event.inputs.allow_large_removals || 'false' }}
@@ -212,6 +214,32 @@ jobs:
     - collect
     - translate
     if: always() && needs.collect.outputs.ready == 'true' && (needs.translate.result == 'skipped' || needs.translate.outputs.ready == 'true') && (needs.collect.outputs.needs_publish == 'true' || needs.translate.outputs.needs_publish == 'true')
+  benchmark:
+    needs: [translate, publish]
+    if: always() && needs.translate.outputs.ready == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      STATE_DIR: ${{ github.workspace }}
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID || secrets.CLOUDFLARE_ACCOUNT_ID }}
+      CLOUDFLARE_AI_DAILY_NEURON_LIMIT: ${{ vars.CLOUDFLARE_AI_DAILY_NEURON_LIMIT || '8500' }}
+    steps:
+    - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+        ref: main
+    - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020
+      with:
+        node-version: '24'
+    - name: Resume fixed 50-sample comparison
+      run: node .github/scripts/chatgpt-plugins/benchmark.mjs
+    - name: Save benchmark checkpoint
+      if: always()
+      env:
+        GITHUB_TOKEN: ${{ github.token }}
+      run: node --input-type=module -e "import('./.github/scripts/chatgpt-plugins/state.mjs').then(m=>m.persist())"
 'on':
   workflow_dispatch:
     inputs:

@@ -1,3 +1,4 @@
+import {QUALITY_VERSION,checkCompleteness} from './translation-quality.mjs';
 import {createHash} from 'node:crypto';
 import {CATEGORIES} from './helpers.mjs';
 export const CATEGORY_NAMES=['热门','新品推荐','小型企业','效率','创意','开发者工具','业务与运营','数据与分析','沟通','教育','科学研究','安全','金融','医疗健康','旅行','其他'];
@@ -29,14 +30,16 @@ export function applyScan(state,categories,{at,runId,allowLargeRemoval=false}) {
  const record={id:scanId,at,complete,seen:seen.size,previous,categories:categories.map(c=>({category:c.category,count:c.items.length,status:c.paginationStatus}))};if(duplicate)state.scans.splice(previousScan,1);state.scans.push(record);
  state.scans=state.scans.slice(-60);state.events=state.events.slice(-10000);return {complete,duplicate,seen:seen.size,previous};
 }
-export function translationCurrent(p){return !!p.translation&&p.translation.sourceHash===sourceHash(p)&&p.translation.status==='translated';}
+export function translationCurrent(p){return !!p.translation&&p.translation.sourceHash===sourceHash(p)&&p.translation.status==='translated'&&p.translation.qualityVersion===QUALITY_VERSION&&p.translation.model!=='@cf/meta/m2m100-1.2b';}
 export function counts(state){const active=Object.values(state.plugins).filter(p=>p.status!=='removed');return {total:active.length,details:active.filter(p=>p.description).length,translated:active.filter(translationCurrent).length,missing:active.filter(p=>p.status==='missing').length,removed:Object.values(state.plugins).filter(p=>p.status==='removed').length,pendingDetails:active.filter(p=>!p.description||p.detailDue).length,pendingTranslations:active.filter(p=>!translationCurrent(p)).length};}
-export function catalogRows(state){return CATEGORIES.flatMap((slug,categoryId)=>Object.values(state.plugins).filter(p=>p.status!=='removed'&&p.categories?.includes(slug)).map((p,ordinal)=>({id:p.id,categoryId,ordinal,payload:{id:p.id,name:p.name,description:translationCurrent(p)?p.translation.summary:(p.legacySummary&&p.legacySummaryOriginal===p.summary?p.legacySummary:(p.summary||'官方短简介暂缺')),icon:p.icon||undefined,officialUrl:p.url,summaryOriginal:p.summary||'',longDescriptionOriginal:p.description||undefined,longDescription:translationCurrent(p)?p.translation.description:(p.legacyDescriptionSource===p.description?p.legacyDescription:undefined),contentStatus:p.description?'retrieved':'pending',translationStatus:translationCurrent(p)?'translated':'pending',availability:p.status,developer:p.information?.find(i=>i.label==='Developer')?.value||'',information:sanitizeInformation(p.information),checkedAt:p.detailCheckedAt||p.lastSeenAt}})));}
+export function catalogRows(state){return CATEGORIES.flatMap((slug,categoryId)=>Object.values(state.plugins).filter(p=>p.status!=='removed'&&p.categories?.includes(slug)).map((p,ordinal)=>({id:p.id,categoryId,ordinal,payload:{id:p.id,name:p.name,description:translationCurrent(p)?p.translation.summary:(p.summary||'官方短简介暂缺'),icon:p.icon||undefined,officialUrl:p.url,summaryOriginal:p.summary||'',longDescriptionOriginal:p.description||undefined,longDescription:translationCurrent(p)?p.translation.description:undefined,contentStatus:p.description?'retrieved':'pending',translationStatus:translationCurrent(p)?'translated':'pending',availability:p.status,developer:p.information?.find(i=>i.label==='Developer')?.value||'',information:sanitizeInformation(p.information),checkedAt:p.detailCheckedAt||p.lastSeenAt}})));}
 export function validateTranslation(result,source){
  const paragraphs=(source.description||'').split(/\n\s*\n/).filter(p=>p.trim());
  if(typeof result.summary!=='string'||!result.summary.trim()||!Array.isArray(result.paragraphs)||result.paragraphs.length!==paragraphs.length)throw new Error('Translation must include summary and every original paragraph');
  if(result.paragraphs.some((p,i)=>typeof p!=='string'||!p.trim()||p.length<Math.min(12,paragraphs[i].length*.1)))throw new Error('Translation contains an empty or suspiciously short paragraph');
  if(!/[\u3400-\u9fff]/.test(result.summary+result.paragraphs.join('')))throw new Error('Translation contains no Chinese text');
+ checkCompleteness(source.summary||source.name||'',result.summary);
+ result.paragraphs.forEach((text,i)=>checkCompleteness(paragraphs[i],text));
  return {summary:result.summary.trim(),description:result.paragraphs.map(p=>p.trim()).join('\n\n')};
 }
 
