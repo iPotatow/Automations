@@ -102970,9 +102970,22 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:02.753Z",
       "translationAttemptRun": "37609331348:1",
-      "translationError": {
-        "at": "2026-10-03T16:36:03.076Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translation": {
+        "summary": "品牌 AI 可见性代理",
+        "description": "Amplifyr 让 ChatGPT 直接访问您的品牌的 AI 可见性分析。用简单的英语询问,并获得关于语音份额、行业排名、KPIs、引用、情绪以及人们在 AI 模型中询问您喜欢的品牌的问题的即时答案。",
+        "sourceHash": "04b66b1db64103fe0fd36ce16f46891cf87bb718e5bc2a7bb15b404f14c05e05",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:49:36.815Z",
+        "usage": {
+          "prompt_tokens": 684,
+          "completion_tokens": 737,
+          "total_tokens": 1421,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 25.623119354248047
+        }
       }
     },
     "plugin_asdk_app_6a2792c624bc81919203ca37f2002068": {
@@ -103020,9 +103033,22 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:04.802Z",
       "translationAttemptRun": "37609331348:1",
-      "translationError": {
-        "at": "2026-10-03T16:36:05.126Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translation": {
+        "summary": "分析您的调查响应",
+        "description": "直接从 ChatGPT 浏览和分析您的 Centiment 组织、工作区、调查和调查响应. Centiment MCP 服务器提供安全、只读的访问到您已授权查看的调查数据,使您很容易发现调查、检查回复和总结结果,而不离开 ChatGPT。",
+        "sourceHash": "42494fbb5122787cbcd52520208a358153d7a42994fc81a35b9bc1cbc4259688",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:49:35.461Z",
+        "usage": {
+          "prompt_tokens": 670,
+          "completion_tokens": 669,
+          "total_tokens": 1339,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 23.4860897064209
+        }
       }
     },
     "plugin_asdk_app_6a2b5f32daec8191816385768400869f": {
@@ -103069,10 +103095,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:06.790Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:07.113Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "连接到您的农场数据",
+        "description": "Winnow 帮助种植者在 ChatGPT 中回答有关他们自己的农场操作的问题. 该应用程序在农场的范围操作、场景和天气表中暴露了方案发现和只读的 SQL 查询工具,并通过服务器侧验证拒绝非 SELECT 陈述和范围外的数据集。",
+        "sourceHash": "7a2a4f3a78e32ec472871d7a8b4df64aa0e410a38ffb42fbc58563b773418d8b",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:49:43.648Z",
+        "usage": {
+          "prompt_tokens": 665,
+          "completion_tokens": 529,
+          "total_tokens": 1194,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 19.19649887084961
+        }
       }
     },
     "plugin_asdk_app_6a0b6f15203881919f5b90e74321fb24": {
@@ -103120,10 +103159,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:08.790Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:09.114Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "连接客户智能",
+        "description": "Enterpret 帮助团队了解客户在支持票、销售电话、应用评论、调查、Slack 等方面所说的内容。 提出自然语言问题,以查找投诉趋势、功能请求、特定领域的模式和直接的客户报价。",
+        "sourceHash": "90e67636bc2859ba003a98eccd67f86628f696ed8244c1235582af7b26d41140",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:49:46.161Z",
+        "usage": {
+          "prompt_tokens": 682,
+          "completion_tokens": 822,
+          "total_tokens": 1504,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 28.204227447509766
+        }
       }
     },
     "plugin_asdk_app_6a4a5924bbe08191adba09cf6018cd21": {
@@ -103170,10 +103222,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:10.880Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:11.205Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "管理 Azadea BI 洞察力",
+        "description": "Azadea One 提供经批准的商业用户在性能营销、CRM、电子商务、实体商店、电子商务运营、客户分析和营销预算上仅可读的综合见解。",
+        "sourceHash": "42464b00dba2607873095e5e047365dc21607596cc24f67ea7d69520618eaf97",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:49:49.145Z",
+        "usage": {
+          "prompt_tokens": 670,
+          "completion_tokens": 755,
+          "total_tokens": 1425,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 26.10692024230957
+        }
       }
     },
     "plugin_asdk_app_6a7c7752de408191a101b78e59fda025": {
@@ -103220,10 +103285,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:13.119Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:13.442Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "实验和产品数据",
+        "description": "此插件是与Datadog产品分析、功能旗帜和实验进行代理互动的最佳方式",
+        "sourceHash": "cfbadff36964ba22aa5f20a2b790b573795990ecac11a301073a4fe833470ef1",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:49:52.551Z",
+        "usage": {
+          "prompt_tokens": 634,
+          "completion_tokens": 601,
+          "total_tokens": 1235,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 21.24732208251953
+        }
       }
     },
     "plugin_asdk_app_6a60a8b378ec8191b43d237119f7fa0d": {
@@ -103270,10 +103348,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:15.090Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:15.414Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "跟踪 App Store 排名",
+        "description": "询问有关您在 Appskyline 中追踪的移动应用程序的问题. 查看商店身份、追踪的关键字以及当前的 iOS App Store、Google Play 和 Microsoft Store 排名,而不离开 ChatGPT。",
+        "sourceHash": "b90815ed057ff9d18ee2e005422b08f899f7268b18e9591b20592e2c40e158bc",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:50:00.957Z",
+        "usage": {
+          "prompt_tokens": 647,
+          "completion_tokens": 731,
+          "total_tokens": 1378,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 25.269161224365234
+        }
       }
     },
     "plugin_asdk_app_696cfe921f98819195e54b7c46666164": {
@@ -103320,10 +103411,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:17.192Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:17.517Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "查找英国法律住房数据",
+        "description": "输入英国邮政代码,在清晰、交互式地图上探索法律住房相关信息。\n\n查看本地HMO许可计划,附近的咨询中心,法院裁决和该地区的议员,然后过滤至最重要的内容,并点击标记以获取快速细节。\n\n开放源代码链接可用于更深入的背景,这是一个信息性概述,而不是法律建议。",
+        "sourceHash": "c4186ac6185c838195701044b77ccb23930d46c7eda1d377944fef147858c80b",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:50:00.538Z",
+        "usage": {
+          "prompt_tokens": 680,
+          "completion_tokens": 798,
+          "total_tokens": 1478,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 27.463581085205078
+        }
       }
     },
     "plugin_asdk_app_6a577b9a9b94819188c363160d99cefb": {
@@ -103370,10 +103474,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:19.294Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:19.618Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "数据管道管理",
+        "description": "提取可以帮助团队检查数据连接器和管道健康,配置源和目的地,管理连接时间表和流程,查看运行历史记录,解决故障,并启动批准的手动运行。",
+        "sourceHash": "07761b2e09e321c0d9f7d3ae9ddcb039bcc7e8f32f7dc2aefaa4792ae5b846a1",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:50:03.254Z",
+        "usage": {
+          "prompt_tokens": 640,
+          "completion_tokens": 577,
+          "total_tokens": 1217,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 20.54367446899414
+        }
       }
     },
     "plugin_asdk_app_69d61a063cac8191a0694067973607e1": {
@@ -103420,10 +103537,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:21.381Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:21.705Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "分析形式提交",
+        "description": "通过ChatGPT阅读和分析表单提交。使用自然语言搜索提交,按日期或状态过滤,并获得人工智能生成的见解,如情绪,类别和摘要,并将其保存为自定义字段。",
+        "sourceHash": "dc15f628f3b9455edcee2501bbe937e4f60ec60138e3737307a8a853bd02afac",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:50:10.274Z",
+        "usage": {
+          "prompt_tokens": 666,
+          "completion_tokens": 654,
+          "total_tokens": 1320,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 23.01047134399414
+        }
       }
     },
     "plugin_asdk_app_69a21510293c8191bdd3a807d501c389": {
@@ -103471,10 +103601,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:23.392Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:23.717Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "查询数据并构建洞察力",
+        "description": "Carbon Arc MCP 服务器是一个商业智能平台,通过提供访问私人数据,将自然语言问题转化为决策的见解。\n\n核心功能:\n\n1. 询问问题,如“向我展示沃尔玛的2024卡支出”,并获得结构化数据表 2. 根据可用的数据搜索公司,地点和指标的名称 3. 分析不同时间段和地理区域的趋势 4. 探索实体之间的关系和可用的数据",
+        "sourceHash": "2ef470367731308ae1c3d4f4ccd0fef6ca3a7abbdd2a1f00e3cdc2a9dcba61f7",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:50:11.303Z",
+        "usage": {
+          "prompt_tokens": 702,
+          "completion_tokens": 675,
+          "total_tokens": 1377,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 23.816926956176758
+        }
       }
     },
     "plugin_asdk_app_6a722f577c248191ae60b6afb988342e": {
@@ -103521,10 +103664,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:25.398Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:25.721Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "网络分析对话",
+        "description": "查看您的网站如何运作的自然语言\n\n可查看访问者,会话,主要页面,转换和交通质量,区分人员,人工智能探测器和常规机器人。\n\n每个用户只能访问与其帐户相关的网站的数据。",
+        "sourceHash": "235e16125e18e4e7304b4cc8cb9548c8d1e37c5aca81b49304002aa789bba604",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:50:16.291Z",
+        "usage": {
+          "prompt_tokens": 682,
+          "completion_tokens": 947,
+          "total_tokens": 1629,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 32.013572692871094
+        }
       }
     },
     "plugin_asdk_app_6a8774407d4081919100aae8d18bba79": {
@@ -103571,10 +103727,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:27.403Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:27.727Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "Craft 内容. 赢得 AI 搜索",
+        "description": "通过 ChatGPT 直接访问您的 AirOps 工作区、品牌套件和 AEO (AI Engine Optimization) 分析,监控您的品牌在 AI 搜索结果中的表现,分析引用率,并优化您的内容策略。\n\n您可以使用 AirOps 来:\n\n品牌绩效分析:“在过去 30 天内显示我的品牌引用率和语音份额”\n\n内容优化:\n\n“我的网站引用的主要问题是什么,我如何改进我的答案?”\n\n竞争性智能:\n\n“比较我品牌的AI搜索性能与我的三大竞争对手”\n\n使用您的品牌套件创建内容:\n\n“写一篇关于附件文档中描述的产品的博客文章”",
+        "sourceHash": "94291298e89275322da108d87ba9ec80ea31cb4386c14399dafd618ff7ffeed5",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:50:29.442Z",
+        "usage": {
+          "prompt_tokens": 755,
+          "completion_tokens": 1017,
+          "total_tokens": 1772,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 34.48440170288086
+        }
       }
     },
     "plugin_asdk_app_6a7634d6666c8191b3983771aab9f0d7": {
@@ -103621,10 +103790,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:29.489Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:29.813Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "全球商标数据",
+        "description": "Clarivate IPOne CompuMark Trademark MCP 可帮助团队在全球商标登记处更快地搜索、审查和验证商标。它结合了广泛的管辖范围覆盖,并为商标名称、语音变异、申请人、类、商品和服务以及提交细节提供灵活的搜索选项。",
+        "sourceHash": "1ffb0cef0bc00c3515c168be216a965e23fda4e99cd1a8e8869c3fe36c811791",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:50:26.811Z",
+        "usage": {
+          "prompt_tokens": 704,
+          "completion_tokens": 870,
+          "total_tokens": 1574,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 29.768754959106445
+        }
       }
     },
     "plugin_asdk_app_6a63863d58c081918f626f59a683791e": {
@@ -103671,10 +103853,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:31.585Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:31.909Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "查找和分析美国房地产",
+        "description": "Homesage.ai 将 ChatGPT 变成一个房地产分析师,对 155 万美元以上的美国住宅房地产提供投资者级别的数据。 连接一次,然后用简单的语言询问估值,可比较的销售,租赁和翻转回报,翻新成本,所有者细节和完整的财产报告。\n\n询问任何美国住宅地址,并获得房地产投资指标,自动估值(AVM),与修理后价值(ARV)的比较销售,以及人工智能评估的房地产状况,包括列表照片或自己的图像的分析。\n\n对于投资者来说,Homesage.ai 计划固定回报,房间接房的翻新成本,以及长期和短期租赁经济学,如现金流、上限率、NOI和现金回报。\n\n通过 ZIP 级销售数据和 Market Outlook 得分屏幕整个市场,或搜索国家财产数据库,使用投资者过滤器查找价格,状况,股权,紧急信号等。\n\n额外的工具包括太阳能潜力和AI屋顶分析,抵押贷款和抵押贷款记录,预先关闭状态,位置风险旗帜,以及业主跳过追踪。\n\n大多数分析工具从您的 Homesage.ai 帐户中消耗信用,每个工具的信用成本在其描述中列出。\n\nHomesage.ai 读取财产数据并返回分析. 它不会修改您的帐户,转移资金,或代表您采取行动. 覆盖仅限于美国住宅财产,而可比较的销售和 ARV 数据仅限于非披露状态,销售价格不公开。",
+        "sourceHash": "18ed92c9072087fdfebf2b940652d68ee5fd37513b1a5b88bee0b3d17b463e2f",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:50:46.104Z",
+        "usage": {
+          "prompt_tokens": 959,
+          "completion_tokens": 968,
+          "total_tokens": 1927,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 33.93455123901367
+        }
       }
     },
     "plugin_asdk_app_6a54bd377acc8191ab61241cccd56979": {
@@ -103721,10 +103916,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:33.642Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:33.967Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "Pokémon 卡片价格",
+        "description": "pokeka 是分类的 Pokémon 交易卡的市场参照。用简单的语言询问 - 即使是收藏家称呼“Moonbreon” - 并获得准确的卡片身份(组和号码),具有日期、30/90 天的趋势和稀缺信号的代表性市场值。",
+        "sourceHash": "ba9a9671c38f56aa536cd27b539e6c15dbeaf358ef560637513b0534535e3277",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:50:37.435Z",
+        "usage": {
+          "prompt_tokens": 701,
+          "completion_tokens": 773,
+          "total_tokens": 1474,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 26.798828125
+        }
       }
     },
     "plugin_asdk_app_6a552795016c8191b525649af7df1a78": {
@@ -103772,10 +103980,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:35.708Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:36.032Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "了解您的用户",
+        "description": "数字双胞胎是您在数据上训练的真实用户的镜子,以便他们像真实用户一样思考,做出决策和做出反应。\n\n这个插件允许您注册8月,并与您的数字双胞胎从ChatGPT或Codex内部互动。",
+        "sourceHash": "4fbccc0c3e0c6c18c827c6401b211075f56a848c444e455d4e41092c8e3ed648",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:50:39.943Z",
+        "usage": {
+          "prompt_tokens": 669,
+          "completion_tokens": 784,
+          "total_tokens": 1453,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 26.986064910888672
+        }
       }
     },
     "plugin_asdk_app_6a85a87c8ab881918ae0123f7314759e": {
@@ -103822,10 +104043,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:37.723Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:38.047Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "分析电影和市场数据",
+        "description": "AIDA帮助电影和娱乐专业人士分析电影,剧院,节目时间,预售,票房结果,历史占用率和观众预测。用自然语言提问,以比较性能,跟踪预售速度,审查时间表,检查实现的市场结果,并结合多个数据领域的信号。",
+        "sourceHash": "be92ab9a04919b16a80ca7e7e18e0f04b3063989a64ceaf9876d806741e0b0dd",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:50:45.729Z",
+        "usage": {
+          "prompt_tokens": 679,
+          "completion_tokens": 545,
+          "total_tokens": 1224,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 19.74884033203125
+        }
       }
     },
     "plugin_asdk_app_6a202fec83d08191a190caf5d024e893": {
@@ -103872,10 +104106,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:39.768Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:40.093Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "与您的业务数据聊天",
+        "description": "WitCloud 将 ChatGPT 连接到您的营销、销售和电子商务数据中。用简单的语言提问,并直接从您的业务数据中获得答案 - 探索客户、活动、收入和趋势,而不写 SQL。",
+        "sourceHash": "40dd0a4a924eae9fc4f8af8c9767fee4561f612aec8dd8383a83371010b14ddf",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:50:48.427Z",
+        "usage": {
+          "prompt_tokens": 670,
+          "completion_tokens": 756,
+          "total_tokens": 1426,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 26.13739585876465
+        }
       }
     },
     "plugin_asdk_app_6a7f1d4e9f388191ab1e0f00bf041b2b": {
@@ -103923,10 +104170,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:41.753Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:42.077Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "寻找和分析创作者",
+        "description": "Influencers Club 将 ChatGPT 连接到 Instagram、TikTok、YouTube、X、Twitch 和 OnlyFans 上的创作者数据中,用简单的语言来询问 - “在 Instagram 上找到拥有 100,000 名追随者和 3% 以上参与者的健身创作者” - 并获得您可以采取行动的排名列表。\n\n该插件提供19个工具:创作者发现与语义搜索和粉丝,参与,位置和语言的过滤器;配置文件丰富包括联系信息,观众人口统计和过去的品牌交易;最近的帖子与参与指标;创作者之间的观众重叠比较;并寻找类似于已经表现良好的创作者。\n\n结果来自 Influencers Club API,并对您的帐户发票,显示在您的仪表板上,就像您在那里运行它们一样。",
+        "sourceHash": "977fd9e4c7a37a3bb560e5d769275d11ac0e15c4198d4c0b7769b1a86d00c211",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:51:00.175Z",
+        "usage": {
+          "prompt_tokens": 795,
+          "completion_tokens": 871,
+          "total_tokens": 1666,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 30.220067977905273
+        }
       }
     },
     "plugin_asdk_app_6a79cfc7d22081918410284c05c5cdeb": {
@@ -103973,10 +104233,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:44.514Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:44.839Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "冲浪预报",
+        "description": "WaveMaster AI 帮助用户和代理商查询冲浪预测,海洋条件和海滩排名在 57 个国家和 6 个大洲的 916 多个地点. 该插件允许搜索有关波浪,风,潮汐,潮汐,温度和冲浪成绩的信息直接没有 ChatGPT,与组织的数据来支持冲浪的快速决定。",
+        "sourceHash": "11bea50b7f43d4e59ce4cbee0babdbe0e882c17a06b8929f179d66f367d33cd6",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:50:55.755Z",
+        "usage": {
+          "prompt_tokens": 706,
+          "completion_tokens": 676,
+          "total_tokens": 1382,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 23.86589813232422
+        }
       }
     },
     "plugin_asdk_app_69e0ace8682481919ed9bce7fb231a52": {
@@ -104024,10 +104297,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:46.527Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:46.852Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "想要你的营销仓库",
+        "description": "Quanti Analytics 将 ChatGPT 连接到您的营销数据仓库(BigQuery、Snowflake、Redshift),通过自然语言为您提供即时访问跨渠道广告数据。\n\n你能做什么:\n\n询问您的营销绩效,并从实际表格中生成的 SQL 查询 - 没有幻觉的列名 运行超过 200 个连接器的仅读查询:Google Ads,Meta,TikTok,Amazon Ads,Microsoft Ads,Shopify,Piano Analytics 和更多 浏览预建的报告目录以发现每个连接器的可用指标和尺寸 将有用的分析保存为可重复使用的模板,个人或与您的团队共享 运行营销组合建模研究来衡量每个渠道对您的 KPI 的实际贡献 如何工作:\n\n通过 OAuth 连接您的 Quanti 帐户 ChatGPT 检索您的项目的实际数据架构 - 包括每个指标和维度的语义定义 用简单的语言提出您的问题,获得准确的 SQL,审查它,并执行数据访问仅限于阅读。",
+        "sourceHash": "fffb533ac0d2167e04eedc14a2fb03ef077fa8cedbe45fa8f627da580bb84345",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:51:04.040Z",
+        "usage": {
+          "prompt_tokens": 830,
+          "completion_tokens": 786,
+          "total_tokens": 1616,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 27.79157257080078
+        }
       }
     },
     "plugin_asdk_app_6a515f15215c819196d35d1462b6c542": {
@@ -104075,10 +104361,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:48.491Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:48.815Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "网站分析编辑",
+        "description": "Ezoic Analytics 允许出版商在 ChatGPT 中探索他们的网站分析。 询问有关页面视图、访问量、参与度、广告印象、视频性能和 EPMV 等收入指标的问题,以您的 Ezoic 域组分数据以日期、页面、国家、设备、流量来源和数十种其他维度进行分类,使用过滤和分类 - 与 Ezoic 的大数据分析仪表板相同的数据。",
+        "sourceHash": "3b220fbd636c54d531853977fb917797e183536763ec40c7c5b29b0016b45347",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:51:04.856Z",
+        "usage": {
+          "prompt_tokens": 693,
+          "completion_tokens": 537,
+          "total_tokens": 1230,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 19.569786071777344
+        }
       }
     },
     "plugin_asdk_app_6a0d6c1e67588191b68c0492dfbfe1da": {
@@ -104125,10 +104424,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:50.477Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:50.802Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "询问你的数据任何东西。",
+        "description": "Sweet 帮助电子商务团队了解销售、营销、客户、产品、折扣、退款和利润绩效,使用其连接的 Sweet 数据。\n\n用简单的语言问问题,例如是什么推动了销售增长,哪些营销渠道最有效,客户保留如何变化,哪些产品或折扣正在影响利润率,或者退款在哪里影响盈利率。",
+        "sourceHash": "06d8cd4768b113f8c1e555eccb43686798cc354474df48d91753db1e9a77ee6b",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:51:11.566Z",
+        "usage": {
+          "prompt_tokens": 709,
+          "completion_tokens": 945,
+          "total_tokens": 1654,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 32.07748794555664
+        }
       }
     },
     "plugin_asdk_app_6a7ddd659a0c8191baa547c058e400bb": {
@@ -104175,10 +104487,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:52.492Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:52.815Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "物流运营分析",
+        "description": "SiteTrax.io 是授权团队的物流操作分析应用程序。搜索共享项目和场地,检查集装箱和供应链设备检测,查看相机健康和异常,分析视频和图像,获取审计反馈,并运行服务器侧分析状态,体积,活动和序列指标。查看 SiteTrax.io 物流定义并获取研究准备的报告,包括劳动效率,收入和成本降低的机会。",
+        "sourceHash": "881227fdd54d914e3cd48150736215b93843435f481b9cc3567f19c39e10a5a5",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:51:14.263Z",
+        "usage": {
+          "prompt_tokens": 704,
+          "completion_tokens": 670,
+          "total_tokens": 1374,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 23.67380142211914
+        }
       }
     },
     "plugin_asdk_app_6970b8cdeb548191ae0bf1a90bf4a5f5": {
@@ -104226,10 +104551,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:54.537Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:54.860Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "Query 专业面板数据",
+        "description": "您可以立即获得有关Padel专业的答案。\n\n查看任何球员的个人资料、排名历史和职业统计数据。比较球员或对手之间的头对头记录。探索锦标赛结果、比赛分数、详细的比赛统计数据和点对点的破坏情况。模拟基于真实表现数据的比赛。覆盖范围涵盖了Premier Padel和FIP赛道,以及历史的World Padel Tour和Pro Padel Tour数据。\n\n由Padel API提供。",
+        "sourceHash": "1813cf4c03f777482dacddd8cd5598d510473441dbc292bd50de38d5d30e408a",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:51:22.625Z",
+        "usage": {
+          "prompt_tokens": 696,
+          "completion_tokens": 950,
+          "total_tokens": 1646,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 32.169742584228516
+        }
       }
     },
     "plugin_asdk_app_6a5e636eabcc8191b055490191e2a3ee": {
@@ -104277,10 +104615,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:56.551Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:56.876Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "代理人重播会",
+        "description": "** 主文是为代理人而不是人类构建的会话重播。\n\n连接Subtext,你的Codex代理人可以打开真实的制作会话,并直接调查它们 - 没有扫描时间线,没有视频观看。\n\n向您的代理人发送来自已经连接的任何地方的子文链接 - 一个Sentry问题,一个线性门票,一个支持线条,一个PR - 并使用Agenttic Session Review跳到正确的时刻,检查屏幕截图和可访问性树木,DIFF DOM状态,并阅读控制台和网络活动以找到根源原因。\n\n你的代理人得到的内容: * ** 会话工具它直接呼叫**:打开会话,跳到一瞬间,检查和比较状态 - 目的构建,以便代理人通过密集的会话数据高效地,比指向原始代理人更少的代币。 * ** 全类最佳捕捉来自Fullstory**:完整捕捉行为,按需的像素完美的屏幕截图,DOM分散,窗户化控制台和网络背景。 * ** 隐私用于生产**:代理人掩盖或排除敏感领域的精确工具,以及通过MCP的代理友好DLP扫描工具。\n\n与Codex或任何MCP兼容的代理商一起工作. 代码先安装,自助注册,慷慨的免费级别,基于使用的定价。",
+        "sourceHash": "03e4367b2d8f5f7bf5ffbc337e69b4531ba157e3c39d6f73621307051c289814",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:51:45.662Z",
+        "usage": {
+          "prompt_tokens": 919,
+          "completion_tokens": 1164,
+          "total_tokens": 2083,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 39.722625732421875
+        }
       }
     },
     "plugin_asdk_app_6a68a3cbbb9481918cc81087bc39a17a": {
@@ -104328,10 +104679,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:36:58.594Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:36:58.918Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "迪拜房地产数据",
+        "description": "询问ChatGPT关于迪拜房地产数据的任何信息,并获得知情的答案,为您提供与无限可能性的11m迪拜房地产销售和租赁记录查询的能力。被迪拜最好的房地产经纪人,投资者和房地产专业人士所喜爱。",
+        "sourceHash": "480ae20f978d321f011fc30aed03a84526dc8a3242f9b2cf0f791203ea9f5113",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:51:23.494Z",
+        "usage": {
+          "prompt_tokens": 686,
+          "completion_tokens": 879,
+          "total_tokens": 1565,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 29.95978546142578
+        }
       }
     },
     "plugin_asdk_app_6a90b43d9c3c8191ba99cecd23423232": {
@@ -104378,10 +104742,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:00.549Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:00.873Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "真实的应用屏幕和A / B测试",
+        "description": "Lazyweb 在您设计之前提供 ChatGPT 的真实产品证据。从顶级应用程序中搜索 281k+ 真实屏幕和流程,带有结果的 20k+ 移动 A/B 测试和真正的实验写作 - 然后将证据转化为行动:任何网站的增长得分,完整的增长和付款墙报告,带有托管审查的用户界面更改建议,以及您的团队可以执行的增长阻塞。",
+        "sourceHash": "22ce3edf5ba353b8f69da8e93b2132262237377c1257f76fd4266fc8a7e41641",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:51:35.892Z",
+        "usage": {
+          "prompt_tokens": 726,
+          "completion_tokens": 919,
+          "total_tokens": 1645,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 31.36376190185547
+        }
       }
     },
     "plugin_asdk_app_6a73741a42848191a598382633e8bc0a": {
@@ -104428,10 +104805,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:02.560Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:02.884Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "AI搜索收购分析",
+        "description": "Webless 将 ChatGPT 和 Codex 连接到您认证的 Webless 分析工作区。 询问网站搜索需求、内容参与、访客旅行、收购来源和意图差距。 插件读取当前的分析目录,运行租户范围内的语义查询,并可以在网络隔离的沙盒中计算比较或可视化。 它不接受原始 SQL 或允许用户选择其他租户的数据。",
+        "sourceHash": "05960f1984a405a89dd0cc235f71d7cf7ffd791aebc5bf499f54f14f6238705c",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:51:33.523Z",
+        "usage": {
+          "prompt_tokens": 689,
+          "completion_tokens": 795,
+          "total_tokens": 1484,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 27.413780212402344
+        }
       }
     },
     "plugin_asdk_app_6a8cc6dc38ac819198b700b1b4e67fb0": {
@@ -104478,10 +104868,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:04.655Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:04.979Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "人与公司数据",
+        "description": "通过 Crustdata 在 Chatgpt 中搜索、丰富和观看个人和公司,使用 150 多种搜索过滤器来构建 TAM、前景和候选人列表,如工作名称、行业、融资等。",
+        "sourceHash": "a7026712776acc522f4aedbe7224f181ef483114a4eb0a54bcaf626969cb0bf0",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:51:43.667Z",
+        "usage": {
+          "prompt_tokens": 696,
+          "completion_tokens": 680,
+          "total_tokens": 1376,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 23.941553115844727
+        }
       }
     },
     "plugin_asdk_app_696a80064378819184c212f6244021ec": {
@@ -104529,10 +104932,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:06.649Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:06.973Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "您的零售洞察助理",
+        "description": "Otto为美国各地的实体商店提供实体零售情报。\n\n通过 PassBy 的专有数据,它允许用户提问简单的问题,例如哪家商店最繁忙,有多少人访问过一个位置,或者城市和品牌之间的性能如何比较。\n\nOtto 使用集成的、隐私安全的零售数据进行分析和报告,以帮助用户了解物理零售领域正在发生的事情。",
+        "sourceHash": "b9d59e7f1c154304f0a2eb0f3b5540228e54bcc27daf528e1e8fa5ef8228c6bd",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:51:53.453Z",
+        "usage": {
+          "prompt_tokens": 698,
+          "completion_tokens": 832,
+          "total_tokens": 1530,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 28.582965850830078
+        }
       }
     },
     "plugin_asdk_app_6a888e2ed7288191b4a7a5789517b783": {
@@ -104580,10 +104996,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:08.680Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:09.005Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "跟踪AI可见性,AEO & GEO",
+        "description": "Finseo 跟踪您的品牌在 AI 搜索中可见程度 - 人们从 ChatGPT, Perplexity, Gemini, Claude 和其他 AI 助手那里获得的答案. 它将您的 AI 可见性,生成引擎优化 (GEO) 和响应引擎优化 (AEO) 数据直接带入 ChatGPT。\n\n连接你的Finseo帐户并问问题,例如:“本月我的品牌在AI搜索中有多明显?”“AI答案中最常提到哪些竞争对手?”“我的行业中哪些AI模型引用了哪些来源?”“让我看到我的品牌尚未出现的追踪提示。\n\n您可以做些什么: - AI 可见性 KPIs:可见性率,语音份额,平均提及顺序和提及深度,与定制日期范围的趋势 - 竞争对手跟踪:AI 可见性排名,差距分析和头对头比较 - 快递级别的见解:检查跟踪的提示和实际的AI 响应,包括品牌情绪 - 引用分析:查看哪些域 AI 助理引用和您的内容频率作为源 - GEO 建议:审查 AI 生成的优化任务以提高您的可见性在 AI 搜索中\n\n该插件仅可阅读:它可以检索您的跟踪数据,但从不修改它。",
+        "sourceHash": "3f77585eda41400f8bf360ed89feaec7c9de61e7d22e9108740a20e394feb8ab",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:52:04.682Z",
+        "usage": {
+          "prompt_tokens": 875,
+          "completion_tokens": 1005,
+          "total_tokens": 1880,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 34.67365264892578
+        }
       }
     },
     "plugin_asdk_app_6a21d9628cac8191bfe79ebbbf898379": {
@@ -104630,10 +105059,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:10.697Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:11.021Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "电子商务销售分析",
+        "description": "Fullmetrix 允许在线商店所有者以简单的语言查询他们的电子商务分析。它报告订单、总销售、净收入、税收、航运、销售项目以及组织内的所有活跃商店中的独特、新客户和返回客户。结果可以按日期、商店、国家、客户类型或订单状态在任何日期范围内进行组合,并适用于每个组织的收入规则。",
+        "sourceHash": "4e4a78c9ba56ea8dc961c860e6386701371a72294a87afed5c4618cbbf50f8be",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:51:55.470Z",
+        "usage": {
+          "prompt_tokens": 697,
+          "completion_tokens": 794,
+          "total_tokens": 1491,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 27.42030143737793
+        }
       }
     },
     "plugin_asdk_app_6a8163d9224c81919fcf99ae872b223e": {
@@ -104680,10 +105122,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:12.697Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:13.020Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "监控和分析评论",
+        "description": "Repuso 将 ChatGPT 连接到您的评论监测中:从 50 多种平台(Google、TripAdvisor、Trustpilot、G2、App Store 等)获取标准化评论,每个平台都有情绪标签和飞行翻译。请求 AI 见解 - 客户赞扬什么,修复什么 - 和 AI 评论概要每个配置文件。跟踪官方评级历史,与您监视的竞争对手配置文件进行比较,标记您的工作流程的评论,并管理签名的 Webhooks 用于新评估和评级更改事件。从聊天中直接添加业务名称或 URL 的个人资料。每个呼叫都运行在您的 Repuso 监控 API 帐户上 - 与 REST API 相同的密钥、报价和定价。 10 天免费",
+        "sourceHash": "c40fa3ebbbb7369c1471d67c8d8f1c02742f3494cc2097c6b17e0021a2e0e20f",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:52:10.203Z",
+        "usage": {
+          "prompt_tokens": 754,
+          "completion_tokens": 1087,
+          "total_tokens": 1841,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 36.61301040649414
+        }
       }
     },
     "plugin_asdk_app_6a5c0b47f55c8191a0dd3096012dfce0": {
@@ -104731,10 +105186,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:14.786Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:15.109Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "管理客户反馈",
+        "description": "使用您的 Sleekplan 工作空间 - 反馈板,路线图,更改日志和调查 - 直接从 ChatGPT 工作。\n\n请求您的顶级功能请求的摘要,并查看客户实际要求的内容,按投票和最近的活动进行排序。 查找重复的帖子,并将其合并,以便投票数到一个单一的请求。 更新状态,分配标签,并用评论回复客户。 当您发送某些内容时,在不离开对话的情况下编写和发布更改日志条目。 审查 NPS、CSAT 和调查响应以了解用户对您的产品的感受。\n\n该插件涵盖了40多个反馈帖子,投票和选民,评论,标签,状态,用户和细分,调查和更改日志条目的操作;读取立即运行;任何改变数据 - 创建,编辑,合并,删除 - 都向您显示并在运行之前得到确认。\n\n需要有管理员或贡献者访问的 Sleekplan 工作区. 登录时使用您的 Sleekplan 帐户。",
+        "sourceHash": "4d75ed8510fc10a09e826c3e39e607a163c592a863f531fe6ee728520fca9e37",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:52:15.757Z",
+        "usage": {
+          "prompt_tokens": 804,
+          "completion_tokens": 927,
+          "total_tokens": 1731,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 31.968276977539062
+        }
       }
     },
     "plugin_asdk_app_6a5f43058c0081918bcb6f6c4aeaaaec": {
@@ -104781,10 +105249,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:16.801Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:17.127Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "Shopify 利润与广告分析",
+        "description": "此插件提供了连接到Shopify应用程序的Juicy统计数据,概述了利润,收入和广告支出 - 加上完整的利润和损失报告,订单列表和成本和利润率,以及详细的订单信息,包括线条项目和分配触摸点。",
+        "sourceHash": "b55c5db3bd0e60bd6e6c91960071fe0688b1ea81bbe6db07952a9e6ac7ba8a8b",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:52:12.963Z",
+        "usage": {
+          "prompt_tokens": 661,
+          "completion_tokens": 686,
+          "total_tokens": 1347,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 23.962541580200195
+        }
       }
     },
     "plugin_asdk_app_69f0459f7b508191a7cc3188d4f1a2ff": {
@@ -104831,10 +105312,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:18.851Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:19.176Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "完整建筑 LCA",
+        "description": "该应用程序帮助用户执行LCA。",
+        "sourceHash": "259403db96e4194dd49446f533147a35144aaffffa4b8a986258d5fb9959de51",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:52:15.196Z",
+        "usage": {
+          "prompt_tokens": 619,
+          "completion_tokens": 487,
+          "total_tokens": 1106,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 17.703828811645508
+        }
       }
     },
     "plugin_asdk_app_6a91a85bf4a08191af8367df88e7f0c8": {
@@ -104881,10 +105375,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:20.835Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:21.166Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "使用 SQL 研究 Web",
+        "description": "Keenable SELECT 用一个查询来回答一个研究问题,而不是十页读取。\n\n普通的网页搜索将链接列表交给模型,并将读取、提取和解复制留给模型。SELECT在搜索中执行此操作.该模型在 DuckDB 方言中编写一个只读的 SQL 语句;服务器在并行执行搜索,收集页面,用每行模型调用提取查询所要求的字段,删除复制并返回表。\n\n一个查询可以覆盖超过一千个页面,无需额外费用将其过滤到普通的SQL中,并将其组合到答案中。\n\n每个结果都被保存为一个结果设置为30天,所以下一个问题可以被问到相同的页面,而无需再次搜索. 一个完成的表可以作为一个HTML报告,图表和所有,在一个链接你可以交给某人。\n\n它不是快速查看一页的工具:一个查询从秒到分钟运行,因为它真的搜索,收集和阅读。\n\n请连接您的 Keenable 帐户一次以启用它. 搜索和收取该帐户的账单。",
+        "sourceHash": "bbbffb428c3a8ccb6992140c8b8ecdb89032ac765043c226fad08be6b96b9de7",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:52:30.131Z",
+        "usage": {
+          "prompt_tokens": 885,
+          "completion_tokens": 851,
+          "total_tokens": 1736,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 30.026784896850586
+        }
       }
     },
     "plugin_asdk_app_6a6a0f6c3d2c8191a795d56bd1973f34": {
@@ -104931,10 +105438,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:22.844Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:23.168Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "研究法律数据",
+        "description": "Alizé是一个法律数据库和法律专业人士的搜索引擎. 有了这个连接器,你的助理从真实的文件而不是从记忆中回答,并给你一个引用,你可以打开和检查。\n\n它搜索的是同一个 Alizé 平台运行:在约 250 个收藏中,超过 20 万份文件,从官方出版商中获取,并每天更新。 覆盖范围为卢森堡,比利时,西班牙和欧盟,以及法国和国际法的部分覆盖范围完全开发。\n\n你的助手会思考,阿利兹给了它真正的思考法则。\n\n您需要一个 Alizé 帐户和您公司的现有订阅,您可以访问您已经在 Alizé 中拥有的相同的收藏,而不仅如此,连接器只能访问 Alizé 的法律数据库,因此它永远不会看到您的文件。",
+        "sourceHash": "159fcf6ca56c3c72e264065e00ebc736e56f3bff5970bb8a7fd75e4fda1d28f7",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:52:36.117Z",
+        "usage": {
+          "prompt_tokens": 800,
+          "completion_tokens": 1066,
+          "total_tokens": 1866,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 36.18577194213867
+        }
       }
     },
     "plugin_asdk_app_6a0ed52f792c8191a57a8423306bcba8": {
@@ -104981,10 +105501,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:24.832Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:25.158Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "查询 Steep 工作区数据",
+        "description": "Steep 允许您查询您的语义层. 检索指标,目标,维度和工作区数据 — 保持您的分析可访问和在文本中工作。",
+        "sourceHash": "37417f2a096b44a0abcddc728468bc6a17313775ef05ea763183a974a7e97e42",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:52:23.400Z",
+        "usage": {
+          "prompt_tokens": 639,
+          "completion_tokens": 547,
+          "total_tokens": 1186,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 19.624805450439453
+        }
       }
     },
     "plugin_asdk_app_6a5a300495f88191bc275d9a593a4acb": {
@@ -105031,10 +105564,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:26.767Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:27.092Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "房地产数据为PR & CO",
+        "description": "用简单的语言查询RED Atlas房地产数据;查找和过滤在波多黎各和哥伦比亚的清单,包裹,财产,交易,许可证和税收;抽取市场统计和趋势;查找地点和边界多角形;并生成AVM和可比的估值报告。",
+        "sourceHash": "a39b4c5269996dd08f00f4ad7865889b33f2719303db8c48e5f6eb33020dd9a2",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:52:30.603Z",
+        "usage": {
+          "prompt_tokens": 690,
+          "completion_tokens": 860,
+          "total_tokens": 1550,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 29.39926528930664
+        }
       }
     },
     "plugin_asdk_app_69b1bc3173c08191afcd571ab8fe39f7": {
@@ -105081,10 +105627,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:28.764Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:29.089Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "分析调查响应",
+        "description": "连接您的 Refiner 帐户以使用 ChatGPT 分析调查响应,发现趋势和新兴主题,使用自然语言汇总 NPS、CSAT 和其他应用内调查的反馈,询问调查结果,识别满意度的关键驱动因素,并快速在定性反馈中显示模式,以更好地了解用户并改进您的产品。",
+        "sourceHash": "cf5cb48c1dbfcef6428c2da2ae3ce93ba7862937e9bdd3d6688ee2003ef27250",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:52:39.035Z",
+        "usage": {
+          "prompt_tokens": 676,
+          "completion_tokens": 747,
+          "total_tokens": 1423,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 25.890871047973633
+        }
       }
     },
     "plugin_asdk_app_6a75e68905488191bda0b28770747e7d": {
@@ -105131,10 +105690,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:30.751Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:31.075Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "询问您的商店数据",
+        "description": "AiTrillion将您的电子商务商店连接到ChatGPT,以便您可以用简单的英语询问自己的数据 - 您的忠诚计划,赚取规则和奖励,会员计划,产品评级和商店报告。",
+        "sourceHash": "ed6e172587950fda86c7f4b9171c55f9e8ea9a77b43f8d19c68888547a950cc9",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:52:42.019Z",
+        "usage": {
+          "prompt_tokens": 694,
+          "completion_tokens": 773,
+          "total_tokens": 1467,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 26.766456604003906
+        }
       }
     },
     "plugin_asdk_app_6a8aed3672d88191aed6ca08dfa7169a": {
@@ -105181,10 +105753,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:32.770Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:33.094Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "韩国实际交易价格",
+        "description": "韩国房地产实业数据直接从大厅查阅。全国公寓4万余户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户",
+        "sourceHash": "cb58618bb2f72790c54300040958fa6685a66a8dfab447943b7d2eac16d25298",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:52:51.421Z",
+        "usage": {
+          "prompt_tokens": 851,
+          "completion_tokens": 925,
+          "total_tokens": 1776,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 32.12468338012695
+        }
       }
     },
     "plugin_asdk_app_69f2c16423b081919ad4d1358924bb2f": {
@@ -105232,10 +105817,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:34.757Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:35.081Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "数字营销智能",
+        "description": "Jepto连接到你的营销堆栈,并让人工智能在整个客户组合中工作,所以你花费更少的时间来提取报告,更多的时间来做出重要决策。\n\n将 Google Ads、Meta、GA4、Google Search Console、Google Business Profile 和 20 多条其他渠道的数据拉到一个地方,从那里,Jepto 的人工智能可以帮助您用简单的语言与数据交谈,自动生成客户端准备的报告,跟踪广告预算以活动级别为细节,并在它们成为问题之前捕捉异常 - 无需手动仪表板检查。\n\n询问有关任何连接客户端的竞选活动绩效的问题 - 检查预算步伐和超额支出风险 - 来自您的营销数据的表面异常和见解 - 触发行动,如暂停竞选活动或更新预算 - 经您批准 - 提取基于机器学习的KPI预测\n\n它是专为管理多个客户的数字营销机构而设计的,但也适用于想要更智能、更快的方式来管理数据的内部团队。",
+        "sourceHash": "d39b0d3579d197f52363a16cc133b88bf771dbfeae10671b90160380de7f29d6",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:53:03.872Z",
+        "usage": {
+          "prompt_tokens": 806,
+          "completion_tokens": 975,
+          "total_tokens": 1781,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 33.44031524658203
+        }
       }
     },
     "plugin_asdk_app_6a741648ade4819196fed96231554d55": {
@@ -105283,10 +105881,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:36.774Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:37.099Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "查看核实的NFL统计数据",
+        "description": "Muffed 用已经检查过的数字回答了 NFL 问题,每个数字都来自一个基于 nflverse play-by-play、NFL Next Gen Stats 和 FTN 图表数据构建的网关面板,每个答案都有自己的来源、验证日期和数据许可证所要求的归因。\n\n询问数据现在在NFL中真实的是什么,查看球员或球队的季节数字,抽取榜单,获得像EPA或CPOE这样的先进指标的简单解释,对两名球员进行对比,或检查你在其他地方看到的统计数据 - Muffed会告诉你当它不同意时的真实值。\n\nMuffed没有发布预测,没有开始/坐位或排行建议,没有草案评级,没有排名作为建议和没有选择,并且没有赌注线或机会。\n\n每个响应都标记了自己的界限。引用名称确切地称呼它所涵盖的数字,并声明它不扩展到由它们产生的分析。根据请求计算的数字而不是从预先验证的面板中抽取的数字被标记为“computed_not_verified”并携带执行的方法和人口大小。Muffed没有任何要求,它这样明确地说,声明了它所拥有的覆盖范围,并且拒绝对任何填补差距的归因。呼叫这个服务器的助手可以在返回的数字上添加自己的评论、比较或建议;这个评论是助手的,并且是Muffed验证或属性之外的。\n\n免费,只需阅读,无需帐户. 幻想分数使用半PPR,最常见的单个翻译默认,并在任何时候都这样说。",
+        "sourceHash": "fba75818c7593435dbede73d8afc81e84e35706c8a686d7f76a74c209d351494",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:53:03.072Z",
+        "usage": {
+          "prompt_tokens": 978,
+          "completion_tokens": 1004,
+          "total_tokens": 1982,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 35.119510650634766
+        }
       }
     },
     "plugin_asdk_app_6a0f9ab98bf4819197de479522d5367b": {
@@ -105333,10 +105944,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:38.813Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:39.138Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "知识层管理",
+        "description": "Alation 将可信赖的企业数据环境带入 ChatGPT。\n\n将 ChatGPT 连接到 Alation 的企业数据目录、治理和受信任的业务环境,以便用户能够自信地发现、理解和使用数据。\n\nAlation Intelligence Operating System(AIOS)帮助人工智能在可信的企业环境中提供地面响应,包括目录元数据、治理政策、语义定义、线程、数据质量和文档。",
+        "sourceHash": "2ee6f7583599d4ca1f8f93237c75a7bfb1295091f8e9d16945e76196699db73b",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:53:01.002Z",
+        "usage": {
+          "prompt_tokens": 709,
+          "completion_tokens": 613,
+          "total_tokens": 1322,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 21.959861755371094
+        }
       }
     },
     "plugin_asdk_app_6a91fcd93878819188347d20f83fe2ee": {
@@ -105384,10 +106008,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:40.895Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:41.220Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "来自您管理的数据的答案",
+        "description": "WisdomAI是ChatGPT内部的企业数据采集器,用于复杂的分析问题,答案必须是确定性的,可追踪的和一致的。\n\n连接器提供访问权限. 目录和语义层提供定义. WisdomAI 应用程序适用于运行时,通过为每个问题选择正确的背景,强制要求者的行和列级安全,优化底层平台的执行,验证结果,并修复失败的查询。\n\n业务背景不断加强,因为WisdomAI从文档,查询日志,目录,语义层,dbt和BI元数据中学习,主动识别缺乏足够的背景的地方,并通过专家审查和版本化路径提出的更改。\n\nWisdomAI在数据平台、源和部署环境中工作,包括完全为无法离开环境的受监管数据提供的本地环境。\n\n每个答案都基于受管制的定义,企业数据和可见的来源,使其足够可靠来运行您的业务。\n\n在 ChatGPT 中使用 WisdomAI 来: - 询问管理业务数据的问题:“在 EMEA 中,第三季度的净收入是如何跟踪计划的?” - 按照同样的分析路线进行跟踪:“分区分开,显示过去的四季度” - 调查一个开放式的问题: “我们在上个季度错过了EMEA的计划。",
+        "sourceHash": "b3dfe53fb53e3171b0605adffdf4df65d96bbd0dd405119c076bc57d160b1fbe",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:53:29.351Z",
+        "usage": {
+          "prompt_tokens": 989,
+          "completion_tokens": 968,
+          "total_tokens": 1957,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 34.07328796386719
+        }
       }
     },
     "plugin_asdk_app_6a72f0eca32c8191adfbab4247d5f0e0": {
@@ -105434,10 +106071,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:42.933Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:43.256Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "电子商务智能",
+        "description": "这个基于MCP服务器的插件提供工具,以获取欧洲电子商务市场的见解。",
+        "sourceHash": "c0bbe89997f25ab20a8a6a1dfa30160698b7d4ba1c6d7e6f53570722f5fe93b0",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:53:07.975Z",
+        "usage": {
+          "prompt_tokens": 624,
+          "completion_tokens": 445,
+          "total_tokens": 1069,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 16.447011947631836
+        }
       }
     },
     "plugin_asdk_app_6a57223c7e648191b790ff2f49e8c201": {
@@ -105485,10 +106135,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:44.953Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:45.277Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "检查DMARC、SPF和DKIM",
+        "description": "PowerDMARC 将您的电子邮件身份验证数据带入 ChatGPT. 询问任何域的安全姿势,并获得解读的 DMARC、SPF、DKIM、BIMI 和 MTA-STS 分类。\n\n查看现场 DNS 和 WHOIS 记录,生成正确格式化的 DMARC、SPF 和 DKIM 记录,并审查您的托管服务配置。\n\n通过 OAuth 安全地处理身份验证 - 该插件只访问您的 PowerDMARC 帐户已经允许的内容,而不会存储您的身份验证或代币。",
+        "sourceHash": "3327c332e4a44aa42ba9dcb28dec5b15a7b09b7523654ebdc556dc48645c2575",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:53:15.887Z",
+        "usage": {
+          "prompt_tokens": 748,
+          "completion_tokens": 805,
+          "total_tokens": 1553,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 27.991376876831055
+        }
       }
     },
     "plugin_asdk_app_6a5259b0384881919be9cb3139943abc": {
@@ -105535,10 +106198,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:46.982Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:47.306Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "查找电信数据。",
+        "description": "将 ChatGPT 连接到达莫夫电信数据,将操作性问题转化为清晰、可操作的见解。\n\nDamoov MCP 服务器允许授权的用户探索公司级的移动指标,包括行程计数、距离、活跃司机、安全分数和艰难驾驶事件。\n\n它专为车队、保险、流动、物流和驾驶安全使用案例而设计,仅为达莫夫公司提供安全的访问权限,并为认证用户提供可用的数据。",
+        "sourceHash": "691f134c71af80c8f3301fc3523c5e08652d1ca87f2b2e009bb99979e887c9b8",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:53:18.392Z",
+        "usage": {
+          "prompt_tokens": 733,
+          "completion_tokens": 923,
+          "total_tokens": 1656,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 31.51803207397461
+        }
       }
     },
     "plugin_asdk_app_69f4972405788191a6dab94f75b03359": {
@@ -105585,10 +106261,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:48.998Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:49.323Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "了解您的空间",
+        "description": "Technis 是一个空间分析平台,将您的建筑物、商店和场所转化为清晰、可操作的信息来源。\n\n随着Technis MCP服务器的连接,ChatGPT可以与您的文档、业务数据和决策一起推理您的空间使用情况,用简单的语言提出问题,研究用户行为,并获得基于您的实际数据的答案。",
+        "sourceHash": "fc5a6ef792666722acc468c1946dc1ac4b33a4a70a888ac589897b0023c811fb",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:53:24.769Z",
+        "usage": {
+          "prompt_tokens": 678,
+          "completion_tokens": 698,
+          "total_tokens": 1376,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 24.406856536865234
+        }
       }
     },
     "plugin_asdk_app_698e0691d8c88191815179bf248d70a8": {
@@ -105635,10 +106324,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:50.954Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:51.278Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "查询区块链数据",
+        "description": "查询和分析区块链数据直接在 ChatGPT 与 Allium. 发现方案和文档,在区块链数据集中运行 SQL,并将结果转化为可共享的查询,可视化和仪表板. 问问题,如“比较链上的 DEX 量,”“分析这个钱包的持有量和 P&L,”或“图表一个代币的价格历史。",
+        "sourceHash": "070429b190a43d9bcf50a7827bb93c3cde4b21526625ff01916f35fe64c64303",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:53:27.386Z",
+        "usage": {
+          "prompt_tokens": 701,
+          "completion_tokens": 742,
+          "total_tokens": 1443,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 25.854110717773438
+        }
       }
     },
     "plugin_asdk_app_6a957b8200648191b556653d13ff522c": {
@@ -105685,10 +106387,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:52.988Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:53.312Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "直播广告作为 AI 背景",
+        "description": "实时广告作为您的AI的结构化,理性准备的背景. 胡子,索赔,报价,定位页面,以及广告商规模评级(支出,流量和销售层估计)超过MCP。",
+        "sourceHash": "0f19db18ce3031656335cd9db93ea66c83cf08a85fe1b7e50f11508173382d26",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:53:34.721Z",
+        "usage": {
+          "prompt_tokens": 658,
+          "completion_tokens": 975,
+          "total_tokens": 1633,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 32.75587463378906
+        }
       }
     },
     "plugin_asdk_app_6a563d3b76d48191813a111ffd7b5e0a": {
@@ -105735,10 +106450,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:55.020Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:55.345Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "日常指挥",
+        "description": "每日指令不断观察您的品牌、活动、预算和市场信号 - 然后推荐、路由批准、执行和测量下一个最佳动作。",
+        "sourceHash": "062b7026bf7bd655652848670045339a918924315d47fde4672868d03a0b2bb0",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:53:35.456Z",
+        "usage": {
+          "prompt_tokens": 646,
+          "completion_tokens": 649,
+          "total_tokens": 1295,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 22.765605926513672
+        }
       }
     },
     "plugin_asdk_app_6a57093e90e081918a8013806c91517a": {
@@ -105785,10 +106513,23 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:57.311Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T16:37:57.635Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+      "translationAttemptRun": "37609331348:1",
+      "translation": {
+        "summary": "SEO与竞争对手分析",
+        "description": "搜索关键字,分析竞争对手,检查搜索排名,并使用引用的最新数据跟踪您自己的网站的搜索流量. 查找值得瞄准的关键字,看看竞争对手为什么超过您,对网站进行技术检查,并在连接这些帐户后查看自己的搜索控制台和分析,查找点击、来源和位置。",
+        "sourceHash": "3c9ee340075f06f15b5f2f8ae3e8c24bce1f2abf250377caa8e39e1b821c4b32",
+        "status": "translated",
+        "model": "@cf/meta/m2m100-1.2b",
+        "translatedAt": "2026-10-07T10:53:52.150Z",
+        "usage": {
+          "prompt_tokens": 689,
+          "completion_tokens": 694,
+          "total_tokens": 1383,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "neurons": 24.335826873779297
+        }
       }
     },
     "plugin_asdk_app_6a70caed62fc819199e8466cd66de26e": {
@@ -105835,10 +106576,11 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:37:59.331Z",
-      "translationAttemptRun": "37134929786",
+      "translationAttemptRun": "37609331348:1",
       "translationError": {
-        "at": "2026-10-03T16:37:59.655Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+        "at": "2026-10-07T10:53:43.973Z",
+        "message": "Workers AI translation failed: Workers AI quota unavailable for fallback",
+        "transient": true
       }
     },
     "plugin_asdk_app_6a3b8ade83ec8191956643d17852b477": {
@@ -105885,10 +106627,11 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:38:01.339Z",
-      "translationAttemptRun": "37134929786",
+      "translationAttemptRun": "37609331348:1",
       "translationError": {
-        "at": "2026-10-03T16:38:01.663Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+        "at": "2026-10-07T10:53:43.568Z",
+        "message": "Workers AI translation failed: Workers AI quota unavailable for fallback",
+        "transient": true
       }
     },
     "plugin_asdk_app_6a26ec50353c8191b5774172b9a972cb": {
@@ -227105,30 +227848,999 @@
         },
         "neurons": 27.681529998779297
       }
+    },
+    "42494fbb5122787cbcd52520208a358153d7a42994fc81a35b9bc1cbc4259688": {
+      "summary": "分析您的调查响应",
+      "description": "直接从 ChatGPT 浏览和分析您的 Centiment 组织、工作区、调查和调查响应. Centiment MCP 服务器提供安全、只读的访问到您已授权查看的调查数据,使您很容易发现调查、检查回复和总结结果,而不离开 ChatGPT。",
+      "sourceHash": "42494fbb5122787cbcd52520208a358153d7a42994fc81a35b9bc1cbc4259688",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:49:35.461Z",
+      "usage": {
+        "prompt_tokens": 670,
+        "completion_tokens": 669,
+        "total_tokens": 1339,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.4860897064209
+      }
+    },
+    "04b66b1db64103fe0fd36ce16f46891cf87bb718e5bc2a7bb15b404f14c05e05": {
+      "summary": "品牌 AI 可见性代理",
+      "description": "Amplifyr 让 ChatGPT 直接访问您的品牌的 AI 可见性分析。用简单的英语询问,并获得关于语音份额、行业排名、KPIs、引用、情绪以及人们在 AI 模型中询问您喜欢的品牌的问题的即时答案。",
+      "sourceHash": "04b66b1db64103fe0fd36ce16f46891cf87bb718e5bc2a7bb15b404f14c05e05",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:49:36.815Z",
+      "usage": {
+        "prompt_tokens": 684,
+        "completion_tokens": 737,
+        "total_tokens": 1421,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 25.623119354248047
+      }
+    },
+    "7a2a4f3a78e32ec472871d7a8b4df64aa0e410a38ffb42fbc58563b773418d8b": {
+      "summary": "连接到您的农场数据",
+      "description": "Winnow 帮助种植者在 ChatGPT 中回答有关他们自己的农场操作的问题. 该应用程序在农场的范围操作、场景和天气表中暴露了方案发现和只读的 SQL 查询工具,并通过服务器侧验证拒绝非 SELECT 陈述和范围外的数据集。",
+      "sourceHash": "7a2a4f3a78e32ec472871d7a8b4df64aa0e410a38ffb42fbc58563b773418d8b",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:49:43.648Z",
+      "usage": {
+        "prompt_tokens": 665,
+        "completion_tokens": 529,
+        "total_tokens": 1194,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 19.19649887084961
+      }
+    },
+    "90e67636bc2859ba003a98eccd67f86628f696ed8244c1235582af7b26d41140": {
+      "summary": "连接客户智能",
+      "description": "Enterpret 帮助团队了解客户在支持票、销售电话、应用评论、调查、Slack 等方面所说的内容。 提出自然语言问题,以查找投诉趋势、功能请求、特定领域的模式和直接的客户报价。",
+      "sourceHash": "90e67636bc2859ba003a98eccd67f86628f696ed8244c1235582af7b26d41140",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:49:46.161Z",
+      "usage": {
+        "prompt_tokens": 682,
+        "completion_tokens": 822,
+        "total_tokens": 1504,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 28.204227447509766
+      }
+    },
+    "42464b00dba2607873095e5e047365dc21607596cc24f67ea7d69520618eaf97": {
+      "summary": "管理 Azadea BI 洞察力",
+      "description": "Azadea One 提供经批准的商业用户在性能营销、CRM、电子商务、实体商店、电子商务运营、客户分析和营销预算上仅可读的综合见解。",
+      "sourceHash": "42464b00dba2607873095e5e047365dc21607596cc24f67ea7d69520618eaf97",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:49:49.145Z",
+      "usage": {
+        "prompt_tokens": 670,
+        "completion_tokens": 755,
+        "total_tokens": 1425,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 26.10692024230957
+      }
+    },
+    "cfbadff36964ba22aa5f20a2b790b573795990ecac11a301073a4fe833470ef1": {
+      "summary": "实验和产品数据",
+      "description": "此插件是与Datadog产品分析、功能旗帜和实验进行代理互动的最佳方式",
+      "sourceHash": "cfbadff36964ba22aa5f20a2b790b573795990ecac11a301073a4fe833470ef1",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:49:52.551Z",
+      "usage": {
+        "prompt_tokens": 634,
+        "completion_tokens": 601,
+        "total_tokens": 1235,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 21.24732208251953
+      }
+    },
+    "c4186ac6185c838195701044b77ccb23930d46c7eda1d377944fef147858c80b": {
+      "summary": "查找英国法律住房数据",
+      "description": "输入英国邮政代码,在清晰、交互式地图上探索法律住房相关信息。\n\n查看本地HMO许可计划,附近的咨询中心,法院裁决和该地区的议员,然后过滤至最重要的内容,并点击标记以获取快速细节。\n\n开放源代码链接可用于更深入的背景,这是一个信息性概述,而不是法律建议。",
+      "sourceHash": "c4186ac6185c838195701044b77ccb23930d46c7eda1d377944fef147858c80b",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:50:00.538Z",
+      "usage": {
+        "prompt_tokens": 680,
+        "completion_tokens": 798,
+        "total_tokens": 1478,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 27.463581085205078
+      }
+    },
+    "b90815ed057ff9d18ee2e005422b08f899f7268b18e9591b20592e2c40e158bc": {
+      "summary": "跟踪 App Store 排名",
+      "description": "询问有关您在 Appskyline 中追踪的移动应用程序的问题. 查看商店身份、追踪的关键字以及当前的 iOS App Store、Google Play 和 Microsoft Store 排名,而不离开 ChatGPT。",
+      "sourceHash": "b90815ed057ff9d18ee2e005422b08f899f7268b18e9591b20592e2c40e158bc",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:50:00.957Z",
+      "usage": {
+        "prompt_tokens": 647,
+        "completion_tokens": 731,
+        "total_tokens": 1378,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 25.269161224365234
+      }
+    },
+    "07761b2e09e321c0d9f7d3ae9ddcb039bcc7e8f32f7dc2aefaa4792ae5b846a1": {
+      "summary": "数据管道管理",
+      "description": "提取可以帮助团队检查数据连接器和管道健康,配置源和目的地,管理连接时间表和流程,查看运行历史记录,解决故障,并启动批准的手动运行。",
+      "sourceHash": "07761b2e09e321c0d9f7d3ae9ddcb039bcc7e8f32f7dc2aefaa4792ae5b846a1",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:50:03.254Z",
+      "usage": {
+        "prompt_tokens": 640,
+        "completion_tokens": 577,
+        "total_tokens": 1217,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 20.54367446899414
+      }
+    },
+    "dc15f628f3b9455edcee2501bbe937e4f60ec60138e3737307a8a853bd02afac": {
+      "summary": "分析形式提交",
+      "description": "通过ChatGPT阅读和分析表单提交。使用自然语言搜索提交,按日期或状态过滤,并获得人工智能生成的见解,如情绪,类别和摘要,并将其保存为自定义字段。",
+      "sourceHash": "dc15f628f3b9455edcee2501bbe937e4f60ec60138e3737307a8a853bd02afac",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:50:10.274Z",
+      "usage": {
+        "prompt_tokens": 666,
+        "completion_tokens": 654,
+        "total_tokens": 1320,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.01047134399414
+      }
+    },
+    "2ef470367731308ae1c3d4f4ccd0fef6ca3a7abbdd2a1f00e3cdc2a9dcba61f7": {
+      "summary": "查询数据并构建洞察力",
+      "description": "Carbon Arc MCP 服务器是一个商业智能平台,通过提供访问私人数据,将自然语言问题转化为决策的见解。\n\n核心功能:\n\n1. 询问问题,如“向我展示沃尔玛的2024卡支出”,并获得结构化数据表 2. 根据可用的数据搜索公司,地点和指标的名称 3. 分析不同时间段和地理区域的趋势 4. 探索实体之间的关系和可用的数据",
+      "sourceHash": "2ef470367731308ae1c3d4f4ccd0fef6ca3a7abbdd2a1f00e3cdc2a9dcba61f7",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:50:11.303Z",
+      "usage": {
+        "prompt_tokens": 702,
+        "completion_tokens": 675,
+        "total_tokens": 1377,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.816926956176758
+      }
+    },
+    "235e16125e18e4e7304b4cc8cb9548c8d1e37c5aca81b49304002aa789bba604": {
+      "summary": "网络分析对话",
+      "description": "查看您的网站如何运作的自然语言\n\n可查看访问者,会话,主要页面,转换和交通质量,区分人员,人工智能探测器和常规机器人。\n\n每个用户只能访问与其帐户相关的网站的数据。",
+      "sourceHash": "235e16125e18e4e7304b4cc8cb9548c8d1e37c5aca81b49304002aa789bba604",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:50:16.291Z",
+      "usage": {
+        "prompt_tokens": 682,
+        "completion_tokens": 947,
+        "total_tokens": 1629,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 32.013572692871094
+      }
+    },
+    "1ffb0cef0bc00c3515c168be216a965e23fda4e99cd1a8e8869c3fe36c811791": {
+      "summary": "全球商标数据",
+      "description": "Clarivate IPOne CompuMark Trademark MCP 可帮助团队在全球商标登记处更快地搜索、审查和验证商标。它结合了广泛的管辖范围覆盖,并为商标名称、语音变异、申请人、类、商品和服务以及提交细节提供灵活的搜索选项。",
+      "sourceHash": "1ffb0cef0bc00c3515c168be216a965e23fda4e99cd1a8e8869c3fe36c811791",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:50:26.811Z",
+      "usage": {
+        "prompt_tokens": 704,
+        "completion_tokens": 870,
+        "total_tokens": 1574,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 29.768754959106445
+      }
+    },
+    "94291298e89275322da108d87ba9ec80ea31cb4386c14399dafd618ff7ffeed5": {
+      "summary": "Craft 内容. 赢得 AI 搜索",
+      "description": "通过 ChatGPT 直接访问您的 AirOps 工作区、品牌套件和 AEO (AI Engine Optimization) 分析,监控您的品牌在 AI 搜索结果中的表现,分析引用率,并优化您的内容策略。\n\n您可以使用 AirOps 来:\n\n品牌绩效分析:“在过去 30 天内显示我的品牌引用率和语音份额”\n\n内容优化:\n\n“我的网站引用的主要问题是什么,我如何改进我的答案?”\n\n竞争性智能:\n\n“比较我品牌的AI搜索性能与我的三大竞争对手”\n\n使用您的品牌套件创建内容:\n\n“写一篇关于附件文档中描述的产品的博客文章”",
+      "sourceHash": "94291298e89275322da108d87ba9ec80ea31cb4386c14399dafd618ff7ffeed5",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:50:29.442Z",
+      "usage": {
+        "prompt_tokens": 755,
+        "completion_tokens": 1017,
+        "total_tokens": 1772,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 34.48440170288086
+      }
+    },
+    "ba9a9671c38f56aa536cd27b539e6c15dbeaf358ef560637513b0534535e3277": {
+      "summary": "Pokémon 卡片价格",
+      "description": "pokeka 是分类的 Pokémon 交易卡的市场参照。用简单的语言询问 - 即使是收藏家称呼“Moonbreon” - 并获得准确的卡片身份(组和号码),具有日期、30/90 天的趋势和稀缺信号的代表性市场值。",
+      "sourceHash": "ba9a9671c38f56aa536cd27b539e6c15dbeaf358ef560637513b0534535e3277",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:50:37.435Z",
+      "usage": {
+        "prompt_tokens": 701,
+        "completion_tokens": 773,
+        "total_tokens": 1474,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 26.798828125
+      }
+    },
+    "4fbccc0c3e0c6c18c827c6401b211075f56a848c444e455d4e41092c8e3ed648": {
+      "summary": "了解您的用户",
+      "description": "数字双胞胎是您在数据上训练的真实用户的镜子,以便他们像真实用户一样思考,做出决策和做出反应。\n\n这个插件允许您注册8月,并与您的数字双胞胎从ChatGPT或Codex内部互动。",
+      "sourceHash": "4fbccc0c3e0c6c18c827c6401b211075f56a848c444e455d4e41092c8e3ed648",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:50:39.943Z",
+      "usage": {
+        "prompt_tokens": 669,
+        "completion_tokens": 784,
+        "total_tokens": 1453,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 26.986064910888672
+      }
+    },
+    "be92ab9a04919b16a80ca7e7e18e0f04b3063989a64ceaf9876d806741e0b0dd": {
+      "summary": "分析电影和市场数据",
+      "description": "AIDA帮助电影和娱乐专业人士分析电影,剧院,节目时间,预售,票房结果,历史占用率和观众预测。用自然语言提问,以比较性能,跟踪预售速度,审查时间表,检查实现的市场结果,并结合多个数据领域的信号。",
+      "sourceHash": "be92ab9a04919b16a80ca7e7e18e0f04b3063989a64ceaf9876d806741e0b0dd",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:50:45.729Z",
+      "usage": {
+        "prompt_tokens": 679,
+        "completion_tokens": 545,
+        "total_tokens": 1224,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 19.74884033203125
+      }
+    },
+    "18ed92c9072087fdfebf2b940652d68ee5fd37513b1a5b88bee0b3d17b463e2f": {
+      "summary": "查找和分析美国房地产",
+      "description": "Homesage.ai 将 ChatGPT 变成一个房地产分析师,对 155 万美元以上的美国住宅房地产提供投资者级别的数据。 连接一次,然后用简单的语言询问估值,可比较的销售,租赁和翻转回报,翻新成本,所有者细节和完整的财产报告。\n\n询问任何美国住宅地址,并获得房地产投资指标,自动估值(AVM),与修理后价值(ARV)的比较销售,以及人工智能评估的房地产状况,包括列表照片或自己的图像的分析。\n\n对于投资者来说,Homesage.ai 计划固定回报,房间接房的翻新成本,以及长期和短期租赁经济学,如现金流、上限率、NOI和现金回报。\n\n通过 ZIP 级销售数据和 Market Outlook 得分屏幕整个市场,或搜索国家财产数据库,使用投资者过滤器查找价格,状况,股权,紧急信号等。\n\n额外的工具包括太阳能潜力和AI屋顶分析,抵押贷款和抵押贷款记录,预先关闭状态,位置风险旗帜,以及业主跳过追踪。\n\n大多数分析工具从您的 Homesage.ai 帐户中消耗信用,每个工具的信用成本在其描述中列出。\n\nHomesage.ai 读取财产数据并返回分析. 它不会修改您的帐户,转移资金,或代表您采取行动. 覆盖仅限于美国住宅财产,而可比较的销售和 ARV 数据仅限于非披露状态,销售价格不公开。",
+      "sourceHash": "18ed92c9072087fdfebf2b940652d68ee5fd37513b1a5b88bee0b3d17b463e2f",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:50:46.104Z",
+      "usage": {
+        "prompt_tokens": 959,
+        "completion_tokens": 968,
+        "total_tokens": 1927,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 33.93455123901367
+      }
+    },
+    "40dd0a4a924eae9fc4f8af8c9767fee4561f612aec8dd8383a83371010b14ddf": {
+      "summary": "与您的业务数据聊天",
+      "description": "WitCloud 将 ChatGPT 连接到您的营销、销售和电子商务数据中。用简单的语言提问,并直接从您的业务数据中获得答案 - 探索客户、活动、收入和趋势,而不写 SQL。",
+      "sourceHash": "40dd0a4a924eae9fc4f8af8c9767fee4561f612aec8dd8383a83371010b14ddf",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:50:48.427Z",
+      "usage": {
+        "prompt_tokens": 670,
+        "completion_tokens": 756,
+        "total_tokens": 1426,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 26.13739585876465
+      }
+    },
+    "11bea50b7f43d4e59ce4cbee0babdbe0e882c17a06b8929f179d66f367d33cd6": {
+      "summary": "冲浪预报",
+      "description": "WaveMaster AI 帮助用户和代理商查询冲浪预测,海洋条件和海滩排名在 57 个国家和 6 个大洲的 916 多个地点. 该插件允许搜索有关波浪,风,潮汐,潮汐,温度和冲浪成绩的信息直接没有 ChatGPT,与组织的数据来支持冲浪的快速决定。",
+      "sourceHash": "11bea50b7f43d4e59ce4cbee0babdbe0e882c17a06b8929f179d66f367d33cd6",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:50:55.755Z",
+      "usage": {
+        "prompt_tokens": 706,
+        "completion_tokens": 676,
+        "total_tokens": 1382,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.86589813232422
+      }
+    },
+    "977fd9e4c7a37a3bb560e5d769275d11ac0e15c4198d4c0b7769b1a86d00c211": {
+      "summary": "寻找和分析创作者",
+      "description": "Influencers Club 将 ChatGPT 连接到 Instagram、TikTok、YouTube、X、Twitch 和 OnlyFans 上的创作者数据中,用简单的语言来询问 - “在 Instagram 上找到拥有 100,000 名追随者和 3% 以上参与者的健身创作者” - 并获得您可以采取行动的排名列表。\n\n该插件提供19个工具:创作者发现与语义搜索和粉丝,参与,位置和语言的过滤器;配置文件丰富包括联系信息,观众人口统计和过去的品牌交易;最近的帖子与参与指标;创作者之间的观众重叠比较;并寻找类似于已经表现良好的创作者。\n\n结果来自 Influencers Club API,并对您的帐户发票,显示在您的仪表板上,就像您在那里运行它们一样。",
+      "sourceHash": "977fd9e4c7a37a3bb560e5d769275d11ac0e15c4198d4c0b7769b1a86d00c211",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:51:00.175Z",
+      "usage": {
+        "prompt_tokens": 795,
+        "completion_tokens": 871,
+        "total_tokens": 1666,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 30.220067977905273
+      }
+    },
+    "fffb533ac0d2167e04eedc14a2fb03ef077fa8cedbe45fa8f627da580bb84345": {
+      "summary": "想要你的营销仓库",
+      "description": "Quanti Analytics 将 ChatGPT 连接到您的营销数据仓库(BigQuery、Snowflake、Redshift),通过自然语言为您提供即时访问跨渠道广告数据。\n\n你能做什么:\n\n询问您的营销绩效,并从实际表格中生成的 SQL 查询 - 没有幻觉的列名 运行超过 200 个连接器的仅读查询:Google Ads,Meta,TikTok,Amazon Ads,Microsoft Ads,Shopify,Piano Analytics 和更多 浏览预建的报告目录以发现每个连接器的可用指标和尺寸 将有用的分析保存为可重复使用的模板,个人或与您的团队共享 运行营销组合建模研究来衡量每个渠道对您的 KPI 的实际贡献 如何工作:\n\n通过 OAuth 连接您的 Quanti 帐户 ChatGPT 检索您的项目的实际数据架构 - 包括每个指标和维度的语义定义 用简单的语言提出您的问题,获得准确的 SQL,审查它,并执行数据访问仅限于阅读。",
+      "sourceHash": "fffb533ac0d2167e04eedc14a2fb03ef077fa8cedbe45fa8f627da580bb84345",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:51:04.040Z",
+      "usage": {
+        "prompt_tokens": 830,
+        "completion_tokens": 786,
+        "total_tokens": 1616,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 27.79157257080078
+      }
+    },
+    "3b220fbd636c54d531853977fb917797e183536763ec40c7c5b29b0016b45347": {
+      "summary": "网站分析编辑",
+      "description": "Ezoic Analytics 允许出版商在 ChatGPT 中探索他们的网站分析。 询问有关页面视图、访问量、参与度、广告印象、视频性能和 EPMV 等收入指标的问题,以您的 Ezoic 域组分数据以日期、页面、国家、设备、流量来源和数十种其他维度进行分类,使用过滤和分类 - 与 Ezoic 的大数据分析仪表板相同的数据。",
+      "sourceHash": "3b220fbd636c54d531853977fb917797e183536763ec40c7c5b29b0016b45347",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:51:04.856Z",
+      "usage": {
+        "prompt_tokens": 693,
+        "completion_tokens": 537,
+        "total_tokens": 1230,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 19.569786071777344
+      }
+    },
+    "06d8cd4768b113f8c1e555eccb43686798cc354474df48d91753db1e9a77ee6b": {
+      "summary": "询问你的数据任何东西。",
+      "description": "Sweet 帮助电子商务团队了解销售、营销、客户、产品、折扣、退款和利润绩效,使用其连接的 Sweet 数据。\n\n用简单的语言问问题,例如是什么推动了销售增长,哪些营销渠道最有效,客户保留如何变化,哪些产品或折扣正在影响利润率,或者退款在哪里影响盈利率。",
+      "sourceHash": "06d8cd4768b113f8c1e555eccb43686798cc354474df48d91753db1e9a77ee6b",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:51:11.566Z",
+      "usage": {
+        "prompt_tokens": 709,
+        "completion_tokens": 945,
+        "total_tokens": 1654,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 32.07748794555664
+      }
+    },
+    "881227fdd54d914e3cd48150736215b93843435f481b9cc3567f19c39e10a5a5": {
+      "summary": "物流运营分析",
+      "description": "SiteTrax.io 是授权团队的物流操作分析应用程序。搜索共享项目和场地,检查集装箱和供应链设备检测,查看相机健康和异常,分析视频和图像,获取审计反馈,并运行服务器侧分析状态,体积,活动和序列指标。查看 SiteTrax.io 物流定义并获取研究准备的报告,包括劳动效率,收入和成本降低的机会。",
+      "sourceHash": "881227fdd54d914e3cd48150736215b93843435f481b9cc3567f19c39e10a5a5",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:51:14.263Z",
+      "usage": {
+        "prompt_tokens": 704,
+        "completion_tokens": 670,
+        "total_tokens": 1374,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.67380142211914
+      }
+    },
+    "1813cf4c03f777482dacddd8cd5598d510473441dbc292bd50de38d5d30e408a": {
+      "summary": "Query 专业面板数据",
+      "description": "您可以立即获得有关Padel专业的答案。\n\n查看任何球员的个人资料、排名历史和职业统计数据。比较球员或对手之间的头对头记录。探索锦标赛结果、比赛分数、详细的比赛统计数据和点对点的破坏情况。模拟基于真实表现数据的比赛。覆盖范围涵盖了Premier Padel和FIP赛道,以及历史的World Padel Tour和Pro Padel Tour数据。\n\n由Padel API提供。",
+      "sourceHash": "1813cf4c03f777482dacddd8cd5598d510473441dbc292bd50de38d5d30e408a",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:51:22.625Z",
+      "usage": {
+        "prompt_tokens": 696,
+        "completion_tokens": 950,
+        "total_tokens": 1646,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 32.169742584228516
+      }
+    },
+    "480ae20f978d321f011fc30aed03a84526dc8a3242f9b2cf0f791203ea9f5113": {
+      "summary": "迪拜房地产数据",
+      "description": "询问ChatGPT关于迪拜房地产数据的任何信息,并获得知情的答案,为您提供与无限可能性的11m迪拜房地产销售和租赁记录查询的能力。被迪拜最好的房地产经纪人,投资者和房地产专业人士所喜爱。",
+      "sourceHash": "480ae20f978d321f011fc30aed03a84526dc8a3242f9b2cf0f791203ea9f5113",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:51:23.494Z",
+      "usage": {
+        "prompt_tokens": 686,
+        "completion_tokens": 879,
+        "total_tokens": 1565,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 29.95978546142578
+      }
+    },
+    "05960f1984a405a89dd0cc235f71d7cf7ffd791aebc5bf499f54f14f6238705c": {
+      "summary": "AI搜索收购分析",
+      "description": "Webless 将 ChatGPT 和 Codex 连接到您认证的 Webless 分析工作区。 询问网站搜索需求、内容参与、访客旅行、收购来源和意图差距。 插件读取当前的分析目录,运行租户范围内的语义查询,并可以在网络隔离的沙盒中计算比较或可视化。 它不接受原始 SQL 或允许用户选择其他租户的数据。",
+      "sourceHash": "05960f1984a405a89dd0cc235f71d7cf7ffd791aebc5bf499f54f14f6238705c",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:51:33.523Z",
+      "usage": {
+        "prompt_tokens": 689,
+        "completion_tokens": 795,
+        "total_tokens": 1484,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 27.413780212402344
+      }
+    },
+    "22ce3edf5ba353b8f69da8e93b2132262237377c1257f76fd4266fc8a7e41641": {
+      "summary": "真实的应用屏幕和A / B测试",
+      "description": "Lazyweb 在您设计之前提供 ChatGPT 的真实产品证据。从顶级应用程序中搜索 281k+ 真实屏幕和流程,带有结果的 20k+ 移动 A/B 测试和真正的实验写作 - 然后将证据转化为行动:任何网站的增长得分,完整的增长和付款墙报告,带有托管审查的用户界面更改建议,以及您的团队可以执行的增长阻塞。",
+      "sourceHash": "22ce3edf5ba353b8f69da8e93b2132262237377c1257f76fd4266fc8a7e41641",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:51:35.892Z",
+      "usage": {
+        "prompt_tokens": 726,
+        "completion_tokens": 919,
+        "total_tokens": 1645,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 31.36376190185547
+      }
+    },
+    "a7026712776acc522f4aedbe7224f181ef483114a4eb0a54bcaf626969cb0bf0": {
+      "summary": "人与公司数据",
+      "description": "通过 Crustdata 在 Chatgpt 中搜索、丰富和观看个人和公司,使用 150 多种搜索过滤器来构建 TAM、前景和候选人列表,如工作名称、行业、融资等。",
+      "sourceHash": "a7026712776acc522f4aedbe7224f181ef483114a4eb0a54bcaf626969cb0bf0",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:51:43.667Z",
+      "usage": {
+        "prompt_tokens": 696,
+        "completion_tokens": 680,
+        "total_tokens": 1376,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.941553115844727
+      }
+    },
+    "03e4367b2d8f5f7bf5ffbc337e69b4531ba157e3c39d6f73621307051c289814": {
+      "summary": "代理人重播会",
+      "description": "** 主文是为代理人而不是人类构建的会话重播。\n\n连接Subtext,你的Codex代理人可以打开真实的制作会话,并直接调查它们 - 没有扫描时间线,没有视频观看。\n\n向您的代理人发送来自已经连接的任何地方的子文链接 - 一个Sentry问题,一个线性门票,一个支持线条,一个PR - 并使用Agenttic Session Review跳到正确的时刻,检查屏幕截图和可访问性树木,DIFF DOM状态,并阅读控制台和网络活动以找到根源原因。\n\n你的代理人得到的内容: * ** 会话工具它直接呼叫**:打开会话,跳到一瞬间,检查和比较状态 - 目的构建,以便代理人通过密集的会话数据高效地,比指向原始代理人更少的代币。 * ** 全类最佳捕捉来自Fullstory**:完整捕捉行为,按需的像素完美的屏幕截图,DOM分散,窗户化控制台和网络背景。 * ** 隐私用于生产**:代理人掩盖或排除敏感领域的精确工具,以及通过MCP的代理友好DLP扫描工具。\n\n与Codex或任何MCP兼容的代理商一起工作. 代码先安装,自助注册,慷慨的免费级别,基于使用的定价。",
+      "sourceHash": "03e4367b2d8f5f7bf5ffbc337e69b4531ba157e3c39d6f73621307051c289814",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:51:45.662Z",
+      "usage": {
+        "prompt_tokens": 919,
+        "completion_tokens": 1164,
+        "total_tokens": 2083,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 39.722625732421875
+      }
+    },
+    "b9d59e7f1c154304f0a2eb0f3b5540228e54bcc27daf528e1e8fa5ef8228c6bd": {
+      "summary": "您的零售洞察助理",
+      "description": "Otto为美国各地的实体商店提供实体零售情报。\n\n通过 PassBy 的专有数据,它允许用户提问简单的问题,例如哪家商店最繁忙,有多少人访问过一个位置,或者城市和品牌之间的性能如何比较。\n\nOtto 使用集成的、隐私安全的零售数据进行分析和报告,以帮助用户了解物理零售领域正在发生的事情。",
+      "sourceHash": "b9d59e7f1c154304f0a2eb0f3b5540228e54bcc27daf528e1e8fa5ef8228c6bd",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:51:53.453Z",
+      "usage": {
+        "prompt_tokens": 698,
+        "completion_tokens": 832,
+        "total_tokens": 1530,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 28.582965850830078
+      }
+    },
+    "4e4a78c9ba56ea8dc961c860e6386701371a72294a87afed5c4618cbbf50f8be": {
+      "summary": "电子商务销售分析",
+      "description": "Fullmetrix 允许在线商店所有者以简单的语言查询他们的电子商务分析。它报告订单、总销售、净收入、税收、航运、销售项目以及组织内的所有活跃商店中的独特、新客户和返回客户。结果可以按日期、商店、国家、客户类型或订单状态在任何日期范围内进行组合,并适用于每个组织的收入规则。",
+      "sourceHash": "4e4a78c9ba56ea8dc961c860e6386701371a72294a87afed5c4618cbbf50f8be",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:51:55.470Z",
+      "usage": {
+        "prompt_tokens": 697,
+        "completion_tokens": 794,
+        "total_tokens": 1491,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 27.42030143737793
+      }
+    },
+    "3f77585eda41400f8bf360ed89feaec7c9de61e7d22e9108740a20e394feb8ab": {
+      "summary": "跟踪AI可见性,AEO & GEO",
+      "description": "Finseo 跟踪您的品牌在 AI 搜索中可见程度 - 人们从 ChatGPT, Perplexity, Gemini, Claude 和其他 AI 助手那里获得的答案. 它将您的 AI 可见性,生成引擎优化 (GEO) 和响应引擎优化 (AEO) 数据直接带入 ChatGPT。\n\n连接你的Finseo帐户并问问题,例如:“本月我的品牌在AI搜索中有多明显?”“AI答案中最常提到哪些竞争对手?”“我的行业中哪些AI模型引用了哪些来源?”“让我看到我的品牌尚未出现的追踪提示。\n\n您可以做些什么: - AI 可见性 KPIs:可见性率,语音份额,平均提及顺序和提及深度,与定制日期范围的趋势 - 竞争对手跟踪:AI 可见性排名,差距分析和头对头比较 - 快递级别的见解:检查跟踪的提示和实际的AI 响应,包括品牌情绪 - 引用分析:查看哪些域 AI 助理引用和您的内容频率作为源 - GEO 建议:审查 AI 生成的优化任务以提高您的可见性在 AI 搜索中\n\n该插件仅可阅读:它可以检索您的跟踪数据,但从不修改它。",
+      "sourceHash": "3f77585eda41400f8bf360ed89feaec7c9de61e7d22e9108740a20e394feb8ab",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:52:04.682Z",
+      "usage": {
+        "prompt_tokens": 875,
+        "completion_tokens": 1005,
+        "total_tokens": 1880,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 34.67365264892578
+      }
+    },
+    "c40fa3ebbbb7369c1471d67c8d8f1c02742f3494cc2097c6b17e0021a2e0e20f": {
+      "summary": "监控和分析评论",
+      "description": "Repuso 将 ChatGPT 连接到您的评论监测中:从 50 多种平台(Google、TripAdvisor、Trustpilot、G2、App Store 等)获取标准化评论,每个平台都有情绪标签和飞行翻译。请求 AI 见解 - 客户赞扬什么,修复什么 - 和 AI 评论概要每个配置文件。跟踪官方评级历史,与您监视的竞争对手配置文件进行比较,标记您的工作流程的评论,并管理签名的 Webhooks 用于新评估和评级更改事件。从聊天中直接添加业务名称或 URL 的个人资料。每个呼叫都运行在您的 Repuso 监控 API 帐户上 - 与 REST API 相同的密钥、报价和定价。 10 天免费",
+      "sourceHash": "c40fa3ebbbb7369c1471d67c8d8f1c02742f3494cc2097c6b17e0021a2e0e20f",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:52:10.203Z",
+      "usage": {
+        "prompt_tokens": 754,
+        "completion_tokens": 1087,
+        "total_tokens": 1841,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 36.61301040649414
+      }
+    },
+    "b55c5db3bd0e60bd6e6c91960071fe0688b1ea81bbe6db07952a9e6ac7ba8a8b": {
+      "summary": "Shopify 利润与广告分析",
+      "description": "此插件提供了连接到Shopify应用程序的Juicy统计数据,概述了利润,收入和广告支出 - 加上完整的利润和损失报告,订单列表和成本和利润率,以及详细的订单信息,包括线条项目和分配触摸点。",
+      "sourceHash": "b55c5db3bd0e60bd6e6c91960071fe0688b1ea81bbe6db07952a9e6ac7ba8a8b",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:52:12.963Z",
+      "usage": {
+        "prompt_tokens": 661,
+        "completion_tokens": 686,
+        "total_tokens": 1347,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.962541580200195
+      }
+    },
+    "259403db96e4194dd49446f533147a35144aaffffa4b8a986258d5fb9959de51": {
+      "summary": "完整建筑 LCA",
+      "description": "该应用程序帮助用户执行LCA。",
+      "sourceHash": "259403db96e4194dd49446f533147a35144aaffffa4b8a986258d5fb9959de51",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:52:15.196Z",
+      "usage": {
+        "prompt_tokens": 619,
+        "completion_tokens": 487,
+        "total_tokens": 1106,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 17.703828811645508
+      }
+    },
+    "4d75ed8510fc10a09e826c3e39e607a163c592a863f531fe6ee728520fca9e37": {
+      "summary": "管理客户反馈",
+      "description": "使用您的 Sleekplan 工作空间 - 反馈板,路线图,更改日志和调查 - 直接从 ChatGPT 工作。\n\n请求您的顶级功能请求的摘要,并查看客户实际要求的内容,按投票和最近的活动进行排序。 查找重复的帖子,并将其合并,以便投票数到一个单一的请求。 更新状态,分配标签,并用评论回复客户。 当您发送某些内容时,在不离开对话的情况下编写和发布更改日志条目。 审查 NPS、CSAT 和调查响应以了解用户对您的产品的感受。\n\n该插件涵盖了40多个反馈帖子,投票和选民,评论,标签,状态,用户和细分,调查和更改日志条目的操作;读取立即运行;任何改变数据 - 创建,编辑,合并,删除 - 都向您显示并在运行之前得到确认。\n\n需要有管理员或贡献者访问的 Sleekplan 工作区. 登录时使用您的 Sleekplan 帐户。",
+      "sourceHash": "4d75ed8510fc10a09e826c3e39e607a163c592a863f531fe6ee728520fca9e37",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:52:15.757Z",
+      "usage": {
+        "prompt_tokens": 804,
+        "completion_tokens": 927,
+        "total_tokens": 1731,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 31.968276977539062
+      }
+    },
+    "37417f2a096b44a0abcddc728468bc6a17313775ef05ea763183a974a7e97e42": {
+      "summary": "查询 Steep 工作区数据",
+      "description": "Steep 允许您查询您的语义层. 检索指标,目标,维度和工作区数据 — 保持您的分析可访问和在文本中工作。",
+      "sourceHash": "37417f2a096b44a0abcddc728468bc6a17313775ef05ea763183a974a7e97e42",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:52:23.400Z",
+      "usage": {
+        "prompt_tokens": 639,
+        "completion_tokens": 547,
+        "total_tokens": 1186,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 19.624805450439453
+      }
+    },
+    "bbbffb428c3a8ccb6992140c8b8ecdb89032ac765043c226fad08be6b96b9de7": {
+      "summary": "使用 SQL 研究 Web",
+      "description": "Keenable SELECT 用一个查询来回答一个研究问题,而不是十页读取。\n\n普通的网页搜索将链接列表交给模型,并将读取、提取和解复制留给模型。SELECT在搜索中执行此操作.该模型在 DuckDB 方言中编写一个只读的 SQL 语句;服务器在并行执行搜索,收集页面,用每行模型调用提取查询所要求的字段,删除复制并返回表。\n\n一个查询可以覆盖超过一千个页面,无需额外费用将其过滤到普通的SQL中,并将其组合到答案中。\n\n每个结果都被保存为一个结果设置为30天,所以下一个问题可以被问到相同的页面,而无需再次搜索. 一个完成的表可以作为一个HTML报告,图表和所有,在一个链接你可以交给某人。\n\n它不是快速查看一页的工具:一个查询从秒到分钟运行,因为它真的搜索,收集和阅读。\n\n请连接您的 Keenable 帐户一次以启用它. 搜索和收取该帐户的账单。",
+      "sourceHash": "bbbffb428c3a8ccb6992140c8b8ecdb89032ac765043c226fad08be6b96b9de7",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:52:30.131Z",
+      "usage": {
+        "prompt_tokens": 885,
+        "completion_tokens": 851,
+        "total_tokens": 1736,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 30.026784896850586
+      }
+    },
+    "a39b4c5269996dd08f00f4ad7865889b33f2719303db8c48e5f6eb33020dd9a2": {
+      "summary": "房地产数据为PR & CO",
+      "description": "用简单的语言查询RED Atlas房地产数据;查找和过滤在波多黎各和哥伦比亚的清单,包裹,财产,交易,许可证和税收;抽取市场统计和趋势;查找地点和边界多角形;并生成AVM和可比的估值报告。",
+      "sourceHash": "a39b4c5269996dd08f00f4ad7865889b33f2719303db8c48e5f6eb33020dd9a2",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:52:30.603Z",
+      "usage": {
+        "prompt_tokens": 690,
+        "completion_tokens": 860,
+        "total_tokens": 1550,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 29.39926528930664
+      }
+    },
+    "159fcf6ca56c3c72e264065e00ebc736e56f3bff5970bb8a7fd75e4fda1d28f7": {
+      "summary": "研究法律数据",
+      "description": "Alizé是一个法律数据库和法律专业人士的搜索引擎. 有了这个连接器,你的助理从真实的文件而不是从记忆中回答,并给你一个引用,你可以打开和检查。\n\n它搜索的是同一个 Alizé 平台运行:在约 250 个收藏中,超过 20 万份文件,从官方出版商中获取,并每天更新。 覆盖范围为卢森堡,比利时,西班牙和欧盟,以及法国和国际法的部分覆盖范围完全开发。\n\n你的助手会思考,阿利兹给了它真正的思考法则。\n\n您需要一个 Alizé 帐户和您公司的现有订阅,您可以访问您已经在 Alizé 中拥有的相同的收藏,而不仅如此,连接器只能访问 Alizé 的法律数据库,因此它永远不会看到您的文件。",
+      "sourceHash": "159fcf6ca56c3c72e264065e00ebc736e56f3bff5970bb8a7fd75e4fda1d28f7",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:52:36.117Z",
+      "usage": {
+        "prompt_tokens": 800,
+        "completion_tokens": 1066,
+        "total_tokens": 1866,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 36.18577194213867
+      }
+    },
+    "cf5cb48c1dbfcef6428c2da2ae3ce93ba7862937e9bdd3d6688ee2003ef27250": {
+      "summary": "分析调查响应",
+      "description": "连接您的 Refiner 帐户以使用 ChatGPT 分析调查响应,发现趋势和新兴主题,使用自然语言汇总 NPS、CSAT 和其他应用内调查的反馈,询问调查结果,识别满意度的关键驱动因素,并快速在定性反馈中显示模式,以更好地了解用户并改进您的产品。",
+      "sourceHash": "cf5cb48c1dbfcef6428c2da2ae3ce93ba7862937e9bdd3d6688ee2003ef27250",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:52:39.035Z",
+      "usage": {
+        "prompt_tokens": 676,
+        "completion_tokens": 747,
+        "total_tokens": 1423,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 25.890871047973633
+      }
+    },
+    "ed6e172587950fda86c7f4b9171c55f9e8ea9a77b43f8d19c68888547a950cc9": {
+      "summary": "询问您的商店数据",
+      "description": "AiTrillion将您的电子商务商店连接到ChatGPT,以便您可以用简单的英语询问自己的数据 - 您的忠诚计划,赚取规则和奖励,会员计划,产品评级和商店报告。",
+      "sourceHash": "ed6e172587950fda86c7f4b9171c55f9e8ea9a77b43f8d19c68888547a950cc9",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:52:42.019Z",
+      "usage": {
+        "prompt_tokens": 694,
+        "completion_tokens": 773,
+        "total_tokens": 1467,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 26.766456604003906
+      }
+    },
+    "cb58618bb2f72790c54300040958fa6685a66a8dfab447943b7d2eac16d25298": {
+      "summary": "韩国实际交易价格",
+      "description": "韩国房地产实业数据直接从大厅查阅。全国公寓4万余户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户户",
+      "sourceHash": "cb58618bb2f72790c54300040958fa6685a66a8dfab447943b7d2eac16d25298",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:52:51.421Z",
+      "usage": {
+        "prompt_tokens": 851,
+        "completion_tokens": 925,
+        "total_tokens": 1776,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 32.12468338012695
+      }
+    },
+    "2ee6f7583599d4ca1f8f93237c75a7bfb1295091f8e9d16945e76196699db73b": {
+      "summary": "知识层管理",
+      "description": "Alation 将可信赖的企业数据环境带入 ChatGPT。\n\n将 ChatGPT 连接到 Alation 的企业数据目录、治理和受信任的业务环境,以便用户能够自信地发现、理解和使用数据。\n\nAlation Intelligence Operating System(AIOS)帮助人工智能在可信的企业环境中提供地面响应,包括目录元数据、治理政策、语义定义、线程、数据质量和文档。",
+      "sourceHash": "2ee6f7583599d4ca1f8f93237c75a7bfb1295091f8e9d16945e76196699db73b",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:53:01.002Z",
+      "usage": {
+        "prompt_tokens": 709,
+        "completion_tokens": 613,
+        "total_tokens": 1322,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 21.959861755371094
+      }
+    },
+    "fba75818c7593435dbede73d8afc81e84e35706c8a686d7f76a74c209d351494": {
+      "summary": "查看核实的NFL统计数据",
+      "description": "Muffed 用已经检查过的数字回答了 NFL 问题,每个数字都来自一个基于 nflverse play-by-play、NFL Next Gen Stats 和 FTN 图表数据构建的网关面板,每个答案都有自己的来源、验证日期和数据许可证所要求的归因。\n\n询问数据现在在NFL中真实的是什么,查看球员或球队的季节数字,抽取榜单,获得像EPA或CPOE这样的先进指标的简单解释,对两名球员进行对比,或检查你在其他地方看到的统计数据 - Muffed会告诉你当它不同意时的真实值。\n\nMuffed没有发布预测,没有开始/坐位或排行建议,没有草案评级,没有排名作为建议和没有选择,并且没有赌注线或机会。\n\n每个响应都标记了自己的界限。引用名称确切地称呼它所涵盖的数字,并声明它不扩展到由它们产生的分析。根据请求计算的数字而不是从预先验证的面板中抽取的数字被标记为“computed_not_verified”并携带执行的方法和人口大小。Muffed没有任何要求,它这样明确地说,声明了它所拥有的覆盖范围,并且拒绝对任何填补差距的归因。呼叫这个服务器的助手可以在返回的数字上添加自己的评论、比较或建议;这个评论是助手的,并且是Muffed验证或属性之外的。\n\n免费,只需阅读,无需帐户. 幻想分数使用半PPR,最常见的单个翻译默认,并在任何时候都这样说。",
+      "sourceHash": "fba75818c7593435dbede73d8afc81e84e35706c8a686d7f76a74c209d351494",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:53:03.072Z",
+      "usage": {
+        "prompt_tokens": 978,
+        "completion_tokens": 1004,
+        "total_tokens": 1982,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 35.119510650634766
+      }
+    },
+    "d39b0d3579d197f52363a16cc133b88bf771dbfeae10671b90160380de7f29d6": {
+      "summary": "数字营销智能",
+      "description": "Jepto连接到你的营销堆栈,并让人工智能在整个客户组合中工作,所以你花费更少的时间来提取报告,更多的时间来做出重要决策。\n\n将 Google Ads、Meta、GA4、Google Search Console、Google Business Profile 和 20 多条其他渠道的数据拉到一个地方,从那里,Jepto 的人工智能可以帮助您用简单的语言与数据交谈,自动生成客户端准备的报告,跟踪广告预算以活动级别为细节,并在它们成为问题之前捕捉异常 - 无需手动仪表板检查。\n\n询问有关任何连接客户端的竞选活动绩效的问题 - 检查预算步伐和超额支出风险 - 来自您的营销数据的表面异常和见解 - 触发行动,如暂停竞选活动或更新预算 - 经您批准 - 提取基于机器学习的KPI预测\n\n它是专为管理多个客户的数字营销机构而设计的,但也适用于想要更智能、更快的方式来管理数据的内部团队。",
+      "sourceHash": "d39b0d3579d197f52363a16cc133b88bf771dbfeae10671b90160380de7f29d6",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:53:03.872Z",
+      "usage": {
+        "prompt_tokens": 806,
+        "completion_tokens": 975,
+        "total_tokens": 1781,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 33.44031524658203
+      }
+    },
+    "c0bbe89997f25ab20a8a6a1dfa30160698b7d4ba1c6d7e6f53570722f5fe93b0": {
+      "summary": "电子商务智能",
+      "description": "这个基于MCP服务器的插件提供工具,以获取欧洲电子商务市场的见解。",
+      "sourceHash": "c0bbe89997f25ab20a8a6a1dfa30160698b7d4ba1c6d7e6f53570722f5fe93b0",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:53:07.975Z",
+      "usage": {
+        "prompt_tokens": 624,
+        "completion_tokens": 445,
+        "total_tokens": 1069,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 16.447011947631836
+      }
+    },
+    "3327c332e4a44aa42ba9dcb28dec5b15a7b09b7523654ebdc556dc48645c2575": {
+      "summary": "检查DMARC、SPF和DKIM",
+      "description": "PowerDMARC 将您的电子邮件身份验证数据带入 ChatGPT. 询问任何域的安全姿势,并获得解读的 DMARC、SPF、DKIM、BIMI 和 MTA-STS 分类。\n\n查看现场 DNS 和 WHOIS 记录,生成正确格式化的 DMARC、SPF 和 DKIM 记录,并审查您的托管服务配置。\n\n通过 OAuth 安全地处理身份验证 - 该插件只访问您的 PowerDMARC 帐户已经允许的内容,而不会存储您的身份验证或代币。",
+      "sourceHash": "3327c332e4a44aa42ba9dcb28dec5b15a7b09b7523654ebdc556dc48645c2575",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:53:15.887Z",
+      "usage": {
+        "prompt_tokens": 748,
+        "completion_tokens": 805,
+        "total_tokens": 1553,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 27.991376876831055
+      }
+    },
+    "691f134c71af80c8f3301fc3523c5e08652d1ca87f2b2e009bb99979e887c9b8": {
+      "summary": "查找电信数据。",
+      "description": "将 ChatGPT 连接到达莫夫电信数据,将操作性问题转化为清晰、可操作的见解。\n\nDamoov MCP 服务器允许授权的用户探索公司级的移动指标,包括行程计数、距离、活跃司机、安全分数和艰难驾驶事件。\n\n它专为车队、保险、流动、物流和驾驶安全使用案例而设计,仅为达莫夫公司提供安全的访问权限,并为认证用户提供可用的数据。",
+      "sourceHash": "691f134c71af80c8f3301fc3523c5e08652d1ca87f2b2e009bb99979e887c9b8",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:53:18.392Z",
+      "usage": {
+        "prompt_tokens": 733,
+        "completion_tokens": 923,
+        "total_tokens": 1656,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 31.51803207397461
+      }
+    },
+    "fc5a6ef792666722acc468c1946dc1ac4b33a4a70a888ac589897b0023c811fb": {
+      "summary": "了解您的空间",
+      "description": "Technis 是一个空间分析平台,将您的建筑物、商店和场所转化为清晰、可操作的信息来源。\n\n随着Technis MCP服务器的连接,ChatGPT可以与您的文档、业务数据和决策一起推理您的空间使用情况,用简单的语言提出问题,研究用户行为,并获得基于您的实际数据的答案。",
+      "sourceHash": "fc5a6ef792666722acc468c1946dc1ac4b33a4a70a888ac589897b0023c811fb",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:53:24.769Z",
+      "usage": {
+        "prompt_tokens": 678,
+        "completion_tokens": 698,
+        "total_tokens": 1376,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 24.406856536865234
+      }
+    },
+    "070429b190a43d9bcf50a7827bb93c3cde4b21526625ff01916f35fe64c64303": {
+      "summary": "查询区块链数据",
+      "description": "查询和分析区块链数据直接在 ChatGPT 与 Allium. 发现方案和文档,在区块链数据集中运行 SQL,并将结果转化为可共享的查询,可视化和仪表板. 问问题,如“比较链上的 DEX 量,”“分析这个钱包的持有量和 P&L,”或“图表一个代币的价格历史。",
+      "sourceHash": "070429b190a43d9bcf50a7827bb93c3cde4b21526625ff01916f35fe64c64303",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:53:27.386Z",
+      "usage": {
+        "prompt_tokens": 701,
+        "completion_tokens": 742,
+        "total_tokens": 1443,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 25.854110717773438
+      }
+    },
+    "b3dfe53fb53e3171b0605adffdf4df65d96bbd0dd405119c076bc57d160b1fbe": {
+      "summary": "来自您管理的数据的答案",
+      "description": "WisdomAI是ChatGPT内部的企业数据采集器,用于复杂的分析问题,答案必须是确定性的,可追踪的和一致的。\n\n连接器提供访问权限. 目录和语义层提供定义. WisdomAI 应用程序适用于运行时,通过为每个问题选择正确的背景,强制要求者的行和列级安全,优化底层平台的执行,验证结果,并修复失败的查询。\n\n业务背景不断加强,因为WisdomAI从文档,查询日志,目录,语义层,dbt和BI元数据中学习,主动识别缺乏足够的背景的地方,并通过专家审查和版本化路径提出的更改。\n\nWisdomAI在数据平台、源和部署环境中工作,包括完全为无法离开环境的受监管数据提供的本地环境。\n\n每个答案都基于受管制的定义,企业数据和可见的来源,使其足够可靠来运行您的业务。\n\n在 ChatGPT 中使用 WisdomAI 来: - 询问管理业务数据的问题:“在 EMEA 中,第三季度的净收入是如何跟踪计划的?” - 按照同样的分析路线进行跟踪:“分区分开,显示过去的四季度” - 调查一个开放式的问题: “我们在上个季度错过了EMEA的计划。",
+      "sourceHash": "b3dfe53fb53e3171b0605adffdf4df65d96bbd0dd405119c076bc57d160b1fbe",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:53:29.351Z",
+      "usage": {
+        "prompt_tokens": 989,
+        "completion_tokens": 968,
+        "total_tokens": 1957,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 34.07328796386719
+      }
+    },
+    "0f19db18ce3031656335cd9db93ea66c83cf08a85fe1b7e50f11508173382d26": {
+      "summary": "直播广告作为 AI 背景",
+      "description": "实时广告作为您的AI的结构化,理性准备的背景. 胡子,索赔,报价,定位页面,以及广告商规模评级(支出,流量和销售层估计)超过MCP。",
+      "sourceHash": "0f19db18ce3031656335cd9db93ea66c83cf08a85fe1b7e50f11508173382d26",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:53:34.721Z",
+      "usage": {
+        "prompt_tokens": 658,
+        "completion_tokens": 975,
+        "total_tokens": 1633,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 32.75587463378906
+      }
+    },
+    "062b7026bf7bd655652848670045339a918924315d47fde4672868d03a0b2bb0": {
+      "summary": "日常指挥",
+      "description": "每日指令不断观察您的品牌、活动、预算和市场信号 - 然后推荐、路由批准、执行和测量下一个最佳动作。",
+      "sourceHash": "062b7026bf7bd655652848670045339a918924315d47fde4672868d03a0b2bb0",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:53:35.456Z",
+      "usage": {
+        "prompt_tokens": 646,
+        "completion_tokens": 649,
+        "total_tokens": 1295,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 22.765605926513672
+      }
+    },
+    "3c9ee340075f06f15b5f2f8ae3e8c24bce1f2abf250377caa8e39e1b821c4b32": {
+      "summary": "SEO与竞争对手分析",
+      "description": "搜索关键字,分析竞争对手,检查搜索排名,并使用引用的最新数据跟踪您自己的网站的搜索流量. 查找值得瞄准的关键字,看看竞争对手为什么超过您,对网站进行技术检查,并在连接这些帐户后查看自己的搜索控制台和分析,查找点击、来源和位置。",
+      "sourceHash": "3c9ee340075f06f15b5f2f8ae3e8c24bce1f2abf250377caa8e39e1b821c4b32",
+      "status": "translated",
+      "model": "@cf/meta/m2m100-1.2b",
+      "translatedAt": "2026-10-07T10:53:52.150Z",
+      "usage": {
+        "prompt_tokens": 689,
+        "completion_tokens": 694,
+        "total_tokens": 1383,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 24.335826873779297
+      }
     }
   },
   "lastRun": {
     "runId": "37609331348",
     "runAttempt": "1",
     "startedAt": "2026-10-07T10:44:27.849Z",
-    "updatedAt": "2026-10-07T10:49:31.811Z",
+    "updatedAt": "2026-10-07T10:54:35.388Z",
     "mode": "translate",
     "detailRequests": 0,
-    "translationRequests": 212,
-    "translationAttempts": 58,
+    "translationRequests": 450,
+    "translationAttempts": 115,
     "translationLimit": 250,
-    "aiConfigured": true,
+    "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 0,
+    "errors": 2,
     "stats": {
       "total": 3969,
       "details": 3969,
-      "translated": 800,
+      "translated": 857,
       "missing": 15,
       "removed": 28,
       "pendingDetails": 0,
-      "pendingTranslations": 3169
+      "pendingTranslations": 3112
     }
   }
 }
