@@ -38,8 +38,9 @@ export function validateTranslation(result,source){
  if(typeof result.summary!=='string'||!result.summary.trim()||!Array.isArray(result.paragraphs)||result.paragraphs.length!==paragraphs.length)throw new Error('Translation must include summary and every original paragraph');
  if(result.paragraphs.some((p,i)=>typeof p!=='string'||!p.trim()||p.length<Math.min(12,paragraphs[i].length*.1)))throw new Error('Translation contains an empty or suspiciously short paragraph');
  if(!/[\u3400-\u9fff]/.test(result.summary+result.paragraphs.join('')))throw new Error('Translation contains no Chinese text');
- checkCompleteness(source.summary||source.name||'',result.summary);
- result.paragraphs.forEach((text,i)=>checkCompleteness(paragraphs[i],text));
+ const context=(source.name||'')+' '+(source.description||'');
+ checkCompleteness(source.summary||source.name||'',result.summary,context);
+ result.paragraphs.forEach((text,i)=>checkCompleteness(paragraphs[i],text,context));
  return {summary:result.summary.trim(),description:result.paragraphs.map(p=>p.trim()).join('\n\n')};
 }
 

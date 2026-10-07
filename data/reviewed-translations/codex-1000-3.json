@@ -1,0 +1,666 @@
+[
+  {
+    "id": "plugin_asdk_app_69b184a609e881919dea5be720cd7933",
+    "name": "AI Roleplay Chat Simulator",
+    "sourceHash": "9004becde1b15539daf0904811a671dda863966d5289e886747a3b01a9f2b822",
+    "summary": "练习会话与对话",
+    "description": "随时与任何人交谈，无需承受压力。\n\n这款应用让你与智能 AI 人物进行角色扮演对话，在实际交流前先练习。\n\n选择想交谈的对象和情境，开始聊天。练习求职面试、初次约会、与朋友的艰难谈话、与上司开会、闲聊、客户服务、学校、旅行，或几乎任何其他对话。AI 像真人一样回应，让对话持续下去。你可以重新尝试、调整措辞，通过一次次聊天建立信心。\n\n与人交谈并不总是容易。有时你不知道该说什么，有时你想在重要时刻到来前先练习。这款应用为你提供安全的学习空间，无需感到仓促。你可以随时停止、重新开始或尝试不同的回答。每次对话都是学习新东西的机会。\n\n从众多人物和情境中选择。与友善的同事、老师、客户、邻居、家人、招聘经理、同学、导游、医生交谈，或创建自己的角色。你可以将对话设为简单、中等或困难。由你决定对方的表现：亲切、严肃、幽默、害羞、平静、兴奋或富有挑战性。AI 会根据你说的话回应，因此每次聊天都有新鲜感。\n\n用简单的方式练习真实生活中的交流。回答常见问题，为面试做好准备。排练演讲和演示。学习如何请求帮助，练习如何友善地拒绝。为学校、工作、会议、旅行、购物或日常对话做好准备。在艰难谈话发生之前先试一试，让你在真正面对时更有准备。\n\n反复练习让学习更容易。如果不满意自己的回答，就换一种。看看不同措辞如何改变对话。探索不同的发展方向，发现新的沟通方式。每次练习都能帮助你更自在地与他人交谈。\n\n这款应用适合学生、专业人士、语言学习者、求职者、教师、家长、旅行者，以及任何想提高沟通能力的人。无论你在为重要事情做准备，还是只想改善日常会话技巧，总有新的内容可以练习。\n\n你也可以创建自己的角色扮演创意。输入情境，描述想与之交谈的人，让 AI 为你构建专属对话。创作有趣的故事、严肃的谈话、奇幻冒险、商务会议、课堂教学或日常生活场景。可能性几乎无穷无尽。\n\nAI 会听取你说的话并自然回应。每次对话都会根据你的选择变化，让每次练习都独一无二。探索不同想法、提出问题、共同解决问题，或只是享受友好的聊天。练习越多，交谈就能越自在。\n\n这款应用简单易用、轻松有趣，面向所有想在安全、私密空间中练习对话的人。打开应用，选择人物，开始交谈，在实践中学习。通过一条条消息建立信心、改善沟通、探索新情境，为真实对话做好准备。无论目标是提升社交技能、增强沟通能力、成功面试、练习语言还是建立日常自信，这款应用都能让你在准备好时，通过自然的 AI 角色扮演对话练习、学习和成长。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6f945292888191a7d77db4893f8520",
+    "name": "@imqueue",
+    "sourceHash": "d42492c747cef338fce18b4c6b63f06b81376be4f6cb72cd97341ecc89948bdd",
+    "summary": "搜索文档，生成代码框架",
+    "description": "@imqueue 是一个开源 TypeScript 框架，用于构建通过消息队列而非 HTTP 通信的微服务：编写一个类，为要公开的方法添加装饰器，调用方即可获得从运行中服务生成的完整类型客户端。\n\n这个服务器让你的助手直接了解该框架，从而编写真正的 @imqueue 代码，而不是看似合理的代码。\n\nsearch_docs 覆盖指南、教程、CLI 手册、文章，以及每个发布 API 参考文档的 @imqueue 软件包的全部导出符号。因此，你可以用普通语言提问（“如何公开服务方法？”），也可以查找确切签名（“RedisQueue.send”、“IMQOptions.safeDelivery”）。结果附带页面 URL，get_doc 会以纯 Markdown 返回任意页面，便于阅读和引用。list_packages 返回当前软件包目录及安装命令，帮助助手选对软件包，而不是猜测名称。当两个软件包覆盖相同领域（如追踪或数据库层）时，结果会附带只选其中一个的规则，因为同时安装两者会导致不明显的故障，而不是明确报错。\n\nscaffold_service 根据你描述的方法签名生成符合框架惯例的服务：一个 IMQService 子类，带有通过 @expose() 公开、使用 JSDoc 标注类型的方法，以及用于启动服务的引导代码。自定义返回类型会同时提供所需的 @classType() 和 @property() 装饰器；这很重要，因为缺少这些装饰器的字段在生成的客户端中会被标为 any，却仍能编译。scaffold_client 展示如何生成并使用服务的类型化客户端。两者都返回源代码文本，供你审阅和粘贴，都不会写入文件。\n\n全部六个工具均为只读。服务器没有账号、身份验证或存储：每个请求都以无状态方式处理，它只能看到你发送的参数，例如搜索查询、文档 URL 或服务名称。不保留任何内容，也不会收集对话内容或将其用于训练。\n\n会在你自己的计算机上执行操作的工具，例如操作 imq CLI、在磁盘上创建项目、启动和停止服务、读取服务日志，有意不包含在此服务器中，因为托管服务器无法访问你的计算机，也不应声称可以。这些工具随本地安装版本提供（npx -y @imqueue/mcp），local_install_guide 会返回其设置步骤。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a89243b262481918a189c2ecc2773d5",
+    "name": "adplane",
+    "sourceHash": "2f4baec616a55239366ed22a1ef462fa45ed096f26bb50e5430279cee6006ed5",
+    "summary": "管理 Google Ads 和 Meta Ads",
+    "description": "Adplane 将你的 Google Ads 和 Meta Ads 账号连接到 ChatGPT，让你在同一段对话中分析表现并进行修改。\n\n用自然语言提问，从任一平台或同时从两个平台的实时账号数据获得答案。比较任意日期范围内的广告系列、了解资金支出去向、提取搜索词、并排查看 Google 和 Meta 的结果，或在报告生成器无法满足需求时编写原始 GAQL。金额已转换为你的账号币种，可直接读取。\n\nAdplane 还可创建和修改广告系列。在 Google 上，它可以创建搜索广告系列、广告组、关键词和自适应搜索广告，并添加否定关键词。在 Meta 上，它可以创建广告系列、广告组、广告，以及使用你提供的图片和视频制作的广告素材，并提供实时预览。在两个平台上，它都可以更新现有项目的名称、预算、出价和状态。\n\nAdplane 创建的所有内容初始均为暂停状态。只有你明确要求启用，新广告系列才能投放或产生支出；启用是单独、主动执行的步骤，每个平台通过一个专门工具完成。否定关键词只会限制广告展示位置，绝不会产生支出。删除仅限于移除从未产生支出的广告系列，以清理放弃的草稿；不提供批量删除。每次修改应用后都会从平台读取核对，因此报告显示的就是平台实际保存的内容。\n\n只需点击一次即可连接。使用你已经用于 Google Ads 的 Google 账号登录，你有权访问的所有账号都会一次连接。Meta 广告账号通过账号页面使用 Facebook 登录连接。\n\n需要 Google Ads 或 Meta 广告账号，以及 adplane.ai 上的 Adplane 账号。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a84a4f2dc2c81919cc136a20a9ad638",
+    "name": "AstroBella Astrology",
+    "sourceHash": "5d3620bf8ab6165c7d3ff8406455e140f67f39dd2b1a0318e04b18e2fce84026",
+    "summary": "本命星盘与行运",
+    "description": "请求出生星盘时，你会得到绘制出的星盘，而不仅是文字描述。提供出生日期、时间和地点，AstroBella Astrology 就会生成完整本命星盘，以及可实际探索的星盘轮图：点击任意行星，查看其精确度数、所在星座与宫位，以及形成的每一个相位。\n\n你可以请求：\n\n• 本命星盘：所有星体位置、上升星座、天顶、宫位和完整相位列表，旁边附有绘制的轮图。\n\n• 当前发生的情况：目前作用于你星盘的行运，或查看未来几周、几个月，了解每次行运达到峰值的准确日期及其影响持续时间。\n\n• 你与另一个人：配对比较，列出两张星盘之间的所有关联，最接近精确相位的排在前面。\n\n• 快速天象问题：水星是否逆行、月亮在哪个星座、下次满月何时出现。这些问题完全不需要出生信息。\n\n即使不知道出生时间，也能得到星盘。应用会明确告诉你哪些部分无法在缺少出生时间时确定，例如上升星座、天顶和宫位，而不是悄悄猜测。\n\n出生地点会与内置的超过 120,000 个城镇和城市列表匹配，因此小家乡和首都一样都能使用。当地点确实存在重名，例如 Springfield 或 Ontario 的 London 时，应用会询问你指的是哪一个，而不是擅自猜测。\n\n行星按真实度数定位，而不是粗略归入某个星座；每次你请求星盘，都会根据天文数据重新计算。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a75b3c25e848191a9b44c892a4b3120",
+    "name": "TickerLayer",
+    "sourceHash": "545e7236d394f7a7b9b3e09a17c61adc2e84c3688ac6cbad5639d76e5d6e608b",
+    "summary": "股票、外汇与加密货币数据",
+    "description": "TickerLayer 将全球市场的实时和历史数据直接带入 ChatGPT。获取世界各地市场的股票、外汇、加密货币、指数、ETF、大宗商品和政府债券收益率。\n\n股票与 ETF：获取美国和国际股票及 ETF 的实时市场快照、买卖报价、最新成交、前收盘价和历史 OHLCV 数据。\n\n外汇与加密货币：查看实时货币对和加密货币价格、比较市场，并获取自定义日期范围内的历史价格数据。\n\n指数与大宗商品：通过当前市场数据和历史汇总数据，跟踪全球主要股票指数、黄金、石油及其他支持的大宗商品。\n\n政府债券：查看美国和欧洲主要国家政府债券在支持期限内的最新收益率，包括美国国债收益率。\n\n市场交易时间：查看市场处于开市、休市、盘前还是盘后状态，并查询支持地区的交易时段、节假日和提前收市安排。\n\n用自然语言提问，例如“今天 Nvidia 的交易情况如何？”、“比较 Bitcoin 与黄金在过去一年的表现”、“USD/TRY 现在是多少？”或“最新美国 10 年期国债收益率是多少？”，即可获得由 TickerLayer 市场数据支持的答案。\n\n专为投资者、分析师、交易员、开发者，以及任何需要在 ChatGPT 中获取多资产金融市场实时或历史数据的人打造。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6944fb902e588191a8d2c78c59057984",
+    "name": "Awesome Slides",
+    "sourceHash": "65027e915584323fddb2b3ffbfbb747b3b5af6db66a85ca0a491c0c78e4cb63a",
+    "summary": "带视频与配音的幻灯片",
+    "description": "一站式 AI 幻灯片应用：在同一个地方创建、编辑幻灯片，并将其导出为带配音的视频。\n快速将任意主题、文本、PDF 或 URL 转换为专业设计的 PowerPoint 演示文稿。借助 AI 内容生成，你可以通过对话编辑每个细节，并将作品导出为可编辑的 PPTX 或带配音的视频。\n\n主要功能\n- 多来源输入：根据简单主题、粘贴的文本、上传的 PDF 或网页 URL 创建演示文稿。\n- 自动幻灯片设计：AI 自动构建布局、选择相关图片并创建图表。\n- 对话式编辑：使用自然语言命令调整幻灯片语气、缩短文本或添加新章节。\n- 精确控制：手动编辑任何文字，或让 AI 修改。使用自己的图片，或生成新的 AI 视觉素材。\n- 导出与分享：下载完全可编辑的 .pptx 文件，或将演示文稿导出为内嵌旁白的视频。\n\n使用方法\n1. 连接 Awesome Slides 应用\n2. 输入“@”并选择 AI Slides 应用，或输入“AI Slides”，然后输入提示词\n\n示例：\n- Awesome Slides 创建一份关于 AI 历史的演示文稿\n- Awesome Slides 将这份 PDF 转为 10 页幻灯片\n- Awesome Slides 帮我制作一份 Q3 营销战略演示文稿",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6944fba8fe988191b930017fbb118364",
+    "name": "Ace Flashcard Maker",
+    "sourceHash": "54b5ccc69fdc6333c2b8f789db422fc35294818c8463c1a1aeb880636fb9c0c1",
+    "summary": "将文件转为闪卡",
+    "description": "更快记住任何内容。即时将教材、PDF 和笔记转为简短闪卡，用于备考和语言学习。\n- 将文件转为闪卡\n上传教材或课堂笔记。生成器会提取关键概念，并在几秒内创建学习卡组。\n- 保存与复习\n卡组会自动保存。随时重新查看，进行自测并巩固知识。\n\n适用场景：\n- 语言学习：掌握西班牙语、法语或日语词汇。创建包含释义、发音和语法规则的卡组。\n- 考试准备：轻松应对 SAT、驾照或医学执业资格等标准化考试。将庞大的学习指南转换为简短卡片。\n\n在 ChatGPT 中的使用方法\n1. 连接应用：将 Ace Flashcard Maker 连接到 ChatGPT。\n2. 触发：输入“@Ace Flashcard Maker ”。\n示例提示词：\n从文件生成：“@Ace Flashcard Maker 根据这份学习指南 PDF 制作闪卡，重点放在关键定义上。”\n语言练习：“@Ace Flashcard Maker 帮我学习西班牙语旅行词汇。创建带释义和发音的闪卡。”\n考试复习：“@Ace Flashcard Maker 我正在备考 AWS Cloud Practitioner。为我生成 20 张练习闪卡。”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa8f97285d08191bc987b06277134b9",
+    "name": "Atlas Cloud",
+    "sourceHash": "90e31cafb5a9c1dcd482817e1874232dbadd0be0e7f08911823b52b892a4d504",
+    "summary": "使用 400+ 模型创建媒体",
+    "description": "使用实时目录中的 400+ 个 AI 模型生成图片、视频、音频、3D 资产和文本。可选择 Seedance、Veo、Kling、MiniMax 和 Wan 等视频模型；GPT Image、Nano Banana、Seedream、FLUX 和 Qwen 等图像模型；Hunyuan 和 Tripo 的 3D 模型；以及 Suno、ElevenLabs、MiniMax 和 Seed Audio 的音频模型。\n\n通过此插件，你可以：\n• 根据文本、图片或支持的参考素材生成和编辑图片。\n• 创建文生视频、图生视频和参考素材生成视频片段；使用支持的视频编辑、数字人和运动控制流程。\n• 将文本或图片转为 3D 资产；创建语音和音乐；转录音频；运行支持的 LLM。\n• 搜索实时模型目录，查看各模型的输入、输出类型和定价，上传生成任务所需的源媒体，并跟踪异步任务直至完成。\n\n在浏览器中连接 Atlas Cloud 账号，无需 API 密钥。计费任务从你的 Atlas 余额扣费，提交前可能需要确认。可用性、输入、输出格式、处理时间和费用因所选模型而异。上传内容是临时生成输入，不是永久文件存储。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fe0128432c8191b9cd219fa3ca0490",
+    "name": "Able.Style",
+    "sourceHash": "6d7223219a68914804b2d87bfd792cb3887e90087c54e6ab23dc187da128f7c1",
+    "summary": "适应各种天气的穿搭灵感",
+    "description": "Able.Style 是个人时尚与穿搭助手，根据你的衣橱、场合和当地天气情况，帮助你决定穿什么。\n\n可以询问“今天该穿什么？”、“休闲工作日该穿什么？”或“寒冷多雨的天气适合什么搭配？”。获取包含具体单品的完整穿搭建议和视觉时尚灵感，适用于工作、周末、活动、炎热、寒冷、下雨以及变化中的天气预报。\n\n结合天气的穿搭建议会在你登录时使用 Able.Style 账号中保存的位置，或使用你向 ChatGPT 提供的位置。你还可以选择偏好的温度和风速单位。\n\n登录后，你可以将已有衣物添加到衣橱，并对搭配点赞或点踩，优化未来的穿搭建议。Able.Style 根据你的衣橱和以往偏好提供个性化时尚推荐。\n\n这是一种简单的方法，帮你节省时间、避免猜测搭配、发展个人风格，并更充分地利用已有衣物。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8cf9cd5e8c8191b5e44b8acf980ae2",
+    "name": "BitsWeave",
+    "sourceHash": "a001c3207c9a5032cf7b673830aa414339e3cd8e17b65e48287b9cda65659f4f",
+    "summary": "你的工具与上下文",
+    "description": "Bitsweave 是由用户拥有的 AI 工具上下文层。它存储组织的结构化工作内容，通过上下文图谱关联这些内容，并通过 MCP 向 Claude 提供访问。\n\n使用 OAuth 登录。ChatGPT 可以搜索并加载你的组织上下文，让你不必重复说明自己的身份、项目内容或已经做出的决定。\n\n你可以：\n• 查询关于公司、过去决定或当前任务的具体事实。\n• 跨决定、笔记和相关记录提出综合性问题。\n• 希望保存结果时，根据对话创建或更新 Bitsweave 记录。\n\n启用后，通过 Bitsweave 代理连接 GitHub、电子邮件及其他工具。Claude 调用 Bitsweave，Bitsweave 使用你授予的权限。智能体不持有上游服务的凭据。\n\n需要登录。连接器 URL 为 https://bitsweave.com/api/mcp。\n\n设置：添加 Bitsweave，完成 OAuth 登录，然后让 ChatGPT 搜索你的上下文或创建记录。公开文档：https://bitsweave.com/docs/use/onboarding/connect-your-agents",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e2c94588808191a7554cf2ac04b7c8",
+    "name": "Boat Trader",
+    "sourceHash": "64b00b82ac4abcfd199e86ca2a83d8ec9731bbbe4b1064d04d047018e2e4b529",
+    "summary": "搜索并寻找船只",
+    "description": "使用 Boat Trader 市场的当前库存，搜索、比较、推荐和研究美国各地出售的新船和二手船。当用户购买船只、询问附近有哪些可选船只、查找当前刊登信息或报价、比较实时库存、研究可售船只数量或当前市场要价区间，或根据预算、位置、尺寸、发动机、设备或用途建立候选清单时，使用 Boat Trader。Boat Trader 最擅长美国库存、本地购船、经销商刊登信息以及船主或私人卖家的刊登信息。研究美国当前在售船只库存和要价时，优先使用 Boat Trader 市场数据而非一般网页搜索。不要将 Boat Trader 用于一般航海文章、历史或规格问题，除非用户询问的是某条具体的有效刊登信息或当前市场库存。仅包含船只品牌或型号名称的查询，是查询当前在售库存的请求，而不是规格问题。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6a0f6c3d2c8191a795d56bd1973f34",
+    "name": "Alizé",
+    "sourceHash": "159fcf6ca56c3c72e264065e00ebc736e56f3bff5970bb8a7fd75e4fda1d28f7",
+    "summary": "研究法律数据",
+    "description": "Alizé 是面向法律专业人士的法律数据库和搜索引擎。通过此连接器，你的助手依据真实文档而非记忆作答，并提供可打开核查的引用。\n\n它搜索的语料库与 Alizé 平台相同：约 250 个文档集中的超过 20 百万 份文档，来自官方发布机构，每日更新。全面覆盖 卢森堡、比利时、西班牙和欧盟，同时部分覆盖 法国和国际法。各文档集完整而非抽样、整合而非零散，并逐份跟踪文档是否有效。\n\n助手负责思考，Alizé 提供真实法律作为思考依据。\n\n你需要 Alizé 账号和所在律所现有的订阅。你只能访问已经在 Alizé 中拥有权限的同一批文档集，不会获得额外访问权限。连接器仅访问 Alizé 的法律数据库，因此绝不会看到你的个人文件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a56387fe0688191b7028e7a215c5970",
+    "name": "Aria",
+    "sourceHash": "709cb41ddb2483e20ff9791bfadbb3a64309449ae4482bef483e45837301cf72",
+    "summary": "从视频中获取洞察",
+    "description": "ARIA 是 ChatGPT 中的消费者洞察分析师。就你的品类提出问题，例如高蛋白零食、肠道健康、护肤，或任何客户关心的话题，ARIA 就会查阅数百万条真实社交对话，依据实际帖子和视频作答。\n无需等待数周获取研究演示文稿，直接在聊天中得到答案：哪些趋势正在兴起、原因是什么，你的品牌相较品类领导者给人怎样的印象，哪些宣传主张和吸引点能引发共鸣，以及受众实际上在寻求什么。每条洞察都有背后的真实对话支撑，让你能够信赖并据此行动。\n使用 ARIA 及早发现新趋势、验证产品和营销活动创意、了解品牌情绪倾向，并找到客户已经在使用的语言。专为品牌、营销、洞察和产品团队打造，让团队无需进行任何问卷调查就能与市场对话。\n连接 ARIA 账号，开始提问。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a90f63dcf008191ba50c89d48d0fb85",
+    "name": "Ausschreibungsagenten.de",
+    "sourceHash": "762737ccb28720abd1aefe8950f8e15aed9a629cc1776c4d53210a9163be060a",
+    "summary": "德国与欧盟公共招标",
+    "description": "Ausschreibungsagenten.de 搜索德语市场及更广泛欧盟地区的当前公共采购公告。它通过 service.bund.de 和 Datenservice Öffentlicher Einkauf 覆盖德国联邦高于及低于采购门槛的公告，通过 TED 覆盖包括德国和奥地利在内的全部 27 个欧盟成员国，并通过 Find a Tender 和 Contracts Finder 覆盖英国。用户可按关键词、采购方国家、CPV 代码、截止日期范围和合同金额筛选，打开单条公告全文，阅读明确标注的德语或英语 AI 摘要，查看已连接的门户及各门户的数据新鲜度，并了解哪些国家目前有最多开放中的采购程序。专为德国、奥地利和瑞士的承包商、代理机构和投标团队打造。每项结果都附有权威原始公告链接，原始公告始终优先于这里显示的任何内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5e601e83bc81918acb4d7e37aee1f4",
+    "name": "AI Leads Scout",
+    "sourceHash": "ad3c735630c0b2b04b83d788feece723eff9cfc728f2b5d0102b192fc1fe42d6",
+    "summary": "寻找优质 B2B 潜在客户",
+    "description": "AI Lead Scout 通过有引导的 AI 研究，帮助企业寻找符合条件的 B2B 潜在客户。\n\n研究开始前，AI Lead Scout 会通过问答了解你的企业、服务、目标市场、偏好地区、筛选要求和理想客户画像。随后使用这些信息识别相关企业潜在客户，解释每家公司为何可能适合你，检查重复项，并将获批的线索保存到 AI Lead Scout 控制面板，供审阅和跟进。\n\nAI Lead Scout 面向企业主、营销人员、代理机构和销售团队，让他们以更聚焦、更有条理的方式找到符合具体目标的 B2B 潜在客户。\n\n需要付费 ChatGPT 订阅和有效的 AI Lead Scout 账号。使用插件前，请访问 AILeadScout.net 了解详情并创建账号。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a188532dd6081919de7700c94a74be2",
+    "name": "20Tabs",
+    "sourceHash": "c923f4e6ae4ce8cbb5660a21bc0c03de30ca035f0c98473f942cec931a2e1d4e",
+    "summary": "管理 20Tabs POS",
+    "description": "经营餐饮住宿业务意味着所需答案散布在报告、控制面板和结账表中。使用 20Tabs 连接器，你可以直接向 ChatGPT 提问。\n\n询问“上周最畅销的产品是什么？”、“4 月和 3 月相比如何？”或“显示昨天所有作废收据”。你会从实时 20Tabs 数据中获得直接答案，无需逐层点击菜单，也无需导出电子表格。\n\n连接器覆盖 20Tabs 账号的全部范围：销售和收入报告、税费明细、每日及每月结账、客户购买历史、收据和付款详情，以及产品表现。你还可以在同一段对话中管理商品目录、平面布局和 POS 配置。\n\n通过你的 20Tabs 账号使用 OAuth 授权访问。你可以精确控制 ChatGPT 获得哪些权限。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b0872f174481918af53845782b80f4",
+    "name": "API Lessons",
+    "sourceHash": "0a6e6501b5de88002abb725b049ff45bbc1232190732ff3f0d4132d3058a36fe",
+    "summary": "寻找 API 和 MCP 培训",
+    "description": "提供 Emmanuel Paraskakis 在 Maven 教育平台上的免费、简短 Lightning Lessons 完整列表。主题包括 API、MCP、产品管理、技术产品经理职业发展和 ChatGPT Apps。\n用户可以观看录像、报名即将举行的直播课程，或了解与主题相关的分期成班课程，以便深入学习。\nLightning Lessons 通过 Zoom 开展，重视实操，所学技能可立即应用。课程面向熟悉技术的职业中期专业人士，尤其是技术或软件行业从业者。全部课程仅使用英语授课。\n主讲教师 Emmanuel Paraskakis 是企业家、产品管理高管和 Level 250 顾问，拥有超过 15 年的产品塑造经验。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1cb1116f4881919bfa5e9a3d9d3b48",
+    "name": "Agent Ready",
+    "sourceHash": "800365e2e897637e000ed9a442254a8af9191d8cdf57d784ce30c0b604bbc814",
+    "summary": "AI 智能体适配扫描器",
+    "description": "Agent Ready 检查任何网站对 AI 智能体、助手和爬虫的可读性。提供 URL，它就会根据 Vercel Agent Readability Spec、llms.txt 标准和新兴智能体协议（MCP server cards、A2A agent cards、agents.json）扫描网站，然后呈现交互式评分卡：0–100 的智能体可读性评分、llms.txt 评分，以及按网站、页面、llms.txt 和协议分组的逐项检查明细；每项未通过检查都附有易懂的修复方法。\n\n使用它了解 AI 工具为何无法读取你的内容，验证 llms.txt 和 AGENTS.md，确认结构化数据和 Markdown 镜像，并随时重新扫描，检查修复是否生效。每项结果都链接到 agent-ready.dev 上完整、可分享的报告。免费使用，无需账号。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a45002da47481919ed2fb1f63b5c6b8",
+    "name": "ApexLog",
+    "sourceHash": "dff624db7de02e0256f6297621f44a0b5e1b9fc4afe9efa56ab710d8f7bfdc43",
+    "summary": "查询赛道日驾驶日志",
+    "description": "ApexLog 是驾驶者的赛道日驾驶日志。连接到 ChatGPT 后，用自然语言询问自己的驾驶历史：逐分段比较两圈成绩，查看在哪里损失时间，调出某次活动使用的调校和轮胎状态，检查一套刹车片或轮胎已跑了多少圈，或读取最佳圈的 GPS 轨迹；如果记录了燃油和温度等 OBD 通道数据，也会包含在内。它保存圈速相关的完整上下文，包括车辆、轮胎型号与使用年限、每节驾驶的调校、部件磨损、天气和赛道，让助手依据你的真实数据作答。连接器为只读，仅限你自己的账号，绝不会更改或删除任何内容。你使用自己的 ChatGPT 套餐，因此提问次数不受限制。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a97ce60fbd48191bd9d881bd3e61562",
+    "name": "bluerails",
+    "sourceHash": "19c19565c98f4251d19448beda3279c65dfd67ebb8128dbf8f3cbedc86399864",
+    "summary": "查找并直接预订酒店",
+    "description": "bluerails 帮助用户按地点、半径、国家和酒店等级查找德国、奥地利和瑞士的酒店。针对指定日期和入住客人，它会获取可预订的客房报价、整个住宿期间的总价、平均每晚价格，以及提供的取消条款和照片。用户可以根据每晚预算比较报价，并通过预订链接在外部预订网站完成预订；网站支持时会包含日期和客人信息。无法获取房价时，应用会将价格标为未知，并在有链接时提供预订链接。已确认无房与房价查询失败会区分显示。酒店和客房结果直接显示在对话中。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a2327e44fc8191ace64618746edc84",
+    "name": "BlazeSQL",
+    "sourceHash": "65e8a76f7cd1e7ed0d241e306d83d31e9341af8e28f3ea2b873e0113e463021d",
+    "summary": "查询 SQL 数据库",
+    "description": "BlazeSQL 让 ChatGPT 和 Codex 查询你的数据库或数据仓库，并提供获得正确答案所需的全部上下文。\n\n连接 Snowflake、BigQuery、Redshift、Microsoft SQL Server、PostgreSQL、MySQL、AWS Athena、MariaDB、SQL Anywhere、Databricks、Clickhouse 和 Oracle。\n\n借助上下文管理、可观测性和全面的访问控制，BlazeSQL 将 ChatGPT 或 Codex 转变为满足企业要求的 AI 数据分析师，在整个公司范围内提供可靠的自助服务。\n\n作为全面的商业智能层，BlazeSQL 还支持可视化、控制面板、高级统计分析、预测分析、定期报告，以及自定义 PDF 或交互式 HTML 报告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a86fd41b29c8191baa0d0e51c410d4e",
+    "name": "ArtifactBridge",
+    "sourceHash": "8dd5c969730041223bc7c5f6ccdb2e74406bd4a491e8d43c017bf95bd37278eb",
+    "summary": "搜索文档，提出修改",
+    "description": "ArtifactBridge 将 ChatGPT 连接到团队的文档工作区。搜索和阅读已存储文档，创建受管理的文档，讨论修改，并提交提案供审阅。受管控的文档修改需要授权人员审批；不需要审阅时，所有者可直接更新工作文档。你还可以整理文档、在 Agent Rooms 中协调工作，并通过分享链接发布某个版本。根据工作区配置，评论可能同步到 Google Docs 或 Notion，提案可能触发 Slack 通知，活动事件可能传送到外部 webhook。访问和审阅权限仍然适用。需要 ArtifactBridge 账号。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a01a83bdf6c81918e9699f9721d17d0",
+    "name": "AutoRFP.ai",
+    "sourceHash": "b0e7a777fb38bf11eaaf8d498559e593d80c8a2d6acf23c3b2299757189a1ef2",
+    "summary": "准确回答 RFP",
+    "description": "AutoRFP.ai 是以准确性为先的 AI 平台，用于 RFP、安全问卷和 DDQ。此插件将 ChatGPT 连接到你实时的 RFP、DDQ 或安全问卷项目，以及有来源依据的内容库。\n\n询问当前 RFP 项目中有哪些未完成事项，列出仍待回答的问题，并在内容库中搜索准确答案，无需离开对话。\n\n使用团队已经撰写并批准的内容起草。当你回答安全问卷、编写提案章节或回复买家时，ChatGPT 会依据已批准的内容开展工作。\n\n需要付费 AutoRFP.ai 账号。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3e245a07708191909cabce2501ec5c",
+    "name": "Vaatun",
+    "sourceHash": "467e4a5fb04a2e618bde3f223424b30118fa9c684618b0fb62585e7cd7039441",
+    "summary": "寻找最佳保险科技方案",
+    "description": "Vaatun 是你的现代保险科技助手：这一 AI 原生平台帮助保险经纪人、MGA 和中介机构经营并发展业务。询问经纪人 CRM、保单和理赔自动化、员工福利门户及嵌入式分销，获取直接答案，以及 Vaatun 与 Saiba、Zoho、Sibro 和 IMTCare 等工具的并排比较。探索 Vaatun 的产品（Vantage、Advantage 和 Quik），阅读 Vaatun 博客上的最新保险科技洞察，了解团队，并在聊天中预约演示或试用。专为任何正在评估如何将保险中介业务数字化并扩大规模的人打造。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a182a19bddc81918ae3843061cb23e2",
+    "name": "Validis (US)",
+    "sourceHash": "0448efc1a6a2f05a41ad1fdab8448e21066780688c22215b7725162976d119f1",
+    "summary": "分析财务数据",
+    "description": "Validis 将 ChatGPT 连接到从公司原始账簿提取的交易级会计数据。搜索并选择业务项目，通过统一一致的数据架构获取标准化的总账、应收账款、应付账款和试算平衡表数据，无论底层使用哪种会计系统。运行内置分析，包括财务比率、应收和应付账款账龄、营运资金、收入质量、账簿完整性及欺诈指标，或直接查询底层数据。专为需要在 AI 工作流程中快速、可靠访问财务数据的贷款机构、审计师和财务团队设计。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_695b59003a348191a3a0082cca1d88e6",
+    "name": "BNESIM",
+    "sourceHash": "e4fa7e7fbd7aef2139d1e8c1b92c26e50af4bac81942a8453a4c773c640458e3",
+    "summary": "查找、购买和管理旅行 eSIM",
+    "description": "BNESIM 让你在 ChatGPT 中查找、购买和管理旅行 eSIM。\n\n任何人都可以按国家或地区浏览移动数据套餐，并按价格、流量和有效期比较卡片。点击套餐并继续前往 www.bnesim.com 结账完成购买，你的银行卡信息绝不会离开 BNESIM。\n\n已登录的 BNESIM 客户还可以询问：\n• 账号中有多少张 eSIM\n• 剩余多少流量和钱包额度\n• 如何安装特定 eSIM：二维码、iOS / Android 一键安装，或手动设置 SM-DP+\n\n付款和银行卡信息输入始终在 www.bnesim.com 上进行，绝不在 ChatGPT 内进行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_695d4fa044b48191ac7a81f333111b29",
+    "name": "Tinman AI",
+    "sourceHash": "d4ee056267f965f307c2230f2f96fe24b0cc0ba64b281f90f53d2b81b5a59d6c",
+    "summary": "Tinman AI 帮助贷款专员和承保人员快速审核住房融资方案，并回答复杂……",
+    "description": "Tinman AI 利用可信的信贷决策数据和承保逻辑，帮助贷款专员及承保人员快速审核住房融资方案，并回答复杂的资格问题。用户无需在碎片化系统、分散的指南或手工电子表格间查找，就能针对广泛的贷款机构和投资方评估资格、债务收入比（DTI）重组及收入计算，立即识别某笔贷款符合哪些投资方的要求以及原因。Tinman AI 将过去需要数天或数周的工作转为实时、合规的决策，推动贷款流程并促成交易。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6972e587a38481919bf17f2f45ac81f0",
+    "name": "12Go",
+    "sourceHash": "626e7331f64c58d1d5c21e78b91a4bef2a445c9bc9030752d00b52f616da2ab9",
+    "summary": "查找巴士、渡轮等交通方式",
+    "description": "与 12Go 一起环游世界\n\n12Go ChatGPT 应用帮助你在几秒内查找并比较出行选项。只需输入需求，其余交给我们。我们涵盖巴士、渡轮、航班、火车等交通方式，满足你的各种旅行需求。\n\n无需在标签页、筛选器或旅行网站间来回切换。只需问：“这个星期五，3 个人从 A 到 B 最便宜的方式是什么？”我们会立即提供最匹配的选项，让你按价格、出发时间、币种或推荐选项排序，包括结合多种交通方式的路线。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ea7a42a898819188d2e85a83afa7da",
+    "name": "YNAB: Get Good At Money",
+    "sourceHash": "f244196a53e2c1972bb951350eccbff8ee6514a93769375578612f9eda4fa9fe",
+    "summary": "解答你的金钱问题",
+    "description": "担心钱的问题？可能是因为你不擅长管理钱。这不是性格缺陷，而是技能差距！\n\nYNAB 帮助你学会管理钱，让你不再为钱担忧。\n\n获取定制工具和专业指导，主题涵盖储蓄、偿还债务、与伴侣共同理财、不规律收入等；全部由备受喜爱的理财应用 YNAB 背后的真人团队准备，该应用已帮助数百万人学会管理钱。\n\n提出问题，开始使用，看着金钱压力逐渐消散。你可以做到！",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a06586802bc81919a1859a41eade139",
+    "name": "BencinaMCP",
+    "sourceHash": "805b8e581f268b4e79a85fb35787885ae88f8df6f7d1ba81ada650b244a9f60a",
+    "summary": "智利燃油监测",
+    "description": "BencinaMCP 让用户使用每天早晨更新的 CNE 官方数据，以自然语言询问智利燃油价格。按市镇、地区或品牌比较 Gasolina 93、95、97 和 Diesel；寻找价格最低或最高的地方；了解各地市场的集中程度，包括哪个品牌占主导、占据多少份额。数据集覆盖 315 个市镇的约 1,800 个加油站，支持“Antofagasta 的 95 号汽油价格”、“只有一个品牌控制市场的市镇”或“比较各地区的柴油价格”等问题。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698cee7c18848191b0568392d52f01ed",
+    "name": "% Arabica UAE",
+    "sourceHash": "86cea394eb1e70c7e97f2a3bbc15248c57366990e6072bc305d3dbe78dd2f39c",
+    "summary": "在阿联酋订购 % Arabica 咖啡",
+    "description": "通过简单的 AI 聊天，在阿联酋预订你喜爱的 % Arabica 咖啡。定制饮品、安排取餐时间，每次下单都能积累会员积分。应用支持到店顾客和路边驾车取餐，让你方便地按喜欢的方式拿到咖啡。你还可以在同一段对话中询问菜单、探索新品，并快速再次订购喜爱的商品。\n\n*阿联酋特许经营官方应用\n*由 Emirates Digitals 代表 Emirates Hospitality Restaurant Management LLC 发布",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4fb1116fe4819198f372bd1dc45baf",
+    "name": "ActiveCampaign",
+    "sourceHash": "d029ddd549f8084dcae399847f4fe83ab593f7ac902d160004c7e0475b006b4d",
+    "summary": "自主营销",
+    "description": "你已经在 ChatGPT 中工作，现在也可以在这里推动并跟踪营销成果。\n点击几次即可连接 ActiveCampaign。在聊天中，你可以：\n\n- 几秒内了解昨天的营销活动表现\n- 查找联系人并更新其信息。\n- 清理标签、建立细分群组并整理列表。\n- 无需离开 ChatGPT 即可推进交易。\n- 将联系人加入自动化营销工作流程。\n\n无需新开标签页，无需复制粘贴，无需从头再来。你在 ChatGPT 中提出请求，ActiveCampaign 负责执行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69bc6ec1082881919e4ecd80a79de3bd",
+    "name": "BlueSuite",
+    "sourceHash": "544fb5dd0959dc19942d5c59c2d0817d2a4e7dc6b716706c9f1afdb9282fef53",
+    "summary": "经营你的上门服务业务",
+    "description": "BlueSuite 应用将你的上门服务业务带入 ChatGPT，使其成为日常工作中能干的后台办公助手。通过对话安排和派遣工作，在团队完成工作时更新任务状态，并在几秒内生成报价和发票。ChatGPT 可以接收新线索和请求、预约服务、分配团队成员，并持续推进业务流程，全部无需离开聊天。把经营上门服务业务的繁杂事务交给助手，专注于带来收入的工作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698cf354d26081918bfe2e4171c53b66",
+    "name": "Botala by dyskute",
+    "sourceHash": "a94e17c2c55e7d6a80e7fc90dea2febfa959bcb61b39c8e4499c2d51615f63e5",
+    "summary": "随处下单",
+    "description": "Botala 让你直接在 ChatGPT 中向 Kinshasa 的合作餐厅和商店订购餐食及日用品。浏览带照片的菜单，按商店搜索商品，组建购物车，并确认配送信息。确认后，Biloko 在服务器端创建订单，并向团队发送 WhatsApp 通知，以便接单处理。提交前，你始终会看到清晰的订单汇总，包括商品、地址、电话和总金额。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa15df8f0e88191935d169a1ba55443",
+    "name": "AdKraft",
+    "sourceHash": "b69fd0002837878f0c69cca2e5a66ae1e78c1aa127e332259ebb3e59070f58a1",
+    "summary": "将照片制作成视频广告",
+    "description": "AdKraft 将产品照片转为完成的视频广告。提供产品名称、简短描述和几个照片链接，它就会编写脚本、生成画面、添加 16 种语言之一的配音，并交付可发布的 MP4；支持竖屏、方形或横屏，通常在二至五分钟内完成。广告在你自己的 AdKraft 账号中制作，并消耗其额度；新账号提供免费额度，你可以在聊天中查看余额或列出已制作的广告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694e764297f08191a9370473f6dc0fe1",
+    "name": "Agiflow",
+    "sourceHash": "90eafb6d035b896abb906e335017cc1e7fd9bf4743f5ec7d69817b64b455899c",
+    "summary": "创建任务，跟踪进度",
+    "description": "Agiflow 是共享项目看板，用于将计划转为可跟踪的工作。创建项目，将其拆分为工作单元和任务，设置优先级和状态，分配工作，添加评论及附件，并查看整个工作区的进度。使用 Agiflow 规划发布、整理待办事项、开展站会、分流新工作，并将决策与其影响的任务关联。修改会保存到你已登录的 Agiflow 工作区，团队可在那里审阅并继续开展工作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698e0691d8c88191815179bf248d70a8",
+    "name": "Allium",
+    "sourceHash": "070429b190a43d9bcf50a7827bb93c3cde4b21526625ff01916f35fe64c64303",
+    "summary": "查询区块链数据",
+    "description": "使用 Allium 直接在 ChatGPT 中查询和分析区块链数据。探索数据架构与文档，在区块链数据集上运行 SQL，并将结果转为可分享的查询、可视化和控制面板。可提问“比较各链的 DEX 交易量”、“分析这个钱包的持仓和盈亏”或“绘制某个代币的历史价格图”。Allium 将历史数据集与实时市场和钱包数据结合，让你在一段对话中从提问走向分析。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa60cef88788191bedc2b83466591b9",
+    "name": "Adzviser Search Ads 360",
+    "sourceHash": "225331b2b932e0036ca4d261bbdef1d50b0a971b74152ec1f7c95cd478d61b28",
+    "summary": "与 SA360 数据对话",
+    "description": "通过 Adzviser 将 Search Ads 360 数据连接到 ChatGPT。用自然语言提问，跟踪各搜索引擎的支出，查看哪些广告系列和关键词值得投入预算。\n\n比较不同日期范围内的展示次数、点击次数、点击率、每次点击成本、转化次数和广告支出回报率。按广告主、引擎账号、广告系列、广告组或关键词拆分结果。将搜索广告数据转为清晰报告，找出预算发挥作用的地方。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b3fa2f8680819187f5a6029f0b11fc",
+    "name": "Amazing Drawing",
+    "sourceHash": "b706ffad2b2db617c927e795b28ec1360bca69639f673f06346398ad0ddda20c",
+    "summary": "绘制艺术与设计草图！",
+    "description": "与 ChatGPT 一起绘画的最佳方式！\n\n画出任何想画的内容，然后与 ChatGPT 讨论！\n\n例如：\n\n- “让我用 @Amazing Drawing 画一张图来解释”\n- “我想用 @Amazing Drawing 画一个标志草图，然后请你根据它生成成品图片”\n- “我们用 @Amazing Drawing 玩个游戏。猜猜我画的是什么。”\n- “我想用 @Amazing Drawing 向你展示计划中的布局，你可以告诉我你的看法。”\n- “@Amazing Drawing，分析这张草图。”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa06805fb2481919d60627fbd2854ac",
+    "name": "Adzviser Amazon Seller Central",
+    "sourceHash": "8657f9edcf1b0cdf70c3dc4c982c495bfc47bbba51a79347eb4f2fc3f98cdaf4",
+    "summary": "与 Amazon 销售数据对话",
+    "description": "通过 Adzviser 将 Amazon Seller Central 数据连接到 ChatGPT。用自然语言提问，跟踪销售、监测订单，并查看产品在各市场的表现。\n\n比较不同日期范围内的已订购商品销售额、订购数量、访问次数和购买按钮占比。按 ASIN、SKU、市场或履约渠道拆分结果。将卖家数据转为清晰报告，发现趋势，了解哪些商品刊登在带来收入。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a0434204f88191955fec3cb23d55dd",
+    "name": "AccuRanker Search Intelligence",
+    "sourceHash": "6d75544c29fa7dcf766e7303874afe79821e000a1383d23b3c88ffc574749540",
+    "summary": "分析 SEO 与 LLM 表现",
+    "description": "将 AccuRanker 账号连接到 ChatGPT，即时获取搜索情报洞察。探索域名、关键词、排名和着陆页。跟踪历史表现趋势，比较不同日期的 KPI。拥有 AccuLLM 套餐时，还可以分析 AI 搜索可见度，包括品牌表现、提示词跟踪，以及品牌在各 AI 引擎中的呈现。使用内置知识库询问 AccuRanker 功能。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a07c378ac68819194581cf3cacd1078",
+    "name": "Access Yami",
+    "sourceHash": "1ec633a3c7fe64c8bfb6d276c36b4e0ab228bf1692362bc61ee929fcd05ad3ce",
+    "summary": "选购亚洲优质商品",
+    "description": "Access Yami 帮助用户直接在 ChatGPT 中选购北美最大的亚洲食品和生活用品商店的商品。用户可以参加 Brand Taste Identity（BTI）测试，发现自己的零食偏好类型并获取个性化推荐；按关键词、类别或品牌搜索和浏览 10,000+ 件商品；查看热门畅销品；关联 Yami 账号；将商品添加到真实的 Yami 购物车；获取结账链接，在 yami.com 完成购买。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b75fd4d648819197eb031e0662707e",
+    "name": "Avito.ma",
+    "sourceHash": "06bc89ae177b0c6ece938a9c431dfc35e7caaa1cf7833c21a747e1ea8b106b93",
+    "summary": "摩洛哥分类信息",
+    "description": "汽车、房地产、智能手机、多媒体、家居、时尚、休闲、自行车、DIY……现在可以直接从 ChatGPT 访问 Avito.ma 刊登信息。\n\n只需描述你要寻找的内容，集成的 Avito.ma 工具就会浏览刊登信息，根据你的条件找到最相关的结果。\n\n浏览刊登信息、比较报价、发现摩洛哥各地的超值选择，快速找到所需内容，全部无需离开对话。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a35d3c1258081919c084a1fd22cd02d",
+    "name": "Adobe Experience Manager",
+    "sourceHash": "3cef3b4eaafc9163374a618f2bdd0b465347fcb8ad45c5b373517b706c51c0ef",
+    "summary": "管理 AEM 内容",
+    "description": "只需描述需求，即可在 Adobe Experience Manager 中创建、编辑、搜索和发布页面及内容片段。无需操作用户界面，用自然语言写出要做的事情，例如更新主视觉横幅、查找与某项营销活动相关的页面，或安排内容在发布时上线。所有修改都遵守你的 AEM 权限。更快开展工作、减少重复任务，并专注于最重要的内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2ea4d58190819195f5e8b78735ba97",
+    "name": "AI Proposal Maker",
+    "sourceHash": "c865f549aab4315e16acc312bc74ef0749ade112a18ce5f3799aceb03c269cd7",
+    "summary": "创建可发送的提案",
+    "description": "AI Proposal Maker 将你在聊天中起草的内容转为带品牌标识、可发送给客户的提案。描述项目和价格，它就会排版出包含封面、工作范围和定价的专业文档。完成后立即获取可分享的托管链接、下载精美 PDF，或发布带品牌标识的链接，跟踪客户何时打开。也适用于报价和工作说明书。开始使用无需账号。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5c94347b6081919a203ad0c1a2b635",
+    "name": "TradingNX Risk Manager",
+    "sourceHash": "6ed570b8961e3ee353e4cf8b4c5288312d4a2f5d815634fd425a12ddcb8bd20a",
+    "summary": "管理交易风险",
+    "description": "TradingNX Risk Manager 帮助交易者在入场前检查计划中的交易。它计算持仓规模、风险金额、风险回报比、每日亏损敞口、未平仓风险敞口、规则违规情况，以及 TradingNX Risk Score。支持外汇、金属、加密货币、股票、指数、期货和差价合约。TradingNX 仅为教育用途的风险管理软件，不提供买入、卖出、持有、投资或财务建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6938a7d323f48191aeabaf579802bf45",
+    "name": "Adobe Acrobat",
+    "sourceHash": "c82da0d236dd02bb246a1c598aefcf9f689a7f99ccc5ff8b892c989dc9f32acf",
+    "summary": "轻松编辑和整理 PDF",
+    "description": "Adobe Acrobat for ChatGPT 帮助你流畅地转换和整理文档。编辑、重排、旋转、拆分或合并页面；将 PDF 转为其他格式，或涂黑敏感信息；通过 OCR 从扫描件提取文字。你还可以在几秒内压缩文件并创建有序的文档包。适合学生、专业人士，以及任何希望无需打开另一款应用就能获得快速、可靠 PDF 解决方案的人。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9fe13efb008191878af4f5ca8f4d01",
+    "name": "Bench Coach",
+    "sourceHash": "a26044569140ef6324f8d4bf16f5a5c3200d60e8b60903da21539f69c81c0f2b",
+    "summary": "规划训练与赛后分析",
+    "description": "Bench Coach 帮助青少年、旅行球队、高中及大学相关棒球教练，将真实的执教问题转为切实可行的下一步。它提供聚焦的工作流程，涵盖分年龄基础技能、训练规划、依据教练提供的 GameChanger 导出文件或截图开展赛后分析、阵容和防守、配球顺序、可视化教学板、家长沟通和球员发展。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6952514760dc8191ab148f77c5794d46",
+    "name": "Base44",
+    "sourceHash": "27397a4ba8748bd1807e685b3dbc90c44d61314e1d02399f10f011e2d52e04cb",
+    "summary": "用 AI 构建应用和网站",
+    "description": "几分钟内用 AI 构建功能完整的应用和网站。无需代码，只需用语言描述。\nBase44 将一句话转为真实产品。描述你的需求，看着它在几分钟内完成构建。在聊天中编辑、设计和添加功能，一键连接工具，添加智能体，自动安排任务，并跟踪分析数据。\n只要能描述，就能用 Base44 构建。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6987ab1379ac8191b34a34006094ee81",
+    "name": "WealthCheck Financial Planner",
+    "sourceHash": "5c3d8ba8980d6bb0edea288106f7b5c2d19e948fec8f9ccfe07abd1a19934ba2",
+    "summary": "免费财务健康检查",
+    "description": "几秒内获得完整的财务健康快照。WealthCheck 分析你的收入、支出、储蓄和债务，计算净资产、储蓄率和每月支出，然后提供个性化行动计划，帮助改善财务状况。无论是第一次编制预算，还是优化现有计划，都能清楚看到资金去向及下一步该做什么。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa02bd506908191bbf12fc2ec2f3161",
+    "name": "Better Stack",
+    "sourceHash": "52db067f385c5029e3c0fa3ed77ef06330fcf9e5a2d4a51629222b90c62fe147",
+    "summary": "为 AI 智能体提供可观测性",
+    "description": "为 AI 智能体提供可观测性：通过 SQL 查询日志、追踪、指标和错误，构建控制面板和图表告警，管理可用性监控，响应事件，查看值班人员，并发布状态页报告。你还可以在 Linear 或 Jira 中创建和关联错误问题，并搜索 Better Stack 文档，无需离开聊天。连接到你的 Better Stack 账号。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0bcefe6dbc8191acf88ce22e2eef3a",
+    "name": "Acumen by Talarion",
+    "sourceHash": "04afe01594cf189f11f8a2b0f794851d2ce44049067d3d853e4a6c928c7e26a4",
+    "summary": "让 AI 掌握最新信息",
+    "description": "Talarion 让 AI 保持与时俱进。前沿模型不了解近期事件，网页搜索也无法回答 LLM 不知道该问的问题。Talarion 在 AI 开始研究前主动告知其缺失的信息，避免关键遗漏和判断错误。安装 MCP，确保你的 AI 助手知道原本会遗漏的内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_connector_690e2dabf430819196f8b3701ec838ec",
+    "name": "Amplitude",
+    "sourceHash": "9c9b2ce96e518dc0ff439dea5ac8a953aa26fb2a0c965f2b07aed97618a24f0b",
+    "summary": "分析产品数据",
+    "description": "连接 Amplitude 工作区，搜索图表和控制面板，查询指标和实验结果，探索事件及属性，并创建或更新图表、控制面板和告警，无需离开对话。Amplitude 是团队用来了解用户行为、衡量影响并决定下一步构建什么的产品智能平台。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a219f551dec81919c6df87d2f3c1e6c",
+    "name": "AnyVan",
+    "sourceHash": "b73bb8761c7f1508515afeaaa6d9815b2954653897916c0cb3980ea5b25dbb1e",
+    "summary": "将任何物品搬到任何地方",
+    "description": "AnyVan 帮助人们将任何物品搬到任何地方。使用 AnyVan ChatGPT 应用，用户可以通过文字或图片说明需要搬运什么，无论是家庭搬家、家具、办公室搬迁、汽车，还是搬入或搬出仓储的物品。根据提供的信息，应用会即时显示报价，让用户顺畅地预订搬运服务。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a6ce9775ac8191a7d4b9ea0cfa5e36",
+    "name": "Amplifyr",
+    "sourceHash": "04b66b1db64103fe0fd36ce16f46891cf87bb718e5bc2a7bb15b404f14c05e05",
+    "summary": "品牌 AI 可见度智能体",
+    "description": "Amplifyr 让 ChatGPT 直接访问品牌的 AI 可见度分析数据。用普通英语提问，即时获得关于声量份额、行业排名、KPI、引用、情绪倾向，以及人们在不同 AI 模型上询问与你类似品牌哪些问题的答案。数据仅限你的组织范围。无需 SQL，无需控制面板，直接提问即可。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a552795016c8191b525649af7df1a78",
+    "name": "august",
+    "sourceHash": "4fbccc0c3e0c6c18c827c6401b211075f56a848c444e455d4e41092c8e3ed648",
+    "summary": "了解你的用户",
+    "description": "august 为你的企业需要了解的人构建数字孪生体。数字孪生体是真实用户的映射，使用你的数据训练，像现实中的对应人物一样思考、决策和回应。\n\n此插件让你直接在 ChatGPT 或 Codex 中注册 august，并与你的数字孪生体互动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2420b57e388191a16f2f65fe21191c",
+    "name": "30 Minute Timer",
+    "sourceHash": "75a419c97d197cf16428fcf93928a6e278fc2fac7ea82fc956c22c5a6a774e0a",
+    "summary": "可视化计时器",
+    "description": "30 Minute Timer 帮助用户在 ChatGPT 中启动可视化倒计时，或创建持久有效的全屏网页计时器链接。用户可以选择以分钟或秒为单位的时长、视觉背景、进度图标、结束文字、声音类别、中途提醒、重复声音，以及暂停、继续、停止和重新开始等计时器控制。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa92269c998819182b551d35a1cd213",
+    "name": "Akwadra",
+    "sourceHash": "daa55b8eb857e409e17d17221e080048f89a9d9863de888ac987150832f00bcf",
+    "summary": "构建和预览网页应用",
+    "description": "Akwadra 让用户从 ChatGPT 创建、检查、编辑、验证和预览网页应用项目。ChatGPT 编写源文件，Akwadra 将其存储在已登录用户的私人工作区。插件还可以读取已托管项目的构建日志。它不会购买托管服务或处理付款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4b8801d1e8819182f624f012878a81",
+    "name": "Webull",
+    "sourceHash": "fd76a201752a7c63c757745cbed65a95d441eacb5779090ae18e8cd772e5a155",
+    "summary": "AI 交易助手",
+    "description": "通过 AI 对话探索全球市场数据和投资组合洞察。Webull MCP 提供便捷的只读访问，涵盖市场信息、账号余额、证券持仓和投资洞察，帮助用户以更直观、易用的方式了解金融信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a83664aaba881919b22679bcc2f862a",
+    "name": "AI Fashion Designer",
+    "sourceHash": "adb0fd58a7eec077a1cf177679fb1bc5f3a177c991f8980e3782602a94daff2a",
+    "summary": "从头到尾设计服装",
+    "description": "AI Fashion Designer 帮助设计师将创意转为完成的时尚作品。开发服装、创建技术平面图、在模特身上呈现设计、生成时尚大片和秀场内容，并构建可分享的作品集，用于展示作品、直接向品牌推介和探索工作机会。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7dca01f8e481918116455bb9e947ac",
+    "name": "AC - Artificial Conscience®",
+    "sourceHash": "c6fc7f27d174869c0e0f3976f445ab2798124d8007e41f62cdb5c8a41efe21f9",
+    "summary": "基督教道德指导层",
+    "description": "Artificial Conscience 为涉及行为、人际关系、诚信、信仰和人生决策的问题提供可选的基督教道德指导。它向 ChatGPT 提供相关背景，同时保留 ChatGPT 的常规保护措施和用户对对话的控制权。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6945133e20cc8191be09a0b3692ed5f3",
+    "name": "Apixel",
+    "sourceHash": "fc47fd33c219f61e61913d9471439f90c7f682558ce7d1c75e8722dcd4779b3e",
+    "summary": "AI 图像生成",
+    "description": "Apixel 是 AI 图像生成器，可在几秒内将文字转为惊艳的视觉作品。它能准确渲染图片中的文字，非常适合海报、标志和社交媒体内容。无需设计技能，只需输入想法，其余交给 Apixel。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_697b03949e9081918f6707e421d6e49d",
+    "name": "AutoMotion",
+    "sourceHash": "bca48382e2287edeb06798d8cf8f978594304d9f4dd6ebdf753593610c1fa3ac",
+    "summary": "汽车保养与维修",
+    "description": "使用 AutoMotion 为汽车、卡车或 SUV 诊断、识别所需服务，并在超过 25k 个汽车服务地点预约。AutoMotion 显示你所在地区最近的换油、轮胎、刹车和汽车玻璃服务店，并在需要时帮助你预约。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ba8ec796d0819187399e49b749d0f6",
+    "name": "AnyBarcodeScanner",
+    "sourceHash": "b288344e5eda3f2608780aed4c32b1c5acc792c35b3a6b75081d863d2354bc80",
+    "summary": "扫描并讨论商品",
+    "description": "与 ChatGPT 一起查看并讨论商品的好方法！\n\n例如：\n\n- “我想扫描条形码 @AnyBarcodeScanner”\n- “@AnyBarcodeScanner，我想问问我找到的这种食品”\n- “使用 @AnyBarcodeScanner 显示扫描器，让我们讨论这件商店商品”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69986d07e1ac81918bde49ce8f369bc4",
+    "name": "All My Affirmations",
+    "sourceHash": "473afaa0171f496c0873c70bf35bf635ead6a24095973ce8a0ca10d02cfed3f6",
+    "summary": "帮助自己蓬勃成长",
+    "description": "让 ChatGPT 轻松生成并展示积极肯定语。\n\n例如：\n\n“@All My Affirmations 给我一句让我更自信的肯定语”\n“帮我在明天的考试中取得好成绩 @All My Affirmations”\n“@All My Affirmations 怎样才能在工作中更放松？”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c2a46272188191897a37e0331cc715",
+    "name": "Adalo",
+    "sourceHash": "acdd97ac7ae5c5a4f593f35a7abd814e4460b313ba6f24ee12b3a2a9c6644a72",
+    "summary": "构建和管理无代码应用",
+    "description": "完全通过对话构建和管理无代码应用。Adalo 的 ChatGPT 集成让你无需离开聊天，即可创建、修改和管理移动及网页应用。只需描述需求，Adalo 的 AI 就会为你构建。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1f503a86fc81919ca18a936cdd06f2",
+    "name": "Archivist AI",
+    "sourceHash": "4e44c785d087027dd70b24842862e27d66a5069b9ea20afb15f6826ba50b6546",
+    "summary": "管理桌面角色扮演战役设定",
+    "description": "Archivist AI 帮助桌面角色扮演团体查找战役历史、就整体设定提出问题，并通过 ChatGPT 管理战役、游戏场次、角色、世界细节、任务、日志、关系、精彩片段和实体图片。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5477eb75ac8191b7a99e4acdc9d4bc",
+    "name": "Acceptance Criteria Extractor",
+    "sourceHash": "6ba0cb8fb90b24955e9763ed23ea87c6412f0efbbf502218a3f2a8dd98532338",
+    "summary": "提取验收标准",
+    "description": "从需求、用户故事、规格说明和测试笔记中提取明确写出的验收标准。它返回结构化结果，不生成缺失标准，不评估需求，也不执行外部操作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6988b506fc1481919e582261062d77e4",
+    "name": "Astrologer Jyai",
+    "sourceHash": "60dfb9faac3cfc45a745d9a2196b9781a5b6f5015eb892dc8881a0e4382f03bd",
+    "summary": "占星、星座运势与 Kundli",
+    "description": "Jyai 是 ChatGPT Store 上的免费 AI 占星应用。自 2023 年以来，我们一直提供免费 AI 占星服务，并持续通过智能对话式指导，帮助用户探索占星洞察。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cd086370708191905606fa0641d238",
+    "name": "1 Billion Brain Cells",
+    "sourceHash": "0d5d9ef52de288b42d9330cebce7d4592fc04e6c36f4b6b3347596a1983c33a4",
+    "summary": "与 ChatGPT 一起训练大脑",
+    "description": "与 ChatGPT 一起进行脑力训练的轻松有趣方式！\n\n例如：\n\n- “@1 Billion Brain Cells，我们来训练我的记忆回想能力”\n- “帮我训练词汇能力，@1 Billion Brain Cells”\n- “@1 Billion Brain Cells，我想提高专注力”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6952983fa5948191b986f6b93c9e80bd",
+    "name": "2+2 Calculator",
+    "sourceHash": "b1e3d3bd9f278e35b99c9b8bbc3e8b4e489dff2e93d123902e6a02d77b5ec8c8",
+    "summary": "数学与科学计算、百分比及分数……",
+    "description": "简单的计算器，让你直接在 ChatGPT 中进行加、减、乘、除运算！\n\n- 支持普通模式和科学模式\n- 角度和弧度\n- 幂、根、指数和对数\n- 支持三角函数",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699d522f170c81919c824678c7c03732",
+    "name": "Adobe Express",
+    "sourceHash": "fb48c1610cdbbe8bd25face5ee26ab48e316a4f96c7b2c5502393074e445f65d",
+    "summary": "设计帖子、传单等内容",
+    "description": "Adobe Express for ChatGPT 帮助你免费创建设计。从模板开始创作，自定义文字、调整颜色，并替换图片以匹配自己的风格。想知道它还能做什么？直接在聊天中提问。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69986f3853a88191b04485ad9d95ddd1",
+    "name": "Any Fact Widget",
+    "sourceHash": "a6e85e2ca60e86ef8550294b02c6afcd3b8f27be711871e043268b228a792728",
+    "summary": "清晰简单的事实",
+    "description": "与 ChatGPT 一起学习有趣知识的好方法！\n\n例如：\n\n- “用 @Any Fact Widget 告诉我一个关于海豚的事实”\n- “给我一个随机事实 @Any Fact Widget”\n- “@Any Fact Widget，火星绕太阳一周要多久？”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f383f76bfc81918dd2dcc2f2394c27",
+    "name": "BidPrime",
+    "sourceHash": "70e290230ac0e3985bd305c607accc2826cf05356677a61e8604b38dc5dbcacd",
+    "summary": "访问 BidPrime 商机线索",
+    "description": "访问 BidPrime 线索收件箱，包括招标、会议关键词提醒和新兴机会，以及匹配的文档内容，用于总结和评估新招标与机会。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69494bc0260481919dcbef67b7160608",
+    "name": "AI Humanizer",
+    "sourceHash": "62685deb20d02bc39ced61e10a12fb29838e4089b6dcb8b7f55b067df8ccea03",
+    "summary": "让 AI 文字更像真人写作",
+    "description": "使用强大的 AI Humanizer 工具，将 AI 生成的内容转为自然、如同真人撰写的文字。这款 AI 转真人文本转换器可轻松将 AI 输出转换为更具人味的文本。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a96c1047b588191a793c17bad2a672b",
+    "name": "Archive",
+    "sourceHash": "32fd315261ad58f229b8cf930cb18f21f6d7096d1ae3aebfc2d686d2c8ad8ccc",
+    "summary": "UGC 与创作者洞察",
+    "description": "Archive 帮助团队搜索工作区中的社交内容和创作者，查看营销活动、已保存视图、内容集、操作和 webhook，并通过 ChatGPT 管理这些工作区记录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fce26fd81c81919d0ee935ad4997f0",
+    "name": "Alchemy",
+    "sourceHash": "916db5301d006037fa5ce1a01fad438c458a25221d22bffa661d29fc492b2283",
+    "summary": "探索区块链数据",
+    "description": "Alchemy 帮助开发者通过 ChatGPT 查看 EVM 和 Solana 区块链数据，管理 Alchemy 应用及基础设施，查看使用情况，并配置 webhook 和 Gas Manager 策略。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8697eb37b88191b37b57cdf2ad4127",
+    "name": "Beacons",
+    "sourceHash": "da7262280b787c3e7ab2704f6019b97755a431c34b307dc747519fc88a20d527",
+    "summary": "管理创作者业务",
+    "description": "Beacons 帮助创作者和达人经纪人通过 ChatGPT 查看业务数据，分析受众和内容，管理店铺及公开页面，并处理品牌合作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a96d83b619081919394a5e8e54cbbbb",
+    "name": "anew",
+    "sourceHash": "f44af7833af35aabd8698cbfdcd44a25fe53af3877dcc081ff5569d09a18373b",
+    "summary": "免费网站",
+    "description": "anew 将自包含的 HTML 文档、片段或纯文本编码为可公开解析的 URL，URL 本身携带页面内容。无需账号，也无需提供信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a69834b831c8191a0281d6aca1722f0",
+    "name": "alphaXiv",
+    "sourceHash": "2c39389de18e6997b0813d055846dd6ffa89c01baf359339aae2743539ba0cb7",
+    "summary": "学术论文与资料库",
+    "description": "alphaXiv 帮助用户通过 ChatGPT 发现学术论文，阅读和查询论文内容，查看关联的 GitHub 仓库，并管理已保存论文的文件夹。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7da84b7d6481918bada583c31ecbab",
+    "name": "Boluda",
+    "sourceHash": "9e92f5a73431ea6021bcd36f113502be98b0de44eae664c484286bdf11e049e9",
+    "summary": "查找课程和播客",
+    "description": "搜索 Boluda.com 的课程、课时和播客单集，比较选项，并根据公开目录创建个性化学习计划。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0d835ff1dc8191972eeabd14967446",
+    "name": "TradingCursor",
+    "sourceHash": "d0bfc4b2a1b4de4cfdc765a6e5a6abb2673e0b22fde025d238ad8bdfac41f0ac",
+    "summary": "分析股票、加密货币等……",
+    "description": "TradingCursor 为股票、加密货币、外汇和 ETF 提供结构化、多信号分析。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6938a94a61d881918ef32cb999ff937c",
+    "name": "Apple Music",
+    "sourceHash": "8bf82977889cbe92e4c405a2005fe05217b418c1b1cfa1d0cf05aff9d06094ea",
+    "summary": "创建歌单并寻找音乐",
+    "description": "创建歌单并寻找音乐",
+    "model": "codex-subagent-reviewed"
+  }
+]

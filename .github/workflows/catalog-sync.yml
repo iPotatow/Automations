@@ -277,4 +277,6 @@ jobs:
     paths:
     - .github/scripts/chatgpt-plugins/**
     - .github/workflows/catalog-sync.yml
+    - data/reviewed-translations.json
+    - data/reviewed-translations/**
     - package.json

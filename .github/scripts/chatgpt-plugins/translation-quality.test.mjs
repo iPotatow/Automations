@@ -33,3 +33,13 @@ test('payment received and URL punctuation do not reject faithful Chinese',()=>{
  assert.throws(()=>checkCompleteness('See https://example.org/terms.','参见 https://example.org/other。'),/protected value/);
  assert.throws(()=>checkCompleteness('See https://example.org/wiki/A_(B).','参见 https://example.org/wiki/A_。'),/protected value/);
 });
+
+test('positions follows source domain without weakening securities checks',()=>{
+ checkCompleteness('planetary positions','行星位置');
+ checkCompleteness('custom positions','自定义局面','Checkers');
+ checkCompleteness('argue their positions','阐述各自立场');
+ checkCompleteness('open positions','空缺职位','Recruiting');
+ assert.throws(()=>checkCompleteness('positions and open orders','位置和未成交订单','Brokerage'),/positions/);
+ const units=translationUnits({name:'Checkers',summary:'Play a game',description:'Load custom positions.'});
+ validateUnits({segments:[{id:'summary',text:'玩一局游戏'},{id:'p0.0',text:'加载自定义局面。'}]},units);
+});
