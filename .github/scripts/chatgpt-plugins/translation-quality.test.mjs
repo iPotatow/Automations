@@ -24,3 +24,12 @@ test('stable IDs allow reordering but reject duplicated or missing segments',()=
  assert.throws(()=>validateUnits({segments:segments.slice(1)},units));
  assert.throws(()=>validateUnits({segments:[segments[0],segments[0],segments[2]]},units));
 });
+
+test('payment received and URL punctuation do not reject faithful Chinese',()=>{
+ assert.equal(checkCompleteness('Book clients, get paid','承接客户业务并收款'),'承接客户业务并收款');
+ assert.throws(()=>checkCompleteness('A paid plan is required','需要套餐'),/cost/);
+ checkCompleteness('Read [document](https://example.org/terms).','阅读[文档](https://example.org/terms)。');
+ checkCompleteness('See https://example.org/spec.json.','参见 https://example.org/spec.json。');
+ assert.throws(()=>checkCompleteness('See https://example.org/terms.','参见 https://example.org/other。'),/protected value/);
+ assert.throws(()=>checkCompleteness('See https://example.org/wiki/A_(B).','参见 https://example.org/wiki/A_。'),/protected value/);
+});

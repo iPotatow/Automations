@@ -1,0 +1,602 @@
+[
+  {
+    "id": "plugin_asdk_app_69987578d8a48191b241aa0eb1ba1a03",
+    "name": "Allianz Direct España",
+    "sourceHash": "36f7917210e3d1ac5c09d9ed7441648098dd611e80c37fe390ae4ac313e4fa1a",
+    "summary": "了解汽车保险",
+    "description": "Allianz Direct Spain 汽车保险探索工具让你在 ChatGPT 中以透明的方式查看并理解 Allianz Direct 的汽车保险选项。它帮助你了解汽车保险保单可以如何配置，注重清晰说明和个性化选择。使用此应用，你可以设计可能的保单配置、了解保障详情，并在无需承诺购买的情况下获取预估价格。\n\n主要功能：\n• 详细保障分析：针对特定车型，详细说明 Allianz Direct 保单已包含及可以纳入的保障内容。\n\n• 术语解释：即时查询保险概念（例如“附加保障”或“除外责任”）的定义，确保充分理解所用术语。\n\n• 交互式定制：了解责任限额或具体保障项目等保单参数，查看它们如何影响保险预估价格。\n\n使用方式：\n\n只需描述车辆特点和你的需求（例如“为 Seat Ibiza 配置一份基本的第三者责任汽车保险”）。应用会生成相应的、不具约束力的保单方案。随后，你可以向助手询问保障信息、要求修改细节，或请求解释具体条款，了解保障如何适应你的需求，以及有哪些可选方案。如果你希望继续，应用将询问必要信息并提供价格估算。如需正式报价或签发保单，用户将被引导至 Allianz Direct 的官方购买渠道。\n\n注意：此工具仅用于获取信息和探索方案，根据聊天中提供的详情给出估算。正式签发保单需要通过 Allianz Direct Spain 官方网站核验。Allianz Direct 所运营服务中的保险部分受 Allianz 的人工监督；你可以随时通过 Allianz Direct 官方渠道联系人工顾问。\n\n请注意，AI 系统可能生成不准确、不完整或未充分适应具体情况的内容，任何参考报价的准确性直接取决于所提供信息的准确性和完整性。\n\n重要：请勿通过此聊天提供支付资料（银行账号、IBAN、支付卡详情）、国民身份证件（DNI/NIE）、护照号码或任何其他敏感个人身份识别资料。这些资料只能通过 Allianz Direct 的安全签约环境提供。\n\n报价所需资料：为生成参考报价，服务将询问以下信息：出生日期、驾驶证详情、车辆资料（车牌号、首次登记日期和用途）、邮政编码、预计年行驶里程以及付款频率偏好。服务不会收集国民身份证件或任何特殊类别的个人资料。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a215179debc8191a28dd0f3723c0646",
+    "name": "Moody's Credit MCP",
+    "sourceHash": "27a8214654140daec914b0c4cedf094e989acf1e248af848eb019c05a804f8e9",
+    "summary": "提供适用于生成式 AI 的数据",
+    "description": "Moody's Credit MCP 为 AI 应用和分析工作流提供适用于生成式 AI 的数据及研究，满足全面信用分析的需要。\n\nMoody's Credit MCP 将风险评估中常用的核心信用数据类别整合到统一层，提供财务分析、违约风险指标和定性洞察。它将财务、所有权、管理层等全面的实体信息，与 Moody's Ratings 专有评级和研究以及违约概率指标结合，并通过公司披露文件、财报电话会议文字记录、新闻和宏观经济趋势等非结构化数据加以丰富。\n\nMoody's Credit MCP 将结构化和非结构化信用信息汇集于一个界面，缩短从数据到洞察的工作流程，支持更严谨、一致的信用评估，以及对实体、市场和投资组合的持续监测。\n\n数据包括：\n- 全球实体的企业基本属性与标识符\n- 实体层级和所有权结构\n- 全球实体的详细财务数据\n- Moody's Ratings 信用评级及研究\n- 预期违约频率\n- 经济数据及研究\n- 新闻和媒体内容\n- 年度报告\n\nMoody's Credit MCP 可用于：\n- 信用分析——获取全面的信用风险数据及研究，评估信用状况并比较发行人和金融工具之间的风险\n- 风险管理——通过前瞻性指标及情景分析监测信用风险\n- 客户关系管理——快速评估信用健康状况，为客户沟通和信用融资结构设计提供依据\n- 评级咨询——将发行人详情与评级方法和同业基准对照\n- 投资研究——获取数据驱动的评估，衡量相对价值和风险\n- 市场分析——分析行业趋势和信用风险信号，评估更广泛的市场状况",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699c42263f2481918fbe4d7a80d86a78",
+    "name": "SkyWatch.ai",
+    "sourceHash": "769400b7bfccffc98d962ae230cae4b053fde4fc86f2cc051c838ebb6e562b04",
+    "summary": "获取飞机租用者保险",
+    "description": "Skywatch 租用航空器保险让飞行员通过快速、有引导的对话体验，直接在 ChatGPT 中获取非自有航空器租用者保险报价。该工具专为租用航空器的用户打造，以简单流程取代传统保险表格，并在数秒内提供清晰的报价摘要。\n\n主要功能：- 以结构化报价摘要展示实时租用者保险报价。- 灵活的保障选项包括按日、按周、按月或按年保单。- 透明列出责任限额和保障内容。\n\n准备继续时，用户会被安全地跳转至 SkyWatch 网站门户完成购买，先前输入的信息会予以保留。\n\n如何使用？\n飞行员回答一组简短的航空专业问题，说明自己的经验和保障需求。应用生成个性化报价，并直接在 ChatGPT 中显示详细摘要。用户可以调整保障期限并即时查看更新后的价格，随后安全跳转至 SkyWatch 官方网站门户完成保单签发。\n\n适用人群：\n租用或借用非自有航空器的学员飞行员和持证飞行员。\n在飞行课程、资格检查飞行或租赁飞行前需要灵活短期保障的飞行员。\n\n重要信息：\n此应用根据对话中提供的信息给出租用航空器保险报价。最终价格、投保资格及保单签发由 SkyWatch 官方网站平台处理，仍须经过核保审核并符合适用州的要求。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a986f31a74081918c7257f3052a4e29",
+    "name": "Rydoo",
+    "sourceHash": "a28831083c1ee38d685bf1b944dca97c23bedfb6c0739b55404791ceeab469b1",
+    "summary": "管理你的 Rydoo 费用",
+    "description": "Rydoo MCP 将 ChatGPT 连接到你的 Rydoo 账户，让你通过日常对话管理费用，无需在应用中逐项操作。使用现有 Rydoo 登录信息登录一次即可——此后，ChatGPT 只能按照你自己的角色和权限，查看和执行你在 Rydoo 中已获准访问和执行的内容。\n\n主要功能：\n- 查看和分析支出——按日期、状态、类别、群组、人员或行程搜索你本人或你负责监管的费用；调出单笔费用及其 Rydoo 链接；查找仍缺少收据的卡片费用；获取服务器计算的各行程、人员或项目合计。\n- 处理审批——查看等待你处理的事项，随后使用公司的拒绝原因批准或拒绝费用。每项操作都会先征求你的确认，并以你的名义记录。\n- 回答问题——解答费用政策问题，例如哪些费用可报销、适用哪些限额等。\n- 查询公司记录——查找适合筛选费用的类别、分支机构、群组、人员或行程，并检查自己的角色、模块和货币。\n- 查看行程——查询你本人或你负责监管的行程及预订，并将费用关联到这些行程。\n- 管理卡片和钱包——列出你持有、审批或以财务身份监管的卡片；查看已匹配和未匹配的卡片交易；检查钱包余额、支出摘要和月度账单；按你确认的额度申请虚拟卡。需要启用 Rydoo Cards 模块。\n- 提交反馈——直接向 Rydoo 报告问题或提出功能需求。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4ec37a31548191aa48a52c5bf81378",
+    "name": "LendingTree",
+    "sourceHash": "7fac082cf1db9c8afeea26a8f8d09db78e0e6f3ba952d65b305eb36f40f35e68",
+    "summary": "了解贷款利率",
+    "description": "通过 ChatGPT 使用 LendingTree 了解金融产品利率。查看 LendingTree 网络提供的以下产品当前估计利率：\n\n- 住房抵押贷款及抵押贷款再融资\n- 房屋净值贷款\n- 金额介于 $5,000 与 $50,000 之间的个人贷款\n\n可以尝试这样的提示：\n\n@LendingTree 我所在地区的住房抵押贷款利率如何？\n\n@LendingTree 如果在 CA 申请 $100,000 的房屋净值贷款，我的利率会是多少？\n\n@LendingTree 目前 $10,000 的个人贷款利率如何？\n\n根据贷款用途、期限、预估信用状况、所在州及贷款金额筛选结果，了解利率可能如何变化。准备查看个性化报价时，你可以前往 LendingTree 比较各项选择。\n\n此应用不会在 ChatGPT 或 LendingTree 网站上提供特定贷款机构的报价、审批、预审资格、财务建议，或承诺某一具体利率。LendingTree 仅对 LendingTree 应用体验内的 LendingTree 内容和功能负责，不对 ChatGPT 生成的回答或该应用体验之外的任何内容或功能负责。可用筛选条件因金融产品而异。消费者应咨询合资格的财务、税务、法律专业人士，以及在适用情况下咨询住房抵押贷款专业人士，以确定是否有适合自身情况的产品及具体是哪一项。LendingTree, LLC. NMLS #1136。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a78805811a4819183bf039fd4415524",
+    "name": "B2B.nu",
+    "sourceHash": "7c3259ef25539748c35bfe7872c48da73ac84813d0c7d7f10e10822bbde72fb6",
+    "summary": "在 ChatGPT 中处理瑞典会计事务",
+    "description": "B2B.nu 是面向小企业的瑞典 ERP，涵盖开票、记账、银行对账、增值税、薪资和 CRM。此应用将 ChatGPT 连接到用户自己的 B2B.nu 公司，让用户以普通瑞典语提问，并根据实时数据获得答案——包括当前财务状况、利润表和资产负债表、下次申报的增值税计税依据、哪些发票已逾期、哪些成本出现偏离，以及接下来有哪些到期事项。\n\n在明确授予写入权限后，它可以创建和过账记录：发票草稿、客户付款、会计分录、供应商发票、银行对账和待办事项。财务操作可能生成记账分录，并更新相关发票、费用或银行交易的状态。应用绝不会转移资金、自动发送发票或删除记录；更正由用户在 B2B.nu 中完成。\n\n访问由 OAuth 2.1 控制。用户选择要连接的公司和要共享的领域，每个工具还会根据用户在 B2B.nu 中的自身权限进行额外检查——AI 的操作范围绝不会超出用户本人。任何工具都不会返回个人身份号码、银行账号或 bankgiro/IBAN 信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fcc1c31b2081919069e1f5f6f7166d",
+    "name": "Facile.it Energia",
+    "sourceHash": "d442e97a0792d6747f613d0af70a5451bd4441d23a0ef3f4bbdd693c047db1cd",
+    "summary": "节省燃气和电费",
+    "description": "Facile.it Energia 帮助你比较意大利的燃气和电力方案。无需逐一访问供应商网站或解读复杂费率表，你可以在同一个页面上根据实际用量和所在地查看目前最优的可用方案。\n\n告诉 Facile.it Energia 你需要电力、燃气还是两者，它会展示一个简单表单，让你输入所在城市和家庭用量。只需几秒，你就能收到最多五个按月费排序的方案，清晰列出供应商名称、费率类型（浮动或固定价格）、合同详情和当前优惠。每个方案都直接链接到 Facile.it 上对应供应商的页面，方便你随时继续。\n\n如果需要更精确的估算，Facile.it Energia 可以将你引导至 Facile.it 的相应页面，上传近期账单以获取定制比较。Facile.it Energia 仅覆盖意大利居民能源市场——不处理商业合同、保险、住房抵押贷款或其他 Facile.it 产品，也不处理付款或管理现有合同。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8f6d7d50d081918787990d4cab45ca",
+    "name": "RoboSystems",
+    "sourceHash": "40312f3e2e74ab06be5e3de60a585b5ef32187c0d453312754201a1bc10f177c",
+    "summary": "SEC 披露文件知识图谱",
+    "description": "RoboSystems 将上市公司的财务披露文件转化为 ChatGPT 可以直接查询的知识图谱。\n\nSEC EDGAR：将每家上市公司的 XBRL 披露文件整合成一个可查询图谱。按股票代码或 CIK 获取公司的财务报表，对不同公司、期间和维度的已报告数据进行透视分析，将“收入”等概念对应到其 XBRL 元素，并在披露文件的文字叙述中进行全文搜索，然后阅读准确的对应章节。\n\n按文件原始披露形式阅读：列出 10-K 或 10-Q 中的报表和附注，然后打开完整章节，查看其各行数据、明细及相互勾稽的计算关系。\n\n该图谱还提供只读 Cypher，使对话能够从一个问题（“给我看看 NVIDIA 最新的利润表”）转向原始图遍历查询（“哪些 2025 年的 10-K 提到了商誉减值？”），无需离开 ChatGPT。\n\n授权采用带 PKCE 的 OAuth 2.1。此插件仅连接只读的 SEC EDGAR 资料库，你可以随时撤销访问权限。开源（Apache-2.0）：github.com/RoboFinSystems/robosystems",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8dbe324a8c8191b4bf7cf1bac4993b",
+    "name": "StackerScan",
+    "sourceHash": "c1e155ef38711f8be788e56d07162f2bd92606460d1745d76a485e40c9a3c8fa",
+    "summary": "实时金属价格及溢价",
+    "description": "StackerScan 通过五个只读工具向 ChatGPT 提供实时贵金属市场数据。\n\n获取黄金、白银、铂金、钯金、铜和镍的当前及上一交易时段现货价格，以任意支持的货币显示，单位为金衡盎司或克。获取按纯金属重量加权、相对现货价格的滚动报价溢价中位数，数据来自真实市场挂牌，而非经销商报价。获取用于绘图的每日历史序列——可选择一种金属、Goldback，或某一品相等级下具有 PCGS 编号的一枚钱币。获取 Goldback 相对其含金量的最新溢价倍数及由此推导的汇率。还可获取各请求当前接受的货币代码列表——包括 ISO 4217 法定货币、BTC 和金属代码。\n\n无需 API 密钥、账户或注册。StackerScan 不是经销商，也不出售金银条块；请勿用它买卖金属。钱币收藏价值评估仅适用于具有 PCGS 编号的钱币。结果为结构化 JSON，与 https://www.stackerscan.com/openapi.json 所载公开 HTTP API 一致。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ee4577626081919c98e6222ff8785c",
+    "name": "Per Diem",
+    "sourceHash": "eeecddc735b2bf2eae4940e040759a1e944726724b831ad51de7ce7c750995b9",
+    "summary": "用 AI 分析你的财务状况",
+    "description": "Per Diem 让你用 AI 分析完整的个人财务生活。连接 Per Diem 账户后，可询问净资产、账户余额、持仓、交易、预算、当年现金流及 FIRE（财务独立、提前退休）计划。\n\n用它回答这样的问题：\n\n“我们负担得起明年冬天去墨西哥旅行吗？”\n“预计我什么时候能实现财务独立？”\n“为了不超出本月预算，我每天可以花多少钱？”\n“总结我的净资产和最大的持仓。”\n“查找近期 Amazon 或餐厅的交易。”\n“我的投资组合集中度如何？”\n\nPer Diem 从已连接账户和规划数据中提供只读财务背景，让 ChatGPT 帮助你了解支出模式、审查预算、检查交易、评估投资组合集中度，并分析你实现财务独立的路径。Per Diem 不会转移资金、进行交易、更改数据，也不提供法律、税务、会计或投资建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a21e73e0710819187cded8a61360db9",
+    "name": "REPSLog",
+    "sourceHash": "2ef30a6ab26f142cb63e09b4abb084e7b7e8b3419fddb47b193a79802d62269c",
+    "summary": "记录房地产工作时数",
+    "description": "REPSLog 帮助房地产专业人士记录和查看计入美国税务用途的房地产专业人士身份（Real Estate Professional Status，REPS）的工作时数。连接 REPSLog 账户后，你可以用自然语言添加工时记录（例如“记录今天带人看 Oak Street 房产的 2 小时”），然后按房产、类别、参与者或日期范围查询工时。\n\n该连接器可以创建工时记录并读取现有数据：列出你的房产、类别和参与者，获取单条记录，以及汇总总工时。所有操作均限于你自己经过身份验证的 REPSLog 账户。它不会访问或共享其他用户的数据。\n\n需要拥有已开通 Premium 订阅的 REPSLog 账户。该订阅需在独立的 REPSLog 手机和网页应用中另行购买，而不是通过 ChatGPT 购买。在此创建的记录会同步至这些应用，让记录集中保存在一处，供 IRS 税务材料留存使用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_connector_690aabb71bf481918b8d5b614ed3fd4c",
+    "name": "monday.com",
+    "sourceHash": "4210b37de4488ac39ab3686633f6b25b2a2d6daf6a2177a4b1ac98aa65753dd7",
+    "summary": "管理项目、任务和 CRM",
+    "description": "monday.com AI Connector 将核心平台功能直接提供给智能体和 AI 助手。它支持搜索看板、创建和更新事项及列、指派负责人、设置时间线和发布更新，让各团队和部门能够开展广泛的工作管理及 CRM 应用。\n\n由人员和智能体组成的团队将 monday.com 用作任务跟踪器和项目跟踪中心：规划营销活动和事件，跟踪里程碑、依赖关系和工作量，管理审批流程及请求受理，并在各项目和项目组合之间共享状态更新——也将它作为管理潜在客户、联系人和商机的 CRM。\n\n除日常工作管理外，该连接器还让智能体利用 monday.com 官方知识库回答问题，规划并构建自动化和多步骤工作流，运行和保存可复用的代码操作，以及配置其他 monday.com 智能体。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9729e253648191aac16f7b62393c34",
+    "name": "Savvy",
+    "sourceHash": "aacdaf426a98015d970e925af7753ca5ffd687665174d30d2c7db6256b495d95",
+    "summary": "面向财务 AI 的 Savant",
+    "description": "Savvy 是用于 ChatGPT 和 Codex 的 Savant 智能副驾。Savant 是面向现代财务的 AI 自动化平台，自动处理税务和会计流程中的手工数据工作，并内置 SOX 合规机制。\nChatGPT 负责推理，Savant 负责执行和治理。Savvy 将两者连接，把围绕财务流程的对话转化为在 Savant AI 控制层上运行、符合审计要求的工作流智能体：确定性的处理引擎确保每个周期返回相同结果；需要判断的环节由人工参与审核；组织内的流程知识被记录为可复用上下文；治理和 SOX 控制在每次运行时生成完整审计轨迹。\n用自然语言描述一个流程，Savvy 就会与你共同规划，在 Savant 中构建并记录它，随后用你的数据进行验证——让它在每次结账时都能以相同方式运行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a57f2af314c8191a8d4009d70725e9d",
+    "name": "Synci",
+    "sourceHash": "e711fb32e13f2784753730db511bf0a166410e49a5225ce77e9ff48c398486b1",
+    "summary": "询问你的银行数据",
+    "description": "Synci 以只读方式将真实银行、证券经纪和加密货币交易所账户连接到 AI 助手。\n在同一处询问所有账户的余额、交易、持仓和支出：\n\n“我上个月买食品花了多少钱？”\n“我在付费订阅哪些服务，每年各花多少钱？”\n“我的投资组合在股票、ETF 和加密货币之间如何配置？”\n“比较今天与月初的活期账户余额。”\n“我的银行连接有没有出现故障？”\n\nSynci 汇总数千家机构的账户：\n- 通过 GoCardless Bank Account Data 连接欧洲和英国的银行\n- 通过 Akahu 连接新西兰的银行\n- 通过 SnapTrade 连接投资证券经纪商和加密货币交易所\n\n所有已连接账户均可通过一个 MCP 服务器查看，金额以各账户的原生货币显示。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aabc4b3a1488191905b08ff242a88d9",
+    "name": "QuanterLab",
+    "sourceHash": "6d61e06b86c8249fa4e773c4d7903c6918d6eba3e2ce530712860c5875da0c84",
+    "summary": "搜索和阅读量化研究",
+    "description": "QuanterLab 发布投资策略的滚动前推研究。每项研究在运行前登记，使用当时可得的数据逐窗口推进，并在其页面上公布每个窗口、图表和登记时间戳。此插件搜索该研究库，并将论文读入对话，让 ChatGPT 根据研究本身回答并链接到对应页面。目前涵盖的主题包括：盈余漂移、股息获取、Piotroski F-score、国家和行业轮动、标普 500 内的 Fama-French 因子、市场状态分类及隔夜效应。已发表论文可免费阅读，无需账户。登录 QuanterLab 账户后，插件还会列出你自己保存的回测、筛选结果和项目。它绝不会返回市场行情数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a85d518e2c81918694d9a48e3def41",
+    "name": "CB Insights",
+    "sourceHash": "e94cf9df8fe69266da3bf4cf572bfa753e2b67ed138a82e3e40c46ef2da297af",
+    "summary": "预测情报",
+    "description": "让 ChatGPT 成为你的私募市场研究智能体。发现公司、构建市场图谱、起草投资备忘录和监测竞争对手——全部由 CB Insights 的预测情报支持。利用超过 11M 份经过双重验证的公司档案、对近期股权交易的领先覆盖、专有分类体系、独特评分、隐蔽信号以及超过 20 年的前沿技术研究，抢在竞争对手之前识别和分析相关且潜力巨大的公司。\n\n专为寻找收购目标的企业战略人员、筛选投资项目的风投机构，以及寻觅新合作伙伴的业务拓展团队打造。如果你的工作涉及非上市公司，CB Insights 提供所需洞察，让你抢先采取下一步行动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a903582749c81918a70aeef2acfadbd",
+    "name": "FindBroadband",
+    "sourceHash": "a3da42c0f7e6a960e4df75f37b04d3138ab78519c73e30d9e0fc07e8b4617c4d",
+    "summary": "比较英国宽带方案",
+    "description": "在 ChatGPT 中，现在就能轻松找到适合你的宽带方案。\n\n将 FindBroadband 连接到 ChatGPT 后，你可以查询英国具体住址可用的宽带方案，比较主要供应商和全光纤网络的实时价格，并查看每个方案的真实全合同期费用，避免优惠宣传价掩盖实际费用。\n\n可以试着这样问 ChatGPT：\n- 我是不是付多了？我使用 Sky 的 100Mb 宽带，每月 £44\n- 找一个低于 £30、合同期内不会涨价的全光纤方案\n- 我的供应商续约报价是每月 £43，合理吗？\n\n只需提出要求，即可按预算、速度、合同期限或供应商细化筛选。找到合适的方案后，在 findbroadbanddeals.com 完成服务切换。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fdbf889bac8191820d1c0bff618013",
+    "name": "GREI",
+    "sourceHash": "777785d5bc4bea1b0fa8ed836a8a101c58dbb23af8af6078c31e832e8a415024",
+    "summary": "全球房产洞察",
+    "description": "使用 GREI，更明智地投资海外房地产。以日常语言搜索全球房产投资机会，从 GREI 在希腊和塞浦路斯的房源开始。\n\n描述你正在寻找的房产，例如雅典低于 €150k 的已翻新公寓，或塞浦路斯靠近海滩的房产，GREI 会显示有针对性的房源卡片，包含价格、位置、关键详情、投资信号以及继续在 grei.club 探索的链接。\n\nGREI 将全球房产搜索和洞察结合，帮助投资者按预算、位置、房产类型、面积、房间数、楼层、翻新状况，以及附近的地铁、海滩、大学、医疗机构和文化场所等因素比较机会。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3570d487c081919896815acfdb7e23",
+    "name": "Atominvest",
+    "sourceHash": "85772404af4183879582463b62d14d152b6dd8b3c5949a103c93fd59862ffad6",
+    "summary": "直接查询 Atominvest 数据",
+    "description": "将 ChatGPT 连接到你的 Atominvest 平台，直接在对话中查询投资组合管理或投资者管理数据，包括被投公司指标、投资者数据和基金认缴承诺。获取任意报告期间内投资组合资产的收入、EBITDA 和债务等财务关键绩效指标，查询投资者账户及其关联实体，并获取各基金认缴承诺的详细明细，包括金额和状态，全程无需离开 ChatGPT。适合需要通过快速对话访问 Atominvest 数据，以支持报告、投资者问询和投资组合监测的投资组合经理及投资者关系团队。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_693ca6ce2db08191bb52d66743c65184",
+    "name": "Airtable",
+    "sourceHash": "b2cb24d57671a3d636b56da95e44516d37285e59fcbf06d9191c1094be96de6a",
+    "summary": "将结构化数据引入 ChatGPT",
+    "description": "将运营数据和背景信息融入 ChatGPT 对话。你可以通过对话提问、创建和更新记录，以及分析数据。将 Airtable 数据用于你在 ChatGPT 中开展的工作，例如利用在 Airtable 中整理的内容搭建落地页。无需离开聊天，即可快速更新 Airtable。当你需要快速访问结构化内部数据，为对话提供依据时，Airtable for ChatGPT 都是理想选择。\n\nAirtable 应用将 ChatGPT 直接连接到你的 Airtable 数据库，让你通过对话提问、创建和更新记录，以及分析数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a53bb873c1081918681aa1358591f83",
+    "name": "Nella Finance AI",
+    "sourceHash": "15b8233f14191fc19c36ce69288ccc4c9427de50a6b849a71dc8795d550efc36",
+    "summary": "了解企业财务状况",
+    "description": "Nella Finance AI 是面向企业及其会计师的只读财务智能助手。连接支持的会计平台，即可直接在 ChatGPT 中询问现金、经营表现、关键绩效指标、异常变动、管理信息，以及在支持的情况下查询估算税务指标。\n\nNella 根据最新可用的会计数据提供清晰摘要，并指出何时可能需要专业会计判断。它不会付款、过账交易或更改会计记录。税务预测和财务洞察均为估算，不应被视为受监管的财务、投资或税务建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9166b0615481919fc2f322a495c22a",
+    "name": "re:cap",
+    "sourceHash": "f4f0de0a2af0c9b84a1f2c2e685a8656be3e9c76fa59361bea0616e1eba43e07",
+    "summary": "找到适合你的融资方式",
+    "description": "融资前，先了解自己的状况。从你的网站地址开始，回答几个简短问题。你将看到为计划提供资金的四种方式——债务、股权、补助或自有现金——中哪些适合你的企业，并进一步了解可考虑的产品和供应商。首个回答会在一分钟内显示，无需账户。\n\n连接 re:cap 账户后，同一段对话即可基于你自己的数据展开。现金、资金可支撑时间、利润率、增长和客户集中度，都通过银行和会计数据持续更新。报告告诉你发生了什么；这里告诉你这些变化如何影响选择：哪些仍然可行、哪些不再可行，以及发生的时间。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a01e9707b0c81918daa8496ea2f1308",
+    "name": "Seguro Match",
+    "sourceHash": "5937ad17be8e66034f8a0fe9e3e7f890336401916efb732bf9c9ff2dee312f86",
+    "summary": "比较保险",
+    "description": "Seguro Match 帮助西班牙用户在 ChatGPT 中比较真实的住宅、汽车和摩托车保险报价。模型打开带引导的报价向导；嵌入式组件收集所需详情（支持目录和地址查询），向经授权的保险公司系统获取报价，并显示可比较的方案和保障详情。要跳过表单，用户可将现有保单文件拖放到组件中——文件仅在服务器端处理（提取的文字仅用于预填报价信息，绝不会发送给模型）。最终结账在 seguromatch.com 完成；ChatGPT 内不会发生任何购买。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a207f00eed0819181227b2ea257ff0b",
+    "name": "IOL invertironline",
+    "sourceHash": "4d2a943123bb15decac21ecd18cb0253a0dd643d1fde0100d09fd29c75141547",
+    "summary": "交易阿根廷投资产品",
+    "description": "将 ChatGPT 连接到你的 Invertironline 证券账户，直接通过对话交易阿根廷市场。获取 BYMA 上股票、债券、CEDEARs 和期权的实时报价及订单簿，包括含希腊值的完整期权链。提交买卖订单，设置止损和止盈价位，并申购或赎回共同基金（FCI）。查看投资组合持仓、不同结算期限下的现金余额和近期账户活动。每笔订单提交前都会校验，因此在执行任何操作之前，你都要确认价格、佣金及任何必须提交的宣誓声明。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4dad07a708819191c3aeef2d73622f",
+    "name": "facturillo",
+    "sourceHash": "d80965d257bed4c95167cbdba644dc29e66e0dac7536e2b2d65159f6d2b816e7",
+    "summary": "搜索收据和支出",
+    "description": "facturillo 自动整理你的巴拿马收据（“facturas”）——扫描 DGI 二维码，即可录入每项明细、商家和总额。此应用以只读权限将 ChatGPT 连接到你的 facturillo 账户，让你用自然语言询问真实支出：“我上个月买食品花了多少钱？”“这个东西是在哪里买的？”“我最常去哪家店？”回答来自真实收据数据——总额、项目明细、商家和支付方式——绝不是估算。需要 facturillo 账户（facturillo.com）；数据功能需要有效的付费方案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5724539da88191b44e1b31ac03623c",
+    "name": "ClarityTrack",
+    "sourceHash": "190fae5d97794a51da1280a50f7110a5952438ead84e3c5157c52bede6190009",
+    "summary": "跟踪支出和债务偿还",
+    "description": "ClarityTrack 是你的 AI 助手的财务数据层。连接 ClarityTrack 账户后，ChatGPT 可读取你的实时财务状况：账户余额、近期交易、服务器计算的分类支出、预算执行情况、目标及进度，以及 Clarity 标记的洞察（涨价、重复扣费、收入异常）。所有功能严格只读：ChatGPT 只能查看你能查看的内容，绝不会转移资金或更改设置。数据访问通过 OAuth 按用户授权，可随时在 ClarityTrack 设置中撤销。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6934b1283fd081918a090654469aaf0e",
+    "name": "Intuit TurboTax",
+    "sourceHash": "7c8f27f5de051e5e89adea06a328ca6f6b9345dbbecf93c11ba2ba79707e53aa",
+    "summary": "税额估算、报税准备及专家服务",
+    "description": "使用 Intuit TurboTax 支持的工具，快速估算联邦税额，了解申报和报税准备选项。通过简单税额估算器或引导式问答收集重要信息，并在操作过程中查看退税额或应缴税额实时更新。清楚了解所需表格和文件、已经准备好的材料，以及仍需收集的材料——登录后安全上传，并在使用受保护功能收到提示时完成同意授权。需要人工帮助？查找可信赖的税务专业人士，查看实际可预约时间，并预约会面。从这里开始，有把握地报税。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a427a19b1f481919c5db13838af00c2",
+    "name": "Stocktwits",
+    "sourceHash": "158c3c1e6fae405284cee440a9d5d8d9085a28592e4fdb1f7713d5f17f50a1fa",
+    "summary": "散户投资者社区",
+    "description": "Stocktwits 将 AI 助手连接到全球规模最大的交易者和投资者社区之一。\n\n用自然语言搜索股票、ETF、加密货币、期货及其他市场，获取实时市场讨论、散户情绪、热门代码、关注者活动和社区洞察。\n\n无论是研究市场对财报的反应、监测某个股票代码的情绪、追踪突发新闻，还是发现新兴市场主题和交易思路，Stocktwits 都提供市场变动背后的背景，而不仅仅是价格更新。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fb9aa3609c8191a7c10dfbb326119c",
+    "name": "Advance America",
+    "sourceHash": "bf96a587dbde2026b817c1c2e906b74d4332a0c172559278a7b15514a38e906a",
+    "summary": "查找网点和服务",
+    "description": "Advance America ChatGPT 应用是你了解 Advance America 一切信息的首选资源。作为持牌并受监管的贷款机构，Advance America 在线上及门店提供便捷的贷款选择——现在，获取所需信息比以往更加轻松。\n\n即时获取有关我们金融产品和服务的答案，寻找附近门店，并探索适合你的贷款方案——全部在一个便捷的聊天体验中完成。超过 25 年值得信赖的服务，助你迈出实现财务稳定的下一步。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7b74c077248191b1ccacf2b09e19fd",
+    "name": "Synchrony",
+    "sourceHash": "ffc708a735ea6589066dcbcba5c2d69a693a536a3095ff2b6e0f03bc5e5cc3b7",
+    "summary": "查找 Synchrony 优惠",
+    "description": "Synchrony ChatGPT 应用帮助客户轻松找到可能适合其购物需求的 Synchrony Marketplace 优惠。通过快速的对话体验，发现家居、医疗、汽车、零售等类别的折扣、融资优惠和日常高性价比选择。\n\n在使用或依赖任何回答之前，你有责任审查并核实其准确性、完整性和适用性。如需最新且准确的信息，请参阅 Synchrony Marketplace。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a15c452ae04819187569784a47f7243",
+    "name": "Chronograph LP",
+    "sourceHash": "abf189abe2ce3cefab5812db32e6a6b71bfe3b9348ea633f0ed0d0c2cf1d64cc",
+    "summary": "值得信赖的投资组合数据",
+    "description": "Chronograph LP 为私募资本投资者提供投资组合监测和分析解决方案。通过 ChatGPT 和 Codex 中的 Chronograph LP 应用，用户可使用自然语言全面访问可信赖的私募市场投资组合数据，从底层被投公司和资产，到基金、投资载体、认缴承诺等。\n\nChronograph 为不同类型的客户用户提供两个独立应用：面向有限合伙人用户的 Chronograph LP，以及面向普通合伙人用户的 Chronograph GP。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6966958473488191b775fdb667c52eab",
+    "name": "Ahrefs",
+    "sourceHash": "c1614649a0f02c936d061abde6c9465ea383752227568dac92fca93714506da2",
+    "summary": "营销、SEO 和 AI 分析",
+    "description": "分析关键词、排名、流量趋势、反向链接、竞争对手表现和品牌可见度——包括 AI 搜索和大语言模型提及情况。与竞争对手比较声量份额，寻找容易把握的关键词机会，评估链接建设策略，并跟踪长期表现。ChatGPT 在一次对话中整合多项分析、提出追问，并将复杂指标转化为清晰摘要和报告，帮助你更有效地使用 Ahrefs 数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_696685b735588191b9f25f976cfda7b2",
+    "name": "Photon Commerce",
+    "sourceHash": "46b309553bba67b573adefd7e90f2bffa806ef9fb582734beb393e471caa34da",
+    "summary": "文档 AI、OCR 与人工参与标注",
+    "description": "Photon Commerce 将财务文档处理为可用于行动的数据。即时处理发票、收据及其他文档，准确提取结构化、无幻觉的 JSON 数据。只需点击一次，即可前往 Photon Commerce 网站继续审核或编辑，完全掌控数据。\n\n除数据提取外，还可获取近期文档历史、查看个人资料详情，并监测 API 使用限额。轻松将原始文档数字化为可搜索和分析的数据格式。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a66f31612ac81919762182cecd384c8",
+    "name": "Chargebee (EU Region)",
+    "sourceHash": "ee9b6cd79830e40b0210e5465206b9f7eab1202fcbe8ab4eb9da237b888f0f1f",
+    "summary": "实时账单洞察",
+    "description": "将 ChatGPT 连接到实时 Chargebee 订阅、发票、客户和支付数据。用自然语言询问账单问题并立即获得答案：续订风险、支付失败模式、贷项通知单缺漏、按计费周期划分的客户终身价值（LTV）及试用转化。\n\n这些交叉关联之所以能够实现，是因为 Chargebee 将完整的商业事件链保存在一个相互关联的数据模型中——支付事件、方案变更、发票记录、取消原因——全部彼此连接，并带有时间戳。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a510ec2e83c8191a9b6239582c7a4e0",
+    "name": "Calculadora de Combustível",
+    "sourceHash": "2907602421471d47bad376ad087eff69ab2d7f19b5e78e82839d170ecbdbe597",
+    "summary": "乙醇还是汽油？",
+    "description": "即时了解加乙醇（酒精燃料）还是汽油更划算。输入加油站两种燃料的每升价格，计算器会应用 70% 规则：如果乙醇价格除以汽油价格低于 0.70，则乙醇更划算；否则，汽油是更好的选择。你也可以输入每种燃料的燃油效率（km/l），更精确地计算每公里成本。无需注册，不收集个人数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7ec3b6436c819191db0b641cf721f6",
+    "name": "Lightsplit",
+    "sourceHash": "443dab0696a26344477e050d21fa538cbf4696b82dce54397f34140eb9fbc85e",
+    "summary": "在聊天中分摊团体费用",
+    "description": "Lightsplit 是为旅行、家庭和团队设计的共享团体账本，完全通过对话管理。轻松创建群组，并通过 Web、LINE 或 Telegram 共享访问。支持多种货币，以均等、加权或自定义方式分摊，记录费用、收入和结算。附加收据，以最少转账次数优化债务结算，管理共享待办清单，设定预算，并轻松查看各类别的支出明细。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a928f0f0e8c819188829a0017339128",
+    "name": "PublicAML",
+    "sourceHash": "9388a81a91f1b29a10175923d0167c6365b22795319ecf060e990320649357db",
+    "summary": "免费加密货币 AML/KYT 筛查",
+    "description": "只需一条消息，即可对任意 Bitcoin、Ethereum、BSC 或 TRON 地址进行反洗钱（AML）及交易了解（KYT）风险筛查和追踪。PublicAML 返回 AML 分数（0-100）、风险等级、制裁及事件风险关联，以及资金来源。它还可顺向追踪资金到套现地点，或逆向追踪谁向钱包付款，列出交易对手和近期转账，并按哈希值筛查单笔交易。免费，无需注册或 API 密钥。数据来自 PublicAML Intelligence API。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69beacb8780c81919104bb111b56346b",
+    "name": "Fitness AI Connector",
+    "sourceHash": "ed9bbfbc9cc5b260918b664297449c9820bf1f23727aba96b8aeedf8b06c8800",
+    "summary": "基于 Garmin 数据的 AI 教练",
+    "description": "连接 Garmin 可穿戴设备，获取个性化健康洞察和 AI 指导。跟踪步数、心率、睡眠质量、压力和 HRV 等每日健康指标。通过配速明细、分圈时间、心率漂移及经你选择同意提供的时间序列数据分析训练。跟踪体重、身体成分和月经周期数据。使用最长 5 年的历史记录监测长期体能趋势。所有数据展示均注明 Garmin 来源。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69248819fa4c81918047c4b42b1f8823",
+    "name": "Morningstar",
+    "sourceHash": "60023be2b2bb92e9f90f0ac5dd77cbae5b8d5242b9df701ee469857929f3e577",
+    "summary": "投资和市场洞察",
+    "description": "将 Morningstar 全面的投资数据和独立研究直接融入 AI 工作流。通过我们由 MCP 支持的连接器，客户可探索覆盖基金、股票等领域的跨资产数据，并获得全球分析师团队提供的前瞻性洞察。通过无缝体验获取可信、客观的情报，为投资决策、尽职调查和投资组合策略提供支持。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6d41baef6c819196399e30f53823f4",
+    "name": "Bank Statement Conversion",
+    "sourceHash": "721f8eb5f1e9e7b99776cac06e45af08e594b410dee55c4fa0915fa75d5a9a70",
+    "summary": "将银行对账单转换为 CSV/OFX",
+    "description": "在 ChatGPT 中将银行对账单、发票和收据转换为可用于会计处理的文件。上传 PDF、CSV、Excel、OFX、QBO、QFX、MT940 或 CAMT.053 文档，并导出为 CSV、Excel、QuickBooks、OFX、QFX、MT940、CAMT.053、JSON、Xero、Sage、MYOB、UBL、Peppol 等格式。查看支持的格式、确认上传、跟踪转换状态，并下载完成的文件。不会执行银行登录或支付转账。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a63adc4b1cc81919da70e038220f5eb",
+    "name": "Fitch Solutions",
+    "sourceHash": "c28509f601993381011c3cc8cd69e035d94229f077df1bb04e06ca9fb1a59f64",
+    "summary": "Fitch 信用情报",
+    "description": "通过一个具有治理控制的 MCP 连接，获取可信赖的 Fitch Ratings 信用研究及数据、CreditSights 情报，以及 BMI 国家和行业风险分析。直接在 AI 工作流中查询评级、财务数据、关键评级驱动因素、研究和交易洞察。专为受监管环境构建，提供企业级身份验证和授权控制。在你的工作场景中使用 Fitch 情报。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3c0dce8df88191ad4dd6b65391c39b",
+    "name": "FinLens",
+    "sourceHash": "a01af127975a00236b5ed0fc2d75dff4616cf2100b39fdd804eeb058b1ead541",
+    "summary": "越南金融数据",
+    "description": "FinLens 帮助用户在 ChatGPT 中研究越南上市股票及金融市场。它获取公司、价格和盘中数据，比较财务报表、同业和估值，并分析资金流、技术信号、基金、债券、权证、股息、宏观数据、新闻和券商研究。它仅用于信息研究，不执行交易，也不提供个性化投资建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69dd38561eb08191b83bfe2f40bbcdfd",
+    "name": "RealOpen",
+    "sourceHash": "4746fc2e850a430b7cbba0672bc0ac336387382e7cf1d6e363dc0188d8dc2230",
+    "summary": "用加密货币购买房地产",
+    "description": "RealOpen 帮助买家使用加密货币购买房地产。直接通过 ChatGPT 验证钱包所有权，检查加密货币资金证明资格，生成资金证明函，并启动以加密货币出资的房地产购买流程。准备购买时，交易将在 ChatGPT 之外通过 RealOpen 进行；在那里，你的加密货币被兑换为法定货币，并将资金发送给卖方或托管账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9da59270e481918ef6de583b10b8ed",
+    "name": "FinPilot",
+    "sourceHash": "a60d69463c31dde25f765581ee13cc5c5dd2fcd6dba306492cd564a51bbfca8a",
+    "summary": "个人财务管理",
+    "description": "FinPilot 帮助用户通过 ChatGPT 查询个人财务电子表格中的账户、卡片、账目记录和余额。它还允许按照 OAuth 中授予的权限，对账目记录进行验证、创建、更新、复制、标记、删除和撤销。应用仅记录用户提供的信息，不访问银行，不使用 Open Finance，也不转移资金。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f4fd8526f08191a7f0817e44267bb8",
+    "name": "Aleph",
+    "sourceHash": "b2604ba97e5a8a340ecd096c78a6d4fce51588f46ca6f388f37c6cbd8c67990a",
+    "summary": "查询、分析并操作 FP&A 数据",
+    "description": "使用 Aleph MCP Server，你可以：\n- 连接具有治理控制的统一可信数据源，获取来自 200+ 项集成的干净、结构化跨系统数据：ERP、CRM、HRIS、电子表格、数据仓库等\n- 用自然语言提问、构建报告和开展分析，每项输出都可追溯到统一可信数据源\n- 为 Slack、Linear 及其他工具之间的自动化提供支持",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab2907f6fe08191a599cfeae5f1540d",
+    "name": "Lendflow",
+    "sourceHash": "2753feed8ac9703631873050b40eacc705a117a17fafb22000805d349261754f",
+    "summary": "贷款工作流和融资方案",
+    "description": "Lendflow 让贷款团队通过 ChatGPT 管理业务流程。查询申请及背后的企业，查看关联交易的融资方案和资金提供方对接情况，了解仍缺少哪些文件，并将交易推进到下一工作流状态。用户使用自己的 Lendflow 账户登录，只能查看该账户原本已有权限访问的记录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a337feea93881918126d268f9360fc7",
+    "name": "Gainium",
+    "sourceHash": "c041016402752dfbcad158fd2ee579eac353973cc52c156c85d916a0f0741229",
+    "summary": "读取交易数据",
+    "description": "Gainium 通过只读连接器帮助用户在 ChatGPT 中查看交易机器人工作区。用户可以列出和查看机器人、交易、账户余额、已连接交易所、策略结构、市场筛选器数据、精选预设及现有回测请求信息，无需创建机器人、启动交易、下单或更改账户状态。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8bf112e4ac8191b712aab274d63811",
+    "name": "Cardwell: Credit Card Picker",
+    "sourceHash": "3577153578a676368c0f9664a69f099ce3b157d6e966fb05d64fbc5437be9ff8",
+    "summary": "找到合适的信用卡",
+    "description": "Cardwell 根据你关注的现金返还、旅行奖励、0% APR 或商业需求，帮助比较精选的美国信用卡。回答几个简单问题，即可查看最佳匹配和次选方案，附有清晰理由及发卡机构信息链接。Cardwell 不收集敏感财务信息，也不保证申请得到批准。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ddce2022b48191a4e544612c25fa8b",
+    "name": "Financial Summarizer Pro",
+    "sourceHash": "51c4824c15106e9702d06e42f0a19227c9eb983d472083c424c355a3cf32f179",
+    "summary": "即时获取财务详情",
+    "description": "阅读 SEC 披露文件很耗时。Financial Summarizer Pro 帮你完成这项工作。\n\n输入任意美国股票代码，应用便会从 SEC EDGAR 获取该公司最新的年度及季度披露文件，提取关键财务数据，并呈现为清晰、结构化的摘要——就像分析师整理的内容，但耗时只是其中一小部分。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a32e78726a88191bc24787b58bc8d03",
+    "name": "Savvly",
+    "sourceHash": "336e6935197e8662e9e4f355c3f84b7b2905be06a84c43095f67b15dc7859706",
+    "summary": "模拟退休情景",
+    "description": "Savvly MCP 帮助财务顾问、规划工具和 AI 智能体比较退休方案、检查资格，并模拟一次性投入、每月缴款和完整退休情景。这些工具支持 Savvly Longevity Benefit，这是一只在 SEC 注册的基金，旨在将市场敞口与晚年长寿给付相结合。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6961bc9309ec819199ce7ce38b7d3bf1",
+    "name": "Brex",
+    "sourceHash": "86c424ba4003328a79aa1500f4f2e42e83b2c11b8473e88de92645e0ecbb6c6f",
+    "summary": "自动化费用工作流",
+    "description": "Brex 帮助财务团队和员工通过 ChatGPT 查看公司支出。用户可以查询费用、卡片、额度、用户、账单、供应商和会计记录，分析支出，从 HTTPS URL 附加收据，更新备注及参与人员，将卡片费用分配到额度，导出费用数据，并提交产品反馈。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7c4825e7b88191a0d789b42d68af17",
+    "name": "Revolut X",
+    "sourceHash": "a61655085b1351cd53b418d688673920034a35209419ef8c1c989177ba2cb69f",
+    "summary": "管理你的加密货币投资组合",
+    "description": "Revolut X 帮助 ChatGPT 查询已登录用户的交易所余额和进行中／已完成订单，检查单笔订单及成交情况，并读取实时市场目录、行情、K 线、订单簿深度和公开交易。它还可以准备预填的订单表单链接。它不会提交、替换或取消订单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694ee0e7ef108191a90364e053b2285b",
+    "name": "RealEstateIQ",
+    "sourceHash": "59dddddcbdf842906a96809d8dae67032663126411071a48d4488a50aba89582",
+    "summary": "现金流和投资回报率分析",
+    "description": "在出价之前，了解出租房产或投资房产是否值得购买。输入你的数据，即可即时获得现金回报率、资本化率、净营业收入（NOI）、内部收益率（IRR）和完整的 20 年利润预测。对首次投资者足够简单，对经验丰富的房东也足够强大。此应用适合所有年龄段。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a764c8242f48191871862beb3cbaf37",
+    "name": "PGicover",
+    "sourceHash": "753b1ebf796844a9a6e28d7daf3f580172f6eadd8ad269c1fa533407687497aa",
+    "summary": "个人担保保险",
+    "description": "PGicover 帮助加拿大企业主了解个人担保保险，获取为商业债务个人担保投保的参考月度费用估算，并检查基本资格。由 Markel 承保，AM Best 评级为 A plus。申请在 app.pgicover.com 完成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a391fdcb738819193cd1154c602a926",
+    "name": "Economic Mind",
+    "sourceHash": "5928744db8743a236048c68838ea83c81595060dac07d8627e5de04d82b699d3",
+    "summary": "可追溯的市场洞察",
+    "description": "访问 Economic Mind 全面的市场情报数据库，涵盖 10,000 个市场的规模测算、预测、趋势和竞争格局。依托 Economic Mind 自下而上的方法，每个数字都可完整追溯至底层来源和假设。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a6edb714988191b6394fb3d7d54d86",
+    "name": "Bill Splitter",
+    "sourceHash": "4d102601914f21e112e25d14546a61299703c1577b3e763494d3aed5b3de29ee",
+    "summary": "分摊账单",
+    "description": "通过 ChatGPT 轻松分摊账单\n\n例如：\n\n- “如何把 $120 的账单分给 5 个人？”\n- “账单是 $95，我已付 $55。朋友还应付多少？”\n- “假期采购食品的费用为 $200，由我支付。每个人（John、Alice、Rob、Alex）各欠我多少钱？”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a314a73f8ac819195b0d55e36b9c609",
+    "name": "Firecrawl",
+    "sourceHash": "42fc67063fc78918c49a89761cf337a20c2319291f63e947b5cb19e875633ea5",
+    "summary": "搜索并访问更多数据",
+    "description": "通过 Alexandria 搜索网络，访问数据提供商及专业索引。研究公司、比较产品，并寻找工作所需的数据。将任意页面提取为干净的内容，并在对话中探索科学论文和代码仓库。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2baf2fad748191812393c3e00308ef",
+    "name": "Longbridge",
+    "sourceHash": "63ff54c6c6b2f2d5f0f27b39a267d016382f51f3e5e019512d07727bf02a7d46",
+    "summary": "股票行情和财务数据",
+    "description": "利用市场数据、基本面、分析师评级、新闻、披露文件、筛选器、涨跌异动、排行榜和卖空持仓研究美国及香港股票。连接 Longbridge 账户，分析余额、持仓、损益、现金流、对账单、自选列表及订单历史。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b95433e68c8191beacccc2348ca0ef",
+    "name": "HealthMoney",
+    "sourceHash": "a44fcb676f9dc45e6bed588ee4dc229f7e7b3287f366c1a33234a6f8dadd8029",
+    "summary": "个人投资顾问",
+    "description": "在同一处获取关于投资组合、资产配置、退休计划和财务项目的实时洞察。Healthmoney 安全连接到你的账户，帮助你在顾问指导下作出更明智的财务决策。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a759c48164c81918e5f7ae693e9cb07",
+    "name": "Rootline",
+    "sourceHash": "38492cf3d7f679b797332ce6951508aa02c82eac58f2c792aa4898734c10153c",
+    "summary": "与支付数据交互",
+    "description": "Rootline 是面向平台和市场的欧洲支付服务提供商。此模型上下文协议服务器将你的 Rootline 账户连接到 ChatGPT，让你查询整个网络中的任何支付、商户账户或结算。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a89c528b388191bb54945b9e1f15c9",
+    "name": "Steadily",
+    "sourceHash": "fc312ec4fb5764781314d97094f02c06fdfa48dfc37ef35b15b9ea74f769aaae",
+    "summary": "获取房东保险报价",
+    "description": "即时获取出租房产的保险估算。输入房产地址，获取房东保险的预计月度和年度保费。前往 Steadily 网站继续报价流程，定制保障并使保单生效。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8b989b7f9c8191916e1095e3e8a96c",
+    "name": "iSnapReceipts",
+    "sourceHash": "f77afe9df6f4b82c00d9334f9f50f340a0b004f443bd8a596808d872172bcf14",
+    "summary": "查找和记录收据",
+    "description": "连接 iSnapReceipts，搜索、查看和汇总你的私人收据账本。在 ChatGPT 中查看收据图片并上传收据照片，自动提取信息和保存。收据记录受你的账户限额约束。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f455c8331881918fc3ad7922042082",
+    "name": "Dakota Marketplace",
+    "sourceHash": "7c594ab94ceda1f0760dc941cdffe0f1dffc9a39c906b137cf22bbb6a3428cc7",
+    "summary": "搜索资产配置机构和基金",
+    "description": "Dakota Marketplace 帮助用户通过只读搜索，研究资产配置机构、联系人、市场搜索、募资新闻、私募市场策略、交易、基金和业绩基准。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a84635f0e7c8191af1ccc4ecd178533",
+    "name": "Morningstar Credit Analytics",
+    "sourceHash": "46a564454a195c1b79967bf263ee05391e01ddc2c269a5fc3a6fea278375a66a",
+    "summary": "CMBS 与 CRE CLO 监测",
+    "description": "Morningstar Credit Analytics 将 CMBS 和 CRE CLO 监测数据引入 ChatGPT。用自然语言提问，获取基于 Morningstar Credit 的贷款、交易、债券、房产和投资组合数据集的回答。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a79da9d04008191938c1c1dcfa5b39e",
+    "name": "Nogogo AI",
+    "sourceHash": "93cc01de18687cad2cf1ef606b1bc46db5eb3f4bbcba2e5e694e5af8fa28af98",
+    "summary": "可靠性",
+    "description": "搜索法国公司，查看其 Nogogo 评级、主要负责人及关键公司信息。Nogogo AI 使用公开数据，对公司的表面可靠性提供参考性评估。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d88b99c5c481918e8da9225737e1e9",
+    "name": "Fathom",
+    "sourceHash": "459340b17953e77b4daf5bfa05542bfcb56798eb447eb78b2e8953d43f9f20d9",
+    "summary": "会议洞察",
+    "description": "使用 Fathom 将会议背景带入 ChatGPT。获取摘要、文字记录和行动事项，以你的对话为依据，支持更好的回答、更深入的分析和高质量输出。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8386b4df908191b27f2ee865f46832",
+    "name": "Awaken Tax",
+    "sourceHash": "3e8c7711c0be20c3611dfe48ad2f6bb843f494b3455a38d2de88e5cdc8e09929",
+    "summary": "管理加密货币税务记录",
+    "description": "Awaken Tax 帮助用户通过 ChatGPT 查看加密货币交易、账户、投资组合、税务批次、报告和对账数据，更正私人税务记录，并生成税务报告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa03661b75081919cdbc461bf411a4e",
+    "name": "KiasuMiles",
+    "sourceHash": "b97c0dd26d9f65018e630618435c48b85a27f43bd1853a564210c184000a8f57",
+    "summary": "选择最佳里程信用卡",
+    "description": "针对特定商户和支付方式，比较你已持有的新加坡信用卡。KiasuMiles 返回最佳卡片、里程赚取率、上限、条件，以及奖励不确定时的备用选择。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a606526a0d08191a794390f48682341",
+    "name": "Square Deal",
+    "sourceHash": "6d99c77cc05d1424c8b600a7bc2a976f59972d2d654edf7323961378fbe0b73b",
+    "summary": "检查房产是否被高估计税价值",
+    "description": "Square Deal 帮助房主检查自住房产的计税评估价值是否偏高。输入房产地址，查看评估数据、可比房产、潜在减估幅度及预计节税金额。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a730a1c4448191ac0bb23d5aa9ee3f",
+    "name": "Bankrate",
+    "sourceHash": "9c8b1781cc562827aa45b289548da1e06a1d06a24c5b61c8053bafeb4ff27f7f",
+    "summary": "浏览储蓄产品",
+    "description": "此工具专门提供当前面向消费者的银行利率，并计算储蓄预测。它旨在成为客观且不提供咨询建议的信息资源。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_696e8996fa2c81919e4f3872db87ae24",
+    "name": "Addy AI",
+    "sourceHash": "eb504c5063f6237fbf13cbec8d63c4883fac8abea03da146bfa4505e69439e1c",
+    "summary": "数日内完成住房抵押贷款",
+    "description": "此应用是跟踪贷款业务流程、查看文件处理清单、查询贷款详情、跟进所需文件等工作的最佳方式。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_connector_693864f100e4819093e6ed9b651239f1",
+    "name": "Finances",
+    "sourceHash": "494ddf6f6b0e2d7cac411195f4f43054e876231799b8cbadc6d09f9dee53a866",
+    "summary": "个性化财务洞察",
+    "description": "安全连接你的金融账户，在 ChatGPT 中探索交易、支出、定期扣费、投资和负债。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69615e4380f081919f3024d76fd8ded7",
+    "name": "Jerry",
+    "sourceHash": "0c4ac6dde03b578422022e41ff89e8fbd81f3bd8f6dae96909cbc3623b9f971b",
+    "summary": "汽车保险报价及维修费用",
+    "description": "Jerry 帮助驾驶者通过 ChatGPT 比较实时汽车保险报价，并估算车辆维修费用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1501a1225881918761db6d41a48637",
+    "name": "FactorWeave",
+    "sourceHash": "10ac58a54fca13e8b2904c64859244ada22498744588ab0773ea958279a37cb4",
+    "summary": "股票代码的量化因子数据",
+    "description": "为 12,000 个美国股票代码提供量化因子数据——作为研究基础，而非预测。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_connector_1p_ab21a553bfbc81919ea8fd1858e3ffa7",
+    "name": "Google Drive",
+    "sourceHash": "83fcc956cbe050689d2fb58162ff29b9a8d205725ed40ae9168f5d4273cc292b",
+    "summary": "Drive、Docs、Sheets 或 Slides",
+    "description": "使用 Google Docs、Sheets 和 Slides 开展工作。",
+    "model": "codex-subagent-reviewed"
+  }
+]

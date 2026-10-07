@@ -1,0 +1,402 @@
+[
+  {
+    "id": "plugin_connector_68df33b1a2d081918778431a9cfca8ba",
+    "name": "Canva",
+    "sourceHash": "d59f7af267c304a26b13d0af962683ac5581d0b35efb188bfd5ae1e29dadbbe9",
+    "summary": "创建设计、审阅并编辑",
+    "description": "将 Canva 设计工作流带入 Codex，通过自然对话创建、完善和审阅设计。\n\nCanva 可以做什么：\n创建设计：将需求说明、大纲或文案草稿转化为演示文稿、文档、海报、传单、社交媒体帖子、简历等。\n生成图片：根据提示词创建照片、插画、图标和图形，或为已有图片更换风格。\n移除背景：将图片主体提取出来，放在透明背景上。上传文件：将聊天中的附件和文件导入 Canva，用于设计。\n调整社交媒体尺寸：一步将设计适配 Facebook、Instagram 和 LinkedIn。\n批量创建：使用品牌模板，根据电子表格数据生成多个设计。\n编辑设计：更新文字、媒体和格式，或调整元素的位置和尺寸。\n获取设计反馈：获得关于视觉层级、布局、可读性、一致性和无障碍性的结构化反馈。\n落实反馈：查看评论讨论串，并应用其中明确、可执行的修改建议。品牌检查：按照你的品牌套件检查颜色、字体、标志使用和文案。\n\n安装后，用日常语言描述需求，或通过 @Canva 直接调用 Canva。\n\n可以尝试以下提示词：\n\n@Canva，根据这份大纲创建一份路演演示文稿。\n@Canva，制作一条 Instagram 帖子，宣布周五促销。\n@Canva，生成一幅黎明时分灯塔的插画。\n@Canva，移除这张照片的背景。\n@Canva，上传这份 PDF 并将其转为演示文稿。\n@Canva，将这份设计调整为社交媒体所需的尺寸。\n@Canva，使用我的品牌模板，根据这份电子表格创建设计。\n@Canva，更新这份设计的标题。\n@Canva，落实评论讨论串中的反馈。\n@Canva，按照我的品牌套件检查这份设计。\n使用要求：需连接 Canva 账户才能使用此插件。批量创建需要符合条件的 Canva Enterprise 企业套餐。设计和图片生成会消耗 Canva AI 积分。\n\n想亲自进一步调整？可立即在 Canva 功能强大的编辑器中打开设计，完成最后的润色。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e",
+    "name": "Notion",
+    "sourceHash": "720df8f53fbceed2300728111ea91ba6d866c48fb0ae8ebab8cefb267b87c0b8",
+    "summary": "创建文档、任务和数据库",
+    "description": "搜索并引用你的 Notion 页面",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698",
+    "name": "Shopify",
+    "sourceHash": "eba39ce0f8b14cf80ab31a62418f566f60ed9de615064348c33c23ff20a52c06",
+    "summary": "创建并管理你的商店",
+    "description": "Shopify for ChatGPT 让开设、运营和发展网店像对话一样简单。使用 Shopify 的 AI 商店构建工具，将小生意的想法转化为电商网站：描述所售商品，创建商店，添加产品，然后在线销售。已有 Shopify 商店？连接后即可管理各地点的库存、创建折扣码、查看订单和客户详情，并获取商店经营表现的分析数据。Shopify 支持线上销售、线下销售、B2B、在交易平台销售以及国际销售。无论你经营按需印刷业务、销售数字产品、运营精品网店、采用一件代发，还是服务批发买家，Shopify 都能为你提供搭建业务、开展销售和实现增长的基础。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14",
+    "name": "HubSpot",
+    "sourceHash": "0a9a738ebe0a574c29f97901d2671ca76115f2ba481b8adcbff511eab023bafa",
+    "summary": "在 HubSpot 中将洞察转化为行动",
+    "description": "利用 HubSpot 数据分析规律、创建和更新记录，并管理 CRM 运营。读取和写入你有权限访问的交易、联系人、公司、工单、互动记录及其他对象。准备报告、更新交易阶段、记录通话和邮件、创建任务，或在会议前查看销售管道详情。既可在聊天中快速更新，也可全面管理 CRM，所有操作都基于你的实际 HubSpot 数据。了解更多：https://knowledge.hubspot.com/integrations/connect-your-hubspot-account-to-chatgpt",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694a52cfaa3c819192bea84eaa254968",
+    "name": "Windsor.ai",
+    "sourceHash": "5525f2cb3e2c2d88ce74850b483ce7d39bfee18a3a9ac8db6dd086d0e22a9798",
+    "summary": "连接 350+ 个数据源",
+    "description": "Windsor.ai 将营销和业务数据源连接到你的 AI 助手，让你可以用日常英语提问并执行操作。\n\n它可以从任何已连接的数据源获取表现数据，也可以在支持的广告和营销平台上直接进行修改，例如暂停或启用广告活动、设置预算、创建 Google Business Profile 帖子或回复评价；这些修改始终会在你确认后才执行。\n\n常见工作流：\n- 比较所有已连接广告账户的花费、点击和转化\n- 找出并暂停表现不佳的 Meta Ads、Google Ads、TikTok Ads、LinkedIn Ads 或 Microsoft Ads 广告活动\n- 以你的 Instagram、Threads、Facebook 或 Google Business Profile 账户发布内容或回复\n- 将 GA4、Google Search Console 或 YouTube Analytics 数据直接引入对话\n- 同步 HubSpot、Salesforce 或 Shopify 记录\n- 更新 Klaviyo 流程或 Amazon Seller Central 商品页面\n\n连接广告、分析、自然流量社交媒体、CRM、电商、邮件和支付领域的 350+ 个数据源，包括 Google Ads、Meta (Facebook) Ads、Instagram、TikTok Ads、LinkedIn Ads、LinkedIn Company Pages、Microsoft Ads (Bing)、GA4、Google Search Console、YouTube、Google Business Profile、HubSpot、Salesforce、Shopify、Klaviyo、Amazon Ads、Google Merchant Center、Stripe 和 GoHighLevel。\n\n读取数据只需连接一次相关账户。任何修改操作（暂停广告活动、发布内容、回复评价）都会先要求你确认，而且仅适用于 Windsor 明确支持写入权限的平台。其他所有已连接数据源均为只读。提供免费套餐，无需信用卡。\n\nWindsor.ai 是独立产品，与其连接的平台不存在关联，也未获这些平台背书。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69bc11db874881918718abaca20b68ce",
+    "name": "Interactive Brokers (IBKR)",
+    "sourceHash": "f247834ebf76a53a00cb4817b765a8f2a3aad71d236978d09a9f329a3e2a17f4",
+    "summary": "分析全球市场",
+    "description": "将你的 Interactive Brokers 账户连接到 ChatGPT，通过自然语言管理投资组合。\n询问持仓、余额、盈亏、资产配置和未成交订单，或请求实时报价及历史市场数据。\n你还可以让 ChatGPT 起草交易指令，例如“以 $200 的限价买入 100 股 AAPL”，这些指令会发送至你的 IBKR 账户，供你审核和批准。\nChatGPT 绝不会直接向市场提交订单。文中展示或讨论的任何交易代码仅用于举例，不代表投资建议。\nSIPC 成员。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d",
+    "name": "Outlook Calendar",
+    "sourceHash": "4b7828581386fedc7f0a7ebef516938fe55012130b4b8c846f1e0fdbabd645e6",
+    "summary": "管理 Outlook 日程",
+    "description": "使用 Microsoft Outlook 日历安排工作：查看空闲时间、规划会议、创建日程并管理邀请。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d3e5ee6a708191baa733f7b8931995",
+    "name": "Supabase",
+    "sourceHash": "6a8102296f8519369de3912b81b53d54f31d122cdf2d4b42ea56af858dffd2f5",
+    "summary": "管理并查询数据库",
+    "description": "直接通过 ChatGPT 管理 Supabase 项目。在 PostgreSQL 数据库上执行 SQL 查询，设计和修改表结构，部署无服务器边缘函数，并配置用户身份认证。获取实时日志以进行调试，创建并应用数据库迁移，以及通过自然语言管理开发分支。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_693a0a79ffe48191901173077edcf914",
+    "name": "Lovable",
+    "sourceHash": "d20dcd280524ec946c1335b3cde5937099cc44a142c59b2c6e5d884bdb903d3e",
+    "summary": "通过聊天构建全栈应用",
+    "description": "Lovable 根据自然语言构建和编辑全栈 Web 应用。描述一个应用，Lovable 就会创建项目、编写 TypeScript、Tailwind 和 shadcn/ui 代码，并返回实时预览，让你看到构建过程。通过后续消息可以进一步完善应用；你还可以查看生成的代码和差异，添加 PostgreSQL 数据库及第三方连接器，管理可复用的项目知识和技能，并将完成的应用发布到公开 URL。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8061659144819197910ef2762afbc0",
+    "name": "Gateway",
+    "sourceHash": "d7dff2103e11d5e3b49e664ceaeb5b56c1d1ba45e14102b0f9c39b49a2b4de75",
+    "summary": "通过 SSH 管理服务器",
+    "description": "Gateway 让用户通过 ChatGPT 管理自己拥有的 Linux 和 Windows OpenSSH 服务器：检查运行状况和配置，运行可审计的命令及具有明确类型的管理操作，传输文件，并跟踪持久化任务。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a48a3d89f7c81918b5810d628260b10",
+    "name": "Grow My Website",
+    "sourceHash": "46a7e593b44ad8e9c2ea73aa3e2e3777a15e6602a643fa359b579ee349c3e170",
+    "summary": "免费网站扫描与增长指导",
+    "description": "扫描任意公开网页，检查 11 项 SEO 基础要素；每个问题都附有通俗的“为什么重要”说明和修复示例。还可获取 10 步网站增长框架，或查询某个具体 SEO 问题的解决方法。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8f6c526c5481918eb8a48806fa112b",
+    "name": "Lumen UI",
+    "sourceHash": "224b3095a7104a54285fc44d0a10b468afebe52c90ec07c04ea358ed2ecdaf77",
+    "summary": "使用 Lumen 构建界面",
+    "description": "Lumen UI 帮助编程智能体依据实际的多框架设计系统规范，构建无障碍界面。搜索组件目录，获取特定框架的用法和源代码，查看 Web 与原生应用的实现示例，读取语义化设计变量，并遵循随附的 Lumen 工作流，适用于 Astro、React、Web Components、React Native、SwiftUI 和 Jetpack Compose。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab",
+    "name": "AT&T",
+    "sourceHash": "ce18b8a5bb2b7060c8f1dd8faabca62967eeaa9396c55cd71441e9ba7a53ef4b",
+    "summary": "选购互联网与无线通信服务",
+    "description": "AT&T Products 提供一体化对话体验，支持用户查询家庭互联网服务是否覆盖其地址、比较互联网和无线通信服务、了解设备及服务套餐、查找 AT&T 门店、管理购物车，并顺畅进入 AT&T 结账流程。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc",
+    "name": "EasyReply",
+    "sourceHash": "6eb5580c465347c706fbde34a14aa3560c67b709408c8ec6df794d8a9c2c19aa",
+    "summary": "客户支持平台",
+    "description": "EasyReply 是一个客户支持平台。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39",
+    "name": "Mailbox MCP",
+    "sourceHash": "ca476422f6aef9850281b2664bea104ac7001c1e72a0cff5fe4ad675358a47b0",
+    "summary": "读取、发送和归档邮件",
+    "description": "Mailbox MCP 将 ChatGPT 连接到你已有的邮箱，可以是 Microsoft 365、Gmail 或任何 IMAP 服务商提供的邮箱。无需新建邮箱地址，也无需迁移任何内容。\n\n人们常问如何将 ChatGPT 连接到 Outlook。关键区别在于：它不会操控电脑上的 Outlook 应用，而是在服务器上打开 Outlook 所访问的同一个邮箱。因此，无论 Outlook 是否运行，都能从任何设备使用；无论邮件存放在 Microsoft 365、Google Workspace、Gmail，还是托管服务商的 IMAP 服务器上，使用方式都一样。\n\n它可以分拣新收到的邮件，指出哪些确实需要你处理；跨文件夹搜索；按顺序阅读完整邮件讨论串；读取附件内容（发票总额、电子表格、扫描信件）；起草回复供你在发送前检查；发送邮件；保留原附件进行转发；标记、归档、举报垃圾邮件，以及将邮件归入文件夹。它还可以查找你曾写信联系过的人，告知邮件是否被退回以及是否属于永久退信，并检查你自己域名的 SPF、DKIM、DMARC 和 MX 记录。\n\n通讯录随邮箱一同接入：Microsoft 365 上的 Outlook 联系人，或任何支持 CardDAV 的服务商所提供的通讯录。它可以查找人员，读取包含邮寄地址和邮政编码的联系人名片，添加及修正联系人，并导入联系人文件。Microsoft 365 邮箱，以及任何支持 CalDAV 的服务商，都可以通过同一连接使用日历工具：读取和搜索日程，创建及更新日程事项，查看谁有空，寻找会议时间，发送及回复邀请，并设置外出自动回复。连接时会根据你的服务器检查可用工具，因此不会向你提供服务器无法执行的工具。\n\n每个连接都采用你在授权时选择的权限级别：只读、起草及归档，或发送及删除。团队可以共同处理共享邮箱：认领邮件，让同事知道由谁处理；将邮件交给指定人员；或保留草稿，待所有者批准后再发送。\n\n它的设计目标是让邮箱保持在与你亲自操作时完全相同的状态。回复会保留邮件线程头信息，因此会在收件人的邮件客户端中归入原对话，而不会新建对话。阅读邮件不会将其标记为已读。每封发送的邮件在“已发送”中只保存一份。移动邮件会保留其标记和原始日期。读取的内容不会被存储：邮件、日历和联系人内容只在服务器内存中流转，绝不会写入存储。\n\n破坏性操作会明确标注；遇到不确定情况，它会拒绝操作，不会猜测。它不会删除仍包含邮件的文件夹；若回复地址与可见发件人不同，也会先停下来询问。其背后的公司 BSolve IT Limited 已获得 Cyber Essentials 认证。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6985e5ad62908191ad013449cab57d02",
+    "name": "A-Z Links",
+    "sourceHash": "045f34bdd2de8152bf14ae514571b85955402d5e508313ddfd889d8421047f78",
+    "summary": "在聊天中轻松查看和使用链接",
+    "description": "如果你难以看清 ChatGPT 对话中的链接，可以使用此应用。\n\n它会以清晰的大号文字显示聊天中所有相关链接，并提供方便的按钮，让你在需要时复制链接。\n\n例如：\n\n- “显示这次聊天中的所有链接”\n- “给我 10 个链接，帮助我规划旧金山之旅”\n- “史上最好的 5 本科幻书籍的 Amazon 链接”",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698cc70ed4048191af62942353547f57",
+    "name": "NoClick",
+    "sourceHash": "e3a9d2f4f1c7fc91669491a1df5b32cf210c8cc2610f4be0158208c3fa145eec",
+    "summary": "构建并运行 AI 工作流",
+    "description": "构建、测试并部署自动化工作流。NoClick 让自动化易于使用：连接你喜欢的工具，添加逻辑和 AI 步骤，让工作流帮你节省时间。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a52268982b081919d26887c12f67a2c",
+    "name": "Support Ticket Validator",
+    "sourceHash": "038975f4f83c483d5eb73211577e17dde7eb25f318d81055f61da123b4292056",
+    "summary": "检查支持工单字段",
+    "description": "Support Ticket Validator 会在人工作业或交接前，检查支持工单数据是否包含所需的必填字段。它返回结构化的完整性检查结果，包括已检查字段、已提供字段、缺失字段及验证错误，帮助支持团队识别不完整的工单信息，同时不修改外部系统。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6",
+    "name": "AWS Data Analytics",
+    "sourceHash": "e6b10d105db262f79a02f44a8595a8c7e865809aba5d944df70117eb0a1fd2e6",
+    "summary": "AWS 数据分析插件",
+    "description": "使用 S3 Tables、AWS Glue 和 Athena 处理数据湖、分析和 ETL 工作流。涵盖 S3 Tables 上的托管 Iceberg 表，从 JDBC 数据库、Amazon Redshift、Snowflake、BigQuery 和 DynamoDB 摄取数据，AWS Glue Data Catalog 的目录清单及资产发现，Athena 联邦查询，以及 Amazon S3 Vectors 上的向量存储和语义搜索。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc",
+    "name": "Wix",
+    "sourceHash": "f60d36a8c9424b66efee947c5d46b086d4c5042e08e25d4925bdc24e97a8aae3",
+    "summary": "创建你自己的网站",
+    "description": "直接在聊天中构建整个网站并购买域名。只需告诉 Wix 你想要的网站及所需的全部功能，几分钟内即可生成一个完整、可用于开展业务的网站。你还可以为网站连接合适的自定义域名，并在同一处顺畅管理所有内容。如有需要，可以继续在 Wix Harmony 编辑器中编辑，使用更多 AI 工具和流畅的拖放操作。\n\n面向开发者：使用 Wix CLI 构建和部署 Wix 应用，包括仪表盘扩展、后端 API、网站小组件、服务插件和数据集合。使用 Wix Headless 构建前后端分离的网站，可以完全托管在 Wix 上，也可以用任意框架自行托管；电商、预约、CMS、活动和会员功能由 Wix 后端服务提供。通过编程方式管理商店、预约、联系人和网站设置。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204",
+    "name": "Docusign",
+    "sourceHash": "ad5fafc46981dbda14288809eab07c5db54a637910b7a09add8f06f21ec6c402",
+    "summary": "通过 ChatGPT 管理合同",
+    "description": "借助 Docusign 支持的智能自动化，简化合同管理。不仅完成合同签署，还能轻松处理复杂的协议工作流。使用自然语言创建和发送合同，立即提取续约日期、关键义务等重要信息，并自动执行工作流，让业务推进更快、更顺畅。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7c329c161c8191a8df623446a34000",
+    "name": "HoneyBook",
+    "sourceHash": "8b37d6e8d9643c3106cf9ea17b06a40e3700734b2ab6582b28f67d8adbf1594d",
+    "summary": "承接客户业务并收款",
+    "description": "HoneyBook 为独立经营者和精简团队提供管理客户工作的场所：咨询、提案、合同、发票、付款，以及各环节之间的消息沟通。\n\n连接账户后，在一次对话中处理完整业务。询问哪些潜在客户值得跟进，它会根据你自己的已预约业务给出排序结果。使用已保存的模板生成提案，并在发出前审阅。之后，可以询问谁还欠款，并向欠款客户发起付款请求。\n\n任何操作运行前，你需要逐项批准它可访问的资源；只有你发送后，内容才会到达客户。每项请求都在隔离环境中运行，你的凭据绝不会共享给模型。\n\n专为摄影师、活动策划人员、场地经营者、设计师和顾问打造。需要 HoneyBook 账户。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96",
+    "name": "Montage",
+    "sourceHash": "d5a38bbc8dc57710f8cd52363ecc78b2f1c58d04865bfc9ddaaf352e7df33772",
+    "summary": "导入视频并剪辑片段",
+    "description": "向 Montage 提供一个 URL 或 Google Drive 链接，它会导入视频，并持续跟踪直至导入完成。随后，告诉它你想要的某个时刻，它就会剪出对应片段并返回编辑器链接，让你在发布前进一步裁剪或调整样式。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7201527fa48191af83141ef896370a",
+    "name": "Air",
+    "sourceHash": "32eabba4a088203eacbf8a91ae17508ce05ec8acb5de4af547e841b354543756",
+    "summary": "你的创意任务智能体",
+    "description": "Air 理解你的品牌，整理素材库，并扩大创意内容产出，同时让人类在最关键的环节参与其中。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92",
+    "name": "Flatma",
+    "sourceHash": "15ac408716417d3f0e8bb49fb529d2c0acca9c00606b0a8937960ca059795c16",
+    "summary": "创建 3D 橱柜和家具",
+    "description": "根据文字提示创建定制柜体和家具。Flatma 生成具有真实尺寸和板材厚度的可编辑 3D 模型，让你调整尺寸、层板、抽屉、材料及其他细节。可设计衣柜、厨房橱柜、书桌、桌子、置物架等。在 flatma.com 上打开项目，可查看详细图纸和开料清单。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95",
+    "name": "Ashby",
+    "sourceHash": "18c4687281d90ca9042eb25cdf563f4a039ada6872d052b347a41f6ccb15d912",
+    "summary": "分析招聘数据并采取行动",
+    "description": "ChatGPT 中的 Ashby 让你即时访问招聘流程、候选人资料、在招职位、面试及文字记录。提问、发现招聘趋势，并直接在聊天中添加备注、调整候选人所处阶段或发送邮件。Ashby 通过安全的用户级 OAuth，将 ChatGPT 连接到实时招聘数据。每项请求和操作都遵循你现有的权限，确保数据受到保护。\n\n可以尝试以下提示词：\n“总结我们当前的工程岗位招聘流程，指出瓶颈，并找出有流失风险的候选人。”\n“考虑让 [候选人姓名] 应聘我们在招的 Staff Engineer 岗位，并将其移至招聘人员初筛阶段。”\n“利用面试反馈、评分表和招聘人员备注，生成 [候选人姓名] 的面试复盘摘要。”\n“分析销售岗位招聘周期的变化趋势，并总结延误发生在哪些环节。”",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173",
+    "name": "Nexoya",
+    "sourceHash": "546a74db9d3562315164eb4f62eae170b3019834719be14a62ba3a5c78e77f4a",
+    "summary": "营销数据分析",
+    "description": "Nexoya 将 ChatGPT 连接到 Nexoya 工作区，让营销人员用自然语言询问营销组合、广告活动或广告组内容、漏斗步骤、标签、事件、表现指标、每日趋势、基于回归分析的归因，以及预算优化建议。该应用帮助用户总结营销表现、比较不同时期和渠道、查看 ROI 与 ROAS、分析趋势，并解释最新的优化方案，无需离开 ChatGPT。访问范围受已登录用户的 Nexoya 账户和团队权限限制。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1",
+    "name": "Company Dossier",
+    "sourceHash": "751e456abe5d62a84d4da1f77d5f8f9a23393d712ae52a1e5465a3770cdac2f5",
+    "summary": "附有来源的公司情报档案",
+    "description": "Company Dossier 完全利用公开数据，为任意公司或域名编制完整且注明来源的情报档案。一次请求返回九个部分：概况与身份、人员与组织架构、招聘动态、资金动向、地点、技术特征、新闻与时间线、关系网络，以及风险提示。每条陈述都关联公开来源，并标注高、中或低置信度。适用于尽职调查、供应商审查、销售准备和竞争研究。无需账户，不涉及私有数据，仅使用公开来源。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a96846e8814819189ddb980b090aa20",
+    "name": "Finom",
+    "sourceHash": "6f8bb6a1c5773f72ae2d5395012f533dc9e83c0aab432abd34376d3bb239425c",
+    "summary": "企业银行服务与开票",
+    "description": "Finom 是面向欧洲中小企业和自由职业者的企业财务平台，将企业账户、开票、费用管理和会计整合于一处。\n\n此连接器让 ChatGPT 访问你的 Finom 企业数据。可以询问各账户的交易及支出，查询发票和付款状态，查看银行卡交易活动，并检查记账记录和税务截止日期。\n\n使用此连接器需要有效的 Finom 账户。访问仅限于该账户获授权的公司，你通过 Finom 的标准登录流程批准访问。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_696e4b35d354819199e87f105ca545a5",
+    "name": "Simply Business",
+    "sourceHash": "e6c320314d6baeccfe1cfcc7c849614e572ae37b64ae95c054740817e7324dee",
+    "summary": "寻找小企业保险",
+    "description": "获取企业保险的价格估算。\n\n回答几个简短问题，即可查看你可能支付的最低年度价格。快速、简单，并为你量身定制。\n\nSimply Business 是一家数字化保险经纪公司，受到英国和美国超过 100 万客户的信赖。\n\n通过 Simply Business 参考定价应用获取估算，即表示你同意我们网站上的条款以及下方的隐私政策。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb",
+    "name": "CoinMarketCap",
+    "sourceHash": "8081858995339c396b0ec87aa5a954f0a6829c165f55811a5eef8740aaeb8647",
+    "summary": "实时加密资产市场数据",
+    "description": "获取 CoinMarketCap 跟踪的数百万种加密资产的实时价格、市值和交易量，涵盖主要加密货币，以及各大区块链上的长尾 DEX 代币。\n\n不止于价格：提供技术分析（RSI、MACD、移动平均线、斐波那契价位、枢轴点）、持币者分布及供应量细分等链上指标，以及全球市场信号，包括 BTC 市值占比、恐惧与贪婪指数、山寨币季指标、杠杆统计和 ETF 资金流。\n\n发现热门加密资产叙事、即将发生且会影响市场的宏观事件、突发加密资产新闻，并对加密资产概念、白皮书和项目文档进行语义搜索。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1",
+    "name": "Sangria",
+    "sourceHash": "3f4799328aaf9004f4328d110565901ac085bfe54dcf36c0f0a5c2f1516a48c2",
+    "summary": "在线购买商品",
+    "description": "Sangria 帮助用户获取受支持实体商品的报价，查看已锁定价格的匹配商品，使用现有的 Sangria 美元额度余额购买已批准商品，并查询订单状态。个人资料设置、支付方式管理和额度充值均在 ChatGPT 之外的 Sangria 仪表盘中完成。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a60a513907881919ca0e120f0963692",
+    "name": "CineOS",
+    "sourceHash": "050e34c0488bc9d9d624a076a44f71e7d70715d2cd2244f8e2278975f50f7b9e",
+    "summary": "查询英国影院上映影片",
+    "description": "面向英国的 AI 原生电影与影院发现服务，提供经过核实的放映时间和直接购票链接。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273",
+    "name": "Zinde AI Free Calorie Tracker",
+    "sourceHash": "37f06ec2fe2aacecfbdca763c10d94fc4427b6194edaf3d113af4cb4abc32dfb",
+    "summary": "记录饮食、饮水和运动",
+    "description": "Zinde 将 ChatGPT 连接到你的 Zinde 账户，让你在同一处查看每日营养、饮水、步数、运动和目标进度。可以请求每日或每周摘要，根据剩余目标获取饮食建议，更新目标，并在查看预览后记录饮食、饮水或运动。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a97be305050819192a4130e3e3acedc",
+    "name": "Joti",
+    "sourceHash": "0ca66ba77ca140da72d655bbaa9c4702a53bf1cf3b3f8fb695c62afaa66846a7",
+    "summary": "AI 训练规划与记录",
+    "description": "Joti 是一款训练记录应用，用于规划、安排和记录力量、自重、柔韧性及有氧训练。此连接器让 ChatGPT 读取用户自己的训练计划、已完成训练的历史记录、汇总统计（训练量、坚持情况、个人最佳成绩、表现最佳的力量动作）及共享动作库（约 800 个动作，加上用户自定义的动作），并将训练安排到用户日历中。训练计划写入仅支持新增：创建全新的训练计划或复制已有计划；同时可全面管理日历中的已安排训练条目。它不能编辑或删除已有训练计划的动作或组数，也不能开始、记录或修改一次实际训练，这些操作仍需在 Joti 应用中完成。身体测量数据和进度照片完全不在访问范围内。读取仅限于用户本人拥有的数据；每次写入都可在 Joti 的 Activity 动态记录中撤销。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc",
+    "name": "FitAI Pro",
+    "sourceHash": "2b7ca2f7cd8b7fa06b2753395a6b9265f392ed64f4ee6d551f0aa11fb3f24894",
+    "summary": "制定训练计划并记录组数",
+    "description": "FitAI Pro 是一款训练管理应用，帮助用户更高效地规划和记录健身房训练。它提供包含 5,000 多个动作的数据库，附有动作姿势说明及组数、次数指导，同时提供训练中记录重量、次数和组数的工具。用户可以根据可用器材生成训练计划，并持续跟踪训练进展。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0",
+    "name": "Breethe Meditations Made 4 You",
+    "sourceHash": "c13e7850125af2bbea30246d8b3d3e3d2eaae762680ca25cdc34d5a675e33749",
+    "summary": "即刻生成个性化冥想",
+    "description": "Breethe Meditations Made 4 You：个性化引导冥想\n\n根据你的输入，创建个性化的 10 分钟引导冥想音频。\n\n描述一种情境、活动或意图，Breethe 就会生成符合你需求的引导冥想。无论是准备进行重要对话、睡前放松，还是在忙碌的一天中稍作休息，此应用都会为当下情境创建相应的冥想练习。\n\n主要功能：\n- 实时生成定制冥想\n- 支持放松、睡眠和专注\n- 固定为 10 分钟，保持一致且便于使用\n\n当你想短暂休息、调整状态时，Breethe Meditations Made 4 You 提供一种简单的方法，随时创建引导冥想练习。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef",
+    "name": "Inner Sanctum SAGE",
+    "sourceHash": "c33e220d2599cb6e76d40cfe70d16300a41fc0947ca02b854e8c34d97d8fe455",
+    "summary": "梦幻橄榄球阵容决策",
+    "description": "SAGE 利用 Inner Sanctum 的排名和分析，帮助梦幻橄榄球玩家做出每周阵容及选秀决策。比较球员以决定首发、替补或灵活位置安排，查看每周各位置排名，获取已关联联赛的阵容建议，评估单个球员，并根据计分规则和阵容情况获取选秀前景分析。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996",
+    "name": "Trace",
+    "sourceHash": "b4d00acb19f61a926baa4788cd526d769c2a930337b1b104d08a942c1b57453f",
+    "summary": "AI 原生企业技术画像",
+    "description": "Trace 为智能体提供结构化数据，说明企业使用哪些技术、与谁合作，以及正在招聘哪些人员。询问任意企业的技术栈、集成生态或近期招聘信号，Trace 就会返回结构化答案。创建列表以持续监测变化。适用于客户研究、市场分析、竞争洞察，或发现企业何时采用新工具或建立新合作关系。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_connector_690a9430a270819196671dcb4c95898e",
+    "name": "Hex",
+    "sourceHash": "ab38221f5ee2336baf2c0ac262f1f609b4858aa67ee7ab554c7e52c5975eb22c",
+    "summary": "提出问题并开展分析",
+    "description": "使用 Hex Agent 解答数据问题，并开展新的分析。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a",
+    "name": "MediPrep Study Navigator",
+    "sourceHash": "a45783c636c5e5ed4d95329e08ef38d978c5b0efa485daf5caf847681b4691f8",
+    "summary": "将课程映射为学习路径",
+    "description": "MediPrep Study Navigator 帮助医学生将课程和学习主题转化为经过审查、来源合规的学习路径。ChatGPT 分析学习者提供的文件，仅向 MediPrep 发送简短的医学概念短语；MediPrep 返回配套的视频元数据、在可用时提供经权利许可共享的 UWorld 题目 ID、公开参考资料，以及由人工发布的 MediPrep 练习。MediPrep 不会接收上传的文件或专有题目的正文。第三方产品名称仅用于描述；MediPrep 与这些名称的所有者不存在关联，也未获其背书。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70",
+    "name": "Descrybe Legal Engine",
+    "sourceHash": "b6452370ca9f8184de997fdc19c6ad2f90d3743d95e01768b555247d15b2e055",
+    "summary": "原始法律资料研究工具包",
+    "description": "Descrybe Legal Engine 将美国原始法律资料研究工具带入 ChatGPT。可用于检索法律依据、解析引注、获取案件详情和来源原文段落、检查后续判例如何对待该案及哪些法律资料引用了它，并核实所引用的法律表述。它帮助法律专业人士和严谨的法律研究者，从问题出发找到可阅读、可核验的原始法律资料。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4",
+    "name": "HadithDB",
+    "sourceHash": "9defa8c05fb11a4cfd648ba47067b528475f83a0c2a945f74fbbc7ccdc458457",
+    "summary": "搜索《古兰经》、经注和圣训",
+    "description": "搜索并获取《古兰经》经文、经注解说、圣训搜索结果及详细圣训记录，包含阿拉伯语和英语文本、来源标题、可靠性等级及权威链接。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699",
+    "name": "PartnerProf - Quanntum Core",
+    "sourceHash": "0770e3fe266d1695d2e8be54c244ab26642b86ad859cf35d41937a06c36893e5",
+    "summary": "评估状态可行性",
+    "description": "PartnerProf 是一种独特工具，为一个基本问题提供确定性答案：在高维空间中，由高度复杂的依赖关系和约束支配的局部定义现实内，是否至少存在一个可行状态？\n\n在为复杂计算或量子问题投入资源前，PartnerProf 可以确定：在当前定义的条件下，所需状态、结果、转换或下一步是否根本可行。\n\n输入和由此产生的输出均可获得认证，而被判定为可行的状态保持确定性、可复现性和完全可审计性。\n\nPartnerProf 支持评估量子及高维状态空间问题，否则这些问题在计算上可能难以实际处理，其中包括某些即使在当前量子硬件上也可能仍难以求解的模拟类型。\n\n面临重大且成本高昂的决策，或规划实验、测试系统、探测器、原型或复杂技术配置时，PartnerProf 让你在投入资源实现目标前，先验证预期状态在所定义的现实内是否确实可行。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a88631af75081918917d89fb00269ad",
+    "name": "Rowan",
+    "sourceHash": "ef0ee644602ca00eedf1e6f59b1445bd6a639d2354f3e91c943f0a157150b453",
+    "summary": "化学与生物学模拟",
+    "description": "在 ChatGPT 中使用 Rowan 运行和管理计算化学及结构生物学工作流。预测分子性质，搜索构象和反应路径，并通过量子化学计算能量、结构、光谱及电子性质。准备蛋白质，并运行结构预测、分子对接、分子动力学和结合亲和力工作流。计算结果保存到 Rowan，可在其 Web 应用中访问；已有的 Rowan 工作也可通过 ChatGPT 查看和管理。跟踪任务、检查结果，并下载受支持的文件。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba",
+    "name": "PeptidePrices COA Verifier",
+    "sourceHash": "0f5812a51ea5414d09b7cb41b8e9ceb282460b1b9ac1d448f00a3db2b31d025c",
+    "summary": "核验肽类 COA 证据",
+    "description": "利用 PeptidePrices 证据库及受支持的实验室记录，搜索和检查公开的肽类分析证书（COA）。查找精确的报告编号或公开证书 URL，查看供应商和化合物的匹配情况，检查报告中的检测项目，浏览供应商发布的证书列表，或比较不同供应商有记录支持的 COA 覆盖情况。结果会分别呈现实验室记录确认、供应商归属、产品及标签标示含量或浓度的匹配、报告中的分析结果，以及实体样品瓶的保管交接链。缺失、访问受阻、不受支持或尚未解决的记录仍标为未知，不会被视为核验失败。每项结果都包含结构化证据，以及指向 PeptidePrices、证书文件和具体官方实验室记录（如有）的链接。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a54f7589a18819194670b479e14137c",
+    "name": "Above Security",
+    "sourceHash": "3d49ad84553e4f18054d7cc3b546e69260e6735666345d38f2c24136646c40e2",
+    "summary": "调查内部威胁",
+    "description": "Above 将你的身份安全数据带入 ChatGPT。使用日常语言列出未结事件和高风险身份，检查事件时间线、证据及洞察，查询设备、受监控应用和审计日志，并在整个租户范围内执行调查搜索。还可以在聊天中分诊处理：设置事件状态、判定结果和解决备注，或将某个身份加入观察名单。访问需要 Above Security 账户，范围受你的角色和公司限制；读取和写入均受明确的 OAuth 授权约束。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446",
+    "name": "Bitdefender",
+    "sourceHash": "d0d55dad7988fe2503638a4fb4ca756a0510332886d455114fe159e319d0ca0b",
+    "summary": "免费的数字安全工具",
+    "description": "Bitdefender 插件提供一组免费工具，帮助用户避开恶意软件、网络钓鱼和仿冒网站，包括：\n- 链接检查器\n- 电话号码\n- 密码生成器\n- 数字足迹检查器\n- 产品推荐",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9",
+    "name": "Safeguard",
+    "sourceHash": "c88bf46381dc8f1596d2358e0a6cd0c435c936293fcf6b72be80b471cba5bb49",
+    "summary": "保障软件供应链安全",
+    "description": "Safeguard 帮助用户通过 ChatGPT 检查软件供应链风险，涵盖漏洞、软件物料清单（SBOM）、发现项、项目、组件、策略、防护规则、合规报告、修复计划、源代码管理（SCM）集成、通知和组织工作流。",
+    "model": "codex-direct-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c",
+    "name": "TiCATi",
+    "sourceHash": "a43da17f9eecfbb3ab0ac782fa9424d217ed8c0cad9b2231022df159e8da1673",
+    "summary": "预订酒店与邮轮",
+    "description": "TiCATi 是精选奢华旅行平台，与酒店直接签约，并提供专属宾客礼遇。搜索全球数千家酒店，即时获取以你的货币显示的实时客房余量和价格，并探索精选邮轮航程，享受专属船上消费额度和 VIP 服务。\n按名称询问酒店，TiCATi 就会立即返回实时报价，无需登录。可通过 WhatsApp 联系私人礼宾，处理预订、升级和特殊需求。",
+    "model": "codex-direct-reviewed"
+  }
+]

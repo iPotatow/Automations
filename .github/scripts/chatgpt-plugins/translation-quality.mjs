@@ -9,7 +9,7 @@ export function parseModelOutput(result){
  return JSON.parse(value.trim().replace(/^```(?:json)?\s*/,'').replace(/\s*```$/,''));
 }
 const rules=[
- [/\bpositions\b/i,/持仓/, 'positions'],
+ [/\bpositions\b/i,/持仓|头寸/, 'positions'],
  [/\bopen orders\b/i,/未(?:成交|结|完成)|挂单/, 'open orders'],
  [/\bdropship(?:ping)?\b/i,/一件代发|代发货/, 'dropship'],
  [/\bprint on demand\b/i,/按需(?:印刷|打印)/, 'print on demand'],
@@ -19,16 +19,25 @@ const rules=[
  [/\bfree (?:plan|tier)\b/i,/免费/, 'free plan'],
  [/\bno credit card required\b/i,/(?:无需|不需要|不用|不需).{0,6}信用卡/, 'no credit card'],
  [/\bread.only\b/i,/只读/, 'read-only'],
- [/\b(?:confirm|confirmation|approval)\b/i,/确认|批准|审批|核准/, 'confirmation'],
- [/\b(?:requires?|required|requirements)\b/i,/需要|需|要求|必须|须/, 'requirement'],
- [/\b(?:credits|paid|pricing|costs?|fees?)\b/i,/积分|额度|点数|付费|价格|定价|费用|收费|成本|消耗/, 'cost'],
+ [/\b(?:confirm|confirmation|approval)\b/i,/确认|批准|审批|核准|获批|证实/, 'confirmation'],
+ [/\b(?:requires?|required|requirements)\b/i,/需要|需|要求|必须|须|必填|必要/, 'requirement'],
+ [/\b(?:credits|paid|pricing|costs?|fees?)\b/i,/积分|额度|点数|付费|价格|定价|报价|费用|收费|成本|消耗|缴税|税费|支付|付款|收款|年费|保费|手续费|花费|多少钱/, 'cost'],
  [/never submits orders directly/i,/(?:不会|从不|绝不).{0,12}(?:提交|下单)/, 'no direct orders'],
 ];
 export function checkCompleteness(source,target){
  if(typeof target!=='string'||!target.trim())throw new Error('Empty translation');
- for(const [input,output,label] of rules)if(input.test(source)&&!output.test(target))throw new Error('Translation missing or mistranslating '+label);
+ for(const [input,output,label] of rules){
+  const checked=label==='cost'?source.replace(/\b(?:get|getting)\s+paid\b/gi,''):source;
+  if(input.test(checked)&&!output.test(target))throw new Error('Translation missing or mistranslating '+label);
+ }
  for(const brand of ['Notion','Canva','Shopify','HubSpot','SIPC','Windsor','IBKR','AAPL','Codex'])if(new RegExp('\\b'+brand+'\\b','i').test(source)&&!target.toLowerCase().includes(brand.toLowerCase()))throw new Error('Translation lost protected name '+brand);
- for(const token of source.match(/https?:\/\/[^\s<>]+|[\w.+-]+@[\w.-]+\.[A-Za-z]{2,}|\b\d+(?:\.\d+)?\b/g)||[]){if(!target.includes(token))throw new Error('Translation lost protected value '+token);}
+ for(let token of source.match(/https?:\/\/[^\s<>]+|[\w.+-]+@[\w.-]+\.[A-Za-z]{2,}|\b\d+(?:\.\d+)?\b/g)||[]){
+  if(/^https?:\/\//.test(token)){
+   token=token.replace(/[.,;:!?]+$/,'');
+   while(token.endsWith(')')&&(token.match(/\)/g)||[]).length>(token.match(/\(/g)||[]).length)token=token.slice(0,-1);
+  }
+  if(!target.includes(token))throw new Error('Translation lost protected value '+token);
+ }
  if(/[讓與實體為這個權帳]/.test(target))throw new Error('Translation must use simplified Chinese');
  return target;
 }
