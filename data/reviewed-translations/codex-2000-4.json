@@ -1,0 +1,674 @@
+[
+  {
+    "id": "plugin_asdk_app_69b9a9c06d3c8191b90a5df8c2e929f2",
+    "name": "Buson",
+    "sourceHash": "b1351337aa8056b4e7cdf26aed654c0f20cba60eb9166f7ccfca591aea365470",
+    "summary": "巴西巴士票",
+    "description": "在巴西乘坐巴士出行的最简单方式。\n\nBuson 帮助你查找并购买巴西各地的巴士票。比较主要巴士公司的线路，快速、轻松地选择最适合行程的方案。\n\n在 ChatGPT 中使用 Buson，你可以：\n• 查看巴西数百家巴士公司的时刻表\n• 查询实时价格、座位情况和车上设施\n• 查找行程中最便宜或最快的选项\n• 一目了然地查看关键信息：巴士公司、价格、时长和出发时间\n\n旅客选择 Buson 的原因：\n• 覆盖巴西全国，连接各个地区的城市\n• 汇集 Cometa、1001、Catarinense、Util 等值得信赖的巴士公司\n• 价格清晰、有竞争力，没有意外费用",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d990b0230c81919efce81df4e4bac9",
+    "name": "ButlerBrain",
+    "sourceHash": "78286c4f7dc665b36bae5013193fdb58aff9e5a46cc0e6b60bb4b7d4202c9cec",
+    "summary": "无限智能记忆",
+    "description": "ButlerBrain 为你的 AI 提供持久记忆。保存想法、搜索笔记、抓取网页、管理日历活动和上传文档，并可在任何 AI 助手中访问。你的大脑可与 Obsidian 等多种工具原生集成，每条记忆都可通过语义搜索查找。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa99efe80b48191a87d2cc21193994e",
+    "name": "Butter (Beta)",
+    "sourceHash": "853b9ced1306ed8b28f98e485446c26cbc0fbf46b29e3989c4a6ff805e820731",
+    "summary": "制作可编辑视频",
+    "description": "Butter 是一款视频编辑器，让你和团队借助 AI 协作。Butter MCP 可以调取你的素材和上下文，帮助你制作具有专业动态效果的广告。你可以在浏览器中继续编辑任何 Butter 项目，并保留完整的手动控制权：修改文案、在画布上移动元素、在时间线上调整时长等。借助 AI 加快工作，同时始终掌控成品，不牺牲质量。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cbfe8a08cc819189985005d12166e1",
+    "name": "Bytetravel",
+    "sourceHash": "a71d69f528861c55edf8e5d21cbf2d174c327472f375c0265c1dc9d28c90c745",
+    "summary": "保险、eSIM、签证和 VIP 服务",
+    "description": "ByteTravel 通过旗下专业子品牌，将现代旅行者所需的核心服务整合为完整的旅行生态系统。从 Roamic eSIM 提供的即时全球联网、Visagov 提供的便捷签证办理，到 PrioVip 的专属机场贵宾室服务和 Globely 的高端旅行保险，ByteTravel 将所有服务整合在一个优质界面中。该平台充当发现中心，让用户比较并使用这些专业工具，确保每次旅程都能保持联网、得到保障并舒适顺利。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694a040432f481918c9a1f992de6946c",
+    "name": "Cafe24",
+    "sourceHash": "67806a05cd5d21703c88021366cd33bcf565e8d6231e1697c2fc9e8e9766d81e",
+    "summary": "搜索、探索并购物",
+    "description": "像给朋友发消息一样轻松地搜索商品。\n只需告诉我们你想要什么——款式、价格、店铺等——我们几秒钟内就能帮你找到。\n让购物变简单，这本该如此。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a30fe8c7da88191a4d5feacb465e3a2",
+    "name": "Caipi",
+    "sourceHash": "61039ed52bb7d3a4c1014a61a369aa0487bf9ef9018505f0309053926838cb99",
+    "summary": "面向智能体的工作空间",
+    "description": "Caipi 是一个由 AI 助手构建内容的私密工作空间。笔记、数据、仪表盘、完整页面，甚至小型 Web 应用，都可以由你的智能体直接创建和更新。你可以在任何设备上管理和使用这些内容，而不只是阅读。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a821a02f1848191acb4db6f1e61166f",
+    "name": "Cal Plus",
+    "sourceHash": "ae65cbb081e3212b5372fbabe4ce9f02328dfd957d09da1d62d91c59e0df7680",
+    "summary": "个人营养教练",
+    "description": "Cal Plus 是一款 AI 卡路里追踪器和教练。连接你的 Cal Plus 账户后，你可以用日常语言向 ChatGPT 查询自己记录的数据：任意时段的营养状况，以及它与卡路里、蛋白质、碳水化合物和脂肪目标的对比；某一天吃了什么；上次记录某种食物的时间；已连接健康应用中的步数和活动能量；训练频率、训练量和规律性；体重变化趋势与目标的对比；习惯连续记录情况；以及你要求 Cal Plus 记住的饮食限制、过敏情况和偏好，让建议能够遵循这些要求。需要有效的 Cal Plus 订阅。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5fadc929c081918a3bdc5543120088",
+    "name": "Cal.com",
+    "sourceHash": "0ef742fb4d3596912d2cbe127c32f53715e1c48112ab68baf02cc75991a26a39",
+    "summary": "安排和管理会议",
+    "description": "Cal.com 帮助用户浏览个人和团队活动类型、查找考虑时区的可预约时段，并通过 ChatGPT 查看、创建、改期或取消普通预约。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6f98aa999c819186ebb24ce0c78afb",
+    "name": "CalcForms",
+    "sourceHash": "89815cdbd56ee7bb9bdb30f466ccc420867d232f053c11b85ecd721d7fcef5f0",
+    "summary": "构建并发布计算器",
+    "description": "CalcForms 可将工作簿规格或自然语言描述转换为可计算的表单，让用户测试并发布表单，还提供私密仪表盘，用于管理提交内容、邀请、导出和账户设置。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d7f67021c88191bb8aac736eff6cb3",
+    "name": "Calendly",
+    "sourceHash": "f58a6578a289cf0690977324c0d3ccc527f35ae584dbe23aebe797f55fda6215",
+    "summary": "管理预约和可用时段",
+    "description": "将 Calendly 接入 ChatGPT，通过简单提示执行日程安排操作。创建和更新活动类型、生成预约链接、调整可用时段、预约或取消会议等，均可直接在 ChatGPT 中完成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a05e8f22d408191b13ba3897157f6df",
+    "name": "Caliber",
+    "sourceHash": "134c83142bd195a835075c73a0a7b668292cded4a8ba687f2557b5d7e6ac4ca3",
+    "summary": "分析你的健身数据",
+    "description": "直接在 ChatGPT 中分析 Caliber 记录的训练、营养、身体指标、个人纪录和训练计划。绘制进度图表、查看趋势，并获取清晰的健身数据摘要。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a54f48500048191962a1b2501712ed0",
+    "name": "Calio",
+    "sourceHash": "2460ba5c841669ad8cf8ff4643eec391637d028fc6df844007455023b604b0eb",
+    "summary": "食谱和用餐灵感",
+    "description": "Calio 帮助你从其已发布的食谱目录中寻找用餐灵感。你可以按现有食材、餐食类型、卡路里范围、饮食偏好或需要排除的食材进行搜索，然后查看本地化的食谱详情和预估营养数据。\n\n此应用匿名且为只读，不会访问 Calio 私人账户、用餐记录、目标、收藏、账单数据或用户专属合集。\n\nCalio 仅提供一般营养信息。它不会诊断疾病、治疗疾病、提供用药指导，也不能替代专业医疗建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7afefe32d88191bb6c2d4f1477c628",
+    "name": "Call Me",
+    "sourceHash": "3a8d6492be58cad75656fe8f5cf8c6c7ee7e4347f07cc86776b690cfabf5ef14",
+    "summary": "打电话向真人寻求答案",
+    "description": "Call Me 可让 AI 智能体拨打真人的电话，口头提出问题，并将对方的口头回答以文本形式返回。智能体也可以发送消息、接收回复，并将每项任务整理为一个对话线程。内置演示专线（号码 5550001234）会自动接听电话和短信，因此无需安装手机应用即可体验完整流程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b5c48a72348191b3ad5abf6ec5dbfb",
+    "name": "Calorie Tracker",
+    "sourceHash": "eb3a0e4951e54c3b77069f95ac2535d27101a11a30d6695fbb92032ae15c7bf0",
+    "summary": "记录饮食和卡路里",
+    "description": "Calorie Tracker AI 帮助你轻松记录餐食、追踪卡路里并了解饮食习惯。只需输入吃了什么，应用就会估算卡路里和营养素，让你无需手动计算也能了解每日摄入量。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d5b483b1648191b898e649c63120d5",
+    "name": "Calorie Tracker Guide",
+    "sourceHash": "a87ebf9546cac4be9a94540e93ebc194afa274f64ee7ab8ddcc2c31a60e27393",
+    "summary": "找到合适的卡路里追踪器",
+    "description": "Calorie Tracker Guide 帮助你根据具体需求找到理想的卡路里追踪器。我们已人工评测、测试并验证 120 多款应用，并为其功能评分，确保提供尽可能好的建议。根据你的个人目标、经验水平和具体要求，为你推荐合适的应用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c320d803048191bc2682ea9ff3e5fa",
+    "name": "CalorieCam",
+    "sourceHash": "26eaa165a6ec05d79b89d6da741dd46af29a51d3a25e41ecced32f19aff14392",
+    "summary": "个性化营养计划",
+    "description": "如果只需发送一条消息就能找到理想的卡路里目标，会怎样？获取根据你的身体状况、时间安排和生活方式量身定制、以科学为依据的数据。\n\n只需告诉我你的目标，或问“我需要摄入多少卡路里才能减重？”，即可生成个性化营养计划。\n\n将建议付诸行动。把自定义目标直接同步到 CalorieCam 应用，立即开始追踪进度。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_696ccd5e83948191a9f85f135cd84746",
+    "name": "Calories Club",
+    "sourceHash": "bf076d2d5f863c0da8114a4bd5df8ee3ce5f15b45069cda62289d939396ea7b8",
+    "summary": "追踪餐食和营养",
+    "description": "Calories Club 帮助用户通过 ChatGPT 记录餐食、查看每日营养、搜索食物历史、扫描条形码，以及记录身体或饮水测量数据。这些工具会在用户账户中创建和更新私密食物条目，返回每日卡路里和宏量营养素摘要，并显示便于检查的餐食记录和进度小组件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7eac0f20c081918f11ac22f08632d8",
+    "name": "Camber",
+    "sourceHash": "bbe957980e07c4fa55a9f45e6a9464ac8875b6002b2ad41fe2f88d7e9f9bd5cf",
+    "summary": "构建并运行数据智能体",
+    "description": "Camber 让用户可以直接在 ChatGPT 中管理账户和工作空间、发现或创建智能体，并启动和监控智能体运行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a476c754fb88191b0f53b1764d0b032",
+    "name": "Cambiante: Content Manager",
+    "sourceHash": "ff8cd78c0ba12c01cfaebcad88cd8ead5b277644e2a577e44ed84fd8561f33b8",
+    "summary": "管理 LinkedIn 帖子",
+    "description": "Cambiante LinkedIn Content Manager 帮助租户工作空间创建 LinkedIn 草稿、附加生成的图片、审阅内容、批准或拒绝帖子、安排帖子发布、明确发布已批准的内容，并通过 ChatGPT 查看审计日志和分析数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1edd377bd48191b0cb8d7f358c2e22",
+    "name": "Campiri",
+    "sourceHash": "21ca0b67052edea223670e9ea10552d9b15d3603c9e34a41366fe6db22047444",
+    "summary": "租用露营车或房车",
+    "description": "Campiri 帮助你在 ChatGPT 中为旅程找到合适的房车。只需输入日期、地点、旅行人数和偏好，应用便会让你更轻松地浏览可选车辆。这样，你就能快速判断哪辆车适合度假、周末短途旅行或更长的公路之旅。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a134cb486308191b4cc0ad3f279a09e",
+    "name": "CampusThreads",
+    "sourceHash": "c199cce7ac297a115f517ea9c1665759a44b710a41b617fc49897b33b44f3a1e",
+    "summary": "开展校园大使运营",
+    "description": "CampusThreads 帮助组织管理员开展大使项目：查看运营情况、协调活动和班次、管理任务和资源、与大使及潜在成员沟通，并配置工作空间。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69645b8c8f0c8191b5d2281e2d22dc1c",
+    "name": "CamScanner",
+    "sourceHash": "6e626f746e65940684d45906dc07b638be379297e39de30fa602ebd13418eb7e",
+    "summary": "OCR 并提取文本供 AI 使用",
+    "description": "CamScanner for ChatGPT 可无缝衔接纸质文档与数字智能。上传并扫描任意图像、识别其中的文字；通过 OCR 提取高精度数据，供 ChatGPT 分析、总结或翻译；还可一键捕捉手写或印刷内容。你也可以将复杂照片转换为结构化文本，立即交由 AI 处理。适合学生、专业人士，以及任何希望快速、可靠地将图像转换为文本、无需打开其他应用的人。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f3b47a700c8191b66f048b7c7ba3cd",
+    "name": "Camtasia",
+    "sourceHash": "6139dd85eb5eb3bf7f4403bd720e72f9f9da23aa8085061338e22289c313ce2a",
+    "summary": "从屏幕截图制作视频",
+    "description": "Camtasia 只需一张屏幕截图，就能生成清晰易懂的操作指南视频。几秒钟内即可将一张或多张截图转换为带旁白的教学视频。最终视频会将脚本说明与光标动画及其他转场功能结合起来，包括缩放和平移效果，以支持学习效果。\n\n借助 Camtasia 的生成式录屏功能，你只需一张截图和一条提示，就能制作培训视频。解释流程、说明工作步骤或创建软件演示。无需视频编辑或录屏。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa2cf83fd1c8191955cb5416baa54a2",
+    "name": "Canarics",
+    "sourceHash": "f689323272e4ba6984fc5bdc029b51296e452229834d774e7520da1177771faa",
+    "summary": "AI 电话呼叫与分析",
+    "description": "Canarics 为销售和服务团队运行 AI 语音智能体，负责接听和拨打电话，并分析每通录音的真人通话（摘要、质量评分、情绪、后续步骤）。此连接器允许团队的 AI 助手读取分钟用量、语音智能体、通话摘要、AI 智能体对话和每日统计数据，查看与特定来电者的历史记录，并请求回拨团队已认识的客户。尚无账户的公司可以通过助手注册：注册后会生成一个认领链接，由真人通过短信验证手机并接受条款，之后即可启用试用，并根据公司网站生成演示语音智能体。托管于欧盟（Google Cloud Run，europe-central2）。关键功能按设计为只读：不提供通话转录文本、语音智能体提示词编辑或陌生电话外呼能力。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5a1e1c646881919ea3a47685739b06",
+    "name": "Când Reciclăm",
+    "sourceHash": "68f68e3fa58ad987fdb7ed3f092d11dc39625e2e85a72977c3dde1e434d4e29b",
+    "summary": "布加勒斯特回收收集日程",
+    "description": "“我住的这条街什么时候收玻璃？”只有在运营方公布相关信息时，这个问题才有确切答案。Când Reciclăm 为布加勒斯特居民提供按地址查询的真实收集日历：第 1 区的日历（以及第 2 区的生活垃圾日历）取自运营方的官方发布，每条记录都附有来源链接。对于不公布按地址日程的区域（第 3–6 区），它会透明说明情况：各运营方公布和未公布哪些信息，以及居民实际可以通过什么途径查询（调度电话、收集点、合作应用），并附上来源链接和核验日期。实用分类指南涵盖较难处理的物品：电池、废食用油、药品、电子废弃物、大件物品、纺织品和 SGR 押金返还物品，并提供具体投放点。免费，无需账户，没有广告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1e83d5e44481919b58672417355d95",
+    "name": "Candidate Time Extractor",
+    "sourceHash": "8a3b1a147f516a7e78ac298df1f8f76cdd2e96cf724d095c210b0398dd0f2fa1",
+    "summary": "提取面试时间",
+    "description": "Candidate Time Extractor 将候选人的可用时间消息转换为结构化的面试时间信息。它会提取可用时段、时区、联系信息、备注、缺失字段、源文本和错误，帮助招聘流程更快地整理候选人的回复。\n\n此应用为只读且无状态。它不会安排面试、发送邀请、联系候选人、更新 ATS 系统、给候选人排名或做出招聘决定。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69813e58fbf8819183685137c1baf306",
+    "name": "Canny",
+    "sourceHash": "6e2204e6ad76b2a07d7e727409145bec3dc8b6624dad780483abdeaa6afbe687",
+    "summary": "收集并分析反馈",
+    "description": "Canny 应用将 ChatGPT 连接到你的客户反馈数据。借助它发现洞察、采取行动并保持条理。\n询问有关反馈的问题：\n- 按 ARR 排名，我最重要的功能请求是什么？\n- 企业客户最常提出什么要求？\n- 产品团队上个季度发布了什么？\n收集并分类反馈：\n- 发送通话转录文本或支持工单，Autopilot 会自动收集、去重并分类反馈\n- 将反馈归因到特定用户和/或公司\n- 将 Salesforce 商机或 HubSpot 交易关联到创意\n管理产品路线图：\n- 确保反馈得到整理，方便团队访问\n- 创建和更新视图，以查看经过筛选的反馈列表\n- 更新状态和其他自定义字段，让团队和客户及时了解进展",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa8f50e6c08819193f78cc0718ac82f",
+    "name": "CanQuiz",
+    "sourceHash": "7e36e2f2971eed25964ee971fac4be1949c75d694dcfb6142e5d2afad8850633",
+    "summary": "保存并复习测验",
+    "description": "CanQuiz 会将 ChatGPT 为你编写的测验保存到你的账户，帮助你持续复习直至考试。\n\n让 ChatGPT 根据你的笔记或某个主题出一份测验。ChatGPT 编写题目，CanQuiz 会检查并将其保存到你的账户，同时提供链接。这样测验就不会遗失在对话中。\n\n你可以提出以下请求：\n\n“将这份测验保存到 CanQuiz”：系统会保存测验并提供链接。\n“显示我的测验”或“打开历史记录那份”：系统会列出测验或显示其中一份。\n“修改第 4 题”：系统会修改该题，其他题目保持不变。\n“把它加入我的复习”：CanQuiz 会在合适的日期重新安排复习，帮你牢记内容。\n“我今天需要复习什么？”：系统会一次提问一道，不显示答案。CanQuiz 会判定答题情况，并决定每道题何时再次出现。\n“给我打开它的链接”：系统会带你进入 CanQuiz 中的测验，不会与任何人分享。\n“给我班级用的链接”：系统会通过链接分享测验，可在 ChatGPT 之外的任何浏览器中打开。\n“重新设为私密”：持有链接的人将无法再打开测验。\n“删除这份测验”：确认后即可删除。\n测验归你所有：你也可以在 app.canquiz.com 中参加、复习、分享或下载测验。你可以随时在“设置”的“已连接的应用”中移除 ChatGPT 的访问权限。\n\n需要 CanQuiz 账户，账户免费。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6989ee369df08191bd330f96a070f652",
+    "name": "Canvs.io whiteboard",
+    "sourceHash": "172d39b86b099c6b3a5f804ac475dc66623aabf20d924186db062edc40c5993b",
+    "summary": "图表、思维导图等",
+    "description": "Canvs 帮助用户在 ChatGPT 中创建和编辑协作式白板。该应用可根据形状布局或 Mermaid 图表生成新白板、检查现有白板元素，并在用户的私密 Canvs 工作空间中更新或删除已保存的画布内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d68bc1583481919f72c9f8c9344bf3",
+    "name": "Capacities",
+    "sourceHash": "65e586a315333554876eca9cd2a498d6df054cd19dd382dabf0bda82f2de8b22",
+    "summary": "访问个人知识库",
+    "description": "Capacities 将互相关联的笔记与结构化数据汇集在一起，让你关心的一切都成为一个对象：可以是某个人、正在阅读的书、正在开展的项目，或想要探索的想法。对象具有结构、属性和关联，逐渐构成不断生长的思想网络。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a44d109dddc81919a832d4690c8b4f3",
+    "name": "CapMind",
+    "sourceHash": "1d6946e3c4720f9ae344ba230afbe4f48c05a6730714756e64bfc46008cf47e9",
+    "summary": "搜索 Capmind 录音",
+    "description": "Capmind 将你的个人录音和会议智能功能连接到 ChatGPT。\n\n使用 Capmind 搜索过往录音、获取转录文本和摘要、查看关键决定，并查找保存在 Capmind 账户中的对话待办事项。\n\nCapmind 仅访问经过身份验证的用户所属的数据。此应用为只读，不会代表用户创建、编辑、删除、发布或分享录音。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9edf1829d481918a943ddb5f3c8457",
+    "name": "Capsule CRM",
+    "sourceHash": "763aa487d0cc1998be7c1c4355e6dc27ec6ec4ccd865c7fe2f89ee38222dae80",
+    "summary": "即时获取客户洞察",
+    "description": "在 ChatGPT 和 Codex 中直接与 Capsule CRM 对话。用日常语言询问应该跟进谁、查找联系人、查看销售渠道、准备会议，或快速获取重要事项的报告。\n\n你还可以请求更新联系人、商机和项目中的自定义字段。ChatGPT 和 Codex 会使用你的 Capsule 实时数据，并遵循你现有的权限。\n\nGrowth 及以上套餐可用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7af5a14a408191b9c890ccacd8ebde",
+    "name": "Car Handshake",
+    "sourceHash": "27790812a41ce867c6827188e3a5181746f9b06b64f3ef1a7854cf27e1f0656d",
+    "summary": "查找并比较在售汽车",
+    "description": "通过 Car Handshake 寻找下一辆车。在美国以及加拿大魁北克省以外的支持地区，搜索参与合作的经销商提供的新车、二手车、认证二手车、SUV、卡车、混合动力汽车和电动汽车。\n\n告诉 ChatGPT 你的预算、城市或地区、偏好的品牌和车型、里程上限，以及必备功能，例如四轮驱动、第三排座椅、加热座椅或 Apple CarPlay。浏览匹配的车辆信息、查看公布的价格和库存情况、确认库存更新时间，并打开来源车辆页面。你可以根据自己关注的细节并排比较 2 到 4 辆返回的汽车。\n\n查找参与合作的经销商门店和公开的联系信息。如果你选择提出试驾申请、询问车辆情况或请求置换估价，系统会先明确确认要发送的内容以及所选经销商可以如何联系你。申请不代表预约、预订、估价或购买已获确认。\n\n服务范围仅限参与合作的经销商；库存和价格可能变化。搜索结果会说明覆盖范围及任何地域扩展情况。Car Handshake 帮助你选购可售车辆信息，不提供融资审批、保险、维修或车辆历史报告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a95acc07f7c8191a5c388eadf4258ad",
+    "name": "Car Shipping",
+    "sourceHash": "6d757ebd0165b17161d97d6389314199cd0808d679ab3be7d4d695189015586f",
+    "summary": "规划车辆运输",
+    "description": "Car Shipping 帮助用户规划车辆运输、比较大致的汽车运输估价、了解开放式与封闭式运输等选项，并联系运输服务商获取正式报价。估价会明确标注为规划参考数字，服务商链接也会说明是否可能属于付费联盟链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a94efba550881919f5e51d81d7e5374",
+    "name": "Carat",
+    "sourceHash": "4ca8c7d4f5b9dc03bad15a232ca2c4952c6bc84013f538ef734a23b010ecc73c",
+    "summary": "创建 AI 图像和视频",
+    "description": "直接在 ChatGPT 中创建图像、视频、音频、品牌素材和社交内容。从一个想法或参考文件开始，使用 Carat 在同一段对话中规划、生成、审阅、编辑并导出作品。\n\n借助 Carat，你可以：\n\n• 根据文本或参考媒体生成图像和视频。创作肖像、插画、产品视觉图、电影感场景、社交内容和广告素材，或将静态图像转换为视频。\n• 创建产品和品牌内容，包括产品照片、营销活动视觉素材、短视频广告和成套社交素材。\n• 编辑并转换现有媒体。上传文件进行分析、提升图像分辨率、创建变体，并通过对话优化结果。\n• 为创意项目生成和处理音频。\n• 在编辑前检查图像、视频和音频。分析上传内容及其技术元数据，以选择合适的源素材和工作流程。\n• 在 Carat Studio 中构建和修改视频项目。编辑时间线、预览更改并导出完成的视频。\n• 在聊天中查看生成结果，并在此前创作的基础上继续完善，无需从头开始。\n\n描述你想制作什么，并附上所需参考素材。从单张图像到多步骤视频项目，都可以在同一段对话中规划、创作并持续完善。\n\n连接你的 Carat 账户即可开始。无需单独的 API 密钥。生成内容使用与 Carat 平台相同的额度余额。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2432ff1a688191b169018245375da2",
+    "name": "Career Adapter",
+    "sourceHash": "5d24fcfdbea16999cc50fca6f4229253162f3bfdff1a6f2052f00b5ce45cb5c8",
+    "summary": "根据任何职位定制简历",
+    "description": "当用户希望针对特定职位招聘信息调整、定制、改写、润色或优化简历，或希望获得应聘某个职位的帮助时使用。生成一份可下载、格式专业的 PDF 简历，将内容改写为符合招聘信息要求的版本，并保存到用户的 Career Adapter 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0b917cef048191b0dcb52920aa014a",
+    "name": "Caretta",
+    "sourceHash": "4b39014581232760c6309fdac88292d4b4aee12b5188fd3d2c7a606fb65f5ad1",
+    "summary": "发掘销售通话价值",
+    "description": "Caretta 帮助用户查看销售通话、搜索通话转录文本和摘要、检查后续待办事项，并直接在 ChatGPT 中创建或更新私密待办事项。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698a017782908191a0e574444eec757b",
+    "name": "CARFAX",
+    "sourceHash": "87c8c8baaee4b2a32f6a44250c330baa806dd7d683a5eefed0499af9f30e4d98",
+    "summary": "选购新车和二手车",
+    "description": "通过 CARFAX ChatGPT 应用浏览新车、二手车和认证二手车。从豪华轿车到可靠的家庭 SUV，只需一次聊天即可找到所需车型！\n\n为什么选择 CARFAX？\n- 聊天选车：描述你理想中的汽车，应用便会推荐符合需求的车辆信息。\n- 价格洞察：查看价格和车辆历史信息，帮助评估选项。\n- 广泛的经销商网络：联系附近值得信赖的经销商。\n\n搜索示例：\n“在华盛顿特区附近找一辆没有事故记录的汽车。”\n“我在找一辆安全可靠、符合预算的汽车。”\n“我想找一辆适合带家人参加下次露营旅行的越野车。”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8fe0e4c28481919a6289d2a28e488a",
+    "name": "Cargo",
+    "sourceHash": "d895733f9024da75aacfa2dd1510b3425183af88e6bbb355252aac87fc4adeec",
+    "summary": "在 ChatGPT 中使用 GTM",
+    "description": "Cargo 是面向 AI 助手的 GTM 基础设施。连接此 MCP 服务器后，ChatGPT 可以操作你的 Cargo 工作空间：发现并运行 130 多种集成中的操作、执行工具和智能体、查询 CRM 和收入模型，以及读取团队已编写的操作手册和 ICP 背景信息。\n\n使用 OAuth 登录——无需粘贴 API 密钥。你的会话会绑定到一个工作空间，因此 ChatGPT 可以查看该空间中的集成、模型和额度。\n\n你可以在聊天中：\n• 搜索操作目录，并在运行前查看额度费用\n• 丰富人员和公司信息、查找 CRM 记录并调用原生平台操作\n• 对单条记录运行操作，或对多条记录批量运行\n• 查询工作空间模型（选择、联接、聚合）\n• 读取工作空间背景信息——ICP 定义、操作手册、评分标准——再采取行动，避免盲目猜测\n\n用日常语言提出请求。ChatGPT 会找到合适的操作，在适当情况下确认费用，并将结果带回对话。\n\n适合希望无需离开聊天即可从研究转向行动的 RevOps、销售运营和 GTM 工程师。多步骤工作流的构建或工作空间即代码操作仍应在 Cargo CLI 中完成——此连接器负责在对话中运行操作。\n\n了解更多：https://www.getcargo.ai/mcp",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694461b01ea081918268ff71a7face2b",
+    "name": "CarGurus",
+    "sourceHash": "0ce9a65df3ba3c5c528f4d1f79c71ccc68c339662e6c0178e0b6057c608afe49",
+    "summary": "查找、购买并研究汽车",
+    "description": "用日常语言描述你的需求，找到合适的新车或二手车。\n\n按照价格、品牌、车型或里程等具体条件搜索车辆信息，也可以描述更宽泛的需求，例如“雪天安全的汽车”“适合家庭的好车”或“可靠的通勤车”。\n\n浏览符合条件的车辆信息，查看高质量照片、完整车辆规格、安全信息和经销商详情。无论你是在比较不同选项，还是在缩小候选范围，此应用都能帮助你将实际需求转化为更有把握的购车决定。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5c9a91be788191b0cc9d4b7961ceb8",
+    "name": "Carhopp",
+    "sourceHash": "bbdc114f1dfbfe26e29376d6fd4a5113419cd6c0b95379cf92b1a34cf660dd01",
+    "summary": "比较全球租车选项",
+    "description": "Carhopp 可在全球范围内查找并比较机场、火车站和城市的租车服务。搜索主要租车公司和本地供应商的实时价格，按类别（经济型、SUV、厢式车、高端车型）、变速箱类型、价格和免费取消选项筛选，然后查看租车条件并前往服务商的安全预订页面。可以这样询问：“下周末在巴塞罗那租车”或“在戴高乐机场租一辆便宜的自动挡 SUV”。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a67a26316b88191860222f918d4ec54",
+    "name": "Carly",
+    "sourceHash": "ab46f4f70febdd1054790ca9c2ed786989734e4cf6aaf08de0eb73b97d85e9b9",
+    "summary": "电子邮件、CRM 和工作流",
+    "description": "Carly 是一款用于电子邮件、CRM 和重复性工作的行政助理。搜索并阅读 Gmail 或 Outlook 邮件，从你自己的邮箱或 Carly 的邮箱起草并发送回复，还可以通过文件夹、标签和一键退订整理收到的邮件。维护联系人和 CRM 记录、查找人员，并直接查询你自己的结构化数据。查看已连接日历中的空闲时段、创建或改期会议，并分享遵循实际可用时间的预约页面。构建在对话结束后仍会持续运行的工作流——例如晨间摘要、收件箱分类、定时跟进——然后在聊天中查看、编辑、运行和暂停这些工作流。Carly 还可处理待办事项、笔记、Drive 和 OneDrive 中的文件，以及可搜索的个人文档知识库。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7b4cb74cc48191b19566472f1c46a3",
+    "name": "CarMax Careers",
+    "sourceHash": "0324805a693fe872e76be42553503995a8539a227bbe6c4ce3a1ad264d896772",
+    "summary": "发现工作机会",
+    "description": "CarMax Careers 帮助求职者探索 CarMax Careers 的开放职位。按职位名称、地点或两者搜索——助手会呈现相关机会，并让你在申请前深入了解详情。由 Appcast 提供支持。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0c1f321c648191b559d12c6ab1626f",
+    "name": "Carryo",
+    "sourceHash": "ba94a6c7179647dae636a944be3d60de52a5f96bcb354b660a0e6ca20d1dadd6",
+    "summary": "发布网站",
+    "description": "Carryo 可将你在 ChatGPT 中创建的内容转换为真实上线的网页。在聊天中创建演示文稿、幻灯片、提案、报告、落地页、仪表盘、邀请函、作品集或单页网站，然后说“发布这个”——Carryo 会托管 HTML，并在几秒钟内返回可分享的链接。\n\n无需配置托管、域名或部署流程。更新已发布页面时仍保留相同 URL；将图片与页面一起托管；浏览版本历史并恢复早期版本；列出你发布的所有内容；需要时立即下线链接。想要上线前先审阅？可以创建私密草稿，准备好后再从 Carryo 发布。\n\nCarryo 是将 AI 创作转化为可分享链接的最简单方式。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6960ed8bd9508191bcc2297e0210d3ec",
+    "name": "CARS24",
+    "sourceHash": "d981e7696d84512cdf5688b0dd530a40a0af9ca93f3485514bfb8b9052e75ba3",
+    "summary": "找到梦想座驾",
+    "description": "ChatGPT 中的 Cars24 应用是一站式在线购车平台，让购车过程轻松顺畅。\n探索印度数量最多、经过质量检查的二手车库存，或在线浏览并比较新车。\n在 Cars24，你可以购买经过详细检测并附有报告的二手车，享受无需繁琐文书、灵活融资、行业领先的保修、便捷退车以及端到端 RC 过户服务。\n连接 Cars24，体验顺畅无忧的购车过程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b886e9c3d88191b695c9af5ab3d769",
+    "name": "CarsGuide",
+    "sourceHash": "96ab8e48cf53e5618e2d04b9a7af345fe2c438c522d669fecc2d717e77c532a5",
+    "summary": "查找汽车、价格和评测",
+    "description": "搜索澳大利亚当前在售的汽车，并阅读专家评测，帮助你做出决定。按品牌、车型、地点、价格范围等条件浏览数千条新车和二手车信息，也可以直接用日常语言描述需求。每条结果都包含价格、里程表读数、照片以及完整车辆信息的直接链接。你还可以查看带专家评分的编辑评测，在购车前比较不同车型。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2cea6b99b481919b02383ba56f7074",
+    "name": "Cartomante FC",
+    "sourceHash": "72d362edc71c0c32dd241915237d19a98412e0842d7a4b25d2c0cd171de01180",
+    "summary": "Cartola FC 分析与阵容",
+    "description": "提供 Cartola FC 和世界杯梦幻足球分析：预期得分、本轮对阵质量、按预算和阵型优化阵容、通过模拟选择队长、构建零失球防线（SG）、定位球主罚者、xG、球员持有率，以及使用结构化排阵法（MEE）生成多套阵容。还可查询课程内容。仅限 MEE 订阅者访问。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6a1134d6d4819195cdf0c9f78d5919",
+    "name": "CarVault",
+    "sourceHash": "cb12f421903d4041a6162999d0287a528de6db8d0bf88534ff76d2dfb8cc5932",
+    "summary": "追踪车辆所有权记录",
+    "description": "CarVault 将 ChatGPT 连接到你的 CarVault 账户，用于列出车辆、查看燃油和持有成本、检查即将到来的提醒，以及添加加油记录、支出、保养记录或里程表读数。只要你询问汽车、车辆历史、维护或所有权记录，就可以使用 CarVault。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a804be51c081918b68832b1ae53c77",
+    "name": "CarWale",
+    "sourceHash": "5de1066977d1b2cb54ee7ecb78f31ce99ebbeef31abe3490ca2bd891d0a1af23",
+    "summary": "查找、研究和比较汽车",
+    "description": "CarWale 是印度最值得信赖的汽车研究与发现平台，帮助购车者自信、明智地做出决定。\n在一个地方探索数百款新车的详细价格、技术规格和功能。阅读专家评测和真实用户意见，了解汽车在日常情况下的表现。并排比较不同车型，找到真正符合需求和预算的选择。\n浏览你所在地区授权经销商的最新优惠和促销。从初步研究到最终决定，CarWale 都是你的全程购车伙伴。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2b2659cd308191a61526e4a4cf799e",
+    "name": "Catalog CLI Pro",
+    "sourceHash": "cb0c863e2be4ffa82e7c70c70ffbc277375680a7c79dd72e9867c2f61d2fd3ed",
+    "summary": "审核 Amazon 商品目录",
+    "description": "Catalog CLI Pro 帮助用户在 ChatGPT 中检查已上传的 Amazon Category Listing Reports。用户可以列出可用目录、运行目录质量审核、总结优先问题、深入查看特定检查项（例如缺少属性或基于意图的要点覆盖率），并了解扫描结果中的重复行过滤方式。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a16bcb9a37081919b0db1d81010fb2f",
+    "name": "Catalyst by Zoho",
+    "sourceHash": "b4af567518634d7fb45a85c084f88cde139628a9570c527f56b0623c4ac514c6",
+    "summary": "构建、部署并托管应用",
+    "description": "Catalyst by Zoho 是一款全栈开发平台，用于构建 Web 应用、API、自动化工作流和 AI 软件。Codex 插件帮助开发者直接在编码工作流中使用 Catalyst 服务，从而更轻松地创建后端、管理数据库和存储、部署应用、自动执行任务，并与 Zoho 及外部服务集成，无需在多个工具之间切换。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a905ee4f308819189ce7914d1e01af8",
+    "name": "CatamaranSite",
+    "sourceHash": "ac76caf9ebe62e2586f35325151a9285f4ae04bce514a7b0c5b0d448a15c7d08",
+    "summary": "查看正在出售的双体船",
+    "description": "CatamaranSite 汇集全球在售的双体船——帆船和动力船，来自国际经纪公司，也包括出售自有船只的私人船主。\n\n告诉连接器你真正想找的船，它便会搜索实时目录：制造商、型号、要价、船长、年份、舱室数量、航行区域，以及帆船或动力船。结果以卡片形式显示，你无需离开对话即可浏览照片、要价、船长、舱室数量和船只所在位置。点击某条信息即可在当前页面打开完整列表，包括描述、规格，以及交易对象是经纪人还是船主。\n\n你还可以按真正影响选择的规格并排比较 2 到 4 艘船，或者在尚未缩小范围前询问目前哪些制造商有船在售。\n\n所有操作均为只读，不会代你提交任何内容。想要咨询时，连接器会将你链接到 catamaransite.com 上的船只列表，那里提供卖家自己的联系表单。\n\n只能搜索当前在售的船只。已售出和已撤下的信息及其价格均不包含在内。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699ea491a344819188f612150170a27b",
+    "name": "Catholic Index",
+    "sourceHash": "52e0adf3e6f28d4661b5281f574bdcfe206ab19cceea41222324fff6992b3b72",
+    "summary": "查找弥撒时间和教堂",
+    "description": "查询任意地点附近的天主教堂区、弥撒时间、告解安排和朝拜时段。查看堂区完整信息。查找当前正在 YouTube 上直播的弥撒。通过语义搜索按主题查找已录制的讲道。查看每日弥撒读经内容及礼仪信息和灵修反思，支持英语或西班牙语。覆盖美国 23,000 多个堂区。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3a995dbb348191af64a75893577d60",
+    "name": "Caveman Mode",
+    "sourceHash": "1b4aeec7624fd26bc00f7443c8d1b1cf96df7049cb53367498ad64983a4cb4fc",
+    "summary": "话何必多，少而精就好？",
+    "description": "厌倦了原汁原味的 ChatGPT？\n\nCaveman Mode 可以将它变成不同角色、个性和说话风格。你可以在史前穴居人、英勇海盗、睿智巫师、愤世嫉俗的侦探等角色之间切换……\n\n无论你是在写作、头脑风暴、学习、角色扮演，还是单纯找乐子，Caveman Mode 都能让每次对话更有趣、更令人难忘。\n\n功能\n\n* 即时切换独特的 AI 个性\n* 浏览不断扩充的角色和说话风格库\n* 打造更引人入胜的角色扮演和故事体验\n* 通过主题导师和专家让学习更有趣\n* 自定义 ChatGPT 的回复方式，而不改变它的能力\n* 探索头脑风暴、写作和构思的新方式\n\n最受欢迎的角色\n\n* 穴居人\n* 海盗\n* 巫师\n* 侦探\n* 莎士比亚\n* 士兵\n* 训练教官\n* 以及更多角色\n\n改变你的 AI，切换个性，保留智能。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a724418341c8191a0f1c485e16aa97f",
+    "name": "CedarAI Data Depot",
+    "sourceHash": "bb447834e9fc2570bc881c3cf67380cb52b67b80ab57537e053bc38059a3396f",
+    "summary": "通过 Cedar 登录访问 ARMS 数据",
+    "description": "已登录用户可只读访问 Cedar ARMS 铁路数据：库存、工单、运单相关记录、费用、发票、报价、备注及相关查询。数据变更应在 ARMS 界面中进行。用户使用 Cedar 登录信息进行身份验证。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a221c8a8570819184b90800f3b7f643",
+    "name": "CellFusion C",
+    "sourceHash": "8c2807d5efe6191eb3d8e832fccb508549ab16c815e7640ca9efb40798cd789e",
+    "summary": "护肤产品推荐",
+    "description": "CellFusion C 帮助用户根据肤质、肌肤问题、偏好的质地、使用场景和指定类别，查找合适的 CellFusionC 护肤产品。它会搜索 Cafe24 商品目录、为适合的产品排序，并显示包含商品图片、价格、购买链接和简明建议的推荐卡片。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8c82f556d48191b66c7046ff5fec32",
+    "name": "Centennial Arts Email",
+    "sourceHash": "51dc2a9c34d159d7ee89851ab06fb0da5104ba8c1eb4985df0af3400d1b205aa",
+    "summary": "搜索并阅读电子邮件",
+    "description": "这是一个托管式、只读的电子邮件连接器，可列出账户和文件夹、搜索邮件、读取选定邮件正文、分析限定范围内的邮件活动并还原对话。它不能发送、起草、回复、转发、移动或删除邮件，不能标记邮件或将邮件设为已读，也不能下载附件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2792c624bc81919203ca37f2002068",
+    "name": "Centiment",
+    "sourceHash": "42494fbb5122787cbcd52520208a358153d7a42994fc81a35b9bc1cbc4259688",
+    "summary": "分析调查问卷回复",
+    "description": "直接在 ChatGPT 中浏览和分析你的 Centiment 组织、工作空间、调查问卷和回复。Centiment MCP Server 安全地只读访问你已有权限查看的调查数据，让你无需离开 ChatGPT 即可发现调查、检查回复并总结发现。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ce440db9d4819188bec0d04496486b",
+    "name": "Certifier",
+    "sourceHash": "4c1d0413db7bffb232d1a4e179a417d9f1e2e3cc40f1cba58377c4770a6d484f",
+    "summary": "颁发证书和徽章",
+    "description": "Certifier 是一个数字凭证平台，支持大规模创建、管理和验证数字证书与徽章。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8359df23ac8191b557db3e6296b892",
+    "name": "CertScore.ai Privacy Scanner",
+    "sourceHash": "3bb8d8064fbf700f06492f241044fae376f2ef3a242d94416101c0e38cc66266",
+    "summary": "GDPR、Cookie 和跟踪器",
+    "description": "扫描公开网站，快速初步收集 Cookie/跟踪器证据，然后进一步查看已保存的隐私发现、按类型整理的 GPC 响应对比、范围有限的接受和拒绝操作观察、政策信号以及 HTTPS/TLS 信息。结果会保留来源信息，并明确说明覆盖范围限制，供人工审查；这些结果不构成法律建议、认证或合规判定。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1e0e4ef1dc8191acba31bd07b2a73e",
+    "name": "Champfy",
+    "sourceHash": "ac18271b4eb6cfb509e9c84b89ac7cde209959c4c2e587f4ba00d87b409af19b",
+    "summary": "寻找网球或匹克球搭档",
+    "description": "Champfy 帮助你寻找网球、匹克球、板式网球等运动的搭档。在附近寻找与你水平相当的球员，一起增加运动机会。不确定自己的技术水平？参加我们的快速测验即可了解。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a20a8fd8acc819193b3864e24f7793d",
+    "name": "Change.org: Start a Petition",
+    "sourceHash": "1892e8816d17dcde0a48bdb92dee8b83c9d6dadf93bc4b5b77a9d042e506efad",
+    "summary": "让你的诉求发出声音",
+    "description": "ChatGPT 中的 Change.org 应用可帮助你为任何事业起草请愿书。使用该应用将想法转化为可发布的请愿书，包含有感染力的标题、清晰的论点和你的个人故事。提供事业背景（谁需要采取行动、你的诉求是什么，以及它为何对你很重要），应用便会生成完整的请愿书草稿。点击“创建我的草稿”，将请愿书转到全球最大的请愿平台 Change.org；普通人曾在这里发起行动，成功保护学校、推动法律变革并追究企业责任。编辑内容、添加照片，并向数亿人发布。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a75ed6249248191a24de4fd945c8dbc",
+    "name": "Channel3 Shopping",
+    "sourceHash": "cd778eba88f1829b63039d9500dda7e6610e96360c571b51502a0b05c5607a50",
+    "summary": "全网选购商品",
+    "description": "无需离开 ChatGPT，即可从数千家零售商处选购 1 亿多件商品。通过文字或图片搜索，并排比较各零售商的实时价格和优惠，查看 30 天价格历史，并在交互式商店中查找相似商品。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a038b1ebdc8191be43a17904cd1d80",
+    "name": "Chapka",
+    "sourceHash": "bd435daf94657c219cf946f633244bb2924f78690c83a5878a3e49ddc0aa07db",
+    "summary": "寻找旅行保险",
+    "description": "Chapka Assurances 帮助你找到合适的旅行保险并即时获取报价。回答几个有关行程的问题，比较不同产品，并在同一段对话中通过电子邮件收到报价。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e8b07d4a1c8191ad57151bfd826840",
+    "name": "Charge Atlas",
+    "sourceHash": "721463d61f20ad56b73f723414cece4d3a41dc5b452179018dad1e57be46c35d",
+    "summary": "在全球查找电动汽车充电桩",
+    "description": "在 ChatGPT 中使用 Charge Atlas，查找全球电动汽车充电站。按地点、坐标、地图视口或路线搜索，然后按充电速度、连接器类型、车辆兼容性和充电网络筛选。结果将在交互式地图中打开，并附有来自 NREL 和 Open Charge Map 的来源覆盖范围信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a56c533cd7c8191b9a16cb7973a65e6",
+    "name": "Charming",
+    "sourceHash": "c104776fb26b88b91c907f2ff9dc3dd4d16675fdabf7db57d0a2d588f84d9198",
+    "summary": "供智能体使用的个人应用",
+    "description": "Charming 是一个托管运行环境，用于创建用户及其智能体可以共享的个人 Web 应用。智能体创建应用后，Charming 会为其提供 URL、后端和键值存储，用户便可在 ChatGPT、Claude 及其他智能体中持续使用同一个应用和数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a91978e41a08191a6e7519ce7c40353",
+    "name": "Chartquery",
+    "sourceHash": "e4cf807ad21a728e52b14ed926b78c0fbedb5b62bb2c59562f931e6437261fa5",
+    "summary": "图表、二维码和条形码",
+    "description": "Chartquery 可以在 ChatGPT 中生成图表、示意图、二维码、条形码和标签。描述数据或要编码的内容，即可获得一个可打开的公开渲染 URL。\n\n图表：根据简要描述生成 AI 图表，或使用结构化图表载荷。示意图：生成 AI 流程图或结构化示意图。代码：为 URL 生成二维码以及 Code128 条形码。标签：预览、解析、验证、转换和编译。可视化工具会返回 https://api.chartquery.com/v1/{kind}/render/{id}?utm_source=chatgpt.com。请展示该 URL。\n\n连接时使用你的 Chartquery 账户登录。调用会使用与 app.chartquery.com 相同的额度和配额。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694a4cde0c0881918c8d6b33d1cf2e9a",
+    "name": "Chat2Doc",
+    "sourceHash": "044a62a3b6a052dcdb6ccc78b7e5dc56c13f0b2f6865a7b3f19990e960dddb7b",
+    "summary": "将聊天保存为可编辑文档",
+    "description": "不要让临时对话消失。Chat2Doc 帮助你保存、查看并与自己的历史记录对话。将聊天转换为永久的知识库，其中包含可编辑文档。\n1. 保存重要内容\n- 保存 ChatGPT 历史记录：将聊天保存为可编辑文档，以捕捉并完善洞见。\n2. 查看已保存的历史记录\n- 即时访问：点击“查看历史记录”按钮，可直接在聊天窗口浏览已保存的聊天记录。\n3. 与历史记录对话\n- 使用你的知识库：让 ChatGPT 专门根据你的资料集生成新内容。\n\n如何在 ChatGPT 中使用\n1. 连接应用：将 Chat2Doc 连接到 ChatGPT。\n2. 触发方式：输入“@Chat2Doc”。\n示例提示\n- 保存：“@Chat2Doc 保存这段对话。”\n- 对话：“@Chat2Doc 使用我的知识库研究‘AI 趋势’，并起草一份全面的报告。”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a260ccbce68819189d814e03106a38a",
+    "name": "ChatData Sync",
+    "sourceHash": "0009c8697fac4fd834f6d8c15ba40e823fb40b38a4dbb484066c9371e5590e2f",
+    "summary": "追踪你描述的任何内容",
+    "description": "ChatData Sync 将 ChatGPT 变成你的个人追踪助手。用日常英语描述你想追踪的内容，它便会创建一个私密的结构化追踪器，你可以直接在聊天中填写、搜索和更新。一次连接即可管理多个追踪器，用于客户发票、花园日志、锻炼和维护记录等工作流程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_connector_1p_e4d796f7afc48191bf6af2220a55fdd6",
+    "name": "ChatGPT Admin",
+    "sourceHash": "809474068e89650b89f7e824deb3969f2f54c176eabca584291d38aec58c2823",
+    "summary": "为工作空间所有者或管理员管理 ChatGPT 工作空间。",
+    "description": "管理工作空间成员、群组、角色、账单、使用限额和额度增加申请；分析工作空间及 Codex 使用情况。支持按额度计费和原生 USD 工作空间：读取 balance_unit，使用明确标记为 USD 的金额输入，绝不要将额度换算为原生 USD。所有操作均遵循已登录用户的工作空间权限。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_connector_1p_2eb0f69766cc81919c6912b2a2e0755a",
+    "name": "ChatGPT Ads Manager",
+    "sourceHash": "0b564ddc1c913c7a5689d2678fbb20ace565023b131af8464a04a5ba1a13397a",
+    "summary": "管理广告和成效",
+    "description": "使用 Ads Manager 发现并管理广告账户、广告系列、广告组和广告；分析成效、转化和变更历史；上传创意图片；并在可用时完成自助式账户设置。当需要从多个广告系列中进行选择时，请调用 list_campaigns 并设置 include_performance_metrics=true，以便受限选择器显示近期成效。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1f2d275fa0819194b6cc4d73875969",
+    "name": "CheapCaribbean Beach Finder",
+    "sourceHash": "3cbf9696d38d0cd8d689e2f968f854bcb8686357ae0eec1648d45cf77c35ccec",
+    "summary": "查找海滩度假优惠",
+    "description": "通过灵活的套餐搜索，为下一次加勒比海或墨西哥海滩假期做计划。在一次搜索中比较目的地、旅行日期和价格，找到符合预算和日程的行程。浏览包含机票和酒店的度假套餐，查看一年中出行最便宜的时段，或将搜索范围缩小到特定日期。无论你是在 Cancun、Punta Cana、Jamaica 还是数十个其他海滩目的地之间犹豫，都可以并排比较选项，找到适合自己的度假套餐。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698f5012c9f48191bfadce32e2740529",
+    "name": "Cheat-Database",
+    "sourceHash": "0481f83ec37caa094c0e889d94c75f21935341fc7fec6812c3ba15a011540d91",
+    "summary": "PC 和电子游戏秘籍",
+    "description": "搜索庞大的电子游戏秘籍、代码和攻略合集。Cheat Database 涵盖 30 多个平台上的数千款游戏，从经典复古游戏机到现代系统均有收录。只需按游戏名称询问秘籍，即可立即获得作弊码、技巧、解锁内容和完整攻略。无论你是卡在某个关卡，还是想寻找隐藏秘密，此应用都能让你快速访问网络上最大的社区维护游戏秘籍数据库之一。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9fd5cf645c819184b399fe5fa951df",
+    "name": "Checklist",
+    "sourceHash": "8812ab633dba5de7914cbb575dee864007f8f646ed3f2140e06f2f71fd077ec3",
+    "summary": "创建和管理清单",
+    "description": "Checklist 帮助你直接在 ChatGPT 中查找和管理清单、创建新清单、更新任务并构建可重复使用的模板。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694b158c9f2c81918ef3e2eb8e3988ad",
+    "name": "ChecklistIQ",
+    "sourceHash": "a6a5898a489f0830ea7f6e5356f3195f675da01a22f9683fc40aa50833755e35",
+    "summary": "旅行清单创建器",
+    "description": "Travel Checklist Builder 会根据你的行程详情和偏好，创建一份免费的个性化旅行清单。\n\n告诉我们你要去哪里、离开多久、有哪些人同行，以及计划参加哪些活动——我们就会生成一份清晰有序的行李和行程准备清单，你可以查看、编辑和打印。\n\n此工具可帮助你：\n- 根据行程定制必需品，为任何旅行做好准备\n- 纳入适合气候、活动和同行群体的物品\n- 获取出发前提醒和行李分类\n- 打印或导出清单，以便离线使用\n\n告别千篇一律的清单——每份清单都根据你的行程资料定制。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cd67a432948191b2935d0b5ecc2bbe",
+    "name": "ChefJoJo",
+    "sourceHash": "f1aceefd844fe8a35d84a89de1364a5466194e7b3acf8ec799140a6bef8c46f0",
+    "summary": "你的魔法厨房搭档",
+    "description": "ChefJoJo 帮助你保存并使用喜爱的食谱。借助 ChatGPT，你可以前所未有地获得食谱方面的帮助。使用 ChatGPT 询问食谱相关问题，也可以在烹饪时与它实时交流。你还可以让 ChatGPT 为你创作食谱，然后保存到 ChefJoJo。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cfe3b2551881918bb24c23e12e50de",
+    "name": "ChefPlan",
+    "sourceHash": "2488370dce31c0cfe0730f85b49de584cc2efd15e15387b48ffc2664b7c66aa3",
+    "summary": "追踪卡路里和食谱",
+    "description": "ChefPlan 使用 Mifflin-St Jeor 方程计算你的每日能量需求（BMR、TDEE 和宏量营养素），并帮助你查找附有照片、食材和分步说明的食谱。输入体重、身高、年龄、性别、活动水平和目标，即可获得个性化卡路里目标。你可以按名称搜索食谱，也可以获取一道随机菜品——全部在聊天中完成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ddd0bf3e408191b3c2372e20d6458c",
+    "name": "Chegg Study",
+    "sourceHash": "8eb02304585bf7d19e43519cfdc98512d02779c42918736d3d5d5002001a19f7",
+    "summary": "通过 Chegg 学习",
+    "description": "Chegg Study 可让你轻松访问精选的问答内容。向用户显示学习问题列表，并允许订阅者点击任意问题，即时查看完整且经专家验证的答案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d81d9770808191805a9e4dcf4cc3c8",
+    "name": "Chess Position Analyzer",
+    "sourceHash": "815cd6a4674acbb9380ebe239eef653e500d37e4019381b6cfff5b495fe661c7",
+    "summary": "分析国际象棋局面",
+    "description": "Chess Position Analyzer 将 ChatGPT 变成你的国际象棋学习伙伴。通过 FEN 加载任意局面，或从空棋盘开始，然后拖动棋子来设置谜题、尝试假设局面或推演变化路线。你可以询问“白方的计划是什么？”“为什么这步棋更好？”或“如果车在 d1 上，局面会有什么变化？”——回答会基于眼前的确切棋局……",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694f251e7cf081918d5c87bc784f943e",
+    "name": "Chessvia Openings",
+    "sourceHash": "d0ca0d232617f2d18425ec082dd04e229f2ab13b84e54360fadf821a8ec8dc9c",
+    "summary": "学习常见国际象棋开局",
+    "description": "探索国际象棋开局及其变例库。在交互式棋盘上查看西西里防御、意大利开局和后翼弃兵等热门开局的准确走子顺序。\n\n无论你是在准备比赛，还是在学习开局理论，Chessvia Openings 都能帮助你快速查找并直观了解各条开局变化路线的关键着法。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a0e374670c819190761772d2092135",
+    "name": "Chessy",
+    "sourceHash": "553646c688ca5fc18af052be5d82b9d3e8b4f160e11c9994ed3230bcf52f888f",
+    "summary": "与 ChatGPT 下国际象棋",
+    "description": "挑战 ChatGPT 来一场国际象棋对局，它会实时推演每一步。你执白棋，ChatGPT 执黑棋——走出你的棋步，看看它如何应对。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6991cf8748819194345fca1c8d7516",
+    "name": "Chiho AI",
+    "sourceHash": "13aaf6b05b6bd28547ffc92fef3ac85fcd0976b40fb87e9e79cf14ab88e4908f",
+    "summary": "Telegram CRM 和助手",
+    "description": "Chiho AI 将 ChatGPT 连接到用户的 Telegram 账户，让用户能够搜索和阅读对话，整理 CRM 标签、公司、任务、摘要和自动化规则，安全地预览并批准消息和群组操作，并管理 Telegram 文件夹。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6c8bf65bb48191b9feebcf95155cef",
+    "name": "ChildEdu Studio",
+    "sourceHash": "5359d0a77f131b0a636acbbd57b359a6baecf17b842b611438422e1700d8d37d",
+    "summary": "创建可打印的学习材料",
+    "description": "ChildEdu Studio 帮助教师、家长和治疗师制作多语言可打印教育材料。用户选择材料语言、材料类型和学习内容，随后即可获得生成的文件，以供预览和下载。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8b7bbd015c8191b94d8cee58beef3e",
+    "name": "ChooseCruise",
+    "sourceHash": "0e60e5f809056fe6bbf49e2e2cb4a39f1d42b5ab7cbd860c5e57c4cb91dfe70c",
+    "summary": "查找并比较邮轮",
+    "description": "ChooseCruise 帮助用户按目的地、港口、日期、邮轮公司、价格和时长搜索实时海洋及河流邮轮库存，比较符合条件的航次，查看详细行程和舱房信息，并在准备预订时前往 ChooseCruise。",
+    "model": "codex-subagent-reviewed"
+  }
+]

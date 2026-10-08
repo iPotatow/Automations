@@ -1,0 +1,674 @@
+[
+  {
+    "id": "plugin_asdk_app_6a83795db1e48191be5a38ce59cd2c0b",
+    "name": "SuperMCP",
+    "sourceHash": "1a47353255751df2ca7a85338bd63fb13aba781dc47b64b1120b9b083bb2ad55",
+    "summary": "比较以色列杂货价格",
+    "description": "SuperMCP 会根据购物清单查询以色列各家线上超市的价格，并告诉你哪家商店可以按最低价格配送到你的地址。\n\n输入希伯来语购物清单和配送地址。它会将每件商品与各连锁超市目录中的实际商品匹配；如果商家公布了经过核实的配送条款，也会计入配送费；然后返回每家商店的总价、逐项明细，以及零售商官网上各商品的链接。\n\n它的设计原则是不猜测。商店不售卖的商品会标记为缺货，不会悄悄替换；每个价格都标注该价格最近一次出现在连锁商店价格文件中的日期；只有商店公布且已核实的条款才会用于报价配送费。如果一项清单对应多种商品，它会询问你，而不是替你选择。\n\n价格来自以色列零售商依据《价格透明法》发布、每晚接收处理的价格文件。\n\n服务覆盖以色列的线上超市配送，商品目录为希伯来语。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a1247fceb88191a0fde719fd50920d",
+    "name": "Supermetrics",
+    "sourceHash": "422b966b03668545e0e964a5aff9565a9c9a130b585539bb480cef217f4a908e",
+    "summary": "连接 200 多个营销数据源",
+    "description": "通过 Supermetrics 将 ChatGPT 直接连接到你的营销和分析数据。\n查询 Google Ads、Meta Ads、Instagram、Google Analytics、LinkedIn Ads、TikTok、Shopify、Amazon 等平台的数据。\n\nSupermetrics MCP 服务器可安全、实时地访问你的营销数据源，让你能够：\n\n- 即时获取广告系列成效指标\n- 比较跨渠道结果\n- 使用实时数据生成营销报告\n- 分析趋势和异常\n- 创建新的营销广告系列或编辑现有广告系列\n\n此集成构建于 Supermetrics 值得信赖的数据基础设施之上，确保 ChatGPT 中的营销数据准确、受治理且保持最新。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5519d3f9c88191997869b615b79d51",
+    "name": "Sweat & Tonic",
+    "sourceHash": "4a3c7791e5927389f43864ef37c7def62637ed0988a3c706186c83e62695b204",
+    "summary": "查询 Sweat & Tonic 相关信息",
+    "description": "直接根据 Sweat & Tonic 自行发布的信息，回答有关这家多伦多精品健身工作室的问题。此连接器会搜索工作室的实时内容，并提供课程项目、当前课程表、价格、教练、护理项目和预订的完整详情，方便你规划到访或比较选项，无需在网上四处查找。\n\n它提供两个只读工具。search 会返回排序后的结果，每条结果包含标题、来源 URL 和文本摘要。fetch 会返回文档全文及其规范 URL。每条结果都附有其来源页面的链接，因此答案以工作室的实际内容为依据，并可追溯引用来源。\n\nCourtyard AI 在工作室明确授权下为 Sweat & Tonic 运营此连接器，并会随着工作室更新项目、课程表和价格而自动保持内容最新。所有信息均为公开的商业内容。无需账户、登录或个人数据。此连接器严格只读：不会代你预订、处理付款或执行任何其他操作，只会检索并引用工作室已发布的信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0d6c1e67588191b68c0492dfbfe1da",
+    "name": "Sweet Analytics",
+    "sourceHash": "06d8cd4768b113f8c1e555eccb43686798cc354474df48d91753db1e9a77ee6b",
+    "summary": "随时向你的数据提问",
+    "description": "Sweet 可帮助电商团队利用已连接的 Sweet 数据，了解销售、营销、客户、产品、折扣、退款和利润表现。\n\n你可以用日常语言提问，例如销售增长由什么推动、哪些营销渠道效率最高、客户留存情况如何变化、哪些产品或折扣影响利润率，或退款在哪些方面影响盈利能力。Sweet 会返回清晰摘要、KPI 对比、细分群体分析和实用洞察，帮助团队根据现有数据更快地制定销售、营销和客户留存决策。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6944d8892db481918e8cf6f87d389d71",
+    "name": "Sweetspot",
+    "sourceHash": "3e6c8174ea1fbc620909da12cd61068e272e5fe3dc8ef8b29865b8cd230e4d03",
+    "summary": "搜索联邦政府招标机会",
+    "description": "Sweetspot 可帮助你搜索 SAM.gov 上的联邦合同机会。查找招标公告、RFP 和已授予合同，并深入查看完整详情，包括 AI 生成的摘要、公告、附件、预留合同信息和授标数据。可按发布日期、响应截止日期或授标状态筛选，精准找到所需内容。适用于政府承包商、争取预留合同的小企业，以及任何跟踪联邦采购机会的人。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a99b73e60c819182e6d598073646db",
+    "name": "Swyft Filings",
+    "sourceHash": "99ff953a211116954af6faecabb512fde5c2d38bc0f6b106a2dda6e74f5174af",
+    "summary": "创办并注册企业",
+    "description": "按照引导步骤，在美国任意州创办并注册企业（LLC、C-Corp、S-Corp 或非营利组织），并包含所有必需文件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a33e5b7ed208191b24263c41e5dd7ee",
+    "name": "SyncERP for Softone",
+    "sourceHash": "e213d24b28fc3811d31b898ddcfbbaaf38445e5382cc55f2f22a3f6e671e79bc",
+    "summary": "查询客户、库存和销售",
+    "description": "向 ChatGPT 询问你的 Softone ERP。查询客户详情和采购历史，查看各仓库的产品库存，并按门店和渠道查看每日销售及发票。只读——每家公司连接自己的 Softone 安装实例。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3107ddeab881919166170384ed59df",
+    "name": "SyncMe",
+    "sourceHash": "0f6983ea6ef243d2a53f22c6adf6f9abdaba167647e194408a6afeff139432bc",
+    "summary": "实时多渠道同步",
+    "description": "SyncMe 是一个多渠道电商同步平台，可实时连接 Amazon、Shopify、Meta、Salla、Noon、eBay、Zid 等平台上的库存、订单和商品刊登信息。避免超卖、减少手动工作，让你的线上业务轻松扩展。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0c437e5d248191a8b1781ca535713d",
+    "name": "Systeme.io",
+    "sourceHash": "633863923856ebcf4b1716df09fe0beb6249817e552c32c4b3387ca7fa8c5fbe",
+    "summary": "用 ChatGPT 管理 systeme.io",
+    "description": "Systeme.io 是一个一体化营销平台，用于创建和发展线上业务。将你的工作区连接起来，通过与 ChatGPT 简单对话查找信息、创建内容并管理业务。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e078610464819191c8114e51f49029",
+    "name": "TABLEALL",
+    "sourceHash": "7b46394d9ad2f6a8302ff6d6c5ebcc541d07090157990fd6065e13628e8cdd7b",
+    "summary": "预订日本高级餐厅",
+    "description": "TABLEALL 通过 ChatGPT 帮助旅行者和食客在日本各地发现并预订高级餐厅。用户可以按地区、区域或菜系搜索，查看实时空位、套餐菜单和价格、取消政策，并创建预订或预订请求。\n\nTABLEALL 支持米其林星级餐厅以及多种菜系，包括寿司、怀石料理、天妇罗、和牛、法国菜、意大利菜等。返回付款链接后，可在 TableAll 网站上安全完成付款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694512e480fc819189f037dea53d26a4",
+    "name": "TalkGen",
+    "sourceHash": "314989650785db3088deeceb0991d2190f56541220a4ab89c340f118de257487",
+    "summary": "AI 虚拟人播报视频生成器",
+    "description": "生成专业的口播视频。上传自己的照片或选择虚拟形象，选择多种语言之一，即可获得口型完美同步的视频效果。适用于社交媒体、营销和培训。\n\n在 ChatGPT 中的使用方法\n1. 连接：将 TalkGen 连接到 ChatGPT。\n2. 启用：通过以下任一方式启动应用：\n输入命令：只需输入“@”并选择 TalkGen，或在聊天框中输入“TalkGen”。\n3. 创建：就这么简单！",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a756da8100c81919d9322e0ea59309c",
+    "name": "TALON Knowledge",
+    "sourceHash": "1419f00d3bea4c59b6d4c0c90098977c256efacf24125b6e076c0d9f74f93632",
+    "summary": "搜索 TALON 手册和问答",
+    "description": "此连接器可让 AI 智能体搜索 TALON 的官方知识库。TALON 是一个用于构建业务应用的低代码平台。它会搜索数千页官方手册、支持问答、包含 900+ 个真实功能配置示例的数据库以及规范分析，并返回带来源 URL 的答案作为依据。典型用途包括功能设计咨询、查询配置值、调查错误原因、浏览相似真实案例，以及自动验证生成的设置。\n\n需要 TALON 维护合同和 TALON 支持网站（Zendesk）账户。连接时，用户需登录支持网站完成身份验证。所有工具均为只读，用户的对话内容、代码和附件绝不会发送到我们的服务器（详情：https://mcp.talon.jp/privacy）。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4d08736ee48191b4613778ade9b663",
+    "name": "Tastewise",
+    "sourceHash": "740677122ad3298f9bae8b82d2a6eee57862977555a954838cc5539af9056c80",
+    "summary": "食品饮料行业洞察",
+    "description": "Tastewise Insights 是一款智能体，可通过 ChatGPT 中的自然对话，帮助食品和饮料行业专业人士发现趋势、消费者需求和市场洞察。\n\n主要功能：\n- 用自然语言询问食品趋势\n- 获取热门食材、菜品和饮料的洞察\n- 了解消费者动机和购买驱动因素\n- 探索 60 多个国家/地区的市场数据\n- 获取由 Tastewise 食品智能平台提供的数据分析",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1e9b4d435c819197612acef1d477cb",
+    "name": "Tawadoo: Buy, Sell, Auctions",
+    "sourceHash": "779eac72fb97943bee66ca960b69e588334c2e476dc132e531c14b10d2fb5556",
+    "summary": "摩洛哥分类信息与拍卖",
+    "description": "Tawadoo：买卖与竞价——摩洛哥排名第 1 的免费交易平台 🇲🇦\n\n体验 Tawadoo 带来的智能购物新方式——在摩洛哥免费购买、出售和竞价。从卡萨布兰卡和拉巴特，到马拉喀什、阿加迪尔、非斯和丹吉尔，发现你附近数以千计的本地刊登信息。🎯\n\n想用更聪明的方式购物或出售物品？无论你是想清理家中闲置，还是寻找心仪好物，Tawadoo 都能让你轻松体验实时拍卖的刺激和直接议价的便利。\n\n为什么选择 Tawadoo？\n它不只是分类信息应用，而是一个集成本地市场的便利、竞争性拍卖和沉浸式社交体验于一体的平台，以照片和视频为基础，确保每笔交易透明可信。💡\n\n主要功能：\n✅ AI 商品刊登——AI 自动生成吸引人的标题和描述，提高曝光度和搜索排名。🤖\n✅ 自动翻译——用法语或阿拉伯语发布，Tawadoo 会将刊登内容翻译成买家使用的语言，带来顺畅体验。🌍\n✅ 照片和视频——高清照片和短视频，让买家从各个角度查看物品。📸\n✅ 3 种出售方式——固定价格、议价报价或实时竞价的现场拍卖。🤝\n✅ 分析仪表板——实时跟踪刊登表现、浏览量和销售统计。📈\n✅ 精确地理定位——从卡萨布兰卡到阿加迪尔，在你所在的社区寻找和出售物品。📍\n✅ 已验证个人资料和安全消息——重视隐私聊天的可信社区。🔒\n\n浏览类别：\n🔹 房地产：公寓、住宅、办公室\n🔹 汽车：汽车、摩托车、备件\n🔹 高科技：智能手机、笔记本电脑、电子产品\n🔹 时尚：服装、珠宝、配饰\n🔹 家居与花园：家具、装饰、DIY\n🔹 服务与工作：招聘信息和专业服务\n🔹 宠物：适合你伙伴的一切用品\n\nTawadoo Coins：赢取并省钱！💰\n使用 Tawadoo Coins 提升体验。你可以通过玩每日幸运转盘、评价交易伙伴或推荐朋友赚取金币，也可以直接在应用内购买金币，立即获得额外额度。金币可用于推广刊登、作为保证金参与拍卖，或延长发布额度。\n\n安全与合规 🛡️\n你的安全是我们的首要任务。平台遵守第 09-08 号法律——你有权访问、更正数据并反对处理你的数据。已获 CNDP 授权，编号为 N°A-W-1438/2025。\n🔹 已验证个人资料 · 安全消息 · 绝不出售你的数据。\n\n使用方法：\n1️⃣ 浏览——探索摩洛哥各地数以千计的本地刊登信息。\n2️⃣ 联系——通过安全消息直接与卖家聊天。\n3️⃣ 完成交易——轻松议价并敲定交易。\n\n在 ChatGPT 中向 Tawadoo 提问，即可搜索摩洛哥交易市场、寻找本地优惠并即时发现附近的刊登信息。🚀",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7c277cb53c819189baa7186f13c3ba",
+    "name": "Taxiger Doc",
+    "sourceHash": "340fe8a09f81165b2b5e9600fc6f78af3cae84fb612ccf00a14465bcfe9663c5",
+    "summary": "了解比利时出租车法规",
+    "description": "TaxiGer Doc 帮助出租车运营商、司机和出租车企业主更好地了解比利时的出租车法规、法律义务，以及弗兰德斯、布鲁塞尔和瓦隆地区的出租车站候车出租车、街头巡游出租车和豪华轿车服务相关行政程序。查找官方 Chiron 指南，以及有关 dienststaat、vervoerbewijs、路线表、出租车许可证、检查和所有强制出租车文件的信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a83c012f46c819184f612104c391c8a",
+    "name": "TaxMCP",
+    "sourceHash": "87ecf59fa6e3c8446b114c625ec82d6e970560511b843d43fbe69b89110df5f4",
+    "summary": "带引证的美国税务研究",
+    "description": "TaxMCP 让 ChatGPT 能够访问美国税务权威资料，并为答案提供引证依据。它可搜索并检索《国内税收法典》、财政部条例、IRS 出版物和指导文件、部分州税法，以及美国税务法院判决。\n\n七种只读研究工具支持广泛的税法搜索、直接查询法条、检索 IRS 出版物和指导文件、检索税务法院判决、研究案件引证情况，以及分析法条交叉引用。结果包含来源标识符和引证 URL，方便用户查看相关权威资料。\n\nTaxMCP 面向注册会计师（CPA）、注册代理人（EA）、税务律师、研究人员及其他希望在现有 AI 工作流程中进行带来源链接的税务研究的人。它不会申报纳税申报表、提交表格、付款、编辑记录，也不提供法律或税务建议。案件引证情况不能替代 Shepard's、KeyCite 或其他权威的现行有效性核查。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a70e840f45081918875db7570793590",
+    "name": "TEAM 30 — AI Company OS",
+    "sourceHash": "ac27000f1008cd2a9f001b8737d4ff629b57c5b89cd21334ed68a56a04177b81",
+    "summary": "通过 31 个 AI 角色规划工作",
+    "description": "TEAM 30 会将目标分配给合适的专业角色，把项目转化为范围明确的计划，并识别需要明确批准的操作。首个公开版本为只读：不会发送消息、花费资金、删除数据、发布内容或连接私人账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f4972405788191a6dab94f75b03359",
+    "name": "Technis",
+    "sourceHash": "fc5a6ef792666722acc468c1946dc1ac4b33a4a70a888ac589897b0023c811fb",
+    "summary": "了解你的空间",
+    "description": "Technis 是一个空间分析平台，可将你的建筑、商店和场所转化为清晰且可执行的信息来源。\n\n连接 Technis MCP 服务器后，ChatGPT 可以结合文档、业务数据和决策来分析空间使用情况。你可以用日常语言提问、深入查看用户行为，并获取基于实际数据的答案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a04c019f7ac8191a76215cf7bf77752",
+    "name": "TechSource Marketplace",
+    "sourceHash": "49ec0c5d029a892f226369e69549c7f63051730053d62ab2aee27ac3f6ca1dde",
+    "summary": "选购科技产品",
+    "description": "TechSource Marketplace 提供台式电脑、笔记本电脑、工作站、显示器、平板电脑、智能手机和配件，涵盖 Dell、Lenovo、HP、Apple 和 Microsoft 等品牌。\n直接在 ChatGPT 中搜索实时库存、浏览类别、查看价格和供货情况，并发现新品。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a72f0eca32c8191adfbab4247d5f0e0",
+    "name": "Tembi Intelligence",
+    "sourceHash": "c0bbe89997f25ab20a8a6a1dfa30160698b7d4ba1c6d7e6f53570722f5fe93b0",
+    "summary": "电商市场情报",
+    "description": "这个基于 MCP 服务器的插件提供工具，帮助你洞察欧洲电商市场。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2ab750d2788191ba2f32a602fabe29",
+    "name": "Templafy",
+    "sourceHash": "096ceb04aaf3d81d9f0f2295cf252f57656db71802d315f9e0ed5eba11113d1a",
+    "summary": "制作可用于商务的 PowerPoint",
+    "description": "将 ChatGPT 内容和公司知识转化为可用于商务场景的 PowerPoint 演示文稿。Templafy 将 ChatGPT 连接到你获批的文档智能体、品牌主题和最佳实践内容。提出制作幻灯片的需求，选择公司批准的主题，即可生成品牌化 PPTX。无需复制、重新排版或手动清理。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_697a947e772c8191b888e4e23376bcf2",
+    "name": "Templated",
+    "sourceHash": "e13f090ad7f19460242d462dbdf294f48fc60ced43cb3ff7e33815742b13dfbf",
+    "summary": "生成图像、视频和 PDF",
+    "description": "Templated 是一个 API 和拖放式编辑器，可利用可重复使用的模板生成图像、视频和 PDF。设计一次模板（或从 Canva 导入），之后即可让 ChatGPT 按需替换文字、图像和颜色并渲染成品。\n\n使用此应用，ChatGPT 可以：\n- 修改图层值，从任意模板渲染图像（PNG、JPG、WebP）、多页 PDF 和 MP4 视频\n- 浏览、搜索和检查模板、图层及页面，了解可自定义内容\n- 创建、更新、克隆并整理模板和文件夹\n- 从 URL 上传图像和字体，并管理资源\n- 合并 PDF 渲染结果并查看账户用量\n\n渲染结果由 Templated 的渲染引擎根据你设计的模板生成，因此输出一致、符合品牌风格，可用于营销、电商、社交媒体、文档和自动化流程。连接时请使用你的 Templated 账户登录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69bc499205fc81918be3bd546e10ad06",
+    "name": "Tenzo",
+    "sourceHash": "f0af8388613907a3539906ce092e220a2723d980d122f0337c34369023c1a773",
+    "summary": "按需查询餐厅分析",
+    "description": "Tenzo 将 ChatGPT 连接到你的餐厅数据。你可以用通俗的英语询问所有门店的销售额、人工、客流人数、平均消费、商品组合、顾客评价和经理日志。应用读取你在 Tenzo 仪表板中已能看到的相同指标和维度，遵循你现有的用户权限和业务访问权限，并可将有用的查询保存为卡片和仪表板，写回你的 Tenzo 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0ec1f7d2ac8191823fcd77e57efa3c",
+    "name": "Tessun Immobilien",
+    "sourceHash": "ef478532da0b92312dd0ebd56564fcea25f2e08984d415502ea0cb0c1a6d93ab",
+    "summary": "慕尼黑及伊萨尔-洛伊萨赫谷房产",
+    "description": "Tessun Immobilien 应用让慕尼黑和伊萨尔-洛伊萨赫谷的房产搜索更清晰，也更聚焦本地。\n\n用户无需浏览冗长房源列表，即可在交互式地图上查看可售房产。这有助于快速了解哪个地点最适合日常生活，无论是在慕尼黑、沃尔夫拉茨豪森、格雷茨里德还是周边地区。\n\n更快了解地理位置\n用户可以立即查看房产所在位置及周边环境。\n\n更好地了解地点\n尤其在慕尼黑或伊萨尔-洛伊萨赫谷等地区，微观地段往往至关重要。地图视图有助于用户切实评估距离、基础设施和周边环境。\n\n聚焦相关地区房产\n应用不提供数千条随机房源，而是聚焦于一家专注特定地区的房地产中介精选房产。\n\n更轻松地比较不同地点\n用户可以直接看出不同居住区域的差异，例如城市化的慕尼黑与更安静的周边城镇。\n\n减少在不合适房源上浪费的时间\n许多用户会先根据地点筛选。可视化搜索让这一步快得多。\n\n直接联系本地专家\n感兴趣的用户可以轻松发送咨询或安排看房，无需在多个平台之间切换。\n\n更愉快的移动端体验\n用户可以浏览地图并主动探索不同地区，搜索过程因而更直观。\n\n此应用旨在让房产搜索更易理解，而非更复杂，重点关注地点、地区专业知识，以及更轻松地浏览慕尼黑和伊萨尔-洛伊萨赫谷周边房地产市场。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a715850ede08191ba8e82496bf77066",
+    "name": "Test Failure Triage",
+    "sourceHash": "24fc93f4ae8464fe86e3e5622c3d7c529807e12116bb12c04f265494181babee",
+    "summary": "分诊测试失败",
+    "description": "将提供的测试输出整理成清晰的失败清单、基于证据的分类和调查顺序。此插件仅依据你提供的信息工作，不会访问代码、CI 系统、代码库或外部服务。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6890cadc048191ba10ea8321a90e3d",
+    "name": "Textmagic",
+    "sourceHash": "ebc9f82b23ec2a1b294047aa08e73cf5f8baf9810cd1697a4138a77f92494b57",
+    "summary": "发送短信并管理联系人",
+    "description": "Textmagic 将企业短信功能带入你的 AI 助手。无需离开聊天即可发送和安排短信、在发送前预览费用和收件人、跟踪送达情况并阅读收到的回复。你还可以管理通讯录：搜索联系人、创建和更新联系人，并整理列表和标签。每次发送都会先预览并确认，且消息操作始终遵循你的账户余额和权限。适用于预约提醒、警报、后续跟进和快速回复客户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7f06570cb48191b768d4bbaab3b710",
+    "name": "The Astro Scope Birth Arcana",
+    "sourceHash": "305e69cf57f60f031dc499b355188f39a826347e307c1927d865f4054871da8a",
+    "summary": "塔罗出生牌与爱情配对",
+    "description": "找到你的出生阿尔卡那牌——与你出生日期对应的大阿尔卡那塔罗牌——并了解你的牌与他人的牌如何相遇。\n\n输入出生日期，揭示将伴随你一生的牌。再输入伴侣、朋友或家人的出生日期，看看你们的两张牌会彼此激发什么。\n\n你将获得\n• 从 22 张大阿尔卡那牌中找到你的出生牌，以翻转的浮动卡牌呈现，并说明此牌对出生于其对应日期的人意味着什么\n• 了解你的牌对爱情、事业和金钱的启示及建议，每项均链接至 theastroscope.com 上的完整文章\n• 了解此牌代表的人生目标、优势、成长方向和阴影面\n• 查看与你的牌最相配的牌，每个配对都会打开对应页面\n• 两个日期的出生阿尔卡那兼容性：双方的牌、配对评分、双方元素如何相遇、组合的优势与成长方向\n• 聊天中的精简卡片，可展开至全屏查看所有详情\n• 英语和西班牙语\n\n欢迎再次使用\n• 每次与你的新对象比较牌面，都会获得新的配对解读\n\n试着这样提问\n• “我的塔罗出生牌是什么？出生于 1994 年 6 月 18 日”\n• “出生阿尔卡那兼容性：1994 年 6 月 18 日和 1992 年 3 月 3 日”\n• “我的出生阿尔卡那显示了什么人生目标？出生于 1994 年 6 月 18 日”\n\n你的数据\n仅使用出生日期（姓名可选）来查找牌面，不会保存任何内容。\n\n仅供娱乐和自我反思，不构成医疗、法律或财务建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a60f5382c848191bc438d738d5d4026",
+    "name": "The Astro Scope Destiny Matrix",
+    "sourceHash": "1c4789d8cf6d9e50a65491751edf9e25c996d2acc6051fd27f5d9b2352802f64",
+    "summary": "命运矩阵与兼容性",
+    "description": "在 ChatGPT 中查看你的命运矩阵：根据出生日期计算、由 22 张大阿尔卡那构成的数字命理图表。\n\n输入出生日期即可查看你的矩阵八角图，以及当前主导你人生的阿尔卡那牌。再输入第二个日期，了解两张矩阵如何交汇。\n\n你将获得\n• 聊天中的精简卡片：矩阵八角图、个人特质、舒适区、天赋和当前人生阶段，每项均链接至对应的阿尔卡那指南\n• 点击“在此查看完整矩阵”可打开全屏页面：矩阵的每个通道（物质业力、业力尾码、爱情、金钱、人生目标等）、从出生到 80 岁的人生阶段（当前阶段会突出显示），以及脉轮健康图\n• 关于个人特质和舒适区的解读\n• 两个出生日期的命运矩阵兼容性：双方的关键阿尔卡那、关系、和谐牌和心之牌以卡片呈现；全屏页面显示双方图表的所有配对通道\n• 一键提问：爱情和金钱、业力尾码、人生目标、人生阶段，或情侣的优势与挑战\n• 指向 theastroscope.com 上完整矩阵、兼容性页面和阿尔卡那指南的链接\n• 英语和西班牙语\n\n欢迎再次使用\n• 与伴侣、朋友或家人查看兼容性：每个新日期都会生成新的解读\n• 查看下一个人生阶段，以及阶段开始时会发生什么变化\n\n试着这样提问\n• “计算我的命运矩阵：出生于 1994 年 6 月 18 日”\n• “计算 1994 年 6 月 18 日和 1992 年 3 月 3 日的命运矩阵兼容性”\n• “我目前处于哪个人生阶段？出生于 1992 年 3 月 8 日”\n\n你的数据\n仅使用出生日期（姓名可选）来计算矩阵，不会保存任何内容。\n\n仅供娱乐和自我反思，不构成医疗、法律或财务建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f8e6b3abf08191931ed329fda8a980",
+    "name": "The Astro Scope Horoscope",
+    "sourceHash": "d85212a8623d12302a6770c47b9282d2a6a991d02b6cc50215ce6c45283cb07b",
+    "summary": "占星、出生星盘与星座",
+    "description": "在 ChatGPT 中查看你的出生星盘和每日星座运势。\n\n告诉 Astro Scope 你的出生时间和地点，它会绘制你的本命星盘，并解释影响你的星体位置。你也可以只说一个星座，查看今天、明天或本周的运势。\n\n你将获得\n• 根据出生日期、时间和地点绘制的本命星盘，显示每个星体位置的精确度数\n• 太阳、月亮和上升星座及其度数和简明释义，每项均链接至完整指南\n• 每颗行星所在的星座和度数，每项均链接至完整指南\n• 聊天中的精简卡片，可展开至全屏查看所有含义、每颗行星和太阳星座的今日运势\n• 已保存的星盘及其在 theastroscope.com 上的完整解读链接：可分享链接或下载星盘图像\n• 全部 12 个星座今天、明天或本周的运势，展开后可查看爱情、事业、健康和金钱方面的完整解读\n• “每天早晨”按钮，可让 ChatGPT 每天为你提供星座运势\n• 英语和西班牙语\n\n欢迎再次使用\n• 每天和每周获取新的运势\n• 为伴侣、朋友或家人绘制星盘：每个新出生日期都会生成一张新星盘\n\n试着这样提问\n• “帮我绘制出生星盘：1994 年 6 月 18 日下午 2:30 出生于柏林”\n• “我今天的星座运势如何？我是狮子座”\n• “本周天蝎座运势”\n• “月亮落在天秤座说明了什么情绪特征？”\n\n你的数据\n绘制星盘需要出生日期、时间和地点；姓名为可选。每张星盘都会保存，以便打开完整解读，任何拥有链接的人都可以查看。查看星座运势只需提供星座。\n\n仅供娱乐和自我反思，不构成医疗、法律或财务建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ce71df7f3481919c8ccbe6b831d40a",
+    "name": "The Astro Scope Tarot Reading",
+    "sourceHash": "f7bbc250f430307fcdda7127c4a680b8c636b1e66587b5a934d1e970562ef70b",
+    "summary": "每日塔罗、是或否与爱情占卜",
+    "description": "在 ChatGPT 中进行塔罗占卜，使用一套完整的 78 张插画牌组。\n\n提出问题，点击卡牌看它翻开，然后阅读牌面传达的信息：每张牌附有几句清晰解读，轻点即可查看完整含义。\n\n你将获得\n• 每日塔罗牌：当天为你抽取一张牌，明天会有新牌\n• 是或否塔罗：针对你的问题抽取一张牌，并给出明确的“是”“否”或“也许”\n• 爱情塔罗：三张牌分别代表你、伴侣和你们之间的关系\n• 过去、现在与未来：结合你的问题解读三张时间线牌；爱情、事业和金钱问题会分别按各自主题解读\n• 每张牌的简短释义、关键词和建议，以及其在 theastroscope.com 上的完整指南\n• 卡牌会浮动、朝手指方向倾斜，并在点击时翻面\n• 三张牌的解读会以全屏打开，展示每张牌的建议和关键词\n• 每个结果都会推荐下一种解读：是或否、爱情，或过去、现在与未来\n• 可直接在聊天中就牌面提出后续问题\n• 英语和西班牙语\n\n欢迎再次使用\n• 每天早晨抽一张新的每日牌：轻点一下即可让 ChatGPT 每天早晨为你抽牌\n• 每当心中出现新问题，都可进行新的解读\n\n试着这样提问\n• “抽取我的每日塔罗牌”\n• “是或否塔罗：我应该接受这份新工作邀请吗？”\n• “3 张牌爱情塔罗：我的感情会走向何方？”\n• “过去、现在与未来塔罗：今年我的事业会如何变化？”\n\n你的数据\n无需账户。系统会使用你的问题解读牌面，并将问题添加到打开 theastroscope.com 上同一解读的链接中。\n\n仅供娱乐和自我反思，不构成医疗、法律或财务建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a64c90329cc8191bedca18adc136ba2",
+    "name": "Themely Design+Style Generator",
+    "sourceHash": "61c4434227a69fe409c4b325f07a43ca1ecf1f70517becc70aeeb610af2678dd",
+    "summary": "应用与网站界面设计灵感",
+    "description": "借助 AI 为应用、网站、仪表板、落地页等创建精美设计主题。描述你的需求，探索不同视觉风格，并排比较创意，几秒钟内预览概念。无论你从空白页面开始，还是想焕新现有构想，此工具都能帮助你快速找到设计方向，无需高级设计技能。\n\n只需告诉 ChatGPT 你想构建什么。你可以提出移动应用、网站、网店、作品集、博客、仪表板、管理后台、营销页面或几乎任何数字产品的需求。然后描述想要的感觉、受众、颜色或风格。AI 会将你的想法转化为精致的设计主题，供你轻松探索和完善。\n\n无需从头开始，就能尝试多种外观。生成简洁、现代、极简、活泼、暗色、鲜艳、高级、未来感、玻璃质感、柔和、大胆、优雅或创意风格主题。比较不同风格，找到最符合项目、品牌或个人品味的方案。对提示稍作修改，就能产生新想法，帮助你换个角度思考。\n\n在投入时间设计或开发前预览创意。尽早看到不同主题，有助于选择颜色、布局、字体、间距和整体视觉方向。进入设计或开发阶段前，你可以快速判断哪些有效、哪些不合适。\n\n此工具适用于设计师、开发者、创业者、学生、营销人员、创作者、代理机构，以及任何需要视觉灵感的人。它可用于探索商业网站、初创公司落地页、移动应用、软件仪表板、电商商店、教育平台、作品集、旅游网站、金融应用、健康应用、效率工具、娱乐服务等构想。\n\n当你需要灵感、想克服创意瓶颈，或只是想看看新的可能性时，可以使用它。无需在无穷无尽的图库中搜索，只需片刻即可生成多种设计方向。探索符合目标的创意，并持续改进，直到找到喜欢的风格。\n\n尝试不同的配色方案、页面布局、界面风格、导航、按钮、卡片、表单、图标、版块、字体和视觉层级。你可以要求以现代趋势或经典设计原则为灵感的主题，也可以组合不同创意，为自己的项目打造独特风格。\n\nAI 能理解简单指令，因此无需掌握专业设计术语。用日常语言描述项目即可，内容可以详细，也可以简短。你可以要求修改、尝试另一种风格，或继续探索，直到结果合适为止。每条新提示都可能带来新概念和意想不到的创意。\n\n无论你是在规划第一个网站，还是改进已有数千用户的产品，此工具都能让早期设计探索更快、更轻松。它帮助你发现主题、比较视觉方向，并在投入详细设计前建立信心。\n\n非常适合头脑风暴、创意探索、产品规划、设计评审、客户演示、原型制作、概念开发和视觉灵感。借助 ChatGPT，将简单想法转化为吸引人的设计主题，探索多种可能性，找到最适合项目的外观。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3d5936cef08191856faa2c825f921a",
+    "name": "Thomas Franck Immobilien",
+    "sourceHash": "9db47808c98a34a512b0bbd8de65f37e3ea899d8c1cd006e25cf03a27be66799",
+    "summary": "什未林房地产",
+    "description": "Thomas Franck Immobilien 是一家现代房地产公司，专注于什未林及周边地区。此应用以直观、基于地点的方式，帮助用户在梅克伦堡-前波美拉尼亚州首府及邻近地区发现、购买或出售房产。\n\n用户无需浏览冗长的房源列表，即可直接在交互式地图上查看可售房屋、公寓、土地和投资性房产。通过地图可以轻松一览房产位置、附近基础设施和周边街区，让房产搜索更简单、更高效。\n\nThomas Franck Immobilien 将丰富的本地市场经验和个性化建议，与现代数字解决方案相结合，服务于什未林及周边地区房地产市场，并拥有多年行业经验。\n\n主要优势\n采用现代地图界面的交互式房产搜索\n更快了解什未林及周边地区\n更好地了解房产位置、基础设施和街区\n聚焦该地区精挑细选的住宅和投资性房产\n更轻松地比较不同城区和市镇\n通过可视化导航提高房产搜索效率\n直接联系经验丰富的房地产专业人士\n现代、易用的移动端体验\n\n无论你是在寻找什未林市区公寓、周边乡村的家庭住宅，还是有吸引力的投资机会，Thomas Franck Immobilien 都能以现代、透明、便捷的方式，帮助你进入什未林及周边地区房地产市场。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d8425f7a1c8191a438821b9c553b79",
+    "name": "ThoughtSpot Spotter",
+    "sourceHash": "711789fb6897a6f33bbcfe2b65ad961141b40d2ea3fb5872994eda570341e193",
+    "summary": "你的 AI 数据分析师",
+    "description": "从日常数据问题到高层战略分析，ThoughtSpot 的 Spotter 都能帮助业务和数据团队获取可信、可验证且可采取行动的答案与洞察，让每个人都能利用数据推动业务发展。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa240082b3c81919f204960ce7e0dc0",
+    "name": "ThoughtSpot SpotterCode",
+    "sourceHash": "74e6ec5decdfa477a80b6f16a0dab3da2ed99f8ee791f28ade7491e9de84720b",
+    "summary": "构建并交付 AI 分析",
+    "description": "无论你是构建嵌入式分析的开发者、交付 AI 驱动功能的产品负责人，还是管理实时数据工作流的数据团队，ThoughtSpot 的 SpotterCode 都是你的 AI 结对程序员：将指令转化为执行行动，交付能够推动业务发展的 AI 分析和管理能力。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1ffc3469cc819189ff090ebcfe87b4",
+    "name": "Threpoly",
+    "sourceHash": "27ecb51423ebaced1e7b95986996c54d1bbf1248d0fad37b4eac19452b9d6e36",
+    "summary": "监控外部文件传输",
+    "description": "Threpoly 帮助运营团队了解托管文件传输的运行状况、可用性、性能和安全性。查看当前事件、心跳和预期文件监控、SLA 与性能趋势、工作流和容量测试、安全建议，以及安全的 SFTP、FTPS、HTTPS 和 AS2 交易伙伴配置。访问权限为只读，且仅限于你所在组织的 Threpoly 数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_68f865a554948191bd425efa4c0ef28b",
+    "name": "Thumbtack",
+    "sourceHash": "d04086e8755469357d467e2d5bf8ed833ee235673ee90aa41cc8677432c3ac1f",
+    "summary": "雇用本地专业人士",
+    "description": "通过 Thumbtack，把家庭项目相关问题转化为实际进展。\n询问房屋维修、维护或升级事宜，即可在对话中匹配合适的本地专业人士。Thumbtack 值得信赖的市场拥有 300,000+ 服务提供者，可帮助你处理各种家庭项目。从水管工、电工到清洁人员和园艺师，Thumbtack 让你更轻松地把家居建议付诸行动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69959256cac48191902ac0fb8991a26c",
+    "name": "tiket.com",
+    "sourceHash": "5c844a20825f867e61f5198881ef960e80f32c2603d3f6e522b0c4c8e60ea8af",
+    "summary": "查找航班和酒店",
+    "description": "tiket.com 是印度尼西亚的先驱在线旅行社（OTA），成立于 2011 年。它是该国规模最大、服务最全面的在线旅游公司之一，提供机票、火车票、住宿、别墅和公寓、活动门票、汽车租赁及其他旅行相关服务。我们的使命是通过网站和移动应用，提供最佳的在线旅行预订服务。\n\n2017 年，tiket.com 与 Blibli 建立关联，2021 年正式成为 Blibli 的合并子公司。Blibli 运营名为 Blibli Tiket 的统一全渠道生态系统，其中包括其子公司 tiket.com、Ranch Market 和 Dekoruma。该生态系统的协同效应提升客户便利性，并通过在各渠道和平台提供更全面、更有益且一体化的服务创造额外价值。2022 年，Blibli 在印度尼西亚证券交易所（IDX）正式上市，股票代码为“BELI”。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a53b04db60c81918ef27f59837642c5",
+    "name": "TimePeace — Daily Log",
+    "sourceHash": "751a966444223c18013632f6d5bfb7f62e0e52e079e95388bd00d16fc41197f7",
+    "summary": "把每天记录到日记",
+    "description": "TimePeace 是一个平静、私密的生活记录空间，涵盖日记、日志、习惯、情绪、饮食、锻炼、金钱、人际关系和旅行。连接你常用的 AI 助手后，它可以用日常语言帮助你规划并打理生活。\n\n你可以让它把预订确认信息整理成一趟旅行，自动填入航班、酒店和日期；制定一周训练计划；或规划餐食并把所需物品加入购物清单。你也可以一边交谈一边记录日常：锻炼、用餐、约会或笔记。它添加的所有内容都会标记为来自你的助手，而且它只能删除自己添加的内容，绝不会删除你自己的记录。\n\n你决定它可以访问什么。添加日记内容是基础权限；回读你的日常记录，以及修改你创建的内容（旅行、日常安排和餐食计划），分别是在连接时授予的独立权限，绝不会捆绑授权。此外，健康、人际关系和金钱各自都需要单独授权。若你未开启某项权限，相应工具就会如实拒绝操作。\n\n你的数据不会被出售、用于广告共享或用于建立个人画像——没有第三方跟踪器，也没有广告。这是你的日记；助手只是另一种访问方式，只能在你允许的范围内工作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a516cba31e081919518bb6d2ee6fb44",
+    "name": "TIRAVA - Taxi in Albania",
+    "sourceHash": "9a289b26c104543e31e4537e2c977083287432a6f8a088f09bdbdb4be29fb590",
+    "summary": "在 ChatGPT 中预订出租车",
+    "description": "查询阿尔巴尼亚私人接送和出租车的固定车费及预计行程时间。只需提交乘车请求。无需在线付款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa25a6f97c08191b34f93d75ae248a0",
+    "name": "TitanSigma",
+    "sourceHash": "6956c9b99400d9b51040aaebb153d250e5dd38be9ff2e2d76f2f4ee84e0b109f",
+    "summary": "构建并发布报告",
+    "description": "TitanSigma 汇总你的所有数据并将其发送到 BI 工具，让 KPI 和指标跟踪更简单。\n不必再翻找电子表格或四处追问报告。\n只需清晰的数据，帮助团队更好地经营业务。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a33bb40ccbc81919e7e89ac89c7c80e",
+    "name": "Tixel",
+    "sourceHash": "e443cec39a1141c5edfd5865b5dde2b56129529e46c05cbe79936c28cd457c56",
+    "summary": "演出与体育赛事转售门票",
+    "description": "Tixel 帮助用户在 Tixel 市场搜索即将举行的演唱会、音乐节、体育比赛和演出，比较可购买的门票刊登信息，并在前往 tixel.com 继续购买前查看刊登详情。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aaa5c0218108191bbb6ce86c95e0c13",
+    "name": "TNT Sapper",
+    "sourceHash": "8f6a507faa6cfaf63c6189d86dfa8279771a68a9ddab039bdfe1f3f18cf5fd07",
+    "summary": "TNT 网格推理游戏",
+    "description": "TNT Sapper 是一款在 ChatGPT 中进行的简易推理益智游戏。在 8×8 方格中揭开安全格，根据数字判断相邻炸药的位置，并标记疑似 TNT。避开 10 个炸药，清除全部 54 个安全格即可获胜。首次揭开的格子及其周围格子受到保护。可使用触屏、鼠标或键盘游玩，并通过组件中的“新游戏”开始另一局。未完成的游戏会在 60 分钟后过期。无需单独的玩家账户，无需付款，也没有广告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5f249573388191bc636a69226029c5",
+    "name": "Tolstoy",
+    "sourceHash": "c14ca1652aae7ca5a017a6c4e1515699577c93b9399edcca1944dba5c81f27df",
+    "summary": "创建和管理内容",
+    "description": "Tolstoy 将你的电商内容工作流带入 ChatGPT。\n\n如果你是 Tolstoy 商家，可以在聊天中创建营销创意、管理媒体库、浏览产品目录、构建站内组件并查看广告成效。\n\n你可以：\n  • “为我们的新款陶瓷杯制作一张简洁摄影棚背景的方形商品图”——使用 Studio 创意智能体生成，再继续完善\n  • “显示我媒体库中最近的 20 个素材”——浏览、搜索、重命名视频和图像，并将其收藏\n  • “连接了哪些商店？从我的目录中展示几款产品”\n  • “列出我的站内组件，并显示其中一个的配置”\n  • “显示过去 30 天表现最好的 Meta 广告”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69619eb270748191a34b2ac1db6a18c4",
+    "name": "Tonita",
+    "sourceHash": "0ef49e92c5344ca40f3822cf29664203738679fca3b8ced3a05fb6dcca38b0f5",
+    "summary": "购物搜索与发现",
+    "description": "Tonita 是一个服装和配饰搜索引擎，旨在配合你实际的购物思路。它汇集数百家商店、数千个品牌和数百万件商品，涵盖服装、鞋履、化妆品和日常必需品。\n\n购物方式不止一种。有时你关注价格或实用性；有时则更在意风格、合身度、材质或耐穿性。不同场景下的重点也会改变——工作、旅行、特殊场合、户外活动或日常穿着。Tonita 将这些选择汇集在一起，让你更容易浏览、比较并做出明智选择。\n\n在 ChatGPT 中，Tonita 最适合以对话方式使用。你可以自然地探索宽泛的问题、尚未成形的想法或具体限制条件，例如思考某个场合该买什么、了解材质或商品类别，或缩小到某类特定产品。ChatGPT 会帮助你把想法整理成有效搜索，Tonita 则提供大量相关结果供你浏览、比较和筛选，让需求逐渐清晰。（如需虚拟试穿、收藏和深入浏览等高级工具，也可直接访问 Tonita.co 使用 Tonita。）\n\nTonita 根据优先事项、具体情境和取舍来支持真实购物思路，而不是把所有内容塞进固定类别。你可以按以下方面搜索和探索：\n\n• 预算与价值：从快时尚和折扣好物，到高端单品、值得投资的商品和日常基础款。\n• 风格与审美：极简、繁复、经典、街头、正式、俏皮、实用、时尚前沿或历久弥新，也可以混搭。\n• 潮流与耐久性：当下流行、上一季款式，以及旨在超越潮流周期、长期不过时的单品。\n• 用途与场景：工作、旅行、特殊场合、户外使用、活动、休闲或日常穿着。\n• 合身度、尺码与舒适度：不同体型和需求，包括 petite 及加大尺码、宽松或修身版型，以及优先考虑舒适度的设计。\n• 材质与触感：天然纤维、合成材料、功能面料、轻薄层搭、挺括单品，或为保暖、透气、柔软而选择的材质。\n• 耐用性与护理：易打理基础款、可机洗单品、抗皱服饰，或适合长期穿着、修补和保留的衣物。\n• 可持续发展优先事项：关注材质、生产方式、耐久性，或在环境影响方面采取不同做法的品牌。\n• 熟悉品牌与发现新品牌：知名品牌与新兴品牌、小众设计师品牌，以及常见选择之外的替代品牌。\n• 搭配完整造型：将服装、鞋履、配饰、珠宝和化妆品放在一起考虑，而非孤立选择。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a16d85dc80c819188101f703216b7da",
+    "name": "Tool4seller",
+    "sourceHash": "2424bffb3fc3f49ad9c2ac997def3a3cf85b7ef3d245f4a94667d3b041d78b11",
+    "summary": "亚马逊卖家数据分析",
+    "description": "Tool4seller 帮助 Amazon 卖家直接在 ChatGPT 中查看已授权店铺的销售、利润、库存、评价、入库货件、广告和销售流量数据。该应用提供只读业务分析，用户可以提出运营问题、比较表现并查看市场状态，而不会更改账户数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a14919550ec819187b03a34c1e2c8f3",
+    "name": "ToolCheck by M8ven",
+    "sourceHash": "0260530b786c6716876563b908c143692cae94b093304eea7aaf0c2887eb7605",
+    "summary": "这个 MCP 连接安全吗？",
+    "description": "ToolCheck 是 M8ven 为 MCP 生态系统打造的信任层。提供 GitHub URL 或 npm 软件包名称后，它会返回独立信任评分（0–100）及清晰结论（可信 / 谨慎 / 有风险）。评估依据包括静态代码分析、沙盒中的运行时行为观察、CVE 扫描，以及语义检查——比较工具声称的行为与代码实际执行的行为，从而发现“只读市场数据”和实际能够转移你的资金之间的差异。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a54e74781e48191aaf2688915a856d1",
+    "name": "ToolMatch",
+    "sourceHash": "088ae786494811e37377da1c1f9bf67f9638c57759c3466bd3af2fec3d9783d1",
+    "summary": "查找 ChatGPT 应用",
+    "description": "描述任务或问题，即可从精选目录中查找相关 ChatGPT 应用。每条结果都会说明应用适用的原因，并突出重要限制。ToolMatch 提供指向 ChatGPT 应用页面的链接，无需登录，也不会销售产品或处理付款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9fb9b1df58819183cf46812fc795df",
+    "name": "Topview",
+    "sourceHash": "11960c08dae52fe9dcbc4ef507987e7c7f4428cf46a7cd22414583011fe41439",
+    "summary": "在画布中制作图像和视频",
+    "description": "TopView 帮助你与智能体一起创建和管理视觉项目。使用领先的 AI 模型生成图像和视频，在画布中整理角色、产品、场景、参考素材和版本，并在不同工具之间无需搬运素材即可继续工作。\n使用 TopView，你可以：\n• 在一个地方生成并编辑图像和视频。可根据文本、参考资料、现有素材或智能体上下文创作。\n• 在画布中整理项目素材。管理角色、产品、场景、故事板、参考素材和生成结果。随着项目发展，素材和版本始终保持关联。\n• 将智能体指令与直接编辑结合。让智能体处理规划和多步骤任务，然后直接在画布中检查、重新排序、比较、替换和完善结果。\n• 创作电影和短剧。借助 Film 和 Drama 技能开发故事、角色、世界观、故事板、镜头和时间线。\n• 将研究和数据转化为营销创意。利用产品信息、受众洞察、竞品分析、评价和广告趋势，制作概念、UGC 视频、产品视频和营销活动素材。\n• 重制并改编视频。分析参考视频，复用其结构或风格，并用自己的产品、角色或素材重新创作。\n从规划和研究到视觉创作、编辑与最终交付，都可以与智能体协作，同时让整个项目在画布中保持关联。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a601eb637a081919a66a094e99d38d4",
+    "name": "TracX Logis",
+    "sourceHash": "5cf1934857b37fd18c38362080cb1a2bb7d59a9e45d23ffff9bfccb1b05e1f3f",
+    "summary": "追踪货件并预订全球运输",
+    "description": "通过 TX Logis 轻松完成全球运输与追踪\n\nTX Logis 是一款全球物流和包裹配送助手，帮助用户轻松使用国际运输服务。\n\n无论你是要寄送个人包裹到海外、预约取件、提交运输申请，还是追踪企业货件，TX Logis 都会分步骤提供顺畅可靠的配送支持。\n\nTX Logis 支持需要物流服务、包裹配送、快递服务、运输预订、货件申请、个人寄件、快速配送、国际运输和货件追踪的用户。\n\n主要功能：\n\n- 实时追踪：了解如何使用追踪号码或运单即时查询货件状态。\n- SmartPost 预订：提供 C2C 国际包裹配送、个人寄件、预约取件和门到门服务指南。\n- 运输预订和申请支持：协助办理配送预订、货件申请、包裹寄送和国际运输申请。\n- 全球运输指南：提供寄往 70+ 个国家/地区的说明，包括日本、新加坡、美国及其他主要目的地。\n- 物流和快递支持：快速解答物流服务、包裹配送、快递、快速配送、运费、禁运物品和所需文件等问题。\n- 个人与企业寄件：为个人客户及寄送包裹或管理货件的企业用户提供支持。\n\n使用 TX Logis 助手，简化国际物流、包裹配送、预订和追踪体验。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a81c77c81408191b3d46d3906b2fb88",
+    "name": "TRAINEDBY",
+    "sourceHash": "0d438732adf7262e95157ad3dcb43d2cf822e6082c378bc55909fed43b920a3d",
+    "summary": "依据已验证记录辅导客户",
+    "description": "TRAINEDBY 允许已通过身份验证的教练在 ChatGPT 中使用目前列于该教练名下的客户数据。它可以读取训练、饮食、签到、身体进度和受支持的健康证据；调查规律；并准备精确的训练或营养计划草稿。外部 AI 无法发布会影响计划的更改：教练需在 TRAINEDBY 中审核并应用这些更改。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8995196b748191825408d52a71bbbd",
+    "name": "Translations Universe",
+    "sourceHash": "147e6a9668986a8efbd40c12e23d5682e8e46c84da8e0489147f2fa624a4ddf6",
+    "summary": "翻译服务报价",
+    "description": "获取专业人工翻译、认证及宣誓翻译、MTPE、校对，以及网站或 CMS 本地化的实时价格和交付时间估算。选择语言、文本量、主题领域和紧急程度，即可获得以 EUR 计价的估算价格和交付时间。此插件仅提供报价，不会创建订单或处理付款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698b770bca888191ab46ce45ead2ef00",
+    "name": "Travel Advisory",
+    "sourceHash": "58cb320d75cd216fe6ad9f19e091c6612ab1e371b2801739e23b229579e1d632",
+    "summary": "旅行安全、警报与提示",
+    "description": "及时了解信息。更聪明地旅行，确保安全。\n\nTravel Advisory 使用美国国务院官方旅行警示和相关全球指标，帮助你了解世界各国的安全、健康和风险状况。\n\n预订或出行前，你可以快速查询：\n\n官方旅行警示\n查看目的地的政府旅行警示级别、主要安全问题和官方警告。\n\n针对旅行者的风险洞察\n了解独自旅行者、家庭、商务旅行和远程工作者面临的安全状况可能有何不同。\n\n政治与稳定状况\n查看治理、自由和安全指标，以更好地了解当地情况。\n\n国家/地区比较\n比较多个国家/地区的旅行警示和风险因素，帮助选择目的地。\n\n无论你是在规划度假、商务旅行还是长期停留，Travel Advisory 都能利用清晰、官方的安全信息，帮助你更轻松地做出明智旅行决策。\n\n你可以尝试这样提问：\n- “现在去法国安全吗？”\n- “去墨西哥还是哥斯达黎加旅行更安全？”\n- “这个目的地对家庭旅行有多大风险？”\n- “这个国家/地区有哪些主要安全问题？”\n\nTravel Advisory 与美国政府无关联，也未获其认可。\n咨询信息反映官方来源最近发布的更新，并每日刷新。\n© 2026 TravelAdvisory。为世界各地的旅行者和开发者倾情打造。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cd2c4e26ac8191add6d0cc6559b3f8",
+    "name": "Trendata Market Intelligence",
+    "sourceHash": "e9241604f84bf041d7a6fafa4ffc0a9188f61b34569b233987c0835bd841388c",
+    "summary": "实时数据赋能决策",
+    "description": "Trendata 可连接实时市场情报和消费者搜索数据。你可以直接在工作流中轻松分析全球地区、产品类别以及特定品牌或零售商。通过提供历史搜索量和具体增长指标，你可以准确发现消费者偏好和不断变化的市场趋势。它将复杂数据转化为清晰、可执行的洞察，帮助做出更明智的业务决策。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa0a76daae48191a9eac1df482b806a",
+    "name": "Trendkia News",
+    "sourceHash": "7c8d9d7a95ae1319d1c7fdd5f11ef0bd1580e1893502bf0183ef012e432cab06",
+    "summary": "查找全球最新新闻",
+    "description": "TrendKia 是一个现代化双语新闻台，快速捕捉财经、政治、科技、娱乐、评论、印度及全球热点新闻，核查事实，并在几分钟内以印地语和英语双语提供给你。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5f57efb8e88191afb0645357f43925",
+    "name": "Trifolia",
+    "sourceHash": "918b1794f6bc6ee14a4b1756d2791f2979fb2cf87d0d085c30a3d7c4d588487a",
+    "summary": "研究智利法律",
+    "description": "Trifolia 将 ChatGPT 连接到智利的一手法律来源，让律师和法律专业人士可以用自然语言进行研究，并获得指向原始来源、可核验的引证。\n\n通过四种只读工具，ChatGPT 可以搜索：\n\n- 法院裁决：智利最高法院、上诉法院和专门法院的判决。\n- 法律法规：法律、法典、法令和现行规章。\n- 法律学说：智利法律学者撰写的文章和书籍。\n- 行政裁决：智利审计长办公室（CGR）、劳动局（DT）、国内税务局（SII）、金融市场委员会（CMF）和国家经济检察官办公室（FNE）的决定。\n\n每个答案都包含有依据的综合说明，以及附链接的引证文献目录，便于专业人士根据一手来源核实每项陈述。这些工具只运行搜索，不会修改数据，也不会访问用户的记忆、对话历史或文件。\n\nTrifolia 面向在智利从事专业法律工作的人士。需要 Trifolia 账户（可在 https://trifolia.cl/register/ 免费注册）并使用 OAuth 身份验证。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2899a821dc8191ae811fc34c0417df",
+    "name": "TRIP PLANNER Travel Itinerary",
+    "sourceHash": "fdefae5079db1d2a482609b66687dd8a4c64018a6fe6d6b36bd74165d29d23c6",
+    "summary": "活动、地图、航班与酒店",
+    "description": "将你的旅行规划需求转化为按天安排的行程，并在规划仍于聊天中继续时，通过布局清晰的 Travel Vibes Scratchpad 小组件一览行程。\n\n当你需要旅行计划、行程安排、逐日计划或某地活动建议时都可使用：城市短途游、周末度假、长周末、观光、中途停留、带孩子旅行、自驾游、一日游、多日旅行、多城市路线、多国旅行、欧洲之旅、假期、蜜月、多代同堂及家庭旅行、团体旅行、独自旅行、健康养生之旅、体育或节庆旅行、商务会议出行或商务旅行。\n\n你可以通过链接与旅伴分享旅行计划，或将其下载为 PDF 或图像。获取所有旅行规划确认信息的电子邮件。使用 Travel Vibes 了解每天可以做什么、值得参观的地点、本地提示、美食和餐厅，以及住宿地点。查找酒店和航班、制定预算并跟踪旅行财务、维护活动日历、选择日期，以及规划旅行路线和航线。获取媲美高级旅行顾问或导游的帮助。\n\n我们的应用用户曾前往欧洲、亚洲、非洲、美洲，甚至南极洲旅行。Travel Vibes 曾帮助规划法国、西班牙、美国、土耳其、意大利、墨西哥、英国、德国、日本、希腊、泰国、奥地利、沙特阿拉伯、葡萄牙、马来西亚、荷兰、印度、加拿大、波兰、越南、摩洛哥、克罗地亚、韩国、埃及、印度尼西亚、匈牙利、新加坡、瑞士、阿尔巴尼亚、突尼斯、乌兹别克斯坦、比利时、南非、瑞典、保加利亚、多米尼加共和国、澳大利亚、哥伦比亚、巴西、柬埔寨、巴林、阿根廷、爱尔兰、菲律宾、智利、约旦、格鲁吉亚、斯洛文尼亚、卡塔尔以及许多其他国家/地区的旅行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a96bffa8b908191b3ec9a38e6c2167f",
+    "name": "trip1",
+    "sourceHash": "3f04eb2b9e6825e126cf685031a9b0520151d42621aa682cdcc47165a7479907",
+    "summary": "预订酒店并使用加密货币付款",
+    "description": "trip1 可让智能体搜索、比较并预订真实酒店库存——约 3 million 家酒店，遍布 200+ 个国家/地区。按目的地和日期搜索，查看客房、价格和取消条款，然后创建预订，并通过 x402 使用 Base 上的 USDC 付款（或通过基于浏览器的加密货币结账）。付款结算后，预订会自动确认。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fc5bf0562c8191b2c7dda4ff86d008",
+    "name": "TripO by FreeTravel",
+    "sourceHash": "c75d8b3da9f249cdcc7639db70e2982e1b00e90c12d072b39137fcb7344caa02",
+    "summary": "预订全球酒店并享受礼遇",
+    "description": "TripO 让你可以直接在 ChatGPT 中预订全球酒店，而且与大多数预订网站不同，你无需为此放弃任何权益。\n预订时添加你的会员计划信息，即可保留已获得的权益：积分、精英会籍认可和会员福利——IHG、Marriott、Hilton 及其他主要连锁酒店都会像你直接预订一样认可这些权益。\n在部分精选豪华酒店和商务酒店，TripO 还提供更多礼遇。我们的优选价格附带额外福利，例如免费早餐、视供应情况提供的客房升级、酒店消费额度，以及提前入住或延迟退房——这些礼遇通常只提供给高端旅行顾问的客户。\n只需用日常语言描述需求，例如“下周末在新宿站附近找一家含早餐、每晚低于 $150 的酒店”，TripO 就会从专业旅行库存中返回实时空房情况和实际价格。比较房型、床型配置和取消政策，通过对话继续筛选，并且无需离开聊天即可预订。\nTripO 由旅游科技公司 FreeTravel 开发，该公司致力于将 AI 助手与全球酒店库存连接起来。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69edd634b04881918f20d1c9af1ca125",
+    "name": "Tripuck",
+    "sourceHash": "e6ec801779dd2de0d5d47df5cf5a14cf696eb1734bee27f653f23da1e3cb71e6",
+    "summary": "航班 + 集合地点——比较",
+    "description": "Tripuck 是航班元搜索和旅行规划服务。此连接器\n让你可以搜索实时机票价格、查看某条航线每月最便宜的日期、浏览从任意出发城市出发的热门目的地，并打开任一搜索结果的完整航段 / 行李详情——全部可在聊天中完成。\n\nTripuck 的特色功能是 **集合地点**：为从不同城市出发的 2-5 位旅客计算价格最低且最公平的共同目的地，并提供每人价格明细和公平性评分。非常适合为分散在多个国家/地区的团队协调旅行。\n\n每条结果都会通过深层链接跳转到 tripuck.com，以便查看预订并结账。此连接器本身为只读：不会预订、收费、修改账户，也不会保留任何用户付款信息。\n\n支持的用户语言：土耳其语、英语、阿拉伯语、阿塞拜疆语、德语、格鲁吉亚语和乌兹别克语。工具会根据对话推断用户使用的语言，并以该语言返回回复；阿拉伯语采用从右到左的版式。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f9d727ad788191b9e4a8aca2755a6f",
+    "name": "Trocafone",
+    "sourceHash": "79a5064391291318871a4aae10dfdbb42cfc28509111b241cd923b2315882ece",
+    "summary": "查找二手智能手机",
+    "description": "Trocafone 是巴西领先的认证二手科技产品市场。我们专营智能手机，也提供各种品牌的平板电脑、笔记本电脑、智能手表和配件。\n\n每件产品都经过严格质量测试，并标注清晰等级，让你准确了解购买内容。所有购买均包含保修，并通过我们的网站安全处理。\n\n使用此 GPT 发现可购设备、查看规格、比较等级并寻找优惠。购买和付款均在 trocafone.com 完成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3c3057bc8481918c64e253f30ed770",
+    "name": "Trussi AI",
+    "sourceHash": "cfb59b0bcad9cd433bac47ab9db8c9a9d2e3683c57a019271d1504503afc7289",
+    "summary": "运行屋顶施工 CRM",
+    "description": "Trussi AI 将你的 Trussi 屋顶施工 CRM 连接到 ChatGPT，让团队可以用日常语言管理业务。\n\n查询信息：\n- 查找并打开项目和客户，查看完整施工详情（状态、报价、文件、测量数据）\n- 查看销售管道、仪表板和销售代表排行榜\n- 获取逐月收入、应收账款 / 催收情况，以及营销渠道表现\n- 查看任意日期或日期范围的日历、人工和配送安排\n- 查看利润分析、工作表（签约金额、已收款、应付余额）和保险补充款\n- 阅读项目及各用户的活动时间线，并运行已保存的报告\n\n可执行操作（取决于你的权限）：\n- 添加评论、创建日历事件和报价，并推进项目的销售阶段\n- 代表你向客户发送电子邮件或短信\n\n安全性：\n- 使用 OAuth 2.0 和 PKCE 登录；应用只能看到你的账户已允许访问的数据\n- 每个请求均限定于账户范围并经过能力权限检查，与 Trussi 应用完全一致\n- 读取和写入是连接时分别批准的独立权限范围\n\n专为屋顶施工团队打造，服务销售代表、生产团队和业主；系统会根据角色和分支机构自动限定访问范围。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a165bf058208191b694d46e7f567a5a",
+    "name": "TuEspacioPR",
+    "sourceHash": "1a410a5258dd86e3f4cd9d289429692f9d8a14c9180895a3a5d24bae2634572f",
+    "summary": "搜索波多黎各分类信息",
+    "description": "TuEspacio 将波多黎各分类信息带入 ChatGPT。用自然语言提问——英语或西班牙语均可——即可立即浏览全岛真人发布的本地信息。\n\n可搜索六个类别：\n\n房地产——出售或出租的住宅、公寓和土地\n车辆——汽车、卡车、摩托车和船只\n市场——家具、电子产品、家电和日常用品\n服务——水管工、电工、美容、维修等\n工作——全职、兼职和自由职业岗位\n探索——值得游览的地点、餐厅和活动\n可按市镇、价格、状况或类别筛选。在聊天中查看照片、价格和联系方式，然后点击前往 tuespaciopr.com 给卖家发消息。\n\n每条信息都由波多黎各居民和小型企业直接发布，因此你看到的就是岛上当下实际可供选择的内容。TuEspacio 免费使用，也免费发布——你的空间、你的搜索、你的波多黎各。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7d1ad4de2481919d1fffb74bec9ff6",
+    "name": "Turkey Dental Treatment Prices",
+    "sourceHash": "720a4e3b790c415a9635ebbe2e4728bd2f34b3b459d47ef227821f8f4e803325",
+    "summary": "种植牙、贴面、All-on-4/6",
+    "description": "计划在土耳其接受牙科治疗？获取高端牙科种植体（Nobel Biocare、Straumann）、Ivoclar E.max 贴面和牙冠、氧化锆牙冠、好莱坞微笑，以及 All-on-4/6/8 全口种植套餐的参考价格，还可了解诊所的书面保证、主治医生资质、就诊安排和术后护理，以及患者评价摘要。信息来自 Taki Dent（takident.com），这是一家位于土耳其安塔利亚的牙科诊所，由修复牙科专科医生 Dr Sadik Taki 领导，专注为国际患者提供种植、牙齿美容和全口修复。重要提示：这些是一家诊所自行发布的一手只读数据——不是多家诊所价格比较，也不是中立目录。所有价格均为“起价”参考金额，诊所会在评估后确认。如果你希望诊所联系你，选择加入的回拨工具会在你明确同意后，将你的姓名及电话号码或电子邮件传递给患者协调团队，且绝不会收集医疗详情。仅供信息参考：不构成医疗建议、诊断或治疗方案，也不涉及付款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a85e860ac5c819192efbc8027e72968",
+    "name": "Turquoise",
+    "sourceHash": "3e001836a503fb95bd068b3aa155ad6e62603dd91c212e017fe559b1dcd18022",
+    "summary": "医疗保健定价情报",
+    "description": "将 Turquoise 连接到 ChatGPT 或 Codex，探索 Turquoise Health 的医疗保健定价数据。你可以搜索医疗保健机构、了解它们之间的关系，并分析不同服务类别的网络内价格。适用于基准比较报销费率、估算市场规模、了解付款方在特定地区支付的费用，或比较不同服务提供者和保险计划的费率。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a270c13971481919912d877b5b32fc6",
+    "name": "TwinMind",
+    "sourceHash": "76a35670c612d2d832a817e2ee0ae0563d72024b8af7bd22e886bbfa71bf3793",
+    "summary": "AI 笔记与记忆",
+    "description": "TwinMind 会记录你在会议、讲座和面对面交谈中说过和听到的一切。它会自动转录、总结、主动提供建议和任务，并持续为你的 AI 第二大脑积累上下文。\nTwinMind 是一款利用 AI 充当第二大脑的效率工具。它会捕捉你听到、看到和说出的一切；你与 TwinMind 的互动越多，它积累的内容就越丰富，从而构建对你数字生活的全面上下文。这些记录的上下文带来多项核心功能：\n个性化主动协助：TwinMind 会根据记录的记忆提供量身定制的建议和创意，预见你的需求并给出相关洞察。\n提升效率：它可自动完成会议和对话摘要、行动事项等任务，改进笔记记录。你可以搜索整个记忆库、提问、生成电子邮件、学习指南、投资者备忘录、项目计划等。\n隐私保护：TwinMind 通过设备端转录优先保护用户隐私，并允许将转录内容保存在本地或云端。我们承诺不与第三方共享数据。音频会即时处理，绝不存储。\n主要功能：\n\n记录与上下文构建：如果搭配 TwinMind Chrome 扩展程序，可在移动设备和桌面设备上记录你的活动（音频、视觉、文本）。\n个性化建议：你的 AI 助手会根据记录的记忆提供量身定制的洞察。\n自动摘要和行动事项：提取会议、对话和课堂讲座中的关键信息。\n可搜索的记忆库：搜索你记录的历史和笔记。\n向 TwinMind 随意提问：结合你的记忆或当前会议上下文提问并获取答案。\n内容生成：协助撰写后续跟进邮件、学习指南和其他文档，提升效率。\n隐私保护：采用设备端转录，允许切换至隐私模式将转录内容存储在本地，并且不与第三方共享数据。\n\nTwinMind 旨在打造一个集中式 AI 平台，记录、整理并利用你的记忆，为你提供个性化协助并自动处理任务，同时保护你的隐私，从而提升工作效率。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a578a625b448191ac23be681cda949b",
+    "name": "Twistly AI Presentation Maker",
+    "sourceHash": "0b8a6f10f40a820aed3ed2d0f0567eeb9aee2ba50ac8ac09d4d20ee60df36587",
+    "summary": "创建可编辑的幻灯片",
+    "description": "Twistly 可将你的想法、笔记和文档转化为可直接编辑的 PowerPoint 演示文稿。描述主题、粘贴文本或分享文件（TXT、PPTX、PDF、DOCX、XLS 或 HTML），Twistly 就会在几秒钟内制作出结构清晰、版式明确且配有相应视觉素材的幻灯片，最多可达 50 页。可从 50+ 个模板中选择，保持一致且符合品牌风格的外观。\n生成的内容都是原生、完全可编辑的 .pptx 文件，而非网页导出文件，因此可在 PowerPoint 中顺畅打开，不会出现布局错乱。你可以像编辑普通演示文稿一样手动修改，也可以使用 Twistly PowerPoint 加载项继续完善和重新设计幻灯片。所有内容都不会被锁定在独立编辑器中。\n全球各地的学生、教育工作者、商业人士和团队都在使用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3d800bfea0819183aec5942057fe61",
+    "name": "UkraineBorder",
+    "sourceHash": "db4a3face5b4f699de781dffe0f4a6fac6def43c7b2c2cec8c3905e2b6810973",
+    "summary": "乌克兰旅行与保险",
+    "description": "UkraineBorder 为前往乌克兰的外国旅行者提供权威、多语言指南，内容涵盖 10 种语言的边境口岸、海关、各地区安全情况和旅行必备信息。它还介绍一家持牌乌克兰保险公司提供的旅行保险，包含战争风险和辐射风险保障：搜索指南、获取参考价格，并获得预填信息的购买链接。身份验证、必需的确认、签名和付款均由你在 ukraineborder.com 上完成——绝不会在助手中完成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a86692129b08191a7a16dfc63cb2c92",
+    "name": "Ullbek",
+    "sourceHash": "29f6c54594bcc2b3243f68b5d0af52b05becd15fc9eb516efa879f6dcf1fdb00",
+    "summary": "构建并发布网站",
+    "description": "用日常语言描述你的业务或想法，Ullbek 就会围绕它构建真正定制的网站——为你撰写实际页面，而不是受限的模板区块。通过实时预览链接查看网站逐步成形，用日常语言提出任何修改，并在准备就绪后发布到网上。每个网站都附带免费网址和免费托管；高级托管支持连接自定义域名。无需模板、拖放操作或编程——描述需求，网站即可建成并上线。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a11e118ab748191a479f91ce9e172ad",
+    "name": "Unabyss",
+    "sourceHash": "9832d7dab3fc52a93d61f104123cffea6fe5d42508090146b65b1f6eadbb7621",
+    "summary": "你的 AI 上下文层",
+    "description": "Unabyss 是你的 AI 个人上下文层。连接你已在使用的应用——LinkedIn、你的网站、Notion、Gmail、Slack、GitHub——Unabyss 就会自动提取、整理并保持上下文最新。之后，你使用的任何 AI 工具（包括 ChatGPT）都能在需要时调取恰当的上下文。\n每次对话开始时，都不用再反复解释你的角色、项目、表达风格或公司情况。你的上下文集中保存在一个地方，随着来源变化而保持更新，并可随你在所有 AI 工具之间使用。\n你将获得：\n\n在 90 秒内从现有工具自动提取信息\n由你完全拥有的结构化上下文文件——个人设定、表达风格、公司信息等\n细粒度权限：可分享你的写作风格，而不暴露职业详情\n一键导出投资者更新、会议准备材料、个人简介和 ICP\n随着已连接来源同步而始终保持最新\n\n专为创始人、运营人员和构建者打造，适合日常使用多种 AI 工具、厌倦每次从零开始的人。如果你曾想过“ChatGPT 本来就该知道这些”，Unabyss 正是为了解决这个问题。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5e3b8129508191902f07fa394831a3",
+    "name": "Unthread",
+    "sourceHash": "635bfd9d1db9595449ca8efebc7263ce91621d8654fa34d2514e7a165acec278",
+    "summary": "管理支持工单",
+    "description": "Unthread 是面向工程和产品团队的 B2B 支持平台。此插件通过精简、以发现为导向的工具界面，将你的 Unthread 工作区连接到 ChatGPT：搜索底层 Unthread API、按需获取架构，并执行受访问类别权限控制的读写操作。可用于调查对话、分诊高优先级工单、监控 SLA 和分析数据、查询知识库，以及创建或更新工单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d437c65f948191a5293783bc5528e3",
+    "name": "upword",
+    "sourceHash": "7fb856ed8b72b56b15d5f6f84d1bc364f0e8c39f7a0b1ff36430280009348af7",
+    "summary": "跟踪客户 AI 引用情况",
+    "description": "upword 帮助本地服务企业获得 ChatGPT、Google AI Overview 和 Perplexity 等 AI 工具的引用。本应用让代理机构无需离开当前对话即可检查相关工作进展。\n\n在 ChatGPT 中询问任何客户。它会提取客户的引用数据、近期内容、收到的 Reddit 问题和额度使用情况，并给出真实进展分析，供你采取行动，而不是堆砌数据。\n\n只读访问你的完整客户名单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a75165ed2d8819182548553aa4cb6d5",
+    "name": "Upwork",
+    "sourceHash": "c36e7e506b41595a0314060a2ed080b7bf8dfc78638ca721e58cd44692f7a863",
+    "summary": "招聘、应聘并管理工作",
+    "description": "Upwork 将招聘客户与自由职业者连接起来。客户可以发布工作、查看提案、发送邀约、给自由职业者发消息，并管理合同、里程碑和付款。自由职业者可以搜索和保存职位、提交提案、回复邀请和邀约、跟踪收入和工时报告，并管理公开个人资料。双方都能在统一仪表板中查看最新动态。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a7ae128414819195bbbadb09dd3b14",
+    "name": "Userback",
+    "sourceHash": "915eead5f8f2f65a1e3c153c0afeb6f8cc5255a366c0fd1d6bc713e13fbd1dff",
+    "summary": "处理客户反馈",
+    "description": "收集、理解并处理用户反馈。\n\n将 Userback 数据连接到 ChatGPT，让你无需在工具之间切换，就能更轻松地查看、理解和管理客户反馈。团队可以快速访问反馈条目、查看截图和技术详情、总结报告，并判断下一步需要关注什么。\n\n连接 Userback 后，产品、工程和支持团队可以更快地对新收到的反馈进行分诊，发现客户报告中的模式，并直接在 AI 工作流中创建、更新和评论反馈条目，让工作持续推进。\n\nUserback 帮助团队将客户反馈转化为清晰、可执行的洞察，让业务各部门更高效地理解和处理错误、易用性问题及功能请求。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa5ca929378819185ba1742c7e93030",
+    "name": "UX Jobs",
+    "sourceHash": "d7317cbfef221b81eff769b9b3cc70f5c4b1244a2879f0d69a02d87d3cb68496",
+    "summary": "查找实时 UX 与设计职位",
+    "description": "UX Jobs 是一个精选、无广告的 UX、产品设计、UX 研究和内容设计职位板，拥有 4,000+ 个实时职位，来自 2,200+ 家公司，汇总自 60+ 个招聘跟踪系统；每次运行时都会向各雇主重新核实，已关闭的职位会被移除，不会长期滞留，并且每天刷新数次。\n\n使用此插件，ChatGPT 可以直接搜索职位板。你可以查找薪资高于指定金额的远程高级产品设计职位、伦敦的 UX 研究岗位，或询问本周德国哪些公司新增了最多设计职位。可获取任意职位的详情——地点、工作方式、已公布薪资、职位描述摘录和雇主申请链接——并附上 jobs.uxjobs.io 上该职位的链接。两种分析工具提供设计招聘市场的实时概览（职位总数、本周新增、远程职位占比、资历和专业领域构成、热门国家/城市/雇主），以及按资历划分的已公布薪资中位数。\n\n只读、免费，无需账户或登录。资历和专业领域根据职位名称推断；薪资中位数仅使用公布 USD 薪资范围的职位计算。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a43db2d6e5881919880245922bbfa58",
+    "name": "Uxia",
+    "sourceHash": "650a9c5a960cc18addb03a72074ff12c6e3389d6fcedb8c13c257d6c5087d655",
+    "summary": "AI 易用性测试",
+    "description": "Uxia 帮助产品和设计团队创建 AI 测试用户群，在原型或上线体验中启动易用性测试，并在 ChatGPT 中查看易用性、无障碍访问和市场研究结果。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa581532c1c8191b57d50687aad2f8d",
+    "name": "v2v",
+    "sourceHash": "2f8b3a4ddf1650f85cb3883ddba3baef9cf96e7425150b323182906983eb633c",
+    "summary": "搜索阿尔巴尼亚房产",
+    "description": "在 ChatGPT 中搜索并比较阿尔巴尼亚的房地产。V2V 帮助用户根据城市、预算、房产类型和距海距离等结构化筛选条件，查找待售或待租的公寓、别墅、住宅和新建房产。结果包含房源事实、市场背景和来源链接，方便用户在 v2v.al 或原始房源网站继续尽职调查。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699f271413c88191bcd187a1007f9fbf",
+    "name": "Valpas Hotels",
+    "sourceHash": "5652855a3eb92cdc3fba934c0fdc9908fc704eec823376e19da10d9af18414d2",
+    "summary": "查找无臭虫酒店",
+    "description": "搜索配备 Valpas 专利臭虫防治技术的酒店。我们的所有搜索结果酒店均通过 Valpas 认证，让你可以安心旅行，相信住宿地点重视卫生、清洁和宾客安全。\n\n你可以：\n  - 按城市、街区、价格和风格搜索受 Valpas 保护的酒店\n  - 浏览酒店详细信息，包括照片、设施、评分和住客评价\n  - 获取直接预订链接以预订客房\n\n无论你是在规划休闲旅行、商务住宿，还是为团体管理旅行，只需描述需求——“在巴黎找一家评价不错的精品酒店”或“给我看看柏林市中心附近安全、干净的酒店”——Valpas 就会推荐符合条件的已验证酒店。\n\n所有结果仅限使用 Valpas 防臭虫技术的酒店。如果没有酒店符合你的全部条件，应用会告知你，并建议调整筛选条件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69445b148f08819187525b8c34b00175",
+    "name": "VEED Video Generator",
+    "sourceHash": "29889857b19736cc733ec6bbb129ad98bab384df1340e37fc1432ccd7bfb9458",
+    "summary": "用 AI 生成视频",
+    "description": "选择角色，选择声音，生成视频。就是这么简单。浏览逼真的角色和自然悦耳的声音库，然后看着你的想法变成精致、可分享的视频——无需摄像机或摄制团队。非常适合创作者、营销人员以及任何希望在几分钟内制作专业品质视频的人。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a97e1d563d081918e018b4a534b2023",
+    "name": "Veille",
+    "sourceHash": "d3f500da09bd6c00e539db63a49e28ed1763edf8203d3b103e2bf9b558d1cacd",
+    "summary": "电子邮件和 VAT 验证",
+    "description": "Veille 是面向 ChatGPT 的电子邮件、域名、电话、IP、VAT 和 IBAN 验证 API。在信任注册、发票和流量之前，先对其进行检查。\n\n电子邮件验证会标记一次性邮箱、角色账户，并提供 0-100 风险评分。电子邮件资质检查还包括 SMTP 和 catch-all。域名检查一次性域名和 MX 状态。电话验证涵盖 E.164 运营商及虚拟号码。IP 信誉检测 VPN、代理、Tor 和数据中心。VAT 使用 VIES。IBAN 会返回银行和 BIC。汇率来自 ECB。\n\n连接时请使用你的 Veille 账户登录。调用使用的额度和配额与 app.veille.io 相同。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3a3f4a5f708191a14ef4153c87513b",
+    "name": "Velaris Basic",
+    "sourceHash": "fd73a329e0040c3cf21b961613dcd8c72f297a6dc825900338e0f3800f588c4d",
+    "summary": "管理客户数据",
+    "description": "Velaris Basic 让你可以直接在 ChatGPT 中用日常语言访问客户数据，无需仪表板，也无需切换标签页。\n\n你可以：\n\n查询客户账户和组织——查看任意客户的健康评分、流失状态、ARR、生命周期阶段和分配的 CSM。\n搜索联系人——按姓名、账户或角色查找人员并查看其详情。\n跟踪风险和机会——在你的客户组合中发现有风险的账户或待处理的扩展机会。\n管理笔记和任务——阅读现有笔记、创建新笔记，并更新关联客户记录的任务。\n适用对象：\n希望无需离开现有工作流程，就能更快访问和更新 Velaris 数据的客户成功经理和客户成功领导者。\n\n需要 Velaris 账户。读写权限由你的 Velaris 角色权限控制。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a343f0d5c048191aa3ebd840ab4c555",
+    "name": "Ventor",
+    "sourceHash": "3d3d1cd9bf9a6a0836d4ffcc2c936d1f9766c61dd894f6cbcbfa14bfd303fa97",
+    "summary": "AI 销售与支持",
+    "description": "Ventor 将 ChatGPT 连接到私有 Ventor 工作区，以便查看客户对话、CRM 记录、产品、表格、助手、自动化和指标。用户可以安全地检查电子表格并将其导入任何受支持的表格，查询或分析已存储数据，并导出受限范围的结果。不可逆的外发操作以及预览 / 应用工作流需要明确批准；直接记录 upsert 会立即生效，并会标记为可能触发已配置自动化的持久写入。Ventor 不处理付款、不发起结账，也不转移资金。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c270fef8088191b28fe11b34077dfb",
+    "name": "Venturu",
+    "sourceHash": "6224485a4eca8f9b4b5548d6f0e81a5eb2853e7801d45b3ed9eae83480fc9f82",
+    "summary": "寻找待收购企业",
+    "description": "通过对话寻找你的下一个企业。Venturu 将你连接到美国规模最大的待售企业线上市场之一，提供数千条已验证房源和一千多名经纪人。\n\n按地点、价格、收入、行业和 20+ 项其他筛选条件搜索房源。按城市、专长或语言寻找经纪人。查看任意房源或经纪人资料的完整详情，并直接在 ChatGPT 中向卖家或经纪人发送咨询。\n\n你可以：\n\n- 按地点、价格范围、收入、行业、SBA 资格等条件搜索待售企业\n- 查找并比较已验证的企业经纪人\n- 获取房源详细信息，包括财务数据、员工人数和交易结构\n- 直接在聊天中联系卖家和经纪人\n\n搜索和浏览免费。给卖家和经纪人发消息需要免费的 Venturu 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a98a5094158819184a2707539f04bd7",
+    "name": "Vibewatch",
+    "sourceHash": "d19e2bc43e0d455a5d60d18d0cfb575bb8cc0fcd301b19480410bab9812ec213",
+    "summary": "为你的社区情绪打分",
+    "description": "让 ChatGPT 了解你所在社区的氛围。Vibewatch 是面向 web3 团队的社区情报工具：它读取 Discord、Telegram、X 等平台上的社区内容，对社区情绪打分，呈现每日洞察并撰写周报。此插件通过托管的 Vibewatch MCP 服务器，将 ChatGPT 和 Codex 连接到你的 Vibewatch 组织，提供情绪概览、每日趋势、消息搜索、每日洞察、周报、市场背景和公开的 Stacks 生态系统索引，所有功能均为只读。请使用你的 Vibewatch 账户登录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3debc678d48191b918c3224c2ce431",
+    "name": "Visily",
+    "sourceHash": "e9b1b973707307d72288616b0b4556a824a62e5de15f95d8c19f5230486b3326",
+    "summary": "将设计转化为代码",
+    "description": "将 Visily 设计带入 ChatGPT。查找画板和屏幕，将 Visily 设计转化为响应式应用代码，并将画板主题令牌应用到你的项目。使用 OAuth 连接具有编辑者许可证的 Pro 或 Business 工作区，然后分享 Visily 链接或按名称请求画板。",
+    "model": "codex-subagent-reviewed"
+  }
+]

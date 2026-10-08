@@ -33,3 +33,9 @@ test('payment received and URL punctuation do not reject faithful Chinese',()=>{
  assert.throws(()=>checkCompleteness('See https://example.org/terms.','参见 https://example.org/other。'),/protected value/);
  assert.throws(()=>checkCompleteness('See https://example.org/wiki/A_(B).','参见 https://example.org/wiki/A_。'),/protected value/);
 });
+
+test('accepts job position context and faithful cost phrasing',()=>{
+ assert.equal(checkCompleteness('available positions at SonicJobs show job opportunities','展示可申请的职位机会','SonicJobs employment opportunities'),'展示可申请的职位机会');
+ assert.equal(checkCompleteness('Cost-effective capture, monthly pricing and delivery fees','成本效益高；月费和配送费',''),'成本效益高；月费和配送费');
+ assert.equal(checkCompleteness('Clear, competitive pricing','清晰且有竞争力的票价',''),'清晰且有竞争力的票价');
+});
