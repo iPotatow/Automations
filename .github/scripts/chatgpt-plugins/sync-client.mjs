@@ -21,7 +21,7 @@ export async function runSiteSync(client,commit,{now=Date.now,log=console.log,su
  for(let i=0;i<300&&now()<catalogDeadline;i++){catalog=await client.post('/api/admin/sync',{commit});log(`D1 sync: ${JSON.stringify(catalog)}`);if(catalog.complete)break;}
  if(!catalog?.complete||!/^[a-f0-9]{64}$/.test(catalog.id))throw new Error('D1 sync exceeded its bounded budget');
  if(catalog.superseded){await summary('Skipped an older publication; the live catalog is newer.');return {catalog};}
- let assets;const assetDeadline=now()+35*60000;
+ let assets;const assetDeadline=now()+60*60000;
  for(let i=0;i<10000&&now()<assetDeadline;i++){assets=await client.post('/api/admin/assets',{generation:catalog.id});log(`R2 sync: phase=${assets.phase}, cached=${assets.cached}, failed=${assets.failed}, removed=${assets.removed}`);if(assets.complete)break;}
  if(!assets?.complete)throw new Error('R2 sync budget reached; the saved checkpoint will resume on the next run');
  await summary(`Catalog and icons synchronized. Cached: ${assets.cached}; unavailable: ${assets.failed}; obsolete icons removed: ${assets.removed}.`);

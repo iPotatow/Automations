@@ -24,3 +24,18 @@ test('D1 finishes before R2 and source-unavailable icons remain visible in summa
 test('superseded publications skip icon mutations',async()=>{
  let calls=0;await runSiteSync({post:async()=>{calls++;return {complete:true,superseded:true,id:'a'.repeat(64)};}},'b'.repeat(40),{log:()=>{}});assert.equal(calls,1);
 });
+
+test('first icon cache may exceed 35 minutes while remaining bounded',async()=>{
+ let elapsed=0,assetCalls=0;
+ const result=await runSiteSync({post:async path=>{
+  if(path.endsWith('/sync'))return {complete:true,id:'a'.repeat(64)};
+  elapsed+=20*60000;return {complete:++assetCalls===3,phase:'icons',cached:4000,failed:5,removed:0};
+ }},'b'.repeat(40),{now:()=>elapsed,log:()=>{}});
+ assert.equal(assetCalls,3);assert.equal(result.assets.complete,true);
+ elapsed=0;assetCalls=0;
+ await assert.rejects(runSiteSync({post:async path=>{
+  if(path.endsWith('/sync'))return {complete:true,id:'a'.repeat(64)};
+  elapsed+=20*60000;assetCalls++;return {complete:false};
+ }},'b'.repeat(40),{now:()=>elapsed,log:()=>{}}),/saved checkpoint/);
+ assert.equal(assetCalls,3);
+});
