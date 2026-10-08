@@ -39,3 +39,7 @@ test('accepts job position context and faithful cost phrasing',()=>{
  assert.equal(checkCompleteness('Cost-effective capture, monthly pricing and delivery fees','成本效益高；月费和配送费',''),'成本效益高；月费和配送费');
  assert.equal(checkCompleteness('Clear, competitive pricing','清晰且有竞争力的票价',''),'清晰且有竞争力的票价');
 });
+
+test('accepts usage-based pricing as a cost term',()=>{
+ assert.equal(checkCompleteness('usage-based pricing','按使用量计费'),'按使用量计费');
+});

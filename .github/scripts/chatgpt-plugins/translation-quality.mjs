@@ -21,7 +21,7 @@ const rules=[
  [/\bread.only\b/i,/只读/, 'read-only'],
  [/\b(?:confirm|confirmation|approval)\b/i,/确认|批准|审批|核准|获批|证实/, 'confirmation'],
  [/\b(?:requires?|required|requirements)\b/i,/需要|需|要求|必须|须|必填|依法|法定|必要/, 'requirement'],
- [/\b(?:credits|paid|pricing|costs?|fees?)\b/i,/积分|额度|点数|付费|价格|定价|报价|费用|收费|成本|消耗|缴税|税费|支付|付款|收款|学费|有薪|薪资|工资|年费|保费|手续费|花费|多少钱|成本效益|月费|票价|配送费/, 'cost'],
+ [/\b(?:credits|paid|pricing|costs?|fees?)\b/i,/积分|额度|点数|付费|价格|定价|报价|费用|收费|成本|消耗|缴税|税费|支付|付款|收款|学费|有薪|薪资|工资|年费|保费|手续费|花费|多少钱|成本效益|月费|票价|配送费|计费/, 'cost'],
  [/never submits orders directly/i,/(?:不会|从不|绝不).{0,12}(?:提交|下单)/, 'no direct orders'],
 ];
 function positionTerms(source){
