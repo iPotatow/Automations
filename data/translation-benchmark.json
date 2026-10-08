@@ -1088,10 +1088,31 @@
     "plugin_connector_68df33b1a2d081918778431a9cfca8ba|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_connector_68df33b1a2d081918778431a9cfca8ba",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:29.459Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 325
+      "at": "2026-10-08T05:31:49.494Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 943,
+        "completion_tokens": 3980,
+        "total_tokens": 4923,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 117.11817932128906
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "创建、审阅并编辑设计"
+          },
+          {
+            "id": "p4.0",
+            "text": "@Canva，根据此大纲制作一份路演演示文稿。\n@Canva，制作一张 Instagram 帖子，宣布我们的周五促销活动。\n@Canva，生成一张黎明时分灯塔的插画。\n@Canva，移除这张照片的背景。\n@Canva，上传此 PDF 并将其转换为演示文稿。\n@Canva，调整此设计的尺寸以适配社交媒体。\n@Canva，使用我的品牌模板根据此电子表格创建设计。\n@Canva，更新此设计中的标题。\n@Canva，根据评论中的反馈进行修改。\n@Canva，根据我的品牌套件 (Brand Kit) 检查此设计。\n要求：连接您的 Canva 账户以使用此插件。\n“批量创建”功能需要符合条件的 Canva 企业版方案。\n设计和图像生成将消耗 Canva AI 积分。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 29725
     },
     "plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e",
@@ -2054,943 +2075,2634 @@
     "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:30.006Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 78
+      "at": "2026-10-08T05:32:19.409Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 815,
+        "completion_tokens": 855,
+        "total_tokens": 1670,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 29.824962615966797
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "网购互联网与无线产品"
+          },
+          {
+            "id": "p0.0",
+            "text": "AT&T Products 提供一体化的交互体验，使用户能够验证家庭互联网的可用性，评估互联网和无线产品，探索设备和服务计划，查找AT&T门店，管理购物车，并无缝进入AT&T结账流程。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 4738
     },
     "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:30.323Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 73
+      "at": "2026-10-08T05:32:24.816Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1073,
+        "completion_tokens": 150,
+        "total_tokens": 1223,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 41.77614974975586
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "Shopify 互联网与无线服务"
+          },
+          {
+            "id": "p0.0",
+            "text": "AT&T 产品提供一个集成的对话式体验，用户可以通过它验证家庭互联网可用性，评估互联网和无线服务方案，浏览设备和服务计划，查找 AT&T 门店，管理购物车，并无缝过渡到 AT&T 结账流程。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 3613
     },
     "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:30.628Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 67
+      "at": "2026-10-08T05:32:28.662Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 826,
+        "completion_tokens": 1073,
+        "total_tokens": 1899,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 36.772727966308594
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "选购互联网与无线服务"
+          },
+          {
+            "id": "p0.0",
+            "text": "AT&T Products 提供了一套集成的对话式体验，用户可以通过该体验查询家庭互联网覆盖情况、评估互联网与无线服务方案、浏览设备及服务套餐、查找 AT&T 门店、管理购物车，并无缝跳转至 AT&T 结账页面。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 44212
     },
     "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:30.885Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 61
+      "at": "2026-10-08T05:33:13.101Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 774,
+        "completion_tokens": 547,
+        "total_tokens": 1321,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 20.24912452697754
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "客户支持平台"
+          },
+          {
+            "id": "p0.0",
+            "text": "EasyReply 是一个客户支持平台"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 4616
     },
     "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:31.160Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 60
+      "at": "2026-10-08T05:33:17.892Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1030,
+        "completion_tokens": 66,
+        "total_tokens": 1096,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 36.16448974609375
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "客户支持平台"
+          },
+          {
+            "id": "p0.0",
+            "text": "EasyReply 是一款客户支持平台"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 1590
     },
     "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:31.404Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 71
+      "at": "2026-10-08T05:33:19.674Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 783,
+        "completion_tokens": 474,
+        "total_tokens": 1257,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 20.045454025268555
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "客户支持平台"
+          },
+          {
+            "id": "p0.0",
+            "text": "EasyReply 是一款客户支持平台"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 12878
     },
     "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:31.660Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 85
+      "at": "2026-10-08T05:33:32.809Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 914,
+        "completion_tokens": 937,
+        "total_tokens": 1851,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 32.7817268371582
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "查阅、发送并归档您的电子邮件"
+          },
+          {
+            "id": "p3.0",
+            "text": "你的通讯簿随邮箱一同提供：Microsoft 365的Outlook联系人，或任何支持CardDAV的主机的通讯簿。它可以查找人员，读取包含邮政地址和邮编的联系人卡片，添加和修改联系人信息，并导入联系人文件。在Microsoft 365上的邮箱，以及任何提供CalDAV的主机，均可通过同一连接使用日历工具：查阅和搜索日程，创建和更新事件，查看人员空闲状态，寻找会议时间，发送和回复邀请，并设置外出回复。可用工具会根据连接时的服务器情况动态调整，确保不会出现无法兑现的功能选项。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 5287
     },
     "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:31.990Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 66
+      "at": "2026-10-08T05:33:38.273Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1173,
+        "completion_tokens": 265,
+        "total_tokens": 1438,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 50.769866943359375
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "阅读、发送和归档电子邮件"
+          },
+          {
+            "id": "p3.0",
+            "text": "您的通讯录随邮箱一同提供：Microsoft 365上的Outlook联系人，或任何提供CardDAV的主机上的通讯录。它可以查找联系人，阅读他们的名片以获取邮政地址和邮编，添加和修正联系人，并导入联系人文件。Microsoft 365上的邮箱，以及任何提供CalDAV的主机，都可以在同一连接上获得日历工具：阅读和搜索日历，创建和更新事件，查看谁有空，找到会议时间，发送和回复邀请，以及设置外出通知。连接时，根据您的服务器显示可用工具，因此您不会被提供无法使用的工具。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 6000
     },
     "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:32.268Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 84
+      "at": "2026-10-08T05:33:44.490Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 920,
+        "completion_tokens": 1977,
+        "total_tokens": 2897,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 62.28181838989258
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "阅读、发送和归档您的电子邮件"
+          },
+          {
+            "id": "p3.0",
+            "text": "邮箱自带通讯录功能：支持 Microsoft 365 上的 Outlook 联系人，或任何提供 CardDAV 服务的托管平台上的 CardDAV 通讯录。\n您可以查找联系人、读取包含邮寄地址和邮政编码的联系人卡片、添加或修正联系人，并导入联系人文件。\n对于 Microsoft 365 上的邮箱以及任何提供 CalDAV 服务的托管平台，还可通过同一连接使用日历工具：读取和搜索日程、创建和更新事件、查看人员空闲状态、寻找会议时间、发送和回复邀请，以及设置外出办公自动回复。\n系统会在连接时根据您的服务器进行检测，以确定显示哪些工具，从而确保不会向您提供服务器无法支持的功能。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 50609
     },
     "plugin_asdk_app_6985e5ad62908191ad013449cab57d02|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6985e5ad62908191ad013449cab57d02",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:32.559Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 72
+      "at": "2026-10-08T05:34:35.285Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 817,
+        "completion_tokens": 804,
+        "total_tokens": 1621,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 28.279998779296875
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "聊天中的便捷链接"
+          },
+          {
+            "id": "p3.0",
+            "text": "- \"显示此聊天中的所有链接\"\n- \"给我10个链接，帮助我计划旧金山之旅\"\n- \"有史以来最畅销的5本科幻书籍的亚马逊链接\""
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 5412
     },
     "plugin_asdk_app_6985e5ad62908191ad013449cab57d02|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6985e5ad62908191ad013449cab57d02",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:32.833Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 58
+      "at": "2026-10-08T05:34:40.849Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1074,
+        "completion_tokens": 121,
+        "total_tokens": 1195,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 40.3438720703125
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "在聊天中轻松访问链接"
+          },
+          {
+            "id": "p3.0",
+            "text": "- \"显示此聊天中的所有链接\"\n- \"给我10个链接，帮我规划去旧金山的旅行\"\n- \"《科幻小说史上前五名》的亚马逊链接\""
+          }
+        ]
+      },
+      "checksPassed": false,
+      "validationError": "Translation lost protected value 5",
+      "elapsedMs": 2835
     },
     "plugin_asdk_app_6985e5ad62908191ad013449cab57d02|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6985e5ad62908191ad013449cab57d02",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:33.091Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 67
+      "at": "2026-10-08T05:34:43.874Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 976,
+        "total_tokens": 1805,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 34.154544830322266
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "在聊天中轻松获取链接"
+          },
+          {
+            "id": "p3.0",
+            "text": "- \"显示此聊天中的所有链接\"\n- \"给我 10 个链接，帮我规划一次旧金山之旅\"\n- \"史上最伟大的 5 本科幻书籍的 Amazon 链接\""
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 8847
     },
     "plugin_asdk_app_698cc70ed4048191af62942353547f57|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_698cc70ed4048191af62942353547f57",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:33.380Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 75
+      "at": "2026-10-08T05:34:52.916Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 804,
+        "completion_tokens": 522,
+        "total_tokens": 1326,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 19.625993728637695
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "构建和运行AI工作流"
+          },
+          {
+            "id": "p0.0",
+            "text": "构建、测试和部署自动化工作流。NoClick让自动化触手可及——连接您喜爱的工具，添加逻辑和AI步骤，让您的工作流为您节省时间。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 3526
     },
     "plugin_asdk_app_698cc70ed4048191af62942353547f57|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_698cc70ed4048191af62942353547f57",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:33.643Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 79
+      "at": "2026-10-08T05:34:56.655Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1063,
+        "completion_tokens": 120,
+        "total_tokens": 1183,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 39.9427490234375
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "构建和运行 AI 工作流"
+          },
+          {
+            "id": "p0.0",
+            "text": "构建、测试和部署自动化工作流。NoClick 让自动化变得易于使用——连接你喜欢的工具，添加逻辑和 AI 步骤，让工作流为你节省时间。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 2671
     },
     "plugin_asdk_app_698cc70ed4048191af62942353547f57|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_698cc70ed4048191af62942353547f57",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:33.916Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 61
+      "at": "2026-10-08T05:34:59.516Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 813,
+        "completion_tokens": 1089,
+        "total_tokens": 1902,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 37.09090805053711
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "构建并运行 AI 工作流"
+          },
+          {
+            "id": "p0.0",
+            "text": "构建、测试并部署自动化工作流。\nNoClick 让自动化变得触手可及 —— 连接你喜爱的工具，添加逻辑与 AI 步骤，让工作流为你节省时间。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 7548
     },
     "plugin_asdk_app_6a52268982b081919d26887c12f67a2c|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a52268982b081919d26887c12f67a2c",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:34.174Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 62
+      "at": "2026-10-08T05:35:07.314Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 821,
+        "completion_tokens": 657,
+        "total_tokens": 1478,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.818706512451172
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "验证支持工单字段"
+          },
+          {
+            "id": "p0.0",
+            "text": "支持工单验证器会在人工处理或转交前检查支持工单数据是否包含必要字段。该工具会返回结构化完整性结果，包含已检查字段、存在的字段、缺失字段以及验证错误，帮助支持团队识别不完整工单信息，而无需修改外部系统。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 3243
     },
     "plugin_asdk_app_6a52268982b081919d26887c12f67a2c|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a52268982b081919d26887c12f67a2c",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:34.454Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 60
+      "at": "2026-10-08T05:35:10.764Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1077,
+        "completion_tokens": 148,
+        "total_tokens": 1225,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 41.802677154541016
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "检查工单字段"
+          },
+          {
+            "id": "p0.0",
+            "text": "工单验证器在人工处理或交接前，检查工单数据是否包含所需字段。它返回一个结构化的完整性结果，包括已检查字段、存在字段、缺失字段和验证错误，帮助支持团队识别不完整的工单信息，而无需修改外部系统。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 5450
     },
     "plugin_asdk_app_6a52268982b081919d26887c12f67a2c|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a52268982b081919d26887c12f67a2c",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:34.698Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 65
+      "at": "2026-10-08T05:35:16.413Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1069,
+        "total_tokens": 1898,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 36.69091033935547
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "检查支持工单字段"
+          },
+          {
+            "id": "p0.0",
+            "text": "Support Ticket Validator 用于在人工处理或任务移交之前，校验支持工单数据是否包含必填字段。它会返回一份结构化的完整性结果，详细列出已检查字段、现有字段、缺失字段以及校验错误，帮助支持团队在不改动外部系统的前提下，精准识别信息不完整的工单。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 26195
     },
     "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:34.957Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 115
+      "at": "2026-10-08T05:35:42.837Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 849,
+        "completion_tokens": 596,
+        "total_tokens": 1445,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 22.0892333984375
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "AWS数据分析插件"
+          },
+          {
+            "id": "p0.0",
+            "text": "通过S3表格、AWS Glue和Athena构建数据湖、分析和ETL工作流。支持在S3表格上使用托管Iceberg表格，从JDBC数据库、Amazon Redshift、Snowflake、BigQuery和DynamoDB进行数据采集，AWS Glue数据目录库存清单与资产发现，联邦Athena查询，以及在Amazon S3向量中的向量存储和语义搜索。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 3498
     },
     "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:35.268Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 67
+      "at": "2026-10-08T05:35:46.549Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1108,
+        "completion_tokens": 174,
+        "total_tokens": 1282,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 44.10352325439453
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "AWS 数据分析插件"
+          },
+          {
+            "id": "p0.0",
+            "text": "使用 S3 表、AWS Glue 和 Athena 进行数据湖、分析和 ETL 工作流。涵盖 S3 表上的托管 Iceberg 表、从 JDBC 数据库、Amazon Redshift、Snowflake、BigQuery 和 DynamoDB 的数据摄取、AWS Glue 数据目录库存和资产发现、联合 Athena 查询以及在 Amazon S3 Vectors 上的向量存储和语义搜索。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 3501
     },
     "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:35.541Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 61
+      "at": "2026-10-08T05:35:50.219Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 852,
+        "completion_tokens": 2672,
+        "total_tokens": 3524,
+        "prompt_tokens_details": {
+          "cached_tokens": 704
+        },
+        "neurons": 77.41817474365234
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "AWS Data Analytics 插件"
+          },
+          {
+            "id": "p0.0",
+            "text": "利用 S3 Tables、AWS Glue 和 Athena 实现数据湖、分析及 ETL 工作流。\n功能涵盖 S3 Tables 上的托管 Iceberg 表、从 JDBC 数据库、Amazon Redshift、Snowflake、BigQuery 及 DynamoDB 进行的数据摄取、AWS Glue Data Catalog 的库存管理与资产发现、Athena 联邦查询，以及在 Amazon S3 Vectors 上的向量存储与语义搜索。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 58778
     },
     "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:35.827Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 65
+      "at": "2026-10-08T05:36:49.172Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 860,
+        "completion_tokens": 859,
+        "total_tokens": 1719,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 30.15496826171875
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "创建属于您的网站"
+          },
+          {
+            "id": "p0.0",
+            "text": "在聊天中直接构建您的整个网站并购买域名。\n只需向Wix提出您想要的网站及所需的所有功能，即可在几分钟内获得一个完整的企业级网站。\n您还可以将完美的自定义域名连接到您的网站，并在一处无缝管理所有内容。\n如果需要，您还可以使用大量AI工具和流畅的拖放操作，在Wix Harmony编辑器中继续编辑。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 9031
     },
     "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:36.439Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 61
+      "at": "2026-10-08T05:36:58.851Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1118,
+        "completion_tokens": 186,
+        "total_tokens": 1304,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 45.02813720703125
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "创建你自己的网站"
+          },
+          {
+            "id": "p0.0",
+            "text": "在聊天中构建整个网站并购买域名。只需向 Wix 请求你想要的网站，包括所有所需功能，几分钟内即可生成一个完整的、商业就绪的网站。你还可以将完美的自定义域名连接到你的网站，并在一个地方无缝管理所有内容。如果你愿意，可以在 Wix Harmony 编辑器中继续编辑，使用更多的 AI 工具和流畅的拖放功能。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 4396
     },
     "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:36.719Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 90
+      "at": "2026-10-08T05:37:03.438Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 866,
+        "completion_tokens": 1226,
+        "total_tokens": 2092,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 41.30908966064453
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "创建您专属的网站"
+          },
+          {
+            "id": "p0.0",
+            "text": "直接在对话框中构建完整网站并购买域名。\n只需向 Wix 提出您的建站需求（包括所需的所有功能），即可在几分钟内为您生成一个功能完备、可直接投入业务运营的网站。\n您还可以为网站绑定理想的自定义域名，并实现一站式无缝管理。\n如果需要，您还可以在 Wix Harmony 编辑器中利用丰富的 AI 工具和流畅的拖放功能进行深度编辑。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 20031
     },
     "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:37.022Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 68
+      "at": "2026-10-08T05:37:23.899Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 831,
+        "completion_tokens": 731,
+        "total_tokens": 1562,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 26.120084762573242
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "通过ChatGPT管理合同"
+          },
+          {
+            "id": "p0.0",
+            "text": "通过DocuSign提供的智能自动化技术简化合同管理。\n超越简单的执行流程，让复杂的协议流程变得轻松自如。\n使用自然语言创建并发送合同，即时提取续签日期和关键义务等洞察信息，通过自动化工作流程让您的业务更快运转，减少摩擦。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 6338
     },
     "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:37.280Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 63
+      "at": "2026-10-08T05:37:30.409Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1091,
+        "completion_tokens": 149,
+        "total_tokens": 1240,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 42.29943084716797
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "使用ChatGPT管理合同"
+          },
+          {
+            "id": "p0.0",
+            "text": "利用Docusign的智能自动化简化合同管理。超越简单执行，使复杂的协议流程变得轻而易举。使用自然语言创建和发送合同，即时获取续约日期和关键义务等见解，并自动化流程，让业务更快速、更顺畅地运行。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 2917
     },
     "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:37.543Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 60
+      "at": "2026-10-08T05:37:33.497Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 836,
+        "completion_tokens": 2121,
+        "total_tokens": 2957,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 65.4454574584961
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "通过 ChatGPT 管理合同"
+          },
+          {
+            "id": "p0.0",
+            "text": "利用 Docusign 提供的智能自动化技术，简化合同管理。\n超越简单的签署执行，让复杂的协议工作流变得轻而易举。\n使用自然语言即可创建并发送合同，即时获取续约日期和关键义务等洞察信息，并实现工作流自动化，助力业务运行得更快速、更顺畅。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 34770
     },
     "plugin_asdk_app_6a7c329c161c8191a8df623446a34000|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a7c329c161c8191a8df623446a34000",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:37.812Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 56
+      "at": "2026-10-08T05:38:08.667Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 790,
+        "completion_tokens": 638,
+        "total_tokens": 1428,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.096323013305664
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "预约客户，收取款项"
+          },
+          {
+            "id": "p3.0",
+            "text": "专为摄影师、活动策划、场地、设计师和顾问打造。\n需要HoneyBook账户。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 6530
     },
     "plugin_asdk_app_6a7c329c161c8191a8df623446a34000|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a7c329c161c8191a8df623446a34000",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:38.054Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 62
+      "at": "2026-10-08T05:38:15.406Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1048,
+        "completion_tokens": 97,
+        "total_tokens": 1145,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 38.303382873535156
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "预订客户，收取费用"
+          },
+          {
+            "id": "p3.0",
+            "text": "专为摄影师、活动策划人、场地提供者、设计师和顾问设计。需要 HoneyBook 账户。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 1925
     },
     "plugin_asdk_app_6a7c329c161c8191a8df623446a34000|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a7c329c161c8191a8df623446a34000",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:38.366Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 68
+      "at": "2026-10-08T05:38:17.500Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 797,
+        "completion_tokens": 959,
+        "total_tokens": 1756,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 33.39999771118164
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "预订客户，轻松收款"
+          },
+          {
+            "id": "p3.0",
+            "text": "专为摄影师、活动策划师、场地经营者、设计师和顾问打造。\n需拥有 HoneyBook 账户。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 16896
     },
     "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:38.663Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 65
+      "at": "2026-10-08T05:38:34.571Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 830,
+        "completion_tokens": 642,
+        "total_tokens": 1472,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.4032039642334
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "导入视频并剪辑片段"
+          },
+          {
+            "id": "p0.0",
+            "text": "将URL或Google Drive链接提供给Montage，它会导入视频并等待直到完成。然后您只需稍作等待，它就会剪辑片段并返回编辑器链接，您可以借此修剪视频或调整样式后再发布到任何平台。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 5211
     },
     "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:39.101Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 66
+      "at": "2026-10-08T05:38:39.965Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1086,
+        "completion_tokens": 145,
+        "total_tokens": 1231,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 41.93809509277344
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "导入视频并剪辑片段"
+          },
+          {
+            "id": "p0.0",
+            "text": "将 URL 或 Google Drive 链接提供给 Montage，它会导入视频并监控导入进度，直到完成。\n然后，请稍等片刻。\n它会剪辑片段并回复一个编辑链接，这样你就可以在发布前对其进行修剪或调整样式。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 4820
     },
     "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:39.359Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 65
+      "at": "2026-10-08T05:38:44.962Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 838,
+        "completion_tokens": 3738,
+        "total_tokens": 4576,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 109.56363677978516
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "导入视频并剪辑片段"
+          },
+          {
+            "id": "p0.0",
+            "text": "只需向 Montage 提供一个 URL 或 Google Drive 链接，它就会自动抓取视频并监控导入进度，直至完成。\n随后，你可以请求某个片段。\n它会自动剪辑该片段并返回一个编辑器链接，方便你在发布之前进行修剪或调整样式。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 62649
     },
     "plugin_asdk_app_6a7201527fa48191af83141ef896370a|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a7201527fa48191af83141ef896370a",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:39.661Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 55
+      "at": "2026-10-08T05:39:47.792Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 790,
+        "completion_tokens": 583,
+        "total_tokens": 1373,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 21.420211791992188
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "创意任务助手"
+          },
+          {
+            "id": "p0.0",
+            "text": "Air理解您的品牌，整理您的资料库，并在最关键的地方保持人类的参与，从而扩展创意工作。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 4298
     },
     "plugin_asdk_app_6a7201527fa48191af83141ef896370a|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a7201527fa48191af83141ef896370a",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:39.915Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 67
+      "at": "2026-10-08T05:39:52.278Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1046,
+        "completion_tokens": 97,
+        "total_tokens": 1143,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 38.23963165283203
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "创意任务的代理"
+          },
+          {
+            "id": "p0.0",
+            "text": "Air 理解你的品牌，整理你的素材库，并在最关键的地方保留人类参与，从而扩展创意工作。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 2059
     },
     "plugin_asdk_app_6a7201527fa48191af83141ef896370a|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a7201527fa48191af83141ef896370a",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:40.223Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 160
+      "at": "2026-10-08T05:39:54.518Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 797,
+        "completion_tokens": 874,
+        "total_tokens": 1671,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 31.081817626953125
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "您的创意任务助手"
+          },
+          {
+            "id": "p0.0",
+            "text": "Air 能够深入理解您的品牌，整理您的素材库，并在实现创意规模化产出的同时，确保人类在最关键的环节发挥作用。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 15630
     },
     "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:40.590Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 77
+      "at": "2026-10-08T05:40:10.433Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 848,
+        "completion_tokens": 773,
+        "total_tokens": 1621,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 27.478641510009766
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "创建3D橱柜与家具"
+          },
+          {
+            "id": "p0.0",
+            "text": "通过文本提示创建定制橱柜和家具。Flatma会生成一个可编辑的3D模型，具备真实尺寸和板件厚度，因此您可以调整尺寸、隔板、抽屉、材质等其他细节。设计衣柜、厨房橱柜、书桌、餐桌、书架等。在flatma.com上打开您的项目以获取详细图纸和切割清单。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 4895
     },
     "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:40.933Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 77
+      "at": "2026-10-08T05:40:16.050Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1108,
+        "completion_tokens": 185,
+        "total_tokens": 1293,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 44.65888977050781
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "创建3D橱柜和家具"
+          },
+          {
+            "id": "p0.0",
+            "text": "根据文本提示创建定制橱柜和家具。Flatma 生成可编辑的3D模型，包含真实尺寸和板材厚度，你可以调整尺寸、架子、抽屉、材料和其他细节。\n设计衣柜、厨房橱柜、书桌、桌子、书架等。\n在 flatma.com 上打开你的项目，获取详细的绘图和切割清单。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 3676
     },
     "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:41.466Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 86
+      "at": "2026-10-08T05:40:19.939Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 855,
+        "completion_tokens": 2902,
+        "total_tokens": 3757,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 86.91818237304688
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "打造 3D 橱柜与家具"
+          },
+          {
+            "id": "p0.0",
+            "text": "只需输入文本提示词，即可创建定制化的橱柜与家具。\nFlatma 会生成具有真实尺寸和板材厚度的可编辑 3D 模型，方便您调整尺寸、搁板、抽屉、材质及其他细节。\n支持设计衣柜、橱柜、书桌、桌子、置物架等多种家具。\n在 flatma.com 上打开您的项目，即可获取详细图纸和切割清单。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 45022
     },
     "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:41.756Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 81
+      "at": "2026-10-08T05:41:05.327Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 855,
+        "completion_tokens": 728,
+        "total_tokens": 1583,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 26.139650344848633
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "分析并处理招聘数据"
+          },
+          {
+            "id": "p0.0",
+            "text": "在ChatGPT中使用Ashby可立即访问您的招聘流程、候选人档案、空缺职位、面试记录和转录内容。通过聊天直接提问，发现招聘趋势，并通过添加备注、移动招聘阶段或发送邮件采取行动。Ashby通过安全的用户级OAuth认证将ChatGPT与您的实时招聘数据连接。所有请求和操作均尊重您现有的权限，数据始终得到保护。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 4703
     },
     "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:42.051Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 63
+      "at": "2026-10-08T05:41:10.417Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1111,
+        "completion_tokens": 214,
+        "total_tokens": 1325,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 46.21866989135742
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "分析和处理招聘数据"
+          },
+          {
+            "id": "p0.0",
+            "text": "Ashby in ChatGPT 让你可以即时访问招聘流程、候选人资料、空缺职位、面试和面试记录。\n你可以提问、发现招聘趋势，并通过在聊天中添加备注、移动阶段或发送电子邮件来采取行动。\nAshby 通过安全的用户级 OAuth 将 ChatGPT 连接到你的实时招聘数据。\n每个请求和操作都遵循你现有的权限，你的数据始终受到保护。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 5386
     },
     "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:42.321Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 63
+      "at": "2026-10-08T05:41:16.033Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 859,
+        "completion_tokens": 2471,
+        "total_tokens": 3330,
+        "prompt_tokens_details": {
+          "cached_tokens": 704
+        },
+        "neurons": 71.99999237060547
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "分析招聘数据并据此采取行动"
+          },
+          {
+            "id": "p0.0",
+            "text": "通过 ChatGPT 使用 Ashby，您可以即时访问招聘流程、候选人档案、开放职位、面试信息及面试记录。\n您可以直接在对话框中进行提问、发现招聘趋势，并通过添加备注、推进招聘阶段或发送邮件来执行操作。\nAshby 通过安全的基于用户级别的 OAuth 认证，将 ChatGPT 与您的实时招聘数据进行连接。\n每一次请求和操作都会遵循您现有的权限设置，确保您的数据始终受到保护。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 45043
     },
     "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:42.925Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 66
+      "at": "2026-10-08T05:42:01.356Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 870,
+        "completion_tokens": 825,
+        "total_tokens": 1695,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 29.165071487426758
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "营销分析"
+          },
+          {
+            "id": "p0.0",
+            "text": "Nexoya将ChatGPT连接到Nexoya工作区，使营销人员可以针对营销组合、活动或广告组内容、漏斗步骤、标签、事件、性能指标、日常趋势、基于回归的归因以及预算优化建议等，向ChatGPT提出自然语言问题。该应用可帮助用户总结营销表现、对比周期与渠道、检查投资回报率（ROI）和广告支出回报率（ROAS）、分析趋势并解释最新优化方案，且无需离开ChatGPT。访问权限基于已登录用户的Nexoya账户及团队权限。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 4062
     },
     "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:43.178Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 51
+      "at": "2026-10-08T05:42:05.610Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1131,
+        "completion_tokens": 247,
+        "total_tokens": 1378,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 48.52229309082031
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "营销分析"
+          },
+          {
+            "id": "p0.0",
+            "text": "Nexoya 将 ChatGPT 连接到 Nexoya 工作区，让营销人员可以用自然语言询问营销组合、广告活动或广告集内容、漏斗步骤、标签、事件、绩效指标、日趋势、基于回归的归因和预算优化建议。\n该应用帮助用户在不离开 ChatGPT 的情况下总结营销绩效，比较不同时期和渠道，检查投资回报率和广告投资回报率，分析趋势，并解释最新的优化建议。\n访问权限受登录用户的 Nexoya 账户和团队权限限制。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 6586
     },
     "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:43.418Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 73
+      "at": "2026-10-08T05:42:12.380Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 876,
+        "completion_tokens": 2495,
+        "total_tokens": 3371,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 76.00909423828125
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "营销分析"
+          },
+          {
+            "id": "p0.0",
+            "text": "Nexoya 将 ChatGPT 与 Nexoya 工作区连接，使营销人员能够通过自然语言提问，获取有关营销组合、营销活动或广告组内容、漏斗步骤、标签、事件、绩效指标、每日趋势、基于回归的归因以及预算优化建议的相关信息。\n该应用可帮助用户在不离开 ChatGPT 的情况下总结营销表现、对比不同周期与渠道、查看 ROI 和 ROAS、分析趋势，并解释最新的优化方案。\n访问权限仅限于已登录用户的 Nexoya 账户及其所属团队的权限范围。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 40886
     },
     "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:43.676Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 81
+      "at": "2026-10-08T05:42:53.500Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 881,
+        "completion_tokens": 1028,
+        "total_tokens": 1909,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 35.402320861816406
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "来源可靠的公司档案"
+          },
+          {
+            "id": "p0.0",
+            "text": "公司档案整合了任何公司或域名的完整、来源可追溯的情报文件——全部基于公开数据。单次查询返回九个部分：概览与身份信息、人员与组织架构、招聘动态、资金流向、办公地点、技术指纹、新闻与时间线、关系网络、风险标志。每个信息点均附有公开来源，并标注高/中/低可信度。专为尽职调查、供应商评估、销售准备和竞争分析而设计。无需账户，不涉及私有数据——仅限公开数据来源。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 6760
     },
     "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:43.952Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 64
+      "at": "2026-10-08T05:43:00.441Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1139,
+        "completion_tokens": 228,
+        "total_tokens": 1367,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 47.818031311035156
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "公司档案"
+          },
+          {
+            "id": "p0.0",
+            "text": "公司档案汇编了关于任何公司或域名的完整、有来源标注的情报文件，全部来自公开数据。\n一个请求返回九个部分：概览与身份、人员与组织结构图、招聘雷达、资金流动、地点、技术指纹、新闻与时间线、关系网络和风险标志。\n每一条信息都与公开来源相关联，并标注高/中/低置信度。\n适用于尽职调查、供应商审核、销售准备和竞争研究。\n无需账户，无需私人数据——仅使用公开来源。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 5515
     },
     "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:44.243Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 60
+      "at": "2026-10-08T05:43:06.222Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 885,
+        "completion_tokens": 2594,
+        "total_tokens": 3479,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 78.79090881347656
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "提供来源可溯的公司档案"
+          },
+          {
+            "id": "p0.0",
+            "text": "Company Dossier 能够针对任何公司或域名，完全基于公开数据，整理出一份包含来源出处的完整情报档案。只需一次请求，即可获取包含九大板块的内容：概览与身份、人员与组织架构、招聘动态、资金流向、地理位置、技术特征、新闻与时间线、关系网以及风险预警。每一项结论均关联公开来源，并标注了高、中、低三种置信度等级。本工具专为尽职调查、供应商审核、销售准备及竞品研究而设计。无需注册账号，不涉及私有数据——仅使用公开信息。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 20082
     },
     "plugin_asdk_app_6a96846e8814819189ddb980b090aa20|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a96846e8814819189ddb980b090aa20",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:44.520Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 105
+      "at": "2026-10-08T05:43:26.495Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 803,
+        "completion_tokens": 595,
+        "total_tokens": 1398,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 21.846027374267578
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "Finom：企业银行与发票管理"
+          },
+          {
+            "id": "p0.0",
+            "text": "Finom是面向欧洲中小企业和自由职业者的业务金融平台，将业务账户、发票管理、费用管理及会计功能整合到一个平台中。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 3789
     },
     "plugin_asdk_app_6a96846e8814819189ddb980b090aa20|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a96846e8814819189ddb980b090aa20",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:44.799Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 51
+      "at": "2026-10-08T05:43:30.454Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1060,
+        "completion_tokens": 106,
+        "total_tokens": 1166,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 39.140289306640625
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "商业银行与发票管理"
+          },
+          {
+            "id": "p0.0",
+            "text": "Finom 是一款面向欧洲中小企业和自由职业者的商业金融平台，将商业账户、发票、费用管理和会计功能集于一体。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 2689
     },
     "plugin_asdk_app_6a96846e8814819189ddb980b090aa20|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a96846e8814819189ddb980b090aa20",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:45.030Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 66
+      "at": "2026-10-08T05:43:33.341Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 807,
+        "completion_tokens": 762,
+        "total_tokens": 1569,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 28.118181228637695
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "企业银行与发票管理"
+          },
+          {
+            "id": "p0.0",
+            "text": "Finom 是面向全欧洲中小企业及自由职业者的企业财务平台，集企业账户、发票管理、费用管理和会计功能于一体。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 24945
     },
     "plugin_asdk_app_696e4b35d354819199e87f105ca545a5|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_696e4b35d354819199e87f105ca545a5",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:45.353Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 67
+      "at": "2026-10-08T05:43:58.517Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 777,
+        "completion_tokens": 541,
+        "total_tokens": 1318,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 20.080150604248047
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "为企业寻找保险"
+          },
+          {
+            "id": "p0.0",
+            "text": "获取您企业保险的报价估算。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 3873
     },
     "plugin_asdk_app_696e4b35d354819199e87f105ca545a5|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_696e4b35d354819199e87f105ca545a5",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:45.679Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 71
+      "at": "2026-10-08T05:44:02.589Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1034,
+        "completion_tokens": 72,
+        "total_tokens": 1106,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 36.59492111206055
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "找到小型企业保险"
+          },
+          {
+            "id": "p0.0",
+            "text": "获取企业保险的报价估算。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 1677
     },
     "plugin_asdk_app_696e4b35d354819199e87f105ca545a5|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_696e4b35d354819199e87f105ca545a5",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:45.968Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 74
+      "at": "2026-10-08T05:44:04.521Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 785,
+        "completion_tokens": 819,
+        "total_tokens": 1604,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 29.472726821899414
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "查找小微企业保险"
+          },
+          {
+            "id": "p0.0",
+            "text": "获取您的商业保险价格预估。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 16080
     },
     "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:46.251Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 143
+      "at": "2026-10-08T05:44:20.826Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 805,
+        "completion_tokens": 669,
+        "total_tokens": 1474,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 24.110408782958984
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "实时加密货币市场数据"
+          },
+          {
+            "id": "p0.0",
+            "text": "CoinMarketCap追踪的数百万种加密资产实时价格、市值和交易量，涵盖从主流加密货币到各大链上的长尾DEX代币。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 4767
     },
     "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:46.625Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 78
+      "at": "2026-10-08T05:44:26.133Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1064,
+        "completion_tokens": 110,
+        "total_tokens": 1174,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 39.46974563598633
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "实时加密货币市场数据"
+          },
+          {
+            "id": "p0.0",
+            "text": "CoinMarketCap 追踪的数百万种加密资产的实时价格、市值和交易量，从主要加密货币到每条主要链上的长尾 DEX 代币。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 2038
     },
     "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:46.920Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 75
+      "at": "2026-10-08T05:44:28.335Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 815,
+        "completion_tokens": 1011,
+        "total_tokens": 1826,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 34.98181915283203
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "实时加密货币市场数据"
+          },
+          {
+            "id": "p0.0",
+            "text": "CoinMarketCap 追踪数百万种加密资产的实时价格、市值和成交量，涵盖从主流加密货币到各主流区块链上的长尾 DEX 代币。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 18851
     },
     "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:47.476Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 66
+      "at": "2026-10-08T05:44:47.384Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 823,
+        "completion_tokens": 633,
+        "total_tokens": 1456,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.096559524536133
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "在线购买商品"
+          },
+          {
+            "id": "p0.0",
+            "text": "Sangria帮助用户报价支持的实体产品，审查价格锁定的匹配项，使用现有的Sangria USD信用余额购买已批准的商品，并查看订单状态。资料设置、支付方式和信用充值在Sangria的仪表盘上完成，而非在ChatGPT内。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 3630
     },
     "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:47.723Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 61
+      "at": "2026-10-08T05:44:51.195Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1079,
+        "completion_tokens": 152,
+        "total_tokens": 1231,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 42.068382263183594
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "在线购买商品"
+          },
+          {
+            "id": "p0.0",
+            "text": "Sangria 帮助用户报价支持的实物商品、查看价格锁定的匹配项、使用现有的 Sangria USD 信用余额购买已批准的商品，以及查看订单状态。用户资料设置、支付方式和信用充值在 Sangria 的仪表板上进行，而不是在 ChatGPT 中。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 3555
     },
     "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:47.963Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 67
+      "at": "2026-10-08T05:44:55.000Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1206,
+        "total_tokens": 2035,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 40.427268981933594
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "在线购买产品"
+          },
+          {
+            "id": "p0.0",
+            "text": "Sangria 可协助用户获取支持的实物产品报价、查看价格锁定的匹配项、使用现有的 Sangria 美元信用余额购买已批准的产品，并查询订单状态。\n个人资料设置、支付方式管理及信用额度充值需在 ChatGPT 之外的 Sangria 控制面板中进行。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 19463
     },
     "plugin_asdk_app_6a60a513907881919ca0e120f0963692|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a60a513907881919ca0e120f0963692",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:48.279Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 70
+      "at": "2026-10-08T05:45:14.921Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 790,
+        "completion_tokens": 489,
+        "total_tokens": 1279,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 18.55558204650879
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "查看英国电影院正在上映的电影"
+          },
+          {
+            "id": "p0.0",
+            "text": "为英国用户提供原生AI驱动的电影和影院发现服务，提供经过验证的放映时间及直接预订链接。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 2965
     },
     "plugin_asdk_app_6a60a513907881919ca0e120f0963692|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a60a513907881919ca0e120f0963692",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:48.535Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 64
+      "at": "2026-10-08T05:45:18.071Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1047,
+        "completion_tokens": 94,
+        "total_tokens": 1141,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 38.12004470825195
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "查找英国电影院正在上映的电影"
+          },
+          {
+            "id": "p0.0",
+            "text": "英国电影和影院的AI原生发现工具，提供验证过的放映时间和直接预订链接。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 2039
     },
     "plugin_asdk_app_6a60a513907881919ca0e120f0963692|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a60a513907881919ca0e120f0963692",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:48.830Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 59
+      "at": "2026-10-08T05:45:20.321Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 800,
+        "completion_tokens": 848,
+        "total_tokens": 1648,
+        "prompt_tokens_details": {
+          "cached_tokens": 704
+        },
+        "neurons": 27.199996948242188
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "探索英国影院正在上映的影片"
+          },
+          {
+            "id": "p0.0",
+            "text": "为英国用户打造的 AI 原生电影与影院探索工具，提供经核实的放映时间及直接购票链接。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 14296
     },
     "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:49.121Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 81
+      "at": "2026-10-08T05:45:34.957Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 841,
+        "completion_tokens": 687,
+        "total_tokens": 1528,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 24.825439453125
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "追踪餐食、饮水与运动"
+          },
+          {
+            "id": "p0.0",
+            "text": "Zinde 将 ChatGPT 与您的 Zinde 账户连接，以便您可以在一个地方查看每日营养、饮水、步数、运动和目标进度。您可以请求每日或每周总结，根据剩余目标获得餐食建议，更新目标，并在查看预览后记录餐食、饮水或运动。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 5715
     },
     "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:49.409Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 57
+      "at": "2026-10-08T05:45:40.988Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1098,
+        "completion_tokens": 157,
+        "total_tokens": 1255,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 42.92646789550781
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "记录餐食、水分和运动"
+          },
+          {
+            "id": "p0.0",
+            "text": "Zinde 将 ChatGPT 与你的 Zinde 账户连接，让你可以在一个地方查看每日营养、水分、步数、运动和目标进度。\n询问每日或每周总结，根据剩余目标获取餐食建议，更新目标，并在查看预览后记录餐食、水分或运动。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 2968
     },
     "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:49.644Z",
+      "at": "2026-10-08T05:45:44.141Z",
       "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 56
+      "usage": {
+        "prompt_tokens": 847,
+        "completion_tokens": 5000,
+        "total_tokens": 5847,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 144.06362915039062
+      },
+      "error": "Translation output truncated",
+      "elapsedMs": 101098
     },
     "plugin_asdk_app_6a97be305050819192a4130e3e3acedc|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a97be305050819192a4130e3e3acedc",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:49.943Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 57
+      "at": "2026-10-08T05:47:25.436Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 952,
+        "completion_tokens": 740,
+        "total_tokens": 1692,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 26.95393180847168
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "AI健身计划与追踪"
+          },
+          {
+            "id": "p0.0",
+            "text": "Joti是一款用于规划、安排和记录力量训练、自重训练、柔韧性训练及有氧运动的健身追踪应用。此连接器可让ChatGPT读取用户自身的训练记录、已完成的训练历史、汇总统计数据（训练量、规律性、个人最佳成绩、最佳举重成绩），以及共享的运动库（约800个运动项目，含用户自定义的个性化项目），并可将训练计划同步到用户的日历中。写入操作仅限追加：可创建全新训练计划、复制现有计划，并完全管理已安排的训练日历条目。无法编辑或删除现有训练中的具体动作/组数，也无法启动、记录或修改训练会话——这些操作仍需在Joti应用内完成。体测数据和进度照片完全不在功能范围内。读取权限仅限用户完全拥有的数据；所有写入操作在Joti的活动动态中均可撤销。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 5056
     },
     "plugin_asdk_app_6a97be305050819192a4130e3e3acedc|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a97be305050819192a4130e3e3acedc",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:50.305Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 61
+      "at": "2026-10-08T05:47:30.666Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1212,
+        "completion_tokens": 388,
+        "total_tokens": 1600,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 58.22305679321289
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "AI健身计划与跟踪"
+          },
+          {
+            "id": "p0.0",
+            "text": "Joti 是一款用于规划、安排和记录力量训练、体重训练、柔韧性训练和有氧训练的健身跟踪应用。\n该连接器允许 ChatGPT 读取用户的个人训练计划、已完成的训练记录、汇总统计数据（训练量、一致性、个人最佳成绩、最佳举重），以及共享的运动库（约 800 个运动加上用户自定义的运动），并将训练计划安排到用户的日历上。\n写操作仅为增加：创建全新的训练计划、复制现有的训练计划，并完全管理已安排的训练日历条目。\n它无法编辑或删除现有训练计划的运动/组数，也无法开始、记录或修改训练课程——这些功能仍在 Joti 应用中。\n体型测量和进展照片完全不在范围内。\n读取的数据范围限于用户完全拥有的数据；Joti 活动记录中每个写操作都可撤销。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 7286
     },
     "plugin_asdk_app_6a97be305050819192a4130e3e3acedc|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a97be305050819192a4130e3e3acedc",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:50.592Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 57
+      "at": "2026-10-08T05:47:38.174Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 962,
+        "completion_tokens": 2048,
+        "total_tokens": 3010,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 64.5999984741211
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "AI 健身计划与追踪"
+          },
+          {
+            "id": "p0.0",
+            "text": "Joti 是一款用于规划、安排和记录力量、自重、柔韧性及有氧训练的健身追踪应用。\n通过此连接器，ChatGPT 可以读取用户的个人训练计划、已完成的训练历史、汇总统计数据（如训练量、训练一致性、个人最佳纪录、最高重量训练）以及共享动作库（包含约 800 个标准动作及用户自定义动作），并能将训练计划同步至用户的日历。\n写入操作仅限新增：包括创建全新的训练计划、复制现有计划，以及全面管理已安排的训练日历条目。\n它无法编辑或删除现有训练中的动作或组数，也无法开始、记录或更改单次训练过程——这些操作必须在 Joti 应用内进行。\n体测数据和进度照片完全不在功能范围内。\n读取权限仅限于用户拥有的数据；所有写入操作均可在 Joti 的“活动动态 (Activity feed)”中撤销。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 37310
     },
     "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:50.901Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 65
+      "at": "2026-10-08T05:48:15.709Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 845,
+        "completion_tokens": 563,
+        "total_tokens": 1408,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 21.065067291259766
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "创建训练计划并记录组数"
+          },
+          {
+            "id": "p0.0",
+            "text": "FitAI Pro是一款健身管理应用，旨在帮助用户更高效地规划和跟踪健身房训练。应用包含超过5000种锻炼动作的数据库，提供动作要点说明和组数/次数指导，同时具备记录重量、次数和组数的工具。用户可根据可用器材生成训练计划，并随时间跟踪训练进展。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 2915
     },
     "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:51.198Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 76
+      "at": "2026-10-08T05:48:18.814Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1104,
+        "completion_tokens": 183,
+        "total_tokens": 1287,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 44.4304084777832
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "构建训练计划并记录组数"
+          },
+          {
+            "id": "p0.0",
+            "text": "FitAI Pro 是一款帮助用户更高效地规划和跟踪健身房训练的健身管理应用。它包含超过 5,000 个带有动作要领和组数/次数指导的练习数据库，以及在训练中记录重量、次数和组数的工具。用户可以根据可用设备生成训练计划，并随时间监控训练进展。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 5265
     },
     "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:51.504Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 67
+      "at": "2026-10-08T05:48:24.244Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 853,
+        "completion_tokens": 1834,
+        "total_tokens": 2687,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 57.772727966308594
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "制定训练计划并记录组数"
+          },
+          {
+            "id": "p0.0",
+            "text": "FitAI Pro 是一款健身管理应用，旨在帮助用户更高效地规划和追踪健身训练。\n它内置了包含 5,000 多项运动动作的数据库，提供动作要领说明及组数/次数指导，并配备了在训练过程中记录重量、次数和组数的工具。\n用户还可以根据现有器材生成训练计划，并持续监测自己的训练进度。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 28633
     },
     "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:51.779Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 74
+      "at": "2026-10-08T05:48:53.056Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 793,
+        "completion_tokens": 666,
+        "total_tokens": 1459,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.963491439819336
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "个性化冥想，现已推出！"
+          },
+          {
+            "id": "p0.0",
+            "text": "Breethe 个性化冥想：专为您的引导式冥想"
+          }
+        ]
+      },
+      "checksPassed": false,
+      "validationError": "Translation lost protected value 4",
+      "elapsedMs": 4728
     },
     "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:52.038Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 65
+      "at": "2026-10-08T05:48:58.040Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1050,
+        "completion_tokens": 80,
+        "total_tokens": 1130,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 37.50884246826172
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "个性化冥想，现在就开始！"
+          },
+          {
+            "id": "p0.0",
+            "text": "Breethe Meditations Made 4 You：个性化引导冥想"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 1977
     },
     "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:52.311Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 64
+      "at": "2026-10-08T05:49:00.639Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 799,
+        "completion_tokens": 741,
+        "total_tokens": 1540,
+        "prompt_tokens_details": {
+          "cached_tokens": 704
+        },
+        "neurons": 24.272724151611328
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "即刻开启个性化冥想！"
+          },
+          {
+            "id": "p0.0",
+            "text": "Breethe Meditations Made 4 You：个性化引导式冥想"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 12467
     },
     "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:52.572Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 62
+      "at": "2026-10-08T05:49:13.284Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 831,
+        "completion_tokens": 826,
+        "total_tokens": 1657,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 29.015188217163086
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "幻想足球决策"
+          },
+          {
+            "id": "p0.0",
+            "text": "SAGE通过Inner Sanctum的排名和分析，帮助幻想足球玩家制定每周和选秀决策。比较球员以做出首发/替补和灵活位置决策，查看每周位置排名，为关联联赛获取阵容建议，评估单个球员，并根据计分规则和阵容情况获得选秀前景分析。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 5443
     },
     "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:52.811Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 55
+      "at": "2026-10-08T05:49:18.907Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1088,
+        "completion_tokens": 167,
+        "total_tokens": 1255,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 43.112586975097656
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "帮助你做出幻想足球决策"
+          },
+          {
+            "id": "p0.0",
+            "text": "SAGE 利用 Inner Sanctum 的排名和分析，帮助幻想足球玩家做出每周和选秀决策。你可以比较球员以做出首发/替补和灵活位置的决策，查看每周位置排名，获取与联盟关联的阵容推荐，评估单个球员，并根据得分格式和阵容背景获取选秀前景。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 3722
     },
     "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:53.052Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 68
+      "at": "2026-10-08T05:49:22.796Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 838,
+        "completion_tokens": 1502,
+        "total_tokens": 2340,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 48.58182144165039
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "梦幻足球决策"
+          },
+          {
+            "id": "p0.0",
+            "text": "SAGE 利用 Inner Sanctum 的排名与分析，协助梦幻足球玩家做出每周决策及选秀决策。您可以对比球员以进行首发/轮换 (start/sit) 和灵活位置 (flex) 决策，查看每周位置排名，获取关联联盟的阵容推荐，评估单个球员，并根据计分规则和阵容情况获取选秀前景展望。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 24679
     },
     "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:53.704Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 71
+      "at": "2026-10-08T05:49:47.673Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 846,
+        "completion_tokens": 1129,
+        "total_tokens": 1975,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 38.31841278076172
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "AI原生技术数据"
+          },
+          {
+            "id": "p0.0",
+            "text": "Trace为代理提供结构化数据，涵盖企业使用的技术、合作伙伴以及招聘情况。\n针对任何公司的技术栈、集成生态系统或近期招聘信号进行查询，Trace将返回结构化答案。\n创建列表以随时间监控变化。\n适用于账户研究、市场分析、竞争洞察，或发现企业采用新工具或合作伙伴的时机。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 8409
     },
     "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:53.956Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 58
+      "at": "2026-10-08T05:49:56.259Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1103,
+        "completion_tokens": 178,
+        "total_tokens": 1281,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 44.146095275878906
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "AI原生技术图谱"
+          },
+          {
+            "id": "p0.0",
+            "text": "Trace 提供代理商关于公司使用的技术、合作伙伴以及招聘情况的结构化数据。询问任何公司的技术栈、集成生态系统或最近的招聘信号，Trace 会返回结构化的答案。创建列表以监控随时间变化的情况。适用于账户研究、市场分析、竞争洞察或发现公司采用新工具或合作伙伴的时机。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 3490
     },
     "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:54.274Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 58
+      "at": "2026-10-08T05:49:59.925Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 856,
+        "completion_tokens": 1457,
+        "total_tokens": 2313,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 47.51818084716797
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "AI 原生技术图谱分析"
+          },
+          {
+            "id": "p0.0",
+            "text": "Trace 为智能体提供结构化数据，涵盖企业使用的技术、合作伙伴以及招聘动态。您可以询问任何公司的技术栈、集成生态系统或近期的招聘信号，Trace 会返回结构化的答案。您还可以创建列表，以持续监测这些信息的动态变化。该工具适用于客户研究、市场分析、竞争情报获取，或用于发现企业何时采用了新的工具或合作伙伴。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 12665
     },
     "plugin_connector_690a9430a270819196671dcb4c95898e|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_connector_690a9430a270819196671dcb4c95898e",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:54.520Z",
+      "at": "2026-10-08T05:50:12.826Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 66
+      "elapsedMs": 65
     },
     "plugin_connector_690a9430a270819196671dcb4c95898e|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_connector_690a9430a270819196671dcb4c95898e",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:54.793Z",
+      "at": "2026-10-08T05:50:13.331Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 79
+      "elapsedMs": 52
     },
     "plugin_connector_690a9430a270819196671dcb4c95898e|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_connector_690a9430a270819196671dcb4c95898e",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:55.036Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 61
-    },
-    "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:55.304Z",
+      "at": "2026-10-08T05:50:13.715Z",
       "completed": false,
       "error": "HTTP 429",
       "elapsedMs": 58
     },
-    "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+    "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:55.540Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 59
-    },
-    "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:55.812Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 61
-    },
-    "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:56.057Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 76
-    },
-    "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:56.334Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 59
-    },
-    "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:56.567Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 68
-    },
-    "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:56.859Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 81
-    },
-    "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:57.147Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 62
-    },
-    "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:57.447Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 65
-    },
-    "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:57.705Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 72
-    },
-    "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:57.970Z",
+      "at": "2026-10-08T05:50:13.970Z",
       "completed": false,
       "error": "HTTP 429",
       "elapsedMs": 66
     },
+    "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T05:50:14.250Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 49
+    },
+    "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T05:50:14.505Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 53
+    },
+    "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T05:50:14.857Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 55
+    },
+    "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T05:50:15.210Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 51
+    },
+    "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T05:50:15.597Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 53
+    },
+    "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T05:50:15.851Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 53
+    },
+    "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T05:50:16.552Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 51
+    },
+    "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T05:50:16.837Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 63
+    },
+    "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T05:50:17.152Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 61
+    },
+    "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T05:50:17.503Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 52
+    },
     "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:58.236Z",
+      "at": "2026-10-08T05:50:18.084Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 70
+      "elapsedMs": 61
     },
     "plugin_asdk_app_6a88631af75081918917d89fb00269ad|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a88631af75081918917d89fb00269ad",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:58.477Z",
+      "at": "2026-10-08T05:50:18.382Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 72
+      "elapsedMs": 59
     },
     "plugin_asdk_app_6a88631af75081918917d89fb00269ad|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a88631af75081918917d89fb00269ad",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:58.731Z",
+      "at": "2026-10-08T05:50:18.611Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 62
+      "elapsedMs": 52
     },
     "plugin_asdk_app_6a88631af75081918917d89fb00269ad|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a88631af75081918917d89fb00269ad",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:58.974Z",
+      "at": "2026-10-08T05:50:19.060Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 59
+      "elapsedMs": 46
     },
     "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:37:59.236Z",
+      "at": "2026-10-08T05:50:19.302Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 69
+      "elapsedMs": 51
     },
     "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:37:59.517Z",
+      "at": "2026-10-08T05:50:19.530Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 62
+      "elapsedMs": 44
     },
     "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:37:59.770Z",
+      "at": "2026-10-08T05:50:19.804Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 65
+      "elapsedMs": 53
     },
     "plugin_asdk_app_6a54f7589a18819194670b479e14137c|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a54f7589a18819194670b479e14137c",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:38:00.049Z",
+      "at": "2026-10-08T05:50:20.013Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 95
+      "elapsedMs": 52
     },
     "plugin_asdk_app_6a54f7589a18819194670b479e14137c|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a54f7589a18819194670b479e14137c",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:38:00.372Z",
+      "at": "2026-10-08T05:50:20.297Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 68
+      "elapsedMs": 50
     },
     "plugin_asdk_app_6a54f7589a18819194670b479e14137c|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a54f7589a18819194670b479e14137c",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:38:00.656Z",
+      "at": "2026-10-08T05:50:20.642Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 76
+      "elapsedMs": 65
     },
     "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:38:00.953Z",
+      "at": "2026-10-08T05:50:20.913Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 59
+      "elapsedMs": 54
     },
     "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:38:01.248Z",
+      "at": "2026-10-08T05:50:22.145Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 59
+      "elapsedMs": 2085
     },
     "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:38:01.510Z",
+      "at": "2026-10-08T05:50:24.415Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 78
+      "elapsedMs": 55
     },
     "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:38:01.796Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 64
-    },
-    "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:38:02.113Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 95
-    },
-    "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:38:02.468Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 69
-    },
-    "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T03:38:02.828Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 78
-    },
-    "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T03:38:03.101Z",
+      "at": "2026-10-08T05:50:24.627Z",
       "completed": false,
       "error": "HTTP 429",
       "elapsedMs": 85
     },
+    "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T05:50:24.906Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 62
+    },
+    "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T05:50:25.170Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 66
+    },
+    "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T05:50:25.400Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 49
+    },
+    "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T05:50:25.640Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 51
+    },
     "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T03:38:03.429Z",
+      "at": "2026-10-08T05:50:25.893Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 104
+      "elapsedMs": 55
     }
   },
   "complete": false,
-  "updatedAt": "2026-10-08T03:38:03.535Z",
+  "updatedAt": "2026-10-08T05:50:25.952Z",
   "pauseReason": "limit",
   "summary": [
     {
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
       "requested": 50,
-      "completed": 12,
-      "checksPassed": 11,
-      "errors": 38,
-      "reportedNeurons": 312.015811920166
+      "completed": 39,
+      "checksPassed": 37,
+      "errors": 11,
+      "reportedNeurons": 1002.8962936401367
     },
     {
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
       "requested": 50,
-      "completed": 12,
-      "checksPassed": 12,
-      "errors": 38,
-      "reportedNeurons": 532.0032653808594
+      "completed": 39,
+      "checksPassed": 38,
+      "errors": 11,
+      "reportedNeurons": 1685.6739959716797
     },
     {
       "model": "@cf/google/gemma-4-26b-a4b-it",
       "requested": 50,
-      "completed": 11,
-      "checksPassed": 11,
-      "errors": 39,
-      "reportedNeurons": 554.5181655883789
+      "completed": 38,
+      "checksPassed": 38,
+      "errors": 12,
+      "reportedNeurons": 2117.6181354522705
     }
   ]
 }
