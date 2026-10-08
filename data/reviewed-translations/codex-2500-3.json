@@ -1,0 +1,666 @@
+[
+  {
+    "id": "plugin_asdk_app_69f8cf01dd8881919e6c8518af5451b7",
+    "name": "Fattal",
+    "sourceHash": "f4c299ca3f073c1a6d29b7d79d6910b387e20a4623d1fd5f4a42ace554922fb3",
+    "summary": "查找 Fattal 酒店",
+    "description": "查找并比较 Fattal、Leonardo 和 NYX 酒店的住宿选择。按目的地、日期、入住人数、设施、餐食类型和预算搜索，并查看可订酒店、房型、价格、取消详情、照片、设施、评价及预订链接。你还可以询问特定酒店、入住日期、Fattal And Friends Club 会员权益、政策和目的地攻略。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69be2ad795e8819199fff411aa96743f",
+    "name": "Fattura24",
+    "sourceHash": "f60c84ead6a51c0dd5f70ad7f11879faba7925b7365b54edad0135e74692ed13",
+    "summary": "访问 Fattura24 数据",
+    "description": "连接 Fattura24，使用自然语言查询管理和会计数据，无需打开报告、切换页面或手动制作分析。\n\n如果你使用 Fattura24，所需数据其实已经齐备：营业额、收款、付款、增值税和利润率。问题在于，获取和使用这些数据需要时间。借助 MCP 连接器，这些步骤都省去了：提出问题，即可获得分析。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a27c48823a081918a735de7e689cad2",
+    "name": "Feedbk.ai Survey Agent",
+    "sourceHash": "b873f18647e564fa97f2c874e093d878943c9d3cc46e5d19b9c403d9987b8544",
+    "summary": "创建 AI 调研问卷",
+    "description": "直接通过 AI 助手，几秒钟内创建对话式问卷或访谈。Feedbk.ai Survey Agent 可帮助你设计并分享问卷，并内置 AI 追问功能，挖掘更深入的见解。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8138f4b028819199d1e6a4892249ae",
+    "name": "FeedBoss",
+    "sourceHash": "d918e83d902cc46f935f90c38eafe0310eb05655f396e75f47f4e1cad7b596c3",
+    "summary": "起草并评估 LinkedIn 帖子",
+    "description": "FeedBoss 将助手连接到你的 LinkedIn 内容工作区。它会依据你保存的表达风格和自己的知识库起草帖子，并在发布前按读者反应质量标准为草稿评分。你可以保存并编辑草稿，也可以安排已批准的草稿在指定时间发布到 LinkedIn；每次发布都需由你确认。它还会提供分析数据、每周持续发帖连胜记录，以及更新后的高表现帖子墙，供你获取灵感。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c89b0e3df08191bb005c578b645776",
+    "name": "FeedClaw",
+    "sourceHash": "54bb48840fcbfcabfca6b87fc43656ee4712bfc31554ed2d1c051b8b96ac8f18",
+    "summary": "发布到 X、LinkedIn 和电子邮件",
+    "description": "FeedClaw 是 AI 代理的内容收件箱。让 ChatGPT 撰写帖子、X 长帖或新闻邮件，在聊天或收件箱中审阅后，再发布到 X、LinkedIn 或通过电子邮件发送。未经你同意，任何内容都不会发出。首次设置可直接在聊天中完成：为品牌命名、通过链接连接渠道，然后发布。你可以附加照片或视频、提前安排发布时间、管理多个品牌并建立订阅者名单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b7c295191c81918c2a9b250198fe37",
+    "name": "Feedspace",
+    "sourceHash": "f1839dbeebc4c814ab235542dcaad51bb99a5cd5d3c9d06513994584f0a653f3",
+    "summary": "管理客户评价和推荐语",
+    "description": "Feedspace 帮助用户通过 ChatGPT 管理客户评价和推荐语。用户可以列出、筛选、查看、导入和编辑评价，管理标签，创建并设计评价征集表单，建立 Wall of Love 页面和可嵌入的小组件，邀请团队成员，并设置新评价的自动添加规则。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694386206c148191853b5a1fd83f21aa",
+    "name": "Fellow.ai",
+    "sourceHash": "e2465cf799f4fcfe557deb8b3985353a46021962fea22728e09c19a837a83d04",
+    "summary": "随时访问会议知识",
+    "description": "Fellow 可即时访问并运用你的会议知识。它将 ChatGPT 连接到你的会议环境，让你通过自然语言查询搜索转录文本、提取摘要中的关键信息并跟踪行动事项。你还可以直接向会议议程添加讨论要点、笔记和后续事项，让自己每次开会都准备充分。\n\n需要回忆上季度的决策？想查找分配给团队的行动事项？想引用昨天头脑风暴中的精彩想法，或将其加入下周议程？只需询问 ChatGPT，无需再没完没了地翻阅笔记。\n\n借助 Fellow 安全、集中的会议智能，在需要时获得清晰的信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699d99b7c5ac81919ee04058aca52378",
+    "name": "Ferryhopper",
+    "sourceHash": "9baf6df97802aa05626fc927faaa21a91e460d05eee5a5a3d6681a0d19c91ac4",
+    "summary": "搜索并比较渡轮航线",
+    "description": "Ferryhopper 帮助旅客规划欧洲和地中海地区的渡轮行程。用户可以查询渡轮港口，了解从某港口可直达的目的地，并搜索单程、往返或最多五段的跳岛航程，查看参考价格和各航段的可用选项（客舱、车辆、宠物、电子票）。还可以查看特定航班的船上设施、照片和住宿选项，并查询罢工、天气警报和取消等运营中断通知。搜索结果会链接到 ferryhopper.com，用户可在那里完成预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cbe34102fc819188af6e0df6aec880",
+    "name": "Fever Event Discovery",
+    "sourceHash": "52c98bc20627f3071255c24865e2d210ed20c36c24373f7d7a3272e69153d6ae",
+    "summary": "探索现场娱乐活动",
+    "description": "通过 Fever 探索全球现场娱乐体验。按城市、日期、地点或关键词搜索音乐会、演出、节庆、沉浸式体验等活动。可按热度、价格、评分或距离筛选。查看活动日程、场地、评分和价格等详情。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2ab6b4009c8191b74cb3b2c70025e3",
+    "name": "Fibery",
+    "sourceHash": "cc4aac167960db21665fb72ed6f9690dbce00641e5ec5607d41f030b156a8862",
+    "summary": "管理工作区数据",
+    "description": "将 Fibery MCP 连接到工作区后，OpenAI 几乎可以执行你在 Fibery 中能做的任何操作——读取和写入数据，或调整工作区结构。\n\n1. 读取和查询\n探索工作区结构（空间、数据库、字段），通过筛选、排序和子查询来查询任意数据库；对实体、文档和评论进行全文搜索；查看活动历史（谁在何时更改了什么）；并读取应用了筛选条件的已保存视图数据。\n\n2. 创建和更新\n创建、更新和删除实体，在工作流状态间移动实体，分配人员并关联记录，撰写文档、添加评论和附加文件。\n\n3. 修改结构\n创建空间和数据库，添加 Fibery 支持的任意类型字段（包括公式），并构建看板、时间线、日历、甘特图和表单等视图。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7d8d504db08191a33085c67b230828",
+    "name": "FICTURN",
+    "sourceHash": "f68cfdcf3461e1679c960852829af5e698def54f71e870847f389d2ebcd90ad7",
+    "summary": "在 ChatGPT 中阅读短篇小说",
+    "description": "FICTURN 让用户可以直接在 ChatGPT 中浏览并阅读已完成的短篇小说。当前书库包括浪漫悬疑、诡异恐怖和近未来科幻作品，并通过内嵌阅读器呈现，提供阅读进度、上一章和继续阅读导航，以及书库视图。FICTURN 提供固定的故事文本，不会即时生成或改写文章。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b872640c2081919023ef1a1679a5a8",
+    "name": "Field Control",
+    "sourceHash": "04dc3430ba1dc9e796c8088560dd0823e8ce72f181c6ab7ef3e0fcd4b916a6b2",
+    "summary": "管理现场服务业务",
+    "description": "直接通过 ChatGPT 查询 Field Control 运营数据。工单、任务、客户、技术人员、设备、库存、报价等信息都实时连接到你的账户。无需离开聊天，即可询问现场服务业务的任何问题。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a734e45d6ec8191bd6425b6eccea3d1",
+    "name": "Fieldy",
+    "sourceHash": "fcb7b3f6223fea19e8c449e73f2774cec9d978685816129ada4b25bcd35fa92c",
+    "summary": "回顾 Fieldy 对话",
+    "description": "Fieldy 让用户能够在 ChatGPT 和 Codex 中检索并回顾录制的真实对话。用户可以浏览最近的对话或指定日期范围，打开对话及其转录文本，并查看转录中的准确原句。所有可用工具均为只读。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c2bebd2a8481919951962d1c7209a9",
+    "name": "Figaro Immobilier",
+    "sourceHash": "dd2b9d950a7660a203a09f6619e79332cad50e024d1dcf278cde8d8f669f0423",
+    "summary": "寻找理想房产",
+    "description": "在 Figaro Immobilier 数据库中搜索符合条件的房产，可按地点、预算、房产类型、面积以及购买或租赁等条件筛选。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_connector_68df038e0ba48191908c8434991bbac2",
+    "name": "Figma",
+    "sourceHash": "addb9efd57ddfd8733f853e6572c72abc1d09d51af2da526377fadcba01fe89e",
+    "summary": "将 Figma 设计付诸代码",
+    "description": "使用你的 Figma 设计",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2156acc3408191b26c1afdcad8d3ed",
+    "name": "Figr",
+    "sourceHash": "313ee95ff6cb0d2433d788ccab8945ceed24c4d812a6c5a14ecab5b8bde4c1ba",
+    "summary": "面向产品团队的设计助手",
+    "description": "Figr 是一款面向产品团队的 AI 设计工具，可创建界面、存储设计系统并记录产品决策背后的理由。此 MCP 可让 ChatGPT 读取你的 Figr 项目。打开任意设计、提取成果代码、搜索 UX 资源库，并在任何对话中运用产品上下文。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e917d8fc2881919dec30cb76180290",
+    "name": "FileAssist",
+    "sourceHash": "0b589ba229ac84638fa86976d9f1d008dfc57955a8569f4c68212c863c5320a7",
+    "summary": "搜索并分析文档",
+    "description": "通过简单的自然语言提示，使用此工具处理存储在 FileAssist 中的文档。它可以快速查找相关文件、生成摘要、找出文档差异并提取关键信息，无需逐一打开文件。此工具特别适合高效审阅、分析和洞察 FileAssist 平台中的存储内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_697b6a3d751c81918fbd1d7419eca9b2",
+    "name": "FilesAnywhere",
+    "sourceHash": "8db021d279723a6aa3b804a5a79c894e2ffb957e6ef05f9e115bb374b6ba6f47",
+    "summary": "安全管理企业文件",
+    "description": "通过自然语言查询，与 FilesAnywhere 中存储的文件互动。无需手动逐份查看文档，即可搜索、总结、比较和提取信息。此工具适用于快速定位文件、分析文档或直接在 ChatGPT 中从存储内容提取见解。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a971c59f0148191ad4b99ee35e89fdc",
+    "name": "FilmEase",
+    "sourceHash": "401e6b401b8c533b21e7ee09c606290d03bb1c0e75d1d05045e41f55c01e7089",
+    "summary": "发现并追踪电影",
+    "description": "根据你的心情发现电影，获取基于 FilmEase 观影偏好的个性化推荐，查询影片的流媒体播放平台，并管理想看列表、评分、影评和观看历史。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0227574dd4819184a0fa29651e71b0",
+    "name": "Find Your Great",
+    "sourceHash": "1df5fcd43d60aaa02292a782bab78f5ddf64b45389c6986dc1ceeb9c0c014f0c",
+    "summary": "了解工作影响力",
+    "description": "直接在 ChatGPT 中查询工作活动、职业评分和影响力数据。通过对话调取 Slack 消息、GitHub PR、Linear 事项、会议转录和决策记录，以总结一周工作、准备一对一（1-on-1）会议或起草利益相关方动态。\n\nFind Your Great 会汇总你在各个平台上的日常工作，根据团队职业发展框架为你评分，并从活动中发现行为模式。\n\n你可以这样提问：\n- “我这周做了哪些工作？”\n- “我的评估分数趋势如何？”\n- “帮我起草一份涵盖最近两周、发给经理的影响力更新。”\n- “我在身份验证项目中做了哪些决策？”\n\n连接使用 OAuth 保护，并提供细粒度的权限范围控制——设置时由你准确选择要共享的数据类别。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4f9be244108191b8f51eeaa5475e67",
+    "name": "FindCamp",
+    "sourceHash": "f38e6a9bcd84a6887065ec39fa7e4408ad1a9b4945dc210aba7d68a8eb3b7986",
+    "summary": "这个露营地适合你吗？",
+    "description": "FindCamp 根据经过分析的公开评论，对欧洲露营地给出中立的匹配判断。你可以询问某个露营地是否符合你的旅行方式——例如适合家庭、浅眠者、海滩、自然、品质、带狗出游或情侣——并得到明确的适合或不适合结论、两到三个理由以及一项坦诚的取舍说明。它还可以根据个人需求生成露营地候选名单，或并排比较两个营地。FindCamp 是辅助决策的工具，不是预订网站：它帮助你做出选择，然后指引你前往露营地。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a27873d0b8081919e13b246970e4de9",
+    "name": "FindIp",
+    "sourceHash": "476bb0c67b17a5ad98e91c5551d2c7ff2667bede8d2761f74483aeb88df3e800",
+    "summary": "按语义搜索专利",
+    "description": "FindIP 根据含义而非仅凭关键词搜索专利。用通俗语言描述问题、解决方案或技术，即可查找美国、中国、日本、韩国和欧洲最相关的专利。你还可以探索申请趋势、深入查看具体章节和权利要求，并在对话中分析专利格局。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a957610170819189c91507fa3ed4b7",
+    "name": "FINN",
+    "sourceHash": "96de6931ebb094118ea74d32f28d8f6d038f403c66818e10f0bc45bb9bce1a58",
+    "summary": "轻松驾驶 FINN",
+    "description": "FINN 汽车订阅服务让你随时灵活出行，无需像买车或租赁那样长期承诺。固定月费已包含保险、保养、注册登记甚至 CO₂ 抵消服务，费用清晰透明，使用方便。\n\n更方便的是，只需几分钟即可在线预订；新车会直接送到家门口，也可以到我们的任一站点自提。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a888e2ed7288191b4a7a5789517b783",
+    "name": "Finseo",
+    "sourceHash": "3f77585eda41400f8bf360ed89feaec7c9de61e7d22e9108740a20e394feb8ab",
+    "summary": "追踪 AI 搜索曝光度、AEO 和 GEO",
+    "description": "Finseo 追踪你的品牌在 AI 搜索中的曝光度——也就是人们从 ChatGPT、Perplexity、Gemini、Claude 等 AI 助手获得的答案。它会将 AI 曝光度、生成式引擎优化（GEO）和答案引擎优化（AEO）数据直接呈现在 ChatGPT 中。\n\n连接 Finseo 账户后，你可以询问：\n- “这个月我的品牌在 AI 搜索中的曝光度如何？”\n- “AI 答案中提及哪些竞争对手的次数更多？”\n- “AI 模型在我的行业引用了哪些来源？”\n- “显示我的品牌尚未出现的已追踪提示词。”\n\n可执行的操作：\n- AI 曝光度关键指标：曝光率、声量份额、平均提及顺序和提及深度，并可查看自定义日期范围内的趋势\n- 竞争对手追踪：AI 曝光度排名、差距分析和正面对比\n- 提示词层面的洞察：查看已追踪提示词和实际 AI 答案，包括品牌情感\n- 引用分析：查看 AI 助手引用了哪些域名，以及你的内容作为来源出现的频率\n- GEO 建议：查看 AI 生成的优化任务，提升品牌在 AI 搜索中的曝光度\n\n此插件为只读模式：仅检索追踪数据，不会修改数据。需要拥有 Finseo 账户（finseo.ai）。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6945bd12ee14819184ce491e3b104da6",
+    "name": "Firehouse Subs",
+    "sourceHash": "7700b3c7105b7c336df4cc1296c83a07413a1d3642c8d03d8fe807f6e1444380",
+    "summary": "查找门店和优惠",
+    "description": "使用 Firehouse Subs® 官方应用，随时随地浏览菜单并查找离你最近的 Firehouse Subs® 餐厅。在大多数门店，你还可以提前下单。\n\n主要功能包括：\n- 查找 Firehouse Subs®：定位最近的 Firehouse Subs® 餐厅\n- 优惠：直接通过移动设备发现热门优惠和促销\n- 菜单：浏览你喜爱的 Firehouse Subs® 菜品，发现最新菜单，还可以随时查看菜品说明。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a740ab82d5c8191a2946bb5fff44316",
+    "name": "firestorage.ai",
+    "sourceHash": "f98742486ac6ef6fc3020f2472502faf589ab84aa5eda52ba0a1c485aa27199a",
+    "summary": "上传和发送文件",
+    "description": "将文件上传到 firestorage.ai 并获取分享链接；向现有分享添加文件、查看最近上传记录，或将文件发送到 AI Address 收件箱。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_695c64b1d0f08191a1b440a5329b8b95",
+    "name": "Fitbod",
+    "sourceHash": "1d4e76812ede295631e1d581a43a75d140eb19b2a164b1fd790e802af0d589b9",
+    "summary": "获取下一套训练计划",
+    "description": "需要锻炼计划？直接开口告诉 Fitbod 你的需求——例如 30 分钟胸部训练、只用哑铃练手臂，或在家完成的全身训练——即可获得完整训练方案。每套方案都会为你挑选动作、组数、次数和重量。点击任一动作，可查看分步操作说明和姿势提示，了解正确做法。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a98be9cb08c819184453651a6e0188e",
+    "name": "Fiveable for AP Students",
+    "sourceHash": "f327a4b46e81d3b30fb8a36930bfb9c49752a211a5d1e0ae4be55fdeef59e5c6",
+    "summary": "备考所有 AP 课程",
+    "description": "使用可信的 Fiveable 内容备考所有 AP 课程。查找学习指南和关键术语，获取练习选择题（MCQ）和自由回答题（FRQ），核对答案，通过 AI 反馈为书面作答评分，估算 AP 分数、回顾进度并制定个性化学习计划。无需登录即可使用公开课程大纲和搜索；连接 Fiveable 账户后，还能根据学生可使用的 Fiveable 权限保存学习进度并使用个性化工具。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a98a1a5db00819184610cec7f8e5b9e",
+    "name": "Fixture and Finish",
+    "sourceHash": "248f8f1c29b00e94e70b4945db72e44d4a2e1231e26f6289952f81b5b01e68d7",
+    "summary": "定制住宅的选材与采购",
+    "description": "Fixture and Finish 是一个选材和采购平台，面向定制住宅建筑商、室内设计师和设计施工公司。此插件会将项目数据接入 ChatGPT，让你无论在办公室、施工现场还是手机上，都能用自然语言提问。\n向 ChatGPT 提出请求：\n\n查找项目中的任意物品——设备规格、饰面、型号、尺寸和安装详情\n查看各项目的采购状态：哪些已下单、已发货，哪些仍待决策\n搜索你已审核并使用过的产品选材库\n从任意供应商页面导入产品到资料库，并将其关联到某个物品\n为项目创建后续任务和提醒\n\n无需翻找电子邮件、电子表格和规格表，只需询问：“Leesburg 主卧室的风扇是什么型号，遥控器怎么用？”或“Wilson Lane 厨房还有哪些东西没下单？”即可获得基于实际项目数据的回答。\nFixture and Finish 会将选材、规格、供应商和采购状态结构化地整理在一处，因此客户文档、现场进度表及类似问题的答复都可以开箱即用。需要 Fixture and Finish 账户；试用免费，无需信用卡。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3440a72ea08191bc090c418efefe76",
+    "name": "FlagStat",
+    "sourceHash": "a70faf4a30a2a8959edf557c7201bee88741562682f62d8693cf6c4647c6af84",
+    "summary": "美式腰旗橄榄球记分",
+    "description": "FlagStat 帮助腰旗橄榄球项目清楚了解得分、统计数据、报告、规则体系和赛季运营。教练、体育主管、联赛组织者和记分员可以在 ChatGPT 中了解实时记分、录像复盘流程、数据导出、合规需求和项目设置。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a90b5d7def08191a3088f81597d3576",
+    "name": "Flash",
+    "sourceHash": "f073c97489ac3f711b9430ae7f19bbf72fc80ff934271f3e5a9c25ec269e9067",
+    "summary": "能出题考你的闪卡",
+    "description": "Flash 是一款间隔重复闪卡应用，ChatGPT 可以代你操作。告诉 ChatGPT 你在学什么——粘贴章节、课堂笔记、词汇表，或只描述主题——它就会把卡片写入你的 Flash 账户中的牌组。想要学习时，告诉它即可：ChatGPT 会逐张提问到期卡片，检查你的答案（可输入，也可用麦克风口述），并按“重来”“困难”“良好”或“简单”评分。对数字、剂量、范围、单位和名称的评分很严格，因此很适合护理、医学、法律、语言学习，以及任何不能“差不多就行”的领域。\n\n每次复习都由 FSRS 安排。这是一种现代间隔重复算法，可模拟记忆情况，并在你即将遗忘前展示每张卡片。无需学习任何设置。\n\n通过 ChatGPT 学习的内容不会消失：卡片、答案和复习日期都保存在你的 Flash 账户中，并在设备间同步；你也可以在 flashmemorize.com 上学习。可完整导入现有 Anki 牌组（.apkg，支持填空题、提示、图片、音频、LaTeX、手动输入答案和嵌套牌组），并可随时导出回 Anki 或 CSV。\n\n连接后，ChatGPT 可以：列出牌组和待复习卡片数量、创建牌组和卡片、开始并进行学习、显示答案、提交评分、编辑或删除卡片，以及调整每日新增卡片上限。\n\n拥有免费的 Flash 账户即可使用。Flash 无广告、不跟踪用户，也不使用第三方分析工具。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698b6e07fd108191a836f403efe16b7a",
+    "name": "Flashcards Space",
+    "sourceHash": "6947e1bbf2ad2d07a1551ff6561d4aba60783919d2281aad29b4fcba6c58ee4e",
+    "summary": "创建语言学习闪卡",
+    "description": "Flashcards Space 可帮助你直接在 ChatGPT 中创建语言学习闪卡。\n\n让 ChatGPT 根据任意主题或语言组合生成闪卡，卡片会保存到你的 Flashcards Space 账户中，可在 iOS 应用中使用间隔重复进行复习。\n\n你可以：\n- 创建任意语言组合的闪卡并整理到牌组中\n- 创建后编辑闪卡正反面的文字\n- 删除刚刚创建的闪卡\n\n所有闪卡都会同步到 Flashcards Space 的 iOS 移动应用，你可以在那里使用间隔重复练习，以提高长期记忆效果。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5c7068518c8191b7dd711919c51a9f",
+    "name": "FlatHunt",
+    "sourceHash": "e184c7d8c73f4004cf78a6bb4efa49b3e92e0a004156d8480fc0c1873d4542a1",
+    "summary": "在柏林寻找带家具住房",
+    "description": "FlatHunt 帮助用户从多个可信的住房供应商处寻找柏林的带家具公寓、单间和独立房间。\n\n你可以按地点、月预算、房屋类型、房间数、面积、入住日期、设施和其他偏好搜索。FlatHunt 会比较匹配的房源，以交互式卡片展示最相关的选项，并链接到原始供应商页面，以查看最新详情和空房情况。\n\nFlatHunt 适合外派人员、职场人士、学生、情侣以及任何在柏林寻找带家具住房的人。\n\n房源、价格和空房情况可能会变化。FlatHunt 帮助用户发现和比较住房选项，但不充当房东、物业管理方或预订服务商。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a871d1d736c819197c7dbb99c6047b5",
+    "name": "Flaut.Travel",
+    "sourceHash": "9fca28c56a5b17bcd01a72f3618475c2d976185fb5dd564cca4ad4ec86b4f13b",
+    "summary": "查找航班并探索票价",
+    "description": "利用数据洞察寻找更合适的航班，并决定去哪里旅行。搜索特定日期的机票，查看全年价格趋势，比较出发和到达机场，查询直飞航班及运营航空公司，并根据偏好的气候、大洲和预算发现目的地。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7177fe15688191984422e651cc1e1a",
+    "name": "FlawPilot",
+    "sourceHash": "c3871c1bc10f84e61acadd392477f848b2929aae5a2b7c1e421adb0ad739fafd",
+    "summary": "网站安全与 SEO 扫描器",
+    "description": "FlawPilot 将 ChatGPT 连接到你的网站健康扫描。让 ChatGPT 扫描任意在线 URL，FlawPilot 就会检查安全漏洞、性能瓶颈、基础设施问题和 SEO 问题。无需离开对话，ChatGPT 就可以列出你现有的项目、启动新扫描，并持续检查扫描状态，直到结果就绪；结果会包含优先级评分和可执行的洞察。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69848e517d0c819191695bf9b23f0208",
+    "name": "Flight Network",
+    "sourceHash": "968a8260df608e1e4e1fbf1d321cf4f7e510d41a9bc27c8fbf06c0abbc749d2b",
+    "summary": "搜索并预订航班",
+    "description": "使用 Flight Network 的 ChatGPT 应用，直接在聊天中查找并比较实时航班选项。\n\n只需输入 @Flight Network 并接上你的需求，或在任何旅行规划对话中询问航班建议。例如：“查找两周后从 NYC 飞往 London 的航班。”\n\n实时数据：即时获取数百家航空公司的实时价格和可用情况。\n\n对话式搜索：无需复杂筛选条件。只需告诉 Flight Network ChatGPT 应用你想去哪里、何时出发。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a792f0087f88191b0c51be32b4b37f1",
+    "name": "Flightcat",
+    "sourceHash": "7f29991f405b17e3a76042ae0d3a972e0f317987e4bd38c35a95ca518de756e3",
+    "summary": "灵活的航班搜索引擎",
+    "description": "Flightcat 可搜索单程、往返和多城市行程的机票，识别宽泛或模糊的地点及灵活日期，并最多展示 10 个航班选项，包括价格、时刻表、中转信息和预订链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a97e3d1a7608191b6822a5cf4b6b571",
+    "name": "FlightQueue",
+    "sourceHash": "bfdac462d99e2e03ea7e2f46d4b54fa5db45414688f946302348dd78fc48586e",
+    "summary": "机场排队时间与延误",
+    "description": "FlightQueue 使用 8,000 多个机场的实时数据回答实用的机场问题。用户可以查询机场当前安检等待时间，获取本周稍晚出发航班的等待时间预测，计算某趟航班的出发时间，查看 FAA 当前的地面停飞和延误计划，查询申根区欧盟出入境系统边检排队情况，查找贵宾休息室和航站楼、查看航空天气，并比较各航空公司的行李处理不当情况。用户还可以报告自己实际经历的等待时间，为共享预测模型提供数据，并设置等待时间超过某一阈值时的提醒。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3e6f8666948191bbb4af07bb4a7f0a",
+    "name": "FLIGHTS Trip & Travel Routes",
+    "sourceHash": "20255be934a1da6984d54fbeb8485d86521a8ca6d113fee465ed300715bfb856",
+    "summary": "为你的行程找到最合适的航班",
+    "description": "FLIGHTS 会寻找真正适合你行程的航班，而不只是最便宜的机票。\n\n分享你的行程、日期和偏好，即可获得与整体计划匹配的航线：到达时间适合酒店入住、转机等待不会耗掉一整天，多城市路线也会围绕你计划访问的地点安排。比较价格、直飞航班和预算替代选项，然后选择最合适的预订渠道。\n\n还没有行程？FLIGHTS 可以帮你围绕航班规划旅行。先找到合适的路线，再以最优惠的价格预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f09e4602088191bb5322f4bec4b6e9",
+    "name": "Flipbook - Publuu",
+    "sourceHash": "cfdf9e7345f59c2452f70c55a23f1f88a847b925c5e72d7ad94c9cd90234b7e9",
+    "summary": "免费将 PDF 转成翻页书",
+    "description": "将精彩的 PDF 转换成精美翻页书，在网上分享并追踪表现。你的所有翻页书都能在各种设备上顺畅运行。只需上传 PDF，即可免费获得 Publuu 翻页书。注册后可将其保留更长时间。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a307cfec92c8191983a890307e0e3a6",
+    "name": "Flippo AI",
+    "sourceHash": "2a494cfd477a8a83dcccc0854d838f1c5a0650600384377b2bbe035a210ee254",
+    "summary": "追踪转售库存和利润",
+    "description": "Flippo 将转售商的库存、采购和销售记录集中管理。\n\n询问哪些商品尚未售出、某笔采购带来了多少回报，或某个月赚了多少利润，答案都来自你自己的记录。\n\n你可以查询商品、查看哪些商品积压过久、比较不同平台的利润率，并在售出时记录交易。\n\n需要 Flippo 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a04224b8cec81919f0c397fd7664c57",
+    "name": "Flipsnack",
+    "sourceHash": "2f2bfd8384e8a716f443d81e05a0be312a2e9f5a3facbc4ea7af19dcdc47de2d",
+    "summary": "创建交互式翻页书",
+    "description": "直接通过 Chat GPT 上传 PDF、创建交互式翻页书、管理合集并追踪互动分析。将静态文档变成可购物目录、数字杂志、宣传册和报告，并嵌入视频、链接和潜在客户表单。将浏览统计、读者行为和转化数据带入对话，辅助内容决策。从内容创建到效果分析，让 Flipsnack 成为出版工作流中的原生工具，无需离开 Chat GPT。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69bbc3ff60d88191b03352464918e00f",
+    "name": "FlixBus",
+    "sourceHash": "39ea96f230027ba308cf7651ded225afee9a2e7f071b46371070d7da2e703d46",
+    "summary": "查找巴士和火车路线",
+    "description": "直接在 ChatGPT 中使用 FlixBus 规划行程。搜索全球支持目的地之间的路线，浏览所选日期可用的巴士和火车选项，然后直接前往结账。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a810e6e217481918fa8634e8898d603",
+    "name": "Flixly",
+    "sourceHash": "77bb6e19aac176b1a776332641778ac563f384a7cd28631e7bbcd20bc194e097",
+    "summary": "创建图片和短视频",
+    "description": "通过 ChatGPT 使用 Flixly 精选目录和现有点数创建图片和短视频。比较支持的模型及预估费用，启动一次生成任务，并在对话中跟进同一任务，直到获得可用结果。生成内容会显示在你的 Flixly 历史记录中。此集成不支持购买或订阅。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694515af58088191a8b0a0f5f0b6d767",
+    "name": "Flixor",
+    "sourceHash": "39ad882b0bfe951b342dfa3b4f34987944498986d250eaa54965593ab11487bc",
+    "summary": "电影和电视节目推荐",
+    "description": "Flixor：更聪明地选择观看内容\n\nFlixor 运用先进 AI，快速提供高度个性化的电影和电视节目推荐。只需描述你的心情、喜欢的氛围或观看场景，AI 就会为你找到理想之选。\n\n在 ChatGPT 中使用\n\n设置：将 Flixor 连接到 ChatGPT。\n触发应用：可以通过以下任一方式启动：\n- 输入“@”，然后从菜单中选择 Flixor。\n- 直接在聊天框中输入“Flixor”。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fac627e8748191a94900f458bb04b9",
+    "name": "Flodesk",
+    "sourceHash": "74fb84549437072974c088c717d461834e5964da40b2c9f2aaef7dcba02f6ddd",
+    "summary": "分析电子邮件受众",
+    "description": "Flodesk 帮助用户分析电子邮件、订阅者、细分群体、工作流、表单和结账表现；查看并管理订阅者档案及其所属细分群体；并通过 ChatGPT 创建可重复使用的受众细分群体。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8c516c7e308191a0091f1b9c98a621",
+    "name": "FLORA",
+    "sourceHash": "97bdbb5d2ccc34f9d7a3cfe8e3819950b7d3bc3ca729e5a3f43da24cb0a3771d",
+    "summary": "生成创意工作流",
+    "description": "FLORA 插件可让用户直接通过对话生成、整理和迭代视觉素材——例如主视觉图片、情绪板、生活方式照片和促销图。与 Notion、Google Drive 或 Slack 等其他已连接工具配合使用时，同一对话还可以调取上下文，并将结果写回团队日常使用的平台。通过你现有的 FLORA 账户使用 OAuth 进行身份验证。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3265ca9104819181dd46e6ce0a15b6",
+    "name": "Flourish",
+    "sourceHash": "c69819f73aadf629dad231240651757ac10a4ff452338a6aac257ba52dedf84a",
+    "summary": "创建交互式图表",
+    "description": "Flourish App 会将 ChatGPT 变成真实 Flourish 项目的图表制作助手。提供数据并说明想要突出的见解或讲述的故事，它会选择合适的模板、整理数据、在你的 Flourish 账户中创建可视化内容，并提供编辑链接。最终润色和发布由你在 Flourish 中掌控。无需截图或临时代码，直接创建交互式、可编辑图表，并使用你的套餐包含的访问、协作、品牌和发布功能。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a17e2e56b3c819185564b85173300f6",
+    "name": "flow - AI Collaboration tool",
+    "sourceHash": "0594ccd348b7195d1989ddb9f4e1ccca358a889a6a1d8ebd870b55a643196dc7",
+    "summary": "管理任务、项目和活动",
+    "description": "flow 将 ChatGPT 连接到你的 Flow（flow.team）工作区，这是 Madrascheck 推出的协作工具。查找项目、任务、日历活动、帖子、评论、通知和 Wiki 文档，并创建或更新工作事项；所有操作都限于你登录的账户。每批写入操作都会在应用前显示预览，不可逆的更改必须经过明确确认。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fba9b0478081919b350556a92f0f77",
+    "name": "Flow State",
+    "sourceHash": "06e32c1400f817c1f535f245ff1c2c859b5b3f852dd5913fc31019768c2a4a29",
+    "summary": "规划耐力训练",
+    "description": "Flow State 将 ChatGPT 连接到耐力运动员的训练日历。用户可以查看即将进行的训练，了解运动员档案和恢复情况，创建或更新训练和比赛，管理训练计划，分析训练负荷和训练历史；如果 Flow State 账户已连接 Garmin，还可以将选定训练同步到 Garmin。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69de79ad66fc8191b9ada28b0dbbe2be",
+    "name": "Flowlity Co-planner",
+    "sourceHash": "3a8705d93efa11f1c77825f2005e6849ab9303ccf632f2e5c93949363e344df1",
+    "summary": "查询供应链数据",
+    "description": "Flowlity MCP Server 可让获授权用户通过 ChatGPT 查看 Flowlity 数据，包括供应链站点、产品、供应商、订单、库存、预测、促销、产能、警报、导入记录、已保存视图、评论和仪表板关键指标。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1e09238104819184e6a56e55551f37",
+    "name": "FlowSavvy",
+    "sourceHash": "0414502b3905aebd7bd81e1a3f2199af2d100a153277b332dbc62474677620e9",
+    "summary": "AI 日程与任务规划器",
+    "description": "FlowSavvy 会自动将任务安排成现实可行的日程。使用 ChatGPT 创建、更新、完成和整理任务，管理日历活动、查看日程、安排工作优先级，并通过自然语言规划一天。FlowSavvy 会根据你已有的安排自动排定任务；计划改变时，它也会及时调整，帮助你轻松跟进截止日期，无需手动反复调整日历。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a60295da9448191baa611d51910583b",
+    "name": "FluxBuilder",
+    "sourceHash": "26611f5ce5f433b701bff4c5dcc59b731f28597964707c7baa095a94273fa796",
+    "summary": "创建电商应用",
+    "description": "连接 FluxBuilder MCP 服务器，以管理 WooCommerce、Shopify 和 WordPress 的原生 Flutter 应用项目。无需编写代码，即可轻松创建应用、重新设计屏幕、更新设置、搜索商店目录、捕获移动端预览，并为 App Store、Google Play 和 Web 运行测试版或发布版构建。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a80734b4ef88191978143f47a179f5b",
+    "name": "Fly Travel Albania",
+    "sourceHash": "1b9f372fb17750048df97160736a5c8ae83e37e63fe3feb6808084f78aff98cd",
+    "summary": "阿尔巴尼亚包机和旅游价格",
+    "description": "Fly Travel Albania 是一家位于地拉那的持牌旅行社。此插件提供从阿尔巴尼亚出发度假的实时包机套餐价格、旅游日期和酒店可用情况，数据来自该旅行社预订引擎的缓存，而非估算值。输入目的地和日期，即可获得两位成人的欧元套餐总价、每人旅游价格，以及所选优惠的直接预订链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_696606411be08191a1757fc8597b8c3d",
+    "name": "Flygresor.se",
+    "sourceHash": "f99f574f4a1beee3b255bc863248d1c455691713cff8f95239cd8604ba46bab3",
+    "summary": "比较航班",
+    "description": "比较机票价格。只需点击一次，即可搜索所有航空公司和旅行社，快速轻松地找到最便宜的航班！",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f9db8d21048191b1536abadfbe4cfb",
+    "name": "Flyin",
+    "sourceHash": "6230007af7fe05d06d15d4fbae99172195f621e0fb24beb70039cddf59aea3d2",
+    "summary": "flyin 平价机票 @flyin",
+    "description": "Flyin 是沙特阿拉伯及周边地区规模最大的旅行平台之一，受到超过 100 万客户信赖，为用户提供便捷的机票预订和旅行体验。\n\n凭借超过 15 年的丰富经验，我们帮助旅客找到超值优惠，提供适合家庭的灵活票价、量身定制的行程，以及便捷的先飞后付选项。\n\n平台提供 450 多家航空公司的选择、庞大的酒店网络、便捷的直飞航班和丰富的旅行套餐，让行程规划变得轻松简单。\n\nFlyin 还提供 EzCancel、FlexiFly、旅行保险和智能延误保障等增值服务，为机票和酒店预订带来其他少数平台才能提供的安心保障。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a79985b0ef881918e389c82400ea95c",
+    "name": "Flyte",
+    "sourceHash": "34ed49f7d3a4d5a753cf13b6d10b5c59ccd0ba676392b35e28c4cf219c41f6ba",
+    "summary": "编写、迁移、运行和调试",
+    "description": "基于 Flyte SDK 和文档中的技能，编写、运行和部署 Flyte 2 工作流、应用和代理。在 ChatGPT 网页版中搜索 Flyte 文档和 SDK 示例。在已配置 Flyte CLI 的本地 ChatGPT 环境中，运行并管理经过身份验证的 Flyte 集群。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69707479f54081919cceb84b1088baf4",
+    "name": "Flyweel",
+    "sourceHash": "b3c1da9770909bab2a9ee64c1d70d7b33519a207afcaf84ba3de94b5419fe7e6",
+    "summary": "分析广告活动",
+    "description": "通过 Flyweel MCP 使用 ChatGPT 分析 Google 和 Meta Ads 广告活动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6568ab4eec8191b8d73a96d592c9b0",
+    "name": "Fontis",
+    "sourceHash": "1cfb81a5fcabade6afe8093fb279395c7adf3863408fd047d7890b59167137fe",
+    "summary": "基于法源的法律检索",
+    "description": "Fontis 会搜索经筛选的巴西法律文书数据库，并返回附有引文、来源和现行状态的原文摘录。收录内容包括《民法典》《民事诉讼法》《劳动法典》《刑法典》《消费者保护法》《儿童和青少年法》《通用数据保护法》（LGPD）、《食品法》《公共登记法》《稳定婚姻法》和《已婚妇女法》；STF 和 STJ 判例摘要及具有约束力的判例摘要；CJF 民法会议决议；CNJ《性别视角审判议定书》；以及 OAB/SP 律师费标准表。此插件面向需要查找可追溯法律依据以供核验的法律专业人士。它不会预测诉讼结果，不能替代专业法律建议，也不涵盖外国法。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a70633cb3d08191bed2d98906da7989",
+    "name": "foodora",
+    "sourceHash": "a361ddc035c62950fdb4bb6a93a5a87b3bbe905ac4219c3452251f50d2c1b76d",
+    "summary": "查找餐厅和菜单",
+    "description": "foodora 帮助用户发现附近的外卖餐厅、搜索商家和菜品，并浏览完整菜单，包括价格、评分、配送时间估算和有效促销。每条结果都包含深层链接，方便用户继续在 foodora 应用或网站上点餐。结果以交互式商家和菜单卡片呈现。\n\n目前仅在瑞典提供服务，其他国家和地区即将开放。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a63064f28848191b51bc747483b59dd",
+    "name": "foodpanda",
+    "sourceHash": "873f994d69d0725e9613c720d0ac4d66860fcf9e72b0ec1efc3cbcb3a93d4b48",
+    "summary": "查找餐厅和菜单",
+    "description": "foodpanda 帮助用户发现附近的外卖餐厅、搜索商家和菜品，并浏览完整菜单，包括价格、评分、配送时间估算和有效促销。每条结果都包含深层链接，方便用户继续在 foodpanda 应用或网站上点餐。结果以交互式商家和菜单卡片呈现。\n\n目前仅在新加坡（SG）提供服务，其他国家和地区即将开放。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a8532b7a3c81918652609af9d6ee11",
+    "name": "Football- Games+results+scores",
+    "sourceHash": "f9d817d39755b9da23632a82aa3c1d9b7a27c53c8b0f01aeb75b4f4599adc492",
+    "summary": "足球数据、赛程和比赛！",
+    "description": "在一个简单的平台关注每场比赛。此 ChatGPT 应用让你查看赛程、实时比分、比赛结果、联赛积分榜和球队详情，无需在多个网站间来回切换。选择联赛和喜欢的俱乐部，就能快速找到所需比赛和信息。所有内容都清晰易读，让你把更多时间花在享受足球上，少花时间搜索。\n\n此应用适合所有人。无需了解足球统计数据，也不必面对复杂的菜单。你只想知道今天有哪些比赛？可以。如果想看看你的球队在联赛中的表现，也可以。每个屏幕都力求简单、快速、易于理解。\n\n浏览全球各地的赛事，包括最重要的联赛和锦标赛。选择一项赛事，即可查看当前积分榜、即将举行的赛程、已结束的比赛和俱乐部信息。轻点即可切换联赛并立即查看新结果。无论你支持一支球队还是关注多个赛事，所有信息都集中在一处。\n\n选择任意球队，让体验更贴合你的喜好。选中俱乐部后，可以快速查找其即将进行的比赛、近期赛果和积分榜排名。无需再滚动浏览满是你不关注球队的页面。应用帮助你聚焦真正关心的足球信息。\n\n联赛积分榜清晰易读。你可以一目了然地查看各俱乐部排名、已赛场次、胜场、平局、负场、积分和净胜球。积分榜会随着赛果变化而更新，让你轻松跟进整个赛季。无论球队是在争夺冠军、争取欧战资格，还是努力避免降级，你都能在几秒钟内看到其排名。\n\n比赛信息以清晰有序的方式呈现。查看对阵双方、开赛时间，以及比赛结束后的赛果。实时比分和已结束比赛的结果都易于跟进，即使无法观看比赛，也能及时了解动态。\n\n简洁的设计适配不同屏幕尺寸，并尽可能减少干扰。清晰的导航让你可以自然地在赛事、球队和比赛间切换。大字号、熟悉的足球图标和有序的表格让新手和资深球迷都能轻松查找信息。\n\n由于应用运行在 ChatGPT 中，你还可以自然地提问。无需在菜单中搜索，可以直接询问球队近期比赛、联赛排名或即将到来的赛程。ChatGPT 会帮助你快速找到答案，同时应用会以结构化格式呈现信息。\n\n无论你每天关注足球，还是只在周末查看比分，此应用都能节省时间。它将赛程、赛果、积分榜和球队信息集中在一处，让你随时了解动态。无论赛前、比赛进行时还是终场哨响之后，都能派上用场。\n\n主要功能包括：\n\n* 轻松选择赛事。\n* 按球队筛选，快速浏览。\n* 实时比分和已结束比赛的赛果。\n* 即将举行的赛程。\n* 显示胜、平、负、积分和净胜球的联赛积分榜。\n* 简洁易用的界面。\n* 快速切换赛事和俱乐部。\n* 通过 ChatGPT 提供自然语言支持。\n\n从赛季首场比赛到最后一场，此应用让关注足球变得简单。打开应用，选择联赛和球队，轻点几下即可查看所需信息。无论你支持本地俱乐部、英超豪门，还是世界各地联赛的球队，此应用都让足球易于跟进、理解，并始终触手可及。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9d56ec6bac819181b134548392acc1",
+    "name": "FootballGPT",
+    "sourceHash": "dbc2cc380d1e3724bdbd8ae89c471aa0e3561cbaf2366e3b929a48833edd20bd",
+    "summary": "规划更好的足球训练",
+    "description": "FootballGPT 帮助足球教练使用已保存的执教设置（年龄组、比赛形式、俱乐部类型、阵型、经验、资质、优先事项和球队阵容情况），获取执教建议、制定结构化训练课程、搜索训练活动库并创建已保存的动画训练活动。球员姓名、年龄、球衣号码和备注不会通过此应用离开 FootballGPT。教练仍需负责审核并根据球员情况调整所有建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a21c822e22c819194e65ec16411cb29",
+    "name": "ForeFlight Mobile",
+    "sourceHash": "dca3745588c8aff4475eb6976b6a3e9bd9a28accf8d01bb0d1b124c927fa7a5f",
+    "summary": "规划、简报并记录飞行",
+    "description": "在对话中使用你的 ForeFlight 数据。查询任意机场的天气、NOTAM 航行通告和预报。获取基于真实性能数据的航线和高度建议。通过 ChatGPT 查看或记录飞行、检查飞行资质有效状态并管理飞行日志。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6c41d2bd8c8191a2ff96f820cd15a2",
+    "name": "Forj",
+    "sourceHash": "63ad459e5e39d9c9501e080e4de1a23c8de38cd71f7cb184bc3ebc462b64cfab",
+    "summary": "通过 ChatGPT 运营健身房",
+    "description": "Forj 帮助健身房会员、教练和所有者发现健身房与课程、管理预订和锻炼、查看进度、运营日程与竞赛、管理训练计划与自动化流程，并通过 ChatGPT 执行经确认的会员、消息和计费工作流。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7840490e6881918dd710aecb08422a",
+    "name": "Forktime",
+    "sourceHash": "7e7e7b24bc2c3fc510b11ef23c33f09868c5b823912ae52d9485a94ed958702a",
+    "summary": "预订餐厅座位",
+    "description": "Forktime 可在使用 Forktime 进行预订的餐厅订位。\n\n说出餐厅名称，或按地区和菜系搜索 Forktime 餐厅；查询指定日期、时间和人数的实时空位，并直接在对话中确认预订。\n\n空位信息来自各餐厅的实时预订系统，因此显示的时段都可以实际预订。\n\n预订后，你会收到一条短信，其中包含管理预订的链接。\n\nForktime 合作餐厅位于澳大利亚、美国和加拿大。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694440f62cd88191a8658badff69126a",
+    "name": "Formbyte",
+    "sourceHash": "d25f5e697caa2fb5361023f5599498fe47414036757fc189f0d8b4c4b488c17f",
+    "summary": "创建、分享和分析表单",
+    "description": "在 ChatGPT 中快速开始创建表单。让 Formbyte 快速制作调查问卷、注册表单或投票，然后在同一对话中继续完善或分析结果。\n\n如何在 ChatGPT 中使用 Formbyte\n\n1. 连接：将 Formbyte 应用连接到 ChatGPT。\n2. 触发：输入命令，只需输入“@”并从菜单中选择 Formbyte 应用，或者在聊天框中输入“Formbyte”（后接空格）。\n3. 创建：准备就绪！可以尝试具体地提出请求：\n· Formbyte，创建一份收集客户反馈的表单。\n· 设计一份可填写的求职申请表。\n· Formbyte，为我的在线课程生成一份课程评价问卷。\n\n只需一个提示，就能在聊天中生成精美表单和实时问答分析。连接 Formbyte 并输入“创建表单”，将问题转化为决策。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5d95a205988191bf8e9f7ae3f808ff",
+    "name": "FormEdge",
+    "sourceHash": "a2067a463e3aa3ff5bac46960c9979116b3c038fb2f06248682f4c4add73978e",
+    "summary": "表单和落地页",
+    "description": "通过 ChatGPT 使用 FormEdge 创建、编辑、预览和发布表单与落地页，查看提交内容，管理通知设置、图片素材和已保存的页面版本，并配置工作区设置——包括自定义域名、公开 URL 子域名、品牌，以及通知邮件使用的语言和时区。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d61a063cac8191a0694067973607e1",
+    "name": "Formester",
+    "sourceHash": "dc15f628f3b9455edcee2501bbe937e4f60ec60138e3737307a8a853bd02afac",
+    "summary": "分析表单提交",
+    "description": "通过 ChatGPT 阅读并分析表单提交内容。使用自然语言搜索提交记录，按日期或状态筛选，并获取 AI 生成的洞察，例如情绪倾向、类别和摘要，再将其保存为自定义字段。处理 PDF 和图片等文件附件。适用于使用 Formester 创建的任何表单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0d57fd4ad0819185fdac9300e2beef",
+    "name": "FormHug",
+    "sourceHash": "5f6c64f8757305e0d57ef9d015a86a6bf2ef33029d2dff67c77aa6f80cf7cf57",
+    "summary": "创建表单、问卷和测验",
+    "description": "在 ChatGPT 中创建报名表、调查问卷、测验、评估表和预约表。\n\n用自然语言描述需求，FormHug 就会生成包含字段、说明、逻辑和布局的完整表单。\n\n你可以通过对话完善表单、自定义主题、发布表单、收集提交内容并分析回复——所有操作都在同一聊天中完成。\n\nFormHug 将日常数据收集转变为简单的对话式工作流。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a846ee396988191a281898183c093fe",
+    "name": "Forms AI",
+    "sourceHash": "e98bebfbb62a00947a540ed420ecd3e612d4d256972af35780c1297c5e461b34",
+    "summary": "创建调查问卷和测验",
+    "description": "创建表单很容易成为需求，但实际制作起来却很麻烦。每种问题类型、每个分区和每项设置都要多点一次；等收到回复后，阅读整理本身又是一项繁琐工作。此插件将整个流程移入对话。\n\n只需描述需求即可创建表单。说明你要收集什么——客户满意度调查、活动报名、求职筛选、课堂 20 分测验——表单就会创建在你的账户中，并为你选择合适的问题类型：已知选项使用多选题，评分使用量表，没有固定答案时使用简答题，在需要的地方设置必填项。\n\n继续用日常语言编辑。可以在中间添加问题、改写令人困惑的问题、将问题移到第二页、将第 4 题设为双倍分值，或删除无人回答的问题。每次更改都会应用到线上表单，无需从头重建，也无需在编辑器中寻找对应开关。\n\n无需四处查找设置即可正确配置表单。只需提出要求，就能将表单改为评分测验、收集电子邮件地址、限制每人只能提交一次，或开启、关闭回复。\n\n然后真正读懂结果。按名称查找任意表单、提取回复，并提出实际问题：总体情绪如何？开放文本框中最常见的三条投诉是什么？两组人的答案有什么区别？通常因为需要手动总结 200 条回答而无人阅读的自由文本反馈，现在也会为你阅读并总结。\n\n可用于你现有的表单，而不仅限于新建表单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a87e6053718819181f296f5b119838f",
+    "name": "forms.app: Form Builder",
+    "sourceHash": "54c1e463c39b6665f49547a084c510e48667ef469463d85111efb187706ce29c",
+    "summary": "创建表单并分析答复",
+    "description": "直接在 ChatGPT 中免费创建任意在线表单，并收集无限量回复。\n\n使用 forms.app MCP，可以让 ChatGPT 管理表单、获取回复、查看统计数据等。无论是 RSVP 回复表、研究问卷、注册表还是其他表单，forms.app 都能融入你的 AI 工作流。\n\n使用示例：\n\n- 根据描述创建表单：“为品牌代理公司创建一份入职调查问卷，收集必要的联系方式、品牌个性信息以及必备条件。”\n\n- 评估表单效果：“查看我的求职申请表内容、流失率和统计数据，然后告诉我表单表现如何，以及如何提高转化率。”\n\n- 分析提交内容：根据员工调查问卷的回复，我们应该优先采取哪些措施来改善士气和协作？\n\n- 可视化表单数据：“获取反馈表的统计数据和流失率，进行分析，并创建可用于演示文稿的精彩图表。”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a64b244b06c81919f7f042a7e21fe1f",
+    "name": "Formspry",
+    "sourceHash": "6b1c6d3c7ff5d41c7d27f6ba45ec6fb65fdca12502508c3fc41ec26ef37b8e0a",
+    "summary": "构建和管理表单",
+    "description": "Formspry 可让 ChatGPT 在你的 Formspry 账户中创建和管理在线表单。根据描述创建表单、添加字段、发布或关闭表单、获取可分享链接、查看回复，并查看浏览量和完成率等分析数据。适用于反馈收集、注册、潜在客户获取和调查问卷。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c8990ea8e08191b6e03a3e332b48f8",
+    "name": "Formula Genius",
+    "sourceHash": "1a11ee272bd1b7adfb6195851020c7a3100f48916594e714612b9fed0d010c30",
+    "summary": "Excel、Sheets、SQL 和正则表达式",
+    "description": "生成、解释、调试、验证和比较 Excel 与 Google Sheets 公式。创建 SQL 查询、正则表达式、VBA 宏、Google Apps Script 和 Airtable 脚本。需要电子表格逻辑或自动化帮助，并希望在 ChatGPT 中获得清晰、可审核结果时，可使用 Formula Genius。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b40837c4148191b5a5ed913835f5ac",
+    "name": "Fotocasa",
+    "sourceHash": "3b9402a031b9821c586e4567e3b3ebafa4c49d296b77ccb2c78aa161df5c77d5",
+    "summary": "查找买卖或出租房产",
+    "description": "在西班牙寻找下一套住房，现在变得更加智能 ✨\n\n将 Fotocasa 连接到 ChatGPT 后，你可以通过简单的对话浏览西班牙数以千计的房产信息。查看带照片、详细说明和地点信息的房屋，ChatGPT 会根据你的需求立即帮你缩小范围。\n\n通过语音或文字自然地提出要求：\n- 查找马德里带空调、2 间卧室且价格低于 €1,200 的公寓\n- 查找塞维利亚带花园和泳池的家庭住宅\n- 查找巴塞罗那 Sant Andreu del Palomar 区的新建公寓\n\n你提供的信息越详细，ChatGPT 就越能实时优化搜索结果。\n\n立即连接 Fotocasa 与 ChatGPT，开始以更直观的方式探索房源。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69702a4db1ac8191b628c26d8f4e83eb",
+    "name": "Foxit PDF Editor",
+    "sourceHash": "6a034c614d1869f1d5b5fa98920bcdf1affb36cbb06a0500808ab1b48aa2c21b",
+    "summary": "轻松编辑和分享 PDF",
+    "description": "Foxit PDF Editor for ChatGPT 帮助你轻松管理和转换 PDF。上传、删除或比较文档；创建可分享链接；编辑、重新排序、旋转、拆分或合并页面；转换各种格式的文件；以及压缩或线性化 PDF——所有操作都可在 ChatGPT 中完成。几秒钟即可整理好文档包，适合学生、专业人士以及任何希望无需离开聊天就快速处理 PDF 的人。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69502756b9188191821d341877e0e2d4",
+    "name": "Fragella: Discover Your Scent",
+    "sourceHash": "cec83f34f492693abe3e3222886862a983ebdfad0821189b1f5c248a6672a47f",
+    "summary": "寻找你的专属香气",
+    "description": "开启寻找理想香水的旅程。探索香调、香韵组合和个性化香氛推荐。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab639b28e2081919b704b4ada7e478f",
+    "name": "Frameo",
+    "sourceHash": "b09f8c865a4d9096a0e5dbe00d0117ae9d092dfeeb173ba1bb45a2943b9099ae",
+    "summary": "生成和编辑 AI 视频",
+    "description": "Frameo 可根据提示在 ChatGPT 中生成完整的短视频。它会在用户的 Frameo 工作区中生成图片、视频片段、配音、音乐和音效，确保各镜头中的人物和风格保持一致，并通过 ffmpeg 和动态图形模板将片段剪辑成最终成片。用户还可以上传或导入自己的媒体、浏览免费的音效库，并读取项目画布和资料库。每次会消耗点数的生成操作都会先通过 estimate_cost 报价，并且只有在用户确认后才会运行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9220dcd4f881918ad9732a62a12e24",
+    "name": "Frasma",
+    "sourceHash": "476378c0f86a4b72310602e4bc21bf94dced29c17e54ab9b8b54d6ea2242e730",
+    "summary": "管理项目任务",
+    "description": "Frasma 帮助获授权的团队通过 ChatGPT 审查项目工作、搜索关联的项目知识，并创建、更新或移动私有看板任务。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a90427764b8819187cb80f14e808fa9",
+    "name": "FreakUI",
+    "sourceHash": "ae5217b747d978e2f64b71095dcdb1f0f89c58664226b3bdaf4fab7241bb6cbd",
+    "summary": "使用 FreakUI 构建原生 Apple 应用",
+    "description": "只需一个提示，即可构建适用于 iPhone、iPad 和 macOS 的单一目标多平台原生 Swift 应用。FreakUI 会建立稳健、整洁的架构基础，包括依赖注入、程序化导航、MVVM 和针对不同平台的根视图。自定义主题初始化、注重精度的组件、实用工具和扩展让界面拥有鲜明且一致的风格。除了创建项目，专门的 FreakUI 技能还可以帮助设计界面各部分、添加组件，并随着应用的发展不断完善界面。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a322b52a82c8191b7fb653f9e9f7891",
+    "name": "freddy",
+    "sourceHash": "c224274fc790715cf4d2dfb0f3e14f508c771cece953bca18a67d813838fdccc",
+    "summary": "询问健康数据",
+    "description": "freddy 可将你已经追踪的健康和健身数据（可穿戴设备、智能戒指、CGM 连续血糖监测仪、睡眠追踪器和训练平台）连接起来，并提供给 ChatGPT 使用。你可以询问睡眠、恢复情况、训练负荷、心率、步数或锻炼，回答会基于你的个人历史数据。连接数据来源后，freddy 会持续同步并统一不同设备的数据格式，让每次对话都可以依据真实数据作答。你的数据会保持私密：只有你能访问，可随时撤销访问权限，绝不会出售或用于广告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a59d2b6b85c8191980cd1a3e60814cf",
+    "name": "Free Marathi Biodata Maker",
+    "sourceHash": "aed145d45c3034a984bda2ed5b05e8e030b8fabbf3710a45648f0b4c68e8d77d",
+    "summary": "创建马拉地语婚介资料",
+    "description": "直接在聊天中用马拉地语或英语创建婚姻介绍资料（lagna biodata）。提供姓名、教育背景、家庭情况和星盘等基本信息，几秒钟内即可获得精美、可直接分享的 PDF。\n\n可从 11 种传统模板中选择，也可以一次生成多个模板并排比较。无需注册或登录，完全免费——使用的正是 MarathiVivah.co.in 提供的同款资料生成器；该网站是面向马哈拉施特拉邦马拉地语家庭的免费婚介平台。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b8730f92448191a5d433917528943b",
+    "name": "Freediver",
+    "sourceHash": "0b87054fc2261e10aa3d85ce3518262c6c3111569c97bb7bfebc08d10f7132db",
+    "summary": "规划自由潜水训练",
+    "description": "Freediver Club 帮助运动员和教练通过 ChatGPT 规划、查看并记录自由潜水训练。它可以读取个人偏好和训练历史，起草结构化的泳池、深度、静态和辅助训练课程，创建或更新训练，记录实际完成的趟数和休息数据，并让教练在训练中心与已同意参与的运动员协作。",
+    "model": "codex-subagent-reviewed"
+  }
+]

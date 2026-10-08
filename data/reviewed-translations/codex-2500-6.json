@@ -1,0 +1,666 @@
+[
+  {
+    "id": "plugin_asdk_app_6a3e6ff9a3c881918eb30084199a39ec",
+    "name": "HOTELS Trip & Travel Stays",
+    "sourceHash": "454f3aac3cdff7fda9881c8ed0c121193316ce35839209e116f462e1e4026ad9",
+    "summary": "符合行程安排的住宿",
+    "description": "HOTELS 帮你找到适合整趟旅程的住宿，而不只是一个过夜的地方。\n\n它会根据你的行程匹配住宿：靠近活动地点和餐厅、符合预算，位置也方便，让你把时间花在探索而非通勤上。你可以按地点、价格、设施和风格获取个性化推荐，从经济型精品酒店到全服务连锁酒店均有选择。\n\n还没有行程？HOTELS 也能帮你围绕住宿规划旅程。它会列出简短的推荐清单，并按匹配度排序，清楚说明各选项的取舍，方便你快速决定并继续规划。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4bd2db83dc8191a26d2850a1716439",
+    "name": "Houfy",
+    "sourceHash": "f2a9c30d44e8be9c205bb3fd24dca0c09b0989bee408d99897270fdd07ff4bb8",
+    "summary": "直接寻找度假租赁房源",
+    "description": "按目的地、日期、人数、价格、房源类型和设施，实时搜索 Houfy 度假租赁房源。比较房源照片、价格、评分和空房情况，查看所选房源的公开详情，然后前往 Houfy 直接预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5f75b10fe0819194a3431f9ebb086d",
+    "name": "House of Prayer by Melorna",
+    "sourceHash": "de5a22aa10d4911570fc2619f1e90cd383d9632e8ae9d227c4ef943612a8140d",
+    "summary": "匿名祷告互助网络",
+    "description": "House of Prayer by Melorna 是 ChatGPT 内的基督教协作祷告网络。用户可以匿名提出祷告请求、为他人的祷告代祷、查看自己的活动记录，并阅读或分享经过审核的蒙应允祷告见证。身份和联系方式不会公开；任何提交得到确认前，内容都会先供预览。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a165561758819186bd1e8521ddc68c",
+    "name": "Housing.com",
+    "sourceHash": "58a1cf1b85bfec284ec21e8cc6bdb1cc00a26e205aa4b841ba0b9b711ecc020b",
+    "summary": "轻松找到理想住房",
+    "description": "无论是即将交付的公寓、新开盘项目还是出租房源，Housing.com ChatGPT 应用都能让寻找理想住所变得轻松。\n\n只需告诉我们你的需求——预算、区域、户型——我们就会立即展示最相关的选项。\n\n看到心仪房源了吗？点击“查看详情”即可了解详情、比较房源，并直接联系业主或经纪人。\n\n祝你找房顺利！",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5a260fbb0c8191b2c55f4bd5b61312",
+    "name": "How is my trip?",
+    "sourceHash": "fe5ce7fc8c5ad56a8551655bd4036d8d5670a451abde5ebe870eed428111267d",
+    "summary": "实时旅行中断风险监测",
+    "description": "How is my trip? 会评估某个目的地在指定日期范围内的旅行受扰风险，监测旅程中的重大变化，解释平静期，并根据已发布的官方来源数据提供当前事件和旅游背景信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6948a6ade0148191a5da87f9e4b6c3dd",
+    "name": "How To Student",
+    "sourceHash": "35e2296004ec19990ee1b9f0401ce2fda59bc98d0461d06878435877c9211b1a",
+    "summary": "新一代 AI ACT 备考",
+    "description": "How To Student 是一款 AI 驱动的 ACT 备考应用，帮助学生更高效地学习，而不是一味延长学习时间。它提供清晰讲解、针对性练习，并即时解答 ACT 所有部分的问题。你可以按自己的节奏学习，获得适合自身需求的支持。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9951eb4eec819180b4c69e9fc78dba",
+    "name": "html.contact - Contact Forms",
+    "sourceHash": "78e401d1b3d520cd8e971c6f999b09a866e3dc893f4abfa89290b3af7222aab7",
+    "summary": "创建和管理联系表单",
+    "description": "使用 854 Labs 推出的 html.contact 为网站创建联系表单，无需自建后端。获取可安装的 HTML、排查表单设置问题、将邮件通知发送给已验证的收件人，并查看选定的提交内容。还支持潜在客户收集、反馈和候补名单表单。此应用使用你已关联的 html.contact 账户；更改和邮件测试均需确认。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4d168031448191abcd6540497efb7b",
+    "name": "HTML/CSS to Image API",
+    "sourceHash": "d40d402776c8338996578869204f18228d0c416a9b7746b736247efbf57c02c4",
+    "summary": "HTML 转图片及网址截图",
+    "description": "HTML/CSS to Image MCP 服务器让 AI 助手通过自然语言指令创建可用于生产环境的图像、网站截图和 PDF。\n\n可用于：\n\n- 将 HTML 和 CSS 渲染为 PNG、JPG、WebP 或 PDF\n- 截取公开网址的屏幕截图\n- 使用可复用模板和变量生成图像\n- 批量创建多个图像变体\n- 创建、更新、列出图像模板并管理其版本\n- 配置视口尺寸、设备缩放比例、选择器、渲染延迟及其他渲染选项",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a957aba9fb88191898e4e5ecd89b83a",
+    "name": "Hubstaff",
+    "sourceHash": "5196ac92dd34e999ebf67524fd5defea137f80591509ea9873a256d674b5b1fb",
+    "summary": "面向 AI 的员工队伍洞察",
+    "description": "Hubstaff MCP 服务器让 AI 工具能够实时理解并处理员工队伍数据。分析效率趋势、发现工作负荷失衡、提取运营洞察，并通过自然语言和智能体工作流与 Hubstaff 数据交互。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6939e86417648191b7bda087d872685b",
+    "name": "Hugging Face",
+    "sourceHash": "58d73b8f59e5bbf4ebd298974f593459df235a6c24e2806d0e49fdfd37c3fea8",
+    "summary": "查看模型、数据集、Spaces 和研究",
+    "description": "查看模型、数据集、Spaces 和研究",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a69afebc7dc81919260c3ae00281a54",
+    "name": "Humantic AI",
+    "sourceHash": "9c759d2ea1bbd3a3fab28bb3533fa173ca9bb89375ebdf78c63c56fb90ae18bb",
+    "summary": "分析买家与客户账户",
+    "description": "Humantic AI 将买家情报带入 ChatGPT。关联 Humantic 账户后，可通过 LinkedIn 网址或工作邮箱读取潜在客户的 DISC 性格分析（Agent Pi），生成包含买家意向信号的目标公司账户研究报告（Agent Miia），并起草符合收件人性格特点的外联内容。Humantic AI 是我们自己的产品；此应用可将 ChatGPT 直接连接到 Humantic 平台。使用需要 Humantic 订阅，且会消耗你现有的 Humantic 额度。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a916f99af688191a183b50c5d1cc045",
+    "name": "HWPXkit",
+    "sourceHash": "a1ea089824bb5c4ef1ab607c0f6bc556f38df9e5526d39a1966b96a97f8e9c54",
+    "summary": "填写和编辑 HWPX 文档",
+    "description": "HWPXkit 可从链接或附件打开 HWPX 文件，列出可编辑的单元格、段落、LaTeX 公式和行，然后填写表单空白处，或应用文本、文本片段格式和行编辑。它会返回可下载的编辑副本，并支持一步撤销；源文件不会被更改。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69433857037c8191874b4c3b35bb3468",
+    "name": "Hyatt",
+    "sourceHash": "6042023833c25a7d75b9616bc3a5d0c00724e5008358d4d9d198d6f0795fd2ed",
+    "summary": "查找酒店和度假村",
+    "description": "直接在 ChatGPT 中规划下一次凯悦住宿。搜索全球 Hyatt 酒店和度假村，并通过简单自然的对话查询 Hyatt.com 上的信息，包括实时客房空房情况、详细房型说明和动态价格信息。\n\n用日常语言说出需求，浏览带照片和设施信息的定制结果，准备预订时点击前往 Hyatt.com。预订时登录或加入 World of Hyatt，即可赚取积分、享受会员专属价格和其他福利。\n\n在 ChatGPT 中添加 Hyatt 应用，让下一次旅行规划轻松起来。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a796c2ded988191ab8fe02fcb36e98c",
+    "name": "Hydrosight",
+    "sourceHash": "a909735c641580edaff0977a51634861e527a1e4860c18b25e365ca1830dbc2d",
+    "summary": "监测土壤和灌溉状况",
+    "description": "Hydrosight 将土壤传感器连接到 ChatGPT，让你通过简单提问查看实时和历史土壤湿度、温度及盐度数据，了解天气状况和预报，并据此做出更好的灌溉决策。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a6a3c8b4708191bdb5d0d8141c2176",
+    "name": "Hyperhuman Agent Workspace",
+    "sourceHash": "8d1680659530511c4b06e4888dd0d06a59f83508aa6dad6ca0fde4b84f94ea6d",
+    "summary": "管理健身内容",
+    "description": "直接在 ChatGPT 中使用 Hyperhuman 健身内容。探索示例训练，查看结构化训练数据，检查动作流程和媒体，并生成可直接用于 Web 和移动应用的 API 或嵌入代码片段。使用 Hyperhuman Teams 登录后，可浏览工作区内容、管理训练、计划、动作和社交动态，并通过聊天执行选定的内容工作流。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a723768ae0c81918d33f061486de9c6",
+    "name": "Hypernatural",
+    "sourceHash": "43be11dbd57ccacdd3c931ac67f71a4d4431fbcbc66d9ae60115a0169991e8a4",
+    "summary": "创建和编辑 AI 视频",
+    "description": "将想法变成引人入胜的视频，同时保持创作连贯。Hypernatural 可把你在 ChatGPT 中已有的对话转化为可分享的故事和广告，让你轻松融入创意构想和品牌元素，使每段视频都独具风格。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2830acc9a88191b5fb4d98b7068851",
+    "name": "Hypha",
+    "sourceHash": "ef60b560b2c84c45a7da99f020d2f82f8616e9f4e25b6a3746cf04972d37f8b3",
+    "summary": "从文档中获取答案",
+    "description": "Hypha 将组织文档转化为结构化、可搜索的数据。连接后，你可以针对已上传的合同、财务资料、报告等内容提问，并获得基于文档实际信息的准确答案，每个答案都可追溯至来源。你还可以查看 Hypha 为组织整理的内容，按需提取从高层摘要到具体数字的详细信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a23e2a3a95c819190fe9324aed7c0bc",
+    "name": "HZplan",
+    "sourceHash": "818ec7d036d36de6a7d69cec5d640367ac51662681e5ca917a37c1bb08fd6781",
+    "summary": "AI 可读的户型图",
+    "description": "HZplan 可将户型图图像或文字尺寸转换为结构化、可编辑的住宅平面图，供助手理解和推理。用户可以创建和完善多层布局，设置各楼层的房间、墙体、门窗、家具和表面饰材；导入并校准户型图；检查尺寸和拓扑结构；添加备注和自定义属性；进行定向几何编辑；根据参考图创建材质；生成 3D 对象模型；并将各楼层导出为 PNG 或 SVG。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a876536e4bc81918b012c71f6887315",
+    "name": "IAJUS",
+    "sourceHash": "5505d7cc4888a3a2cd45f7812aceb2a82976247d97ac6c512f905ca7d792d619",
+    "summary": "巴西法律研究",
+    "description": "IAJUS 帮助研究巴西判例、具有参考价值的先例和法律法规。其 28 个 MCP 工具可搜索 IAJUS 法律语料库，并在需要时查阅官方公开来源。结果会在可用时注明来源并提供官方链接。此应用不会通过私人身份标识搜索个人，也不能提交、签署或修改法院记录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a182c6f2bf481919272e9af644f209e",
+    "name": "Iberia",
+    "sourceHash": "2419191a86bcf71fee72501f7e0c601d7556c0aad6c97c52e101d2f67d7a0c40",
+    "summary": "规划下一次旅行",
+    "description": "Iberia GPT 可直接在 ChatGPT 中帮助规划旅程。搜索 Iberia 航班、比较可选方案；如果还没确定目的地，也可以探索目的地灵感；还可以使用灵活日期，为行程寻找优惠。选好航班后，你可以通过 Iberia 安全地继续预订流程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a23a60d6d488191bc49ed8fd8cfbcc7",
+    "name": "IbiPoint — prepaid data eSIMs",
+    "sourceHash": "29f2d433590eb47209050d2899bb6d4041ae8fb493cd7c88b96328d9d5587f2d",
+    "summary": "覆盖 200+ 个国家和地区的 eSIM",
+    "description": "IbiPoint 帮助旅客为前往 200 多个国家和地区的旅程寻找并购买合适的 eSIM 流量套餐。输入目的地即可获取性价比高的套餐——Data Pack 或 Unlimited Flex——并查看价格、网络详情和如实的透明度评级。选定套餐后，点击前往 IbiPoint 商店购买，eSIM 将通过电子邮件送达。无需安装应用、无需更换 SIM 卡，也不会产生意外漫游账单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fb97f35d08819181973c6151b2cd75",
+    "name": "Icebreaker",
+    "sourceHash": "d8af665b752a63f4acf7415844c8a114774d62de41b1a8978b2220f3dc21f461",
+    "summary": "搜索你的各类人脉网络",
+    "description": "无论你是在招聘、销售还是寻找机会，大家都知道最好的机会往往来自现有人脉。\n\n通过 Icebreaker，你终于可以直接在常用的 AI 工具中搜索自己的扩展人脉网络。让智能体了解你的人脉关系，覆盖 LinkedIn、X、GitHub 等平台，将陌生潜在客户转化为熟人推荐，并将转化率提升 5-20 倍。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6dd7cedf5481918b01fb86407d6335",
+    "name": "Iceflower",
+    "sourceHash": "b66f528ad9f47c76e129139ef19d4e838a24b9769e8d9790e63878fcada4cb99",
+    "summary": "商家与客户分析",
+    "description": "Iceflower 基于大型北美消费者交易样本，回答有关零售商家及其客户的问题，涵盖营收与增长、门店分布、RFM 客户细分、跨店购物、留存、本地买家画像和购物中心排名。所有工具均为只读，返回的数据与登录账户在 Iceflower 网页应用中看到的数字相同。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d9214e90608191bb223a7610dab4ab",
+    "name": "IcePanel",
+    "sourceHash": "1dea3ed0018bae2c268bbcd644c50a063e2c7d8861a3d5bfc07cdb29f3f3c195",
+    "summary": "设计软件架构",
+    "description": "IcePanel 是一款用于软件架构的协作式绘图与建模工具。借助 IcePanel MCP，你可以将软件架构设计带入 ChatGPT 和 Codex。\n\n使用 IcePanel MCP 可以：\n- 理解正在构建的系统及其数据流\n- 创建模型对象，并使其与代码保持同步\n- 管理架构决策记录，确保其与实际构建内容一致",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a340a8e49b8819192e0fcca74e82e5d",
+    "name": "Idea To Prototype Beta",
+    "sourceHash": "ca8c24039615682c885a2724c0612b606d8ea12b422f864cbc0627cd03a55153",
+    "summary": "从创意规划原型",
+    "description": "Idea To Prototype Beta 将初步产品构想转化为范围明确、便于审核的原型规划材料包。在实施开始前，它会生成源内容清单、避免泛化检查、机会备忘录、屏幕地图、原型简介、设计约定、构建规范和验证清单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6c52a8e1688191bf2eb06d0d345c49",
+    "name": "Ideaflow",
+    "sourceHash": "53aa298cfa44afb7912afc833be15eaeb13afbdf5cad6d21c3ae244ae0572b3b",
+    "summary": "查找和管理笔记",
+    "description": "Ideaflow 帮助用户确认已登录账户、打开笔记应用网址，并通过 ChatGPT 搜索、筛选、阅读笔记，列出标签、建立链接，以及创建、编辑、整理、发布、删除和恢复个人笔记与文件夹。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6996f481ed0c8191852f9c34c6a97d44",
+    "name": "idealista",
+    "sourceHash": "10f085e3f0b852caca251eef6aeed5096139f3b84a406e9e47224d820b9a1b81",
+    "summary": "查找待售或出租房源",
+    "description": "在 ChatGPT 上买房或租房，现在变得更简单了 😊\n\n将 idealista 连接到 ChatGPT 后，你可以浏览西班牙、意大利和葡萄牙海量房源，包括照片、房源描述和 idealista 地图，并结合 ChatGPT 的对话能力进行搜索。\n\n你可以通过语音或文字向 ChatGPT 提问，例如：\n- 在马德里 Malasaña 区找一套带电梯、月租低于 €1,300 的公寓\n- 在里斯本找一个摩托车车库\n- 佛罗伦萨有没有带独立卫生间和露台的房间？\n\n你还可以告诉 ChatGPT 具体要求，进一步缩小搜索范围。\n\n现在就试试，将 idealista 连接到你的 ChatGPT。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a684cf455908191a0aa7efef6cd1e1b",
+    "name": "IDrive e2",
+    "sourceHash": "f9ccd2bf68a4f510875eb9f7800077645589185d0652b512060291680e335c1c",
+    "summary": "管理 IDrive e2 存储",
+    "description": "关联 IDrive e2 账户后，可使用自然语言提示浏览区域、管理存储桶和对象、配置生命周期与 Object Lock 设置，以及生成预签名链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4ce756c15c81918c3cf913626fb944",
+    "name": "IHate.ai Humanaizer",
+    "sourceHash": "ab5ba20c309e78f9e639f8a76ab32ba5193194388abcd556043739a2b30be4ac",
+    "summary": "润色、检测并排版",
+    "description": "让 AI 写作听起来更自然，检查文本读起来是否顺畅，并将杂乱草稿整理为清晰的 Markdown。Humanize 会快速预览并标出修改之处；需要完整改写、并排对比或导出时，可打开 ihate.ai。AI 检测功能会评估文字读起来有多像人类撰写。Format 则可优化结构和标题。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a845baf5fb88191a0ddd23a38550254",
+    "name": "iLovePDF",
+    "sourceHash": "02d48b7ed394c69a149b758af480ffd4d479617eb1ac43fba967c17568247ac5",
+    "summary": "管理、转换和优化 PDF",
+    "description": "直接在聊天中处理 PDF。上传文件即可压缩、合并、拆分或转换为 PDF、Word、Excel、PowerPoint 或图像。你还可以添加水印保护文件、添加页码整理文档，并使用 OCR 从扫描文档中提取文字。iLovePDF 专为日常文档任务设计，帮助你快速、安全地管理文件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9d688ffabc8191b11c998d8e324b07",
+    "name": "Imagina RPG",
+    "sourceHash": "22d6e0823ffe4ebf0a6790a254de3d57466edef69264a30b24e9528f1a8df086",
+    "summary": "Imagina RPG 创作助手",
+    "description": "此插件可让你在 ChatGPT 中使用 Imagina RPG 的创作功能：\n- 创作世界（创建、编辑、审核）\n- 调试冒险旅程\n- 获取世界设定的分析数据",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a97af93ebc88191961039f177688fa9",
+    "name": "ImagineArt",
+    "sourceHash": "bd50310a1c83c1d80f3813c410653bc6134fcc1351a8fefc41ff438396402289",
+    "summary": "生成图像、视频和音乐",
+    "description": "ImagineArt 可根据你的创意简报生成图像、视频、音乐、徽标、广告和社交媒体作品。你还可以移除背景、增强图像、应用特效并编辑现有素材。\n\n选择 ImagineArt 工作区，浏览以往作品，并保存可重复使用的产品、演示者、时装模特、服装和镜头设置。广告工作室将产品、演示者、格式和输出设置整合在同一界面中。\n\n提供 17 种创意工作流指导技能，涵盖产品图像、时尚、社交内容、声音和编辑。使用 Canva、Photoshop、After Effects、Premiere 和 Blender 工作流，需要拥有相应应用或受支持的集成；ImagineArt 不包含这些应用。\n\n需要拥有可访问所选工作区的 ImagineArt 账户。生成内容会使用你套餐中的额度。只提供你本人或已同意的成年人的参考照片；参考媒体会由第三方 AI 服务提供商处理。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7c5d8a6c508191893a34347001ed1c",
+    "name": "iManage Work",
+    "sourceHash": "3ed84713d8878b74b3fa74703dc7a1b6e3817fb88230ca1b4b7096822bfc67a4",
+    "summary": "受治理的知识，随时供 AI 使用",
+    "description": "将受治理的 iManage 内容安全连接到 ChatGPT。搜索、阅读和整理文档，检查工作区和文件夹，并上传或更新内容——所有操作都受权限控制且可审计。随着 AI 策略不断演进，AI 可直接访问存放在 iManage 中的文档，无需批量导出或复制数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69dcbe3a6f308191a189f62097c977c9",
+    "name": "Immobiliare.it",
+    "sourceHash": "9357519d6e1977d65f2cb1a21d63a64d880d1a1b6f1e9e7b6e2a336894ff9091",
+    "summary": "意大利 No. 1 房屋买卖平台",
+    "description": "Immobiliare.it 是意大利排名 No. 1 的房地产分类信息平台，帮助你找到理想住所。\n\n浏览罗马、米兰、那不勒斯、都灵、热那亚、博洛尼亚、佛罗伦萨以及意大利其他城市和小镇中数千套待售、出租和拍卖房源。\n\n找到理想住所\n• 选择城市、街区或地点，或直接在地图上绘制搜索区域。\n• 按价格、面积、房间数和所需特色筛选房源。\n• 收藏心仪房源、隐藏不感兴趣的房源，并添加个人备注。\n• 保存搜索，即可通过应用和电子邮件接收新房源或价格变动通知。\n• 房源和搜索记录在应用、网站及所有设备间同步，方便随时找到。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3b147142388191bc2f893b2d3d526a",
+    "name": "Imóveis Magiko IA",
+    "sourceHash": "67e49c6617f6019d2efd564c08390611da353d2a2035184d141e2323eae39594",
+    "summary": "用 AI 查找房源",
+    "description": "用自然语言描述你的需求——街区、卧室数量、价格范围或生活方式——即可找到合适的房产。AI 搜索会理解你的意图，并从房源库中返回最相关的结果，附有照片、价格和详情。找到感兴趣的房产后，你可以留下联系方式，直接与负责的房地产中介联系。适合希望加快租房或购房搜索、不想在无尽的筛选条件和列表中翻找的人。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6981e6ceb0c48191868bff15712b2348",
+    "name": "Imovirtual",
+    "sourceHash": "410f51e5dd6add0c1c6e2c92b444322b9cd86c08f8e992ef8cba4ea85c6d60e8",
+    "summary": "在葡萄牙寻找房产",
+    "description": "只需描述需求，即可在葡萄牙找到下一处住所。使用 Imovirtual 描述你想找的房子，我们就会展示符合条件的房源，例如“靠近好学校、售价低于 €300k 的3-bedroom（3 居室）住宅”或“市中心带停车位的现代出租公寓”。\n\n主要功能：\n- 使用自然语言搜索理想房产\n- 获取待售和出租的匹配房源\n- 通过追问缩小搜索范围\n- 查看房源详情并比较选项\n- 在交互式地图上浏览结果",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a95bf45d8848191a7b0e8ee04637e4e",
+    "name": "Impreza Host",
+    "sourceHash": "93fd7b25cb6c5e00eea98bedbd8d144c52b4fd8731544e982aa700009338c8ad",
+    "summary": "部署应用并管理服务器",
+    "description": "Impreza Host 提供以隐私为先的离岸托管服务。关联账户后，你可以直接在对话中管理基础设施：列出服务器，从精选目录或 Git 仓库部署应用，在部署过程中查看进度，并在发生故障时阅读容器日志；管理域名和 DNS 记录；控制 VPS 电源、快照和备份；以及查看发票和余额。\n\n每个工具仅操作你认证的账户，授予的 OAuth 权限范围（读取、部署或管理）决定可以调用哪些功能。只读工具会明确标注；擦除磁盘、中断运行中的机器或影响计费的操作会标记为破坏性操作，执行前可与你确认。购买需在我们的结账页面完成，不能在聊天中进行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a03a83c004c81919cfb2ddb5dc605f3",
+    "name": "Improvado AI Agent",
+    "sourceHash": "36c7783544f6823faae1d7303be95895e30c85a64fc3d69d8fa77825eb287a64",
+    "summary": "处理营销数据",
+    "description": "Improvado AI Agent 可帮助用户通过 ChatGPT 使用 Improvado 工作区：检查工作区、数据源、连接、提取、加载、文档、仪表板、配方和 Discovery API 工作流；切换工作区上下文；查询数据；以及创建或更新工作区私有资源。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a70011aad888191a16b54fe094a0512",
+    "name": "inblog",
+    "sourceHash": "dde9f6bf8ceac8a38776174526396e531317ad5234c34f2b9d7c3bbcfd470c59",
+    "summary": "撰写并发布博客文章",
+    "description": "inblog 将公司博客连接到 ChatGPT。起草文章并在发布前获取私人预览链接；发布或安排发布时间；查看流量和 Google Search Console 关键词以决定下一篇文章主题；管理标签、作者和重定向；并更新博客横幅和自定义设计代码。需要使用 Team 套餐或更高级别的 inblog 账户；每项操作都遵循已登录用户在该博客上已有的权限。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8afd5306748191882d0fcfa02a03b4",
+    "name": "Incarn",
+    "sourceHash": "b078893912112ae619d41ae7fd0759574508ed8fad76b84952930a5c4fc6316e",
+    "summary": "让老照片动起来",
+    "description": "Incarn 可将老照片变成逼真的短视频。附上一张家庭照片（或粘贴公开图片网址），AI 就会添加细腻自然的动态效果——轻轻眨眼、淡淡微笑、柔和呼吸。专为老家庭照片和祖先肖像设计。使用预付额度，生成高清结果，并可直接在聊天中预览前后效果。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a76ca9c0ee081918d96cbe17fbc2014",
+    "name": "INCREMNT Training",
+    "sourceHash": "ae5d21d5201fe002692126433c44fce758ebbba375c560a2b1149e5075613d91",
+    "summary": "了解你的训练情况",
+    "description": "关联 INCREMNT 账户后，可在 ChatGPT 中查看训练、计划进度、身体状态、记录、训练量、体重趋势、Increment Score 和 Coach 观察。此连接为只读，不能创建、更改或删除训练或计划。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6982856578088191a6cf4a963662adf0",
+    "name": "Indeed Job Search",
+    "sourceHash": "e3661d64e821adaa15ccea75dc63911b81541709ca359b71d9d9b1be871a5fba",
+    "summary": "为你匹配合适的职位",
+    "description": "通过 Indeed for ChatGPT 搜索符合你简历和职业目标的 Indeed 职位。\n\n关联 Indeed 个人资料，根据简历、技能和职业经历搜索工作机会。无需离开聊天即可查看职位详情和公司洞察。\n\n在对话中使用 Indeed，你可以：\n根据 Indeed 个人资料搜索职位\n查看具体职位详情\n了解潜在雇主\n\n点击“申请”即可前往 Indeed 继续后续步骤。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5f875215108191ae5d449352363219",
+    "name": "Inductive",
+    "sourceHash": "c6da58dc037e8ce9595dbb870cd1eb678db571dcdd7aeb9da0496016ec68df6c",
+    "summary": "先进的 ADMET 模型",
+    "description": "Inductive 的吸收、分布、代谢、排泄和毒性（ADMET）模型可预测决定分子能否成为可行药物的化学和药代动力学性质。科学家无需离开现有工作流，即可在对话中查看这些预测、评估化合物、筛选想法，并确定优先合成哪些分子。\n\n通过此 MCP 服务器，用户可使用 Inductive 模型预测 LogD（亲脂性）和 pKa（酸碱电离）等物理化学性质；这些性质是溶解性和渗透性的关键影响因素。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aaa45d7a7f08191bcaf2ec91b757132",
+    "name": "InfiniteWatch",
+    "sourceHash": "6abf0258d9eb6c650bddd10ae158bef686fc90be0d7ef7c3b302f42306cd7a9a",
+    "summary": "运营可观测性",
+    "description": "InfiniteWatch 将语音通话、文字对话和网页会话中的客户互动数据及运营背景直接带入 ChatGPT。获授权的销售、客户支持、QA、CX 和运营团队可以用自然语言提问，发现主要问题、查找佐证示例、分析趋势、比较渠道、识别运营风险、评估客服表现、获取相关操作指南并总结客户互动。\n\n连接器使用 InfiniteWatch 身份验证并选择组织。每次连接和工具调用都限定在用户所选组织内，确保用户只能访问该组织中对其开放的数据。\n\n此连接器为只读。它会检索和分析现有 InfiniteWatch 数据，但不能创建、修改、删除、导出、发送或以其他方式更改客户互动数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a60947c82c8819191097ba682d36c68",
+    "name": "Inflearn",
+    "sourceHash": "0e5dd8b26c0175a4d49088d28c78fcf415a478bf4f5ffec55b00a4ab81b515bd",
+    "summary": "你的课程知识库",
+    "description": "将你拥有的 Inflearn 课程转化为可搜索的知识库。提出任何概念问题，它都会根据字幕和摘要进行语义搜索，找出相关课程单元，并依据授课内容作答，同时提供来源链接和讲师姓名。它还可展示你的课程大纲、已报名课程和近期学习记录，让你随时通过提问找到学过的内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a695eda913881919ef52582023f0ca2",
+    "name": "Infographic Artist",
+    "sourceHash": "da97b2ded5778321a5c35f8a920026dcbaf2c227096992f22aa2285bf143e10c",
+    "summary": "品牌研究与设计评析",
+    "description": "Infographic Artist 帮助设计师研究经典品牌体系、浏览机制图谱、比较设计先例、生成原创创意方向、从五个视觉维度评析上传的方案、筛查感知相似度，并将反馈转化为可衡量的设计练习。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a04298104988191839e5512d77ad957",
+    "name": "Infojobs Brasil",
+    "sourceHash": "c7512f44bdafabba970c89a52592f3a5ed91d7a28724724c81989e8793df5884",
+    "summary": "在 Infojobs Brasil 找工作",
+    "description": "直接通过 ChatGPT 搜索巴西数千个工作职位。按关键词和地点搜索，并按合同类型和薪资筛选。通过交互式卡片查看职位完整信息，包括公司、地点、薪资和职位描述。点击即可在 Infojobs Brasil 查看完整详情。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6bc49c188481918455b61154ce3963",
+    "name": "Inkbox",
+    "sourceHash": "97583226f3049ca16c1f7f5538e4f7d6866281281caed84638596e571d491068",
+    "summary": "为 AI 提供邮件、电话和 iMessage",
+    "description": "Inkbox 为 AI 助手提供独立通信身份：电子邮件地址、电话号码、短信和 iMessage，以及语音通话；人类和其他智能体都可以联系到它。助手可以从自己的收件箱读取和发送消息、处理自己的通话和短信，并维护联系人簿和备注，让上下文延续到后续对话。使用 Inkbox 的两个助手也可以通过 Agent2Agent 协议直接互发消息，无需他人转述。\n\n连接时由你选择一个身份，所有操作都限定在该身份的数据范围内。助手只会在你提出请求时行动：Inkbox 不会在后台轮询、唤醒模型或自行发送消息。\n\n目前电话号码仅在美国提供。电子邮件和智能体之间的通信可在全球使用；拥有美国号码的智能体可拨打国际电话并向国际号码发送短信。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a95ead4b76081918743264bdfbfb543",
+    "name": "Inkroost",
+    "sourceHash": "c9bd972f131e7739dfa7143889cfacf37c768828ce2381588991259134d0f9cd",
+    "summary": "创作并发布漫画",
+    "description": "Inkroost 帮助创作者通过 ChatGPT 规划漫画、网络漫画和漫画系列，设定风格一致的角色与场景，生成并审核页面插图，添加无障碍文本，并提交完成的章节以供审核。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a660963e7b481918e10c08dd1e0430f",
+    "name": "Inline",
+    "sourceHash": "74ea978e47b36acf14aa4150547bad2b9e64d038d32e33b56e9da979a62c35f7",
+    "summary": "在 ChatGPT 中处理工作聊天",
+    "description": "Inline 帮助用户查找人员和对话，阅读和搜索权限范围内的工作聊天，创建讨论串、上传文件，并通过 ChatGPT 发送消息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f4f17f56948191900667c6f298a59d",
+    "name": "InnoSupps",
+    "sourceHash": "78dbf00bfb3216f63cbd685e08145997343df829ada5d2f999ef4a9d28e089a6",
+    "summary": "个性化营养补充剂",
+    "description": "根据你的目标——精力、睡眠、消化或锻炼支持——浏览并查找 Inno Supps 补充剂。回答几个问题，即可从 Inno Supps 产品目录中获得个性化商品建议，以及成分和配方详情，帮助你做出选择。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69afee443ea081918ae3d085d2ca1534",
+    "name": "Innovist",
+    "sourceHash": "66480002fd8a459d4782b1c3aa56587946b1cb2216373caa2373b40c780474c5",
+    "summary": "科学透明，品质纯净",
+    "description": "直接在 ChatGPT 中浏览和选购 Innovist 的美妆及个人护理产品。按类型或需求搜索商品，按品牌或类别筛选，并查看详细产品信息。轻松管理购物车、追踪订单并查询订单状态。你可以在对话中通过 Razorpay 安全完成购买。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6985455f9ad48191954c37eddafc782d",
+    "name": "Insight Timer",
+    "sourceHash": "4706d5240c8608a612bb950dea564bda0e837f482aa117a219f29ffb5f3baef9",
+    "summary": "冥想与睡眠内容库",
+    "description": "全球已有 32 million（3200 万）人使用。现在，你可以在 ChatGPT 中探索全球最大的免费冥想、睡眠音轨、音乐、呼吸练习和灵性讲座内容库。\n\n让 ChatGPT 即时查找引导式冥想、瑜伽睡眠（Yoga Nidra）、环境音景、呼吸练习、正念教学或视频。\n\n需要快速找到特定内容时，可以使用 Insight Timer。例如：\n- “5-minute（5 分钟）引导式冥想”\n- “Yoga Nidra 课程”\n- “适合工作时听的环境音”\n- “节奏呼吸练习”\n- “自然声音”\n- “关于慈悲的佛教讲座”\n- “适合初学者的冥想视频”\n\n你可以探索：\n- 引导式冥想课程\n- 放松和睡前音频\n- 呼吸练习\n- 音乐、环境音和自然音景\n- 正念和冥想传统相关的讲座与教导\n- 视频课程和视觉教学\n- 世俗冥想和灵性内容，包括佛教等主题\n\n可按以下条件筛选结果：\n- 时长（5 分钟、20 分钟等）\n- 教师\n- 语言\n- 偏好声音\n- 类型（引导、音乐、讲座）\n- 格式（音频、视频）\n- “更多类似内容”\n\n所有推荐均来自 Insight Timer 免费的冥想、音频和视频库。\n\n此集成仅用于发现内容，不提供医疗、心理或治疗服务。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9eb49a54148191b549fa8bd10be19d",
+    "name": "Inspectform",
+    "sourceHash": "9f303c4ffc47ecd78f5c8fd347d0f7a92dc8354a7802a352b365a206e03fb7a5",
+    "summary": "实时房产数据",
+    "description": "Inspectform 帮助保险专业人士收集房产数据，用于填写申请表和价值清单（SOV）。关联 Inspectform 账户后，可搜索美国地址并查找难以获取的数十年房屋更新记录，包括可用的屋顶、暖通空调、管道和电气系统许可历史，以及附有来源的 COPE 发现。\n\n不同房产和数据来源的覆盖范围及时效各不相同。搜索会使用你所在组织现有的额度，并且需要获批的访问权限。\n\n刚开始使用 Inspectform？请前往 https://inspectform.io/mcp/access 申请访问权限。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fe1a6d07648191b4763a0c4a813594",
+    "name": "Insta Website Builder",
+    "sourceHash": "c1939918672410a9506848cb2c3d3095b97c864e78a821cbaf6cd5fc54232e42",
+    "summary": "即时创建网站",
+    "description": "InstaSite 可利用 AI 生成网站。\n根据简短描述创建页面结构、内容和布局，然后编辑并发布网站。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_691eab1e001081919e57189f8b2f03bc",
+    "name": "Instacart",
+    "sourceHash": "e6216d6a39bf9cefc9d202c11d1ae4ba50e2088b01b77092806aa6dfb6e5d1b3",
+    "summary": "配送杂货及更多商品",
+    "description": "配送杂货及更多商品",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a99c97eba8881918a9171161d8a8316",
+    "name": "Instafan",
+    "sourceHash": "8a596e62ac30b34ceefe8fe896cb148660a7da54b9bf9d38d30306f474a00a75",
+    "summary": "和朋友一起规划旅行",
+    "description": "Instafan 帮助团体共同决定去哪里。告诉它你们喜欢的氛围，即可获取真实目的地建议；查看任何城市的实时概况（本月天气、官方安全结论）；在聊天中查看 Google 评分较高的地点及真实照片；并据此生成逐日行程。所有信息都不是编造的：每个地点都是真实且有评分的场所。一个链接即可将行程带到 instafan.app，让整个团队通过 3D 方式探索、收藏地点并投票。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6eeddc84a08191af3e632007e03ba3",
+    "name": "Instagram & TikTok by 1Social",
+    "sourceHash": "17a66a1a2ddc3db5fae2469e813769907f9aadde5e76822730e4c4ad6e35d16d",
+    "summary": "发布到 Facebook、LinkedIn 和 X",
+    "description": "通过一条消息，即可安排并发布内容到 Instagram、TikTok、Facebook、LinkedIn、X（Twitter）、Threads 和 Bluesky。1Social 会根据各平台的字数限制调整每条文案，在平台需要图片时提醒你，并可将帖子安排在未来 30 天内发布。\n\n发布后，它会分别报告各个平台的结果——哪些成功发布、哪些失败及原因——还可以仅重试某个平台，不影响其他平台。你也可以编辑或取消仍在计划中的内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a454b2d99148191bd408d60aaed163b",
+    "name": "Instagrocer",
+    "sourceHash": "dd097a8bf738a9e7338343122bd16793973fb57bc7c2d8fb7acd5a341e8c00b1",
+    "summary": "节省杂货等购物开支",
+    "description": "Instagrocer 帮助你在本地商店更聪明地购物。提前规划、免去排队，并了解当前哪家杂货店价格最低、日用品哪天降价，以及一个小小的替换是否能让你一周的必需品都省钱。提供细化到门店、商品和时间的省钱洞察。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab70b1720748191bcfd401a52975db0",
+    "name": "Instant AI",
+    "sourceHash": "16d5116050edcb69ba41c2ab9603267f66b1d208ac4b358153f8ea4a5afcc342",
+    "summary": "搜索域名并获取命名灵感",
+    "description": "Instant AI 基于 Instant Domain Search，帮助你查找域名并探索品牌创意。可在数百种域名后缀中检查一个名称，一次检查最多 50 个完整域名，生成 .com 替代选项，并搜索已编入索引的 USPTO 商标记录。\n\nInstant AI 免费且只读，无需账户或 API 密钥。域名结果会链接到 instantdomainsearch.com 上的研究页面。注册状态来自我们的搜索索引，该索引每天根据注册局区域文件和 DNS 观测重建，而非实时查询注册局。商标结果会注明来源快照日期，不能据此认定商标已获得法律许可。\n\n由 Instant Labs, Inc. 开发，该公司是 ICANN 认证的注册商（IANA 3952）。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694ae02d15d4819184a0dd83b23fffb7",
+    "name": "Instant Website",
+    "sourceHash": "7665fba0bdfbfce67f913664af6eb963644f0baa993a5b4ed2c32a28f0ee9e71",
+    "summary": "几秒钟内搭建网站",
+    "description": "InstantSite 可使用 AI 和手动编辑来生成网站。\n根据简短描述创建页面结构、内容和布局，然后编辑并发布网站。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2812bba58881918be83ba2581fd93f",
+    "name": "Instant Website",
+    "sourceHash": "64506ed58cf470d4e697b263520017c7f94d43ac9a1b6a5bf1ea332f9f7ad720",
+    "summary": "几秒钟内搭建网站",
+    "description": "InstantSite 可使用 AI 生成网站。\n根据简短描述创建页面结构、内容和布局，然后编辑并发布网站。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0c111db3e081918e05f333267f98ef",
+    "name": "Instantly.ai",
+    "sourceHash": "68f60dfcd46076a8721ff1cd157ec8df3c8fb66f0d1b744356a2064f999ef146",
+    "summary": "即时寻找潜在客户",
+    "description": "Instantly.ai 可帮助用户通过 ChatGPT 管理 Instantly.ai 邮件账户、营销活动、潜在客户、收件箱动态、分析数据和后台作业。该应用支持列出并检查工作区数据、创建和更新营销活动及潜在客户名单、导入和移动潜在客户、管理发件人账户、回复邮件对话、验证邮件送达能力，以及检查营销活动或预热表现。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6b1dfc6aa08191a2ea114f5560b7d3",
+    "name": "Instavar Video Templates",
+    "sourceHash": "5c5b7993dcf6dbd7b31fc1f87de18cc2383444423aec1b4326d8f697cea4a146",
+    "summary": "供 Remotion 使用",
+    "description": "独立的 Instavar 视频模板，可供 Remotion 使用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2eafd2d4bc8191abac485e43831411",
+    "name": "instingo - Schritte Challenge",
+    "sourceHash": "bd5156450c80825bec4a73e1593948158d1ab9104baa2dc667ace065ebadb275",
+    "summary": "团队步数挑战",
+    "description": "instingo 帮助企业为团队查找并启动步数挑战。浏览企业挑战目录——从 Camino de Santiago 等集体虚拟路线到团队内部竞赛——并直接在聊天中查看详情、内容和福利。你可以询问活动流程、数据保护（DSGVO）、支持的可穿戴设备以及医疗保险机构是否提供补贴；答案直接来自 instingo.de。如果某项挑战合适，只需几步即可申请无义务演示，instingo 团队会通过电子邮件联系你。instingo 面向希望通过简单且符合 DSGVO 规定的计步挑战来鼓励员工多运动的企业。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6b9b76fa78819187d0e58b56fa6d20",
+    "name": "Instrumentl",
+    "sourceHash": "71b531b0940ab6b4e9d33808e055198ce019d54f2ac6acec572a6addd0ec35d8",
+    "summary": "发现、申请并管理资助",
+    "description": "面向非营利组织的 Instrumentl 集成。让 Instrumentl 成为 AI 工作流中的原生一环——它是智能伙伴，可直接在 ChatGPT 中帮助你更快地发现、赢得并管理资助。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69aad7b5a4b8819190e174c77a58ff3f",
+    "name": "Insurance GPT",
+    "sourceHash": "764829ab81b354e1b1a5b27d6e861e45cfd7091cb02e6bfeab131b5759536c10",
+    "summary": "创新与保险相结合",
+    "description": "Insurance-GPT 是一款由 AI 驱动的助手，通过对话界面支持保险运营。它帮助用户创建方案、管理保单信息、处理理赔，并高效处理风险和承保数据。通过自动化保险工作流并简化复杂数据处理，Insurance-GPT 可提升保险管理的速度、准确性和用户体验。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a29789ca628819184deddfa6379f8c6",
+    "name": "Intelligo",
+    "sourceHash": "2eb9215ad39a40902008e1e6d99006d70979d0621356d2a8c029b443836fed5b",
+    "summary": "尽职调查分析",
+    "description": "Intelligo 将风险情报带入 ChatGPT。关联 Intelligo 账户后，可在对话中调取背景调查、信用调查以及负面媒体和社交媒体筛查结果。总结调查对象的发现和风险标记、比较报告以查看变化、按姓名或关键词搜索个人资料，并根据你自己的 Intelligo 数据撰写尽职调查材料。登录通过 OAuth 安全保护，ChatGPT 只能访问账户获准查看的数据。需要 Intelligo 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a55df0728f081919ea4075fd792a748",
+    "name": "Intellistrata",
+    "sourceHash": "26b2225f403494a1797ddaf7b17163046f0b76202f4c829ef95266353fcc4374",
+    "summary": "管理分层物业信息",
+    "description": "Intellistrata 将 ChatGPT 连接到 Intellistrata 分层物业管理平台，让获授权用户安全访问并处理其所管理物业及业主法人团体相关信息。\n\n根据用户在 Intellistrata 中的权限以及组织启用的工具，插件可帮助查找物业、地块、业主、财务、任务、维护、文档和其他分层物业管理信息。它也可能支持通过对话请求执行获批的运营工作流。\n\n访问仅限经过身份验证的 Intellistrata 用户，并受其组织和账户配置的权限约束。用户只能访问其在 Intellistrata 中获准访问的信息并执行获准的操作。重要的财务、法律、物业和行政信息在依赖之前，应由获授权用户审核并确认。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8246417f0c8191acf85a7f6cac08c2",
+    "name": "Interestnaut",
+    "sourceHash": "212e4c3b3a29ebb1f7c9fb721f830618619d3a0ee6c5fe899c2205e912bd64de",
+    "summary": "发现想看的、想读的和想玩的",
+    "description": "Interestnaut 根据你实际作出的反应和评分来提供推荐，涵盖电影、电视、书籍、游戏、音乐、播客和创作者，而不是仅凭类型标签猜测。ChatGPT 可以读取你的反应历史、1-10 分评分和计算出的品味档案，并按标题搜索全部七类媒体的目录。评分传递的信息最丰富：评分数量少且经过慎重选择，因此 9 分远比一个“喜欢”更有参考价值。不同反应也不能混为一谈——“一般”表示你看过或体验过但无感，“跳过”表示你没有参与，因此完全不代表任何评价。经你许可，它也可以记录反应和评分，让你无需离开对话就能更新资料库。登录采用 OAuth 2.1 和 PKCE，并设有明确列出授权内容的同意页面；你可以随时断开连接。结果以交互式卡片呈现并显示封面，点一下按钮即可记录反应或保存稍后查看，无需离开对话。剧情简介和成人内容标题绝不会发送，每张卡片都会链接回 app.interestnaut.com。这里的内容不会局限于本次对话。ChatGPT 读取或写入的所有内容都属于你自己的 Interestnaut 账户；同一资料库也可在网页、iPhone 和 Android 应用中访问，你可以在那里查看已保存内容、更改或移除任何反应、添加 ChatGPT 未见过的内容、创建列表，并查看品味档案的更新。评分通过助手记录，并计入同一品味档案。你可以在这里开始、到那里完成，也可以反过来；无论如何使用，账户都是同一个，并且会在此次连接结束后继续保留。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7ead58b7388191ae4d48a3d09018ce",
+    "name": "Interior Company",
+    "sourceHash": "77f7e682b28bd0df7a280a9dbabf4635f19e0421bf09ac8e14b02d364e0c5c0d",
+    "summary": "用 AI 设计你的家",
+    "description": "直接在聊天中访问 Interior Company 的设计平台。浏览各种空间的最新设计——模块化厨房、衣柜、客厅和卧室。探索单件产品，了解趋势和操作指南，并按城市查找室内设计师。\n使用互动式全屋成本计算器，根据户型配置估算室内装修预算，并通过简单的三个步骤预约免费设计咨询。所有房源、价格和结果都由 Interior Company 实时获取——没有任何虚构内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1fdd66c9fc81919bf49f27278aa5f6",
+    "name": "Interview Feedback Extractor",
+    "sourceHash": "675d28a210559491f3adc7c66d244ee5c14f8355f389589d41b96f38c202e19b",
+    "summary": "提取反馈要点",
+    "description": "Interview Feedback Extractor 可将面试反馈整理为清晰的结构化字段。\n\n它会从招聘人员或面试官的笔记中提取优势、风险和建议的后续步骤，让招聘流程保持清晰一致。\n\n它只整理用户提供的反馈，不会做出招聘决定、联系候选人、安排面试、更新 ATS 系统，也不会给出最终招聘判断。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a958ce566248191845ad01d7943d356",
+    "name": "Interview Trix",
+    "sourceHash": "1b89645ecea15cfa426a2d9c2898eb1b0b99ce8125c57d1bb1905899554a8fff",
+    "summary": "制作简历并练习面试",
+    "description": "Interview Trix 帮助你在不离开 ChatGPT 的情况下制作适合求职的简历并练习面试。\n\n关联 Interview Trix 账户后，可让 ChatGPT 列出你的简历、根据经历创建新草稿、直接更新技能或职位名称，或针对特定职位调整已保存的简历。你会获得 interviewtrix.com 的编辑器链接，以便查看版式、模板和完整文档。\n\n确定目标职位后，ChatGPT 可以根据职位描述进行 ATS 评分，并指出最需要修正的问题。准备好练习时，可启动限时 AI 模拟面试（根据套餐时长为 15 或 30 分钟），并返回 Interview Trix 上的面试链接。如果你的套餐包含相关功能，完成的面试之后还可打开查看分数和报告。\n\nInterview Trix 不会替你申请职位、给招聘人员发邮件或删除账户。实时面试在 interviewtrix.com 上进行，不在聊天中进行。简历数量、ATS 和模拟面试额度均按你的 Interview Trix 套餐执行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f48b88c8e081918d23136b35a0b9eb",
+    "name": "Introw PRM",
+    "sourceHash": "3c289c5e2db6ac22ca50e3e0eabaeb0bbcf3844545e0bbf9fe152fe8e1abcc9e",
+    "summary": "#1 AI 合作伙伴门户",
+    "description": "Introw 是一款合作伙伴关系管理平台（PRM），可在几分钟内启动个性化合作伙伴门户，并与 CRM（HubSpot 和 Salesforce）集成。\n如果你与经销商、推荐合作伙伴、分销商、实施合作伙伴等合作，请继续了解。\n\nIntrow 无需传统 PRM 那样漫长的实施周期，即可打造个性化合作伙伴体验，提升合作伙伴参与度和效率。Introw 将 HubSpot CRM 数据作为唯一可信数据源。\n\n功能包括交易注册、通过内置 LMS 为合作伙伴提供培训、向他们提供内容、跟踪合作伙伴目标等。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_697a3574a13c8191bbcd8463f03e91d3",
+    "name": "Inviton",
+    "sourceHash": "4f3931ffcccc51b4986e789cd4401d179a35b83954fe2fcfbd1f32ec9917b0ab",
+    "summary": "发现线下活动",
+    "description": "Inviton 帮助你直接在 ChatGPT 中发现斯洛伐克、捷克、波兰及周边地区正在举办的线下活动。\n\n根据城市、日期或偏好查找音乐会、节庆、文化活动、夜生活、展览和各类体验。Inviton 从多个可信来源获取实时公开活动数据，并提供结构化推荐，包括活动详情、图片和官方购票链接。\n\n只需询问本周末、今晚或某个城市正在举办什么活动，Inviton 就会实时推荐相关活动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a70e2487aac8191b2403901fefc4c74",
+    "name": "IQRush",
+    "sourceHash": "4d049e8f18f6d2634178a51460d1949b164b479f03f04e985a620b39e5d6b894",
+    "summary": "衡量 AI 搜索可见度",
+    "description": "IQRush 帮助团队检查 AI 搜索中的可见度、引用、品牌提及、情绪、依据来源、趋势变化、网页表现，以及关联的 GA4 和 Search Console 分析数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f0f2e2c7708191b18a9940856fa450",
+    "name": "Ironclad Contracts",
+    "sourceHash": "b0397cbb20a133387d71e28ba7525e7eebfda86a18d225d85b9c2c8de4cb75c3",
+    "summary": "用自然语言快速搜索合同",
+    "description": "Ironclad 的 MCP 服务器让 ChatGPT 可以用自然语言搜索合同库和工作流。你可以询问“未来 90 天内哪些 MSA 即将到期”或“显示包含任意理由终止条款的供应商协议”，并立即获取相关合同和答案。Ironclad 合同搜索结果的扩展功能会自动根据每位用户的权限限定范围，让团队减少搜索时间，更多地依据查到的信息采取行动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4d0a2713b8819190c1b0859af479d8",
+    "name": "Is It Down? Availability Check",
+    "sourceHash": "d0dab817821c668f9dfc320834d75ea1f71ca9cda43d3a858042f46741d2d59b",
+    "summary": "检测网站是否宕机",
+    "description": "想知道某个网站是否宕机？输入网址，我来帮你检查。\n\n我会快速测试网站能否访问，并用清楚简单的话告诉你结果。如果网站正常，我会说明它在线；如果无法访问，我也会解释。你不需要具备特别的计算机技能，只要开口询问，我就会检查。\n\n网页打不开、应用无法连接或服务似乎出故障时，这个工具很有帮助。许多问题看起来相似，原因却可能不同：网站可能对所有人都不可用，也可能只对你被屏蔽；你的网络连接可能有问题，或者网站响应缓慢。我会帮你判断最可能发生了什么，让你知道接下来可以尝试什么。\n\n使用很简单。告诉我你想检查的网站，可以粘贴完整网址，也可以只输入网站名称。我会测试能否访问，并用通俗易懂的中文说明结果。如果还有有用的信息，我也会解释其含义，避免使用难懂的术语。\n\n你可以检查几乎任何公开网站，包括新闻网站、商店、游戏、学校、博客、公司页面和在线工具。只要网页在互联网上公开，我通常都能测试它是否有响应。如果因技术原因无法检查某个网站，我会如实告诉你，而不是猜测。\n\n如果网站在线，但你仍然无法使用，我可以帮你分析原因。也许需要刷新浏览器；也许网络连接有问题；也可能是 VPN、防火墙或网络设置造成阻碍。有时等几分钟就够了，因为繁忙的服务可能会恢复正常。\n\n如果网站宕机，我会用简单的方式说明。我不会编造原因，也不会假装知道我看不到的信息。如果信息不足，我会直接说明。清楚的答案胜过令人困惑的说法。\n\n这个工具适合所有人。学生可以在上课前检查学校网站；家庭可以查看喜爱的游戏或视频网站是否出故障；职场人士可以在报告问题前测试公司网页；开发人员可以先快速检查公开网站，再花时间排查错误；支持团队也可以把它作为协助客户的快速第一步。\n\n你可以这样提问：“这个网站宕机了吗？”“能检查 example.com 吗？”“这个网页为什么打不开？”“服务器在线吗？”或“其他人能访问这个网站吗？”我能理解多种不同问法，你不必使用特定命令。\n\n我的目标是帮你节省时间。与其尝试各种方法，不如先快速检查。知道网站在线还是离线，有助于决定下一步怎么做，从而减少无谓折腾和担忧，让问题更容易解决。\n\n我会优先给出简短、有用的答案。如果你想了解更多，只要继续询问。我可以解释结果的含义、接下来可以尝试什么，以及哪些常见问题可能符合当前情况。我会使用简单语言，避免不必要的术语，并如实说明我知道什么。\n\n无论你要检查一个网站还是多个网站，我都会尽量让过程快速、清楚、简单。粘贴网址、输入网站名称，或询问某项服务是否宕机。我会检查它是否可访问、解释结果，并帮助你了解下一步该做什么。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d31de2c5c88191863aad8eca5a7e7d",
+    "name": "Is It Legit by M8ven",
+    "sourceHash": "d6f7eeb66b41ec3a71eeaaf666137a93f7de278ccf261a8d84ab7ddf84d2a92b",
+    "summary": "了解你购买的品牌是否可信",
+    "description": "Is It Legit 是 M8ven 推出的消费者品牌信任工具。输入品牌名称或 URL 后，它会分析 100+ 项信任信号，并给出“安全 / 谨慎 / 避免”的判断及关键发现。适用于“这个网站是真的吗？”“我该从这个品牌购买吗？”“这是 Instagram 广告骗局吗？”等问题。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_695b033d7c888191a792484bc36b35ef",
+    "name": "Is It Safe To Travel?",
+    "sourceHash": "b8a77e7e32ef2122571f63978a4cb5bae172d78f347bab4c64f177a5eac044fd",
+    "summary": "免费实时旅行安全评级",
+    "description": "即时获取全球 200+ 个国家和主要城市的安全评级。它将美国国务院旅行警示、英国外交部警告、实时冲突数据（ACLED）和全球新闻监测（GDELT）整合为一项综合安全评分。搜索任意目的地，即可查看当前威胁等级、近期事件、安全趋势及附近城市对比。所有数据均来自官方政府来源和经过验证的新闻源，并实时更新——完全免费且不限次数。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d60e34d5188191b0c97f43f6fb2b01",
+    "name": "isango!",
+    "sourceHash": "a698ae32db5901e12057a0e32463b9d30fbef1344b7dd046c1692f158e836f9c",
+    "summary": "发现旅行团和活动",
+    "description": "isango! 让旅客轻松发现并比较全球主要城市的旅行团、景点门票、接送服务、游轮和目的地体验。从热门免排队门票和观光通票，到一日游和独特的本地活动，用户都可以根据预算、兴趣和可订情况，快速探索最适合旅程的选项。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6945225ed2ac8191af0797f089642e79",
+    "name": "iScanner",
+    "sourceHash": "4349e68db105f81c4c40e6fa750e02b8255a9a5afb6a8f9227f2f30dac742a3b",
+    "summary": "扫描并制作 PDF 文件",
+    "description": "需要快速处理文档吗？iScanner 将 AI 驱动的编辑功能带入聊天。\n使用 iScanner，你可以：\n上传并合并多个文件，生成一份看起来像扫描件的 PDF\n使用 AI 增强文档——去除模糊、修正变形并锐化边缘\n裁剪和旋转文档，让外观更整洁\n直接在文档中添加和自定义文字\n应用各种滤镜，自定义文档效果\n无论你是学生、专业人士还是经常外出的人，iScanner 都能让文档管理快速轻松。只需上传、增强并导出，全程无需离开聊天。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a00c08cf99081918e9e35635beb69af",
+    "name": "Israir",
+    "sourceHash": "a85a35fd126eae48841f093633986ca286658186fd439b4e2d02977049bbcac2",
+    "summary": "查找航班和度假行程",
+    "description": "搜索 Israir 航班、度假套餐、可选出行日期和官方乘客服务链接。比较支持目的地的方案，查看价格和预订选项，并查找行李、值机、取消、无障碍服务、紧急通知和埃拉特航班计划相关信息。",
+    "model": "codex-subagent-reviewed"
+  }
+]

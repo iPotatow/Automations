@@ -1,0 +1,666 @@
+[
+  {
+    "id": "plugin_asdk_app_69dd38930d64819196c02d0f9db061b5",
+    "name": "Grapes Studio",
+    "sourceHash": "74c0db74f45d496005e3f2a6f1f4bf8f1be1d458e7724987c44626a479ea8ef0",
+    "summary": "用 AI 创建网站和邮件",
+    "description": "借助 AI 创建精美的网站和邮件，并可直接在 ChatGPT 中编辑。此应用可帮助你更快地生成新页面、更新现有版式、改写内容、调整样式并构建可重复使用的版块。无论你是在撰写营销邮件，还是设计完整的落地页，都能在一个流畅的工作流程中完成设计与内容工作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6abc3158a168819192c9754d91ee2d3c",
+    "name": "GraphOS",
+    "sourceHash": "a3f54464af1dd40c56bca6b72db843ad811947907cefb1b845f0cb2ca567b73a",
+    "summary": "Apollo 文档与图谱洞察",
+    "description": "搜索 Apollo 官方文档、阅读文档页面并使用 Apollo Connectors 规范。登录后可检查 GraphOS 图谱，包括变体、发布、lint 检查结果、持久化查询状态，以及操作、客户端和子图指标。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e22ccb83548191b07f9d0cfc20efa7",
+    "name": "Great Clips Jobs",
+    "sourceHash": "144554c12bcbbad36fa0a041b18740353ba58fde3376e88be0f4fe439cd80eb9",
+    "summary": "查找并申请职位！",
+    "description": "通过 Great Clips Jobs ChatGPT 应用，发现你的下一个职业机会！\n\n这是探索美发沙龙行业职业的简单智能方式。无论你是经验丰富的发型师、刚刚入行，还是正在考虑转行，此应用都能帮你找到符合技能、目标和生活方式的职位。\n\n按地点、职位名称或薪酬搜索空缺，并快速了解在 Great Clips 特许经营沙龙工作的情况。从持续培训到互相支持的团队环境，你会很快明白为什么许多专业人士选择在这里发展事业。\n\n无需再在各个招聘网站之间来回切换！此应用将信息汇集一处。浏览机会、了解福利，只需轻点几下即可迈出下一步，开启适合自己的职业生涯。\n\n你在 Great Clips 沙龙的未来，就从这里开始！",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a86f955bdfc8191b4d2b210a9e4b385",
+    "name": "Greenfee365 Platform",
+    "sourceHash": "2903dcbca186022c53a209b0267d9afc7b26643ea0084d0a0e972df7aca3962e",
+    "summary": "实时高尔夫开球时间与果岭费",
+    "description": "规划一场高尔夫或完整的高尔夫之旅。Greenfee365 可搜索 1,400 多家可预订球场的实时开球时间和果岭费，地点从太阳海岸和阿尔加维到苏格兰、泰国和阿联酋。你可以询问球场、城市或目的地，并获取确实可用的时段、当地货币的每位球员价格以及剩余名额。价格直接来自 Greenfee365 预订平台，因此显示的是球场当前实际报价，而非估算。选好时间后，你会收到 greenfee365.com 链接，日期和人数已预先填好，并可在那里完成预订。搜索无需账号。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa1d974007c81918c528b5cfd500c55",
+    "name": "Greptile",
+    "sourceHash": "179d93dde297484d9336f3049c061edd53d4f9a2fa4e391ffcef8cc31bf17882",
+    "summary": "审查代码与 PR 反馈",
+    "description": "面向 GitHub 和 GitLab 的 AI 代码审查代理。直接在 Codex 中查看 Greptile 的 PR 审查评论、审查当前工作分支，并搜索组织的知识库和编码模式。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698620ab4f80819182bd121d565d1ceb",
+    "name": "Greystar Apartment Scout",
+    "sourceHash": "2e095e1af3f859af65f29d6cc3f42585b081609e147aa74a338b53fd6b0bb3b1",
+    "summary": "搜索超过 100 万套公寓",
+    "description": "作为全美规模最大的精选出租房源集合，我们让你轻松找到符合需求的理想住所。Greystar 在美国大多数城市及许多全球地区管理各种类型的公寓，涵盖学生公寓、普通公寓以及适合活跃长者居住的社区。\n\n立即浏览丰富的可租房源，很快找到适合你的住所。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a0c7a3e4908191b99fe7cbecf180a5",
+    "name": "Grid Pulse",
+    "sourceHash": "ca021c7a64efde32d2d7c9bba9ac13136a0292d0e177c38813339c71a8acd4b2",
+    "summary": "6×6 逻辑谜题，每日挑战与自由畅玩",
+    "description": "Grid Pulse 是一款 6×6 逻辑谜题：填满网格，使每行和每列都恰好包含一次 1–6，这是没有 3×3 宫格的数独变体。\n\n选择“每日模式”，与所有人挑战同一道题并比较分数；也可选择“自由畅玩”，体验无限变化的网格。设有三个难度等级（简单、中等、困难），并包含压力格：若倒计时格长时间留空，就会受到惩罚。\n\n分数取决于速度和准确度。赢取从铜牌到完美的奖章。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b321b422a881919b21da940baf57b1",
+    "name": "Grubhub",
+    "sourceHash": "fd7c581558a5c44906cd3ef43b197ea741d09e4f4c2870133c8874e55196d4bc",
+    "summary": "发现更多美味选择",
+    "description": "Grubhub 正在改变外卖体验。平台上有数十万家餐厅、杂货店和专属优惠，其中也可能有适合你的选择。更重要的是：餐厅订单超过 $50 时免配送费和服务费。真的如此。尽情享受喜爱的美食，不必担心费用让大额订单变得更贵。\n\n搜索喜欢的菜品或餐厅，获取真正实用的结果：真实菜单、实际预计送达时间，以及附近的实时供应情况。\n\n无需离开聊天，即可浏览完整餐厅菜单，找到正想吃的东西。\n\n发现附近的新餐厅和新菜系。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9eeeebfa8c81918945df0945276cb1",
+    "name": "GSA CALC+ by 1102tools",
+    "sourceHash": "294fe826d67e4b47db8aad080be066284f07a20fa9752122f6fa1eba36e9ace2",
+    "summary": "比较联邦劳动力费率",
+    "description": "由 James Jenrette / 1102tools 独立开发的非官方应用，使用 GSA CALC+ 的公开数据。本应用与美国政府无关，也未获其认可。\n\n通过八种只读工具，搜索已授予的 GSA MAS 劳动力费率上限、比较劳动力类别、浏览供应商费率表并查看 SIN 基准。费率是合同上限，并非工资或实际支付价格。本应用用于研究，不会判定价格是否合理。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a53367747ac8191891c960a0f61b376",
+    "name": "GSC SEO & Content Planner",
+    "sourceHash": "6708bb4077b9f69b4147400b15d11f7bcd317f2777eee277bbc7cdff3025e2f6",
+    "summary": "分析 Search Console SEO 数据",
+    "description": "连接 Google Search Console，分析已完成的搜索表现、发现关键词和内容机会、比较排名变化，并使用你授权的 SMEPost 组织数据规划 SEO 文章。访问权限为只读：插件无法编辑内容、发布内容或向 Google Search Console 写入数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a568445c1d48191b42d9a2117721bc9",
+    "name": "GST Invoice Maker",
+    "sourceHash": "7497d841f19ec624b65bde4773d5552ff3193e472f79f25a7f4c4563185b6884",
+    "summary": "免费打印 GST 账单",
+    "description": "GST Invoice Maker 为印度商店、餐厅、杂货店和自由职业者创建符合 GST 要求的账单。用日常语言描述账单需求，即可获得计算后的总额和一个已填妥账单的链接，可直接打印或保存为 PDF。还提供可下载的账单格式 PDF 模板和 GST 参考指南（必填发票字段、税率档）。免费使用，无需账号；账单数据仅在内存中处理，不会保存。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a573f5f6a3c819183adbe1c22f3e70a",
+    "name": "GTD Brain: Getting Things Done",
+    "sourceHash": "f721f9ae259297fce8fb0be038844688f9125af2b920b7cd25da44e795404828",
+    "summary": "在聊天中管理 GTD 看板",
+    "description": "GTD Brain 将你的 Getting Things Done（GTD）看板带入 ChatGPT。询问当前待办事项，即可内嵌查看你指定的内容：收件箱、下一步行动、项目，或等待回复的人。可通过聊天用一句话记录新事项、在列之间移动卡片并标记完成。看板会与 GTD Brain 网页版、Android 和 iOS 应用保持同步。需要 GTD Brain 账号。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5844ea64f48191930701aef807c7b3",
+    "name": "Guanyin Oracle · 观音灵签",
+    "sourceHash": "cea0147d8ad3c1fe71bb3dcb1179d81e25903a49d419ec2832d81acad5de2303",
+    "summary": "以中文为主的灵签仪式",
+    "description": "Guanyin Oracle 提供宁静的中文优先反思仪式，基于内置的观音 100 签内容。专注于一个问题，象征性地抽取一签，再以一次象征性的掷杯动作确认。原始签诗和传统注解保留中文，并提供详细的中文解读及忠实的英文译文。\n\n每次解读都会结合问题说明签意，区分反思与预测，并针对健康、财务、法律及其他重大议题提供切实可行的七日行动建议和明确边界。用户还可选择为抽中的确切签号保存 JPEG 签卡。服务仅处理生成解读所需的输入，不会保存仪式会话。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2bf6e828548191a57e254ff333c6ea",
+    "name": "Guides",
+    "sourceHash": "a2936655ab73c71d5bc44da404d6a4cada46468257d1b69b3f8344954b6ddfae",
+    "summary": "AI 记忆与笔记本",
+    "description": "Guides 是 ChatGPT 中用于持续维护个人笔记本的协作编辑器。阅读结构、搭建提纲，并随时间填写和修订页面，例如偏好档案、膳食计划和学习旅程。通过 OAuth 连接用户账号；指南本身是主要内容，而非聊天记录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b48bd2ae9c8191a5bcdbfd5f122107",
+    "name": "Gullivr",
+    "sourceHash": "54eb932e9f2084447b2a84a294c41d55dbc787052314fd447c3ac071631e60cf",
+    "summary": "规划多人旅行",
+    "description": "Gullivr 帮助用户在 ChatGPT 中规划结伴旅行。用户可以创建行程、安排每日计划、添加地点、航班、住宿、支出和打包事项，然后从私人 Gullivr 工作区查看路线距离和旅行摘要。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a956527ac488191b306c03418ae081f",
+    "name": "Gumlet",
+    "sourceHash": "fccc20145b508a1c9c464cdad3308289aff11b2a7ea5a4b47823a543ae37be0d",
+    "summary": "管理媒体并查看分析数据",
+    "description": "无需离开对话，即可轻松管理视频和图片库、获取实时性能分析、整理工作区并自动化媒体处理流程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7d02182da08191b45a4918188532f3",
+    "name": "Gumnut Photos",
+    "sourceHash": "44f1cc401dca56d52df3727ee4c68470e758db17e06a4e9766d57e6329d39790",
+    "summary": "查找并整理照片",
+    "description": "Gumnut Photos 可帮助用户通过 ChatGPT 搜索和浏览私人照片库、查看图片内容、按相册和人物整理素材、更新元数据，并安全管理上传内容和回收站。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a63af40f7608191a4ab4d6e7927cc7a",
+    "name": "GuruWalk: Tours & Activities",
+    "sourceHash": "049f421f1787940b8a85808b524f83479176e05d526598bf26dbd7b3746e4ea7",
+    "summary": "查找并预订旅行团与门票",
+    "description": "通过 GuruWalk 探索任意城市。这是全球最大的免费步行游平台。参加免费团无需预先付费，结束时可按自己认为的体验价值向导付费。GuruWalk 还在 1,000 多座城市提供导览、一日游和免排队门票，覆盖马德里、罗马、东京、布宜诺斯艾利斯和纽约等地。\n\n只需说明目的地和出行时间。每个行程都附有照片、真实旅客评分、讲解语言、时长，以及所选日期仍可参加的时段，方便你集中比较。\n\nGuruWalk 不会在此向你收费或完成预订，而会直接带你前往 guruwalk.com 的行程页面完成预订。你也可以先根据 GuruWalk 官方支持指南了解实用信息，例如取消规则、集合地点或团体预订方式。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69375d9f172c8191b23d73be4107128a",
+    "name": "Gusto",
+    "sourceHash": "10e6fa15be494b4ef4f1e64d456795c69ea1a1693bedd8530e3e60d6390244a9",
+    "summary": "发放工资并查看团队洞察",
+    "description": "发放工资并查看团队洞察",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6941e1d349208191b984b93cb344be5b",
+    "name": "Gusto",
+    "sourceHash": "1090dbca7c94fc152a7e985eaad67244473c30278ef932fcc6a8c3f5da93de34",
+    "summary": "轻松处理人事与薪资",
+    "description": "使用 Gusto 插件，直接在 ChatGPT 中处理人事和薪资事务，而不只是询问相关问题。准备即将进行的薪资发放，并与近期记录核对，及时发现发薪日前需要处理的问题。修正工时表、从电子表格导入工时、小费和报销款，或根据录用通知为新员工办理入职，全都可在聊天中完成。ChatGPT 版 Gusto 插件连接实时人事和薪资数据；其工具既支持对结构化数据进行详细查询，也支持需确认后才执行的写入操作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8b0f2b92d88191b1cf0a836a364f5c",
+    "name": "GymLog",
+    "sourceHash": "b29ff18fa8025f09e25363bfb1b1f12097261c298b08d285b937b984aae276f5",
+    "summary": "健康与健身",
+    "description": "GymLog 将 ChatGPT 连接到你的私人力量训练记录。查看训练摘要、追踪运动进展、浏览模板，并创建需确认的私人模板。在 GymLog iOS 应用中另行授予隐私权限后，GymLog 还可汇总你选定的 Apple Health 和 Fitness 记录。营养和身体成分测量数据只有在明确确认后才会进入待处理队列；写入 Apple Health 前，还必须在 iPhone 上再次审核并批准。GymLog 不提供医疗诊断或治疗建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69edff348084819194ce1b72b0cce735",
+    "name": "Haaretz",
+    "sourceHash": "447d9161f2367d82ca658be2815b335b60973578fb7c3296b05b80ac58af499b",
+    "summary": "通过 ChatGPT 查询 Haaretz",
+    "description": "Haaretz 是以色列历史最悠久的日报，以高水准新闻报道和深入分析而广受尊重。该应用允许 Haaretz 订阅用户将订阅与 ChatGPT 账号关联，从而使用 ChatGPT 模型查询报纸丰富多样的内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6943bb30f9248191b2c1a32eb46c3721",
+    "name": "Habitify",
+    "sourceHash": "b7582249161d0f469c3f51803b9aa23cac238b5f06c79c6a7d7ba23514ab2c89",
+    "summary": "培养新习惯与日常规律",
+    "description": "在 ChatGPT 中直接建立更好的日常习惯并坚持执行。Habitify 应用将习惯追踪融入你的工作流程，你可以通过简单自然的对话记录活动、追踪进展并分析坚持情况。\n\n无论你是想多喝水、每天阅读，还是严格执行锻炼计划，都可以在工作和聊天的地方管理目标，免去切换应用的麻烦。\n\n主要功能：\n- 快速记录：只需告诉 ChatGPT，即可立即将习惯标记为已完成（例如：“记录跑步 30 分钟”或“我完成了晨间例行活动”）。\n- 进度追踪：实时查询当前连续打卡记录、每日完成率以及当天剩余任务。\n- 日常管理：随时创建新习惯、设定目标或调整每日安排。\n- 个性化洞察：请求每周或每月摘要，了解表现趋势并获取 AI 提供的改进建议。\n\n有 AI 助手一路提醒和陪伴，让你保持节奏并养成持久习惯。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698f3015287081919ff958565ad957f0",
+    "name": "HAPI MCP Registry",
+    "sourceHash": "8a85cf4137e92d1b416487dfd3f94e26eb971443a89b63c7c63885c816eca28d",
+    "summary": "查找 MCP 服务器",
+    "description": "MCP Registry 是一个集中式数据库，收录可公开访问的 MCP 服务器，并由 MCP 生态中的可信贡献者共同维护。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7e36794ba88191b8b425b1b7156106",
+    "name": "Happens.mk",
+    "sourceHash": "6e65a552fadf1a33809731673dad078c9ae8348d893c8b2eac2b3c53f5c01b7a",
+    "summary": "斯科普里实时活动指南",
+    "description": "斯科普里的实时指南，每日更新：音乐会、戏剧、电影、体育和儿童活动，以及时间、场地、价格和门票信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0af108ffd08191ad1543ad0945e10b",
+    "name": "HappyFares",
+    "sourceHash": "7ece23b54d4962042eaba2dbfc4e04f45af098d2f3b9501c6bcfdde6bcb39a1c",
+    "summary": "轻松预订 AI 航班",
+    "description": "HappyFares 是印度的 AI 航班预订平台，现已接入 ChatGPT。用对话方式询问“下周末德里飞班加罗尔的廉价航班”，即可在丰富的卡片界面中查看实时票价。Meera AI 会告知价格可能上涨还是下跌、推荐更便宜的邻近日程、展示备选机场，并让你一键设置价格提醒。支持团体票价（7+ 位乘客）、可退款筛选，以及预填好的 happyfares.in 预订链接，方便顺畅结账。超过 40 lakh 名旅客信赖 HappyFares。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694a8009f86481918b118a4a86bebc8c",
+    "name": "HappyScribe",
+    "sourceHash": "782b20cb7386247cbdf52d4639c13c7a031c28595e97df0e1c3f8a9a9aa0d4cb",
+    "summary": "搜索转录文本与会议",
+    "description": "连接 HappyScribe 后，ChatGPT 可按需访问组织的对话记忆：涵盖 150+ 种语言的每份转录文本、会议录音、采访和引文，并标注发言者且逐字呈现。\n\nHappyScribe 是 AI 会议记录和转录平台，可记录各种对话：在线会议、线下录音、采访、实地调研和上传的媒体文件。它会将内容转化为可搜索、可引用、有结构的知识，并准确呈现实际说了什么、由谁所说以及使用了哪种语言。\n\n连接 HappyScribe 后，ChatGPT 可以：\n- 按关键词、发言者、日期或主题搜索资料库\n- 提取附有经核实时间戳和编辑器深层链接的准确引文\n- 从 URL 转录新媒体（YouTube、Vimeo 和直接链接）\n- 管理文件夹、重命名发言者并编辑转录文本\n- 排查会议未被录制的原因\n- 探索录音中的人物和公司关系图谱\n\n在 150+ 种语言中提供一流的多语言准确度。总部位于欧洲，原生支持 GDPR。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a515a744090819182cc3a287c66bcbe",
+    "name": "Hardline",
+    "sourceHash": "ee33def8952cc060f80794efc93a2bf085f8aaa8e09634b1119a733362b18e1e",
+    "summary": "搜索通话与笔记",
+    "description": "Hardline MCP 将电话和现场会议笔记连接到 ChatGPT。\n\n如果你希望把工地实时数据接入工具和工作流，可以使用此 MCP。\n- 编写每日记录：直接从当天通话中提取决策、承诺和交付更新写入日志，无需几小时后再凭记忆补录。\n- 起草 RFI（信息请求）或变更单：提取现场背景信息，将建筑师批准的事项、分包商提出的问题及通话中的变更写入草稿。\n- 处理“你当时让我这么做”的争议：查明谁在何时作出了承诺，并定位对应的准确通话。需要时即可调取当时的记录。\n- 准备 OAC（业主、建筑师、承包商会议）或三周前瞻计划：整合本周各次通话及其他项目文件中的信息，避免重要事项遗漏。\n\n工作方式：\n助手可以按项目、人员、工种或时间范围搜索已记录的通话和现场笔记，并在回答中引用准确通话。无需再翻找手机通话记录，查“分包商答应了什么”或“我们什么时候批准了那项变更”。\n\n不同之处：\nHardline 会记录你本来就在进行的通话，仅保留转录文本（不保存音频），并将其整理成结构化记录，供各类工作流程使用，省去杂乱笔记或把所有待办都记在脑中的麻烦。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aac044a3e4c819182c689d8be994de5",
+    "name": "Harness",
+    "sourceHash": "26187dc066a5b4d2ae5239cbb484bf5c8cdae234fc53c4fcaa04b44567e49861",
+    "summary": "自主软件交付",
+    "description": "Harness 可帮助用户在 ChatGPT 中检查软件交付状况、诊断执行失败、查找交付资源，并对其 Harness 账号执行经授权的创建、更新、删除和运行操作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b9154609d481919f0ce339c6ac315d",
+    "name": "Havi Slides",
+    "sourceHash": "bf2fc36368ef8f5bc5f34df7d644c1c79951652b23b8620e9dcf02822412f79b",
+    "summary": "几秒钟制作精致演示文稿",
+    "description": "Havi 可立即将粗略想法转化为精致、可用于演示的幻灯片。从一句提示、几条笔记或粗略提纲开始即可。应用会构建叙事、版式和设计，让你专注于要传达的信息。无需设计工作，也能制作美观的幻灯片。\n\n你可以提出此类要求：“把我的产品笔记整理成一份 5 页的概览”或“为新员工制作入职培训演示文稿”。\n\n应用还支持通过指令即时修改，例如“简化第 2 页的文字”或“将主题改得更专业”。\n\n所有演示文稿都会自动保存，也可直接导出为 PDF 和 PPT 格式。\n\n使用方法\n1. 从目录连接 Havi 应用\n2. 输入“@”并标记 Havi 应用，或输入“Havi”，然后输入提示，即可立即生成精美幻灯片",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a46611fe1d88191af0dfb49267aa1e2",
+    "name": "HAVN AI Real Estate",
+    "sourceHash": "d7d3b643d27b33ee2dd7af757119ab58ac8e3451fa6a9697f03e0816cb95cd23",
+    "summary": "AI 开放日 CRM",
+    "description": "HAVN 将 ChatGPT 连接到你的房地产工作区。\n通过 HAVN，房产经纪人和团队可以让 ChatGPT 在明确范围并遵循权限的前提下，协助处理房产、开放看房、联系人、潜在客户、任务、媒体、分析数据和卖方报告。ChatGPT 可以查找相关 HAVN 记录、总结活动、准备卖方更新、展示房产照片和文件，并在你明确提出要求时创建或更新受支持的记录。\n访问权限取决于你的 HAVN 角色和机构权限，因此用户只能查看和操作获准访问的数据。你可以随时在 HAVN 设置中轮换或撤销 MCP 访问权限。\n\nHAVN 面向希望减少零散笔记、改善潜客记录、及时跟进并在每次看房后更有条理地工作的经纪人。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69849432c7e88191b025ef564c8cb4bf",
+    "name": "Headout",
+    "sourceHash": "9b662c313a84ee2e7d527397b6d6410a99746e02cf5f88f30a56d819e6bc6036",
+    "summary": "发现旅行体验",
+    "description": "Headout 帮助你发现旅行时可以体验的活动。\n\n使用自然语言探索全球各城市的旅行团、景点和活动。按目的地、兴趣、旅行者类型或具体地标搜索，找到符合需求的体验。\n\n使用 Headout，你可以：\n- 发现全球各城市的体验项目\n- 探索与热门景点和地标相关的活动\n- 为家庭、情侣、独行旅客等寻找灵感\n- 通过后续提问细化结果，无需重新开始搜索\n\n此应用专注于发现和规划，帮助你探索选项、比较体验，并在预订前决定要做什么。\n\n无论你已有明确目的地，还是只想寻找灵感，Headout 都能让你轻松探索各种可能。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7cc011cadc819189e4b52e61bb27fd",
+    "name": "Health Connect America Careers",
+    "sourceHash": "95bdb0137c201686da57edd197a22b5a5ff2ad2f3952fa71995e49301e67c93b",
+    "summary": "发现工作机会",
+    "description": "Health Connect America Careers 帮助求职者探索 Health Connect America 的空缺职位。按职位名称、地点或两者搜索，助手会显示相关机会，让你在申请前深入了解详情。\n由 Appcast 提供支持。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d3f4bb7ef88191acb066d848c527af",
+    "name": "Health Memory",
+    "sourceHash": "9054491885d1a556452a0876271340af776996ab362bbc5d5cd93c59ea12915f",
+    "summary": "管理健康记录",
+    "description": "Health Memory 帮助你直接通过 ChatGPT 保存和管理个人健康笔记。你可以创建主题、整理信息，并在一处记录症状、药物以及要咨询医生的问题等内容。\n\n只需告诉 ChatGPT 想保存什么，信息便会安全地存入你在 Triangle Health 的健康记忆账号。需要时也可要求检索或更新笔记。\n\nHealth Memory 注重隐私和控制权。你可以决定分享哪些信息，所有操作都只会在获得你明确许可后执行。\n\n此应用仅用于个人记录和整理，不提供医疗建议、诊断或治疗建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6952b88e296c81918d9b956c88ae19d2",
+    "name": "Heepsy Influencer Search",
+    "sourceHash": "4a1954535aa0e4ca11557a1bd5ac2b672deceb19d7a3cdcfdb55244eed8ba5b3",
+    "summary": "即时搜索网红创作者",
+    "description": "直接在 ChatGPT 中搜索 Instagram、YouTube 和 TikTok 网红。按类别、地点、粉丝数和互动率筛选，为营销活动找到合适的创作者。由 Heepsy 数百万网红资料组成的数据库提供支持。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b9f38bfa248191877ad584f5608b92",
+    "name": "Helium 10",
+    "sourceHash": "35db445ddc313346171ee9239571a9923330583a9d918e006736c2f03f48ec41",
+    "summary": "访问你的 Helium 10 数据",
+    "description": "Amazon 卖家和 FBA 品牌可直接在 ChatGPT 中访问 Helium 10 数据。查询关键词和 ASIN 数据、分析 PPC 广告活动表现及盈利能力，并从商品列表和排名追踪中提取洞察。\n\n无需在控制面板之间切换或导出文件，即可将 Helium 10 融入 ChatGPT 工作流程。专为拥有真实 Product Research、Ads 和 Commerce 账号数据的活跃电商品牌打造。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3ae6a8dcb88191a1fcb538772cfbea",
+    "name": "HelloFresh",
+    "sourceHash": "79092e62e73fd364128afe11eacdf15c2c6c7da7afcbb7fc0d6b98a1f96db3ee",
+    "summary": "浏览每周菜单和食谱",
+    "description": "此应用将 HelloFresh 每周套餐菜单作为互动卡片直接带入 ChatGPT，无需离开对话。用日常语言询问总用时、卡路里、蛋白质、碳水化合物或特定食材等条件的餐点，应用会实时筛选每周更新的菜单。你还可以排除不想吃的食材，例如蘑菇或猪肉。浏览当前或即将推出的周菜单，点按任意食谱卡查看完整详情，或探索 HelloFresh 完整目录中 50+ 种菜系的 2,500+ 道食谱。菜单每周更新，因此你看到的始终是当前确实可以订购的菜品。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f076da6cb881918619a90d11852785",
+    "name": "HelloSafe Travel Insurance",
+    "sourceHash": "f22f46bb6a90f1125e20b7bdacb40bb9eea0dc0e49be0f00deeaea7ddf76609d",
+    "summary": "比较旅行保险",
+    "description": "HelloSafe Travel Insurance Comparator 可在 ChatGPT 对话中帮助你查找并比较持牌保险提供商的旅行保险计划。\n输入目的地、旅行日期和旅客信息，即可获得个性化报价，并并排查看保障信息。\n此应用支持多个国家、语言和货币，方便你从不同出发地比较选项。\n无论你需要医疗保障、符合申根签证要求的保险、行程取消保障，还是年度多次旅行计划，HelloSafe 都能帮助你快速找到合适的选项。\n之后可前往 HelloSafe 网站查看完整详情、调整选择并完成购买。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a01ab92a89881919b46e570b5fa48ac",
+    "name": "Hellowork",
+    "sourceHash": "c1724811a222e172685bf69032ef31a075284075334c416af3703f93590022ea",
+    "summary": "搜索法国招聘信息",
+    "description": "Grâce à l’application Hellowork pour ChatGPT, trouvez rapidement et facilement un emploi près de chez vous.\n\nChaque jour, 8 000 candidats trouvent un nouvel emploi grâce à Hellowork. De nombreuses offres sont publiées chaque mois partout en France et dans tous les secteurs. Que vous recherchiez un CDI, un CDD, une alternance, un stage ou une mission d’intérim, Hellowork vous accompagne à chaque étape pour trouver un emploi adapté à votre profil.\n\nAvec l’application Hellowork pour ChatGPT, vous pouvez :\n- Rechercher des offres selon le métier et la localité de votre choix\n- Affiner votre recherche par type de contrat, salaire ou possibilité de télétravail\n- Consulter les offres qui vous correspondent et demander des précisions directement dans le chat\n- Cliquer sur « Voir l'offre » pour postuler directement sur Hellowork",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6085d57098819184dcf8e2ba5cf40d",
+    "name": "Hemelion",
+    "sourceHash": "283a5c55ff03dfcbb25c61cbe7f13821127d18a3f0f580895ee91c5d09169582",
+    "summary": "梳理决策与行为模式",
+    "description": "Hemelion Decision Tools 为 ChatGPT 提供两种反思路径：Clarity 用于梳理复杂且不受监管的决策；MindScan 用于观察反复出现的应对模式，不提供诊断，也不贴固定人格标签。它可以选择适当路径，根据四项明确评分评估决策准备度，并解释 Hemelion 的公开方法、安全措施和证据边界。工具免费、无需账号，也不会访问私人扫描结果或报告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a477049f9d881918e287f264a10c175",
+    "name": "HepaPal",
+    "sourceHash": "600a7d9c4ee4edf8c91a880a407e2845e1e6dcbdc3535d6084f80b2ec2703de7",
+    "summary": "温和记录饮酒习惯",
+    "description": "HepaPal 是一款温和的饮酒习惯追踪工具，配有名为 Heppa 的迷你肝脏伙伴。它帮助用户简单记录无饮酒日、饮酒日，以及想喝酒但忍住的时刻。用户可在 ChatGPT 中查看简洁卡片、每周节奏、日历式摘要和基本个人设置。\n\nHepaPal 不是医疗应用，不是戒酒治疗工具，也不提供诊断或健康风险评估。它旨在帮助用户以不带评判、低压力的方式留意自己的饮酒规律。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6981e59048848191be52e8fa2c36ca60",
+    "name": "hepsiemlak",
+    "sourceHash": "eaa5556c27428d6c2a33620693b7767934f3b114d2a24fcc6b0869025961239e",
+    "summary": "轻松找到理想住所",
+    "description": "直接通过 ChatGPT 搜索土耳其各地的房地产房源。hepsiemlak 将土耳其领先房地产平台上数十万套待售和出租房源带到你面前，包括公寓、独栋住宅、商业地产和土地。\n\n只需输入 **@hepsiemlak**，用日常语言描述需求：例如在 Beşiktaş 寻找 2+1 出租公寓、在 Bodrum 寻找海景别墅，或寻找符合特定预算的办公场所。应用会在互动地图上用图钉标出符合条件的房源，并在列表中展示价格、面积、房间数、楼层和楼龄等关键信息。\n\n点按房源即可查看照片和详细信息。找到心仪房产后，点击“查看全部特色”按钮，前往 hepsiemlak.com 或 Hepsiemlak 移动应用继续浏览并直接联系发布者。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8df1b568f08191af42b4e26e012044",
+    "name": "Heptabase",
+    "sourceHash": "219122b21c630b06299d502e182b420496023ca72c1cf41296f450f6ae357532",
+    "summary": "搜索并更新笔记",
+    "description": "将 ChatGPT 连接到你的 Heptabase 知识库。搜索并阅读卡片、日志、PDF、标签、数据库和白板；在互动阅读器中查看选定卡片；创建和编辑笔记、更新属性，并将已有对象放置到白板上。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69bdb40ef5688191ab84b669476f3572",
+    "name": "Here Comes The Guide",
+    "sourceHash": "cdaf701d5783c09007c5340093dc72bf06b14c2865b50ca00c2c47a5d595bebe",
+    "summary": "寻找梦想中的婚礼场地",
+    "description": "直接在 ChatGPT 中浏览 Here Comes The Guide 的婚礼场地房源。按首选地点查找场地，并按宾客容量、价格参考、场地风格等条件筛选。查看场地介绍、照片和房源链接等详情，收藏心仪场地，并通过电子邮件向场地方咨询，全程无需离开 ChatGPT。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a58cedb3f008191afee175c2a2e7937",
+    "name": "Hero by Vivun",
+    "sourceHash": "e1bce6bd5c23d67a68315de6f7aae28305bf855bfd1c4447c07b2e1175ee8442",
+    "summary": "搜索通话、笔记与交易",
+    "description": "认识你的 AI 销售队友 Hero。Hero 可以加入通话、撰写跟进内容、研究客户账户并帮助推进每笔交易。此连接器向 ChatGPT 提供对 Hero 数据的只读访问，让你在方便的工作环境中获取 Hero 洞察。\n\n通过 ChatGPT 中的 Hero 连接器，你可以：\n• 按关键词、含义、日期范围或工作区搜索会议转录文本，并获取带逐位发言内容的完整转录。\n• 查找并阅读 Hero 生成的内容，例如通话摘要、客户账户研究、已保存笔记和上传文件。\n• 浏览并重新查看 Hero 对话线程。\n• 获取工作区（客户账户和交易）列表，以限定工作范围。\n\n示例提示：\n•“总结我本月与 Acme 的通话，并起草一封跟进邮件。”\n•“昨天与 Hooli 的演示中出现了哪些异议？”\n•“调出 Hero 为 Globex 撰写的客户研究，并整理成单页概览。”\n•“找出本季度所有提到定价的通话。”\n\n安全与隐私：\n• 使用安全的 OAuth 登录：无需管理密码或 API 密钥。\n• 严格只读：ChatGPT 可以检索 Hero 数据，但不能创建、修改或删除任何内容。\n• 仅限本人账号范围：ChatGPT 只能查看你在 Hero 中已有权限访问的数据。\n• 需要 Hero 账号：请访问 meethero.ai 开始使用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3ca55bb5f481919748072641d45853",
+    "name": "Hertz Car Rental",
+    "sourceHash": "1a703307ef95e1e04f135c475abcdc6376d6fc8977992885b5a3d86f2d581887",
+    "summary": "预订下一次 Hertz 租车",
+    "description": "在 ChatGPT 中查找并预订 Hertz 租车。提供取车地点、出行日期和车辆需求，Hertz 应用便会显示符合行程的可用车辆。\n\n比较选项、选择可用附加服务，并在 Hertz.com 上安全完成预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a47ca602a648191b777ecea734e4b9d",
+    "name": "Hevy",
+    "sourceHash": "78bc7f3d10a1ccdacc1818f81480a5b026d82949e97d26b0ca0643c8fcd65df6",
+    "summary": "与你的 Hevy 数据互动",
+    "description": "Hevy 的 ChatGPT 应用可帮助你制定锻炼计划，并直接保存到 Hevy 账号。你也可以分析锻炼数据（例如：“@hevy，给我制定一个为这个夏天练壮的每周 4 天分化训练计划”；“@hevy，根据我过去 20 次锻炼，你有什么改进建议？”）。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69418aad55e08191aa5e437b649ca2e4",
+    "name": "HeyGen",
+    "sourceHash": "b5fbe64add6751617f5d78af12197c300281bf5e8b285669c1aaf7bb9d3f0fa0",
+    "summary": "创建 AI 视频和虚拟形象",
+    "description": "HeyGen 可帮助用户直接通过 ChatGPT 创建和管理 AI 视频、虚拟形象、声音、翻译、模板、品牌素材及相关媒体内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a033a6b479881919607ad7932d4816d",
+    "name": "Heymondo",
+    "sourceHash": "5a4aa312aaea78bc9654d8b1fc4baa68c09e1aa2c077d6186810ae971af36e59",
+    "summary": "获取旅行保险报价",
+    "description": "Heymondo 帮助你找到合适的旅行保险并即时获取报价，让你在规划下一次冒险时轻松计算价格。\n- 旅行保险价格：直接在 ChatGPT 中几秒钟内获取报价并计算保单费用。\n- 全球目的地：保障范围涵盖欧洲、英国、墨西哥、日本、加拿大、印度等地区。\n- 根据你的需求量身定制计划。\n- 直接预订：在此聊天中获取报价，然后点击访问我们的网站，完成国际旅行保险的投保。\n\nHeymondo 将处理你的个人数据，以便启用应用、提供功能并处理旅行保险相关咨询。某些功能可能依赖技术服务提供商（包括人工智能服务），这些服务仅会处理你输入的信息，以提供所请求的功能。你可以通过 hello@heymondo.com 行使相关权利，并查阅隐私政策中的完整信息。网站：https://heymondo.com",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0320f532b48191aa2a5d57ea995767",
+    "name": "Heywa",
+    "sourceHash": "0d818b72c62615476958903990f517d2e91d8364df44b941360374afcb108224",
+    "summary": "将回答转化为图像",
+    "description": "将 ChatGPT 的文字回答转化为视觉故事。\n\n想用不同方式回顾 ChatGPT 提供的信息吗？Heywa 会将回答转化为可互动、可点按的故事，适用于快速决策、获取灵感或深入了解主题。\n\n让 Heywa 将任意 ChatGPT 回答可视化为清晰的视觉形式，帮助你更快决策、发现和探索。\n\n可以尝试这样的提示：\n* @Heywa，可以把这个比较可视化吗？\n* @Heywa，把这个内容变成一个可以分享的视觉故事。\n* 用视觉方式展示这些礼物选项 @Heywa。\n* 我想用可视化方式梳理这个决定 @Heywa。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9068c5f5a88191a863b3ba6816a12b",
+    "name": "HeyYumi",
+    "sourceHash": "681ccf180b40619fddaf2e50853a7bcc516da53713341910e8ad52cf73d9b81f",
+    "summary": "查找并预订韩国餐厅",
+    "description": "HeyYumi 帮助你在韩国查找用餐、饮酒或休闲去处，包括餐厅、咖啡馆、面包店、甜品店和酒吧，并可在聊天中直接预订餐桌。所有地点均来自 Yumi 自有的精选交叉验证数据库（超过 346,000+ 家，首尔、京畿道、釜山和济州覆盖最丰富）；每条数据都附有置信度评分和最近核验日期，让回答有据可依，而不是凭空猜测。可按 40+ 种餐饮属性筛选结果，例如街区/车站/地标、菜系、价格、氛围、停车、是否允许宠物、包间、纯素选项、是否有英语服务人员、当前是否营业等。在 Yumi 合作场所，你可以直接在 ChatGPT 中向店主发送真实的预约请求，并收到确认或拒绝回复。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a994cc6cb54819188bb2204632c7f89",
+    "name": "Heyzine Flipbooks",
+    "sourceHash": "d36be95e7eff5d729c931220ecfe0d3b7c19927b2d0de27da9ee5a4fc555d931",
+    "summary": "发布互动式翻页书",
+    "description": "Heyzine Flipbooks 可帮助用户通过 ChatGPT 将文档转换为在线互动式翻页书、管理出版物和书架、搜索页面文本、配置访问权限并生成嵌入代码。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa1543a3d908191acc3e62f9bf4e057",
+    "name": "HFS Research",
+    "sourceHash": "35fe48dd72e176d8ba284e338fc7a793d5e89f862f45c3fa3462b026b0d0e141",
+    "summary": "搜索 HFS Research 网站",
+    "description": "将 HFS Research 的知识与研究资料库带入你的 AI 助手。此连接器让已认证的 HFS Research 会员通过对话访问已发布内容，包括研究报告、博客、播客、视频播客和简讯。你可以提问并获取直接基于 HFS 分析且附有引用的回答。\n你可以：搜索所有内容（语义搜索会返回最相关段落及来源报告、作者、日期和链接）；按类型筛选（研究、博客、播客、视频播客或简讯）；浏览最新内容；按主题或作者查找；并通过引用打开特定项目。\n此连接器为只读，只会检索并引用 HFS 内容，不会发布、编辑或删除任何内容。访问需要符合资格的 HFS Research 会员身份；使用 HFS 账号登录，结果会遵循你的访问权限。每个回答都会链接回 HFS Research 网站，供你阅读完整报告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694638aebbec8191a888262fa0ea8561",
+    "name": "HG Insights - RGI",
+    "sourceHash": "1acaba1abd3beef839b451f26466cf2375dbd5f53c6699c12596d348a58a7575",
+    "summary": "销售潜客情报",
+    "description": "HG Insights - Revenue Growth Intelligence 为销售团队即时提供全面的潜客数据。\n查询任何公司的技术栈、公司基本信息、决策者联系人、IT 支出洞察和合同情报。\n只需按公司名称或域名提问，即可获取由 HG Insights 数据支持、可用于行动的销售情报。\n需要 HG Insights 的 RGI Developers 或 RGI Agents 账号。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa95c3626508191a8a262e31f60aa7e",
+    "name": "HighQ",
+    "sourceHash": "95405e62bc8508a057b9c315454f67c85f8efd065c99e86a4b1cb7dfba77a37d",
+    "summary": "搜索案件数据",
+    "description": "将 ChatGPT 连接到团队在 HighQ 中管理的案件。可从文件、文件夹和 iSheets 获取数据，无论是案件追踪表、尽职调查审查、客户文档还是合同登记册，都能将法律案件背景无缝融入 ChatGPT 工作流。管理员还可以查看各站点和 iSheets 的审计历史。访问权限为只读，并始终遵循你现有的 HighQ 权限。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab419e8f6e88191a8f2fb6879c33c97",
+    "name": "Hill Monitor",
+    "sourceHash": "ea4c81e81b2b8439a262ed918061aa7c987e5acfe1ff3d3d27d31eae474b8ddb",
+    "summary": "搜索议会信息并管理提醒",
+    "description": "Hill Monitor 可回答有关加拿大议会的问题。它会搜索众议院和参议院记录、质询时间、委员会日程、Canada Gazette、政府新闻、新闻发布会、法案、议事日程、枢密令、议员和参议员帖子，以及部长办公室工作人员信息。登录用户可以查看短语提醒列表、查看近期命中情况并创建新提醒。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69efa581fa3481919d8813a90e91c03e",
+    "name": "Hilton Hotel Search",
+    "sourceHash": "0a31e9776ff30a58ab39580044b35771f7a87262645a32a8199175bb2042f65a",
+    "summary": "查找 Hilton 酒店",
+    "description": "Hilton Hotel Search 帮助用户按地点查找 Hilton 酒店、比较住宿价格，并在继续前往 Hilton 预订流程之前查看酒店详情。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a326efb9af88191b61ad98de64cb855",
+    "name": "Historial de Vehiculos España",
+    "sourceHash": "107c503361fb22799f5a1c321b56f9e6be0fa22ab91bd477e0bbe636f1296120",
+    "summary": "按车牌查询西班牙车辆数据",
+    "description": "根据车牌免费查询任何在西班牙登记车辆的基本数据：品牌、车型、年份、燃料、车辆类型、排量和功率。数据来自官方来源。如果需要完整报告（ITV 年检历史、里程、车主、抵押或其他负担、市场估值、盗抢和损坏记录），应用会直接链接到 analytics.transferautoonline.com 上的付费高级报告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a873f48a4b8819195d7c53209f0ddf3",
+    "name": "Hive",
+    "sourceHash": "2103b0bfba9bf91261688c277f00b54b42b2c97245e3e80768b5d3090a9f0264",
+    "summary": "在 ChatGPT 中管理工作",
+    "description": "Hive 帮助用户管理项目、行动事项、文件、消息、CRM 记录、营销活动、时间追踪、仪表板和工作区自动化。它还可以使用已配置的集成，例如 Salesforce、电子邮件、日历、QuickBooks、MCP 服务器和 HTTP 连接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c3058914bc81919b807c176a7c106c",
+    "name": "Hjarni Notes",
+    "sourceHash": "5fc894ea9d8bcd1bd75404578b18c1e6b8a33e9f2b703326770064a3d3bceae2",
+    "summary": "你的笔记，就是 AI 的记忆",
+    "description": "Hjarni 是 AI 真正可以使用的知识库。\n\n用 Markdown 编写笔记，并按文件夹和标签整理。ChatGPT 可通过内置 MCP 服务器直接读取笔记。无需插件，也不用在每次对话中重复粘贴相同背景。\n\nChatGPT 每次对话都从零开始。连接一次 Hjarni，它就无需反复询问。你可以跨所有笔记提问，让 ChatGPT 按你的要求撰写新笔记、更新旧笔记并添加标签。\n\n为每个文件夹设置指令，控制 ChatGPT 如何撰写、格式化和标记内容。与团队共享文件夹，让每个人的 AI 使用同一知识库。一次调用即可搜索所有内容。\n\n基于与 Claude 相同的开放 MCP 标准构建，因此你的知识库不会被锁定在某一个助手中。\n\n可将它用作第二大脑、项目记忆、研究资料库或团队共享背景。产品就是笔记、文件夹和标签，刻意保持简单。\n\n免费开始，无需信用卡。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4004d3e7508191917a2d64e116f3da",
+    "name": "Hoaster",
+    "sourceHash": "27b254fbe577bb048c6d354aa09d57548ac6016c5f862fa8ea160cc637e5ccb5",
+    "summary": "将网页内容发布到 URL",
+    "description": "立即将你在 ChatGPT 中制作的内容变成真实上线的网页。无论是落地页、单页网站、信息图、图表还是图片，Hoaster 都会为你生成一个真正属于你的公开链接，也可以使用你自己的域名。只需说“发布”，内容就会上线。无需设置、无需代码，也没有附加条件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5e7246954c81918bd8285fd79143d9",
+    "name": "Hockey- Scores+Standings+Stats",
+    "sourceHash": "739ebdb14238ee1a3016a9321890ee80af64e3ce4654b039cacddaf9fb02dda4",
+    "summary": "冰球比分、排名与数据",
+    "description": "无需离开聊天，即可获取 NHL 比分、赛程、排名、球队详情、球员信息和比赛更新。此应用将冰球信息直接带入对话。用日常语言提问，就能获得清晰回答。无需搜索多个网站或打开其他应用，一切都集中一处，让关注 NHL 变得快速简单。\n\n想查今天的比分？直接问即可。想知道今晚有哪些比赛？也可以问。需要最新排名？应用可以显示。你还可以查看球队战绩、球员数据、比赛时间等信息。想知道谁赢了、谁接下来要比赛，或你支持的球队近况如何，只需开口询问。\n\n此应用就像冰球小助手。你可以提出简短或较长的问题，例如“今晚谁比赛？”“Oilers 赢了吗？”“显示东部联盟排名”或“Rangers 下一场什么时候比赛？”应用能理解自然语言，无需学习特殊命令。\n\n关注一支或所有球队，了解常规赛、季后赛和重要比赛。几秒钟内查找赛程、比分和排名。无论你每场比赛都看，还是偶尔关注，信息都触手可及。\n\n球员信息也很容易查询。询问某位球员即可了解所属球队、位置和其他有用详情。比较球员、查看球队对阵，或在比赛开始前查询比赛信息。\n\n比赛进行时想快速了解？询问实时比分。比赛结束后想知道结果？查询最终比分。想展望之后赛程？查看即将进行的比赛和日程。想回顾过去？查看近期结果。整个赛季都能随时掌握动态。\n\n所有操作都在对话中完成，无需在标签页之间切换或翻找多个页面。继续提问即可，就像和一位随时了解 NHL 动态的朋友交谈。\n\n应用设计清晰易用，回答也经过整理，便于阅读。无论你问一个问题还是多个问题，目标都是帮你快速找到冰球信息。\n\n适合资深球迷、新球迷以及正在了解冰球的人。如果你熟悉每位球员，可以深入查询详细信息；如果刚开始观看 NHL，也可以从基础问题开始，边问边学。\n\n可以在上班前、午休时、放学后或睡前查看比分，了解谁在获胜、哪支球队排名上升以及接下来有哪些比赛。无需额外搜索，也能在整个赛季跟踪喜爱的球队。\n\n你可以询问今天或明天的比赛、球队战绩、联盟排名、分区排名、赛程、结果、对阵等。此应用旨在以简单友好的方式帮助你查找冰球信息。\n\n无论你想快速查看比分、获取完整赛程、查看最新排名和球员信息，还是询问日常 NHL 问题，都能在 ChatGPT 的一段对话中集中完成。随时提问、探索，并了解国家冰球联盟的最新动态。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8474a1a9cc81919089dc73c11aab7f",
+    "name": "Holiday Autos",
+    "sourceHash": "d4f170646e99d64d4bb1ba09f27f468766d72ff3c746da2178864d17c4603fa1",
+    "summary": "租车出行，省心探索",
+    "description": "Holiday Autos 让租车变得简单。无论你要去哪里，我们都会帮你找到最合适、价格尽可能优惠的车辆。全球超过 50,000+ 个取车地点均可租车。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7aeed8884c8191b86ac870cc0aff7f",
+    "name": "HOME AI Node",
+    "sourceHash": "fc19b3dff282620f9824794ba776f5e674613280adf01e7d0b985de362a7a37e",
+    "summary": "节点健康状况与任务状态",
+    "description": "HOME AI Node 可让 ChatGPT 检查 HOME AI 节点的健康状况、运行状态和跟踪任务。get_node_status 会报告节点是否在线及其仓库状态；get_runtime_state 会显示运行模式和 MCP 协议；get_task_status 会查询任务进度。在此阶段，服务器使用确定性的合成审查样例（节点 review-demo-node），供审查者在不访问任何专用网络的情况下测试所有工具。连接真实 HOME AI 节点属于后续阶段，并须通过授权用户边界（OAuth）。所有操作都严格只读：此服务器不能写入、执行操作或访问任何专用网络。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69aeca1f4fb081919ca4ac208d305a5a",
+    "name": "Home Connect",
+    "sourceHash": "9c09212b9a3be15ef4b43920d60a0ece7074fd87151d3c4a1395aa3ba7c6bd5c",
+    "summary": "Bosch、Siemens、Gaggenau、NEFF",
+    "description": "Home Connect for ChatGPT 可让你以简单便捷的方式控制 Bosch、Siemens、NEFF、Gaggenau 及其他品牌的家用电器。\n\n充分发挥智能家电的优势。Home Connect 让你以全新方式管理家务，无论何时何地都可以使用。\n\n- 控制并监控厨房和家用电器\n- 更轻松地使用电器——启动和停止设备，选择快速或静音选项",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b9aa9a11508191927cc429a7329c38",
+    "name": "HomeBuddy",
+    "sourceHash": "84e089c560cb5621c25c55a93e2af5e983a6cae1244b08b65456eda61611f2ab",
+    "summary": "规划并估算家装项目费用",
+    "description": "为下一个家装项目做规划，获取真实的费用估算和本地承包商信息。此助手涵盖 27+ 种项目类型，包括屋顶、窗户、\n  外墙板、暖通空调、浴室、排水槽和地基维修。\n\n你可以：\n  - 根据房屋面积、材料和状况等具体信息估算项目费用\n  - 查看邮政编码区域内是否有合格承包商\n  - 查找本地承包商当前的促销和优惠\n  - 回答引导式问题，以明确项目范围并评估项目需求\n  - 通过 Modernize.com 获取经审核承包商的免费报价申请直达链接\n\n无论你是在为更换新屋顶做预算，还是比较浴室改造方案，此助手都能提供所需信息，帮助你放心推进。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8344d3677081919f12c9b8bd82f11d",
+    "name": "HomePins",
+    "sourceHash": "bc0147bf4ae8c0a5cbfa989b3935d41ec27e964eb20e0e0b45f60e568021a593",
+    "summary": "搜索班加罗尔公寓",
+    "description": "搜索班加罗尔 6,800+ 套经 RERA 核实的新楼盘公寓。获取实时价格、交房时间表、开发商历史记录、预订速度以及前往 IT 中心的通勤距离。可直接预约实地看房或申请回电。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f327c9ca948191bedc42cab94fedeb",
+    "name": "HomesNI Property Search",
+    "sourceHash": "c53693a6e377434d8221e723775968acdff1ad09e2980736ff8d67ff26728749",
+    "summary": "查找 HomesNI 房产房源",
+    "description": "HomesNI Property Search 帮助用户直接在 ChatGPT 中查找 HomesNI 房产房源。用户可以按区域、预算、卧室数量、房产类型和关键词，搜索北爱尔兰待售或出租的住房。结果可能包括房源卡片，其中含照片、价格、地址、房产详情以及查看 HomesNI 完整房源的链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fc65b367b08191b794105c2c6c98fc",
+    "name": "HomeToGo",
+    "sourceHash": "84184c8462aaa5a4a7f0f5613f275a37c4ee8cac8ded3720f9f045a1a1607a46",
+    "summary": "查找度假出租房",
+    "description": "发现全球规模最大的度假出租房集合：数百万套精心挑选的房屋、酒店、别墅、小木屋和隐秘度假居所，尽在一处。从周末短途游到为期一个月的假期，每次住宿都经过精选，旨在带来难忘体验。无论你想找精品度假居所、地道的本地体验，还是下一处旅途中的家，都能即刻找到。数百万种住宿选择，一次顺畅搜索，无限旅行可能。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6946bbc90ca4819188f817f992348b98",
+    "name": "Homey",
+    "sourceHash": "6df35a41c1887597e6d96698e20d39db52c674c97c57ac44c70323612f529d87",
+    "summary": "打造更智能的家居体验",
+    "description": "将 Homey Cloud、Homey Pro (mini) 和 Homey Self-Hosted Server 连接到 ChatGPT，以控制设备、创建 Flows 并启动 Moods。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a393d3efbc48191a1b0917410063361",
+    "name": "HookRadar",
+    "sourceHash": "af5b5ff1d34718d58dfc393117573dcc03923a04e4022a712d54e48d45905f80",
+    "summary": "社交媒体与广告创意研究",
+    "description": "HookRadar 帮助用户研究竞争对手的付费广告和自然创意趋势、分析吸引点和行动号召（CTA）、比较创意热度，并根据 HookRadar 数据准备创意情报报告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8be6fcc3c88191af080d3ce33e862d",
+    "name": "HopeGoo",
+    "sourceHash": "ae1e2848f8868bbe363dc197f237a12510132c730515115e8181958cca8242cb",
+    "summary": "通过 HopeGoo 查找酒店",
+    "description": "HopeGoo 官方酒店搜索工具。用自然语言描述旅行需求，即可获取推荐酒店、价格、评分及指向 HopeGoo 详情页的直达链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a261701cf6c81918e4239980517ff3b",
+    "name": "HORIZON SHIELD",
+    "sourceHash": "63175eb6ab067038750d8d829c07296692cf6628ad4fa020546fab502c2f39fd",
+    "summary": "核查日本装修报价",
+    "description": "HORIZON SHIELD 可检查日本的建筑或装修报价是否合理。提供工程类型和报价后，它会将金额与依据 30 年现场施工经验整理的合理价格区间进行比较，提示过度收费风险并解释单价。它还会识别常见的高压销售话术。数据由 JCCDB 提供支持，这是一个开放的建筑成本数据集，包含 63 个类别的 65,729 项数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a883a1b6304819183119318c80ea3b4",
+    "name": "Hoseasons",
+    "sourceHash": "4edc758ae27d73e2993c42af1b57e669690130456d11f61bdc545b31f319f5ba",
+    "summary": "探索英国度假公园",
+    "description": "通过 Hoseasons 查找英国度假公园住宿。按目的地、抵达日期、同行人数、卧室数量和预算搜索，并可筛选适合宠物入住、带私人热水浴缸和 Wi‑Fi 的住宿。比较符合条件的公园和住宿类型，然后前往 Hoseasons 查看详情并预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698ae2bbd3e08191ace34d672e1d583e",
+    "name": "Hostinger AI Builder",
+    "sourceHash": "2198a071f259f281da1f7854a831d11fde6e4a48f11c837a2bc3fb4bbd4b5214",
+    "summary": "通过聊天创建网站",
+    "description": "只需描述想要的内容，Hostinger AI Builder 就能帮你构建真正的网站和应用。专为没有技术背景的人设计，几分钟内即可把想法变成可用产品。满意后，一键即可立即上线。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a323a8a890c819190480c9044395170",
+    "name": "Hostinger Mail",
+    "sourceHash": "91ca813f12da62b30f7b13fe1c4ac3d1eab057af11dfc4f72801cc0f3c2bf200",
+    "summary": "使用 Hostinger Mail",
+    "description": "通过 ChatGPT，用户可以在经过身份验证的 Hostinger Mail 账号中查找邮箱操作、检查邮箱和文件夹、阅读或搜索邮件、发送电子邮件，以及管理邮件或 webhook 状态。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a83ea254a6881918c646f28616d20dc",
+    "name": "HOT AI搜車",
+    "sourceHash": "7b8c2f948fb07fad62cb87d80799b3d876528b6239d877b21fa62f5c3955c330",
+    "summary": "搜索并比较公开在售二手车",
+    "description": "HOT AI搜车可协助用户根据品牌、车型、预算、年份、里程、车身类型、燃料种类、座位数、保修条件和车商所在地，搜索并比较当前公开在售的二手车。搜索结果来自 HOT 大联盟的第一方公开库存；此工具不提供二手车估价、市场行情判断、预约、交易或联系车商功能。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694ead37fc2881918277eca652966805",
+    "name": "Hot100.ai",
+    "sourceHash": "957eecaa7380bfcfb8386537764633d611960d825bd5db5af4b87b632152cfc1",
+    "summary": "每周 AI 项目榜单",
+    "description": "Hot100 可让你搜索和浏览数百个 AI 项目、工具和智能体。每周排名，并按技术栈、使用场景以及 Cursor 和 Replit 等构建工具打标签。寻找灵感、了解正在发布的产品，并紧跟 AI 生态动态。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a01b173694081918b9aa255fad484e4",
+    "name": "Hotel Emperador Madrid",
+    "sourceHash": "0cacf192dcd9a7de9cd1b7c3ccef4cb38c0f9d2260439512b2a23ea30c5a7253",
+    "summary": "酒店信息与预订",
+    "description": "Hotel Emperador Madrid Assistant 可帮助宾客通过聊天查找酒店信息并完成常见预订事务。\n用户可以询问 Hotel Emperador Madrid 的客房、设施、酒店服务、政策以及入住和退房时间。助手还可以查询客房空房情况并列出可选房间附加服务。\n如果宾客已有预订，提供所需预订信息后，助手可以检索预订详情，并帮助修改或取消现有预订。\n宾客需要帮助时，助手也可协助创建新预订并向酒店发送支持请求。\n你可以这样提问：\n“Hotel Emperador Madrid 的入住时间是几点？”\n“下周末有空房吗？”\n“显示可订房型。”\n“修改我的预订日期。”\n“取消我的预订。”\n“联系酒店，协助处理我的预订。”\n\n注意：某些预订操作可能需要提供预订代码或宾客信息等预订详情。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69eeea4b731c8191b63e4bd6ee5c7322",
+    "name": "Hotel Liabeny",
+    "sourceHash": "fa8bc5e379c0ba08455b4df39a2c7fac0e42cddad31d66f795182a52a5b27e58",
+    "summary": "酒店信息与预订",
+    "description": "Hotel Liabeny Assistant 可帮助宾客通过聊天查找酒店信息并完成常见预订事务。\n用户可以询问 Hotel Liabeny 的客房、设施、酒店服务、政策以及入住和退房时间。助手还可以查询客房空房情况并列出可选房间附加服务。\n如果宾客已有预订，提供所需预订信息后，助手可以检索预订详情，并帮助修改或取消现有预订。\n宾客需要帮助时，助手也可协助创建新预订并向酒店发送支持请求。\n你可以这样提问：\n“Hotel Liabeny 的入住时间是几点？”\n“下周末有空房吗？”\n“显示可订房型。”\n“修改我的预订日期。”\n“取消我的预订。”\n“联系酒店，协助处理我的预订。”\n\n注意：某些预订操作可能需要提供预订代码或宾客信息等预订详情。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6977107a296c8191bcd9164998ba5a19",
+    "name": "Hotel Moderno",
+    "sourceHash": "baafe1d08938b433eae7ca1a14e55ef552296cafa28e7540f000faa4ab93a4ab",
+    "summary": "酒店信息与预订",
+    "description": "Hotel Moderno 可通过 ChatGPT 帮助宾客咨询酒店政策、客房、设施、空房情况、可选附加服务、创建预订、修改预订、取消预订、提交支持请求以及为对话评分。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fa4b9f4f508191b9756c7df69a0624",
+    "name": "HOTEL ROMA MCP",
+    "sourceHash": "0c923029ef963f742193c4209bf542618918562b12b68ec82bc49a35ddeed377",
+    "summary": "查询 HR Palmanova 酒店空房",
+    "description": "直接查询意大利联合国教科文组织世界遗产城市 Palmanova 的 3 星级 Hotel Roma 实时空房并预订客房。保证最优价格——无需 OTA 佣金，由 AIVY AUTOMATIONS 运营。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69dd13dc49808191a25222005c9d7544",
+    "name": "Hotels Booking",
+    "sourceHash": "88998b82d3a1b3a7210d77497558decbcf0c05abea823a41a4fb4279a0f2342c",
+    "summary": "预订酒店住宿",
+    "description": "Hotels Booking 帮助用户查找已配置的酒店、创建私人预订会话、搜索客房和附加服务、管理预订购物篮、查看报价，并通过 ChatGPT 提交宾客联系信息以完成酒店预订。",
+    "model": "codex-subagent-reviewed"
+  }
+]
