@@ -1,0 +1,626 @@
+[
+  {
+    "id": "plugin_asdk_app_6a58364e0e20819181ce0dfa0afdea59",
+    "name": "Vital Care Finder",
+    "sourceHash": "67750430256977edb91901a2aeb942562b001405adb9591959b74fad16e91ca7",
+    "summary": "在美国查找医生",
+    "description": "Vital Care Finder 帮助用户在美国各地寻找初级保健和专科医疗服务。描述医生类型或医疗问题，提供 ZIP 邮编或城市和州，还可选择添加保险公司或保险计划以筛选结果。\n\n按距离、评分、临床专长、保险匹配情况、相对费用指标、经验和地点信息比较附近的医疗服务提供者。打开提供者个人资料、在地图上查看地点，并直接致电诊所。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8453c8c2a081918cba8de3ee822d5b",
+    "name": "Vitamarinaweb",
+    "sourceHash": "c1eb7bada7edae404d7b895cc015d8018f721e26a8c47738637485378ee76e23",
+    "summary": "搜索海洋物种",
+    "description": "按学名或常用名搜索 VitaMarinaWeb 海洋图谱。查找公开的物种条目和最新海洋文章。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa6b41727648191a996159da3af5e9e",
+    "name": "Vitark",
+    "sourceHash": "e31a593312d7384d381c3c0acac00276cbad096ea7bc35f230cae9e3cad3dce4",
+    "summary": "检索印度法律及出处",
+    "description": "Vitark 将 ChatGPT 连接到印度判例法和成文法研究，并以来源记录为依据。搜索最高法院和高等法院判决，以及可用的法庭和监管机构决定；可按案件名称、案号、中性引证或 CNR 查找案件；检索可用的判决文本；并查询法条。\n\n探索类似案件、与实体关联的案件以及可用的引证链接。结果会包含可用的来源标识符和检索限制。判决文本可能分段返回；引证链接也可能只是尚未核实后续处理情况的候选链接。依赖结果前请核对原文。\n\n通过安全登录连接你现有的 Vitark 账户。成功执行的实质性研究调用会消耗账户额度；查询余额免费。Vitark 提供法律研究信息，不能替代合格律师的建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6949b040fc98819180163e512d3bc878",
+    "name": "Vivid Seats",
+    "sourceHash": "5d5c9afda8869362198b708f21cda12c961a8e427da2edc9d24706b409cd361e",
+    "summary": "选购现场活动门票",
+    "description": "几秒钟内查找数百万场演唱会、体育赛事、喜剧、戏剧和其他现场活动的门票。\n\n我们能提供哪些帮助：\n\n浏览活动 - 查找你附近（或任何城市）正在举办的演出或比赛。轻松安排完美的夜晚，或和朋友一起度过周末比赛日（例如：“这个周末有哪些演出？”）\n\n查找门票 - 查看可购买的门票、价格、座位信息和座位视野。在预算范围内找到视野理想的座位。（例如：“100 美元以下哪些座位最好？”）\n\n使用 Vivid Seats 应用获取以下常见活动问题的答案，以及更多信息：\n- 我附近有哪些演出或活动？\n- 我准备观看的演出，哪些门票最好？\n- 某位表演者或喜剧演员有哪些巡演日期？\n\n使用 Vivid Seats 应用，寻找下一场现场体验。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69451735a80481919890f5fb12ca9ac6",
+    "name": "Vivin",
+    "sourceHash": "1fe832e92ed388f1ea50fb0699fbfaa93697ba1ae1591bb5f75d83b40436fcc4",
+    "summary": "让 ChatGPT 显示出生动表情",
+    "description": "Vivin 为你的 ChatGPT 对话添加一个视觉伙伴。它会在对话过程中显示表情，以配合消息的交流节奏。使用画中画功能，在工作或学习时也能让它保持可见。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aac98a1d53481919ff505ead57b6f57",
+    "name": "Vivu",
+    "sourceHash": "1eef22e129f73ba8743271df5abb388383118c1b54f4dca115d55a1e7f8e7083",
+    "summary": "搜索和管理视频",
+    "description": "搜索已编入索引的视频库，定位准确片段，打开可播放预览，概述视频，并通过 ChatGPT 管理项目和上传内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b4222b08148191a1473ac4c9170ad9",
+    "name": "VIXNODE",
+    "sourceHash": "52353c9e7dc54a4c6deedff3f0b438d2da15c83796c5fa255314a019bd7ce8bf",
+    "summary": "用 AI 创建网站",
+    "description": "VIXNODE 帮助你使用 AI 创建、编辑、预览和发布网站。通过你的 VIXNODE 账户管理项目和页面、生成或更新内容、查看 SEO 设置，并在线发布更改。支持适配不同设备的单页和多页网站。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa136938ca08191808d78bef2e7a887",
+    "name": "Vlak",
+    "sourceHash": "fab3fe50b66eb7f41a641d90e2a5ff9a0c08e4f121adf932883b9239a5da6e98",
+    "summary": "构建无障碍界面",
+    "description": "搜索 Vlak 组件目录，查看准确的 React 属性和无障碍指南，并获取已验证的安装说明，涵盖软件包、CLI、shadcn registry 或纯 CSS 用法。Vlak 仅提供只读访问，不会修改项目或外部服务。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a77304b6f9c819180a1c70a6e6b5875",
+    "name": "Vocabden",
+    "sourceHash": "aafc33a5d1c6af0352b264c1b0f6a8f33d290f20fdd9f13ad8a5648b89335466",
+    "summary": "记住你正在学习的内容",
+    "description": "Vocabden 是你在 ChatGPT 中的语言学习记忆工具。连接账户后，ChatGPT 就能了解你实际在学什么——已保存的单词、你的水平以及待复习内容——而不是每次对话都从零开始。\n\n它可以：\n- 查询任意单词或短语，并提供释义和句子层面的分析\n- 保存你聊天时遇到的新单词\n- 检查你已经认识一段文本中的多少词，让 ChatGPT 选择符合你水平的材料\n- 调出到期该复习的单词，直接在聊天中复习\n- 记录复习结果，让间隔重复计划保持准确\n\nVocabden 专注于英语和德语词汇，并用你自己的语言进行讲解。你需要已有的 Vocabden 账户（也可以免费创建）；访客会话无法连接。此应用无法读取你的其他 ChatGPT 对话，也不能更改账户设置。你可以随时在 Vocabden 个人资料中断开连接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d5bda8e2948191abfc240232fe1cac",
+    "name": "Vocabulary Trainer Shchebitka",
+    "sourceHash": "b3e3340519c8ae9230e225267f11cafac292236a07d02040cd218ecb695fb3df",
+    "summary": "借助 AI 学习词汇",
+    "description": "结合真实生活语境保存单词，再通过自然对话学习。你的词汇表会跨会话保留，因此可以随时接着上次的进度继续学习。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a397893291481918adcefadf6d9ae1c",
+    "name": "Vocci",
+    "sourceHash": "4b56aa81c688cbefc5cc6017259e1449da0523a95033ccddb54dda816c164d03",
+    "summary": "访问 Vocci AI Ring",
+    "description": "Vocci 将你的语音记忆带入 ChatGPT。连接 Vocci 账户后，可搜索 ring 录音、转录文本、AI 摘要、笔记和文件，并将捕捉到的对话转化为有用成果。你可以让 ChatGPT 帮你准备会议、总结近期会话、查找决策和后续事项、从转录中找回细节、创建每周摘要，或将语音备忘录整理成产品简介。Vocci 只读取完成请求所需的上下文，并返回简洁且注明来源的结果。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a86b5e7683c81918848cb55aaa3ed92",
+    "name": "Vocuno",
+    "sourceHash": "8f57ae0b5d18ebc73792d3fbe298ded92ac51e431303273dd8d9cc956b09cd51",
+    "summary": "创作和编辑 AI 音乐",
+    "description": "根据提示词或你自己的歌词创作原创歌曲，并在 ChatGPT 中处理音频。Vocuno 可剪辑、混音、母带处理、分离音轨、清理录音、转换人声和文件格式、检测节奏，并扩展歌曲。它会连接你现有的 Vocuno 账户，让生成和处理后的音频保存在你的资料库中。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a07e9977c448191aca6c3a395d65bd1",
+    "name": "VoiceBit",
+    "sourceHash": "93e319aeb8afb6b74443091c00392766004c3c88c28cd6fd59cb7a7a27a0e05e",
+    "summary": "从本地商家订购美食",
+    "description": "此应用可帮助用户在 VoiceBit 平台上查找并订购当地餐厅提供的心仪美食。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a828957773081918f27a9987cf74d63",
+    "name": "VoiceCursor Dictionary",
+    "sourceHash": "7c21268d7ae1206e9ced0abfbfd387772835697615cc44c4a4d7531ecbc45f0d",
+    "summary": "管理个人词典",
+    "description": "查看并安全管理 VoiceCursor 词典中的手动添加词条和文本替换，适用于 macOS、iOS 和 Android。执行更改前会明确征求确认。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7ae345f2dc8191bd52864d8358632a",
+    "name": "VoiceLabs",
+    "sourceHash": "b438103833030b6b88be5b6ea7eaa93805acba24cd477f8cf6f92371d4e0771f",
+    "summary": "文本转语音和转录",
+    "description": "VoiceLabs 是一款基于浏览器的语音工作室，可进行文本转语音和语音转录。VoiceLabs 插件让 ChatGPT 直接使用你的语音资料库：列出账户中的语音配置文件、在缺少内置预设音色时进行配置、根据文本生成语音、将音频片段转录为文本、浏览已保存的录音，并查看先前启动的生成任务状态。\n\n访问权限通过 OAuth 2.1 授予，授权页面会明确显示你批准的权限范围：voice:read 用于浏览资料库，voice:generate 用于生成语音和转录内容。你可以随时在 VoiceLabs 应用的 Connected Apps 中撤销连接，这会使已存储的授权和所有有效访问令牌失效。此功能不包含语音克隆。该插件只能配置 VoiceLabs 自带的预设音色，因为上传真实人物的语音样本需要取得代理无法代为获得的同意。\n\n生成的音频会通过短期有效的签名链接返回，而不是永久公开 URL；每次工具调用及其结果都会记录在账户审计日志中。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a06dbad4000819193c82d0a81cc1e65",
+    "name": "Voicenotes",
+    "sourceHash": "300a4877ce8c53f4a0781db360204dccc2c0b8cb7583bf1ed8d242d672ff8181",
+    "summary": "使用你的 Voicenotes",
+    "description": "将 ChatGPT 连接到你的语音备忘录、转录文本和 AI 会议笔记。询问过去的对话或会议，重新发现遗忘的想法，并利用你口述的上下文直接在 ChatGPT 中起草、规划和完成工作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ec465134088191977792a5d4f50c8f",
+    "name": "Voicepanel",
+    "sourceHash": "f7338dd366bca2f68676369a350694439ca541e578f0933e3be47b763971de82",
+    "summary": "获取产品反馈",
+    "description": "了解真实用户对新产品、原型、宣传文案等内容的看法。让 AI 开展 100 多场反馈访谈，助你更有把握地推出产品。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9693789da88191b17bf11d731ee5ed",
+    "name": "Volm",
+    "sourceHash": "b7cb35c3b1490f534706c9bc2d1e1b060e1d12cab58ec674ff880dc3f6c4b1d6",
+    "summary": "规划训练并查看进度",
+    "description": "通过 ChatGPT 规划训练，并将计划带到健身房。使用 Volm 将训练内容、训练计划和训练记录集中管理，让 ChatGPT 根据你的目标和日程提供规划建议。在 Volm 应用中逐组跟练，然后通过 ChatGPT 查看进展并调整后续安排。免费连接 Volm 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a675b135fc481918e75661fa0e286a4",
+    "name": "Voluum",
+    "sourceHash": "920ce48b4796ceb6fabbecc996d2958ccf20bc995661abf4964e5d6a3ff53e4a",
+    "summary": "管理广告追踪",
+    "description": "Voluum 帮助用户通过 ChatGPT 查看广告表现、管理营销活动和追踪资产、导出报告，以及操作集成和自动化规则。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa13b98d974819186351aeda445d4a7",
+    "name": "VOSU",
+    "sourceHash": "84a33b08048608cc68cb89f5056e26c15a97863ff1352084ecba5abb191f1736",
+    "summary": "生成图像和视频",
+    "description": "VOSU 使用领先的 AI 模型生成图像、视频和 3D 模型，并使用用户现有的 VOSU 账户和额度。用户可以描述想要的内容并选择模型，将上传的照片制作成短视频，将图像转为 3D 模型，还可以浏览、重播或下载生成的所有内容。每条提示都会先经过内容安全检查，之后才会扣费；消费前可查询额度余额。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa2bcbd58c08191b12c01393c733f39",
+    "name": "VoteMapper",
+    "sourceHash": "0f28b6313da1b6d9a3376bff78b1f47cce4df313c15d8eb43d135e41dc6044c3",
+    "summary": "绘制选举地图并统计席位",
+    "description": "询问美国选举——即将到来的 2026 年中期选举，或自 1788 年以来的任何一次总统选举——即可获得标注日期的答案。\n\n关于 2026 年：可查看 100 个参议院席位和 435 个众议院选区的综合竞争力评级。该评级综合了 Cook Political Report 和 Sabato's Crystal Ball 的意见，同时指出哪些选战确实存在变数，以及预测者自上次更新以来改变了哪些判断。\n\n聊天助手无法独立完成的部分是计算。用日常语言描述一种情景——例如“共和党保住所有势均力敌的席位，但输掉缅因州”——VoteMapper 会依据当前评级进行计算，并返回完整的议院席位地图供你讨论。点击任意选战即可重新分配席位，统计结果会随之更新。参议院有 65 个席位不在 2026 年改选范围内，并已计入结果；准确处理这一点，才能避免得到看似自信、实际错误的答案。\n\n历史选举方面：可将 1788 年至 2024 年的每次总统选举以地图呈现，而非长篇文字。比较两次选举，查看哪些州易手；追踪某州完整的投票历史和当前连续纪录；或重新分配各州，探讨不同结果会带来什么影响。1860 年和 1912 年等多方竞争的选举会完整呈现，不会被简化成两党对决。\n\n你还可以核验已封存的 VoteMapper 预测。用户在应用中提交的预测会在此通过指纹验证，并在结果公布后依据已发布的选战结果进行评分——只统计已经确认结果的选战，因此未出结果的选战不会被算作预测失误。\n\nVoteMapper 是模拟工具。它不提供实时票数、计票回报或已确认胜者的选战结果；其历史数据记录选举人票，而非普选票总数。每个答案都会注明数据发布日期；对两党始终一视同仁；此连接器不支持任何选战。\n\n只读且无状态：无需账户或登录，不会写入任何内容，也不会在请求之间保留数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69448fd0d4ac8191870b8110a6bdac47",
+    "name": "VroomVroomVroom - Car Hire",
+    "sourceHash": "15896f63eaf0644380176b193e4a6417e525bda0006e22de7845a54a7825be83",
+    "summary": "比较租车价格",
+    "description": "还是熟悉的 VroomVroomVroom，只是速度更快了——告诉我们你要去哪里、什么时候出发，我们就能一键为你比较价格。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f500f58fa8819180ade6416b6b86b0",
+    "name": "Vulca",
+    "sourceHash": "d0fd14803c86861a6aa7e5039d6ce980459c756a02eb307b042eba0c98379078",
+    "summary": "梳理视觉创作工作",
+    "description": "Vulca 帮助用户将模糊的视觉构想转化为可审阅的创意成果：探索视觉方向、查询文化传统、结构化组织提示词，并进行 L1-L5 视觉或文化评估。此提交的远程配置以本地处理和审阅为主；由服务提供商支持的图像生成、重绘、局部重绘和发布流程不属于此应用配置的范围。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a22803c8c481919da6f9b41bd93725",
+    "name": "Waldo",
+    "sourceHash": "ab716597d89f666e3fd5c6d6ca5c8d39cf15c379c06f775cbc38c43d1ac92f17",
+    "summary": "你的品牌情报引擎",
+    "description": "Waldo 结合专业技能、外部数据和经过身份验证的工作区上下文，帮助用户研究品牌、广告、社交讨论、趋势以及已捕获的工作区情报。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5563300db881918aa0eff31d9a6679",
+    "name": "WalkMyPlan — Floor Plans in 3D",
+    "sourceHash": "a96fdbc93f7fc043155d979b2da08bba5817f9c09a1ae2ce84759cfb0ae5383b",
+    "summary": "通过聊天进行 3D 家居设计",
+    "description": "描述你想要的房子——例如“建一栋 10 by 10 的房子，带一间主卧和独立浴室、两间儿童房、开放式厨房和客厅，以及有树的花园”——WalkMyPlan 就能一次生成真实的墙壁、门窗、家具和花园。打开实时链接，以 3D 方式漫游其中。\n\n在对话中继续设计：“把客厅加大。”“在北墙放一台电视。”“我标记了 A 点——把前门准确放在那里。”家具会自动摆放到远离门口的空位。每次编辑都会进入修订历史，你可以撤销，也可以恢复到任意历史版本。编辑仅供可视化和规划；WalkMyPlan 不会检查结构安全或建筑规范。\n\n询问你创建的模型，例如“厨房有多大？”“小卧室里能放一张双人床吗？”答案根据模型的实际几何尺寸测量得出。\n\n分享与协作。你可以将方案私下分享给指定人员，设置为查看者或编辑者，也可以通过链接分享。查看谁在何时更改了什么。\n\n已经有方案？上传建筑师发给你的真实 CAD 文件——DWG 或矢量 PDF，最大 100MB——WalkMyPlan 会将其转换为同样可编辑、可漫游的 3D 模型，让你从现实方案开始，而不是从空白页面开始。\n\n适用于住宅设计、室内设计、房间规划、翻新和建筑规划。除非你主动分享，否则方案会保存在你的账户中并保持私密；方案绝不会用于训练 AI 模型，你可以随时删除（垃圾箱会保留 30 天，以便恢复）。\n\n试试：“帮我建一栋带花园的三居室房子”，然后说“带我参观一下”。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a546b49885c819190fa2806412b2bf2",
+    "name": "Walla",
+    "sourceHash": "9bad3c5c11751acc16352ba6cf149654d1c75eba552c900e18f8f3a070b917eb",
+    "summary": "构建表单和自动化流程。",
+    "description": "通过 ChatGPT 创建和管理 Walla 表单：创建表单、添加和编辑问题（包括条件跳转逻辑、外观和页面分区）、发布表单供受访者填写，并读取已提交的回复（其中个人身份信息 PII 会自动屏蔽）。用户还可以连接 webhook 自动化，将回复发送到自己的端点；Enterprise 团队可以通过自然语言描述创建可重复使用的自定义字段类型。内置的 6 份参考文档介绍了表单模型和编辑载荷，帮助助手首次就能正确完成编辑。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_696405d078bc8191ab68d378bae9b4bb",
+    "name": "Wallector",
+    "sourceHash": "d6d23606b3a071f16b94e46223c3fc986b5a67616e339c8f499409245ab4383f",
+    "summary": "发现并购买精品艺术品",
+    "description": "以全新的方式发现艺术，获取为你品味量身定制的推荐。询问风格、艺术家、主题或预算，即可直接在聊天中浏览精选艺术品。\n\n使用 Wallector，你可以：\n- 按风格、艺术家、主题或预算发现艺术品\n- 浏览精选作品\n- 寻找适合你的品味、空间或收藏的艺术品\n- 根据你的偏好获取个性化推荐\n\n可以试着询问：\n- 探索古典大师的绘画作品\n- 给我看看适合卧室的舒缓风格艺术品\n- 为客厅挑选醒目的装饰作品\n- 给我看看热门艺术品类别\n- 展示以马为主题的艺术品",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b0921773588191a651c86809c15ed7",
+    "name": "Walmart",
+    "sourceHash": "54233e89f8213a40c2f217856566cf511b0b20676b07d95cfa850ea2754a2874",
+    "summary": "选购日常商品，享受实惠价格",
+    "description": "选购日常商品，享受实惠价格",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b2d36dd5cc8191b71dfd4693e15f3b",
+    "name": "Wanderu",
+    "sourceHash": "4ed9588454c47dd169362c106af6a3d4d2aa7ff0a2be84f560d99046bbdd64ae",
+    "summary": "搜索美国巴士和火车行程",
+    "description": "搜索并比较美国各地的巴士和火车行程。Wanderu 会检索 Greyhound、FlixBus、Amtrak 等主要运营商，帮你找到合适的路线和价格。查看出发时间、行程时长和票价，然后直接在 Wanderu.com 预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698f3719bfa48191b7a7a4aa8c1bbab3",
+    "name": "Wanderz",
+    "sourceHash": "156943bd4dba4676ea888a8b31ae5a2adb4361f901371badb450624983223853",
+    "summary": "规划并预订地道旅行",
+    "description": "Wanderz 根据顶级旅游博主和旅游专业人士分享的体验，帮助你轻松规划和预订地道旅行。\nWanderz 为你提供当地专家的专属优惠：协商价格、当地建议和专业知识，以及整个旅程中的全程协助。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5656ef5c5481918d7561fc9dced082",
+    "name": "WarmHub",
+    "sourceHash": "2c78b789a82d4dec1201af95433b4f59509dc7447d3682629868cafd3ae7c3fa",
+    "summary": "使用知识图谱",
+    "description": "WarmHub 帮助用户检查代码仓库和架构、搜索并遍历带版本记录的知识图谱、验证并提交结构化提交、管理集合，以及通过 ChatGPT 配置 webhook 订阅。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a44b072a4c08191848bdf26849cc873",
+    "name": "WAS Travel Insurance",
+    "sourceHash": "e3c8259c2128fe2775d0db2364943688151fc4bf190ae22d6f9c6a4899aa8fd9",
+    "summary": "比较旅行保险",
+    "description": "WAS Travel Insurance 帮助用户比较澳大利亚旅行保险计划和价格，涵盖单次旅行或全年多次旅行保障，包括可选保障偏好和购买链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a95a3bd1df8819197ab3ccbf9269e8d",
+    "name": "Watchgoose",
+    "sourceHash": "a2a195f7f95dfd87c56a36fd98d2aeaa5ad0a1832b57fa0f73346abbe0771101",
+    "summary": "监控 cron 和周期性任务",
+    "description": "Watchgoose 帮助开发者监控 cron 作业、备份、Kubernetes 作业和周期性脚本。连接一个 Watchgoose 项目，即可查看检查项、计划安排、保留的状态变更、近期信号和集成名称。\n\n在明确同意读写权限后，用户可以创建、更新、暂停、恢复和删除检查项。默认权限为只读。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5c46c9ccf48191bc7af524c740be92",
+    "name": "Watchr",
+    "sourceHash": "adfdbd681731066a5d760aabeef7e9dc82f6dfebe098924e6e03c274b9cb3422",
+    "summary": "追踪影视节目和电影",
+    "description": "Watchr 帮助用户发现电视剧和电影、管理个人待看清单、追踪剧集进度、为作品评分、关注即将播出的剧集并参与公开讨论。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2674430fb48191a596b5e49ca54334",
+    "name": "WAUG",
+    "sourceHash": "024683ba46ecd919282af091356eab4b08e3ac5cc779f8aab7ef1e5e47d543a3",
+    "summary": "旅行团、门票和活动",
+    "description": "通过 WAUG 发现旅行体验。\n\n告诉 WAUG 你要去哪里、喜欢什么，或正在为旅行计划什么，即可获得针对旅行团、景点、门票、交通和当地体验的个性化推荐。\n在一个地方浏览精选选项、价格、评价和重要旅行信息。无论你是在制定行程，还是想寻找附近可做的活动，WAUG 都能帮你快速找到相关体验。\n\n找到感兴趣的选项后，选择“在 WAUG 预订”即可查看完整详情并完成预订。\n\n从主题公园和景点，到铁路通票、机场接送、导览游和本地活动，WAUG 帮助旅行者发现并预订世界各地的体验。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a728ff9a378819195f095fdd162cc22",
+    "name": "Wave AI Note Taker",
+    "sourceHash": "17618677cdcefd1a8f996ec739b28688b833394035033376e63ea03e2332a8e6",
+    "summary": "搜索并梳理会议内容",
+    "description": "Wave AI Note Taker 帮助用户搜索私人会议、通话和录音，比较不同场次的讨论，检索标注发言者的转录文本，查看行动事项，并将会议整理到文件夹中。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa25a5bd05481919ececc77cbf699bc",
+    "name": "Wave by Vento",
+    "sourceHash": "9217111cd60b37e97c0743fc971e2fea5290b1f933dce6a5622a6926a740bc01",
+    "summary": "规划参加 Wave 2026",
+    "description": "Wave by Vento 帮助参会者浏览已确认的 Wave 2026 议程和演讲者，查看可视化日程和现场周边活动，并查找有关交通、通行证、场馆出入、政策和参会者支持的、以来源为依据的答案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a79cfc7d22081918410284c05c5cdeb",
+    "name": "WaveMaster AI",
+    "sourceHash": "11bea50b7f43d4e59ce4cbee0babdbe0e882c17a06b8929f179d66f367d33cd6",
+    "summary": "AI 冲浪预报",
+    "description": "WaveMaster AI 帮助用户和代理查询冲浪预报、海况和海滩排名，覆盖 57 个国家和 6 大洲的 916+ 个冲浪点。该插件可直接在 ChatGPT 中查询浪况、风、涌浪、潮汐、温度和冲浪评分等信息，并以便于快速判断何时何地冲浪的方式整理数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6992e030d5dc81919d25d4d355253749",
+    "name": "Wayground",
+    "sourceHash": "3ed4898c98f9093d5936a4b58c8fda4b77a1d5d3d2e9be6d02ab7c0af22cb8e4",
+    "summary": "创建测验和单词卡",
+    "description": "Wayground 帮助教师和学生将教学与学习材料转化为可直接布置的测验和学习卡片。粘贴或引用教学内容，Wayground 就会据此生成相匹配的问题和单词卡，无需把课程内容重新改写成考题。教师可以节省备课时间，并快速检查学生是否理解；学生则可以用同一份材料练习和自测。生成的学习活动通过 Wayground 发布，并附有报告，让教师了解学生的参与情况以及他们需要帮助的地方。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8bb34e5f5c81918949f4d68b6778e4",
+    "name": "Wayroc Career Coach",
+    "sourceHash": "d0bca0e805ebf8f6df28ab73a51bb6759a67982ff71f59861a13909a93b0a623",
+    "summary": "优化简历并匹配职位",
+    "description": "在不编造经历的前提下改进数据和软件开发工程师（SDE）简历；也可以通过一次只读操作，将你提供的纯文本简历内容与 Wayroc 当天公开的职位信息进行匹配。不会使用 Wayroc 账户、OAuth、已保存的简历访问权限，也不会提交求职申请、发送通知或修改学生数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_697dc9c3886c8191891f7bf9fa5af80e",
+    "name": "Wazu",
+    "sourceHash": "f513da847f665ad0fe3a5f3c71b751aae657e9f9771a9b648620264b8afa8a32",
+    "summary": "搜索并保存 Wazu 记忆",
+    "description": "Wazu 将 ChatGPT 连接到用户获授权的个人及群组记忆。它可以检查当前启用的 Wazu 范围、列出获准访问的群组、检索近期或与主题匹配的证据、加载完整条目和文档段落、通过 Hive Map 探索相关证据、检索范围受限的媒体引用，并将用户授权的摘要、文本或媒体保存到指定群组。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a970dea8db08191acaf530cbe5e8d5c",
+    "name": "Weather by WindBorne",
+    "sourceHash": "802a96623cbfa2f5f571aa3eca8d4627c1f88c1fcd3b9655317d44434aaa744b",
+    "summary": "天气预报与洞察",
+    "description": "WindBorne 让你利用全球规模最大的气象气球群所收集的数据，获得更准确的天气预报。每个气球都会在传统观测方法无法覆盖的区域采集关键的现场数据，并向美国国家气象局（NWS）、美国国家海洋和大气管理局（NOAA）及其他气象机构提供观测信息。\n\n向你的代理询问天气，即可获得由 WindBorne 世界领先的 WeatherMesh 天气预报模型（包括 AI 模型及其他模型）提供支持的个性化洞察。\n\n一目了然地查看完整预报、深入了解某项天气变量，或比较多个地点的天气状况。为跑步、飞行或尚未规划的旅行寻找最佳天气时段，也可以在地图上查看风暴、锋面、风和降水的变化。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a592ef9f34c8191bd68809b9a3ff17b",
+    "name": "Weave",
+    "sourceHash": "7632f21e5929c566551febdbe618a68aa021496a7b56a2d676cc206587873d87",
+    "summary": "在聊天中了解你的人生脉络",
+    "description": "Weave Fabric 是 AI 的个人记忆层。将它连接到 ChatGPT 后，助手就能了解你生活中的具体情况：你身边的人、偏好、日常习惯、购买记录、日历和经历。\n你可以在 Fabric iOS 应用中建立自己的记忆。记录简短笔记、填写关于生活不同方面（饮食、工作、健康、旅行等）的简短问卷，或连接 Gmail、Google Calendar、Apple Health、YouTube、Eventbrite、Receipts、Instagram、LinkedIn、Slack、Discord 和 HubSpot 等账户，从现有数据中自动生成记忆。连接后，ChatGPT 可以代表你读取、创建和更新记忆。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d8ee14eae48191995000e8c31ba648",
+    "name": "Weavely Forms & Surveys",
+    "sourceHash": "a2b4dd7d3fcf0c58b799d7ced8c356a9035057cc553d8e435ae537edb144ada5",
+    "summary": "免费创建表单和问卷",
+    "description": "免费创建调查问卷、注册表单、潜在客户收集表单、NPS 和 CSAT 问卷等。无需模板，也无需拖放操作。\n\n支持文件上传、签名、下拉菜单、多步骤流程、条件逻辑、评分量表，以及完整表单构建器应具备的各类字段。\n你可以：\n\n- 描述你需要的任何表单，即刻生成可用且可分享的版本\n- 通过对话调整主题、重新排列字段、添加逻辑\n- 实时预览，然后一键发布",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a695d8da58c8191bd6a74fd4baecab6",
+    "name": "Web on Demand Website Builder",
+    "sourceHash": "93eb99fc3d42c727c2aeb8a80ef21ba5b473bdf391083d0c60066c7800f374a1",
+    "summary": "构建并发布网站",
+    "description": "通过 Web on Demand，直接在 ChatGPT 中构建、编辑并发布完整网站。创建适配式、可用于生产环境的网站，采用现代布局、自定义内容和交互功能；随后无需复杂配置、插件或传统后端开发，即可立即部署。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8c18327a788191af35864e2496783f",
+    "name": "Web Performance Insights",
+    "sourceHash": "f399dd3413f54b00af846bc7996b3d22dc2c1d44d01eeffe0a21f94241688a28",
+    "summary": "审计网页性能",
+    "description": "Web Performance Insights 通过其工具服务对网页运行 Lighthouse 性能审计，展示评分、Core Web Vitals 核心网页指标及历史趋势，检索真实用户 Chrome UX Report 现场数据，对多个页面进行并排比较或基准测试，提供由 AI 支持的具体指标优化建议，并将审计结果导出为可下载的 PDF 报告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a82cea9fcf48191878002603b9bfb96",
+    "name": "Webex",
+    "sourceHash": "237ca41b37eb309fc858d312e1a591fcb6f9c4150a9160aed355b177181a4c75",
+    "summary": "会议、消息与 Vidcast",
+    "description": "Webex Suite 帮助用户管理 Webex 会议、消息、空间、成员关系、文件和 webhook，并搜索或检索 Vidcast 视频、转录文本和精彩片段。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a73741a42848191a598382633e8bc0a",
+    "name": "Webless",
+    "sourceHash": "05960f1984a405a89dd0cc235f71d7cf7ffd791aebc5bf499f54f14f6238705c",
+    "summary": "分析 AI 搜索带来的流量",
+    "description": "Webless 将 ChatGPT 和 Codex 连接到你经过身份验证的 Webless 分析工作区。你可以询问网站搜索需求、内容互动、访客路径、流量来源和意图缺口。该插件会读取当前分析目录，在限定于当前租户的数据范围内运行语义查询，并在网络隔离的沙盒中计算比较结果或生成可视化。它不接受原始 SQL，也不允许用户选择其他租户的数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a35d326640c81918988edaf8b3d0b34",
+    "name": "Website Launches",
+    "sourceHash": "8b80461a33330c0ed11b818f294e8644a90793fceb4ea5349cbd52b685df0b6b",
+    "summary": "查看网站上线日期和可信信息",
+    "description": "Website Launches 可让 ChatGPT 查询网站的公开上线记录，包括首次发现网站的时间、网站所有者是否已验证该页面，以及可用的上线里程碑。它提供公开的上线和网站存在情况，帮助你了解新网站或不熟悉的网站，但不会判断网站安全或不安全。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cf85d94d588191a19d7f1411ccc2ac",
+    "name": "WebsitePublisher",
+    "sourceHash": "40678885209e353968718122fb7b8d1557275887375119954de0d0dad286bebe",
+    "summary": "通过对话创建网站",
+    "description": "通过对话构建并发布完整网站。\n通过 MCP 连接，以管理页面、表单、资源等内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694964a4157c819182d54ad82353d717",
+    "name": "Wednesday.app",
+    "sourceHash": "49547f6d5d1ddd28d83575f43c12f22d7ebd12093aac95fa39d56c65309028a9",
+    "summary": "查找内容创作者和网红",
+    "description": "在 ChatGPT 中使用 Wednesday.app 查找内容创作者和网红。\n\n无需在多个平台之间切换，即可发现合适的创作者。只需用自然语言描述你的需求，ChatGPT 就会通过 Wednesday.app 的搜索引擎返回结果。\n\n例如：\n“给我推荐一些会说英语、关注可持续时尚、粉丝数在 50K–200K 之间的 TikTok 创作者。”\n\n系统会根据你的要求提供精选的创作者资料。查看关键信息、浏览他们的个人主页并查看近期帖子，从而判断他们是否适合你的下一次营销活动。\n\n通过 ChatGPT 使用 Wednesday.app，寻找创作者会更快捷、更直观，也更容易采取后续行动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a03afdf3120819195026f6a6a355a3a",
+    "name": "Weft",
+    "sourceHash": "095774d35495d5079e133750fc87ecba07aeb3c1541dad0a16d898297ba88ff3",
+    "summary": "Scrumban 任务和冲刺管理",
+    "description": "Weft 是一款 Scrumban 任务管理工具：用看板管理工作流，用冲刺保持专注，不需要每日站会或其他仪式。它面向独立创始人、独立开发者和无需项目经理也能交付产品的小型创业团队。\n\n连接 Weft 账户后，你可以在对话中管理看板：\n• 询问“我的看板上有哪些任务？”，查看各列和当前冲刺的摘要\n• 按关键词搜索整个看板中的任务\n• 将新任务添加到待办队列并更新其详细信息\n• 在 Backlog、Todo、Doing 和 Done 之间移动工作项\n• 规划、启动冲刺并将其标记为已完成——无需离开聊天\n\n你的看板会与 Weft 的网页、桌面和移动端保持同步。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699d77ab2460819190ca206f109541ca",
+    "name": "Wego",
+    "sourceHash": "2916dec273046037f23c4f05e030487f51e6fd376e20e7e674822256f52a5a73",
+    "summary": "查找低价机票和酒店",
+    "description": "Wego 帮助你在 ChatGPT 中找到价格优惠的机票和酒店。我们会搜索 700+ 个旅游网站，提供准确且极具竞争力的价格，并通过清晰、美观、易懂的界面展示结果。\n\n使用常见筛选条件比较并细化结果。查找航班时，可按航空公司、出发时间及其他重要条件筛选，快速找到合适的行程。查找酒店时，可按住宿类型、星级、位置、价格范围和设施缩小选择范围，更快找到合适的住宿。\n\n全球有 83M+ 旅行者信赖 Wego；它在 iOS App Store 上获得 4.7 评分，在 Google Play 上获得 4.5 评分。需要帮助？我们的 24/7 支持服务会为你接通真人客服。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6949ba630ea48191921842354bcf9b97",
+    "name": "WeightWatchers",
+    "sourceHash": "94eb0a9e461e3535c5f3abe226c1efa429d2e5d40607b36ce8fd0d9b953ecae7",
+    "summary": "查找适合 GLP-1 用药者的食谱",
+    "description": "WeightWatchers 应用帮助使用 GLP-1 药物的人士寻找符合自身生活方式的膳食灵感。通过将 ChatGPT 连接到 WeightWatchers 食谱库，用户可以轻松、无压力地发现营养丰富且令人满足的食谱。用户无需在海量选项中搜索，即可获得以 WeightWatchers 可信指导为依据的膳食和食谱建议，从而更有信心地安排日常饮食。如需更多支持，该应用还可便捷地连接注册营养师，让用户从实用的膳食灵感顺畅过渡到个性化营养指导。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694c425bfd788191ad1cc96bc6dc6dc6",
+    "name": "WeightWise",
+    "sourceHash": "878cf17ccd17725ac7e3c280d09bf11bc4e63b90a2566e4e44f14f17bee5eed1",
+    "summary": "BMI、体脂等健康指标……",
+    "description": "一套简单易用的健身和健康计算器。几秒钟即可计算 BMI、理想体重范围、体脂估算值，以及每日所需热量（BMR/TDEE）。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4b0e4e1e2c81918db8fb3336c7003c",
+    "name": "Wellness Coach",
+    "sourceHash": "daa50a85812ddd57460858926af38bb23ed19753a6bb6de3c5e358780f586382",
+    "summary": "按需获取健康指导",
+    "description": "Wellness Coach 可即时访问精心策划的专家指导健康内容库，涵盖心理健康、情绪健康、身体健康、正念、压力管理、睡眠、营养和个人成长。\n\n当你需要可信且结构化的健康内容时，可以使用 Wellness Coach。内容包括缓解压力练习、焦虑支持、正念练习、睡眠指导和个人成长计划，并由经验丰富的指导者提供。\n\n该应用会搜索评价较高的按需内容库，并根据你的问题展示最相关的健康视频，帮助你从担忧转向行动，获得实用指导。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a70acb6aae4819199d90bb175f2c227",
+    "name": "Werify",
+    "sourceHash": "52fb714e74c708a78be8c133e15d017b0659d21d85a7610c87516e24c3d5a878",
+    "summary": "你的 WhatsApp 聊天档案",
+    "description": "Werify 会在 ChatGPT 中为用户提供专属 WhatsApp 聊天档案，其中包括从聊天导出文件导入的对话，或从已连接号码捕获的对话。用户可以查找对话，逐页阅读转录文本（语音消息也会以文本形式包含在内），在对话中搜索并列出附件。经用户批准后，它还可以执行操作：向正在捕获的对话发送一条文本消息（发送前须先经用户确认）；通过配对码将 WhatsApp 号码连接到 Werify（配对操作只能由用户在自己的手机上完成）；开始或停止捕获已连接号码中的聊天（仅限新消息）；以及从手机导入某个聊天的早期历史记录，且会先向用户显示价格并征得同意。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a171929701c8191aed95c04a3ba3f32",
+    "name": "WeRoad",
+    "sourceHash": "ff48db7a1d9881bdf7dd272ab2b2937d1d2ff50dbf7caaadcc2d5538fb6516fe",
+    "summary": "发现旅行并探索世界",
+    "description": "探索 WeRoad 面向小团体（8-15 名旅行者）推出的冒险之旅，与同龄人同行并由领队带队。行程专为希望与志同道合者一起探索世界的独行旅客设计。你可以按目的地、日期和旅行风格搜索行程，查看完整的逐日安排，并在欧洲、亚洲、非洲、美洲、大洋洲和中东地区寻找适合自己的团体旅行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9a8402ad0c8191ae3b0c39e7561562",
+    "name": "Westbahn",
+    "sourceHash": "6cecbdfc5947f028f0e337fbb7894750ad5eca0bf37791199a6c27b638d9b67f",
+    "summary": "查找并预订 Westbahn 列车",
+    "description": "搜索 Westbahn 在维也纳、St. Pölten、林茨、萨尔茨堡、因斯布鲁克、慕尼黑和斯图加特之间的线路，并在离开聊天前了解实际票价。\n告诉我们你的出行地点和时间，以及同行人员（成人、儿童），即可查看适合全体同行者的发车班次和票价。每趟车都会显示可选票种和舒适等级（Standard、Comfort、First），以及当前价格和余票情况，方便你权衡较早的优惠票与当天晚些时候的灵活车票。\n选定列车后，插件会将你带到 westbahn.at，并预先填写路线、日期、乘客和等级。你确认选择后，直接向 Westbahn 付款。\n时刻表、票价和余票情况均直接来自列车运营商 Westbahn。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a607cd96ecc8191a496fcd98e6d42ce",
+    "name": "WeTransfer",
+    "sourceHash": "06fa5ebdbe199c436b3a024472305a98163dc5e0881941752f8498cb0a5718a7",
+    "summary": "通过 WeTransfer 发送文件",
+    "description": "直接通过 WeTransfer 从对话中发送文件。\n\n连接 WeTransfer 账户后，无需离开对话即可分享聊天中的任意文件——文档、图像、导出文件或生成的素材。只需提出请求，连接器就会将文件上传到 WeTransfer，并返回整洁、可分享的下载链接。如果想直接发送，请添加收件人；WeTransfer 会从你的账户发送邮件，递送该文件。\n\n你可以做什么\n- 一次分享一个或多个文件，并获取可直接分享的下载链接\n- 将文件传送邮件发送给一个或多个收件人，并可添加标题和消息\n- 发送大文件，而不会让对话变得臃肿\n\n工作方式\n每次传送都会在你自己的 WeTransfer 账户中创建，因此会显示在传送历史记录中，并遵循你套餐的限制和有效期。你使用 WeTransfer 账户安全登录——助手只会获得代表你发送文件的权限，绝不会看到你的 WeTransfer 密码。你可以随时断开连接以撤销访问权限。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8db5955114819183be4fea4322f628",
+    "name": "Whalesync",
+    "sourceHash": "5d15bde851f4c7ada6c3d1ae5d8c6366b5a11d8c736185d283b8dd8c5e88ba61",
+    "summary": "在应用之间双向同步",
+    "description": "Whalesync 可在团队已使用的工具之间同步数据，包括 Airtable、Webflow、HubSpot、Salesforce、Notion、Postgres 等，并在每款应用中提供原生般的双向同步体验。\n\n连接此应用后，你可以通过描述需求来创建并运行同步：在两款应用之间建立同步、映射表格和字段、验证映射并启用同步。数据开始流动后，还可以要求它监控同步情况——检查同步状态、查明某条记录为何未同步、查看待处理的删除操作，并在修复原因后重试失败任务。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0db03032d081918aa53b131d9ee9ff",
+    "name": "Whatagraph",
+    "sourceHash": "40f7453d9016eb79be205aaffae8eafe5283975a91379f7fdf600366e2f91d71",
+    "summary": "营销分析",
+    "description": "无缝连接 60+ 个平台——包括 Google Ads、GA4、Shopify、Meta 等——并在一个地方查看跨渠道表现数据。只需用自然语言提问，即可检索营销活动结果、比较各渠道表现并发现趋势，无需翻查仪表板。\n\n轻松查看完整的报告结构：浏览空间、报告、标签页和小组件，准确了解数据的组织方式。深入查看已连接的数据源，了解可用的指标和维度，从而精准、自信地分析表现。\n\nWhatagraph 帮助你更快、更聪明地将原始数据转化为清晰洞察。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7b5bf60c888191904caf81641d0da8",
+    "name": "Whatalo",
+    "sourceHash": "ca1d17825b631131150745d47c75c60f5cbf5b58c2c2e044344c27038e3371b9",
+    "summary": "管理你的 Whatalo 商店",
+    "description": "Whatalo 将 ChatGPT 连接到商家的商店，让用户查看商店信息、商品、类别、库存、客户和订单。它还支持通过商家授权的 Whatalo 账户，以受控方式更新目录、调整库存、上传商品图片和更改订单状态。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a34f8f6261c8191aac9bc8d7db3502f",
+    "name": "Whatjobs",
+    "sourceHash": "ccac37c7fd0477482fdcf46f66e77cc85af5b71f4b391d5e8fc7f96b059213e3",
+    "summary": "搜索附近的职位",
+    "description": "在一个地方搜索全网的附近职位。输入职位名称和地点即可查找相关招聘信息、比较职位列表，并探索机会，无需在多个招聘网站之间切换。\n探索 77 个国家/地区的工作机会，并且每天都会增加新的地点和职位来源。\n应用支持 25 种语言，无论你身在何处，都能轻松搜索和申请。无论你正在积极求职，还是探索新的职业机会，它都能帮你快速找到附近的相关职位并迈出下一步。\n可用地区包括：United States、United Kingdom、Spain、Germany、India、Canada 等。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ff2b420f408191b67f1a0b4e4933d6",
+    "name": "WhatSync Construction",
+    "sourceHash": "6766ecbb47d8dd637f4f856cdc634687c0cd4bcc2aca7883a156bfc715bd23db",
+    "summary": "施工现场报告",
+    "description": "WhatSync Construction 帮助施工团队使用 ChatGPT 查找已连接的 WhatsApp 项目消息、检查来源上下文、创建适配移动设备的单页 HTML 日报和问题报告、保存项目文档，并可按需创建公开分享链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c6561277188191a1beac515a4b2ea4",
+    "name": "Whimsical",
+    "sourceHash": "ef688a4f733f8c524c48100fddd3cb8c12c6c7de0c8a7e7c02265e4acd378d44",
+    "summary": "创建图表和线框图",
+    "description": "Whimsical 应用通过功能强大的白板扩展 ChatGPT：\n· 让 @whimsical 根据当前对话生成精美的流程图、思维导图、线框图、时序图、便利贴或其他可视内容。\n· 使用后续提示更新内容，或在 Whimsical 应用中打开以进行编辑、分享和协作。\n· 搜索并引用 Whimsical 工作区中的现有白板。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6948cdcd2ad8819196c54ca89bab6cf9",
+    "name": "Whiteboard by Athena AI",
+    "sourceHash": "3aca1759068ddd60b2ad45cce454897a4fd80a5b9eee42fe24d9ff0f6ab10a55",
+    "summary": "协作式 AI 白板",
+    "description": "Whiteboard by Athena AI（Athenaboard）是一款原生集成 AI 的协作白板，可实时生成并与团队分享 AI 内容。\n\n入门方法\n- 只需描述你想要的内容（例如：“移动应用线框图”“创建一个用户登录流程图”“展示二次公式”“生成一张日落图片”）\n- 应用会自动使用合适的工具呈现你的请求\n- 使用“添加到白板”保存可视化内容，以便日后查看\n\n核心功能\n1. 图表可视化\n   - 可在 ChatGPT 中直接呈现复杂图表，包括：流程图、时序图、类图、状态图、ER 图、甘特图、饼图、思维导图、时间线等\n   - 由 Mermaid.js 提供支持，图表美观且可交互\n   - 图表可复制或添加到白板\n\n2. 线框图推荐\n   - 与团队实时构思 UI/UX 设计\n   - 提供超过 10,000 个可编辑模板供 AI 选择\n   - 获取按钮、卡片、导航元素、表单等设计组件\n   - 支持移动端、网页、桌面和平板平台\n\n3. 协作白板\n   - 将任何可视化内容（图表、线框图、图像、LaTeX 公式）添加到实时协作白板\n   - 与团队实时协作\n   - 持久化存储：白板会保存，可随时访问\n   - 每位用户都有一个可跨对话保留的活动白板\n\n4. LaTeX 可视化\n   - 在 ChatGPT 中呈现复杂的科学公式和数学方程\n   - 支持行内公式、完整文档和化学符号\n   - 使用 KaTeX 和完整 LaTeX 编译，呈现精美排版\n\n5. 生成图像并将其印制到商品上\n   - 根据文本描述生成多种风格的 AI 图像（写实、艺术、卡通、素描、抽象）\n   - 创建并购买定制商品：T 恤、马克杯、连帽衫和枕头\n   - 商品通过 Printify 制作，并可直接购买",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0c3f3f51e88191851fe3637e324990",
+    "name": "Who What Wear",
+    "sourceHash": "64b52fe47dd22fdb069d1452049b98b86698b1b1de34ceeccd47096e13f72710",
+    "summary": "为你量身定制的编辑精选",
+    "description": "Who What Wear 将女性时尚刊物的编辑风格带入 ChatGPT。设置简短的风格档案后，它就像一位熟悉你品味的造型师；你提出任何时尚问题，它都能给出了解品牌、符合你风格的回答，而不是泛泛而谈。\n\n设置约需 1 分钟。一个引导式四步小组件会询问你的风格关键词（Low-Key Luxury、Tailored、French、Sporty、Trend-Forward 等）、你常购买的当代时尚、奢侈品、牛仔和配饰品牌、你愿意借鉴其造型的风格偶像，以及你能接受的价格范围。档案按用户保存，因此会在不同对话间保留，不必每次打开 ChatGPT 都从头开始。\n\n完成设置后，有三项功能会派上用场。\n\n挑选特定商品。告诉应用你在找什么——“帮我找一件 250 英镑以下的黑色西装外套”“我需要一件参加冬季婚礼的大衣”“我该买什么牛仔裤”——它会优先推荐你平时购买的品牌，从中选出 3 到 5 件商品，并围绕该商品搭配完整造型：上装、下装、鞋履和一两件配饰。目标是给你可直接穿着的搭配建议，而不是一串链接。\n\n编辑灵感。询问你现在应该穿什么或关注什么，应用就会从 Who What Wear UK 的实时编辑内容流中获取新文章，再根据每篇文章的品牌和类别标签，挑出两三篇符合你品味的内容。精选内容会以横向卡片轮播形式呈现，采用刊物自己的视觉风格：编辑图片、引题、标题、署名以及直接返回 whowhatwear.com 原文的链接。\n\n完善个人档案。品味会变化。重新打开引导设置即可更新任意答案（只改你想改的内容），也可以在重新开始时彻底重置档案。\n\n有几点需要了解。编辑内容流来自 Who What Wear UK，因此内容的表达方式、货币和季节性都偏英国风格。推荐始终以真实的 Who What Wear 文章或根据你提供的品牌列表给出的建议为依据；应用不会为了填充结果而编造 URL、图片或文章，只有在有真实链接和图片可用时才会显示轮播。如果某天内容流里没有相关内容，应用会如实告知，而不会捏造信息。\n\n应用不涵盖男装、美妆产品搜索、家居装饰或非时尚类购物，也不提供零售商实时库存或实时价格。如果请求超出范围，应用会明确说明，而不会猜测。\n\n由 Future PLC（Who What Wear 的出版商）打造。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a22c7a4ffe08191a19866c3f76fb0c7",
+    "name": "Wialon",
+    "sourceHash": "ea4b083f74ecf26990eb42093e055bad79c1f7bbea474d1690c82fe8a337f5a3",
+    "summary": "随时询问你的车队情况",
+    "description": "通过对话轻松探索车队数据。Wialon 是一款车队数字化解决方案，追踪 160 个国家/地区的 4 million 辆车辆，可将实时运营洞察直接带入 ChatGPT。\n\n只需询问车辆状态、行程、燃油活动或地理围栏，即可在几秒钟内获得清晰直观的答案。无需离开熟悉的聊天界面，就能以更快捷、更直观的方式掌握运营情况。\n\n该应用在设计上仅提供只读访问，让你随时以安全、透明的方式探索数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a50d0e816488191ae1f3f8ea4c47ad5",
+    "name": "Wialon Platform",
+    "sourceHash": "cc93e8b1d4cc005412a07c4b9a1b1858380ceb53cecb8c3273fcb7d6bb417283",
+    "summary": "探索车队数据和 API",
+    "description": "Wialon Platform 帮助获授权的车队管理用户了解产品文档、查找 API 端点和架构，并从自己的 Wialon Platform 账户中检索只读数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8c52a06c3081919407e081a375c210",
+    "name": "Widemile",
+    "sourceHash": "ffc649a6014055bb9ec4ec33bf772e1c4a6fdb4ec29f52e9b68a4e19d47599df",
+    "summary": "制作媒体作品",
+    "description": "将创意简介转化为结构化的 Widemile 制作项目：规划项目、生成图像、视频、音频和音乐素材、整理结果、编辑制作工作区，并在界面中直接预览完成的媒体内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c1784c29208191a35b4ddef3c7e6d5",
+    "name": "Wikiloc",
+    "sourceHash": "2760c584982df28b5019ec9038f50b1bfcf82b725a45068221893faf93750452",
+    "summary": "只需开口，找到理想路线",
+    "description": "描述你想去哪里以及想做什么，无需再费力搜索。你可以从 Wikiloc 的 77 million 条真实路线中获得量身定制的精选路线；这些路线由全球 20 million 名户外爱好者分享。\n\n询问目的地附近的徒步路线、符合你体能水平的骑行路线，或当地人喜爱的隐秘小径。探索互动路线地图，查看 Wikiloc 社区标注的山峰、瀑布、观景点和其他亮点。\n\n查看沿途拍摄的 140 million 多张照片，提前了解景色，为下一次探险做好计划。\n\n可以试着询问：\n\n- “帮我找西班牙适合家庭的路线”\n- “给我看看阿尔卑斯山附近约 20km 的山地自行车路线”\n- “我下周要去意大利。帮我找多洛米蒂附近 3 条可以欣赏湖景的优美徒步路线”\n- “我想看看爱尔兰壮观的悬崖。给我推荐几条徒步路线”\n- “给我推荐一些适合在加利福尼亚度过周末的绝美徒步路线”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_697376c845f08191a7a95a5f26924060",
+    "name": "Wiley Scholar Gateway",
+    "sourceHash": "f7874c59346c99f3f6f0770f95342ba203767c5b024e596238b7d0bbd26cce0d",
+    "summary": "查找可信的学术内容",
+    "description": "Wiley Scholar Gateway 让 ChatGPT 能够根据经过同行评审的来源生成回答，并提供可验证的引文和 DOI 链接。Wiley Scholar Gateway Connector 会搜索 Wiley 期刊文献，提供有证据支持的答案和完整来源元数据。借此，你可以核实各项说法是否有来源研究支持，确保研究符合专业标准。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a798064b7108191af56a1cbc622e65c",
+    "name": "Windsor.ai TikTok Ads",
+    "sourceHash": "2b53fd6a1117dae5d7bdfb47bb320e29d9d9e5afd84c8edb6a26e12f0c6c8565",
+    "summary": "分析 TikTok Ads",
+    "description": "Windsor.ai TikTok Ads 将你的 TikTok Ads 数据连接到 AI 助手，让你用简单的英语分析表现并管理营销活动。发现已连接的广告账户，查看有效字段和选项，并按任意日期范围查询营销活动、广告组和广告指标（支出、展示次数、点击次数、CTR、CPC 和转化次数）。经确认后，还可以暂停或启用营销活动、广告组和广告，并设置营销活动和广告组预算。\n\n常见工作流程：\n- 比较过去 30 days 各营销活动的支出、点击量和转化量\n- 找出表现不佳的广告组，并在你确认后将其暂停\n- 无需离开对话即可调整营销活动预算\n\n只有在你确认具体操作后，才会更改账户；其余操作均为只读。提供免费套餐，无需信用卡。\n\nWindsor.ai 是独立产品，与其连接的平台没有关联，也未获其认可。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0be6aabee88191abe591539e0ff272",
+    "name": "Wingz by Wingify",
+    "sourceHash": "d12bd2bcc73a26082792999e8e14bff00ad5186577a7783b472e203cd33fc4e2",
+    "summary": "优化数字体验",
+    "description": "Wingz 帮助团队直接通过 ChatGPT 分析实验表现、查看行为洞察并管理测试营销活动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2b5f32daec8191816385768400869f",
+    "name": "Winnow",
+    "sourceHash": "7a2a4f3a78e32ec472871d7a8b4df64aa0e410a38ffb42fbc58563b773418d8b",
+    "summary": "连接农场数据",
+    "description": "Winnow 帮助种植者在 ChatGPT 中询问自家农场运营情况。该应用通过农场限定的运营、地块和天气数据表，提供架构发现和只读 SQL 查询工具；服务器端验证会拒绝非 SELECT 语句以及超出范围的数据集。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a63606fdbe8819193bd9329ec048595",
+    "name": "wiserwork",
+    "sourceHash": "70d270f93e79a5a236860920ecc839ed01c0af82050dac5cceaf0ed92f8d9737",
+    "summary": "将会议转化为可交付成果",
+    "description": "wiserwork 是面向团队的 AI 会议平台，可将会议转化为可搜索的知识和完成的工作。在 ChatGPT 中，用户可以查看已同步的会议日程、检索转录文本和摘要，并查找决策和行动事项。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e8b6ea372c8191b97e6821a75f4bc3",
+    "name": "withPICA",
+    "sourceHash": "0017874b48053228830b5f3d8b063c3bb59621009d46766b088b70e33c298a92",
+    "summary": "管理你的音乐曲库",
+    "description": "withPICA 将你的整个音乐曲库集中整理和管理——包括作品、录音、署名、分成、权利和版税。\n\n从你已经使用的来源导入歌曲：Spotify 和 YouTube 链接、电子表格、内页说明照片，甚至 DAW 工程。withPICA 会将这些内容整理成结构化、可搜索的目录，并查漏补缺——从 MLC、MusicBrainz、ISNI 和 Spotify 查询 ISWC、ISRC、出版商数据和合作者 ID。保存前，你可以检查所有信息。\n\n之后，你可以核实署名和分成、确立所有权、追踪版税和结算单、与合作者共享唯一可信的数据源，并导出可用于向 PRO（表演权组织）注册的文件或完整的曲库资产报告。每一首经过妥善编目的作品，在公开目录中都能获得同等的可发现性。\n\n音乐曲库管理、元数据、权利和版税——清晰、准确，尽在你掌握。",
+    "model": "codex-subagent-reviewed"
+  }
+]

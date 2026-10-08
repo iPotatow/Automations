@@ -42,6 +42,8 @@ test('positions follows source domain without weakening securities checks',()=>{
  checkCompleteness('positions that match your experience','找到符合经验的职位','Fresenius Medical Care Careers');
  checkCompleteness('repeated positions on a Go board','禁止围棋棋盘局面重复','Go Game by BlueMoon');
  checkCompleteness('review Search Console clicks and positions','查看 Search Console 点击量和排名','SEO');
+ checkCompleteness('grinder compound ring positions','磨豆机复合环位','espresso coffee');
+ checkCompleteness('Tarot cards and their positions in a spread','塔罗牌阵中的牌面位置','tarot');
  assert.throws(()=>checkCompleteness('positions and open orders','位置和开放订单','Brokerage'),/positions|open orders/);
  const units=translationUnits({name:'Checkers',summary:'Play a game',description:'Load custom positions.'});
  validateUnits({segments:[{id:'summary',text:'玩一局游戏'},{id:'p0.0',text:'加载自定义局面。'}]},units);
@@ -57,4 +59,6 @@ test('accepts job position context and faithful cost phrasing',()=>{
 
 test('accepts usage-based pricing as a cost term',()=>{
  assert.equal(checkCompleteness('usage-based pricing','按使用量计费'),'按使用量计费');
+ checkCompleteness('source-aware artwork credits','注明来源的作品署名','museum artwork');
+ checkCompleteness('music catalogue works, credits, splits and royalties','音乐曲库作品、署名、分成和版税','music catalogue');
 });

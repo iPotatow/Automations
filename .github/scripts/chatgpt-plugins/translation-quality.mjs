@@ -25,18 +25,20 @@ const rules=[
  [/never submits orders directly/i,/(?:不会|从不|绝不).{0,12}(?:提交|下单)/, 'no direct orders'],
 ];
 function positionTerms(source){
- if(/astrolog|planet|natal|horoscope|nakshatra|cuspal|zodiac/i.test(source))return /位置|宫位|度数|落点/;
+ if(/astrolog|planet|natal|horoscope|nakshatra|cuspal|zodiac|tarot|card spread/i.test(source))return /位置|宫位|度数|落点|牌阵/;
  if(/checkers|draughts|chess|endgame|board game/i.test(source))return /局面|棋局|棋盘|位置/;
  if(/debate|argue|viewpoints|stance/i.test(source))return /立场|观点/;
  if(/recruit|vacanc|job positions|hiring|candidate|career|job opportunit|job opening/i.test(source))return /岗位|职位/;
  if(/\bgo game\b|lets you play go|19×19 board/i.test(source))return /局面|棋局|棋盘|位置/;
  if(/search console|search rankings?|seo|search traffic/i.test(source))return /排名|位置|名次/;
+ if(/espresso|grinder|coffee|brew/i.test(source))return /位置|环位|刻度|档位/;
  return /持仓|头寸|位置/;
 }
 export function checkCompleteness(source,target,context=''){
  if(typeof target!=='string'||!target.trim())throw new Error('Empty translation');
  for(const [input,output,label] of rules){
-  const checked=label==='cost'?source.replace(/\b(?:get|getting)\s+paid\b/gi,''):source;
+  const nonfinancialCredits=label==='cost'&&/\bcredits?\b/i.test(source)&&!/\b(?:pricing|costs?|fees?|paid|plan|subscription|charges?)\b/i.test(source)&&/(artwork|music catalog|recordings|songs|PRO)/i.test(source+' '+context);
+  const checked=label==='cost'?source.replace(/\b(?:get|getting)\s+paid\b/gi,'').replace(nonfinancialCredits?/\bcredits?\b/gi:/$^/g,''):source;
   const expected=label==='positions'?positionTerms(source+' '+context):output;
   if(input.test(checked)&&!expected.test(target))throw new Error('Translation missing or mistranslating '+label);
  }

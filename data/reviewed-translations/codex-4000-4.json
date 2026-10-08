@@ -1,0 +1,626 @@
+[
+  {
+    "id": "plugin_asdk_app_6a25a216b6888191b0c1394ab9e88529",
+    "name": "Tyra",
+    "sourceHash": "5a293cdef29e86485346c29872e696b82153ef125753cc29d9e15de6152792c6",
+    "summary": "发现纽约市活动",
+    "description": "Tyra 是你的纽约夜生活与活动顾问。用自然语言提问——“今晚有什么好去处？”、“这个周末布鲁克林有哪些日间派对？”或“哈莱姆区有什么约会之夜好去处？”——Tyra 就会为你精选纽约活动，并提供图片、日期、地点和简介，以交互式轮播、列表和地图的形式呈现，你可以直接在 ChatGPT 中探索。\n\n通过图片浏览活动，打开地图查看某个街区附近正在发生什么，点按活动查看完整详情，还可以跳转到活动来源页面 RSVP 或购票。Tyra 涵盖全市的夜生活、日间派对、现场音乐和文化活动。\n\nTyra 仅提供只读信息：展示活动，不会代你发布内容、预订、发送消息或更改任何内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a06189166548191b99fcd45612c8a8b",
+    "name": "U.S. Open Golf Companion",
+    "sourceHash": "5946a856a45a2329b877ddbce80a7cbd39803958439580fa7e6f9bc144531fec",
+    "summary": "U.S. Open 实时比分与资讯",
+    "description": "为你实时跟进在 Shinnecock Hills 举行的 2026 年 U.S. Open 锦标赛。你可以询问实时比分、开球时间、观看方式，以及关注赛事所需的一切信息——从排行榜到球迷指南。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b205070d0c8191aeefe2b39229fb53",
+    "name": "U.S. Secret Service Careers",
+    "sourceHash": "e57997ad55928b39f4738739d013f62af14def26b3654ca0738c121ca8097633",
+    "summary": "查找 U.S. Secret Service 职位",
+    "description": "探索 U.S. Secret Service 的职业机会！\n\n此应用可按职位、地点和薪资搜索及筛选空缺岗位，帮助你快速找到符合兴趣和资历的工作。\n\n浏览职位空缺、细化搜索结果，并了解 U.S. Secret Service 的职业发展路径。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6938d5bb48248191b1b755e4b79b4cda",
+    "name": "Uber",
+    "sourceHash": "be5519c10d8e9e96cb0288093ca7d70e645eee34939f07f11f82b069a7aeb1dd",
+    "summary": "行程价格与预计到达时间",
+    "description": "行程价格与预计到达时间",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_692fc45571d881919c408fdaa2b92d6c",
+    "name": "Uber Eats",
+    "sourceHash": "4c80cb57d1bd6bdebf143788d7af46aa4577104ead2fbc5292ad1e2929e91e1e",
+    "summary": "探索餐厅和菜品",
+    "description": "探索餐厅和菜品",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69457f8444848191918f7c00fea68076",
+    "name": "Ubersuggest",
+    "sourceHash": "1baf9eed9811154573798ac44fab2e05c75173f3a2a5ad307a372264fa6a2f3b",
+    "summary": "SEO 研究工具",
+    "description": "Ubersuggest 帮助用户直接在 ChatGPT 中研究 SEO 机会，包括关键词建议、域名和网页流量指标、反向链接、SERP 分析、内容创意、网站审查、PageSpeed 检查、项目跟踪以及 AI 搜索可见度报告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_695fe602c18c8191ba4db9079e660925",
+    "name": "Udemy",
+    "sourceHash": "fa4b31938e7d147d35f5671709a606d87514fa1f384708084e4dc49912a62c64",
+    "summary": "把疑问转化为技能",
+    "description": "通过 ChatGPT 中的 Udemy 应用，学习能助你不断进步的技能。使用 Udemy，你可以把好奇心、问题以及“我得弄明白这件事”的时刻转化为切实进步。\n\n只需告诉 ChatGPT 你想学什么，Udemy 应用就会帮你发现课程和真实领域专家的视频预览。了解可以学习哪些技能、课程结构如何，以及课程是否符合你的目标，然后再开始学习。\n\n全球数百万学习者通过 Udemy 培养工作和生活所需的实用技能。现在，你可以在学习开始的地方找到合适课程，继续向前迈进。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a99c941631c8191b23a5330bffac8cb",
+    "name": "udictio",
+    "sourceHash": "3c2b2d9fc5a55960f58a59ad3e3609d166a11012dfef74b647f1175927b7c4ef",
+    "summary": "探索人们的观点",
+    "description": "udictio 是一部社交词典，用户可以在其中探索关于概念、情感、地点、人物、作品、事件和日常话题的公开署名定义、解读、意见与亲身经历。它会查找匹配话题，每次最多返回五条内容，按需打开完整条目，并将每个结果链接到其 udictio 原始页面。用户贡献反映的是主观观点，并非经核实的事实、共识或具有代表性的调查结果。此只读应用无需 udictio 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a90f71483e081919574c5f8578607bc",
+    "name": "UGC VZ",
+    "sourceHash": "d9e9ddb0d3577d2e3134a7d94cfc8630a0ce1513ad36d8683365e570cd30911c",
+    "summary": "寻找真实 UGC 创作者（DACH）",
+    "description": "UGC VZ 是一个免费目录，收录德语区（德国、奥地利、瑞士，即 DACH 地区）真实且经过验证的 UGC 创作者，并提供作品集和社交媒体凭证；不包含 AI 虚拟形象内容。品牌可通过自由文本查询、城市、主题或验证级别搜索目录，查看创作者个人资料，并主动请求联系。随后，UGC VZ 会通过电子邮件将创作者的联系信息发送给品牌；目录不收取佣金。典型流程：搜索创作者、查看资料、发起联系请求，并查询请求的送达状态。在 ChatGPT 中搜索创作者及查看资料时，不会显示私人联系信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ccc0f4b2988191ae44deba4f1a41a9",
+    "name": "uhomes.com",
+    "sourceHash": "9327cc2061ba671e0a4ebd59450dd5926e120092688357b862c41f90e3e1840b",
+    "summary": "全球学生住宿",
+    "description": "通过 uhomes.com 查找并比较学生住宿。按大学、城市、街区或交通站点附近的位置搜索；按预算、房型、通勤时间和物业品牌筛选；查看照片、价格、评分、设施和房间选项；准备继续预订时，再打开 uhomes.com。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a844531edb881918d6aefb456134f4b",
+    "name": "Uizze",
+    "sourceHash": "af8ed03a71050893d655bd72809b3c7fa4b0c424abae82a96105d83234581ca7",
+    "summary": "打造出众的 UI 设计",
+    "description": "Uizze 为编程智能体提供免费的反 UI 套模板 Skill，并可选完整 MCP 访问权限，以查看实时 UI 参考、许可清晰的素材和渲染后的安全检查结果。使用该 Skill 检查产品和设计系统、编写设计约定、覆盖必需状态，并运行范围明确的收尾检查。MCP 可以针对一个具体且尚未解决的 UI 问题提供有力的全屏参考，为具体角色查找许可清晰的素材，或按需检查渲染后的 UI 是否存在可观察到的故障、无障碍问题、隐私问题以及妨碍任务完成的布局。免费预览版 MCP 仅提供确定性的源代码检查。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4441e73e1081919290c5c6c9d6ca3a",
+    "name": "UltraFit360",
+    "sourceHash": "c02d140e302d3620ee91191fb1c0deb729e761c8f67f4577c93998daab27777b",
+    "summary": "你的 AI 健身教练",
+    "description": "UltraFit360 将 ChatGPT 连接到你的个人健身和营养数据。你可以询问本周吃了什么、体重趋势如何、记录了哪些训练，或索取完整进展报告；回答直接来自 UltraFit360 饮食日记、训练记录、身体指标和 AI 教练记忆。经你确认后，它还可以记录你吃过的餐食、调整每日卡路里、宏量营养素、饮水量和步数目标、规划餐食、更换训练动作，以及分配或创建训练计划。你的身份完全依据已验证的登录会话，因此应用只会访问你自己的数据。UltraFit360 由 Aptix Labs Private Limited 运营；有关连接器数据的处理方式，请参阅 https://ultrafit360.com/privacy-policy。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0211bf00a08191ad24dfa899949d4b",
+    "name": "Umamy",
+    "sourceHash": "47a665417a3328d31fa7363c5f1ad117c237b393943857f80e0ea69a426cd2e0",
+    "summary": "跟踪招聘流程",
+    "description": "直接在 ChatGPT 中查询你的 Umamy 招聘流程。列出正在进行的招聘项目，查找候选人及其匹配度评分，阅读完整的 LinkedIn 消息对话，访问团队备注，并查看整个工作区的招聘流程分析。\n\nUmamy 是一款面向企业招聘团队的招聘平台，可帮助团队大规模寻找、评估并联系候选人。使用此应用，你可以处理每日招聘流程中的待办事项、在候选人通话前准备简报、根据以往消息记录起草跟进内容，并生成每周回顾，无需离开 ChatGPT。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a57cac4f4808191a9108ee8f0664e94",
+    "name": "UMT-CAR Assistent",
+    "sourceHash": "b9270a6ef9eb05106fcc9c835f3b6342b6245a60c944dce5d682ce286b5e4542",
+    "summary": "汽车销售与保养",
+    "description": "UMT-CAR AI 助手通过聊天，帮助你快速、轻松地解答所有汽车相关问题。\n\n想卖车、计算车辆的线上估值、预约保养，还是查看我们的当前库存？给我们发消息，助手会立即为你提供帮助。\n\n主要功能：\n\n发布售车信息\n计算车辆线上估值\n预约保养\n查看当前库存\n发送联系及信息咨询\n快速便捷地聊天\n\n通过 umtcar.be 了解更多。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a95d3a05d888191945f40e3221959b8",
+    "name": "Unblocked",
+    "sourceHash": "346892bf351e9d1d9bfe02ed955c2b6f8a51c49f459e626404cacb2f391e8c6e",
+    "summary": "搜索工程研发上下文",
+    "description": "Unblocked 是智能体软件开发的上下文层。它会综合分析代码、对话、问题、文档、产品和生产系统，帮助智能体以更少的人工介入正确完成工作。\n\n编程智能体了解代码，却不知道代码为何这样编写、两份冲突文档中哪一份是最新的、工单最终决定了什么，或生产环境当前正在发生什么。Unblocked 将分散在代码、消息平台、问题跟踪器、文档以及产品和生产数据中的上下文连接起来，协调不同来源间的冲突，并执行你已在各工具中设置的权限，从而让智能体获得这些组织层面的理解。\n\n一个 MCP 服务器即可取代十几个服务器。上下文会先在服务器端进行排序、压缩和整理，再发送给智能体，让智能体能够基于更高质量的输入进行推理。最终生成的代码更加可靠，符合团队的实际开发方式，同时使用更少的 token，减少来回沟通。\n\n可通过 MCP 与 Claude Code、Cursor、Windsurf、GitHub Copilot 和 Codex 配合使用，也可通过 Unblocked CLI 和 API 使用。可连接 GitHub、GitLab、Slack、Microsoft Teams、Jira、Linear、Confluence、Notion、Google Drive、Sentry、Datadog 等服务。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7a3df1e608819188444011032d91cc",
+    "name": "Unbounce - Classic Builder",
+    "sourceHash": "e7a18b6b7e1101c492966d567592156f0805635d8feb31c6fd6bcaf0a277c517",
+    "summary": "创建 Unbounce 着陆页",
+    "description": "连接 Unbounce 账户，即可在聊天中创建和编辑着陆页、添加 A/B 测试变体、设置流量分配并查看页面效果。\n描述你想要的页面，Unbounce 就会为你构建；你也可以要求创建新变体、修改标题或生成转化报告，相关操作会在你的账户中完成。\n可与现有 Unbounce 页面、域名和页面组配合使用。需要 Unbounce 账户及 Classic Builder。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a479350b34c81919872f39126f96485",
+    "name": "UNC Health Careers",
+    "sourceHash": "28a4363f745cdc38ec25784993f5f5df2d17cda39f0cc2304f4aa33e782db2b4",
+    "summary": "查找并申请职位！",
+    "description": "通过 UNC Health Careers ChatGPT 应用，发现你的下一个职业机会！\n\nUNC Health 是一家综合医疗系统，由 North Carolina 州所有，总部位于 Chapel Hill。UNC Health 致力于促进健康，而不仅仅是提供医疗服务。从获得 Magnet 认证到被 Forbes Magazine 评为美国最佳雇主之一，我们很自豪地看到辛勤工作持续获得认可、表彰和赞誉。\n\nUNC Health 与超过 56,000 名同事携手合作，改善我们在 North Carolina 各地所服务社区的健康与福祉，为全部 100 个县及州界以外的患者提供照护。我们持续运用 UNC School of Medicine 开展的世界级研究成果，将创新转化为挽救生命、改善生活的疗法、手术和技术，服务依赖我们的患者。\n\n你可以尝试这样提问：\n- 查找 Chapel Hill 的注册护士（RN）职位\n- 显示有福利的全职 CT 技师职位\n\n准备好后，点击 ChatGPT 中的“查看并申请”，即可直接前往 UNC Health Careers 网站完成申请。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8c47613d5c81919424829ee2b74d56",
+    "name": "Uncountable (US)",
+    "sourceHash": "9d6a5b85473543d144955c075132f85c55da067b1fdd08b57761fcc9b56cc18a",
+    "summary": "连接你的 Uncountable 数据。",
+    "description": "连接你的 Uncountable 工作区，以搜索实验、配方、样品和测试结果，提取具体测量数据，并根据你自己的实验室数据起草技术文档。访问权限遵循你现有的 Uncountable 权限设置。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a60df60877081919ad4a8109d27535d",
+    "name": "Undermind",
+    "sourceHash": "5d1a8832bf6e191e16bb6ef67b19ea2a871f48d1e85857ba6580c0618af5229c",
+    "summary": "查找并阅读研究论文",
+    "description": "将所有科学文献带入 ChatGPT：\n\n- 全面搜索，查找所有论文\n- 阅读并理解全文、图表和表格\n- 自动获取开放获取的 PDF\n- 让所有聊天都能使用你上传的 PDF\n- 整理你的论文并保存见解\n\n数千家机构的科学家都在使用，包括大学实验室和制药研发团队。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa1a3efb4088191ad24d1f65edc2b04",
+    "name": "UniCourt",
+    "sourceHash": "138b31947031e845741e0ec79e3d6c24ffa5af2bce03612e2c84c615533c1b52",
+    "summary": "搜索并查看法院案件",
+    "description": "用日常语言搜索超过 400 million 件州和联邦法院案件，快速、轻松地找到相关案件、查看案件详情并获取相关信息。识别关键参与者（当事人、法官和律师），并查看案卷历史，了解案件经过。\n\n使用此插件需要拥有有效的 UniCourt 订阅。如需访问权限，请联系 UniCourt 团队：sales@unicourt.com。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a42a564c2988191b1f7bcbc14a1fdf9",
+    "name": "UNIFIELD",
+    "sourceHash": "0a8a5dbff0d55c9bd67e3fded79281c458152e063e4f108874015cd37704991d",
+    "summary": "发现互补意向",
+    "description": "UNIFIELD 帮助你将想做的事情明确表达为意向，并将其带入人类共同意向的共享领域。无需在海量内容中搜索，你可以直接发现其他人、项目和机会中与之匹配或互补的意向，并清楚了解它们为何可能契合。这有助于让彼此孤立的想法和潜力形成有意义的协同。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8c88f806c08191ab0ae925be246c65",
+    "name": "Unify",
+    "sourceHash": "77dee7d5b27b080803d3dad650b766cc67e74a2282c849e4ecf8c3bf17d2dbe3",
+    "summary": "发现、丰富并编排潜在客户",
+    "description": "将 Unify 连接到 ChatGPT 和 Codex，端到端开展外联工作：建立目标名单、补充经过验证的电子邮件地址和电话号码、起草个性化触达序列，并将所有内容同步回 CRM。之后还可以询问哪些做法有效：各序列的回复率、销售代表的活动情况和转化表现。\n\n可以尝试提问：“找出我的客户账户中最近转任新职位的关键联系人，获取他们经过验证的电子邮件地址和手机号码，并起草一组触达消息”；或者“显示销售代表过去 30 days 完成任务的明细”。\n\nUnify 可搜索 1.1B+ 位人士和 65M+ 家公司，数据覆盖 40+ 个提供商。在一次聊天中发现、补充潜在客户信息并编排触达序列。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ba9e565bd48191b6ed6c024cda5f85",
+    "name": "United Rentals",
+    "sourceHash": "45092641cc1ea0005bd5607e5204b3dc3b836c18d4198bfc438705a693a054d9",
+    "summary": "为工作寻找设备",
+    "description": "无需猜测，为工作找到合适的设备。分享项目详情，即可获得量身定制的设备推荐和相关规格信息，助你放心选择。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a222b08034c8191971de848048156c5",
+    "name": "Unni",
+    "sourceHash": "eed1809f2dfec9f7e98952263098bf6d988062eb118a778faddc942e824df65e",
+    "summary": "探索医疗项目",
+    "description": "Unni 将亚洲规模最大的医疗项目平台之一带入 ChatGPT。用自己的话提问，即可通过丰富的信息卡片一目了然地查看 Unni 应用中提供的相同项目和活动信息。\n\n可搜索的内容：\n• 项目知识：由专家撰写的项目指南，涵盖项目、副作用、恢复过程和项目对比。\n• 社区：来自 Unni 社区的真实用户体验，以及由医生回答的问答。\n• 活动：数千家诊所的当前价格和优惠，可按项目、地点、咨询语言和价格筛选。\n\nUnni 会根据你的国家/地区和语言匹配信息库进行搜索，因此你能看到实际面向你提供的项目资讯和活动。\n\nUnni 仅提供参考信息，并非医疗建议。决定是否接受医疗项目前，请务必咨询持证医疗专业人员。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7b61e2666c8191a518f289702e269c",
+    "name": "Unwrap",
+    "sourceHash": "04d560486f5a57d5f12b9cabafd8a9d3fc2bc38751245d8f3255aa13697bb42c",
+    "summary": "分析客户反馈",
+    "description": "使用 Unwrap 搜索并分析客户反馈。提取客户反馈中的主题和实例，按元数据筛选，并分析问题随时间变化的趋势。利用客户反馈制定以数据为依据的路线图、PRD 等！",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69442604c7a48191bd7867f76d03dae5",
+    "name": "Updater Internet Store",
+    "sourceHash": "1d5d3aa6eee4b0d28d055993188a7c36c828ca42d138103414f4ddca9559ecaa",
+    "summary": "查找互联网和电视套餐",
+    "description": "为特定地址查找并比较互联网和电视套餐可能很耗时。Updater Internet Store 会显示你所在地址可用的套餐，并让你并排比较网速、价格和条款。\n\n选择套餐后，系统会将你带到 ChatGPT 之外的网站完成在线订购；或者，你可以提交联系信息，让所选服务提供商的代表联系你并完成订购。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a315470ce608191b84918b58a3bbfb5",
+    "name": "Upfluence",
+    "sourceHash": "8e08c0971adb795081504df8df1146d60a0bba1ca971e6923658b3632faaa505",
+    "summary": "发现创作者并开展营销活动",
+    "description": "无需在多个平台之间切换，即可发现合适的创作者并开展营销活动。只需用日常语言描述你的需求，ChatGPT 就会返回由 Upfluence 搜索引擎提供支持的结果。\n\n例如：\n“给我找一些讲英语、对可持续时尚感兴趣、拥有 50K–200K 粉丝的 TikTok 创作者。”\n“这位创作者的受众人口统计特征是什么？”\n\n根据你的需求，你会收到符合条件的精选创作者资料。查看关键信息、浏览他们的资料，并查看近期帖子，判断他们是否适合你的下一场营销活动。之后，你可以将创作者整理到营销活动中并跟踪外联进展，全程无需离开当前对话。\n\n在 ChatGPT 中使用 Upfluence，可让创作者发现和营销活动管理变得更快捷、更直观，也更便于采取行动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1fed02ff5c8191b4060c5807221f26",
+    "name": "Upload-Post",
+    "sourceHash": "021fdb4510e169e0a748037bd4d06a117737329446cdc2d8ffb3a88eb98f9673",
+    "summary": "管理社交媒体帖子",
+    "description": "Upload-Post 帮助用户直接在 ChatGPT 中发布、安排、分析和管理社交媒体帖子。它支持发布视频、照片、文本和文档；安排发布并管理队列；查看分析数据；管理个人资料；处理 Instagram 评论和私信；通过浏览器暂存媒体；以及在已连接的社交平台上使用 FFmpeg 处理媒体。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69619c97f3288191ad90f579d3fd6352",
+    "name": "Upplai",
+    "sourceHash": "f458f75d850042d39ebc12fc7a1226fbe07873be4f3d8db2a0fe063da24aff0d",
+    "summary": "检查简历 ATS 评分",
+    "description": "Upplai 的 ATS 简历检查器会分析你的简历与职位描述的匹配程度，并提供类似 ATS 的兼容性评分以及详细的关键词分析。\n\n获取总评分（0–100）以及详细的关键词分析，其中会显示 ATS 优化所需的职位相关关键词、哪些关键词已出现或缺失、它们的相对重要性，以及你的简历在每个关键词上的匹配情况。了解简历的不足之处和可改进内容。\n\n可以尝试提问：“我申请[这份工作]的 ATS 评分是多少？”或“请按 ATS 标准为我申请[这个职位]的简历评分。”\n\n适合希望评估简历 ATS 兼容性的求职者，尤其是申请使用自动化简历筛选的公司职位时。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a957b8200648191b556653d13ff522c",
+    "name": "Upspring",
+    "sourceHash": "0f19db18ce3031656335cd9db93ea66c83cf08a85fe1b7e50f11508173382d26",
+    "summary": "将实时广告转化为 AI 上下文",
+    "description": "将实时广告转化为结构化、可供 AI 推理的上下文。通过 MCP 提供广告钩子、宣传主张、优惠、着陆页，以及广告主规模等级（支出、流量和销售额估算）。广告由我们处理，思考由你的 AI 完成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a79c45722208191816dac268a720cb5",
+    "name": "Upstash Redis",
+    "sourceHash": "d2e94e46accc630b68ccc50ca73c2058bc9e2caea5dd7d4b194116babbc03e3d",
+    "summary": "Redis 及其他 Upstash 产品",
+    "description": "通过托管的 Upstash MCP 服务器（首次使用时通过 OAuth 授权），在 ChatGPT 中管理你的 Upstash 资源：创建并检查 Redis 数据库、在数据库上运行命令、发布 QStash 消息并管理计划任务、构建 Vector 和 Search 索引，以及使用 Box 沙盒和 Blob 存储。凭据保留在服务器上，只有在你主动索取时才会返回。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a22ca6ec2608191bc47a4bbef0b30db",
+    "name": "UrbanPro Tutor Finder",
+    "sourceHash": "4ef16603d885eb242df015b3e72d58d03f1e6de953d296053b85d0458c1e2721",
+    "summary": "查找 1000+ 个科目的导师",
+    "description": "UrbanPro Tutor Finder 帮助学习者寻找经验丰富的导师和辅导机构，涵盖学业、竞争性考试、编程、语言、音乐、健身、职业技能等领域。只需描述你想学什么，平台就会根据你的偏好推荐相关导师。\n\n无论你想上网课、找上门家教，还是在所在城市参加线下辅导，UrbanPro Tutor Finder 都能让你按科目、预算、授课方式、评分和经验轻松探索选择。\n\n可搜索的内容\n\n• “班加罗尔的 CBSE 10 年级数学导师”\n• “每小时低于 ₹800 的线上 IELTS 辅导”\n• “附近的上门吉他老师”\n\n主要功能\n\n• 使用自然语言请求搜索导师\n• 查找线上和线下课程\n• 浏览 1,000+ 个学习类别中的导师\n• 比较评分、评价、经验和每小时费用\n• 查找学校科目、入学考试、编程、语言、音乐、瑜伽等领域的导师\n• 查看经过验证的导师资料，并通过直接链接前往 UrbanPro 继续操作\n\n适用人群\n\n• 准备 JEE、NEET、CAT、IELTS、UPSC 等考试的学生\n• 为在校学生寻找导师的家长\n• 学习编程、语言或职业技能的职场人士\n• 探索音乐、艺术、舞蹈、健身和个人兴趣的爱好者\n\n使用方式\n\n用简单的英语输入你想学习的内容\n获取符合你要求的导师推荐\n打开 UrbanPro 上的导师资料，以继续操作并直接联系\n\n备注\n\n可在应用体验中发现导师；预约和后续互动则在 UrbanPro 上进行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9ee668cc248191a0bdb9911b546799",
+    "name": "USAspending by 1102tools",
+    "sourceHash": "f485cd7237c71cac6b834caf9ea0a74c755d6deb17edf44845d2313569e224e6",
+    "summary": "探索联邦支出",
+    "description": "这是一款由 James Jenrette / 1102tools 使用 USAspending.gov 公共数据开发的独立非官方应用。本应用与美国政府无关联，也未获其认可。\n\n通过 55 个只读工具，探索公开报告的联邦拨款与合同、受款方、机构、支出趋势、地理分布、分包项目、IDV 和联邦账户。结果反映 USAspending 的报告覆盖范围和更新计划。应用提供来源数据，不会更改政府记录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa6b34cc6a081918ffd9ad292e1a35c",
+    "name": "USDT & USDC Blacklist Tracker",
+    "sourceHash": "154fd1773ebb74c569b8b09499384fc51f813709d3c11e9bf3a63626aa13419a",
+    "summary": "查询任何钱包是否被冻结",
+    "description": "根据链上稳定币冻结和黑名单记录检查任意钱包。Eagle Virtual 跟踪 Tether、Circle 和其他稳定币发行方对钱包采取的操作：USDT 列入黑名单、USDC 冻结、资产扣押与解冻。每条记录都列明具名发行方采取操作的日期，并提供交易和区块信息，任何人都可以据此在链上核验。\n\n你可以询问：这个钱包是否在 USDT 黑名单上？Circle 是否冻结了这个 USDC 地址？哪些稳定币可以冻结余额？有记录以来最大规模的扣押有哪些？Tron 或 Ethereum 上最近冻结了什么？该应用涵盖 35 条区块链和 444 种代币（截至 12 September 2026），并为返回的每条记录提供公开页面引用。\n\n它不会为地址评分、判定风险、提供建议或作出预测，也不是政府制裁筛查服务。它只报告发行方公布在链上的信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a62cbc0ff488191890ba6370456e73e",
+    "name": "UseMyContext.ai",
+    "sourceHash": "0c27af1eb1c8932c53fff8e8dc04b2e27726df0627ddf2e75310d998bb7f4f5f",
+    "summary": "为 ChatGPT 提供个人上下文",
+    "description": "UseMyContext 为 ChatGPT 提供用户自己的上下文：一份汇总个人信息的档案、分别用于工作和个人生活的资料、可读取并提供带引文回答及精确表格查询的已上传文档，以及他人主动与用户分享的上下文。所有工具均为只读，只有 suggest_update 例外：它会提交一条待处理建议，供用户本人在 UseMyContext.ai 上审核；ChatGPT 中的任何操作都无法修改用户的个人资料或文件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4648c1ac9c8191bcd3226a7215cbfa",
+    "name": "Userbrain",
+    "sourceHash": "c62230a5b13dd894e4526ffc4fa635d307a2e7bac342abd05fc7c05f48f8bc8e",
+    "summary": "访问你的用户测试数据",
+    "description": "探索用户测试数据、汇总反馈，并更快发现可采取行动的见解。用日常语言询问测试、参与者、任务和发现。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a42b1a21e3c8191a436847ae17e527f",
+    "name": "Userflow",
+    "sourceHash": "1e5fd8367d4e4918f29bf254dda28e1497fdb4186c157ad85b6389c4034e609a",
+    "summary": "询问产品采用情况",
+    "description": "将你的 Userflow 账户连接到官方 Userflow MCP，即可在 ChatGPT 中查询产品采用数据并直接创建内容。你可以询问流程、细分群体、用户和分析数据（完成率、NPS、调查回复和事件数据），了解用户如何使用你的产品、在哪些环节遇到困难；然后让 ChatGPT 根据答案创建相应的细分群体、流程、图表或仪表板。每项写入操作都会以草稿形式返回供你审核；未经你确认，任何内容都不会发布。所有操作均可在 ChatGPT 中完成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8759c2dba48191b391f3915cc0ee5f",
+    "name": "UserTold",
+    "sourceHash": "e248ec2d48c2c235386905deee5cd548c975ef2c362f0c66af80175b0b9258db",
+    "summary": "基于真实用户开展研究",
+    "description": "UserTold 可在产品内开展已征得同意的访谈，并让 ChatGPT 检查带有来源链接的 Evidence、设计和管理 Studies、将发现转化为经过审核的 Work，并明确将已准备好的 Work 交付到 GitHub 或 Linear。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6e0c6b48b48191845e65bcfb7ffa78",
+    "name": "Uwear",
+    "sourceHash": "4d71cd155781dec6f5b1b5bdfa857ad091c55dc59e8eb48507184b56f7486ad0",
+    "summary": "创作 AI 时尚影像",
+    "description": "Uwear 帮助时尚团队整理服装、可重复使用的模特、场景和艺术指导，准备并审批拍摄简报，并使用现有 Uwear 账户和额度生成、编辑及审查产品图片和视频。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6972419c9f1c8191be56dadf73a9cbb7",
+    "name": "UX Pilot",
+    "sourceHash": "76c9272d5588943394f506857d8a61bee14a49991f6acdef48e9a4a3f415d286",
+    "summary": "生成线框图和 UI",
+    "description": "UX Pilot 帮助用户在 ChatGPT 中根据自然语言提示创建线框图、高保真 UI 屏幕和多屏应用流程。单屏请求会立即在用户的 UX Pilot 工作区中开始生成，并显示实时预览组件。对于多屏流程请求，系统会先建议屏幕；用户在组件中确认选择后才会生成设计。用户可以在 UX Pilot 中打开结果并继续编辑。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3c0c4590148191bc33e5587bd0b719",
+    "name": "V7 Go (EU)",
+    "sourceHash": "96a845210fcb9147acac519175789dbd74d53b29f3dd5e9c127a2077ee95060c",
+    "summary": "运行工作流并查询知识",
+    "description": "V7 Go 可在 ChatGPT 中将文档和非结构化数据转化为结构化、可查询的信息。你可以发现并配置工作流，在文档上运行工作流以提取结构化字段，搜索文件，将文档添加到知识图谱，并查询由此生成的工作流和上下文图数据，从而获得以你自己的资料为依据的答案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa0052ad3648191b2cd05ec4a4fddc7",
+    "name": "Vacanța România",
+    "sourceHash": "647aa7513889d3f3fda3ff5a14990a9ff40731f185191e402faa71f85d13e074",
+    "summary": "查找罗马尼亚景点",
+    "description": "Vacanța România 帮助你探索罗马尼亚各地经过核实的旅游景点：自然景观、城堡和要塞、修道院和教堂、博物馆及徒步区域。你可以询问某个县或城镇有哪些景点、所选半径范围内附近有什么，也可以按主题探索——自然、历史、文化或鲜为人知的地方。每条结果都附有罗马尼亚语或英语的简短介绍、所在县和地点、坐标，以及指向 vacantaromania.ro（英文版为 holidayinromania.com）完整页面的链接，方便你了解详情、查看照片并规划行程。数据来自精心整理的已发布景点数据库，并由 Vacanța România 团队持续更新。无需账户，也不会存储任何关于你的信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a403a26e8ac8191b2f29f7922d7909b",
+    "name": "VaDa Genius",
+    "sourceHash": "45bde9bae14ea8ce0c5f81588d820acd4df92514a419cf2ee6bf83da5a6e6b1e",
+    "summary": "解读家庭能源情况",
+    "description": "VaDa Genius 使用你的实际能源数据，帮助你了解家中的能源情况。\n\n询问用电量、太阳能板、电池、电价、EV 充电以及更高效用能的机会。了解用电高峰时段、太阳能时段内的用电量占比、安装太阳能板或电池是否值得，或现有太阳能系统的表现是否符合预期。\n\n根据你的设备情况，Genius 可以使用已连接的能源来源，例如 VaDa SmartHouse、受支持的太阳能平台和用电数据。如果可以使用 VaDa Smart，Genius 还可以解释家中实时发生的情况以及 VaDa 正在执行的操作。\n\nVaDa Genius 仅提供只读功能。它可以解释、比较、推荐和可视化能源信息，但不会操作电气设备或更改合同，也不能替代认证安装人员、电气评估、法律建议或有保证的节省金额计算。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cfafb37d9c8191a4cd21f5ebfc5a54",
+    "name": "Vaktim",
+    "sourceHash": "e0349765f9f022f43f443adad52241af42fe39c53053f34507f761e650704793",
+    "summary": "古兰经与礼拜时间",
+    "description": "Vaktim 帮助用户查找古兰经经文、阅读简短的经文释义、按主题或心情查找经文、获取苏拉预览，以及查询按城市提供的伊斯兰礼拜时间，并附有返回 Vaktim 应用和网站的链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5e7ac6ddf881919de226cb7506ef57",
+    "name": "Val Town",
+    "sourceHash": "eb4d685e17feac9c1a28e9b7aab62580dc4f7d2f1fc59c44f9ddf2ae8022c8a8",
+    "summary": "构建并部署应用",
+    "description": "Val Town 帮助用户通过 ChatGPT 创建、检查、运行和部署应用；管理文件、分支、计划任务、环境变量、SQLite 数据和 Blob 存储；并调试执行过程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4c0124dce4819180dd36a67ad256d4",
+    "name": "Valuecase",
+    "sourceHash": "9e52bb0cb58a39c3d0426cead109413668da0c72d35be202b440a4f7588603d0",
+    "summary": "管理 Valuecase 空间",
+    "description": "Valuecase MCP 将 ChatGPT 连接到你的 Valuecase 工作区，让你可以直接在对话中创建、管理和监控数字化销售空间与入职引导空间。你可以通过模板快速创建个性化空间、设置自定义属性并筛选 Spaces，无需切换工具。ChatGPT 可以获取你各空间的完整上下文，让你在同一处查看互动情况、检查进度，并推动面向客户的工作流程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a033addd77881918cea85cd71109f80",
+    "name": "Vanta",
+    "sourceHash": "09d9d13c9951a5d6ebe2c2dbf41252368b5b26e8a05a6c541cb0f44475809541",
+    "summary": "安全与合规",
+    "description": "Vanta 帮助用户在 ChatGPT 中审查合规性测试、控制措施、证据、政策、风险、供应商、审计、人员、访问审查和漏洞。支持的工作流程包括管理测试和控制措施、上传和评估证据、创建和删除政策、更新风险及供应商记录、配置 SLA，以及管理 AI 治理记录、问卷和知识库资源。用户还可以在已连接的服务中创建工单并管理隐私请求。政策审批和隐私工作流程可能会发送通知，知识库资源也可以发布到 Trust Center。可用工具取决于所连接组织启用的功能以及用户的权限。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694462199dd48191bedf3493b499d605",
+    "name": "Vantage",
+    "sourceHash": "7b2cb244064ff36dc5a2c0e35405745c3090dfc237d3dfed8fed85a9dbadaf37",
+    "summary": "分析云成本",
+    "description": "Vantage 是用于分摊和优化云、SaaS 及 AI 成本的记录系统。Vantage 提供多种云支出优化工具，并为组织提供高级 FinOps 工作流程和成本治理能力。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a622afd72888191947664789b57069f",
+    "name": "Vasara",
+    "sourceHash": "672d9adbecf3a5533b3fc16fa19671973c0f8490459456fd831294f3001cc463",
+    "summary": "可靠的法律来源",
+    "description": "Vasara 将 ChatGPT 连接到立陶宛的主要法律来源：国家立法、欧盟法规和指令，以及宪法法院、最高法院、最高行政法院、欧盟法院和欧洲人权法院的判例法。\n\n可用它按案号查找具体法院裁决、按主题搜索判例法和立法、从篇幅较长的法律文件中提取相关段落，或查找国家机关和市政部门的指导信息；ChatGPT 可以在回答中直接引用这些来源。\n\n此插件仅搜索和检索法律来源，不会创建、编辑或提交任何内容。需要 Vasara 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a163f33d9cc81918158459e63792cdc",
+    "name": "VaultSage",
+    "sourceHash": "8dfe4af8d7eb0478e1f7b760df42e8ef7d763cc67909e2d45bb057afcb7da99e",
+    "summary": "搜索并存储文件",
+    "description": "VaultSage 帮助用户上传文本文件作为持久化 AI 记忆，浏览和搜索已存储的知识，结合文件上下文与 VaultSage AI 聊天，查看存储指标，将文件整理到目录中，创建分享链接，并移除过时文件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c10dfe436081919f21300958d1231f",
+    "name": "VectorGov",
+    "sourceHash": "6c229e887ed9525e1a3d53d46eb1d13c34bddfef68592e8b46ef17d7500f2ac2",
+    "summary": "查询政府采购",
+    "description": "VectorGov 帮助用户直接通过 ChatGPT 研究巴西联邦公共采购法规、官方联邦采购目录项目和 TCU 采购裁决。用户可以搜索精选法律来源、查阅原文、浏览目录分类，并通过证据链接核实答案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa5c87fee8c8191be7798ec35595249",
+    "name": "Vectorize",
+    "sourceHash": "6728b337fe1a5b8523c6378ef1e799bc99e106d1b4c1eb0b1683308f8e1c7260",
+    "summary": "将徽标转换为可编辑的 SVG",
+    "description": "Vectorize 可将 PNG、JPEG 和 WebP 格式的徽标转换为可编辑的 SVG 版本。用户可以在交互式预览中检查和调整颜色、曲线平滑度、背景移除效果和画面构图，然后下载经批准的 SVG，或生成完整的品牌套件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a514a1300308191925ae607c0cb0d2d",
+    "name": "Vedetta",
+    "sourceHash": "b8e9b61b0ff4f0388a78f52b6639c0d2bf09f0b35a79a5a0ff618073ad196587",
+    "summary": "查看现场报告",
+    "description": "连接你的 Vedetta 组织，以审查 HSE 观察记录和 Daily Progress 报告、获取每日、每周或每月活动摘要、搜索已批准的报告内容，并评估自定义字段要求。Vedetta 保持只读；建议的要求变更必须在 Vedetta 中应用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0eac21e24881918187e9ab8361eec4",
+    "name": "Vegas",
+    "sourceHash": "cf580da4dfb1bae465f360cddd9b53b61e5322b382ae15fac7bc41c1483b1b9c",
+    "summary": "规划并分享拉斯维加斯行程",
+    "description": "Vegas 帮助你在聊天中规划拉斯维加斯之旅。查看天气和 7 天预报，查找现场音乐会和演出，浏览精选酒店和景点，并在交互式规划工具中制定逐日行程。完成后可通过链接与朋友分享计划，也可以为链接设置密码保护。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7303683cc48191b03414774c876c5a",
+    "name": "Vegas Guide",
+    "sourceHash": "c77888c10b4e0059891be461f30648ebe4828a62161a32c59b44e833e7a43a19",
+    "summary": "诚实实用的拉斯维加斯指南",
+    "description": "Vegas Guide 是独立的拉斯维加斯旅行指南，并非预订网站。你可以询问任何拉斯维加斯旅行相关问题；它会根据自己的编辑指南（规划、预算、行程，以及例如该选哪场 Cirque 演出或哪家酒店等坦诚对比）提供经过事实核查的建议、拉斯维加斯最新消息（新开业、停业、驻场演出），以及精选目录中的 174 场演出和音乐会、121 家酒店、130 个景点、69 项旅游项目，还有餐厅、酒吧、夜店和泳池。每个条目都经过编辑审核，包含真实价格、内部建议和不足之处。它还可以告诉你城市任意地点附近有什么。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a22a537c4ec8191b4849c4ee2806961",
+    "name": "Velaris Intelligence",
+    "sourceHash": "92ed2894caa1635e9afb2874e43403e4ea8966c87f12749f2300cf4b84ab238f",
+    "summary": "客户成功报告",
+    "description": "Velaris Intelligence 连接你的 Velaris 数据，按需生成可直接使用的客户成功报告。\n专为希望加快准备工作、无需在工具之间切换的客户成功经理打造。使用你的 Velaris 账户登录即可开始。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a61c3dd9f2081918c672e813fb7345e",
+    "name": "VeraDial",
+    "sourceHash": "065683bc5a5619782c1d265910d5742afbfddbd993bba20328b78230127cc23e",
+    "summary": "查看通话和消息",
+    "description": "连接你的 VeraDial 账户，以查看通话、AI 通话结果、语音邮件和通话转录、短信对话、电话号码、联系人、接线员设置、订阅状态及用量。访问权限为只读，并限定在已登录账户范围内；音频录音绝不会向你开放。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e37484f07481919c8031b8dd031d91",
+    "name": "Verne",
+    "sourceHash": "f2f11512695b4f7ad972788dc4e5faf182d61a4b4cf68a4f8c9a935e69758d6e",
+    "summary": "保存并完善旅行计划",
+    "description": "Verne 帮助用户从 ChatGPT 对话中保存旅行行程、查询带坐标的地点候选项、通过结构化更改修改已保存的行程，并移除不再需要的行程项目，然后继续在 Verne 地图和时间线工作区中规划。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a91e524b44081918911ddb0e78a4958",
+    "name": "Versive",
+    "sourceHash": "9aa84691f86c44b8548cfe356e022d21f71ee29df89683c6b2101fbd0ad35cec",
+    "summary": "开展调查和 AI 访谈",
+    "description": "Versive 让你可以在 ChatGPT 中开展由 AI 主持的用户研究。创建结合固定调查问题（单选、多选、评分、NPS、排序）和自适应 AI 访谈问题的研究项目，通过问题组和分支逻辑进行组织，并分享一个链接，让参与者以对话式访谈的方式作答。收到回复后，你可以查看完成率和中途退出统计、各问题的汇总数据及单次访谈转录，也可以导出全部内容为 CSV，全程无需离开聊天。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a61c5760fc08191932dbd30225194e1",
+    "name": "Vertical",
+    "sourceHash": "432b3ddd66bb15a45e4e24ba35451155723f6ae7cb72f5c0445d0e69d8c7ff22",
+    "summary": "训练并同步到手表",
+    "description": "无需再把跑步截图粘贴到 ChatGPT。Vertical 可直接与 Garmin、COROS、Polar、Suunto、WHOOP 和 Oura 同步，因此你提问前，ChatGPT 就已了解你的训练负荷、阈值和恢复情况。\n\n为 ChatGPT 提供 500+ 篇经同行评审的运动科学论文以及教练使用的相同生理模型作为依据，包括临界功率区间、阈值、体能/疲劳跟踪等。直接在聊天中制定或调整训练计划，并将训练内容同步到手表。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9b8a78c3b881919a1bffad07113bfb",
+    "name": "Vertical Bar Agent",
+    "sourceHash": "e91cc4fd35164f1d8cbf72806cdd7289811a4c81c1ef2836c3274daa3e91b3ef",
+    "summary": "分析 NetSuite 运营",
+    "description": "Vertical Bar Agent 帮助获授权的团队检查 CrossCheck 快照和流程挖掘数据、分析依赖关系与遥测数据、创建有依据的 Briefing、管理测试套件和发布包，并通过 ChatGPT 运行受治理的 NetSuite 工作流。它还可协助编写和发布 Stress Test 合约、打开对应的 CrossCheck 页面以启动一次 Run，并检查 Run 的进度和结果。只有在活动的沙盒或发布预览环境中，智能体才能启动 Stress Test 运行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3e675683ec81918e7ac0cfdd9abf99",
+    "name": "VerticalResponse",
+    "sourceHash": "bb79610be4c3c86b84ca5fc9789ee21b40b1ffc7ba35cdb9f1ed6e4ba01466e6",
+    "summary": "联系人、列表与电子邮件",
+    "description": "VerticalResponse 帮助用户在 ChatGPT 中搜索联系人、查看联系人详情、管理联系人列表、抽样随机联系人、导出经过清理的联系人数据、创建和更新电子邮件营销活动草稿、发送测试邮件、经明确确认后启动或安排营销活动，以及查看邮件营销活动表现。该应用支持确定性的 OAuth 审核演示账户；联系人和营销活动字段均使用明确且经过验证的输入；绝不暴露凭据或原始 API 响应；并且不提供删除营销活动、联系人或列表的工具。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a75663fc39c81919f9034be362c5d4a",
+    "name": "VesselTwin",
+    "sourceHash": "563cd8944fb2a5be5f3db38904304f20f406dc006c18f47c90738164ff4a53ff",
+    "summary": "询问你的船只记录",
+    "description": "连接 VesselTwin，即可让 ChatGPT 查询你已保存的船只记录。刚开始使用 VesselTwin？访问 vesseltwin.io 创建免费账户，然后选择“连接”并登录。基础访问权限可查看已批准的船只、维护、设备和文档元数据。Owner Pro 客户可以另行选择允许 ChatGPT 读取其所拥有船只的私人记录，包括提取出的文档文本。另一个可选的权限允许 ChatGPT 将建议的备注、检查清单、维护记录和测量数据发送到 VesselTwin 收件箱，供船主审核。只有船主接受后，内容才会保存为记录；客户可随时关闭任一权限。绝不会包含照片文件，也不会包含仅与协作者共享的船只的私人记录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1971e9eea48191933c571da8165c10",
+    "name": "Veto Pro Pac",
+    "sourceHash": "26c2eeb9d5bb8448a638375ff2098e9ed51ce5244d76fa9ad7a67fb83ee69dee",
+    "summary": "实用工具包",
+    "description": "VetoProPac 帮助你为所在行业和工作找到合适的工具包、背包、收纳袋或储物用品。搜索目录、并排比较产品、查看主要规格，并将商品加入 VetoProPac.com 购物车以完成结账。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a42d608995481919c044c15dc1f482b",
+    "name": "Vettara",
+    "sourceHash": "6cfb4aa11ec43e1d21b43107aacdf229b09b28e90e65f766f70ccafe83c9826a",
+    "summary": "高管人才寻访",
+    "description": "Vettara 允许获授权的工作区用户准备高管寻访简报、创建可编辑的 MCP 搜索会话、启动私密候选人搜索、监控运行状态、查看精简的候选人结果，并从 ChatGPT 导出已完成项目的 CSV。访问权限通过 Vettara OAuth 强制执行，每位用户只能查看其 Vettara 工作区权限允许访问的记录。Vettara 仅支持人才寻访和研究工作流程，不会作出招聘决定。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9c5f87e3648191840c0b30d98b0cae",
+    "name": "VeyrPiano",
+    "sourceHash": "8470efe5a6cab1daea9d79e9beb3b022507a9ce5479fb036a1f5f34ca0b5bc27",
+    "summary": "在钢琴卷帘中共同作曲",
+    "description": "VeyrPiano 在 ChatGPT 中为用户提供交互式钢琴卷帘，用于创作和继续共同完成的音乐作品。用户可以绘制、移动、调整音符长度、试听、移除、撤销和重做音符；调整延音和速度；还可以将作品交给 ChatGPT，让它执行一次范围有限的增补式创作。人类创建的音符显示为绿色，ChatGPT 创建的音符显示为蓝色，在作品发展过程中清晰保留创作者标识。之后可以明确重新打开正在进行的作品，并从最新的权威状态继续创作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6943d8c716c08191bb9a3ef0358147e2",
+    "name": "Viator",
+    "sourceHash": "7ebcaae8dec4e3576224a85f3b62a1e6c717ba5c744f2adce2f16c819471c944",
+    "summary": "发现旅行体验",
+    "description": "通过 Viator 应用发现并预订令人难忘的活动。\n使用自然语言搜索 Viator 的旅游、景点和体验目录。只需告诉我们你要去哪里以及感兴趣的内容，我们就会帮你快速、清晰地探索相关选项。\n你可以按目的地、日期、价格范围和类别缩小搜索结果，轻松地从宽泛的想法（“巴黎有什么好玩的”）筛选到符合行程和预算的选项。每项结果都侧重实用信息，方便你比较体验，无需在不同页面或标签页之间来回切换。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2214c0c00081919df26e22cbff07c0",
+    "name": "Vibe AI",
+    "sourceHash": "a5db69fa25969596406e014b51a8e2363896a5d749e8fcafc3f20a8cc42e3ead",
+    "summary": "查找会议记录和记忆",
+    "description": "将每次对话转化为有条理、可搜索的记忆。Vibe AI 是第 1 个情境式 AI 工作区；配合 Vibe Dot 和 Vibe Bot 使用，可记录对话内容，推动工作持续进行。\n\n同步来自 Vibe 设备的录音，然后查看转录、摘要、行动项目和笔记，随时都可以重新查阅。\n\n跨过往对话提出问题、查找关键决策，并让会议和备忘录中的工作上下文保持连贯。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7632963b6c8191b3da907392ba6676",
+    "name": "VideoGen",
+    "sourceHash": "e28452fe38e5c80fcd2e8c95686b2f0c31b15f1ed91fc4c230d38a218d0f6e83",
+    "summary": "使用 AI 创建和编辑视频",
+    "description": "使用你的 VideoGen 账户，在 ChatGPT 中创建专业且可编辑的视频和媒体内容。你可以随时在 videogen.io 上完善项目。\n\n工作流程：将旁白脚本、上传的配音、PDF/幻灯片或逐场景分镜转化为包含 AI 视觉素材和字幕的多场景视频。若只需要一段短镜头，也可以通过单条提示生成视频片段。\n\n媒体工具：创建图片、视频片段、配音、音乐、音效、动态图形和口播头像；放大图像、矢量化、移除背景，或为静态画面添加 3D 视差效果。ChatGPT 支持时，可使用聊天内上传工具上传品牌素材（徽标、产品照片、音频）。\n\n编辑和交付：混编项目（字幕、转场、让静态画面动起来），导出 MP4 文件，并通过深度链接返回 VideoGen 应用进行时间线编辑、团队设置和更精细的控制。生成内容会使用你的 VideoGen 团队额度；如果你的账户没有某项功能，请打开 app.videogen.io 管理 VideoGen 账户，然后重试。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f3198aec808191876254ae5bd50cf1",
+    "name": "Videomagic",
+    "sourceHash": "42604d14b988b17773ac5ac6dccbea2a1b48f392e841244c5fbe693b89dc4d58",
+    "summary": "创建并完善视频",
+    "description": "Videomagic 可将 ChatGPT 中讨论的主题、粘贴的简报、公开 URL 和附件转换为视频。ChatGPT 会根据当前上下文撰写视频描述；应用不会请求或传输原始对话历史。用户可以查看待处理的草稿、确认渲染、调整视频设置、跟踪进度，并在 ChatGPT 中播放已完成的媒体。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69764b4dee2081919eec8a58395a9c30",
+    "name": "VideoZero",
+    "sourceHash": "cdb06f4c0176c24fa12876ab6046bd1eac6735952ed9777c3ff1dfd22f25a986",
+    "summary": "可视化 • 动画 • 讲解",
+    "description": "你是否曾遇到一道难以想象的数学题？是否想过用图示讲解某种算法，却没有时间手动制作动画？VideoZero 可以生成你所需的视频，帮助你学习、可视化并讲解复杂概念。\n\n你将获得带旁白的视频，其中包含清晰的图表、动画和视觉讲解，帮助你学习、理解或展示新想法。想修改视频的某些部分？没问题——告诉 ChatGPT 要改什么，VideoZero 就会持续完善，直到你满意为止。\n你也可以试试我们的 MCP 集成，让智能体借助我们的引擎生成动画和视频。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a58ef91d61c81918ae23303e68e0ef5",
+    "name": "Vidmoat",
+    "sourceHash": "73d095604541c3993c2bcf3df14f420c181f88862d8ff9890e8a974d204dde3d",
+    "summary": "为智能体打造的视频编辑器。",
+    "description": "Vidmoat 是一款专为智能体打造的 AI 视频编辑器。告诉内置 AI 你想要什么，或接入 Claude 或 Cursor，它就会自动剪掉无声片段、制作卡拉 OK 式字幕、移除背景，并为各个平台重新调整视频画面。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6943ea2205bc819197978fd17e22f5c1",
+    "name": "Vio.com",
+    "sourceHash": "03d463f39748e532fd011a5403eb245847ec485e24a4497abcfe4600d3fcdb84",
+    "summary": "酒店预订与旅行优惠",
+    "description": "通过 ChatGPT 中的 Vio 比较酒店价格，并在各预订网站中找到最优惠的酒店。\n\n按目的地搜索酒店，在交互式地图上浏览结果，比较实时价格和房态，并查看酒店详情，然后再打开最合适的优惠。\n\n适合希望轻松比较酒店并通过 Vio 放心预订的旅行者。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9f3ff2e7908191a15ba5654d952e0d",
+    "name": "Vioscale AI",
+    "sourceHash": "5f433a61c0b339e69c12e43691b0b1bde01b81778cb74cf19111ccf33159e9d1",
+    "summary": "基于证据的软件信息",
+    "description": "Vioscale AI 帮助用户通过有证据支持的事实、透明评分和规范引用来发现、比较和评估软件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8713d41dc48191b33e75c49a764db3",
+    "name": "viral.app",
+    "sourceHash": "7fa5782f0b71f54463cf06f6d37e194b02262b449ef348ac460ff6387f3591fe",
+    "summary": "跟踪并分析 UGC",
+    "description": "viral.app 跟踪并分析 TikTok、Instagram、YouTube 和 Facebook 上的 UGC 表现。此插件将 ChatGPT 和 Codex 连接到你的 viral.app 工作区：查询已跟踪账户和视频的分析数据、创建排行榜和 KPI 报告、管理跟踪、使用标签和标签工作流整理内容、查看 Creator Hub 营销活动，并在需要最新数据时获取平台实时信息。通过 OAuth 登录，访问范围限定在一个 viral.app 组织内；会消耗计费额度的工具始终先说明费用，只有在你确认后才会执行。需要拥有带 API 访问权限的 viral.app 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c1338cff18819180f063482095ef31",
+    "name": "Virgin Atlantic",
+    "sourceHash": "ab137def22ae82be6341f1076ae876ff14044238aa24c9e9a31487832b3cdb34",
+    "summary": "在聊天中搜索航班",
+    "description": "直接在 ChatGPT 中搜索 Virgin Atlantic 航班。在一段对话中探索航线、比较选项，并找到符合你计划的航班。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699e258094bc819189e7028faa25de9f",
+    "name": "VisitorsCoverage",
+    "sourceHash": "39bcd2c77298bfe39be4c740a1939472ffb5e22980b8687cc1dce019c03beb1d",
+    "summary": "获取旅行保险报价",
+    "description": "寻找符合你需求的旅行保险。此应用帮助你了解保障选项、比较保险计划、获取报价，并根据预算和偏好查看个性化匹配结果。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69497cc4f0e481919268b8b28ae6e790",
+    "name": "Visualping",
+    "sourceHash": "44dfb95dbdc49eb9bc70a16ea6bb56f332bbaa8518d1f09de641f9ab7fef3a44",
+    "summary": "监控网站变更",
+    "description": "直接在聊天中跟踪任何网站的变更。让 Visualping 监控页面，并在页面发生变化时通知你。\n\nVisualping 会通过前后对比准确突出显示变更内容，让你无需手动重新检查页面也能快速查看更新。可用于跟踪竞争对手网站、降价信息、招聘信息、产品发布、政策页面等。\n\n可以尝试这样开始对话：\n- 监控此页面的变化\n- 每天检查此产品页面，若价格变动则提醒我\n- 此招聘信息更新时通知我\n- 此竞争对手页面有任何变化时提醒我\n\n如需更多控制，请打开 Visualping，自定义监控设置、通知渠道和提醒频率。",
+    "model": "codex-subagent-reviewed"
+  }
+]

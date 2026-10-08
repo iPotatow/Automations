@@ -1,0 +1,626 @@
+[
+  {
+    "id": "plugin_asdk_app_6a1350577c708191a90ae7a55ca4d8d1",
+    "name": "StepCue",
+    "sourceHash": "765f4a6e5fd76d973697545b59e253c8f5d904a00ffd9e746bd3acef35f04e04",
+    "summary": "开启专注学习时段",
+    "description": "StepCue 会把杂乱的学习任务整理成简短、循序引导的专注时段。告诉它你要做什么，它就会制定简单的计时计划，每次只安排一个清晰步骤。如果你分心了，StepCue 会帮你快速调整状态，让你无需纠结下一步该做什么就能回到学习中。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8f2681f7ec8191957fe2883676c9d2",
+    "name": "StewAI",
+    "sourceHash": "81cbb3ae0f55d8a14e4023a6470af38a84be532b879ccfe55043f4ce400f6e62",
+    "summary": "发现并运行工作流",
+    "description": "StewAI 帮助用户发现获准使用的 AI 工作流、预览所需输入、估算额度、运行选定的工作流，并获取工作流声明的最终结果，无需管理 API 密钥。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a836e56e4dc8191bbc1b86d3c84f0b6",
+    "name": "stierproducts",
+    "sourceHash": "258c99a6c888772dcaf76d5c0ac43cfd6971fc9ed567bbebb5b3e2a361dd6663",
+    "summary": "产品等级榜单，条条有据",
+    "description": "针对 208 个产品类别制作 S 至 F 等级榜单，汇总多轮独立研究结果，依据专家评测和产品所有者报告进行整理。每项排名都有引用来源，每条引用都注明媒体、原文引述、发言者，以及我们是否已访问并确认链接。榜单既会标出值得推荐的产品，也会把研究建议避开的产品列入末档，不会将它们略去，因此你能看到普通购物指南常常缺少的另一半信息。产品还附有 GTIN 条码；若制造商公布了公告日期，也会一并列出。没有联盟链接，也没有赞助排名：任何品牌都不能付费改变榜单位置。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aac1fa973348191a809efeebea27248",
+    "name": "STILL Artwork Credits",
+    "sourceHash": "498bb96da3304f75d50b92054254686567381d7f1837e1b8aed4e58312f949d3",
+    "summary": "生成作品来源说明",
+    "description": "生成注明来源的作品说明、图注，以及 Chicago、MLA 和 APA 格式的引文。可导入 The Met 和克利夫兰艺术博物馆支持的作品记录，也可手动提供元数据。STILL 会保留博物馆署名行、来源 URL、许可信息、出处记录、警告，以及精确到 UTC 的观察时间。支持英语和乌克兰语。生成的署名信息并不授予图片使用权限，也不构成法律许可。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a75fe41f71c8191933f6478462422d4",
+    "name": "StorageChain",
+    "sourceHash": "98530ba9a41f0a5ff900551bbfc26b6e689515a8591ce108f0bae174a83d9429",
+    "summary": "搜索已连接的文件",
+    "description": "搜索并阅读组织已连接到 StorageChain BYOC 的文件。在支持的云存储库中查找有权访问的文档、阅读支持的内容，并在 StorageChain 中打开来源引文。每项请求都会遵循组织、连接和文件夹现有的权限设置。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e9f0e9d5cc81919a09c6a893c2884d",
+    "name": "STORM Brains4Ai",
+    "sourceHash": "b93c6f6d1e37d9a9a07d4454574f4a277a0c20a5853247cd60e69d3615c23ebb",
+    "summary": "安全地自动化 AI 工作流",
+    "description": "STORM Brains4Ai 帮助团队使用受治理的工具运行 AI 工作流，包括知识搜索、内容生成、服务提供方模拟、产品目录查询、结账会话创建和 GeoQode 执行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69451aea5b6c819181bfadcabc1a675a",
+    "name": "StoryChief",
+    "sourceHash": "7f8756b0f108204fc75264acabaf66fc0accc3614845919f9d826e03e957691e",
+    "summary": "管理营销内容",
+    "description": "用户可以在 ChatGPT 中搜索、查看、创建和更新工作区内容，包括文章、社交帖子、网页、新闻简报、播客、视频脚本、网络研讨会和电子书。该应用会返回编辑器链接、评论上下文、排期字段和媒体详情，方便用户继续在 StoryChief 中审核、审批和发布。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8297e1099c8191904137b0102a35bf",
+    "name": "Storydoc",
+    "sourceHash": "9d843feaed20f7e7c06aef63d99c615bdc9dc2b2a958d565eee776193f5b2d52",
+    "summary": "制作并追踪演示文稿",
+    "description": "Storydoc 可以通过对话将演示模板转化为完成度高、个性化的演示文稿。浏览 Storydoc 账户中的模板，为特定客户填写变量并创建新版本，也可以使用 AI 向导从头生成全新的演示文稿。每份演示文稿都会保存到你的 Storydoc 账户，并以可分享的短链接形式返回。你还可以询问演示文稿的表现，获取互动总量、热门故事和版本，以及按设备和地点划分的数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b46f0a411081919279a6a2a842b988",
+    "name": "StraighterLine Degree Planner",
+    "sourceHash": "b69ff70a91c9a3cc05e9c0117e44c34ff2537babf78971d39f85bb827c61c757",
+    "summary": "完成大学学位",
+    "description": "StraighterLine Degree Planner 帮助你把目标转化为现实可行、可付诸行动的毕业路线。\n\n通过引导式流程制定计划：设置学位层次、专业、每周学习时间、预算、时间安排、学习风格和学校偏好。立即查看个性化的多阶段路线图，其中包括费用估算、可行性评分，以及对哪些方面有效、哪些方面有待改进的清晰分析。\n\n你可以测试不同方案、实时调整，并获取实用建议，帮助自己稳步推进并充满信心地毕业。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a57c4cc72508191ad0192ed8b302b1c",
+    "name": "Stratws",
+    "sourceHash": "465fd2156f144f02725150760f2666d483762a48da7d12f09278e1cb76008ada",
+    "summary": "AI 战略管理",
+    "description": "通过与工作环境集成的平台权限，在 ChatGPT 中直接将指标数值导入 Stratws。借助对话式体验，更高效地更新绩效数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_697a6fa71cf0819180be837fb974e099",
+    "name": "Streak",
+    "sourceHash": "ecfd1cb1aae926a17702efd0376a9eeddebedab921d23cf2017b4d7cf6107990",
+    "summary": "Gmail 中的 Streak CRM",
+    "description": "Streak 是直接集成在 Gmail 中的 CRM，可让你在收件箱中跟踪交易、联系人和工作流。\n\n邮件会自动记录，对话推进时销售管道也会更新，笔记和任务会关联到相应工作，无需将数据复制到其他工具。\n\n适合主要通过电子邮件管理销售、合作关系或客户关系的团队和个人，帮助他们清晰、及时地掌握工作进展。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4f9a13062c819188b8ba2bcc147f55",
+    "name": "StreamExpose",
+    "sourceHash": "ce8e789aeefb48fe2dbbf84b774fedea2c2496c5cf96bcdf51f0848d90adcbc8",
+    "summary": "准备 YouTube 直播电台",
+    "description": "StreamExpose 帮助创作者直接在 ChatGPT 中准备一个免费的 24/7 YouTube 直播电台。它可以打开 StreamExpose 设置向导，也可以预先填入电台名称、简介、音频来源、背景、隐私设置和 YouTube 模式。用户可以检查设置、登录，并在需要时授权 YouTube，然后明确选择在 StreamExpose 上启动电台。ChatGPT 应用不会宣传或协助购买。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a81c86ce83c8191b9328004f466c169",
+    "name": "STREEQ",
+    "sourceHash": "82626cd8af868d97797fff68d63b6c662a5a0149e0f2a029bdc19776b5c06e36",
+    "summary": "在 ChatGPT 中查看个人健身记录",
+    "description": "STREEQ 让个人能够通过 ChatGPT 受控地访问自己的健身记录。它可以读取锻炼、饮食、身体进展和支持的健康历史；记录相关证据；并在用户拥有相应计划时管理其锻炼计划或营养策略。如果某项计划由正在合作的 TRAINEDBY 教练所有，STREEQ 会阻止用户自行更改计划。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69bd87a9820081919a9bdbbac64c05ba",
+    "name": "Strella",
+    "sourceHash": "39b6cfedda224de9f332a8fb5e9a19effe89e67daab67d6131ccaae2c957c2d9",
+    "summary": "AI 原生客户调研",
+    "description": "直接在 ChatGPT 中浏览、分析并创建用户研究。让 Strella 融入你的 AI 工作流——这是一个利用 AI 开展深度访谈并生成可执行洞察的客户调研平台。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1da3a293708191bf050c94add006a2",
+    "name": "StrengthCode",
+    "sourceHash": "1a0d030343ff3cdcb7091609fa45236dec37b94a770a2c230e3031161a9ce7c3",
+    "summary": "训练计划与举重工具",
+    "description": "StrengthCode Public Coach Tools 提供只读的建议工具，帮助用户查找匹配的训练计划、比较方案、估算卡路里和举重负荷，并排查进展停滞的原因。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7f2b964c808191a468209c1453de1c",
+    "name": "Stress Platform: Health Coach",
+    "sourceHash": "acc4d8241662d6bee42a8bcc32f514e6f25eb53785805d75d2dfedf4854ac802",
+    "summary": "个人健康数据洞察",
+    "description": "Stress Platform 帮助你理解近期健康数据，包括睡眠、HRV、静息心率、活动、Daily Check-ins 和恢复情况。比较趋势及逐周变化，并根据你自己的数据获取个性化健康指导。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a394c40dfd8819184fb454831d65dd3",
+    "name": "Strety",
+    "sourceHash": "f10f13acf2f260e76bb45f9249e9dd842616a425ab78628cf1dedf9fa63cce8d",
+    "summary": "在 ChatGPT 中运营公司",
+    "description": "Strety 帮助领导团队通过 ChatGPT 查看公司背景信息、查找和管理优先事项、更新记分卡、处理问题、协调待办事项，并维护共享的运营文档。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6943659c75288191aaff11209f4e4fdd",
+    "name": "Strive PDF Generator",
+    "sourceHash": "d5d1208340067565476bb35f8e15d6948edbdd512e69ee9ceacd590614db8d2c",
+    "summary": "将 LaTeX 转为 PDF 和数学练习册",
+    "description": "无需离开 ChatGPT，即可创建、编辑和下载带有图表与数学符号的专业 PDF。\n用日常语言描述需求，或使用内置的 LaTeX 编辑器，然后立即下载最终 PDF。\n\n示例提示\n  • 教师：\n“创建一份包含 10 道题并附答案的二次方程练习册 PDF。”\n  • 家长：\n“这是我女儿的数学考试。请创建一份针对她需要提升的部分设计题目的数学练习册 PDF。”\n  • 学生：\n“创建一份聚焦运动学的 IB 物理模拟考试 PDF。”\n  • 教授：\n“把这份摘要和引言排版成双栏 IEEE 风格的 PDF，并预留引文占位符。”\n  • 专业人士：\n“根据以下 LinkedIn 数据制作一份 PDF 简历。”\n  • 开发者：\n“编译这段 LaTeX 代码并生成精美的 PDF。”\n\n无需再把 LaTeX 复制到外部工具。在 ChatGPT 中即可完成 PDF 的编辑、重新编译和润色。高级用户可以全屏打开 PDF，手动编辑并重新编译 LaTeX，所有操作都在同一处完成。\n\n主要功能\n  • 自然语言输入 – 只需描述你想创建的内容\n  • LaTeX 驱动的排版 – 清晰、专业的数学符号\n  • 即时生成 PDF – 几秒钟即可下载 PDF\n  • 灵活的查看方式 – 全屏、无干扰的 PDF 和 LaTeX 视图",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9760b823ec81919684c5efd83caf43",
+    "name": "Strix",
+    "sourceHash": "f654e9b3dcdda4fce731995fb90b1921be74a719de0066fc30a11cde853e475a",
+    "summary": "AI 渗透测试与漏洞分诊",
+    "description": "Strix 将 AI 渗透测试和漏洞管理引入 ChatGPT。查看近期测试，按严重程度排列未解决的发现，并检查证据和修复步骤。针对你获准测试的 Web 应用、API 和代码库启动测试；重新测试发现的问题；并通过已连接的集成创建修复拉取请求或工单。检查拉取请求的安全审查和供应链发现，管理定期计划和资产，并总结工作区的安全活动。使用 Strix 账户通过 OAuth 登录。访问权限遵循你在 Strix 工作区中的角色和资源权限。启动测试、重新测试、审查及其他安全工作流可能会消耗 Strix 额度，并向所选目标发送流量。部分功能需要符合条件的 Strix 方案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69409265562881918da363fb751f0b2b",
+    "name": "StubHub",
+    "sourceHash": "55c4f932a1d3992ecb8f05bb9d58430d58539bb384d9b8199149e3d6e33888cc",
+    "summary": "浏览活动并查找门票",
+    "description": "浏览活动并查找门票",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b2c6b3ad4c8191abf6712a33280379",
+    "name": "Studocu",
+    "sourceHash": "f3ecf3f6d47b6896d1da28939499b05bffe0d8772a50abe92dd6b8b9d23d7071",
+    "summary": "查找笔记和学习工具",
+    "description": "Studocu 帮助学生查找学习资料、设置课程背景、利用开放网络内容为回答提供依据，并通过 ChatGPT 管理经过身份验证的学习项目——添加来源、阅读材料、创建测验或模拟考试，并保存长期学习记忆。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8fd323aa6c8191ba835d7f6a76a770",
+    "name": "StudyArena",
+    "sourceHash": "7ee238e539440b16cd85fae66b59eb290df38aebcec26bae95943783049f62a5",
+    "summary": "比较 AI 学习答案",
+    "description": "提出一个学习问题，同时并排比较多个 AI 生成的回答。StudyArena 帮助学生探索讲解、写作反馈、研究方法和作业规划，然后选择自己认为最有帮助的答案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_695d7f8242a08191969581aab77d3c44",
+    "name": "StudyMe.ai",
+    "sourceHash": "d9e48650f2915e2eb851fd5f18501dd789829fb1626fbb9b5189b1ac2bc2fce1",
+    "summary": "教育：用 1 个链接授课",
+    "description": "StudyMe.ai 可以在几秒钟内把你的教学构想变成互动课程。\n创建课程并与学生分享完全免费。告诉 StudyMe.ai 你想教什么，包括主题、级别和目标，它就会生成一个可直接使用的课程网页，学生通过一个链接即可打开。\n教师可以通过向 ChatGPT 提示来轻松完善课程，也可以使用 StudyMe.ai 的编辑工具调整最终结果。\n学生通过测验、计算、拖放练习、清晰讲解和即时积极反馈主动学习。多样化的任务有助于提高参与度、增强专注力并促进深入学习。\n课程可通过专属链接即时分享，学生无需登录。\n非常适合希望快速创建高质量课程的教师、辅导老师和教育工作者。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a27a4ba98d48191862bca74909004fe",
+    "name": "Studyportals",
+    "sourceHash": "f93bc77f3f6400f1ba12b2530d748087d2172b68ea12ad796f0b98d8fad923b0",
+    "summary": "查找学习项目",
+    "description": "还不确定要学什么或去哪里学习？我们来帮你。\n\nStudyportals 帮助你直接在 ChatGPT 中探索全球各地的学习项目。\n告诉我们你的需求，例如学科、学位层次、意向地点、预算、背景或目标，我们会推荐兼顾个人意愿与实际情况的项目。你可以一目了然地查看关键信息：学费、时长、地点和真实学生评价，并轻松比较不同选项。\n发现感兴趣的项目后，可直接前往了解详情并采取下一步行动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ff25d774688191923ddf755696543f",
+    "name": "StyleCliq Salon Booking",
+    "sourceHash": "39b59426dcf5d28e345fe42451371f41e6f6af711338405394b3003ea511ba2a",
+    "summary": "查找并预约沙龙服务",
+    "description": "StyleCliq Salon Booking 帮助顾客发现已发布的沙龙、比较可预约的服务和时段、创建到店付款的预约，并通过 ChatGPT 管理自己的预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69458f632eb08191bae869ab77f1cb34",
+    "name": "Subdivide",
+    "sourceHash": "885f42c2abdbcab2ee85c73a7c93d094fff85b19fc3da93163b1998105f93b62",
+    "summary": "节拍器和节奏音轨",
+    "description": "下一次练习需要节拍器吗？只需描述需求，Subdivide 就会直接在对话中为你创建。\n\n使用 Subdivide，你可以：\n• 创建任意速度的节拍器，范围为 10-400 BPM\n• 使用 7/8、5/4 或 6/8 等复杂拍号\n• 添加从八分音符到七连音的细分节奏\n• 静音单个细分节奏，练习复杂节奏型\n• 创建包含多个段落和速度转换的节奏音轨\n\n非常适合排练、录音或现场演出准备。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5e657d56a48191a81597e6b0695cb9",
+    "name": "Success Academy Careers",
+    "sourceHash": "771bc9621dbb7b3a0eedeb6c8f49267e6a68c724b285096516fa902b37bdc21b",
+    "summary": "发现工作机会",
+    "description": "Success Academy Careers 帮助求职者浏览 Success Academy Charter Schools 的开放职位。按职位名称、地点或两者一起搜索，助手会显示相关机会，并让你在申请前深入了解职位详情。由 Appcast 提供支持。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69987ba54fec819199a41838df0cca17",
+    "name": "Success.co",
+    "sourceHash": "3bc84e940d25540ae4784e432f5b18ee385955bc8e74b46c45c337e055b9d402",
+    "summary": "运行 EOS® 的新一代软件",
+    "description": "Success.co MCP Server 让你可以直接通过 ChatGPT 管理整个 Success.co 工作区。\n\n无需在应用中四处点击，只需与 ChatGPT 对话并让它代你处理事务。你可以起草新的流程文档、完成待办事项、创建或更新 Issue、查看 Rocks、检查记分卡数据，或为即将举行的会议做准备。它像自然对话一样工作，同时连接着你的真实数据。\n\nSuccess.co 已经清晰、结构化地记录了公司运行 EOS 的方式，因此 ChatGPT 可以利用这些数据生成深入洞察和报告。你可以让它总结各团队的执行情况、突出风险、发现 Issue 中的模式，或生成规划简报。能做什么取决于你的需求。这些都是你的数据和运营系统，现在可供 ChatGPT 使用，帮助你更充分地发挥其价值。\n\n在外出时也特别实用。使用 ChatGPT 应用，你可以通过语音添加待办事项或 Issue，随时记录想法，无需等回到办公桌前就能继续推进工作。\n\nSuccess.co MCP Server 将 ChatGPT 变成管理公司 EOS 数据的实用控制层，帮助你更快行动、更清晰思考并保持协同一致。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8b1ebe49588191a38ff2211769d9d2",
+    "name": "Sudoku by BlueMoon",
+    "sourceHash": "d3f265eb3c837aa60e823b119bb81c40b34dfd73ab5147c2a114a5cef1576b5c",
+    "summary": "BlueMoon 数独：5 个难度",
+    "description": "直接在 ChatGPT 中畅玩全新数独。选择难度，然后使用屏幕数字键盘或键盘立即开始解题。\n\n每道题均为全新生成，且恰好只有一个解答。五个经过精心分级的难度适合各种水平的玩家：简单难度帮助建立信心，中等难度培养技巧，困难难度提高挑战，专家难度适合经验丰富的玩家，大师难度则带来最深度的考验。每个难度级别都根据解题实际需要的逻辑来衡量。\n\n专为流畅、令人满足的解题体验设计：\n• 即时反馈，让你轻松检查每次填入的数字。\n• 铅笔标记、擦除和无限撤销，让每一步都灵活可控。\n• 基于逻辑的提示引导下一步并帮助你学习。\n• 计时器、进度条和实时剩余数字计数让你保持专注。\n• 点击任意数字，即可高亮棋盘上所有相同的格子。\n\n可选择经典 9x9 数独、快捷的 4x4 或 6x6 谜题，或终极 16x16 Hexadoku，使用符号 1-9 和 A-G。\n\n随时享受片刻脑力休息、每日脑力训练或严肃的解题挑战。支持十二种语言。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d6aed609708191a384fb6b59438690",
+    "name": "Sumble",
+    "sourceHash": "b32617d87d8e8cf6027a597d4b1374f8a08a27322f780718afe7e8d8b2f0f813",
+    "summary": "销售账户调研",
+    "description": "Sumble 帮助销售团队调研公司、查看技术使用情况和招聘信号、查找专业联系人，并将账户或人员保存到列表。用户可以请求显示电子邮件和电话号码、生成账户简报、将结果下载为 CSV 文件，以及查找 Sumble 产品文档。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7c8752a3788191bf8727704e7dfa5b",
+    "name": "Sunate",
+    "sourceHash": "95f80ee0e7ef7f221e878100ac90674806f4d3fe43863db6588e51049d6f7e62",
+    "summary": "在 ChatGPT 中管理 CRM",
+    "description": "将 Sunate 工作区连接到 ChatGPT 和 Codex，通过自然语言处理日常 CRM 工作。查找和更新联系人、潜在客户、交易、任务、销售管道、分配事项和私人报价草稿；查看屋顶报告；并准备潜在客户开发请求。访问权限遵循每位成员在 Sunate 中的权限，敏感操作需要确认。使用此功能需要 Sunate 账户，并启用 OpenAI 集成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3bddaef8848191b12ee1232f2278fc",
+    "name": "Sunny Cars Booking Assistant",
+    "sourceHash": "e00dfd4f42f823a3b830f42d38d2aca17b935001fa9e0a7fd1f9f35f61eb59a2",
+    "summary": "查找租车",
+    "description": "通过简单对话找到合适的租车。描述你的行程——目的地、日期和用车时长——Sunny Cars 就会为你找到匹配方案，并清晰列出全部价格和透明的保险条款。比较选项后安心预订，无论你是在附近租车还是在世界各地租车。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69bb03d45bf48191b64f80acc33cad49",
+    "name": "Sunsama",
+    "sourceHash": "cb015bac58aaa839655b457ecbed35c2f2a04663cd53df2842d02e0bee5d2977",
+    "summary": "专注于今天最重要的事",
+    "description": "为现代专业人士打造的一体化任务管理器、日历和每日规划工具。减少干扰，进入心流，高效完成高影响力工作，同时避免精疲力竭。这款数字化每日规划工具帮助你保持平静与专注。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a53f7d79b5c81919a02e9814eb9f070",
+    "name": "Supademo",
+    "sourceHash": "9cf48b71e3fa3c781c7115472ef2efc219d08c145e75dd2ab2145a1ba9c323a6",
+    "summary": "创建和管理演示",
+    "description": "Supademo 帮助团队直接通过 ChatGPT 查找、创建、编辑、整理、发布并分析交互式产品演示和展示内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a26e97eb2fc8191b15ee022314a29f3",
+    "name": "Super Carl",
+    "sourceHash": "87ceaecfad4c24399726071a5a0e144f7f3528e9716ec6adba8a3f2f1392bfcc",
+    "summary": "AI 人脉关系洞察",
+    "description": "Super Carl 汇集大规模人物和公司数据、职业意向信号，以及 LinkedIn、Gmail、X 和 Instagram 上的人脉关系洞察，帮助 ChatGPT 用户找到合适的人，梳理人脉网络中最容易建立联系的路径，并开展以人际关系为核心的招聘、销售、募资、合作和跟进工作流。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4c1c427c6c819196fc5e83835d5feb",
+    "name": "Superhuman Docs",
+    "sourceHash": "d80b8ab17b9f5043add9c68607b23959421d6e2990c7acfa867258d8559bfa4f",
+    "summary": "创建、搜索和更新文档",
+    "description": "将 ChatGPT 连接到你的 Superhuman Docs 工作区，使其能够读取文档、查询表格，并执行创建或更新行等操作。使用 ChatGPT 搜索信息、管理项目，并借助 Superhuman Docs 中的数据自动化工作流。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1ac4817a6081919b271261c0c96277",
+    "name": "Supericons",
+    "sourceHash": "83370cdd844acb9e795a625d876e85814c806201c00909c27656918c28d122c9",
+    "summary": "更快找到合适的图标",
+    "description": "Supericons 帮助用户按含义、界面用途、图标库、风格或支持的语言查找并预览 SVG 图标。它可以为产品界面最多 20 个部分推荐风格一致的图标集，展示可视化预览，并在选定图标后提供准确的 SVG 代码。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a900093b0d08191b2b6a14d83eb4a28",
+    "name": "Superlist",
+    "sourceHash": "1b00f8dfcf7daff26788549a8fd48e5d6c8344ff346f179240a1ca349a952d0c",
+    "summary": "管理任务和清单",
+    "description": "Superlist 帮助用户通过 ChatGPT 管理个人和共享的任务及清单，包括查找工作内容、创建任务和清单、更新截止日期和备注、完成或删除项目、分配工作，以及与现有协作者共享清单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7e52504e0c8191b8bcba6b30cf8f92",
+    "name": "SuperMe",
+    "sourceHash": "aa9aff17bcdc3ce580046b0c36e0e373025980af3424651406c04b209d0a9d4c",
+    "summary": "查找专家并向其提问",
+    "description": "SuperMe 帮助用户寻找相关专业人士、查看个人资料、向选定专家征询意见、汇总回答、使用个人 My Agent、管理私人工作组，并为智能体上下文附加文件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a67234f23448191be9c4bc312600f4d",
+    "name": "SuperPrompter",
+    "sourceHash": "87dd0fd33464cf2de475a15e262d4587b790917bcd6c1c0981a46383535ff043",
+    "summary": "保存并整理脚本",
+    "description": "SuperPrompter 允许用户直接在 ChatGPT 中搜索、阅读、保存和更新私人提示词与脚本；Studio 账户还支持收藏和一级文件夹。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0e3d02f6e481918ad0f8c5b97b3ce4",
+    "name": "SuperQDA",
+    "sourceHash": "f9f9a594d25c8ad1723b53ec5ee274b89586d0d5daf2bfcd3cab46f6d69907b1",
+    "summary": "分析定性研究",
+    "description": "SuperQDA 将你的定性研究工作区连接到 ChatGPT。你可以直接在对话中访问研究项目、文档、编码和分析。\n\n你可以：\n- 浏览并阅读所有已上传文档（PDF、Word 文件、访谈转录稿）\n- 使用 perform_semantic_search 在研究数据中执行语义搜索\n- 使用 create_code 和 create_coded_segment 创建定性编码并将其应用于文本片段\n- 撰写分析备忘录并保存结构化分析\n- 使用 perform_text_search 在所有项目文档中搜索关键词\n\nSuperQDA 是一款定性数据分析（QDA）平台，供研究人员、学者和学生开展主题分析、扎根理论及其他定性研究方法。此集成让你无需离开对话，即可直接运用 ChatGPT 的推理能力分析研究数据。\n\n所有数据访问均通过 OAuth 2.0 + PKCE 进行保护。你的凭据绝不会与 ChatGPT 共享。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a693ba99aa88191b8ca2764e6ebb9cd",
+    "name": "Suplla",
+    "sourceHash": "be068668f31bac6bb30c45cf69dcbd4d7cc3f52cd11b6db9b44c3371c71d1a7d",
+    "summary": "个性化英语学习",
+    "description": "登录后的学习者可以通过 ChatGPT 查看英语学习进度、浏览语法主题和词汇、练习个性化题目，并报告学习数据问题。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5f95d1580c819191b8c4201be3630f",
+    "name": "SurveyMonkey",
+    "sourceHash": "8fdf0a1d5f3c945e6536f3087c4f6e7c4edf7caa4d47ab74ce199df8acd663be",
+    "summary": "创建、发布并分析调查",
+    "description": "直接在 ChatGPT 中创建调查、分析回复并发掘洞察。搜索调查、查看结果、生成摘要并探索趋势，无需切换工具。轻松将反馈转化为面向团队、客户、员工等群体的明确后续行动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ef3e92e16c81918e81d5597ced8441",
+    "name": "SurveySparrow: Forms & Surveys",
+    "sourceHash": "60aaedd629b8f4a0847672fa024431347b25d00a7784a7a87844c012744e6bb6",
+    "summary": "创建并运行表单或调查",
+    "description": "在单次 ChatGPT 对话中使用 SurveySparrow 应用创建调查和表单、将其分发给受访者并分析结果。\n\n你可以：\n- 针对各种用途设计调查和表单（NPS、反馈、员工参与度等）\n- 将调查发布到 SurveySparrow 账户，并通过电子邮件、SMS 或 WhatsApp 分发\n- 查看实时回复数量并跟踪账户中的调查活动\n- 分析回复，并从收集的数据中提炼规律或关键主题\n\n示例提示：\n\n1. 创建调查\n“为过去 30 天内购买过商品的客户创建一份 NPS 调查，包含评分量表和一道开放式后续问题。”\n\n2. 编辑调查\n“添加必填电子邮件字段，并让第 5 个问题更简洁。”\n\n3. 发布调查\n“将这份调查发布到我的 SurveySparrow 账户，以便开始收集回复。”\n\n4. 分享调查\n“通过电子邮件将这份 NPS 调查发送给我的客户名单。”\n\n5. 查看回复活动\n“有多少人填写了客户反馈表？”\n\n6. 跟踪调查库\n“目前有多少份 NPS 调查处于启用状态？”\n\n7. 分析回复\n“按常见主题对回复分组，并展示最重要的 3 项洞察。”\n\n使用此应用需要有效的 SurveySparrow 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a749de17d108191a74ab570120cd27e",
+    "name": "Swarm by Foursquare",
+    "sourceHash": "82948930004328aa3315f767148164947d7728d1ddae7b04c91c4e584c4e33a2",
+    "summary": "查找并收藏好去处",
+    "description": "Swarm 帮助你发现地点、记录到访，并保存个人喜爱的地点历史。查找附近或世界各地的餐厅、咖啡馆、公园、博物馆、酒吧及其他地点。获取基于位置的推荐、收藏以后想去的地方、创建和管理列表，并查看自己曾去过哪些地方。\n\n无论你是在规划旅行、探索新街区，还是想找回去年去过的一家很棒的咖啡馆，Swarm 都能让你轻松找到、整理并再次造访那些对你重要的地方。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3de8146ae4819186b6799a5d907074",
+    "name": "Swiggy Food",
+    "sourceHash": "c02c3884bd3fa0d9bf89574c3072db8405b27238aacf15c110676b48942a8ebc",
+    "summary": "从喜爱的餐厅订餐",
+    "description": "Swiggy Food 将印度最大的外卖网络带入 ChatGPT。查找附近餐厅、浏览菜单、选择规格和附加项来构建购物车、使用优惠券，并将真实订单下单到已保存的 Swiggy 地址——全程无需离开聊天。实时追踪订单状态，轻点即可再次下单。由你现有的 Swiggy 账户提供支持。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa258abd3d881918c6dc56382d59ad2",
+    "name": "Swigs Cloud",
+    "sourceHash": "0b25feda4967fc4c890d587979822538399461b9bbf422cced7a2a22b9ccbc9c",
+    "summary": "在瑞士部署和托管",
+    "description": "只需一句话，Swigs Cloud 就能将你的项目上线。提供 GitHub 仓库后，连接器会识别框架、构建项目，并通过位于瑞士的服务器以 HTTPS 发布。之后，你可以直接在对话中查看网站状态、阅读部署日志、管理环境变量，并回滚到之前的版本。你的数据始终留在瑞士境内，备份也不例外；价格以瑞士法郎计价。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa73c97b8288191ab40d6fa4458c815",
+    "name": "Swish Sports Court Builder",
+    "sourceHash": "30dd17289f933dee8dbacfdab820da8b6b6ab393567b08eafd4edd5e73a629b8",
+    "summary": "设计定制运动场地",
+    "description": "使用 Swish Court Builder 创建定制篮球场和其他运动场地设计。设置尺寸、选择地板和颜色、调整场地标线和边界，并添加运动线、徽标和文字。查看 2D 和 3D 预览，下载图片或视频，并在 Swish Court Builder 中继续编辑。顾客可以通过 Swish Court 网站查看并订购实体运动场地地板。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6878cb30988191a59fb5abfdb286a8",
+    "name": "Sydium",
+    "sourceHash": "d20d87172a8edede7a4109a651ec94f8a733369013eb1d2086652b7c10f73f96",
+    "summary": "用自己的风格安排帖子",
+    "description": "ChatGPT 版 Sydium 可连接你现有的 Sydium 工作区——使用需要有效订阅方案或试用期，连接本身不会自动开通方案（方案由 sydium.com 管理）。连接后，ChatGPT 可以按照你一贯的写作风格起草文案（根据你已发布的内容学习），安排或发布到最多十个平台（Instagram、TikTok、YouTube、LinkedIn、X、Facebook、Pinterest、Bluesky、Threads、Mastodon），查看帖子表现、获取今日内容灵感，并管理即将发布的队列——编辑、重新安排或取消仍处于排期中的内容。代理机构可以代表各个客户执行操作，权限范围与 Sydium 应用中的团队权限一致。发布操作需要明确确认：ChatGPT 会在内容发布到公开动态前征求确认。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ccd4e364008191a3904dc4e762fef7",
+    "name": "Symbol",
+    "sourceHash": "4d702625bb65fe5814f029f8de08598cae1f2908ed205cbc5a539f6a22abd294",
+    "summary": "保存并分享知识",
+    "description": "Symbol 帮助用户保存笔记、决策、文档、片段及其他 capsule 内容，然后通过 ChatGPT 搜索、编辑、引用、整理和分享这些知识。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8dd66c04248191b4789008fa77db0a",
+    "name": "Synaply",
+    "sourceHash": "fb33cfaa3e52a9c68a929431c1ee49563c8c113072a5ef021dd2196b2e0bc622",
+    "summary": "搜索公司知识",
+    "description": "将 ChatGPT 和 Codex 连接到组织内受权限控制的知识库。Synaply 会搜索已连接的电子邮件、聊天、文件、代码、日历、CRM 记录、洞察和人员信息；读取经过验证的源文档；追溯决策及结果；并让用户分享可长期保留的洞察，促进全组织学习。搜索结果仅限于经过身份验证的用户在工作区中拥有的权限范围。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a398355fbc08191a232e7eeeacb73d5",
+    "name": "sync. labs",
+    "sourceHash": "f61a12627de51334557041fe91621b761ecb22281b0ea3b4b594e0b1fa7fb9dc",
+    "summary": "为视频配音并制作口型同步",
+    "description": "使用 sync. labs 为视频配音、替换对白、生成口型同步表演，并让图像动起来。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a06f0d924b081918013900062d4c0af",
+    "name": "Syncee AI Dropship & Wholesale",
+    "sourceHash": "3ee93920bba79833eebfe668ecffa9600c43a0bb5b1cee979076dfbd1b730825",
+    "summary": "探索代发货商品",
+    "description": "Syncee AI Dropship & Wholesale 帮助网店卖家为线上商店寻找商品。从经过验证的全球供应商处发现数百万种优质代发货和批发商品。可以按类别、图片、价格、地点、人气或最低利润率查找商品。探索畅销商品、将商品添加到商店、查看订单和业绩，并在 ChatGPT 中了解 Syncee。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a547b24c764819181ca4fefaafce08c",
+    "name": "Syncly Social",
+    "sourceHash": "5bfe1a4e2c5d49953cd7ec09945c6bcdcbd4bb22b2b02ba1bd6f1b4d9d163588",
+    "summary": "追踪社交媒体上的品牌提及",
+    "description": "将 Syncly 的社交媒体洞察引入 ChatGPT 和 Codex。搜索社交平台上的品牌提及，包括视频内容。追踪情绪倾向和提及量的变化，发现热门创作者、关键词和趋势，并按表现为帖子排名，以了解哪些内容有效。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a98163f30548191864ee5e6188b09f6",
+    "name": "Syntheia",
+    "sourceHash": "d6e4b6a6873b8d937fe55541e0aed6678571f34b4cf1cb42b99fb9145095975f",
+    "summary": "比较并查询合同",
+    "description": "Syntheia 将律师每天都会做的两项工作带入 ChatGPT。\n\n比较：上传对方的草稿和你方上一版，Syntheia 会逐条列出新增、删除和移动的文本，并提供可下载的红线修订文档。\n\n查询：针对一份协议、多份协议或整个工作区提问。Syntheia 会分析每份文档的结构、追踪交叉引用，并返回准确的条款原文及其来源条款链接，因此每个回答都有文档依据，而非仅依赖摘要。\n\n文档保存在你私有的 Syntheia 工作区中，结果仅限于你的账户范围。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6c6ebc8f74819197497c772358751b",
+    "name": "Synthesia",
+    "sourceHash": "e01194314bd24bf70b389830d8b3b9e1f6f5b79335440480c841ab79b8ada859",
+    "summary": "将任意内容转成视频",
+    "description": "Synthesia 会将你正在处理的内容转化为完成度高、符合品牌风格的视频。\n\n从提示、脚本、文档或链接开始。我们会使用你工作区中的品牌套件或精选样式之一来制作多场景视频草稿。在聊天中选择样式或品牌套件，在 Synthesia 中打开草稿进行编辑，也可以直接生成视频并在聊天中观看。\n\n已有素材存放在其他地方？从已连接的工具中调取并直接交给我们——无需复制粘贴，也无需重新制作。\n\n你可以这样向 Synthesia 提出请求：\n\n“制作一段视频，解释我们最新的费用政策。”\n“把这份简报改编成一段面向新员工的两分钟视频。”\n“根据产品规格说明中的笔记制作一段内部发布视频。”\n“调取本季度的数据，为团队制作一段 90 秒的进展视频。”\n“查找我们上一季度发布的入职培训视频。”\n“总结本周发布的内容，并为销售团队制作一段视频。”\n“显示我的草稿。”\n\n要求：需要付费的 Synthesia 账户。连接一次后，我们将使用你现有的品牌设置和工作区权限——你只能看到自己在 Synthesia 中已有权访问的视频。\n\n想亲自动手？每份草稿或生成的视频都可以在 Synthesia 的完整编辑器中打开，以便编辑和润色。\n\n此插件目前处于测试阶段，未来可能会增加或移除功能，也可能存在错误。如遇到任何错误、反馈或问题，请通过 https://synthesiacreate.typeform.com/mcp-beta 和/或 support@synthesia.io 报告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ccd8330a608191b0bcd015d6b8f973",
+    "name": "Systembolaget",
+    "sourceHash": "71c05b98d6ed2858835509a1e747726aab8a5bc8d71125586745e4ba12e044f7",
+    "summary": "查找商品和门店",
+    "description": "帮助你找到合适的饮品和门店。询问哪些饮品适合搭配你的餐食、查看附近门店有哪些商品，以及查询本地门店的营业时间。\n\n可以试着这样问\n• 哪种葡萄酒适合搭配千层面？\n• Kungsholmen 的门店有这款商品吗？\n• Karlskoga 的门店什么时候关门？",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a750ed633b88191a49785a74c7d35bd",
+    "name": "tabiori",
+    "sourceHash": "03bf0d846e38ded0901db6784931fd802726d4c41c1e2c6bf231c0b69bc0abda",
+    "summary": "创建旅行计划",
+    "description": "tabiori 帮助旅行者根据 ChatGPT 对话创建和更新可分享的旅行计划。用户通过 OAuth 连接 tabiori 账户后，插件可以创建并保存旅行计划，添加或更新行程、日程、清单、笔记、素材片段、聊天消息、图片、酒店候选项和分享链接。更改会保存到用户的 tabiori 账户中，因此可以在 tabiori 中打开并分享计划。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5b7332e2bc8191bf1dc7cefb0e30b1",
+    "name": "table",
+    "sourceHash": "91f73e8e90ed597f87419d9c3d87b6685c94e2ba0dd4059d6a522835eba9ddde",
+    "summary": "保存并更新人脉关系",
+    "description": "table 将 ChatGPT 连接到你的人际关系工作区，让你在需要时查找联系人的背景信息，并将新详情保存回人脉管理工具。\n\n使用 table 连接器查询 table 中的联系人信息，然后根据对话、电子邮件、笔记或会议纪要中的明确详情创建或更新联系人。ChatGPT 可以帮助填写姓名、电子邮件、电话、组织、职位、地点、生日和联系人状态等字段。\n\n此连接器通过 table 的安全 OAuth 流程运行，以已通过身份验证的 table 用户身份进行操作，并提供专用联系人工具，而不是原始数据库访问权限。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5937013728819186b9de76e1f68de1",
+    "name": "Tableau (MCP only; EOL soon)",
+    "sourceHash": "d38249826650a9807c89c68cf3e6cb2974d6690f4a64674d3bd38b1392862b1e",
+    "summary": "Tableau（仅 MCP；即将结束生命周期）",
+    "description": "此基于 MCP 的插件即将停用，请改用新的 Tableau Plugin。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8dce0030048191b8fc4c322abfa372",
+    "name": "Tabulous",
+    "sourceHash": "00fdc3fc818afe26416c6d169d708478b5a1ad8d7fdf4efe84ceceac9d46f5d9",
+    "summary": "管理科学实验室数据",
+    "description": "将 AI 助手连接到 Tabulous 工作区。它可以查询 Registry 表和记录、列出记录中的文件，并检查工具包脚本和应用，让你无需离开聊天就能询问样本、实验和其他实验室数据。\n\n需要更改内容时，助手会将完整计划整理成变更集，并提供审核链接。无效计划会预先拒绝。在你批准之前，不会将任何内容写入线上数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d50acf13ac819181dd55f69f1bd7ba",
+    "name": "Tailo Lens",
+    "sourceHash": "99676679b99301af2e637a74d68a5a592c905d4986629d9d262ff49ad15a6517",
+    "summary": "支持你的研究之旅",
+    "description": "Tailo Lens 帮助学生在 ChatGPT 中更深入地开展学术研究。在探索主题和来源时，Tailo Lens 会将复杂内容拆解为清晰、结构化并经过评分的论点分析——突出不同学术观点，呈现支持或关联你研究的高引用论文，并让你访问学术内容全文。它还会分析你自己的提示词是否带有偏见，帮助你更客观地提出研究问题，并在学习过程中维护学术诚信。\n\nTailo Lens 由 Estendio 打造。该团队成立于 2014 年，致力于产生社会影响，改善 1.3 billion 名残障人士工作、学习和生活的方式，并推动建立以包容为常态的世界。Tailo Lens 专为考虑神经多样性学习者的需求而设计，让每位学生都可以在 Tailo 简洁、一致、无干扰的阅读视图中打开研究期间发现的学术论文和来源全文。\n\nTAILO LENS 的功能\n\n突出不同观点——根据研究过程中发现的多个学术和网络来源为论点评分，呈现相互对照的观点，并提供清晰的可信度评级，以支持学术诚信和批判性思维。\n\n高引用研究论文——呈现经过同行评审的论文及其引用次数和影响力评级，帮助学生快速判断学术分量；完整 PDF 可直接在 Tailo 的无障碍阅读视图中打开。\n\n丰富来源信息——从 ChatGPT 的回复中提取引文，并补充引用次数、影响力标签和出版类型等学术元数据；点击“Open in Tailo”按钮，即可在 Tailo 优先考虑无障碍体验的阅读环境中继续阅读。\n\n提示词偏见检查——分析研究提示词中是否存在诱导性措辞、错误前提或确认偏误，并建议更中立的表述，以支持平衡的学术探究。\n\n如何在 ChatGPT 中使用 TAILO LENS\n\n1. 将 Tailo Lens 连接到 ChatGPT。\n2. 输入 @Tailo Lens，然后说明你想探索的内容。\n\n示例提示\n\n分析论点并突出不同观点：\n\n@Tailo Lens 分析此回复中的论点和来源\n@Tailo Lens 核实这一论断：2022 年全球人口达到 8 billion\n\n查找高引用学术论文：\n\n@Tailo Lens 推荐关于量子叠加的阅读材料\n@Tailo Lens 推荐相关论文\n\n在 Tailo 的无障碍阅读视图中打开来源和论文：\n\n@Tailo Lens 提取上一条回复中的来源\n@Tailo Lens 在 Tailo 中打开此聊天里的来源\n@Tailo Lens 在 Tailo 中打开《人类血液中塑料颗粒污染的发现与定量》\n\n检查提示词是否存在偏见：\n\n@Tailo Lens 检查我的提示词是否存在偏见\n\n关于工作方式的说明\n\nTailo Lens 提供来自学术数据库和网络来源的上下文信息，支持你自主进行批判性思考；帮助你在学习和研究时获得更广泛、条理更清晰的认识，并更有信心地开展研究、恪守学术诚信。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6a4c69950c8191b9ae80cbe1ab5e00",
+    "name": "Tailwind",
+    "sourceHash": "9dc443a6daed6f88969ee9b777d80c7ecc504ae11817324a57d3d6821700a56f",
+    "summary": "创建并规划 Pinterest Pin",
+    "description": "Tailwind 帮助用户通过 ChatGPT 从网页生成 Pinterest Pin 草稿，浏览已连接的账户、画板、画板列表和分区，创建和管理画板，按主题研究公开的 Pinterest 群组画板，查看草稿和推荐发布时间，检查账户订阅状态，管理已保存的关键词列表，安排 Pin 发布，编辑草稿和已排期 Pin 的文案，并删除尚未发布的 Pin。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fb789923988191a03797de71aa0cc2",
+    "name": "Tako",
+    "sourceHash": "73159961bb6770c82478d618e61ce44afe637607a161f2b050112b7e134c7234",
+    "summary": "搜索实时数据和图表",
+    "description": "Tako 帮助用户从专有数据集和实时网络中查找当前数据与指标，并生成附带引文的图表；获取底层结果内容、检查可用数据覆盖范围，并根据用户提供的结构化数据创建可分享的公开图表链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e7b8b1a66c8191a8aa34e6ba618ef3",
+    "name": "Talents Kids",
+    "sourceHash": "61e87ad491755ad2fe14f718c4623fd2ebac7fc1e54ed17559907aaf558e6c38",
+    "summary": "发掘孩子的天赋",
+    "description": "Talents Kids 是发掘和培养孩子天赋潜能的首选方式。我们将绘画、写作和学校项目等日常作品转化为深入的天赋洞察，帮助家长和教育工作者准确了解孩子的优势所在。\n\n我们的平台不只进行分析，还会采取行动：生成个性化学习练习册和创意涂色页，让发掘天赋成为每日学习冒险。无论你是通过已获得的成就追踪进度，还是导出全面的天赋报告，Talents Kids 都能提供所需工具，帮助你随时随地支持孩子独特的成长之路。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d66f1e2abc8191b041e1dd10105a3e",
+    "name": "Tally",
+    "sourceHash": "1491d5090c117e320723cb6c642578ef3730732c506aa1b63131049e69e1acc7",
+    "summary": "创建精美表单",
+    "description": "借助 AI 更快创建 Tally 表单。用通俗的英语描述需求，应用就会生成清晰、结构良好的问题，可立即使用。它非常适合调查、反馈表、申请表和注册表单，帮助你在几秒钟内从构想到可制作的表单，同时让工作流程保持简单高效。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f4b69414a8819189c3ddd446cfbb40",
+    "name": "Tallyfy Workflow Automation",
+    "sourceHash": "df6c6abf8f0faffb7e6bdf4742d9a5a3c8e15383bbae9465bc0238ac2c1cc4fc",
+    "summary": "在聊天中运行工作流",
+    "description": "连接 Tallyfy，直接在聊天中运行工作流。启动和追踪流程、完成和分配任务、管理审批、搜索整个组织，并在自己的 Tallyfy 账户中创建或更新模板。\n\n可以试着这样问：\n“为 Jane Doe 启动新员工入职流程。”\n“显示我的未完成任务”或“Sarah 正在处理什么？”\n“我们有哪些模板？”\n“创建供应商入职审批工作流。”\n“完成‘发送欢迎邮件’任务。”\n\n由团队工作流与流程自动化平台 Tallyfy 打造。使用自己的 Tallyfy 账户登录，助手只能查看你有权查看的内容。支持 100+ 项操作，涵盖任务、流程、模板、审批、表单和搜索。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2050b4a4288191a5773ec014900068",
+    "name": "Talonic",
+    "sourceHash": "b143801447113435c460c50b1e863f2ded3845eacede8f0efc8db01231bd90d1",
+    "summary": "提取数据并与文档对话",
+    "description": "Talonic 帮助用户将 PDF、扫描件、发票、合同、证书、对账单和表单等文档转换为经过架构验证的 JSON。\n用户可以提取结构化字段、将文档转换为 Markdown、搜索和筛选 Talonic 工作区、管理可重复使用的提取架构、查看文档状态、请求浏览器上传链接，并查看额度余额信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5fc156fad88191a3977b60131d7391",
+    "name": "Tamarind Bio",
+    "sourceHash": "a0cf664f1d52fee9ce2586f1912ef471b58b6a9e2c8c7029ae97b3e8f3a0f019",
+    "summary": "蛋白质与分子设计",
+    "description": "将 ChatGPT 连接到 Tamarind Bio 工作区，开展蛋白质和分子科学研究。使用 300+ 种工具验证、估算、提交并监控任务，涵盖结构预测、对接、蛋白质和抗体设计、分子动力学及性质预测。将工具串联成流水线，一次批量提交多个输入，并直接在聊天中获取结构、结果和日志。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699f16ca9088819197fdf3c876e03312",
+    "name": "Tango MCP",
+    "sourceHash": "edadddfadf5ec4f975f03dacf4d46ff554c0b11e79d1b98532e22e05db3e9125",
+    "summary": "统一的政府承包数据 MCP",
+    "description": "Tango 为联邦采购数据提供统一 API 和 MCP。Tango 由政府承包领域的专家和软件开发人员打造，他们了解整合多个政府数据源所带来的困难。专为公共部门的开发者和需要适配 AI 的数据使用者设计。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3b06c861bc8191ab6c15bbf83dae60",
+    "name": "TapWaterMap",
+    "sourceHash": "e6c1668c05e8aeb97f234fcefff094cd665e859c89ff672ec45b7ced264b3438",
+    "summary": "按城市查询美国自来水质量",
+    "description": "TapWaterMap 按城市展示美国自来水水质，使用 EPA 自身的 Safe Drinking Water Information System (SDWIS) 记录。覆盖约 19,000 个城市，遍及全美 50 个州和 DC。查询服务某座城市的供水系统、记录中的污染物和违规情况——包括日期以及 EPA 是否将其归类为与健康相关的问题；并排比较不同城市，还可以了解各类污染物的含义。信息客观且有来源：它只报告 EPA 的记录，不会给出安全性结论。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a16897793d081919c779599b07c5550",
+    "name": "TaqMan Assay Search",
+    "sourceHash": "d7b98dd050a38fcdca2ec244aced021db9bd9a3bde43a595cefa4b4d59739fde",
+    "summary": "询问 TaqMan(TM) Assays",
+    "description": "生命科学研究人员可以通过此应用探索 Thermo Fisher Scientific 的 TaqMan Assays，用于基因表达研究。使用 ChatGPT 按基因或物种搜索、筛选结果，并通过对话式体验探索和比较检测项目。比较关键详情、查看检测设计信息，并轻松前往 thermofisher.com 购买用于 qPCR 或 dPCR 的检测项目。\n\n仅供研究使用。不得用于诊断程序。TaqMan Assays 为 RUO（仅供研究使用）。TaqMan 是 Roche Molecular Systems, Inc. 的商标，经许可和授权使用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6923772ef3d48191b6b18899af1cb037",
+    "name": "Target",
+    "sourceHash": "b1fb55e7efb807b9a8d10be3df57b34d0b38fec7f0d5dda74fae27ed2903ee6b",
+    "summary": "时尚、家居、美妆等商品",
+    "description": "Target 应用在 ChatGPT 中提供精心策划的对话式购物体验。购物者可以询问商品灵感、浏览并创建包含多件商品的购物篮、购买生鲜食品，并选择配送方式结账，包括 Drive Up、Order Pickup 和 Shipping。\n例如，用户可以在 ChatGPT 中提及 Target 应用并说：“帮我策划一个家庭节日电影之夜。”随后即可获得精心挑选的灵感——舒适的毯子、蜡烛、零食、拖鞋等。他们可以浏览商品、搭配理想购物篮，并通过 Target 账户结账。Target 还计划推出 Target Circle 账户关联和当日送达等新功能。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a735dca81108191a9ee80ebfd3866c8",
+    "name": "Tariff Code Compliance",
+    "sourceHash": "71512b78a12416d431ca9f53664f06a67297be3f1939a47e99940a2ed70c6116",
+    "summary": "研究关税编码",
+    "description": "Tariff Code Compliance 帮助用户查找现行关税体系、研究分类节点及其证据、比较备选项，并生成仅在当前会话中有效的产品分类建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6943a2c078b0819188de39e4fe168d9b",
+    "name": "Tarot",
+    "sourceHash": "98dfb29d7648f25621d9c3d02af360b97e2a39c70c07651f9f99c53c1ee1fb90",
+    "summary": "塔罗牌占卜",
+    "description": "直接在 ChatGPT 中开启塔罗占卜。让 AI Tarot 洗牌、摆出三张牌阵，并提供清晰、私密的占卜解读——没有广告，也无需等待。\n\n如何在 ChatGPT 中使用 Tarot\n\n1. 连接：将 Tarot 应用连接到 ChatGPT。\n2. 启用：输入指令：在聊天框中输入“@”并选择 Tarot 应用，或者输入“Tarot”（后面加一个空格）。\n3. 开始：准备就绪！可以具体这样问：\n“为我的爱情生活抽塔罗牌。”\n“抽三张塔罗牌，并解读牌阵对我即将到来的一周意味着什么。”\n“抽三张塔罗牌，解读如何平衡工作与健康。”\n\n想深入探索？可以在聊天中继续追问，或打开完整应用，了解更丰富的象征含义并保存占卜结果。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a50cc5595c48191ad4c2651fac1da50",
+    "name": "Tarotap",
+    "sourceHash": "df20229ba62470861b848a3ebdd6d65433aa4997f086dca1d4dbf74ff8928db6",
+    "summary": "抽取塔罗牌进行占卜",
+    "description": "Tarotap 让你无需离开 ChatGPT 就能抽取真实塔罗牌。提出问题后，Tarotap 会在服务器上洗一副完整的 78 张 Rider-Waite-Smith 塔罗牌，并在交互式组件中将牌面朝下展开。你可以亲自挑选牌；每张牌落定后都会翻开，最后一张揭晓后，ChatGPT 会结合你的问题解读牌阵。\n\n结果不会预先决定：牌可能正位或逆位，在你翻开之前，所有人都看不到牌面，ChatGPT 也不例外。你可以从 14 种经典牌阵中选择，例如时间流（过去、现在、未来）和凯尔特十字，也可以自由抽取 1 到 10 张牌，包括快速抽取每日一牌。\n\n无需账户或登录，Tarotap 不会存储任何关于你或占卜的信息。只需提出占卜请求并抽牌即可。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694ede64ff608191b4ae858c9f75f100",
+    "name": "Tarteel",
+    "sourceHash": "5a4e3d07af548ceeeb5868dd97c55a5876df8bb69129049360dfdad6a05ea047",
+    "summary": "探索古兰经资源",
+    "description": "Tarteel 将深入的古兰经研读带入 ChatGPT。阅读任意一节经文，并查看 50+ 种语言的译文，或来自 20+ 个学者文集的详细经注。通过不受变音符号影响的匹配方式按阿拉伯语文本搜索古兰经，探索《穆斯哈夫》中反复出现的短语（mutashabihat），并收听 17+ 位著名诵读者的诵读，包括 Al-Husary、Al-Minshawi 和 Abdul Basit。查询全球任意城市准确的伊斯兰礼拜时间。所有内容均来自经过验证的学术来源，可信、忠实于传统，并随时可供你查阅。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_connector_1p_8a9e47b5cbec81919040dc99b952027b",
+    "name": "Task Tool",
+    "sourceHash": "c2d71db2e02bf3a99e5e57aa3033ccb3a7e267799a1b44da41e0a278a89a2acc",
+    "summary": "创建和管理任务",
+    "description": "验证 Task Tool 是否可用，或创建、获取、列出并更新受管理的任务及其私有 Markdown 计划。",
+    "model": "codex-subagent-reviewed"
+  }
+]

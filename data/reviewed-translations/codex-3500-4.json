@@ -1,0 +1,666 @@
+[
+  {
+    "id": "plugin_asdk_app_6a32575772f481918f88503de126c411",
+    "name": "Rings AI",
+    "sourceHash": "e6b1e96c6efb2d9c21ab0523bb873c20818937abd2f15ea58065f5bbe5544e08",
+    "summary": "关系客户管理",
+    "description": "Rings AI 允许已通过身份验证的用户搜索关系数据、查看个人和公司信息、管理私人列表、创建备注和任务，并在 ChatGPT 中更新 CRM 记录；权限与 Rings 中的租户权限保持一致。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69444a9938e88191962ce0bbcc7c3870",
+    "name": "Rio Las Vegas",
+    "sourceHash": "add8cd8cc9fa16b3895982a2d5fac0b335da27ef4cc0156a0747ce44a58c9052",
+    "summary": "客房与酒店信息",
+    "description": "Rio Las Vegas 可帮助住客直接在 ChatGPT 中查看酒店详情、客房和套房选项、图片、价格、预订链接、取消链接以及服务请求确认信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a23ca3985e881918799f80cd2eb574e",
+    "name": "rit.run",
+    "sourceHash": "e9f100af045d8c23bf30dac2fec36be7bb5d51b7425a252d59d9c4702b124656",
+    "summary": "跑步指导摘要",
+    "description": "rit.run Coach 帮助已通过身份验证的 rit.run 用户在 ChatGPT 中查看安全的个人资料、锻炼、每周训练、心率和跑鞋摘要。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8d75a67bfc8191aeb2a2d21f9d8cd2",
+    "name": "rit.run",
+    "sourceHash": "4aad4e2ca44c3092ed912890ca55fafdba0b567e0e9f664f57e9851fd8d72814",
+    "summary": "跑步指导摘要",
+    "description": "rit.run 帮助已连接的用户查看跑步活动、心率和配速摘要、跑鞋以及当前每周训练计划，以获得健身指导。用户可以比较 rit.run 跑者、跑鞋和匿名路线排行榜，打开经过隐私处理的 Google Maps 链接，请求调整符合条件的未来计划日，并向 rit.run 提交训练方法或产品反馈。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7e2518fdf88191bcfab1b7aeac0494",
+    "name": "RiverScript",
+    "sourceHash": "3faeda63a095f7b83478036458e433293cb0c0be3cb2138e8323c2ec54c851a4",
+    "summary": "将转录内容带入 ChatGPT",
+    "description": "使用 RiverScript 捕获并转录电脑上能听到的所有内容，然后将转录文本带入你的 ChatGPT 工作流。\n\nRiverScript 可将会议、通话、讲座、播客、访谈及其他媒体内容转成文本。你可以使用适用于 Windows 和 Mac 的 RiverScript Desktop 客户端，直接录制任意应用的系统音频；也可以转录最大 50 GB、时长 8 小时的音频和视频文件。\n\n在 RiverScript 中，点击你想带入 ChatGPT 的转录内容旁边的 Share 按钮并获取链接。将链接添加到此应用，然后按自己的方式继续在 ChatGPT 中处理转录内容。\n\n它同时支持转录文本及其 AI 翻译。\n用 RiverScript 转录，用 ChatGPT 处理。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7c90343f80819194c6cc6dac6e1fae",
+    "name": "Riverside",
+    "sourceHash": "adf74f7bf580b8a9d13886f196d6f15d1bd84955a0d0ecbde8839d0124cf0432",
+    "summary": "搜索、编辑和发布视频",
+    "description": "Riverside 是一个端到端的视频和播客制作平台。连接后，你可以编辑录制内容、剪辑社交媒体短片、发布到所有频道、起草每期节目的全部素材，并在录制内容中查找任意时刻。需要 Riverside Grow 方案或更高等级的账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a98d577cb1881919b34b0af0d6240c5",
+    "name": "Riveter",
+    "sourceHash": "744d76075d6aaa773210fc8d3cf6f156d27e7824724075e7b9490b8b52ab3e24",
+    "summary": "构建结构化网页数据集",
+    "description": "Riveter 可将网页调研转化为结构化数据。向 Claude 提供公司、人员或 URL 列表，并要求新增列，例如产品介绍、收入、深入分析、公司员工人数、链接溯源、定价、技术栈分析、联系方式、分类、摘要等。Riveter 会为每一行运行一个 AI 智能体，搜索并阅读网页，然后用附有来源的答案填充每个单元格。\n\n你可以做什么\n\n- 丰富已有行。粘贴列表，或指定已保存的 enrichment，即可获得新列。每次运行最多 10,000 行。\n- 根据描述创建列表。例如：“印第安纳州的所有律师事务所”“所有医疗健康领域的 YC W24 公司”“Stripe 的竞争对手”。Riveter 会生成行，并可在同一次运行中丰富数据。\n- 抓取网页。提取任意 URL 的干净文本或 Markdown，包括由 JavaScript 渲染的网页。\n- 搜索网络。获取一次性搜索结果，或使用研究智能体，以结构化、符合指定 schema 的格式回答问题。\n- 从网站提取记录。定义所需字段，并将列表页、目录或产品目录中的数据提取为 JSON。\n- 监测变更。按日、周或月运行已保存的数据丰富任务，并在内容变化时获取提醒或 webhook。\n\n工作方式\n\n长时间运行的任务采用异步方式。Claude 启动任务、检查状态，并在结果就绪后获取结果。每次运行都有一个可供后续查询的 id，结果会保留在你的 Riveter 账户中。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a20cdbd19b88191a86183b0d48b3656",
+    "name": "RivetPoint Careers",
+    "sourceHash": "8c1272f62a0be5acb7f9d0af17a6426f6942eb7a9b83600b35674103819f6c21",
+    "summary": "发现工作机会",
+    "description": "RivetPoint Careers 是由 Appcast 构建并运营的演示应用，用于展示 ChatGPT 上由 AI 驱动的候选人互动。助手可帮助求职者探索开放职位。此 GPT 与任何真实雇主均无关联，仅供演示使用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a16d57ac7a08191b504fc3c66540693",
+    "name": "Rize",
+    "sourceHash": "7e634c252cab33717b9b0a7401edaadffd937092875d539b17bad6cefa686ff4",
+    "summary": "追踪和分析时间",
+    "description": "Rize 帮助用户查看已追踪的时间、应用和网站活动、项目、客户、任务、团队工作量及盈利数据。MCP 工具支持列出和创建工时记录、批准 AI 建议、添加工作备注、管理客户/项目/任务/团队成员，并在用户已通过身份验证的 Rize 工作区中查看合同盈利情况。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a21a9cfb3708191862647bbcdc6da71",
+    "name": "Road Trip Planner",
+    "sourceHash": "21668c938c1518dacf82d396d0b8eaf95c332a262e3e196833cfff7ca551bfaa",
+    "summary": "查找露营地住宿",
+    "description": "Road Trip Planner 帮助你找到适合自己旅行方式的露营地。你可以查找国家公园附近的 RV 露营地、允许携带宠物的帐篷营位、带空调的小木屋，或配备淋浴间、游乐场、WiFi 和狗狗活动区的家庭友好型露营地。\n\n按目的地、附近坐标、露营方式和设施搜索，然后比较实用信息，例如位置、营位数量、规则、可用时的露营地图，以及来自 Park With Us 的直接预订链接。无论你是计划在心仪的徒步路线附近度过周末，还是为长途旅行寻找今晚的落脚点，它都能把户外旅行想法转化为清晰的住宿选择。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69dfe2c0be7081918ff1989b77524247",
+    "name": "RoadOps",
+    "sourceHash": "4ebdb8bef7d60712132947ddcaff0884e462c0c75f1dbb0e34d6ef44a12d0643",
+    "summary": "规划。分享。执行。",
+    "description": "RoadOps 帮助巡演团队使用 ChatGPT 查看团队日程、安排、住宿、场地、活动、嘉宾请求和冲突；当用户拥有所需团队访问权限时，还可创建或更新私有 RoadOps 记录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a32c0c428388191912577d648a44ba4",
+    "name": "Roam Research",
+    "sourceHash": "10e093751d18c4b30ae6b9e4938fa0246146e567e8c66c596d275768fd13735f",
+    "summary": "读取和更新 Roam 图谱",
+    "description": "此应用将 ChatGPT 连接到用户授权的 Roam 图谱，使智能体可以读取和写入图谱。使用此应用，ChatGPT 可以搜索和检索页面或区块、运行 Roam 和 datalog 查询、追加笔记、创建页面或区块、编辑内容、管理评论，并在获得许可时删除所选页面或区块。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69440fd8462c8191a40e145c724ce509",
+    "name": "robin",
+    "sourceHash": "8e246fb059eebb253387d0d7aab8a0398bfa6476f427d5fcc4680e9fdf19f683",
+    "summary": "寻找你的理想新家",
+    "description": "Robin 是在瑞士寻找下一套住宅或公寓的首选方式。根据你的偏好寻找房屋，过程简单、直观，也符合你的风格。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3a9c7dd3dc81918e8aa2d69d5f4081",
+    "name": "Rock Paper Scissors (RoShamBo)",
+    "sourceHash": "529a46568248359bd4150a8dc57b86f3e01a3a6388366fc9da1c078208193afd",
+    "summary": "畅玩经典趣味免费游戏",
+    "description": "石头。剪刀。布。AI。\n\n与 ChatGPT 玩这款世界上最知名的猜拳游戏。\n\n选择石头、剪刀或布，看 ChatGPT 出什么。每一轮都会立即揭晓，非常适合快速挑战、解决争论，或测试你和 AI 对决时的运气。\n\n功能\n\n* 与 ChatGPT 对战\n* 每轮即时显示结果\n* 界面简洁明了\n* 游戏次数不限\n* 趣味 AI 体验\n\n你能胜过 AI，还是 ChatGPT 会猜中你的下一步？\n\n选好你的招式。做出选择。战斗开始。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b6a597ae748191997f2a90e1b9d456",
+    "name": "Rolf Automobile Showroom",
+    "sourceHash": "7d7773df637e467f9b8d902f9bdddd344d44795df6d72a16f7b2268b5b7d4ba5",
+    "summary": "从库存中寻找汽车",
+    "description": "Rolf Autohaus Showroom 可帮助用户直接在 ChatGPT 中搜索和浏览 Fleetmarkt 库存中的车辆。\n\n用户可以搜索在售车辆、比较车型和品牌、查看车辆详情，并按品牌、价格、燃料类型或车辆类型等偏好寻找汽车。\n\n该应用将 ChatGPT 连接到我们的 Fleetmarkt 库存，让客户快速发现符合条件的车辆并查看关键信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69434d007214819191b98d7845245443",
+    "name": "Rome2Rio",
+    "sourceHash": "f7cfa96bcc50a744c7986384be9d8e64c77dd02a6274770d33a731c660db2a3f",
+    "summary": "探索如何前往任何地方",
+    "description": "Rome2Rio 帮助你规划如何前往世界各地的任何地方。\n询问任意行程——从本地路线到全球旅行——即可立即查看火车、巴士、渡轮、汽车、航班及其组合等出行方式。地图让你轻松查看并比较各种出行选项。\n你将获得清晰的门到门路线方案，包括旅行时间、换乘信息和预估价格。条件允许时，Rome2Rio 还会显示时刻表和票务详情，方便你放心规划。\n无论你是在比较交通方式、规划复杂行程，还是在路途中临时做决定，Rome2Rio 都能帮你轻松了解选项并选择合适的到达方式。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aaeaf611c0081919144846ba27eccae",
+    "name": "Room Renovation Visualizer",
+    "sourceHash": "e20329bdb5f24cdc759dfda656d8c75e589241ad49d9cdd920a284d3e05bc262",
+    "summary": "可视化翻新创意",
+    "description": "根据房间照片或带标注的平面图，预览逼真的房间翻新效果。你可以翻新房间、清理杂物或清空房间，并在整个单元中保持材料、开口、家具和房间修正的一致性。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a32109c78c48191b34aa1bac611e64d",
+    "name": "RooQuiz",
+    "sourceHash": "2f4067c7af772d4c9428c74fc734587e0c929e0250b7983f534536042f05c4d5",
+    "summary": "创建和管理测评",
+    "description": "RooQuiz 帮助团队创建知识问答、计分测评和结果测验；配置问题、报告、翻译和分享；并通过 ChatGPT 查看经过脱敏的答题者、潜在客户、预订和表现数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a952068158481918c3eb5f5d89b5629",
+    "name": "Roovook",
+    "sourceHash": "115246255de53ee89a064778377d89afc2d2c55c482fa404fce313961e6fd64e",
+    "summary": "寻找场地和团体住宿",
+    "description": "通过 Roovook 搜索韩国各地的活动场地和团体住宿，查看场地详情、索取并比较报价，还可与场地方协调预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1356b2f5a88191aa343ace5a72f61f",
+    "name": "Rosetta",
+    "sourceHash": "679d0c9421f1c0156cd701bbeaeb8e9898f4e7ab4e16c2650b0214d0d4738973",
+    "summary": "保存笔记、提醒和链接",
+    "description": "Rosetta 帮助用户搜索、创建和整理私人笔记、提醒及已保存链接，包括其类别、标签和生命周期状态。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a57b70342308191a15130463f6a5995",
+    "name": "RoTV Guide",
+    "sourceHash": "ab865b6eda553467806e5b2e26ce14cb682dcd23b7050db27c93ce73f93add8b",
+    "summary": "罗马尼亚实时电视指南",
+    "description": "RoTV Guide 使用 ChatGPT 不具备的真实且持续刷新的数据，回答“今晚看什么？”：涵盖罗马尼亚 258 个电视频道的实时 EPG、当前流媒体片库（Netflix、HBO Max、Disney+、Prime Video，包括罗马尼亚 Netflix Top 10）、影院排片、票房和剧院演出安排。推荐结果按规则生成且可解释——可按心情、情侣观影或整晚安排推荐；每条回答都可说明数据的新鲜程度。无需账户，没有广告，也不跟踪用户；所有列表均来自广播机构和平台的官方节目安排，并附有每条回答的数据新鲜度元数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2fd8c910708191a05e3e6979fb94bc",
+    "name": "RouteStack.ai",
+    "sourceHash": "94128899f61d141a4e1459aa29324e57c4321caeca5160ac1ad2e9d1310765a3",
+    "summary": "查找酒店、航班和汽车",
+    "description": "RouteStack 帮助用户在一个地方搜索和预订旅行。查找酒店、航班和租车，并查看实时空房情况、价格和预订选项。比较旅行方案、探索目的地、查看客房和票价详情，并在准备好后继续结账。通过单一旅行体验，让行程规划和预订更快、更轻松。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a580ac3db6c8191a0196a68da49bca3",
+    "name": "Roux",
+    "sourceHash": "a55f9cdf859de53c0f09b80455fd2ee6f560f87267463588cba648bfdddb4e36",
+    "summary": "收集人的背景信息",
+    "description": "Roux 帮助用户与队友、客户或利益相关者开展有针对性的对话，跟踪回复进度，并将兼顾隐私的综合发现带回工作中。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7295ec7ba081919f0d1940c22441e8",
+    "name": "Rovyn",
+    "sourceHash": "cbd66892581020a5fd5cf32bf206e5f84126a604920ee5f7cc5c558033edd159",
+    "summary": "由播客助手为你策划",
+    "description": "Rovyn 让你的助手为你策划收听内容。向 ChatGPT 提出任何需求——例如“通勤时听一小时关于芯片战争的内容，其中包含一种怀疑论观点”——它就会生成可直接播放的计划：每期节目均根据 Rovyn 目录核实（可播放，或如实说明无法播放的原因），提供一个轻触即可播放的链接，并在 Rovyn iOS 播放器中为每项推荐附上一句“推荐理由”。\n\n收听后，整个流程会形成闭环。ChatGPT 会读取简明回执——你听完了什么、跳过了什么，以及你用自己的话写下的内容——因此下一份计划会依据上一份计划的实际效果生成。\n\n这种信息交换经过有意限定：ChatGPT 发送简报（目标、时间、程度），Rovyn 返回回执。每个助手都通过可撤销的授权独立连接，并使用开放的 MCP 约定 Cueback。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1480a4a93c8191be8b8686d450db0a",
+    "name": "Rox",
+    "sourceHash": "212f07d386b437f394002339406e3d4e6b7b8d5b8c1deced388e94a020ab0a40",
+    "summary": "查询销售数据",
+    "description": "Rox 帮助用户查找和分析其 Rox 工作区中经过身份验证的销售数据，包括客户账户、交易、联系人、备注、电子邮件、会议、文档、组织结构图和 Slack 活动。该应用提供引导式数据界面：用户可以发现可用的数据功能，查看各功能的 schema 和工作流指导，然后调用只读功能来回答销售和客户情报问题。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8be2a160108191b888193c5346d393",
+    "name": "Rubikc",
+    "sourceHash": "5fafaccf7828809f97217e94e1d7e28523b2f37c15b356ad9a720698e55ce58c",
+    "summary": "管理店面内容",
+    "description": "Rubikc 帮助已通过身份验证的店面团队通过 ChatGPT 查看和管理店面内容、导航、商品集合、文件、源材料、入门流程及分析数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9929bc97ec81919df0ec72d8305cbb",
+    "name": "Rubikpara",
+    "sourceHash": "c5d67c2d0bc84d1c25cc71392fb18cde7992a5495fee38fcb82f995d085fedf2",
+    "summary": "Rubikpara 产品与 API 指南",
+    "description": "探索 Rubikpara 的支付解决方案；借助 AI 支持，快速轻松地获取产品、API 集成、技术文档和错误代码所需的官方信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9fdc37ec5c819186e2d66862f27f63",
+    "name": "RubricMark Practice",
+    "sourceHash": "4dab9f71ba8ef02243f71bb900bb1d3becc682a89dac6206c3a1287d27477a44",
+    "summary": "练习、学校与分数",
+    "description": "在 ChatGPT、Claude 或 Gemini 中，获取练习测试、学校或大学档案、入学分数评估、写作评分或抽认卡（使用同一 RubricMark MCP）。\n\n对于指定考试（HAST、Selective、IELTS、JLPT、GAMSAT 等），你将获得 三道样题和一份样例评分，以及创建 RubricMark 账户参加限时考试的链接。\n\n询问 Selective 学校、文法学校或 QS 大学，RubricMark 会返回精选的 School Guide 档案和一方来源链接（不会编造分数线）。\n\n询问 Selective、ATAR、SAT、ACT、GAMSAT、LSAT 或 GMAT 分数是否具有竞争力，RubricMark 会打开 Admission Score Estimator 并预填你的分数。分数映射在网站上进行。\n\n关联你的 RubricMark 账户后，可对粘贴的草稿进行完整的标准评分，在应用中开启限时考试，并获取包含下一步练习、检索卡片和学习材料的改进计划。\n\n不关联账户也可粘贴写作草稿，获取简短的示例评语。关联账户可获得按额度/套餐计费的引用报告。\n\n方案和结账均在 RubricMark 上完成。宿主聊天中不销售任何内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5cc3a722c08191a8d64f1ef30047d5",
+    "name": "RuleFoundry",
+    "sourceHash": "1211458acc65029c02f02ddf04d13d4a1ea75ce8a4f97c6c43c2340db6bae621",
+    "summary": "提取业务规则",
+    "description": "RuleFoundry 会查找你创建或分配给你的 Extractions，显示其状态和 RuleFoundry 链接，并将已完成 Extractions 的最终成果作为带引用的源材料，供规划、代码、文档和分析使用。确认确切主题、可选说明和参与者后，它可以为你或外部电子邮件地址创建一个 Extraction 请求。RuleFoundry 会自动发送外部邀请。Extraction 会话仍在 RuleFoundry 中进行；该插件无法启动、主持、继续、完成、重新发送、修改或删除会话。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5e2aae582c8191be16b7d4d2615cd5",
+    "name": "Runa",
+    "sourceHash": "900e1a4dcf198d4a6afed800bf6334b9a78d6f472ae61b11633f9313a19e304f",
+    "summary": "加入你的会议背景",
+    "description": "Runa 将你获授权访问的会议知识带入 ChatGPT。搜索会议摘要和已批准的文件夹文档，检索近期会议或主题匹配的会议，查看决策和要点，列出未完成的行动事项，并根据 Runa 最新同步的日历背景准备即将举行的会议。\n\nRuna 在 ChatGPT 中为只读。它无法编辑会议、完成行动事项或发送消息。结果受已连接用户的 Runa 访问权限、工作区外部 AI 政策以及 Runa 公共连接器安全控制的限制。需要 Runa 账户。即将举行的会议信息反映 Runa 最近一次桌面同步，可能不是实时数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b1dc84cf40819193050bc2269b186a",
+    "name": "Runrun.it",
+    "sourceHash": "ba0c6dbb895a014c9a0015d87ab48585932ca28292251301ee467b3917600ac7",
+    "summary": "查找和创建任务",
+    "description": "将 ChatGPT 连接到你的 Runrun.it 工作区，无需离开对话即可管理工作。此应用使用你实际的 Runrun.it 数据和权限，让你快速创建一个或多个任务并搜索现有任务。\n\n创建任务前，你还可以浏览看板、阶段、任务类型、项目和标签，补充合适的上下文，让新建任务从一开始就按团队的工作方式整理妥当。它适合将想法快速转成任务，也能迅速查看工作进度。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9e71d5acc88191a706c76291f2b39b",
+    "name": "Sabre Developer Hub MCP Server",
+    "sourceHash": "6d7d736c4cdae06738745300b457e83a104aa0340f09b36b5aafc309139303e5",
+    "summary": "搜索开发者文档",
+    "description": "Developer Hub MCP 可帮助用户按制品名称或内容搜索 Sabre Developer Hub 文档、查看制品详情、获取文档页面，并查看最近更新的文档。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a79e87798408191b749d00ed9ed24eb",
+    "name": "Safe Haven Careers",
+    "sourceHash": "f1597ddb585a8cc2998e30b625bdb3b1ef374551406fab3d228d3cc09ed30c33",
+    "summary": "发现工作机会",
+    "description": "Safe Haven Careers 帮助求职者探索 Safe Haven Careers 的开放职位。按职位名称、地点或两者一起搜索，助手会显示相关机会，并允许你在申请前深入了解详情。由 Appcast 提供支持。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6963606dd8e081919e40c8808349e47b",
+    "name": "Safe2Sign: Contract Risk Check",
+    "sourceHash": "f781c5d97d6c9b5cd570a49ed971724ad422869054773c73ee17c0af79e307b8",
+    "summary": "查看协议并发现风险",
+    "description": "“Safe2Sign: Contract Risk Check”可帮助你在签署前审阅合同并发现常见风险。通过清晰的卡片概览查看风险标记和关键条款简要说明。点击任一卡片，即可向 ChatGPT 询问更深入的解释。\n\n工作方式：\n此应用包含针对不同合同类型的常见问题清单：\n- 租赁\n- 雇佣\n- 自由职业\n- 一般协议\n应用会指导 ChatGPT 根据适用于相应合同类型的清单评估你的协议。审阅结果以可点击的“正常”/“警告”/“高风险”卡片呈现。\n\n免责声明：\n- 将此应用作为额外的审阅视角，而非法律意见的替代品。\n- 对于高价值、高风险或不熟悉的条款，请让律师审阅。\n- 签署前请阅读完整合同并确保理解其内容。\n\n这不是法律意见。“Safe2Sign: Contract Risk Check”的开发者不是律师事务所，也不提供法律意见。不会建立律师与客户关系。输出由 AI 生成，可能不准确、不完整或已过时。仅将其用于信息参考；签署前请咨询具备资格的律师以获取法律意见。请勿将此应用用于刑事法律、移民事务或家庭法律纠纷。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a51822f866c8191bc04373a796eb243",
+    "name": "Safeway",
+    "sourceHash": "84c373ec3a2457cdb5dff71dfad28fa614ffda6e10a451ad7f0a0b05fad4a317",
+    "summary": "获取杂货和日常必需品",
+    "description": "让 Safeway 重新订购每周杂货、根据购物清单创建购物车、查找食谱所需食材并发现可替换商品，全程无需离开聊天。\n\n可以尝试以下提示：\n1. 重新订购我每周买的杂货\n2. 根据我的购物清单照片创建购物车\n3. 查找这份食谱的食材\n4. 寻找无麸质替代品\n\n在聊天中创建、更新和查看杂货订单。结账时，符合条件的优惠券、促销和折扣会自动应用，帮你省钱。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a930d27fe6081919e86cfb1708066c5",
+    "name": "Sail",
+    "sourceHash": "4f238fc0b055d4a13e110ae20b4127bb2f4082c89fdcbcc3385d0cde53dfd062",
+    "summary": "比较出行方式",
+    "description": "Sail 让交通选择更简单、更透明。在 24+ 个国家/地区查找地点，并比较网约车服务的预估价格、接驾时间和可用情况。在覆盖公共交通的地区，Sail 还可规划行程，提供票价、步行路线、换乘和乘车指引。比较同一行程的可用方案，选择最适合你的方式。Sail 为只读服务，不会预订、追踪或取消行程。结果为预估值，出行前可能会发生变化。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6965d2c379208191b3ac773e1b6ae30a",
+    "name": "SAJU",
+    "sourceHash": "aa1842e00f94f131784a5e7559fc7c97c5dba7686c4ee5b8e537d7c5a489e2f9",
+    "summary": "免费 AI 四柱命理与八字解读",
+    "description": "SAJU 是由 Saju.com 推出的免费 AI 四柱命理解读应用。Saju.com 是 Doctor Fortune（운세박사）的全球版；Doctor Fortune 是 ChatGPT 商店中排名第 #1 的占卜应用，由 50 多位专业命理师打造。Saju（사주，四柱命理，也称 BaZi / 八字）是韩国及东亚传统的出生图体系，根据出生的年、月、日、时解读命运。\n\n只需告诉 ChatGPT 你的出生日期、出生时间、性别和出生城市。SAJU 会根据世界任意城市的真实天文节气、历史时区和经度校正后的当地时间，排出准确的四柱命盘，并以交互式图表展示：日主、天干地支、十神、五行平衡、合冲、吉星与挑战之星，以及 10 年大运、年度运势和每月运势的图示时间线。\n\n之后可以继续用日常语言对话，了解性格与人生道路、事业与财富、爱情、婚姻与匹配、健康、今年和明年运势、适合换工作或搬家的月份，以及某个具体日期是否适合婚礼、签合同或面试——SAJU 会为任意日期查询准确的日柱。支持英语、韩语、日语、中文、西班牙语、葡萄牙语、德语、法语、越南语、泰语、印地语、阿拉伯语、意大利语、土耳其语和印度尼西亚语。\n\n也称：AI Saju · Saju 解读 · 韩国占卜 · 四柱命理 · BaZi · 中国占星术 · 日主 · 사주 · 사주팔자 · AI 사주 · 무료 사주 · 四柱推命 · 八字 · 四柱命理 · 算命 · Tứ Trụ · Bát Tự · Tử vi · ดวงจีน · โป๊ยหยี่ · कोरियाई ज्योतिष · Saju coreano · Cuatro Pilares del Destino · Quatro Pilares do Destino · Vier Säulen des Schicksals · Quatre Piliers de la Destinée · Quattro Pilastri del Destino · Kaderin Dört Sütunu · Ramalan Saju · الأعمدة الأربعة للمصير。\n\nSAJU 除出生信息外不会询问其他内容，且可免费使用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a462e4ab8cc81918db7b4fceadbe527",
+    "name": "Sales Compass by Luzmo",
+    "sourceHash": "42c997a07e82eebe4a98cd2808d9309a320f9fe879dab6c93ac518b2fc963e10",
+    "summary": "分析销售数据",
+    "description": "Sales Compass 帮助用户用自然语言查询经授权的销售数据、查看可用数据集和字段，并生成实时 Luzmo 图表。图表基于 Sales Compass 应用，展示嵌入式分析的最佳实践。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a275064e2ac8191a720d9adf63889b7",
+    "name": "SalesBreaker GTM",
+    "sourceHash": "6416b41f7d0b722a690701f6523e7e02d4e2987caa856cdabc4214dae39aed88",
+    "summary": "安全地操作销售工作区",
+    "description": "SalesBreaker GTM 允许 ChatGPT 操作用户的 SalesBreaker 工作区，用于内部 CRM 更新、集合管理、创建任务、起草模板、LP/提案草稿、CSV 暂存和销售准备。它不能发送拓展消息、提交表单、执行营销活动或工作流、发布页面、导出数据库、更改账单/身份验证、操作基础设施或删除记录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d72da114fc8191bf725a82d6d42a9a",
+    "name": "SalesEQ",
+    "sourceHash": "efd05bd171fb28aeaec1e64cc8082e513a830ef5fe024665c28cdbfe7d38f8be",
+    "summary": "连接会议数据",
+    "description": "SalesEQ 将你的会议数据连接到 ChatGPT，让你查找会议、搜索对话、查看摘要和转录文本、检查相关视频片段，并使用组织的会议背景回答问题。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a20231ac46c8191af38748cff7dcf93",
+    "name": "Salesfire",
+    "sourceHash": "5575b1d3b35b76606137380d7ffe5c2dcbadf8e4b42f5911b6948ea1975ce632",
+    "summary": "Salesfire 电商洞察",
+    "description": "Salesfire 将你的电商情报带入 ChatGPT。\n\n你是否已在使用 Salesfire 来提升收入和转化率？现在，你可以像与团队交谈一样查询数据。连接账户后，即可即时获得所管理商店的清晰易读洞察；无需导出、无需猜测，也无需切换标签页。\n\n了解哪些做法有效\n查看任意时间段的收入、订单、会话数、转化率和 AOV。比较不同时段，在趋势演变成问题前及时发现。\n\n掌握商店情况\n快速了解网站设置、功能和当前状态。\n\n及早发现问题\n显示未处理的提醒、警告和建议，让你知道哪些事项需要关注，哪些可以稍后处理。\n\n专为希望更快做决定、获得更清晰报告并更明智地了解商店的 Salesfire 客户打造。安全的只读访问权限仅限于你已获准查看的网站。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3a5a6b3690819184360c132a630e03",
+    "name": "Salesflare",
+    "sourceHash": "a865f2825737788d98d0222cae469d56dd0eec312aaa4f7b65a1113f3900b6b6",
+    "summary": "管理 CRM 记录",
+    "description": "Salesflare 帮助用户在 ChatGPT 中查找和管理 CRM 账户、联系人、商机、销售渠道、标签、任务和用户。此应用可以列出 CRM 记录、查看账户动态、创建账户/联系人/商机/任务，并更新用户 Salesflare 工作区中的现有 CRM 记录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_697d413990c88191a2bf4799604f8f6c",
+    "name": "Salesforce",
+    "sourceHash": "1b1c1789aa01b764c7e5c9fb863db4f6f8ae2c54a928d917bd6fcce4f01dd4e4",
+    "summary": "管理 Salesforce 记录",
+    "description": "与 Salesforce 和 ChatGPT 一起重新构想你的销售工作流。直接在 ChatGPT 中获取每笔交易的 CRM 背景信息，帮助销售代表更快地调研、规划并成交。然后将关键洞察补充到 Salesforce 中，让你和团队做出更明智的决策。\n\n从销售渠道更新到客户账户调研，它都能提供所需的清晰信息、速度和指导，帮助你更有把握地赢得更多交易。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a204bc10d2c8191bb73a11cf94b65b7",
+    "name": "Sally AI",
+    "sourceHash": "e8d1b731630661f53d9fd86537ea25eb5f475b99294ddc98263cd4513177e669",
+    "summary": "查找会议中的任何内容",
+    "description": "Sally 可录制、转录并总结会议。此应用让 ChatGPT 搜索这些会议、阅读摘要和转录内容、管理会议产生的任务，并将 Sally 助手加入即将举行的线上会议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3eb4bdbe688191badec8f7642fa3a9",
+    "name": "Sam's Club",
+    "sourceHash": "ae9224bd2282acd7e7505fb1e6a2c8df7033018736f6dbcf6a96a5494651b93d",
+    "summary": "Sam's Club 会员专享精选",
+    "description": "选购会员专享精选商品",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69dd0fdc40c8819194a357f4cecb440d",
+    "name": "SAMRUM",
+    "sourceHash": "98f9dff420bad0759fc86d3df63b5681be6d422e4dc253452625c0dd662c4c56",
+    "summary": "讨论家庭报告",
+    "description": "连接你的 SAMRUM 账户，在 ChatGPT 中讨论家人的性格档案、报告和重点培养计划。\n\nSAMRUM 是一款家庭性格工具：每个人都在 samrum.io 完成自己的测试，并获得一份基于大五人格和人际环形模型的档案，其中包含 10 项日常倾向。SAMRUM 随后会展示两个人之间形成的模式，例如伴侣、家长与孩子或兄弟姐妹之间的互动。\n\n在 ChatGPT 中，你可以：\n- 询问自己的档案内容，或并排比较两位家庭成员（以图表显示）\n- 一次查看一项伴侣、亲子、手足或家庭报告中的模式\n- 查看本周重点培养计划中的步骤\n- 争吵后重新查看最新的 Right now 指南\n\nChatGPT 只读取你在 SAMRUM 中本来就能看到的内容。它显示昵称和粗略等级（高、中、低），绝不会显示原始答案、精确分数或全名，也无法更改账户中的任何内容。你需要拥有 SAMRUM 账户，且至少完成一项测试。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8ebcc4c4c48191b5a3a53638f7b972",
+    "name": "Samva",
+    "sourceHash": "0407ddba92564d59400942d3b33da7639db6784b383ff111d139fe1c32b90748",
+    "summary": "发送和管理电子邮件",
+    "description": "Samva 帮助产品团队通过 ChatGPT 检查电子邮件就绪状态和投递活动、发送事务性电子邮件，并管理域名、发件人、webhook、模板、定时消息和营销活动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5f46c9b7808191bc2455f6778d114d",
+    "name": "SAMWAD",
+    "sourceHash": "ebcd19db5fade0d6f84d59e4713fd75820c608f2344e441b4c7d7bdccf973d86",
+    "summary": "商业消息工作区",
+    "description": "连接经过身份验证的 SAMWAD 工作区，以查看工作区状态、检查已批准的消息模板、搜索脱敏联系人、估算已选择接收消息的受众人数、查看汇总营销活动分析并查找收件箱对话。访问通过 OAuth 绑定到租户，此公开版本为只读。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ceae6d8d78819192e59f76b8e170b5",
+    "name": "Sanity",
+    "sourceHash": "a487177e50bb3ab8f4a2e58b956ca7d863d3a1645f55daf1e38e1a3b7390e840",
+    "summary": "创建和管理内容",
+    "description": "直接在 ChatGPT 中创建、查询和管理 Sanity 结构化内容。执行内容审核、更新文档、协调发布，并在项目中查找任何内容。也可以只通过聊天设置全新的项目，包括 schema、内容和配置。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa412f3672081918227d4d91f7b42fd",
+    "name": "Sauna Monthly",
+    "sourceHash": "93246c12cc96d91f4c63283aae545456108e28eb1905d1a26760efa50b5ad3a2",
+    "summary": "桑拿评测与计算器",
+    "description": "Sauna Monthly 是一个独立的桑拿、加热器、冷水浴和恢复装备编辑网站。此插件让 ChatGPT 搜索其包含 83 款产品的目录，其中有真实规格、美国价格和购买渠道；阅读网站评测和编辑评分；并排比较二到四款产品；根据房间尺寸选择桑拿加热器规格；根据加热器功率、使用时长和电费估算桑拿运行成本；还可阅读其 32 篇文章，内容涵盖品牌评测以及冷热疗法背后的研究。每条回答都会链接到 saunamonthly.com 上的来源页面。无需账户，也不会存储关于你或对话的任何信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a882d31d2888191a9635f8529c3108b",
+    "name": "Savantis Memory",
+    "sourceHash": "4bbe4ff03c9523fd6214cf5f104356fa44ad101d8ac1aeb68c6c2ed9fa10d322",
+    "summary": "回忆和管理记忆",
+    "description": "Savantis Memory 为你的助手提供一份属于你的记忆。跨对话回忆偏好和决定，在获得用户批准后添加新记忆，将记忆整理到不同空间，并管理优先于推断记忆的已确认参考信息。矛盾内容会保持可见，不会被悄悄覆盖；每条内容都可以更正、导出或删除。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69bf076444388191b92e9c482184b44c",
+    "name": "Savecraft",
+    "sourceHash": "ee6996ef9b540761829e1cede918f70890cac5e574a995a4ca9457ed73cdc006",
+    "summary": "分析存档并指导配装",
+    "description": "Savecraft 将你真实的游戏存档数据连接到 ChatGPT。AI 无需依靠你凭记忆描述角色、装备和进度，而是读取真实存档文件和游戏 API 个人资料，为你提供具体的个性化建议。\n\n询问配装、将装备与攻略比较、用精确计算核查掉落率，或直接聊聊你的游戏进度：ChatGPT 已了解你的角色。附上配装指南或刷取清单等笔记，AI 还可以持续追踪你的进度。\n\n预制的专家参考模块会使用你的存档数据提供指导，包括配装顾问、掉落计算器和作物规划器，所有建议都基于真实计算。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a598a82752c819184971ffbaa72bb52",
+    "name": "SavedIt",
+    "sourceHash": "52ff98cc9330394b22c0c4173804e87c61e33ae3a2002e343ad5ac5b5b62a356",
+    "summary": "查找保存的内容",
+    "description": "SavedIt 帮助用户在 ChatGPT 中找回并整理自己收藏的互联网内容。它可以统计和搜索归属于用户的资料库、查看已保存项目的详情、发现并查询私人收藏集、保存链接、更新备注或标签、管理收藏集成员和分享，并且只删除明确选定的资源。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6965800c6e4c8191bdd03530926713cb",
+    "name": "SaveHealth",
+    "sourceHash": "ff84ae48726e78edff6086914272e452561882c85f7c4ffe203b9f92778e6e0d",
+    "summary": "药品最高可节省 90%",
+    "description": "SaveHealth 是一项免费的美国处方药省钱计划，通过比较不同药房的药品费用，帮助用户寻找更低价格和折扣，并提供可在全美超过 70,000 家药房（如 CVS、Walmart、Walgreens）使用的免费折扣卡或优惠券。它不是医疗保险：只需搜索药品、获取优惠券并在药房出示即可省钱，有时零售价最高可优惠约 90%。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a92b83f356881918b51987e6312ab4a",
+    "name": "Savri",
+    "sourceHash": "02268bff4ba296b3ff8d6e83d3065a3ae325ad6d12668f402d1b28d9f9b3e598",
+    "summary": "网站、Google 和 Bing 分析",
+    "description": "连接 Savri 或 Besökskollen 账户，查看你有权访问的网站访客、流量来源、页面、目标和漏斗。通过网站控制面板连接 Google Search Console 或 Bing Webmaster Tools，即可读取搜索点击量、展示次数、查询、页面和趋势。Google 使用共享的网站连接；Bing 对每个网站使用你自己的连接。Basic 方案可使用搜索报告。OAuth 连接无需 API 密钥；单独的 API 密钥/npm 方式需要 Growth 方案提供的 API 访问权限。报告会保留各提供商的数据日期范围和限制。Bing 每周 Web 报告与其每日流量总量不同。这些工具不提供单独的 AI 引用次数，也不会将搜索查询关联到个人或订单。搜索报告为只读；管理网站、目标、漏斗或事件属性需要写入权限。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698bb846d32c819195ef99eb55fc7ec8",
+    "name": "ScanGym",
+    "sourceHash": "17a60e57dd94290c8be8aaaaaf5ef31ecf67545212286d6981ca7d1196145ff3",
+    "summary": "查找并预订健身房单次通行",
+    "description": "ScanGym 可让你在数千家健身房查找并预订单次通行，无需会员资格。按城市或你所在的位置搜索健身房，比较单次通行价格、营业时间和评价，然后只需提供电子邮件即可作为访客预订。你将在 scangym.com 安全付款，并收到用于进入健身房的 QR code。可在开课前 2 小时免费取消，并自动退款。适合旅行者、通勤者，以及任何不想被单一健身房绑定的人。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8e03b28e988191aba58bf41eaaf181",
+    "name": "SceneF — SF Showtimes",
+    "sourceHash": "0a6b124945588c511b308ad3c5accdef6ff58945ec7f6313f7226ac00882a29b",
+    "summary": "旧金山电影排片，已核实",
+    "description": "在一份经核实的列表中查看旧金山所有电影院，包括首轮连锁影院、独立影院和艺术影院（35mm、70mm、IMAX）。SceneF 每天会对照每家影院自己的日历核查所有场次，并在 scenef.com/accuracy 发布准确性记录。询问今晚上映什么、本周哪里放映某部电影，或按时间、格式、街区规划电影之夜。信息包括评分、放映格式，并如实说明是否售罄。答案来自 SceneF 自己的数据集；每个购票链接都会前往影院自己的票房页面。目前覆盖旧金山，正在拓展至加利福尼亚州。不售票，仅提供外部链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1cfe08d3a081919ed00f619418c457",
+    "name": "Scholar Sidekick",
+    "sourceHash": "ba7c25502a3128905c5a9868fb147accbcb22c13798ccb4e6a42d94d839a9633",
+    "summary": "审核、核验并引用论文",
+    "description": "一次审核整份参考文献列表，最多 25 条，逐条检查是否伪造或已撤稿，并以逐条判定表返回。核验单条引用是否真实：将所声称的标题和作者与标识符对应的实际记录交叉核对，识别真实 DOI 搭配伪造或不匹配标题这一常见问题。将 DOI、PMID、PMCID、ISBN、arXiv ID、ISSN 或 ADS bibcode 转换为 Vancouver、APA、AMA、IEEE、CSE 或 10,000+ CSL 样式中的规范格式引文。检查论文是否已撤稿、已更正或被提出关注声明。在 Codex 中也可使用：让编程智能体在处理稿件或 .bib 文件时核验其中的参考文献。结果会显示在引用卡片中，包括判定、格式化后的参考文献和来源标识符。$0——无需账户，也无需 API 密钥。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1067abf9148191b1090022e55e756d",
+    "name": "Schwab Jobs",
+    "sourceHash": "58a4019c6b30950b3250dc5dde46f4a50749ebe9a339018bc3d7648691fa30af",
+    "summary": "查找并申请工作！",
+    "description": "寻找一份建立在信任、成长和实际影响力之上的职业发展机会。\n\n无论你已准备好迎接下一份工作，还是只想探索各种可能性，此插件都能将 Schwab 的职位机会送到你面前，让你少花时间搜索，把更多时间用于寻找适合自己的职位。\n\n按地点、职位名称或关键词搜索我们的开放职位，进一步了解我们公司的协作团队、有影响力的工作和职业发展路径。你可以探索客户服务、金融咨询、技术、运营等领域中符合你当前情况和未来目标的机会。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab77d700b148191a79dc4d2df6babb6",
+    "name": "SciGrant",
+    "sourceHash": "d9b2929dbcd9ff5ee738d2913481107df9edbcf3ec1eef8e72b02c72fc4ce5f7",
+    "summary": "根据招募指南和表格逐项撰写研究经费申请",
+    "description": "这是面向会员的支持服务，可根据招募指南和申请模板梳理研究经费申请构想，并逐项起草申请书。服务会核对制度条件、评审要点、字数和格式限制，并按步骤推进：整理申请项目、具体化研究构想、逐项撰写、梳理预算与团队配置、整体审阅以及提交前检查。不会臆测招募资料中未列明的截止日期、预算上限、申请资格，也不会编造尚未取得的研究成果。\n\n只需选择此插件并附上招募指南和申请模板即可开始。如果缺少其中一份，只会询问缺少的资料，并在各项目或阶段等待用户确认后继续。生成的文本、引用文献、数字和招募条件都需要用户核实。本服务不保证获批。\n\n要获得完整写作支持，必须连接已登记 SciGrant 有效使用权限的会员账户。现有购买者请通过已提供的付费 note 中的登记链接注册产品使用权，在 ChatGPT／Codex 中添加插件后，使用登记时相同的登录方式和同一会员账户连接。会员账户可以不同于 note 或 ChatGPT 的注册账户。仅登录不会获得使用权；其使用权也不同于 SciDraft 使用权。\n\n会员服务器负责身份验证、核实对应产品的使用权限，以及分发已保存的写作流程；接收到流程的 ChatGPT／Codex 会协助创作。服务器不会将研究资料、稿件或对话正文作为 MCP 工具输入接收。请将资料附加到 ChatGPT／Codex 对话中。它不会登录申请系统、实际提交申请或处理付款。\n\n使用期限按年度版本规定，并不一定从购买日起算 1 年。期限结束或使用权限停止后，无法再获取完整版本流程；但不会删除已获取的内容或过去的聊天记录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4badb6c9b88191936eadfa0e515176",
+    "name": "SciLeads",
+    "sourceHash": "a6631bb2187c7670d01d9f4aa40bbc240bb1e653bd365236839f16e44ed5a3ca",
+    "summary": "助你向科学家销售",
+    "description": "就在 ChatGPT 中找到理想的生物技术、制药和学术领域潜在客户。\n\n潜客开发：寻找、筛选并联系科学家。使用提示词，根据科学家的论文、资助、会议活动和临床试验查找目标。可按地域、会议名称、组织类型或规模、近期程度、相关性等缩小范围。立即获取姓名、电子邮件和电话号码。\n\n外联：为每位潜在客户起草个性化消息，将对方的工作与产品联系起来，避免消息石沉大海。在保持质量和个性化的同时扩大潜客开发规模。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8579d315f88191a6ed463a361f98dc",
+    "name": "Scioperi",
+    "sourceHash": "6db5f536c34fee094a803fb1e19c842ad2547ac3921599161fb84e82ee89946b",
+    "summary": "搜索意大利罢工信息",
+    "description": "直接在 AI 聊天中实时查看意大利计划中的罢工日历。该插件连接公共罢工数据，可按行业（交通、学校、医疗等）和地区搜索罢工，并按日期范围筛选。\n\n只需询问“本周有交通罢工吗？”或“下个月伦巴第有哪些计划中的罢工？”，即可获得最新的分页列表，便于浏览。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69439d715a7c8191aed9e2f6649e105f",
+    "name": "SciSpace",
+    "sourceHash": "c0c3db856cc28b2384e35ac236234f69d1e298f5ff8f5ccbc1c2463484ff7160",
+    "summary": "用于科学与研究",
+    "description": "SciSpace for ChatGPT 支持研究的核心任务：发现、筛选和综合。\n\n使用它搜索学术论文，并在可自定义的表格中通过元数据和链接进行审阅。添加结构化列——摘要、概要、方法、结果、结论——以便快速评估相关性和质量。随后可将收集的列表用于撰写文献综述笔记、主题综合和有针对性的后续搜索。\n\n可以尝试以下提示：\n1. “SciSpace 查找有关纳米塑料对肠道健康影响的论文”\n2. “SciSpace 气候变化如何影响生物多样性？”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6952b3a3f1e881918951582d59483c78",
+    "name": "Scite",
+    "sourceHash": "9c4d26e9447010a6f432bcd20177c1cec9bfa965eb4e5e02b86d7cb55cfa4265",
+    "summary": "搜索科学文献",
+    "description": "scite 帮助用户通过 ChatGPT 搜索和阅读科学论文、查看引用上下文和引用关系图、格式化参考书目、记录引用决策，并在 Collections 中整理论文和笔记。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a485a5b8870819191bca12138f3709f",
+    "name": "Scout by gamedai",
+    "sourceHash": "2eff99f0c4f12326a3b5b9829b7347de6612ab134dcee261f70e46ef3eed8d3b",
+    "summary": "NFL 比分、新闻及首发/替补建议",
+    "description": "Scout by gamedai 将只读 NFL 情报带入 ChatGPT：包括来自 gamedai 赛程表的实时比赛比分、最新 Wire 新闻标题，以及基于 gamedai 足球知识图谱的 Scout 公开球员评分、首发/替补对比和位置排名。无需离开对话，即可查看当天比赛、了解新闻，并快速评估你的阵容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa2e363f35c81919fd7006e2cb3cc97",
+    "name": "Scoutee",
+    "sourceHash": "1599913b918e3cf3502c18033af1dbdaf0d3a031658473a948db026c656dd133",
+    "summary": "查找公共招标",
+    "description": "Scoutee 搜索欧洲和北美官方公报及采购方平台发布的公共采购公告，每天早晨更新。按关键词、国家和预估金额查找招标，比较采购方和截止日期，然后打开公告查看流程、CPV 代码和摘要。每条结果都链接到 scoutee.org 上的公告公开页面；完整说明、采购方平台、招标文件、电子邮件提醒和 AI 分析需使用免费的 Scoutee 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6375f9e5288191b1f6ad81ba4253e3",
+    "name": "Screel",
+    "sourceHash": "6b3da4bc7b70b3ed64cbddd34987f82d73df6e75cacc5b13b1f15f76335c89d2",
+    "summary": "将创意变成视频",
+    "description": "Screel 让你无需离开聊天即可将创意制作成完整视频。描述你的需求，Screel 就会将项目构建为一系列场景：撰写分镜脚本，为每个场景生成静态图像，还可以将场景制作成片段、添加 AI 配音旁白和背景音乐，并渲染成可分享的视频。参考文档能让角色、道具、产品和地点在各场景中保持一致，无论它们来自上传的照片还是在聊天中生成的图片。连续场景可以从前一场景延续，并使用结束帧进行动画处理，让同一个动作在不同片段间流畅衔接。默认以低成本草稿分辨率生成片段；提出要求后可选择更高等级。实时 widget 会在聊天内展示分镜脚本、任务进度和最终播放器；每个项目也会在 Screel Web 应用中保持开放，可用于时间线剪辑、文档编辑和协作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0b262d5c0c8191953dd94ba05412e2",
+    "name": "SE Ranking",
+    "sourceHash": "0517b2f09841f75c654246f45191ec5d488575b615854564f6776b202cbbe267",
+    "summary": "SEO 数据与排名追踪",
+    "description": "SE Ranking 将 ChatGPT 连接到 SE Ranking 的 SEO 数据和项目 API。研究关键词、分析反向链接和引荐域名、研究域名及竞争对手流量、获取实时 SERP 数据、执行网站审计、追踪 ChatGPT/Perplexity/Gemini/AI Overview 中的 AI 搜索可见度，并管理你拥有的排名追踪项目。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_697b9790a2c481918af9c72439f29974",
+    "name": "Seaclub Alcudia",
+    "sourceHash": "a376a7675c642c7a420fe02d97243173ea4c7a7ac78157d54d27d70b77402e03",
+    "summary": "预订 SeaclubAlcudia 公寓",
+    "description": "探索 SeaClub Alcudia——位于马略卡岛、适合家庭入住的地中海度假村。浏览带照片的公寓类型，并排比较客房并直接预订。\n\n查找住宿所需的所有信息：客房布局和容量、设施与现场服务、入住和退房时间、联系方式，以及度假村在地图上的准确位置。\n无论你是在规划家庭假期，还是在不同客房类型间做选择，都可以比较公寓、查看照片，或了解度假村和 Alcudia 地区的实用信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa5672de100819198bb079e9546ee0e",
+    "name": "Seal Copilot",
+    "sourceHash": "9a8646d0d04292b085abf919206a1554e4584938fc7c4c1587b33f84d3d6dda7",
+    "summary": "分析营销数据",
+    "description": "Seal Copilot 将你的 Sealmetrics 数据转化为决策：先给出结论，再列出带数字的证据、一个行动建议和检查日期。\n\n它能追查导致下滑的具体营销活动，发现未能获取的收入，按产品审查商品目录中的阻碍，根据学习得出的基线在白天监控购物车，并检查跟踪设置。它基于一种方法论执行十四项流程，并根据你自己的跟踪数据为电商、酒店和 SaaS 选择相应操作手册。\n\n每个数字都来自同一会话中的工具结果：绝不编造数字；样本过小时会拒绝下结论。需要 Sealmetrics 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ea3021c77c8191b2032276f2e266db",
+    "name": "Seamless",
+    "sourceHash": "71d0cde6fc0f0234e651642b02bfab16541c353f38ca767e643e65cbb88be5b8",
+    "summary": "寻找潜在客户并自动化外联",
+    "description": "你的整个销售流程都在 ChatGPT 中。Seamless.AI 将潜客开发、外联和营销活动管理整合到一次对话中。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a75d75faf1081919cf020e992f581ad",
+    "name": "Searchable",
+    "sourceHash": "7fe432172c73a5474a0e9847cb1284c57e932fde5b54ffe04f3137f39a436e98",
+    "summary": "追踪品牌在 AI 回答中的表现",
+    "description": "Searchable 衡量品牌在 ChatGPT、Claude、Gemini、Perplexity 和 Google AI Overviews 的 AI 回答中如何呈现。连接后，你可以查看可见度评分及其随时间的变化、与指定竞争对手的声量份额、模型对你的评价情绪、模型回答所在品类问题时引用的网站，以及 AI 爬虫实际抓取并引用了你的哪些页面。它还会读取已连接的 Google Analytics 4 和 Search Console 数据，让你将 AI 回答中的可见度与自然搜索和引荐流量进行比较，展示优先改进机会，并生成可分享的发现报告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a77e3320e108191b0955377b387accf",
+    "name": "SearchFit",
+    "sourceHash": "49d6600ce4142130edbdab6c18c4d696c40261057087610ea491681983e03229",
+    "summary": "AI 可见度与内容",
+    "description": "SearchFit 追踪品牌在 AI 助手回答中的呈现方式，并帮助弥补差距。查看 ChatGPT、Perplexity、Gemini、Claude 和 Google 是否会在买家实际提出的问题中提及你的品牌，以及你与竞争对手相比的表现。接下来，可向已连接的 CMS 生成并发布文章、研究关键词、审计网站技术问题，并结合 AI 可见度报告 Google Search Console 和 Google Analytics 4 数据。需要拥有至少一个品牌的 SearchFit 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_697b3d4133548191ad13c12ae2f94b44",
+    "name": "Seat Unique",
+    "sourceHash": "8e3aa7a5b32084e859522a1a7fe1c226a13a0daf7ebbf54baff073438c9703c2",
+    "summary": "Premium Live 的首选平台",
+    "description": "通过 Seat Unique ChatGPT App 发现难忘的现场体验——这是你通往高端门票、官方款待套餐以及顶级体育、音乐和文化活动 VIP 入场的个性化入口。无论你想要英超比赛前排座位、VIP 演唱会入场，还是标志性场馆的款待体验，此应用都能在专家指引下帮助你快速、安全地找到并预订理想体验。  ￼\n\n使用 Seat Unique ChatGPT，你可以：\n\t• 探索并比较根据你喜爱的球队、艺人和场馆量身定制的高端体验。  ￼\n\t• 即时获得符合偏好的门票和款待套餐推荐。\n\t• 依据清晰、直接来自官方来源的信息放心预订。\n\t• 接收个性化提醒和建议，不错过必看活动或独家优惠。\n\n粉丝喜爱 Seat Unique，因为它让高端体验更容易获取、更易于选择——所有内容尽在一处。无论你是在规划特别旅行、挑选难忘礼物，还是安排终极粉丝日，这款应用都能让你更接近最值得珍藏的时刻。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b21647523881919b220a29cea4dd3d",
+    "name": "SeatGeek",
+    "sourceHash": "9a056f131ae7931ddf8815310654167f707162728f7bd0af2d67334a4cdac0ac",
+    "summary": "购买活动门票",
+    "description": "还不确定接下来要看什么？询问即将举行的活动，SeatGeek 就会展示附近正在发生的活动。通过互动场馆地图浏览列表，按 Deal Score 或最佳座位筛选，准备购买时再跳转到 SeatGeek。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a92694ffcfc8191ba6544801f46262f",
+    "name": "Secret World — Hidden Gems",
+    "sourceHash": "34431bea0e5759ff286cd9edc91e5decac751a7f0acc3f17945e612b9f806e1a",
+    "summary": "寻找全球隐藏宝藏",
+    "description": "Secret World — Hidden Gems 让 ChatGPT 直接访问一个精选目录，其中包含全球 340,000+ 个鲜为人知的地点和 750,000+ 张原创照片。\n\n询问任意城市附近的隐藏宝藏、著名地标周边不那么热门的替代去处（“我看过罗马斗兽场了——附近还有什么值得看？”），或公路旅行中值得稍作绕行的特别地点。每条结果都是真实地点，附有经过核实的坐标、原创照片和 Secret World (sworld.co.uk) 上的来源页面。\n\n该应用为只读且无需账户：绝不会请求、存储或处理任何个人数据。著名地标按设计会被过滤掉——此应用只关注大多数游客会错过的地点。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a598b9c3a4819185d3171fd1677a72",
+    "name": "SecretBox",
+    "sourceHash": "84f9b19e30b6f4a46f88eec2c7f0084790b707a0ea5aaebf93e1e5ed4369faf3",
+    "summary": "餐饮、酒店与水疗体验",
+    "description": "SecretBox 帮助用户发现法国和欧洲各地独特的餐饮、酒店和水疗体验。\n按目的地询问餐饮体验、浪漫酒店住宿或健康养护体验。\nSecretBox 会提供精选体验建议，并让用户在 SecretBox 官方网站上进一步浏览。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a57a4774c9881919600a0e708f76da9",
+    "name": "SeedLegals",
+    "sourceHash": "9ed57c7fc9dcfb27676ec4941af39c9ac87f032af4799adc51471391090ab0e9",
+    "summary": "融资、投资、法律事务，一站搞定。",
+    "description": "SeedLegals 是全球最强大的法律和融资平台。\n\n将 ChatGPT 连接到 SeedLegals 账户，即可处理公司的股权和法律文件。询问股权结构表中的持股情况、稀释、股份类别和 SEIS/EIS 计划细分，并查看工作流中尚未完成的行动。查找、阅读和询问协议，检查仍有哪些人需要签署，发送签名提醒，并与团队共享文件。你还可以直接在对话中创建和更新董事会会议纪要、雇佣协议等文件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3e593a7a88819193ace7ea4a418067",
+    "name": "Seel",
+    "sourceHash": "99d1327255c7e8640505b0ef80747c6d1e92fed9f20156ee6c14b55f7af04fd8",
+    "summary": "你的购物助手",
+    "description": "在一个应用中管理所有订单\nSeel 是你的 AI 购物助手，处理结账后的各种事务。你可以在一个安全的地方追踪配送、管理退货并解决订单问题。\n\n主要功能\n订单管理——在一个时间线中查看来自数千家零售商的购买记录\n配送追踪——获取实时包裹更新和送达通知\n轻松退货——在不同商店发起和管理退货请求\n报告问题——快速报告商品丢失、损坏或被盗\n联系商家——几秒内起草并发送订单问题消息\n安全与隐私——经你许可，通过 Gmail 同步订单\n\n为什么选择 Seel？\n告别在邮件和多个商店应用间来回切换\n借助 AI 退货和商家支持节省时间\n通过主动配送更新随时掌握情况\n自动整理收据和保修凭证\n适合忙碌的专业人士、经常网购的人，以及任何希望安心处理购后事务的人。\n立即下载 Seel，让结账后的购物事务变得简单、智能、轻松。\n\n使用条款 (EULA)：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a92ab4fdff48191b99587390e275a3e",
+    "name": "SeeyaTrip",
+    "sourceHash": "1dd0a3a9c412e21e800295c6734cc955e6e00692b0150efd4b1dbbda859aefff",
+    "summary": "查找酒店和航班",
+    "description": "搜索 Seeyatrip 酒店目录，并根据旅客自己的日期引用带有预订链接的酒店。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69dd1d0f73b48191ac4fadf206ad9aed",
+    "name": "Seismic",
+    "sourceHash": "13eaa1be145065719f578e3e5f5435b39f6bc35804576fc487ffeef2fd21b12b",
+    "summary": "Seismic MCP 连接器",
+    "description": "适用于 ChatGPT 的 Seismic MCP Connector 可在 ChatGPT 与 Seismic 之间实现安全集成，让 ChatGPT 使用获批的销售和赋能内容生成准确、针对 Seismic 的回复。\n\n该连接器基于 Model Context Protocol (MCP) 构建，提供身份验证和基于范围的访问控制，确保 ChatGPT 中仅开放获授权的工具和内容。\n\n要配置访问权限，用户必须从 Seismic Exchange 安装适用于 ChatGPT 的 MCP Connector 应用；租户管理员会在其中定义要开放的 Seismic 功能范围及权限。\n\n配置完成后：\n\nChatGPT 通过 MCP 服务器连接 Seismic\n\n仅可访问获批的工具和内容\n\n回复以可信、合规的材料为依据\n\n如果没有正确安装和配置访问范围，Seismic 工具将不会在 ChatGPT 中显示。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694e2f3a73d08191bdbb12dcd8e6c3e3",
+    "name": "Selah - Bible stories",
+    "sourceHash": "67f6b7cdb096f1493ac7a1ef09ac4fa1020e8fcf01cb02daa13b0a0bf3103ac0",
+    "summary": "圣经故事助眠与冥想",
+    "description": "通过以圣经为基础的冥想、默想和舒缓灵修内容，安然入睡。\nSelah 提供以《圣经》为核心的舒缓音频，帮助你更好地休息、缓解焦虑并获得心灵平静。\n只需告诉 ChatGPT 你的需求，即可收到个性化音频推荐。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a043aa4adcc81919cdeeb4f9c02244a",
+    "name": "Self Plagiarism Checker",
+    "sourceHash": "79be58d2ed14564b45189d9d3ac7c4af40522edc3f8d27b7d34877c45f1626fb",
+    "summary": "比对粘贴的文本",
+    "description": "WordBinary Self Plagiarism Checker 会打开一个交互式 widget，用户可以粘贴两份文档并识别重复的短语组合。它会高亮显示连续四个或更多单词相同的短语，显示相似度百分比，并列出匹配的短语组合，便于快速检查写作内容。粘贴的文本在 widget 界面内处理，不会由 MCP 服务器存储。",
+    "model": "codex-subagent-reviewed"
+  }
+]

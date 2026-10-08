@@ -1,0 +1,618 @@
+[
+  {
+    "id": "plugin_asdk_app_6a12aae311d8819191625c2e688b153f",
+    "name": "Wixel",
+    "sourceHash": "0beecfca3c6f1b9e8e0a6f4881800588b07541a0bc840989f89ab7529fd5dd53",
+    "summary": "设计徽标、图片等内容",
+    "description": "就在 ChatGPT 中，拥有你的 AI 设计伙伴。直接通过聊天生成徽标、图片、演示文稿和视频，也可以上传自己的图片进行编辑。只需描述需求，Wixel 就会生成可立即下载使用的专业设计，也可在 Wixel 编辑器中进一步微调。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a187f5bcacc819183df0b79957b8c0c",
+    "name": "Wolfee",
+    "sourceHash": "f26ee49a208c42da94b04b06ed70055aa21e11736c20dfdaccf5538b2fdaa4cb",
+    "summary": "在 ChatGPT 中处理会议",
+    "description": "Wolfee 会录制、转写并分析会议，让 AI 助手也能使用这些信息。连接 Wolfee 后，你可以用自然语言询问任何会议：获取完整转录稿、提取待办事项和承诺、按含义而非仅按关键词搜索全部会议记录、查看视频录制内容，以及查看 Wolfee 接下来会录制哪些日历会议。所有访问均为只读，并仅限于你自己的数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa8c89899a881918862cd7f7f164cc0",
+    "name": "Wolfire Workspace",
+    "sourceHash": "b31f8b4c9f6f94417d821ddc9dbca5f38f18c7e2445191c746c263712214b0ad",
+    "summary": "游戏发行相关证据",
+    "description": "Wolfire Workspace 帮助获授权的游戏开发者检查游戏、带日期的商店检查记录、已保存的构建来源信息和发行报告。询问哪些事项需要关注，并可沿证据追溯到仪表板。你可以准备公开商品页观察结果供审核；保存前必须在仪表板中确认。需要受邀加入工作区的账号。此插件不会运行构建、下载制品或发布版本。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fe0bf66c8481919c513d799406436e",
+    "name": "Wolfram",
+    "sourceHash": "24c451fa26fe9ca1ba7295a48dad82f76e23b6dd296a1cfcbfd7693184874b96",
+    "summary": "添加计算与知识能力",
+    "description": "Wolfram MCP Server 将你的 AI 环境变成严谨的计算平台。它集成 Wolfram Language 和 Wolfram|Alpha，可访问精选数据与复杂算法。用户提交问题后，LLM 会与 Wolfram 协作，将问题转换为 Wolfram Language 并进行精确计算，再将准确结果纳入回复。\n\n无论是求解复杂微分方程、分析化学结构，还是查询实时社会经济数据，MCP Server 都能为 AI 提供所需的“计算大脑”，从而给出经过验证、值得信赖的高水平技术结果。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab567e49e80819184d376539b887739",
+    "name": "WonderKit",
+    "sourceHash": "0e619c3826742c067e31c031d620041def9e9ce30dc28da378c83f84fbfd5588",
+    "summary": "规划团体旅行与行程",
+    "description": "WonderKit 帮助朋友、伴侣和家庭一起规划旅行。询问某座城市有哪些活动，WonderKit 就会提供经过场所核实、适合家庭、情侣或朋友的精选活动，以及经过调研的逐日行程和主题地点指南，其中包括新英格兰、哈德逊河谷和谢南多厄等地的秋叶自驾游。每条结果都链接到 wonderkit.app 上的完整指南，你还可以转到 WonderKit planner，与同行者一起制定定制行程。该应用为只读：不会创建、修改或删除任何内容，无需账号，也无法查看任何人的私人行程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8c9fc167cc8191ab878e64b3940ca8",
+    "name": "Word Counter",
+    "sourceHash": "821e707c902df73b0b6116b6ed142ba4ba6715eb33e14a82794d76421efe5d19",
+    "summary": "统计字数及其他指标",
+    "description": "按照与 ibm.io/wordcount 相同的规则，准确统计草稿、文章和片段的字数与字符数。可返回单词、字符、句子、段落和阅读时间，并提供聊天内小组件，快速直观地查看摘要。文本仅在内存中处理，不会保存。如需带字数目标的私密编辑，可链接到完整的离线浏览器应用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69987133a2e0819186859d0560506caf",
+    "name": "Word Search- Daily Puzzle Game",
+    "sourceHash": "e61512d30c832780b610efe574ccfad5e80dc33e5a93c9912c9598fb1c88f409",
+    "summary": "免费的脑力训练挑战！",
+    "description": "每天寻找隐藏单词，享受乐趣，让大脑轻松锻炼。Word Search 上手简单、体验放松，适合各个年龄段，内含丰富谜题。无论你有几分钟还是一整个下午，都能随时畅玩数千个找词谜题。在家、公交车上、休息时或睡前都可以玩，总有新谜题等着你。\n\n每道谜题都藏有单词。横向、纵向、向上、反向或斜向寻找它们。点击或拖过字母标出单词。完成列表即可解开谜题并进入下一关。操作简单，任何人都能在几秒内开始。\n\n谜题适合新手，也适合高手。可以从简单关卡开始，也可以用更难的挑战测试自己。随着游戏进行，你会更快发现单词、学到新词并增强信心。每完成一道谜题都很有成就感，让你想再玩一局。\n\n主题丰富有趣。可以寻找动物、食物、自然、太空、体育、旅行、音乐、节日、科学、颜色、职业等主题。每种主题都有一批新词可供发现，让每道谜题都新鲜有趣。\n\n随时畅玩，即使没有网络也可以。这款游戏适合旅行、候诊、乘飞机、自驾、露营，或任何想安静消遣的场合。下一道谜题随时待命。\n\n需要一点帮助？卡住时可以使用提示。提示会为你指明方向，让你不必感到挫败，也能继续享受游戏。无论你是在学习还是挑战自己，提示都能让每道谜题更轻松。\n\n简洁的设计让眼睛更舒适。明亮的字母、流畅的操作和清晰的布局，让找词简单而轻松。你可以玩几分钟，也可以不受打扰地玩更久。\n\nWord Search 不只是一款游戏，也是放松锻炼思维的方式。寻找隐藏单词有助于提升专注力、注意力、拼写、词汇和模式识别能力，同时保持轻松愉快的游戏体验。许多玩家会在忙碌一天后用找词游戏放松。\n\n除非你想挑战速度，否则没有时间压力。可以慢慢享受每道谜题，也可以挑战自己尽快完成。按自己的方式玩，掌握自己的节奏。\n\n游戏适合所有人。儿童可以练习阅读和拼写，青少年可以扩充词汇，成年人可以在下班后放松，老年人可以在娱乐中温和锻炼大脑。家人也可以一起玩，看看谁找到的单词最多。\n\n新谜题和新挑战让乐趣持续不断。这里有大量词表和主题，总能发现新内容。你可以一玩再玩，不必担心很快玩腻。\n\n玩家喜爱 Word Search 的原因：\n• 数千道有趣的找词谜题。\n• 易学易玩。\n• 适合儿童、成年人和老年人。\n• 多种难度等级。\n• 有趣的主题词包。\n• 轻松的游戏体验。\n• 需要时可使用实用提示。\n• 支持在线或离线游玩。\n• 既适合快速玩一局，也适合长时间畅玩。\n• 操作流畅、设计简洁。\n• 有助于提升词汇量。\n• 在游戏中锻炼大脑。\n• 适合每天游玩。\n• 适合新手和有经验的玩家。\n\n如果你喜欢文字游戏、脑力游戏、拼写游戏、寻物谜题或轻松的益智游戏，这就是理想之选。立即下载，开启下一段找词冒险。寻找隐藏单词、完成每道谜题、扩充词汇、挑战思维，享受数小时轻松乐趣。你最爱的下一款找词游戏，随时等你来玩。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a79b7fc48c881919850190697b92543",
+    "name": "WordByWord – Learn Languages",
+    "sourceHash": "91a15fdbdb616e3c97d5eb231115c09eddc4a4e98c555ef1975b68160ccc58ae",
+    "summary": "积累并练习词汇",
+    "description": "在 ChatGPT 中通过积累和练习词汇来学习语言。创建词汇集，添加单词和短语及其翻译、例句，跟踪学习进度，并使用仍在学习的词汇生成个性化练习。\n\nWordByWord 支持 50+ 种语言，可将词汇集中整理在一处。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a68b06ef31081919959df219960c839",
+    "name": "Wordspace",
+    "sourceHash": "e993c3df80bdf19f3e609a0c6ae33a14f0d39dc0b28db8c81d0e23af543fcc75",
+    "summary": "玩转文字冷热猜谜",
+    "description": "猜测谜底中心词。含义越接近的词，在棋盘上的位置就越靠近谜底：每次猜测都会获得一个接近度排名，每回合还会揭示一个新线索词，你有十次机会缩短距离。每天都会推出一个新词，之前的九个词可在归档中查看。与朋友分享游戏时不会泄露谜底。\n\nWordspace 免费使用，无需账号，可在网页和移动设备上游玩。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a462cfa7c0819183ea57039fc99a10",
+    "name": "Wordy- Highlight+Annotate Text",
+    "sourceHash": "8f9afade8c9a4862ecd10c96e91ca932222f2b5e230934727e3f6c2642eb1732",
+    "summary": "写作文档的反馈与分析",
+    "description": "阅读和写作时，AI 高亮会随时解释难词、观点、论证和写作技巧。\n\n将任意段落粘贴到聊天中，即可获得清晰易读的版本，高亮处可打开文本旁的简明解释。无需在搜索结果、词典和网站之间来回切换，你可以专注阅读。点击高亮短语，即可了解其重要性、含义或它与整体内容的联系。\n\n这款应用旨在满足求知欲。你可以阅读文学、历史、科学、新闻、演讲、法律文本、文章、研究论文、博客文章和自己的草稿。每条注释都针对具体段落生成，因此解释会结合上下文，而非提供千篇一律的定义。\n\n高亮内容可以解释：\n• 词汇和不熟悉的短语\n• 文学手法和写作技巧\n• 主题、象征和母题\n• 历史和文化典故\n• 人物发展和动机\n• 论点、证据和推理\n• 语气、情绪和风格\n• 语法和句子结构\n• 修辞策略\n• 重要事实和关键观点\n\n阅读体验保持简洁。原文始终位于页面中心，注释只在有帮助时显示。你可以一次打开一条注释以避免页面杂乱，也可以按顺序浏览所有注释。无论你只想快速得到答案，还是需要深入解释，相关信息都会紧邻启发你思考的原文。\n\n学生可以用它预习课程、复习指定阅读材料，或在讨论和考试前理解较难的段落。教师可以借此探索解释同一文本的不同方式。终身学习者也能借助它读懂曾经觉得太难的书籍和文章。\n\n作家和编辑也能从中受益。将自己的作品粘贴到应用中，查看对结构、语言和修辞选择的解释。利用注释发现哪些地方需要为读者补充背景，或哪些句子可以写得更清楚。\n\n每段文字都各不相同。莎士比亚的诗句需要的注释不同于科学文章或法院意见书。应用会根据文本调整解释，而不是强行将所有文档套入同一个模板。\n\n应用采用简洁界面，让你在手机和平板上舒适阅读。文本便于浏览，注释易于打开，布局也会在你查看注释时帮你保持阅读位置。\n\n无论你是在上学、准备工作、学习新主题还是为了兴趣阅读，这款应用都能帮你减少搜索解释的时间，把更多时间用于理解所读内容。粘贴一段文字，探索高亮内容，并从每个段落中发现更多信息。\n\n你可以自行决定需要多少细节。你可以不受打扰地通读，也可以在某个高亮引起注意时停下来查看。简短注释提供快速解答，较长注释则会串联段落中的观点，解释某个句子、引文或例子为何重要。这样可以循序渐进地建立理解，而不会感到不知所措。\n\n这款应用适用于家庭作业、读书会、职场培训、语言练习和个人阅读目标。如果你喜欢边读边提问，它会将答案直接带到页面中。它可以帮助你识别模式、理解复杂论证、记住重要细节并欣赏出色的写作。\n\n功能包括：\n• 粘贴几乎任何文本\n• AI 生成的上下文注释\n• 清晰的高亮段落\n• 简单的并排解释\n• 轻松在注释间导航\n• 简洁、无干扰的阅读体验\n• 快速探索复杂材料\n\n理解始于上下文。无需绕开令人困惑的部分，而是借助恰好出现在所需位置的指引，读懂这些内容。自信阅读，保持好奇，每天将难懂的段落转化为清晰的学习体验。今天。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2158d8212c8191a6183eb83b8f9b46",
+    "name": "Workable MCP Server",
+    "sourceHash": "439479fb93371094a4e863b6782622f9d3b2be285a1175bf6e44962e5baba62b",
+    "summary": "管理 Workable 人力资源",
+    "description": "Workable MCP Server 帮助用户直接在 ChatGPT 中使用 Workable 账号：查找账号、查看职位和候选人、管理候选人流程操作、查询员工、休假和工时、处理职位申请和录用、管理部门及绩效评审模板。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0bd62edd488191a87e1232e514aad0",
+    "name": "Workjournal",
+    "sourceHash": "1b443caab9305f7d9db3037b8939a90b328caa411d693c2eedf756f69ee36940",
+    "summary": "项目共享记忆",
+    "description": "Workjournal 是一款结构化工作日志，专为多智能体和多成员协作而设计。你可以直接通过 ChatGPT 或任何 AI 智能体记录决策、会话依据和项目笔记。每条记录都能立即搜索并与团队共享。使用 Workjournal 找回以往决策背景、在智能体间交接工作，并持续记录项目演变的原因。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a99d242ec08191925371d3f11a062a",
+    "name": "Workleap AI",
+    "sourceHash": "3f783d90d71705b617b0a5f4db5f2ee859feb6f17f1533b75f2fb4514652613d",
+    "summary": "了解团队健康度与产出",
+    "description": "用自然语言提问有关团队和组织的问题，答案将来自你的 Workleap 账号。\n\n无需浏览仪表板，只要询问“我们本月的敬业度得分是多少？”“我团队的新员工是谁？”或“显示我最近收到的认可”，就能获得简洁直观的回答。\n\n涵盖内容：\n- 团队或整个组织的敬业度得分、eNPS 和参与度趋势\n- 员工档案、入职日期和汇报关系\n- 你发送和收到的认可卡片\n- 团队结构和组织背景，可自动理解“我的直属下属”等说法\n\n适合管理者和 HR 团队使用，无需切换工具，即可更快获取 Workleap 中已有的团队信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d48d1113e88191954bf235f0a87a89",
+    "name": "Workopia",
+    "sourceHash": "214ec0babf08f7931d94a55e2e794b84b42eebbd0d3ff3eeff558805b99fb8a4",
+    "summary": "职位搜索、职业建议与简历",
+    "description": "Workopia AI 将完整的求职体验带入 ChatGPT，无需打开额外标签页或单独注册。\n\n主要功能\n\n• 雇主直发的实时职位\n职位信息实时来自公司招聘页面和申请人跟踪系统（ATS），让你在岗位发布后尽快看到，而不是浏览第三方招聘网站上的旧信息。\n\n• 一眼区分必备条件与加分项\n每个职位都经过预先标注，便于快速浏览：明确突出必需技能，并将额外的“加分项”单独列出。\n\n• 直接定制简历\n打开任意职位并点击 *Tailor*，即可立即调整简历。实时小组件会突出显示缺少的技能，并允许你即时添加佐证。只需点击一次即可导出适合 ATS 的 PDF。\n\n• 求职信与申请\n在同一对话中生成针对职位的求职信、下载 PDF，并通过雇主官方招聘页面直接申请。\n\n搜索 → 阅读 → 定制 → 求职信 → 申请\n从头到尾都在同一段对话中完成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5d5d38c5648191a54b117a8263505b",
+    "name": "WorkOS",
+    "sourceHash": "23a8b691b637386a133efe4c8ea168ba75184238b4b4b0635bdf8b8a1cf3f7be",
+    "summary": "管理 WorkOS 账号",
+    "description": "WorkOS 将 ChatGPT 和 Codex 连接到你的 WorkOS 工作区，让你可以用日常语言管理账号，无需打开仪表板。\n\n设置 SSO 和 Directory Sync 连接、创建组织并邀请用户、调整身份验证策略、提取审计日志事件，以及配置 AuthKit 品牌样式。\n\n你可以询问“为什么这个组织无法通过 SSO 登录？”或“列出所有有 SSO 草稿连接的组织”，智能体会找到并执行合适的操作。\n\n所有操作都限定在你进行身份验证的 WorkOS 团队范围内，并遵循你现有的仪表板权限。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a764168f2848191903981b0acf509fc",
+    "name": "WorkStory",
+    "sourceHash": "620aff9ae519ac66e61fc57e416be91ce6412a72cfd3d96fb4e386786afa1c18",
+    "summary": "团队反馈与洞察",
+    "description": "WorkStory 帮助员工和管理者了解组织、反馈、目标、绩效评审和评审周期。它还可以向指定的团队成员征求反馈。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fb11d13c4c8191b6ed5cd9d3d7a7c7",
+    "name": "World Airfares",
+    "sourceHash": "0a60154231ee333f07702bd9f2071d1ec56cd3c935aa1997adfab62baa065564",
+    "summary": "搜索航班，点击即可预订",
+    "description": "World Airfares Flight Search 将实时航班搜索直接带入 ChatGPT 对话。只需告诉 ChatGPT 目的地和出行时间，即可从实时航班库存中获得即时结果，无需切换应用或来回打开标签页。\n\n可按推荐选项、航空公司或所有可用选项浏览结果，并按出行日期、舱位和乘客人数筛选。每项结果都会显示完整航班详情，包括经停、时长、行李和价格。准备好后，点击“立即预订”即可前往预订页面。\n\n该应用基于 World Airfares API，可搜索全球数百家航空公司的单程、往返和多城市行程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694aac9d703481919a7474bec5156d77",
+    "name": "Worldschedule",
+    "sourceHash": "56cbfd4a2f30085658ad47369591f538543bdb82f481ba9cc6ac8560c6194176",
+    "summary": "搜索并预订巴士/火车票",
+    "description": "为你提供全球巴士和火车出行服务。无需使用复杂筛选条件，只需说出目的地，其余工作交由服务处理。它接入覆盖 100+ 个国家、40K+ 个城市和机场的 2,500+ 家承运商网络。从机场接驳到跨国铁路，都能在一次流畅对话中找到合适路线并即时订票。\n- 全球覆盖：访问世界各地数千条巴士和火车路线\n- 轻松预订：几分钟内从“我该去哪里？”到确认车票\n- 实时数据：直接从承运商获取实时价格和可用情况",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8d944d6b1c81918ee365c40fb2cf2c",
+    "name": "Worldschedule",
+    "sourceHash": "56cbfd4a2f30085658ad47369591f538543bdb82f481ba9cc6ac8560c6194176",
+    "summary": "搜索并预订巴士/火车票",
+    "description": "为你提供全球巴士和火车出行服务。无需使用复杂筛选条件，只需说出目的地，其余工作交由服务处理。它接入覆盖 100+ 个国家、40K+ 个城市和机场的 2,500+ 家承运商网络。从机场接驳到跨国铁路，都能在一次流畅对话中找到合适路线并即时订票。\n- 全球覆盖：访问世界各地数千条巴士和火车路线\n- 轻松预订：几分钟内从“我该去哪里？”到确认车票\n- 实时数据：直接从承运商获取实时价格和可用情况",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699b2b0f611c81918a606c5207080b33",
+    "name": "Wortschatz",
+    "sourceHash": "41d095c8caa96b7a4d618d3c5eece6ac04aab6d79d00e4c63de57eb92cc410eb",
+    "summary": "创建抽认卡牌组",
+    "description": "使用 Wortschatz 创建个性化抽认卡牌组，练习词汇及翻译，并按自己的节奏学习任何语言。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a28163c23d08191a73e6c150c1314c5",
+    "name": "WoWSQL",
+    "sourceHash": "fbfbf33e4a67f04ee4ee181c06f3fb66dc67a3184dd2b59094915b5e648cd495",
+    "summary": "管理 PostgreSQL 数据库",
+    "description": "WoWSQL 允许用户直接在 ChatGPT 中管理其 PostgreSQL 数据库即服务项目。用户可以列出并检查项目、浏览数据库表、执行 SQL 查询和语句、搜索平台文档、阅读完整文档页面，以及列出文件存储桶，所有操作均在经过身份验证的 WoWSQL 工作区内完成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69df5cd50c68819189d47543ff2279e1",
+    "name": "Wrike",
+    "sourceHash": "ecda356143b4900e8bbd587fd88149bea18acbc16fdbb4700c74cdc283b2e46d",
+    "summary": "管理工作并推动进展",
+    "description": "直接访问 Wrike 工作区，以规划、确定优先级、更新和跟踪工作。将聊天内容转化为团队可见且可执行的项目、任务和时间线。导入会议记录、分配负责人、设置截止日期，无需切换工具。直接通过 ChatGPT 推动团队持续前进。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aaa619fe26c8191a788c9c65a605a25",
+    "name": "Writrex SEO",
+    "sourceHash": "05cb026c4a41cde8982baaf179fda158b2c11c665563667cc57e6bcd1cbccf9e",
+    "summary": "网站 SEO 审核",
+    "description": "Writrex SEO 会在 ChatGPT 中审核公开网页，并将技术 SEO 信号转化为清晰且按优先级排列的行动建议。\n\n分析页面标题、元描述、规范 URL、可索引性、标题层级、内容、链接、图片替代文本、社交元数据和结构化数据。利用返回的证据识别页面 SEO 问题、判断重点，并为网页制定切实可行的实施清单。\n\n连接 Writrex SEO 账号，即可使用可用的审核额度运行检查。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4e76579efc81919353c925b47abc42",
+    "name": "WunderCineMate",
+    "sourceHash": "8694de3405d3f625c4a21b933f7718223be3c866d2cb0d204f268015a60d43c4",
+    "summary": "发现并管理电影！",
+    "description": "WunderCineMate 帮助你发现新电影，并为喜爱的影片评分和管理收藏！\n\nWunderCineMate 有两种使用模式：\n * 未登录：可以浏览和搜索公开数据，例如热门电影或具有特定特征的演员\n * 已登录：使用 TMDB 账号管理想看清单并为电影评分\n\nWunderCineMate 基于 The Movie DB（TMBD）构建。要通过 WunderCineMate 登录，请先在此创建账号：https://www.themoviedb.org/",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8bc95cafc08191a19ad8e52213a8a3",
+    "name": "Xiangqi",
+    "sourceHash": "b14a188dd3352d3f5f0061058890ca567add83727fba5877fd070e0890e3b7e8",
+    "summary": "与 AI 对弈中国象棋",
+    "description": "直接在 ChatGPT 中与 AI 下象棋（中国象棋）。选择红方或黑方，选择简单、普通或困难，在标准 9×10 棋盘上完成一局对弈。合法走法高亮、将军提醒、吃子记录、悔棋、认输，以及传统中文和 WXF 棋谱记法，让每一步都清晰易懂。对局遵循国际象棋规则，包括将帅照面规则、将死、无合法着法时判负、重复局面和长将判定，以及 60 回合无吃子和棋。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a112deb1d4881919bde555b7c16b24b",
+    "name": "XMemo",
+    "sourceHash": "77686c19658e85e18d35d993e8d57cd56b73559927510b3a7184a3819640a370",
+    "summary": "跨对话记忆",
+    "description": "XMemo 为 ChatGPT 提供私密、持久的工作区，可在不同对话间保留有用上下文。它能保存、搜索、回忆和读取完整记忆文本，并解释、更新和整理偏好、决策、项目背景、参考笔记、待办事项和个人 Ledger 记录。交互式 TODO Board、Ledger 和 Project Workspace 视图可将记忆转化为结构化工作，无需离开 ChatGPT。OAuth 和服务器强制执行的权限范围会限制每项操作只能访问已登录用户获授权的数据；可恢复删除、恢复功能，以及永久删除前的明确确认，让用户始终掌控数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694bab6f53688191b99579d8cd4f2ae5",
+    "name": "Xmind",
+    "sourceHash": "6c552470f2c9c464d835caa12be17c8083424aad0884ed77acd01aaf783a369e",
+    "summary": "思维导图，整理创意",
+    "description": "Xmind for ChatGPT 只需通过聊天，就能把你的想法转化为思维导图。\n用日常语言描述项目、目标或主题，Xmind 就会将内容整理成结构化的可视化导图，让你一眼看清各部分之间的联系。点击一次即可在完整的 Xmind 应用中打开，进行更深入的编辑。\n适合规划、学习、记笔记和头脑风暴。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9f85cb83b88191862fc55009d6e865",
+    "name": "xmplaylist",
+    "sourceHash": "99c6c9a2409685a42156da0cf1f974499db64166fadff092496dd7c30b239548",
+    "summary": "探索 SiriusXM 播放记录",
+    "description": "探索 xmplaylist 跟踪的 SiriusXM 播放记录。查找歌曲在哪些地方播放、发现新加入电台的歌曲、查看电台播放次数最多的曲目，并比较歌曲和艺人获得的支持变化。查看已保存艺人名单的简报，再深入了解单个艺人的歌曲、电台和趋势。\n\n结果会链接回 xmplaylist 报告，并说明所选时间段和可用覆盖范围。经你明确请求后，可准备 CSV 导出文件，并通过电子邮件发送下载链接。你也可以在聊天中查看最近一次导出的状态。\n\n需要拥有 API 访问权限的 xmplaylist 账号。请求会占用你套餐的每日 API 配额。已记录的播放情况可能不完整；首次检测日期并不代表歌曲发行日期。xmplaylist 不是 SiriusXM 官方产品。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa28dd99818819199cd84335f8ba7b4",
+    "name": "xpost",
+    "sourceHash": "4d45d85f69b0e61eaa416199f7a13fe66e7d1922d74e028790b99bd6aa5b7d9f",
+    "summary": "创建并发布社交媒体帖子",
+    "description": "将对话内容转化为已发布的社交媒体帖子。\n\n告诉 xpost 你想发布什么、发布到哪里以及何时发布。它会为每个社交网络创建帖子，并将其发送到你的审批队列——只有经过你批准才会发布。\n\n可发布到 X、Instagram、LinkedIn、TikTok、YouTube、Facebook、Threads、Bluesky 和 Pinterest。内容进入队列前会经过品牌规范检查，每条已发布的帖子都会附带回执，链接到其线上页面。\n\n你还可以询问帖子表现、哪些内容效果最好，以及受众最活跃的时间。\n\n连接 xpost 账号即可开始提问。你的第一条帖子免费。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3b8c2a7a508191b2e6059a77fdfcc0",
+    "name": "xTiles",
+    "sourceHash": "83bb8cf8557d122dd57663c84d3b31e5520169cd979aaadcd2fc4d0d52c5bf89",
+    "summary": "构建可视化项目",
+    "description": "xTiles 会将你的 ChatGPT 对话整理为可视化项目。无需再让研究、计划或想法散落在聊天记录中；你可以让 ChatGPT 将它们直接整理到 xTiles 工作区的页面、任务和布局中。把头脑风暴变成项目看板，把旅行想法变成规划页面，或将零散笔记整理成清晰、便于回顾、编辑和分享的内容，全程无需离开对话。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c64c016c3c8191a380e1b1d4a3cffe",
+    "name": "Yapay Zeka'nın Boyner'i",
+    "sourceHash": "37ece4f7e709fa0d18891dddc6255dfc5814fa569ef949f8251511f1d7433c5c",
+    "summary": "在线购物之选",
+    "description": "这款为 Boyner Büyük Mağazacılık 开发的应用提供便捷的商品列表体验，让用户轻松列出、搜索和发现商品。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a267785dec88191beaa991df099c13b",
+    "name": "Yatra",
+    "sourceHash": "b9a52e83f29ef878bf74a29dc6a453e8d3b3e5c473dcdbe774e27eec43cbdd86",
+    "summary": "查找航班和酒店",
+    "description": "用户可以通过自然语言搜索航班和酒店，轻松规划旅行。应用在流畅的对话体验中提供航班时刻表、票价、酒店选项和旅行信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a720e1c9608191b2f10597547b6710",
+    "name": "YepCode",
+    "sourceHash": "ac5f49564eebad0b5ab39bcbd6bc260995d2cdb880b79df68a98e09a5dcb3cd9",
+    "summary": "构建并运行自定义 AI 工具",
+    "description": "YepCode 让你使用自己的代码构建自定义 AI 工具。工具输入由 JSON Schema 定义，并在隔离沙箱中执行，可访问任意 npm 或 PyPI 软件包以及安全环境变量。\n\n使用 Node.js 或 Python 定义可复用流程，将其作为可调用的 AI 工具公开，并按需或按计划执行。每次运行都会记录并可审计，支持可追溯的生产级 AI 集成。\n\n专为需要可编程、可观测 AI 工具执行能力的开发者打造。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5487c2b55081918b82f6422aab5d33",
+    "name": "Yoroll",
+    "sourceHash": "5d1a09c9b41ffcaeac437f246fdeeab98187049e68e2a251ad7696f04dcc4d1e",
+    "summary": "创建你的 AI 电子游戏",
+    "description": "Yoroll 帮助创作者将脚本、视频、图片或简单创意转化为可玩的 AI 电子游戏。生成分支故事、选项、QTE 和游戏交互，然后预览、编辑并发布为可分享的网页游戏。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6624ba17c881919b9fbc280773bb8f",
+    "name": "Yoteiko",
+    "sourceHash": "8cbed3855c29fc90828eeeb6b1eb3ba57ed65ced5d0440928cc0aa22f2002ed7",
+    "summary": "借助 AI 更聪明地规划旅行",
+    "description": "Yoteiko 是一款面向全球目的地的 AI 旅行规划工具。搜索任何国家的景点、餐厅和隐藏宝藏，然后获取由 AI 制定的个性化逐日行程。无论你计划在巴黎度过一个周末、进行为期两周的日本铁路旅行，还是背包游览东南亚，Yoteiko 都会根据需求制定计划，提供当地推荐、交通提示和时间安排建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4778774ff88191b1c87186d5269a99",
+    "name": "YouCam (beta)",
+    "sourceHash": "032776a71bf212b75312fe168b3bb8902a5b5a2c8840433a5b4ace63fd13d01d",
+    "summary": "分析、编辑和转换照片",
+    "description": "认识你的智能 AI 助手。从快速润色到轻松修图，AI Agent 让你充分发挥创意。只需轻点一下，即可分析、编辑和转换照片，发现最适合自己的造型、润饰图片，并将文字变成故事。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e14f539b588191867451cd665419d9",
+    "name": "YouEx.ai",
+    "sourceHash": "c7b322d9a2d63572af8305723f6be7e358b1f8095316b51ddd0985ee691dbe55",
+    "summary": "将潜在客户转化为收入",
+    "description": "YouEx.ai 会自动处理那些被搁置的入站潜在客户：研究、评分、分配并持续培育每一位客户，让销售代表专注于销售。只需 5 分钟即可完成设置，并围绕销售人员现有的工作方式构建。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a989f2e065881918ff560bf955b4b78",
+    "name": "Your VA Benefits",
+    "sourceHash": "570e85da53b75bbff26ea2b04da57add97cc54a1e0390540f61c5100ed2f42cf",
+    "summary": "VA 福利与 VSO 工具",
+    "description": "估算合并后的 VA 残障评级、每月补偿金和可能的补发款。按州、城市或组织查找经认证的退伍军人服务组织（VSO）代表。结果仅供教育参考和估算，并非美国退伍军人事务部（VA）的正式认定。Your VA Benefits 与美国退伍军人事务部无关联，也未获其认可。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aae6961a8548191bf09f5d39637eddc",
+    "name": "YourHolidayGPT Travel Research",
+    "sourceHash": "3821c3391bf94c4bcefdcd8f6bb93ccf7f8ba0bc5deac8041b6717de7774ab59",
+    "summary": "发现旅行体验",
+    "description": "使用 YourHolidayGPT 的目录信息探索城市体验并制定旅行行程。本次提交使用独立的、仅供研究的 MCP 端点，包含 4 个只读工具：城市探索、体验搜索、产品详情和行程来源数据。它会返回描述、时长、评分和可用旅行条件，不提供结账、购买链接、联盟跳转、eSIM 产品或所有者访问权限。目录信息可能不完整或已过时。我们的网站另行运营联盟旅行推荐和 eSIM 直销业务；本次提交的端点不提供这些商业流程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a59184994a88191af200cf54e62eb34",
+    "name": "Zeck",
+    "sourceHash": "b43b219c7e3a72f671415015e8c240135d322cc0debd33d1e68a0762c57e3ce8",
+    "summary": "连接你的 Zeck.app 数据",
+    "description": "此连接器允许 Codex 或 ChatGPT 读取存储在 Zeck 公司空间中的信息。它使用你现有的 Zeck 用户账号进行授权，且只能读取你有权查看的信息。连接后，可以读取用户所属公司、每家公司中的 Zeck 列表，以及已发布 Zeck 的内容。这样即可与 Codex 或 ChatGPT 协作处理权限受控的 Zeck 材料。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7c4f7243c4819183375158ff94fbad",
+    "name": "Zeiko Agents",
+    "sourceHash": "e0019102c8ac9ef921eaef453fad97c49c6cecc9dd28eb3983c41296e04076bb",
+    "summary": "创建并测试客服智能体",
+    "description": "根据你的网站创建私有客服智能体，在上线前测试其回答，并申请批准后再启用。在 Zeiko 工作区中查看客服质量以及有证据支持的改进建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6944c4eec37c8191839ab9eafaa2f1f4",
+    "name": "Zen Shopping",
+    "sourceHash": "4d55a665eb31a976c13dd2d0d89924a5be8c2b0d48b67414d3044da95d10f0ff",
+    "summary": "智能购物，覆盖所有商店",
+    "description": "Zen Shopping 是 ChatGPT 中的智能购物伙伴，可跨商店比较价格、发现优惠并快速获取个性化推荐。借助 AI 找到合适选项，让你放心购物。\n\n在 ChatGPT 中使用 Zen Shopping\n\n1. 连接：将 Zen Shopping 应用连接到 ChatGPT。\n2. 触发：输入命令：键入“@”后选择 Zen Shopping 应用，或在聊天框中输入“Zen Shopping”（后接空格）。\n3. 开始：现在即可使用！试着提出具体问题：\n·“查找并推荐值得购买的耳机。”\n·“给妈妈的礼物，预算低于 $50。”\n·“比较 4K 显示器，并告诉我在哪里购买。”\n\n连接 Zen Shopping 应用后即可开始更聪明地购物——发现、比较、决策，然后前往零售商页面安全结账。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_connector_1p_a609524f62cc8191874331fbd02c064e",
+    "name": "Zendesk (Beta)",
+    "sourceHash": "c1e884bb77973d2175df926a1bc514c95858f8b764db81cdc6fc9c3f2ac60501",
+    "summary": "调查支持活动并管理 Zendesk 工作",
+    "description": "Zendesk Support、Guide、Talk 和公开 Status 操作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c5b2ccfe248191a3d511fe8dbd8d08",
+    "name": "Zendrop",
+    "sourceHash": "0621d48ba83ae0331621b9191bd3e55c277f24815cdb43485f239ad54bd03688",
+    "summary": "管理一件代发业务",
+    "description": "Zendrop 帮助电商商家直接在 ChatGPT 中管理一件代发业务。用户可以搜索 Zendrop 商品目录、将商品添加并导入已连接的商店、查看商店、订单、账单和业绩数据、更新履约和物流跟踪设置、预览履约成本，并确认受保护的订单履约、取消、地址及商品关联流程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a51ef5c6e648191b549bff1c57bfdd6",
+    "name": "Zentrik",
+    "sourceHash": "3ac5a448863a46830ee277feefb96ecd622d7604f32f8c277d4b27c9726eae09",
+    "summary": "将证据转化为决策",
+    "description": "Zentrik 是面向产品团队的产品运营系统和第二大脑。在 ChatGPT 中搜索获授权的工作区，追溯机会背后的客户证据、发现反复出现的问题，并收集新证据以供审核。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cb793cea0c8191ae8781e11beb2848",
+    "name": "ZeroBounce",
+    "sourceHash": "2c011aa51baf05e9695c5e36a69a9142efcff89e81cb7db8cc24543103d2073e",
+    "summary": "即时验证电子邮件",
+    "description": "使用 ZeroBounce 的 ChatGPT 助手即时验证电子邮件地址。在发送营销活动前快速测试并核验邮箱，帮助降低退信率、保护发件人信誉并提升送达率。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cd22ef3fcc819197d418b99a2db6e6",
+    "name": "zeroheight",
+    "sourceHash": "d7411ba409b64f9b0e0f40b74aa1c733d7f513e8aa4a2396b1085919b78a14d0",
+    "summary": "连接你的设计系统",
+    "description": "zeroheight MCP 可将 ChatGPT 直接连接到你的设计系统文档。让 AI 助手访问样式指南中的组件、设计令牌、模式和使用规则，以便在生成代码或回答设计系统相关问题时遵循正确规范。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aad619989b88191be7c8725658b2a15",
+    "name": "Zim Studio",
+    "sourceHash": "78fe2627569b36ba6caa810a4296144bb62ed798aace77a60906015167845855",
+    "summary": "创建图片、视频和音频",
+    "description": "使用 Zim Studio 将产品、参考素材和脚本转化为图片、视频和音频。规划营销活动、撰写文案和 UGC 脚本、创建静态图与轮播素材，并制作电影感场景。使用 Mirage、Clone 和 Angles 编辑现有视频，创建故事板，并在项目中整理结果。创意技能可帮助处理创意方向、连贯性、格式和审核标准。连接 Zim Studio 账号即可使用你的素材库、品牌知识和可用功能。生成前请查看成本；媒体创作会使用你现有的 Zim Studio 点数。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a494061c53081918a581394e604573a",
+    "name": "Zio",
+    "sourceHash": "3217e76aaa3f7e276fe45c539b151d22e1989e88be932a7c49cbc2053366e1a9",
+    "summary": "查找实时跟踪车辆",
+    "description": "该应用允许 ChatGPT 以只读方式获取车队信息，例如车辆实时状态、位置、行程摘要、行驶距离、停留、怠速、未活动车辆、超速事件、空调与数字端口传感器使用情况、温度报告、燃油加注/排放摘要、路线回放、系统日志和产品帮助文档。多个工具可渲染 ChatGPT Apps SDK 小组件，包括车队地图、回放地图、报告仪表板和文档卡片。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699e10e658f4819189f4a885540cbf0f",
+    "name": "ZipRecruiter",
+    "sourceHash": "dfac50e8641b450a84155a983d316d5db06da809ba01fe0de5e01b90a0426c99",
+    "summary": "轻松搜索职位",
+    "description": "无需离开 ChatGPT，即可查找 ZipRecruiter 上的实时职位。按职位名称、公司或地点搜索，再按薪资、距离、远程或混合办公、雇佣类型和发布日期缩小结果范围。查看职位信息后，可跳转到 ZipRecruiter 申请。示例：“@ziprecruiter 找洛杉矶的客服工作，时薪至少 $24”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0dfddea830819180d3eaf355793e42",
+    "name": "Zite",
+    "sourceHash": "a43e901bcdf111120e22cbc637c683404fe125908484d8e922eb53aac51173f6",
+    "summary": "构建应用并管理数据",
+    "description": "Zite 帮助用户通过 ChatGPT 检查、查询、分析和更新其私有工作区数据，包括数据库、表、字段、记录和聚合数据。它还可以基于这些数据构建、编辑和发布应用，并配置工作流和集成，所有内容均保存在用户的 Zite 工作区中。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9e800897a08191a2c0b28e6056997e",
+    "name": "Ziweave",
+    "sourceHash": "9f9953efcd828d72618105f3d3b7adf6adc898c710c41bdf2c995f2c39a6892c",
+    "summary": "清晰解读紫微斗数",
+    "description": "即使不了解如何阅读命盘，你也可以探索命盘可能代表的含义。Ziweave 通过基于个人命盘的解读，带你了解中国传统占星体系紫微斗数。完成出生信息设置后，Ziweave 会生成命盘并提供给 AI，AI 将以此为依据进行解读。\n\n用自己的话询问工作、人际关系，或某个月、某一年的主题。你可以追问“为什么？”，也可以分享生活近况，进一步探索解读与你自身情况的关联。由你提出问题，通过对话让命盘更容易理解。\n\n试着询问：“我的命盘显示我在工作中的优势是什么？我可以如何发挥这些优势？”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69dd66e263c48191bc366788af31855c",
+    "name": "Znajdź Przetargi",
+    "sourceHash": "b068c5793d3638cb579679965089ca3cec8d029a889e755ae7b10b4f0e3b8157",
+    "summary": "招标信息搜索引擎",
+    "description": "ZnajdzPrzetargi.pl 招标搜索引擎是一款可快速、便捷查找当前招标信息的工具。它会搜索波兰的私人招标、公共招标和公共采购机会。借助高级筛选条件，用户可以按行业、地点或合同的具体信息精确调整结果。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6944237ed76c8191aa27dfa79198aeca",
+    "name": "Zola",
+    "sourceHash": "37174162827b3186ac4b888e48db3805664012f0a8a0ab7479039cd1633edd94",
+    "summary": "查找婚礼服务商",
+    "description": "准备好寻找理想的婚礼团队了吗？Zola 可以帮你。\n\n寻找合适的服务商不该像寻宝一样困难。使用 Zola 应用，只需描述需求，例如“布鲁克林的摄影师”“洛杉矶价格实惠的场地”或“西雅图 $5K 以下的花艺师”，即可在交互式轮播中浏览个性化结果，其中包括照片、价格和评价。\n\n无论你刚开始筹备，还是正在确定最终人选，Zola 都能为你对接全美数千位值得信赖的婚礼专业人士，满足你的风格、地点和预算需求。\n\n我们是 Zola，一家陪伴你走过每个重要日子的婚礼公司。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69373a13116c819189d046aea1278836",
+    "name": "Zoom",
+    "sourceHash": "475ab88eba824e64ea27a43d81b03355e6fa5d02646ebcbbf6815b5f72248e95",
+    "summary": "Zoom 洞察",
+    "description": "Zoom 通过 Zoom 应用连接器将 Zoom 会议背景连接到 Codex，并为规划、构建、调试和审核 Zoom 集成提供开发工作流，涵盖 API、SDK、webhook、WebSocket、机器人和自动化场景。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1406641678819185c31e8ebd379a62",
+    "name": "Zoom Revenue Accelerator",
+    "sourceHash": "400af59e2b1d28d17fc631c099e4380f80a578e42d568ae371156572266fb10f",
+    "summary": "查找销售洞察",
+    "description": "将 ChatGPT 连接到 Zoom Revenue Accelerator，以查询销售对话、转录稿、AI 摘要、交易、团队和辅导评分卡。使用自然语言询问客户会议和销售管道活动，并从你已有权限访问的记录中获得有依据的答案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6957f7b0146081919810c8f1fbbccf45",
+    "name": "Zumba",
+    "sourceHash": "c1a200e6ae7f8fad83c8235347608b26083e5a5c7e268ebe27516492d91bb669",
+    "summary": "查找尊巴舞课程",
+    "description": "无论你是想参加课程，还是成为持证 Zumba® 教练，Zumba® ChatGPT 应用都能满足需求。在附近搜索线下、直播或点播 Zumba® 课程，也可以查找你所在地区的线下教练培训，迈出取得教练资格的下一步。只需告诉我们你的需求，其余交给我们处理。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a70447966e48191b080fe227f0bdcc7",
+    "name": "Zuzli",
+    "sourceHash": "2038597fd24a3e74f704f31831609f4a7f26ce5dc582e98e406f930186b5b8df",
+    "summary": "规划和管理旅行",
+    "description": "Zuzli 帮助旅行者创建、验证、查看和更新逐日行程，包括停靠点、路线、时间安排和实时行程进度。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d9044241208191b91a98fe5755b3c9",
+    "name": "ZZAIM",
+    "sourceHash": "120632735eb2f2123f0d680c8604e65e58dcfdfa7a3d8a1e9033d644fe16f724",
+    "summary": "韩国 K-12 课程规划器",
+    "description": "ZZAIM 帮助教师查找韩国 K-12 学业标准、创建并保存符合课程要求的教案，并将已保存的文档导出为 DOCX、PPTX 或 HWPX 文件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6abbe12ff910819185e1bec466c1963f",
+    "name": "קבלה ובינה - עוזר לכתבי הסולם",
+    "sourceHash": "1728254c9ab3ca57b5569ca25f590332a07ea355ff7da0c67ce91dc52245ce05",
+    "summary": "《巴尔·苏拉姆著作》学习与搜索助手",
+    "description": "用于学习和搜索巴尔·苏拉姆著作的助手，忠实依据原文并以清晰易懂的语言呈现。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6b424fe8208191b541adecfae88653",
+    "name": "أرشيف الإسلام",
+    "sourceHash": "5e9c7cb94ef56248f496acbe97b413b35c09d0be476a9d552252b5eb5bcaeb24",
+    "summary": "可信赖的《古兰经》资源",
+    "description": "IslamArchive 可直接访问有文献依据的《古兰经》资源，包括经注、经文词义、语法分析（I‘rab）、启示缘由、相似段落、诵读异文、经文和章节主题、词根与派生词，以及涵盖经注、古兰经研究、伊斯兰思想和灵性成长的音频库。可用时，结果会附上来源名称和链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cc70bd58808191b212d4302922fdd2",
+    "name": "마이스코어봇",
+    "sourceHash": "ad4e1d93ba2c414857babb59b96f4063508f24f64e6a3ed60cdee2d5cf1af858",
+    "summary": "查找体育比赛记录",
+    "description": "这项服务可即时通过交互式小组件调取特定日期的体育比赛数据。它基于准确的体育数据提供无幻觉回答。你获得的答复仅依据准确数据，从而提升你对 ChatGPT 和本服务的信任。\n目前提供棒球、篮球、足球和排球数据，未来还将扩展。\n\n1. 防止幻觉并提升可信度：直接参考实时数据生成准确答复。获得以事实为依据的高质量回答，而非无依据的信息。\n2. 提供数据驱动的深度推理：不止呈现比分，还基于实时比赛情况、队伍实力比较和球员详细统计等丰富数据，为用户提供更深入的分析。\n3. 集成交互式小组件：以可视化小组件呈现各场比赛数据，让用户直观查看仅用文字难以传达的复杂体育信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9806652a648191886835ee207cfa44",
+    "name": "방위사업 법령 도우미",
+    "sourceHash": "f1eef21cc148d3d75ce0fc2eee5892c963ee10ecd206979bd3acf936409be31a",
+    "summary": "防务事业法规助手",
+    "description": "帮助搜索防务事业相关的公开法律法规、行政规则、判例和决定案例，并查看与问题相关的文件名称、条款及判断依据。\n\n使用国家法令信息中心 Open API 和防务事业厅公开资料，由个人开发者独立运营。\n本服务并非由防务事业厅、法制处或 OpenAI 制作、赞助或认可。\n\n查询结果仅供业务审查参考。最终判断前，请由负责人核对原文和事实情况。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a85aabb74f48191a4071b151ac4a9c3",
+    "name": "별자리 운세박사",
+    "sourceHash": "04dc2d1acc8724dbd3ec749af52e0d01eb138bfe7efe2a9a736dc0054b179626",
+    "summary": "免费 AI 星座与占星解读",
+    "description": "无需占星知识也能探索命盘的含义。输入出生日期、时间和城市，Astrology Doctor Fortune 就会确定你的星座并绘制完整命盘——包括太阳、月亮、上升星座、全部 10 颗行星、12 宫位和所有主要相位，并通过可在聊天中交互探索的命盘轮展示。\n\n一个应用提供 3 种解读。出生盘：解读星盘位置所反映的个性、优势和盲点。运势：根据你的个人命盘解读今天、本周或任意日期的行星运行，而非泛泛的太阳星座专栏。合盘：叠加两张命盘进行关系解读，展示相互相位、匹配评分和宫位叠加。\n\n行星位置在服务器上根据 VSOP87D 和 ELP-2000 星历数据计算——专业占星软件使用的同类天文数据——并自动进行时区和经度校正。出生城市支持任何语言或文字，例如 Seoul 或 서울、Hanoi 或 Hà Nội、Munich 或 München。解读和命盘标签支持 12 种语言，包括英语、韩语、繁体中文和简体中文、日语、印地语、葡萄牙语、西班牙语、德语、法语、阿拉伯语和越南语。无需账号或设置；即使不知道出生时间也能使用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a97eaa96a08191b6d2057172489626",
+    "name": "사주팔자 운세박사",
+    "sourceHash": "66cff43e3e759048ad392bb5ea1f1c6d6324e57d39e6c350239adc90a264fa67",
+    "summary": "AI 解读四柱八字",
+    "description": "Saju DoctorFortune（사주팔자 운세박사）将古老的韩国四柱八字传统带入 ChatGPT，其专有 AI 由首尔最知名地区的 20 多位资深命理师训练。\n\n只需提供出生日期、时间和性别，即可立即获得专业分析的命盘，包括四柱（사주팔자）、五行分布、大运周期（대운）和年度运势预测（세운），并通过简洁的交互卡片呈现。\n\n每月有超过 100 万用户信赖该服务。Saju DoctorFortune 是全球领先的 AI 八字服务。每次解读都以正统命理学（명리학）原则为依据，提供媲美顶级线下咨询的深度和准确性，并可随时在对话中使用。\n\n无论你想了解事业时机、关系契合度，还是未来一年的运势，都可以通过 ChatGPT 使用 Saju DoctorFortune，获得根植于数百年韩国命理传统的清晰、坦诚解读。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69abefb403248191a8f9a6a8d2a1604a",
+    "name": "상식이",
+    "sourceHash": "49fad4a45df7dc3b5f92979532a09a26689b641b280395b70f1f4782f935ff2e",
+    "summary": "一站式常识、少儿与阅读测验",
+    "description": "상식이는一个韩语常识问答平台，拥有 60 万道题目。\n\n你可以在 ChatGPT 中体验三种测验。\n\n📖 阅读测验——搜索 1.2 万册图书，并根据书籍内容回答 5 道判断题/选择题。\n🧠 常识测验——涵盖韩国历史、科学、生活常识、四字成语、国旗、动物、电影等多种类别。\n🎒 小学课本测验——基于 1~6 年级语文、数学、社会、科学和英语课本出题。\n\n每道题都会即时评分并提供解析。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a280aac4944819181e5724bbd510ad9",
+    "name": "이심통",
+    "sourceHash": "752671495babdc2af4e4bc39813c6bb6dae929161c396eef4092a1eceec68b9d",
+    "summary": "旅行 USIM 推荐",
+    "description": "根据旅行目的地、时长和数据用量，为你推荐 이심통 的实体 USIM 商品。还可查找博客中的旅行通信技巧、开通方法、Google 地图使用信息和旅行准备文章。数据用得放心，旅行准备更轻松。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9fcb7d4fc88191907379bf5d7a8375",
+    "name": "주차장 정보 제공 (주만사)",
+    "sourceHash": "ea4e593aa598379207860d6e9ddf801fa488111506b46a86872def5ddef76034",
+    "summary": "提供停车场信息（주만사）",
+    "description": "### 插件介绍\n\n搜索登记在 주만사 的停车场信息，并查看日停车券、计时停车券的价格和当前可购买数量。你可以按地点名称、地址或经纬度搜索附近停车场，并比较价格、距离和使用条件。\n\n# 使用示例\n\n- 查找江南站周边可购买的日停车券。\n- 查找首尔站附近 2 万韩元以下的日停车券。\n- 比较乐天世界半径 1 km 内的日停车券。\n- 查找纬度 37.4979、经度 127.0276 附近的日停车券。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0e8ef566a081919bfdc00ea8557d3f",
+    "name": "카카오 T 길찾기",
+    "sourceHash": "5bde97da0f9724f04f16edb6a4007883af0fc04a739d461f6979e00ca1d66386",
+    "summary": "查找前往目的地的最佳路线",
+    "description": "使用 Kakao T 规划前往目的地的行程。\n告诉我们目的地、同行人数或具体情况，我们就会为你推荐涵盖火车、巴士和自驾的最佳路线。\n你可以一目了然地比较各类交通方式的预计时间和费用，找到适合自己的出行方式，并可在 Kakao T 应用中轻松衔接实际预订和叫车服务。\n\n※ 提供的信息可能包含 AI 生成的内容。实时交通信息请以 Kakao T 应用中的准确数据为准。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a84603f469c8191b16d55722c695b7f",
+    "name": "타로 운세박사",
+    "sourceHash": "caaa9f13a2c8b9605a35f59342da5091cb8adcc4ea90f95402246a44b95ec6ef",
+    "summary": "免费 AI 塔罗，由你抽牌",
+    "description": "Tarot by DoctorFortune 是免费的 AI 塔罗体验，你可以亲自抽牌并探索牌面含义。它使用完整的 78 张 Rider–Waite 牌组，包括大阿卡纳和小阿卡纳，并提供聚焦问题的单张牌解读，或探索过去、现在、未来以及事情整体走向的三张牌牌阵。\n\n心中默念问题并选择牌面，即可了解爱情、复合、某人的真实感受、约会、契合度、新恋情、职业决策、跳槽、人际关系或每日运势。每次解读都会结合牌的正位或逆位含义、牌阵位置及牌与牌之间的互动，将完整故事联系起来，并给出清晰实用的后续建议。\n\nDoctorFortune 以明快、风趣且坦诚的风格呈现每次解读。积极牌面会得到肯定；具有挑战性的牌也会直说，不粉饰其意。即使是陌生的塔罗概念，也会转化成清晰易懂的语言，让解读贴近个人情况、生动且切合问题。\n\n无论你想要免费 AI 塔罗、ChatGPT 塔罗、爱情塔罗、复合塔罗、契合度塔罗、感受解读、职业指引、每日塔罗，还是单张牌或三张牌解读，Tarot by DoctorFortune 都能让你亲自选牌，享受更有参与感的塔罗体验。主要语言为韩语，同时支持英语、日语、中文等。🃏✨",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7ed9d2070c8191b822a7a4e624e28b",
+    "name": "ラッコキーワード",
+    "sourceHash": "f95a4f8293efa55ff3e820e87bd08d5a824a408929c6ba28eb4cad15b5c062ae",
+    "summary": "关键词/竞品分析工具（SEO 与营销调研）",
+    "description": "ラッコキーワード（RakkoKeyword）是日本规模最大的关键词研究工具之一。使用此插件，你可以直接在 ChatGPT 对话中进行关键词研究和 SEO 分析。\n\n可执行的操作：\n・获取 Google、Bing、YouTube、Amazon、乐天等平台的建议关键词\n・从专属数据库获取相关关键词和常见问题\n・探索 LSI 关键词、其他用户还会询问的问题（PAA）及共同排名关键词等相关主题\n・获取月均搜索量、SEO 难度、CPC 和竞争度（含按月趋势）\n・实测 Google 搜索排名\n・竞品分析：提取任意域名覆盖的关键词和主要引流页面\n・搜索通过指定关键词获得自然搜索流量的页面和网站\n・SEO 写作辅助：提取搜索排名靠前页面的标题结构和共现词\n\n使用示例：\n・设计 SEO 文章的大纲、标题和小标题\n・策划内容、寻找选题并调研市场和需求\n・分析竞品网站通过自然搜索获取流量的关键词\n・调研电商（Amazon、乐天）商品\n\n该工具擅长日本搜索市场数据，查询月均搜索量时也支持指定海外地区和语言。使用需要ラッコキーワード账号。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a86bb362da0819196ad522b5a73ce3b",
+    "name": "中央社新聞 CNA TAIWAN NEWS",
+    "sourceHash": "7465a4c5fc25763dda8b980538d2df49847f3785a8c9a711a8af607b238ea98f",
+    "summary": "台湾中央社新闻",
+    "description": "CNA 提供可信、基于来源的新闻搜索与研究服务，让用户可以直接在 ChatGPT 中搜索中央通讯社报道，了解近期动态，并梳理特定人物、事件和公共议题不断变化的背景。\n\n用户可以通过自然语言搜索 CNA 新闻报道，以及 CNA 年鉴、专题报道和英语、日语、印尼语等多语言新闻内容。服务还支持搜索外国姓名和专有名词的标准化译名、新闻照片、政府信息及事实核查材料，帮助用户比较多方信息并澄清不确定说法。它还可以将检索信息整理成事件时间线、主题简报、报纸版面和人物/组织关系图。这些功能适用于新闻研究、事件回顾、议题跟踪、信息核验、内容规划和背景调研。\n\n回复会尽可能保留新闻标题、发布日期、来源信息和原文链接，方便用户查阅原始报道并进一步核实。部分搜索结果可能来自政府机构、事实核查组织、投稿内容或其他图片来源；在可用时，系统会标明其来源。图片的使用和授权仍受其原始来源的条款、版权要求及其他适用规则约束。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a990129e0888191bbeb3edf6e133141",
+    "name": "今天训练",
+    "sourceHash": "fd747f825cb8a293bd2d1707936efcca9527d3a30d2f41dfc6a2519c5e1956d0",
+    "summary": "健身训练记录与身体趋势分析",
+    "description": "“今天训练”是面向个人健身的训练记录分析插件。连接后，ChatGPT 可查询你在今天训练 App 中已保存并同步的训练记录、每组数据、动作历史和当前计划，帮助复盘训练及比较动作进步。经你单独授权，还可结合身体记录、Apple 健康中的健身与恢复汇总、补剂记录、进度照片、训练路线和已保存的 AI 建议进行分析。插件只读取已授权的档案，不修改或删除记录，不读取未保存的训练草稿。它用于日常健身参考，不提供医疗诊断或治疗。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8c0a12d5d48191bdbb9c2634d69456",
+    "name": "六爻",
+    "sourceHash": "3a9696b4a1a8e373e3b0b408773fb214a0d38c7b5afebf9ec7443d38b13ff58c",
+    "summary": "三枚铜钱起卦，观本卦与变卦",
+    "description": "以传统三枚铜钱法逐爻起卦，完整呈现本卦、动爻与变卦。纯中文、自包含的交互体验，用于传统文化体验与自我反思，不作确定性预测。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a09b4723c048191855d2080026dbc75",
+    "name": "受験王",
+    "sourceHash": "02b72c7e97d2d49590b688c37b6ef39d94046795a335d690bd579008ef928c7c",
+    "summary": "保存自定义学习题目",
+    "description": "受験王 帮助用户在 ChatGPT 中创建自定义选择题，并将其保存到私人题库，以便之后复习和练习。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa066d374ac8191a32cecf44faee423",
+    "name": "史书馆",
+    "sourceHash": "d3829c77396b14df4ecb6547bce49db2e70049134ae57af74377c253525d6c39",
+    "summary": "搜索中国历史、古籍资料与原创历史小说",
+    "description": "搜索和阅读史书馆收录的中国历史文章、古籍资料与原创历史小说。支持按关键词查找历史人物、事件、典籍和相关内容，并提供对应页面链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a292802fb6c81918da7450713c607d2",
+    "name": "小テストジェネレーター",
+    "sourceHash": "efd75f2d63ba0a0c60f29d60cebc014102fbacd3641d8771a061910805726a23",
+    "summary": "使用词表学习",
+    "description": "PrintGenerator 帮助用户通过 ChatGPT 搜索公开词汇表和自己的 UserBook 词表。它支持词汇详情、抽认卡、选择题测验，以及使用已记住或尚未记住的单词进行学习。必要时，还可以创建分享链接，在 Flutter 应用中打开词表。",
+    "model": "codex-subagent-reviewed"
+  }
+]

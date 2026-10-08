@@ -1,0 +1,666 @@
+[
+  {
+    "id": "plugin_asdk_app_6a764790fbc48191a2b4ba1af90404b4",
+    "name": "Sent",
+    "sourceHash": "3bcbd719de2369ad8bbbe56c108394a7b3f8794bddc75706dc63f82af51038f9",
+    "summary": "发送 SMS、RCS 和 WhatsApp 消息",
+    "description": "连接你的 Sent API 账户，即可在 ChatGPT 中发送和追踪 SMS、WhatsApp 和 RCS 消息。管理联系人和已批准的模板，查看送达情况与消息分析，并检查账户是否已就绪、入门设置状态和余额。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f63e01766881919640f03b5e7912a5",
+    "name": "SentinelX",
+    "sourceHash": "fa23ed02df00344715bd4d19fa34ae8ad53e198bdd018f2ea83156c753314224",
+    "summary": "管理 Linux、Mac 和 Windows",
+    "description": "SentinelX 让你无需 SSH 即可在 ChatGPT 中管理 Linux、macOS 和 Windows 服务器。在任意 Linux、macOS 或 Windows 主机上安装轻量级开源代理，ChatGPT 就能运行检查命令、管理服务（systemd、launchd 或 Windows 服务）、读取/搜索/编辑文件、运行脚本、上传文件，并调用 Cloudflare DNS、Resend 和 Telegram 等集成。\n\n每项操作都受你控制的主机级允许列表约束。代理只会运行你明确声明安全的命令和服务，在代理边界拒绝策略之外的操作，同时仍受操作系统文件权限约束。你可以连接多台主机，并按任意方式为其命名。\n\n常见用途包括：检查运行时间和磁盘空间、重启服务、查看日志末尾、编辑配置文件、运行快捷脚本、管理 DNS 记录和发送通知。该代理在 GitHub 开源（github.com/pensados/sentinelx-cloud-core）。身份验证使用 OAuth 2.0（含 PKCE）和动态客户端注册，并按用户授权范围隔离。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a722f577c248191ae60b6afb988342e",
+    "name": "SEO Programático",
+    "sourceHash": "235e16125e18e4e7304b4cc8cb9548c8d1e37c5aca81b49304002aa789bba604",
+    "summary": "对话式网站分析",
+    "description": "用自然语言询问你的网站运行情况。\n\n查看访客、会话、热门页面、转化和流量质量，并区分真人、AI 爬虫和常见机器人。\n\n每位用户只能访问与自己账户关联的网站的汇总数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8c1b56b9c08191a613cf8249a5d5ea",
+    "name": "SEO&OH AI",
+    "sourceHash": "13b8ab47ebe934b82128b2f12a9dc338a5f4a929c4f0f886a9caf4acff316957",
+    "summary": "查找录音的转写、摘要和思维导图",
+    "description": "在 ChatGPT 中直接查找保存在 서앤오AI 录音应用里的录音。你可以调取录音列表和详情、完整转写文本、AI 摘要及思维导图。它只读取已登录账户本人的数据，不会修改或删除任何数据，是一款只读工具。适合搜索会议、访谈和课程录音，并快速了解重点。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a25e53c4a1c8191bc59f203ee0520c8",
+    "name": "SEOcrawl AI",
+    "sourceHash": "8393b580eeb0c1cb70bdcca90b79d17be0b6855c7b015b2103bfe82e9facf054",
+    "summary": "在聊天中查看 SEO 与 AI 可见度",
+    "description": "将完整的 SEO 工作流接入 ChatGPT。SEOcrawl AI 将 ChatGPT 连接到实时 SEO 数据：Google Search Console 表现（点击、展示、CTR、排名）、包括来自 AI 助手流量在内的 GA4 分析数据，以及 SEOcrawl 的 AI Tracker（用于监测品牌在 ChatGPT、Claude、Gemini 和 Perplexity 中的呈现方式及引用情况）。比较日期范围，找出表现上升或下降的关键词和页面，深入查看任意 URL 或查询，并使用高级筛选探索网站。之后无需离开聊天即可根据洞察采取行动：创建和更新 SEO 任务、添加评论、管理标签及标签规则、保存 Smart Views 并记录注释。该托管连接器通过安全的 OAuth 提供 43 项工具，是 SEOcrawl SEO + GEO 平台的一部分（https://seocrawl.ai/mcp）。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ba263029ac81918336512fcaf6fcc5",
+    "name": "SEPHORA",
+    "sourceHash": "20f847b7f1ec23d79856b0c7ebed967bf5430fda198e89847328e2f30068cfb6",
+    "summary": "尽享美妆之选",
+    "description": "当 Sephora 的专业知识遇上 AI 个性化服务，你就能获得优质美妆体验。根据你的目标、偏好和预算，获取个性化推荐。探索护肤、彩妆、护发、香氛等产品，所有内容都经过精心挑选，适合你的肤质、风格和美妆习惯。\n\n想获得更多服务，可以创建或关联 Sephora Beauty Insider 账户，以更个性化的方式购物，并无缝享用所有奖励、会员权益、折扣和优惠。还不是 Beauty Insider 会员？现在即可免费加入！",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8c817e1430819190d6e1dcf12edbc2",
+    "name": "Sequencer",
+    "sourceHash": "eb426f87e57758316683685854b7ad052cf19ec2aeab94ff8e4ce04d71b5bf1e",
+    "summary": "创建和编辑 AI 视频",
+    "description": "Sequencer 可帮助用户规划视频项目、生成图像、视频和音频素材、编辑场景与时间线、审核剪辑，并通过 ChatGPT 导出成片。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a247a6369088191bb1b45921ba43237",
+    "name": "SessionKeeper",
+    "sourceHash": "a415c4f8de96f65db0d389bd89985234040127578883df3aad310b005383b542",
+    "summary": "探索 D&D 战役",
+    "description": "SessionKeeper 是为 D&D 和桌面角色扮演游戏团队提供的配套应用。连接账户后，即可在 ChatGPT 中查阅游戏记录转录、摘要、角色详情、维基条目和 DM 备战笔记。.\n\n询问上一局发生了什么、搜索战役维基、查看角色背景故事，或调出 DM 备战内容。如果你使用 SessionKeeper 录制游戏，所有游戏数据都触手可及。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8ff93431508191a345bf90d5b59929",
+    "name": "Setline",
+    "sourceHash": "891943bfbaf0f383917810ec65c8628a1ca58bb74db4adad4d12eb817faf6bfe",
+    "summary": "查找音乐节阵容",
+    "description": "Setline 可帮助用户发现音乐节、查看日期和地点、浏览艺人阵容，并查找已公布的演出时间表和门票链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6950fd31603881918fcfba3464b1ebf0",
+    "name": "SFT Brain",
+    "sourceHash": "fc464a674a16e7c9fed45ae9a3c4c3929d5e581512d012fec700948ebccdd824",
+    "summary": "创建和复习记忆卡",
+    "description": "SFT Brain 可帮助你在 ChatGPT 中创建、整理和复习记忆卡。\n\n连接 SFT Brain 账户后，你可以保存问答卡片、搜索现有记忆卡、复习到期卡片、记录答案并获取 AI 反馈、保存可视化学习组件，以及查看学习进度。\n\n可用于学习、语言学习、编程概念、备考，以及巩固对话中的信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b136f1b59c81919f27b0d4ba2267f1",
+    "name": "sharc Travel",
+    "sourceHash": "ce93f915822f17c94d4568ca744a21ce3dece1e032825383cdcbeceaa3e19aba",
+    "summary": "发现并预订船宿潜水行程",
+    "description": "在 sharc Travel 上发现船宿潜水行程，并前往 sharc.app 预订。按目的地、日期范围或出行月份搜索，查看行程安排和舱房信息，并查询船只资料及即将启航的行程。若有相关信息，结果还会显示空位情况、价格以及 sharc Travel 链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c4399e82a88191b24ac18a3d981bca",
+    "name": "Share-A-Cart",
+    "sourceHash": "fd2b879c5c849b30cb5ed89581fa7dead22a4cf0b8ba398dfb74a205d6e5c5f1",
+    "summary": "分享购物车",
+    "description": "Share-A-Cart 可帮助已登录用户列出受支持的零售商、查找商品和优惠、查看购物车历史中的购物车，并在 ChatGPT 中创建或更新可分享的购物车。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f4d20e0ff08191886df271b4ef5e41",
+    "name": "ShareThis AI",
+    "sourceHash": "96fbafc05b0b73e3a18745049ddc62660edc88f252320443f363721609722dc4",
+    "summary": "管理 ShareThis 账户",
+    "description": "ShareThis AI for ChatGPT 让每个人都能更轻松、免费地分享社交内容。连接 ShareThis 账户后，可直接在 ChatGPT 中管理应用、站点资源和分享数据洞察。网站发布者还可使用强大工具，包括 Inline Share Buttons、Sticky Share Buttons、GDPR CMP、Privacy Policy Generator、Follow Buttons、Reaction Buttons、Image Share Buttons 和 Video Share Buttons。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7935f095cc81918a9072e26c1c4f98",
+    "name": "ShareWatch",
+    "sourceHash": "a300e698b111961e12023f30354e5bdedde553ead94eed5bc005ec647379841a",
+    "summary": "安全使用 Google Workspace",
+    "description": "ShareWatch 为 ChatGPT 提供范围受限且经过审计的 Google Workspace 文件访问权限。用户可以查找、读取、创建、设置格式、更新、整理、预览、转换和保护 Google Docs、Sheets、Slides、文件夹及上传的文件；ShareWatch 会对每个文件实施访问控制。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6944570636288191b7944d8c4a3fb857",
+    "name": "Shazam",
+    "sourceHash": "5a98e36f8df3510d768d9ec665c6d90d8c2bd5bc4e7805321da77e6a9b2534ac",
+    "summary": "即时识别歌曲",
+    "description": "在 ChatGPT 中识别周围正在播放的任意歌曲。在提示中使用 @Shazam，即可通过数亿用户信赖的强大识别技术发现音乐。直接在聊天中试听歌曲预览，并将发现的歌曲保存到 Shazam 音乐库。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a36e0883cf08191ba2f61e0548eb531",
+    "name": "Shchebitka AI Planner",
+    "sourceHash": "d23b1f3de60783ce9e7f8285d860d961c4b6f3ddb248486da40a9637d47b37b3",
+    "summary": "AI 个人规划助手",
+    "description": "将 ChatGPT 连接到你的个人规划工具。通过自然对话添加任务、笔记、活动和联系人，也可以询问日程安排。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f52db368a881919443d6b1c0e1735d",
+    "name": "Shipal",
+    "sourceHash": "e47f54f019c1a54d8b00386544962d55e629d09090055210e55909f30b621f20",
+    "summary": "全球包裹追踪",
+    "description": "Shipal 可帮助用户通过追踪号码查询包裹。它会自动识别承运商，并显示当前运输状态、最新动态、城市级位置、在途时间、可用时的预计送达时间，以及按时间顺序排列的追踪记录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3be8ce7d0c81918cb8bcc8f6d0008e",
+    "name": "Shippo",
+    "sourceHash": "aa3c252fbfd4d60fc3be785b8132b9a46600db93532f8e7d32341176254a04c3",
+    "summary": "多承运商运费和面单",
+    "description": "告别繁琐的发货操作。\n\nShippo 将 USPS、UPS、FedEx、DHL 和 40+ 家承运商连接起来，让你可以直接在 ChatGPT 中端到端处理发货。比较实时运费并选择最便宜或最合适的方案，购买和打印面单（支持国内和国际寄送及海关申报），验证并规范地址，还可跨承运商追踪包裹。\n\n只需用日常语言提出需求：比较包裹运费、购买合适的面单、查询配送状态，或在发货前确认地址。无论你经营商店还是只需寄送包裹，Shippo 都能将一堆承运商账户整合为一次简单对话。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a06f62b2f50819181136d58192063d1",
+    "name": "ShipStatic",
+    "sourceHash": "967fe388ff7603df1c22660e5597db138b6620abc06b64b2c033b6916af7811a",
+    "summary": "即时部署静态网站",
+    "description": "ShipStatic 可将 ChatGPT 中创建的文件发布为静态网站。用户可以匿名部署并立即获得在线 URL，也可以选择为部署设置密码保护；连接账户后还可查看或管理部署和自定义域名。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69861f9aceb081919bbd4165a07b3014",
+    "name": "Shipt",
+    "sourceHash": "d8235e15bcfff8d0c13ad02dcdb41531176ad6892e4292f8c0ad69153701d545",
+    "summary": "购买日常食品",
+    "description": "Shipt 可帮助用户查找可用的食品杂货零售商、浏览商品、创建和编辑私人购物车，并通过 ChatGPT 继续在 Shipt 购物体验中完成结账。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aafe43bd2dc819184550ac7af8a056b",
+    "name": "ShirtLab",
+    "sourceHash": "50f8348b6fd247de1f6df953370f52ca92cc79f498682d5527960b4d40676cfd",
+    "summary": "用 AI 图像设计 T 恤",
+    "description": "创建字体排版预览，或将选定的 PNG、JPEG 和 WebP 作品（包括在 ChatGPT 中生成的图像）放到黑色 T 恤上。点击结果卡片即可在完全免费的 ShirtLab 工作室中打开可编辑图层。移动和调整作品大小、导出可编辑的 .shirtlab 项目，或将当前印花区域下载为透明 PNG。导出文件需在工作室中下载。MCP 可导入现有文件；原生 ChatGPT 图像生成功能和文件可用性取决于宿主环境，可能需要另发一条消息。无需 ShirtLab 账户或 AI 积分。任何持有图像快照链接的人都可以访问，且链接会在 24 小时后失效。是否通过网站结账购买实体印花 T 恤由你自行选择。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6982cfb482bc81918416ec35e7cc90e5",
+    "name": "Shop",
+    "sourceHash": "9e7a65608d5c4d439bc62a5ea0d90e1ba9909409359eb73bc54633b67123d301",
+    "summary": "你喜爱的各大品牌",
+    "description": "使用 ChatGPT 版 Shop，准确找到你想买的商品。输入搜索内容（例如礼物创意？防雪靴？），即可获得商品推荐，涵盖本地商店和全球大型品牌。准备购买时，可通过 Shop.app 即刻结账。最棒的是，每笔购买都能直接支持你喜爱的品牌。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6984364a642c8191875c8f5523d9e54a",
+    "name": "ShopBack",
+    "sourceHash": "37870546b45660bd97b89aef6296f3fafacbd8ec320b237415ee3138c2b246d4",
+    "summary": "购物返现",
+    "description": "ShopBack 可帮助你在购物时发现返现优惠。\n\n搜索品牌或类别，即可查看可用的返现优惠。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4283dd98148191afa6d85622cf6325",
+    "name": "Shoppable",
+    "sourceHash": "bd5f4a936886dbbd73d5d2bbfe67b23bec2e70cab07173af231b301e60eae1bb",
+    "summary": "多家零售商-1 个购物车",
+    "description": "查找并购买数百个知名品牌和零售商的商品、比较不同选项，并通过 Shoppable 提供的精简通用结账流程，享受流畅的购物体验。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa28e5a079c81919a66c838973eaa1d",
+    "name": "ShotClick",
+    "sourceHash": "bbfbebd790be75c0a4b8ee8a22c31fcf88f36654bfba6a26ec824bad6fca85b0",
+    "summary": "编写和编辑剧本",
+    "description": "ShotClick 是一款剧本编辑器，提供专业排版、锁定场景编号、修订轮次、制作拆解，以及 .fdx 导入和导出功能。\n\n该插件让 ChatGPT 直接在剧本中工作，而不是只返回零散文本。它可以读取你的项目、场景、主题、故事梗概、故事大纲、角色、研究笔记和评论，并将格式规范的场景、宣传短句、故事梗概和大纲要点写回剧本。沿用你现有的权限：在共享项目中，查看者通过插件仍只能只读访问。\n\n它可以从任意场景创建一个“如果这样会怎样”的分支，让故事的另一种版本并行写出而不影响原稿。它还可连接 AI Studio（剧本转视频工作流）：查看生成的关键帧和参考图像，然后编写与之匹配的图像和视频提示词。\n\n任何工具都不会删除内容——无论是场景、项目还是笔记；也不会消耗 AI 积分。连接需要 ShotClick Studio plan 账户，该方案包含 MCP 连接器。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7c58989aa081919f4658ff5986e174",
+    "name": "ShotPulled",
+    "sourceHash": "c358681f9e8d343ef39e056bd55d48682d5a9b29c5b5278863dba0d9c4cab0e8",
+    "summary": "追踪并调校意式浓缩咖啡",
+    "description": "一步一步调校出更好的意式浓缩咖啡。\n一次性设置好咖啡豆、磨豆机、意式咖啡机和秤。每次萃取后，记录粉量、液重、萃取时间和口感。ShotPulled 会综合考虑全部情况（包括咖啡豆的新鲜度和磨豆机的校准方式），然后推荐下一杯最值得尝试的一项调整并说明原因。\nShotPulled 还会自动准确记录咖啡库存。每次记录的用粉量都会从咖啡豆袋库存中扣除，因此你可以查看剩余克数，并根据实际用粉量估算还能萃取几杯。它还会追踪咖啡豆的风味巅峰期，显示剩余巅峰天数和该时段结束日期。\n配方成功后，可以将其锁定并随时调用。ShotPulled 支持以刻度、编号调节环、复合环位（例如 1.2.2）和命名档位记录磨豆机设置，并内置 67 款磨豆机、124 款意式咖啡机和 24 款秤的规格。\n你的 ShotPulled 账户会在 ChatGPT、网页版控制面板和 iPhone 应用之间同步。在这里登记一袋咖啡豆，等你准备好萃取下一杯时，它就已经在手机上等你了。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6969943d2eec8191bb90275500e9d5bb",
+    "name": "Sider Recorder & Transcriber",
+    "sourceHash": "458fa4bd513fa1ac87b451c6ac7f8d7caaa4bc2a4d28c922983d20af34124567",
+    "summary": "录音、转写、生成摘要",
+    "description": "Sider Recorder & Transcriber 支持录音，并将语音内容转换为文本和结构化摘要。\n\n1. 录音机：录制和导入\n录制音频：直接录制语音，或上传现有文件进行处理。\n\n2. 语音转文本：转写\n详细转录稿：将录音转换为带时间戳的转录稿。\n\n3. 智能摘要：提取要点\n结构化摘要：提炼录音内容并整理摘要，以识别主要观点。\n并排视图：同时查看转录稿和摘要，无需重新收听即可掌握要点。\n\n适用场景：\n整理会议摘要、将课堂录音转成学习指南，以及辅助跟踪语言学习进度。\n\n在 ChatGPT 中的用法\n- 连接应用：将 Sider Recorder & Transcriber 连接到 ChatGPT。\n- 触发方式：输入 @Sider Recorder & Transcriber。\n- 提示示例：\"@Sider Recorder & Transcriber Open recorder\"",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6948b485f5bc8191adb4df13f369cec7",
+    "name": "Sider Scholar",
+    "sourceHash": "d4f69cf94635f7da6025c6146c4c4bfb0de16c3d0bba89e84bd589ae51271c95",
+    "summary": "搜索 350M+ 论文，保存并对话",
+    "description": "你的 AI 研究助手可搜索 350M+ 篇研究论文、与你的大量研究 PDF 对话，并将发现保存到 Wisebase（知识库）。\n\n1. 全球学术搜索（搜索与阅读）\n- 主要来源：搜索来自 Google Scholar、PubMed、arXiv 等平台的 350M+ 篇论文。\n- 即时阅读：立即访问论文全文以核实研究发现。\n\n2. 构建知识库（保存与收集）\n- 持续研究：将搜索到的论文保存到 Wisebase，以便持续提问并深入分析研究发现。\n- 保存聊天记录：将重要研究讨论保存为可编辑文档，以记录并完善洞见。\n\n3. 统一知识分析（Agentic RAG）\n- 与你的资料集对话：同时分析整个资料集。\n- 来源可追溯：获取有依据的回答，并通过精确的 Reference Indices 核实每项主张。\n\n4. 可视化知识整理（可视化与探索）\n- 知识图谱：即时从任意论文生成交互式图谱，探索定义、因果关系和概念层级。\n\n适用场景：适合需要访问海量学术资源，并综合形成有依据且附有精确引文论证的研究人员、博士生和学者。\n\n在 ChatGPT 中的用法\n1. 连接应用：将 Sider Scholar 连接到 ChatGPT。\n2. 触发方式：输入“@Sider Scholar”。\n\n提示示例\n- 搜索论文：“@Sider Scholar Search recent papers on 'LLM alignment' published in the last two years.”\n- 与知识库对话：“@Sider Scholar Answer questions about 'CRISPR gene editing' using my Knowledge Base.”\n- 可视化研究：“@Sider Scholar Build a Knowledge Graph explaining key concepts in 'Reinforcement Learning'.”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_templated_apps_6a9b05b3b5e0819197d074e79dfc2e8d",
+    "name": "Sigma",
+    "sourceHash": "b7e6b93a3692948de6ac18db784db2c755f59741dabbcc46924a22c09e0a5a83",
+    "summary": "构建并探索你的数据",
+    "description": "直接在 ChatGPT 界面中探索、搜索和查询数据，并在 Sigma 中构建应用和控制面板。你可以在组织内搜索相关文档和元素，回答并迭代复杂的数据问题，也可以使用自然语言进行详细分析。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6980c94756fc8191b05b1971945afd80",
+    "name": "Sign.com",
+    "sourceHash": "fc8f5d4073cf2f594a42c18e1e7a0f124571873538e98a172a64a0f7872a2ee8",
+    "summary": "创建并签署文档",
+    "description": "通过 Sign.com ChatGPT 应用，用户可以起草协议、合同和其他文档，将其转换为可签署 PDF，并直接在 Sign.com 中打开以进行签署或发送签署请求。用户既可根据简单提示生成文档，也可用自己的 HTML 生成，然后在 Sign.com 继续签署流程、收集签名、管理签署人并完成文档。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab10e3e2dd8819183b24a92dd7c6c55",
+    "name": "SignalCrow",
+    "sourceHash": "f1c98c9aa5ea7e7166f651db6578b3d0f0a98d4251b9a28997fc9ae39498c414",
+    "summary": "探索移动网络数据",
+    "description": "使用 SignalCrow 探索某个区域的蜂窝站点、移动运营商、信号测量数据和测速摘要。比较可用的网络观测数据并查看各个站点，以更好地了解当地移动网络连接情况。\n\n需要已验证的 SignalCrow 账户。可用数据和使用限制取决于你的账户。测量结果反映现有观测数据，不保证覆盖范围、室内接收情况或未来网速。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7f4ef3e5908191b52d6ff60c59e5eb",
+    "name": "SignalSumo",
+    "sourceHash": "3d94c7d8e45c9e9c6a24abf1cc8adab4f21a4de1238c0f6236ee4e2f9c706596",
+    "summary": "在 ChatGPT 中查看你的 SEO 数据",
+    "description": "SignalSumo 将你的 SEO 账户连接到 ChatGPT。询问已跟踪关键词的排名及其变化，获取真实的 Search Console 查询，检查域名的反向链接概况，查看品牌在 AI 助手回答中出现的频率，并启动技术网站审计。所有回答均来自你的 SignalSumo 账户，并遵循与网页版应用相同的方案限制和配额。需要拥有 Pro 或 Agency 方案的 SignalSumo 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a22fd04115c81919308bc2d873a1df9",
+    "name": "SignatureAPI",
+    "sourceHash": "26b7da5c51978ef508ffbbd922cd32d0a2c5dc65f3d2dec578335b3c9797d5a2",
+    "summary": "发送文档进行签署",
+    "description": "SignatureAPI 可帮助用户创建电子签名信封、从 ChatGPT 上传文档、查看信封状态、取消进行中的信封、删除已完成的信封，并在构建请求前搜索 SignatureAPI 文档。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a66f6d1a7908191ba406b2d6ebc48a6",
+    "name": "Signeasy",
+    "sourceHash": "d11ecd8612f4a8df1a8079e63798d794a8f9c21e7ebab29e16918e11ca484298",
+    "summary": "签署和管理合同",
+    "description": "Signeasy 可帮助用户查看账户活动、查找文档和合同、查看签署状态、发送提醒，并通过 ChatGPT 准备或发送签署请求。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b144385fe481919993cbb4a104b393",
+    "name": "SignNow",
+    "sourceHash": "96b1bcec5cdc9f790d126348f13c2e4f82c4efbf35add27aebf8ec6ea4ebf683",
+    "summary": "自动处理电子签名工作流",
+    "description": "无需在不同工具之间切换，即可更快完成文档签署。SignNow MCP 服务器将 ChatGPT 直接连接到你的 SignNow 账户，让你通过对话管理完整的电子签名工作流。只需用日常语言描述需求，即可发送签署请求、根据模板创建并预填文档、跟踪邀请状态，以及取回已签署文件。无论你处理的是合同、协议还是审批，ChatGPT 都会代为执行 SignNow 操作，让你专注工作，无需追着他人要签名。\n\n你可以使用 SignNow：\n\n创建并发送文档：\n“从 Employee NDA 模板创建文档，并发送给 client@example.com 进行签署”\n\n跟踪签署状态：\n“查看 Sales Agreement 的签署状态，并列出所有待签署项”\n\n管理模板：\n“列出所有可用模板，并根据 Service Agreement 模板创建新合同”\n\n下载已签署的文档：\n“获取已完成 Employment Contract 的下载链接”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_695156e9130c819180904adc4f839fd5",
+    "name": "Sigtrip",
+    "sourceHash": "0f305d1025545a925904d6f9de21bfd58c1462362d5ffca3bcb83113a49b6636",
+    "summary": "直接在聊天中预订酒店",
+    "description": "只需自然地描述你的行程——目的地、出行时间，以及地点、预算、设施和房型等重要偏好——Sigtrip 就会在一次对话中为你推荐个性化酒店选项，并提供实时价格、实际空房情况、照片、政策和必要的住宿详情。\n\nSigtrip 让预订变得轻松：你可以在聊天中于几秒内完成预订。由于你直接向酒店预订，因此价格透明、取消条款清晰，整个流程更快捷方便。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_696eb31edbe08191a63118bf145cb089",
+    "name": "Simcardo Connectivity Planner",
+    "sourceHash": "3caa2ccc40cf903de244821391d4de364e1c1340c0a1b3e52a06a724356e7599",
+    "summary": "规划旅行移动互联网",
+    "description": "这款 AI 助手会估算你旅行期间的移动数据需求，并比较漫游、本地 SIM/eSIM、区域套餐和热点等联网方案，帮助你在旅途中保持稳定的网络连接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4ec67291f88191af3860a1b7dfe77f",
+    "name": "Simple Muscle",
+    "sourceHash": "a3e7087a453b47e7deaf338e673e48872b15018a8c7eacb2d872d82858e4628a",
+    "summary": "AI 原生训练追踪",
+    "description": "Simple Muscle 的 AI 原生训练追踪功能可让 ChatGPT 为已登录用户读取训练计划、讲解动作、创建或编辑训练安排，并总结训练历史。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_695ab324dd4c8191b76be9a4a233d3c8",
+    "name": "Simple SoapCalc",
+    "sourceHash": "a7c7734b4c1d3295a639ecf239828abfd1ba26e06cd467b011ccfed915ee2144",
+    "summary": "可靠计算碱液用量",
+    "description": "自由创作，安心计算。\n\n制作肥皂时，数字必须准确。计算出错，整批肥皂都会受影响。Simple SoapCalc 会处理计算，让你专注于手艺，无需操心化学计算。\n\n描述你想制作的肥皂。探索过程中可调整油脂、批次大小或超脂率。Simple SoapCalc 每次都会提供可信且精确的碱液、水和油脂用量。\n\n试着这样提问：\n• 我想制作一款适合冬季干燥皮肤的滋润型奶油皂\n• 请用橄榄油、椰子油和乳木果油制作一款适合初学者的配方（总量 500 g）\n• 哪种肥皂能产生丰富绵密的泡沫？\n\n你会立即看到清晰的结果，并准确了解肥皂的使用感和表现。创意尽可发挥，计算始终精确。\n\n无需电子表格，也不必反复猜测。\n只需几秒，就能算出安全、优质的肥皂配方。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6959382125588191a2e193f66ee58035",
+    "name": "Simple World Clock",
+    "sourceHash": "3f8eb267d0a572b1438f8c818f392422193140b812d9a68c2add19dd4e89fcdb",
+    "summary": "随时查看世界各地时间",
+    "description": "无论何时需要，这款应用都会显示当前时间的数字或模拟时钟。切换时区，查看纽约、伦敦、上海、加尔各答等地的当前时间。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f882652190819192ab1c88f1218795",
+    "name": "SimplePost",
+    "sourceHash": "5bdd8390b083fc5733396e1b57a1b853fa99b9e9c00798ad613998c24f186ac6",
+    "summary": "发布到社交媒体",
+    "description": "SimplePost 可帮助用户直接在 ChatGPT 中使用已连接的社交媒体账户：列出账户、上传媒体、验证草稿、预览不同平台上的帖子、发布或安排帖子、保存和管理草稿，并打开交互式日程表，按天、周或月查看时间段和发帖活动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4284a796448191888965e9d0e7c6de",
+    "name": "Simpliciter AI",
+    "sourceHash": "6276fb36b13d43190b13d6c6746c6ba01dde10dbcbb5333eb6f996a7ba4a5cea",
+    "summary": "带来源的法律研究",
+    "description": "Simpliciter AI 将 ChatGPT 连接到你的 Simpliciter 法律研究账户。它可帮助你了解可用的法律来源，在已启用的数据库中进行语义检索，并按准确引用查找具体法规、判例法、行政规章、行政指引或其他法律资料。\n\n结果包含结构化引文和来源链接，因此你可以让 ChatGPT 比较法律依据、总结法律资料，并依据 Simpliciter 返回的来源起草研究笔记。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a863239273081919a3bc45de35edb30",
+    "name": "Simply-Useful",
+    "sourceHash": "1d3bc7d6b6cecabea4c0f548cfbee379624b938d3237920f4ff7e6a6bcce1375",
+    "summary": "管理任务和每日安排",
+    "description": "在 ChatGPT 中访问和管理你的 Simply-Useful 账户。用日常语言安排一天：一并查看日程和优先事项、跟进逾期工作，以及查看他人分配给你的任务。想到任务时即可创建并安排时间，将任务归入项目、添加核对清单和标签，还可直接将约会发送到 Google Calendar。你也可以把任务交给联系人并通过评论跟进；任何会影响他人的操作都会先征求你的确认。每次更改都会立即同步到 Simply-Useful 移动应用和网页版应用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7489610a088191a832c0727166323c",
+    "name": "Sina Connect",
+    "sourceHash": "62373379df0203f49d67aa2b314ec2d0d2cb6a90139616b81a16379da012515d",
+    "summary": "查找医生和药房",
+    "description": "通过 Sina Connect 在突尼斯各地查找医生和药房。可按专科、姓名或地点搜索医生，并查找附近的药房，包括营业中或值班的药房。Sina Connect 提供本地医疗信息指引，不提供医疗诊断。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7a0b3d955881919a5e50754eff56fb",
+    "name": "Sitelas",
+    "sourceHash": "4f9c92ddc94623c68bfb61ffb5bce662c6783f4a634364c9144774b66c738b36",
+    "summary": "构建并运营你的网站",
+    "description": "描述你想要的网站。Sitelas 会负责构建，包括设计、文案、图像和页面。\n\n网站上线后，工作仍可继续。它会读取联系表单收集的消息、起草回复、更新内容，并检查用户实际浏览了哪些页面。\n\n每个网站都会先生成私人预览链接。在你明确选择发布之前，正式网址不会启用。是否发布以及是否连接自己的域名，始终由你决定。\n\n网站托管在 sitelas.com 地址下；准备好后，你也可以将自己的域名指向该网站。如果你更想手动修改，浏览器中还提供完整的可视化编辑器。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6d31df2f848191acf2daa68c6ab8fb",
+    "name": "Sitelemetry",
+    "sourceHash": "da738d10773e2ed3d39d93c2c15626e5ec9f78eb79d25a6fa957dde18ddc56a4",
+    "summary": "审计并改进网站",
+    "description": "Sitelemetry 会从安全、技术 SEO、AI 可见度、分析和跟踪集成、无障碍及性能等方面审计网站，并按优先级返回发现的问题，附上证据、影响和具体修复建议。它可对公开网站进行公开且非侵入式检查；受保护的安全模块和完整审计需要已验证的 Sitelemetry 项目。连接使用带 PKCE 的 OAuth，并会拦截私有网络目标。需要 Sitelemetry 账户；可用审计功能和使用限制取决于已关联账户所获权限。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_696f2f3f51a08191a78ce6b15ddfa118",
+    "name": "Sitemate",
+    "sourceHash": "69c94b8246e672dd338014a3c4bd6abb4489f15fa2eb2f69f853c8396aad0ff9",
+    "summary": "与 Sitemate 数据交互",
+    "description": "ChatGPT 中的 Sitemate 应用让你能在一处搜索、查询并使用施工和项目管理数据。你可以用自然语言访问 Sitemate（包括 Dashpivot）中存储的信息，提取洞察、跟踪进度并即时解答问题。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7ddd659a0c8191baa547c058e400bb",
+    "name": "SiteTrax.io",
+    "sourceHash": "881227fdd54d914e3cd48150736215b93843435f481b9cc3567f19c39e10a5a5",
+    "summary": "物流运营分析",
+    "description": "SiteTrax.io 是供授权团队使用的物流运营分析应用。搜索共享项目和堆场，查看集装箱及供应链设备的检测结果，检查摄像头运行状况和异常，分析视频与图像，调取审核反馈，并运行服务器端分析以获取状态、数量、活动和序列指标。查询 SiteTrax.io 物流术语定义，并获取适用于研究的报告，包括劳动效率、收入和成本降低机会。还可为符合条件的检测结果创建经确认的邮件提醒和定时摘要。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5bf18abfcc819184d18840f0c1cf47",
+    "name": "SiteTriage",
+    "sourceHash": "2f204923279ff10ca9e744c1262421e48dfa9ae663b88249f17336ac0258a41c",
+    "summary": "查明网站故障原因",
+    "description": "网站刚刚出故障？问问 SiteTriage。提供 URL 或域名后，它会从网络边缘运行实时只读诊断：DNS 解析与传播情况、服务器当前提供的确切 TLS 证书（包括 TLS 1.3）、HTTP 状态码和重定向链、邮件身份验证（SPF、DKIM、DMARC），以及域名注册和到期时间。随后它会对最可能的根本原因进行排序，并提供具体修复步骤，而不是猜测。适合部署时排查：主域名与 www 配置错误、迁移主机后的 DNS 过期、传播延迟、证书错误、重定向循环，以及邮件进入垃圾邮件。无状态且匿名：无需账户，不存储数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a23eb6bcb5c8191a6beaebbd76dfc29",
+    "name": "Sive.Host Domain Finder",
+    "sourceHash": "1c675a8cd027dae18e6b58bc4217e4bed63728198870bc56ade1721ba9f84b8e",
+    "summary": "查找域名和主机托管服务",
+    "description": "Sive.Host Domain Finder 可帮助你检查域名是否可用、比较域名价格、发现替代名称并查看主机托管方案。当你准备继续操作时，它会让搜索流程保持简洁，并清楚显示后续步骤。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69455b41a68c8191b0735d27366ac254",
+    "name": "SIXT",
+    "sourceHash": "6a7cd57291baff2cc13686544cbd2dd683c0e874310c5b963d7f0eac6d11d139",
+    "summary": "预订车辆并管理租车",
+    "description": "SIXT 让用户可以直接在 ChatGPT 中搜索并预订租车。该应用可按地点和日期查找可用车辆、比较车型，并在预订前查看重要租赁详情。选定合适的方案后，用户会跳转至 SIXT 官方网站完成预订。该应用旨在用户规划行程时提供清晰、相关的信息，让租车预订更快速方便。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69de57269b6c81919108bad7fb511772",
+    "name": "Skarim!",
+    "sourceHash": "cfaa86aca8fd8ef15002eebc50dd0eda076b4868e6e928e7d202aab3bc7fcc30",
+    "summary": "以色列民调与趋势",
+    "description": "Skarim 提供公开发布的以色列民调数据。\n\n用户可以查看近期民调、比较政党，并依据已发布来源查看长期趋势。\n\n该应用为只读工具，仅供参考，不提供政治建议、选举预测、竞选建议或选民说服服务。\n\n所有数据均汇总自公开发布的民调结果。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8f56567d0c8191bdd5a68509c7465d",
+    "name": "Sketchy Medical",
+    "sourceHash": "d3e3a82db1e91b013d1e74c1d81f766cb1ed2366e35dd08e428928dd88371610",
+    "summary": "搜索 Sketchy 学习资料库",
+    "description": "Sketchy 是一个视觉化学习平台，深受医学、医师助理（PA）、执业护士（NP）和 MCAT 考生信赖。此连接器让你直接访问 Sketchy 的完整课程和病例资料库，精准找到所需内容并立即开始学习。\n\n你可以：\n\n查找讲解某个概念的示意图：“Sketchy 如何讲解 β-内酰胺类抗生素？”\n解读符号：“S. aureus 示意图中的金色手杖代表什么？”\n针对薄弱环节学习：“我在练习测试中没掌握高钾血症的 EKG 变化。哪幅示意图讲了这个内容？”\n使用真实病例练习：“给我找一个患者患有 DKA 的 Sketchy Case。”\n规划学习安排：“我 3 周后有药理学考试，应该按什么顺序看哪些内容？”\n对应课程大纲：“根据这门课的教学大纲，制定一份 Sketchy 课程学习计划。”\n\n该连接器会搜索全部 Sketchy 内容，包括微生物学、药理学、病理生理学、内科、外科、儿科、妇产科、精神病学等。结果包含封面图片、章节背景信息，以及可在 Sketchy 中打开的直接链接（观看需要登录）。支持的项目：Medical（Step 1/Step 2）、PA、NP 和 MCAT。\n\n注意：这是只读连接器。它可帮助你查找并跳转至 Sketchy 内容；访问链接内容需要 Sketchy 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5e473f608c81918cec408e518b340b",
+    "name": "Skillsail",
+    "sourceHash": "363bdf046b3fcdc0b86b9341d1052e0ce4fa330c02fd4f96ffa796216370340c",
+    "summary": "创建并预览培训内容",
+    "description": "直接通过 ChatGPT 使用 Skillsail 创建引人入胜的互动式电子学习内容。将想法转化为精美课程，包含幻灯片、测验、活动、图像、视频和配音，然后在交互式内嵌播放器中预览，并翻译成其他语言供全球受众使用。培训内容准备好后，可通过链接或可复用模板分享，也可以导出为 SCORM 1.2、SCORM 2004、xAPI、cmi5 或独立 HTML5。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a02d82f1b788191bb6e0ca04c973d62",
+    "name": "skima",
+    "sourceHash": "e43bd997ec7962d2a0c8161420139ab16834497795da93d3037fbb14ad424651",
+    "summary": "生成平面图概念方案",
+    "description": "使用 ChatGPT 生成最多 8 个 CAD 图纸形式的概念性平面图，然后在 skima 经过身份验证的 2D 和 3D 查看器中打开私密结果，或通过聊天中返回的链接下载 PDF、DXF 和 GLB 文件。生成的概念方案仅供早期设计研究使用，不是施工文件，也不用于确定是否符合许可要求。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a236f34c44481918d60669a230ba895",
+    "name": "SkinKnowledgeBase",
+    "sourceHash": "4c8c77854ea8aff65f2621419fe076c2c72d21fe8cddfc7c6a9359a83bf9e684",
+    "summary": "解答护肤问题",
+    "description": "SkinKnowledgeBase 是一个公开的护肤知识网站，也是 AI 可访问的参考资料层，可为护肤及护肤产品问题提供有来源依据的背景信息。\n面向普通用户，它提供易读页面，介绍护肤问题、成分、产品、皮肤困扰、副作用、引用来源和产品比较。面向 AI 助手，它通过只读 MCP 访问相同的公开知识结构，让回答可以包含 SkinKnowledgeBase 的规范链接、可用时的引文、产品事实、成分背景、比较时的注意事项，以及来源信息有限时对不确定性的明确说明。\nSkinKnowledgeBase 面向透明的化妆品护肤信息参考，不提供医疗建议。它避免虚假评分、付费排名、保证效果以及缺乏依据的“综合最佳”说法。适合需要有依据的护肤背景信息而非笼统美容宣传的消费者、研究人员、内容团队和 AI 助手。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a58991f72308191b1fe8eee22d6bc46",
+    "name": "Skyalo Travel Guide",
+    "sourceHash": "6ee65ef24c7f38ef0b6cea56466262a0aa2563a73806727b8542f1e5b610a992",
+    "summary": "规划旅行联网方案",
+    "description": "估算移动数据需求、准备设备，并为任何旅程制定可靠的网络备用方案。Skyalo 会创建不受服务商影响的旅行流量预算、设置清单、离线准备计划和备用指引，不会比较或销售联网产品。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a09a2fba77081919028669a899e3a77",
+    "name": "Skylar",
+    "sourceHash": "d73bc4c76b119f2e15117b46ac3a0d50a2ccba27affd70328bffebeb804d311f",
+    "summary": "销售辅导洞察",
+    "description": "Skylar 通过 AI 销售练习帮助销售主管提升团队表现。你可以查找并启动逼真的角色扮演练习、查看辅导进度，并了解团队随时间的成长情况。在 ChatGPT 中，Skylar 帮你发现哪些销售代表需要支持，并选择接下来要进行的合适练习。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8feec073888191a85e75397ea6049f",
+    "name": "Skylar",
+    "sourceHash": "c16e88ad4048b5637195f19f95c33aebfeaa1dc92a9f47d838ee57063cc3c8d0",
+    "summary": "开展制作运营工作",
+    "description": "Skylar 可帮助获授权的制作团队查找人员、模特、设计师、节目和活动；检查准备情况、票务、入场和文档；并通过预览、操作凭据和撤销功能，执行受管控的内部更改。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0c679f4dd08191b7a7a48d3cdc8c95",
+    "name": "Skylit Studio Custom Gifts",
+    "sourceHash": "b4e97f64da4ce692114fea01fae52ee22ba5fadc752e24f0d5c051c9783cb448",
+    "summary": "让重要时刻难忘",
+    "description": "Skylit Studio 会将有意义的时刻制作成个性化印刷品。你可以选择当时夜空的真实样貌（星图）、当时月亮的真实状态（月相印刷品），或重要地点的风格化地图（地点地图）。描述场合，例如婚礼、出生或周年纪念，系统会随着你的调整生成内嵌预览。选择尺寸和表面效果，调整主题、形状、颜色和文字，也可以选择礼品包装。满意后即可安全结账，Skylit 会印制并寄送成品，供你赠送或悬挂。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694546cd042881919bb746a8dc300f38",
+    "name": "Skyscanner",
+    "sourceHash": "a7853d73f44e34c87aebbcd8cd1adb42b2990203bbda13518bd393483c38e1d5",
+    "summary": "查找便宜机票",
+    "description": "比较并预订从世界各地出发、前往任意目的地的低价航班。\n\n我们会搜索各大航空公司和旅行服务商，让你在一处比较机票价格和其他旅行费用。找到心仪航班后，你可以直接向服务商预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699c97e791ac8191ac8156422cae82a4",
+    "name": "SkyWatch",
+    "sourceHash": "9daef22a32ed18c8a80e32709765d43cce9a83e558bc7190c6ce727409df95f2",
+    "summary": "搜索卫星影像数据",
+    "description": "在一处搜索并探索 Vantor、Planet、Airbus 等主要服务商提供的卫星影像。SkyWatch 可按地点、日期、分辨率和云量查找存档影像，比较不同服务商的价格，并浏览可用卫星和产品。结果包含可直接前往 SkyWatch Explore 查看和订购影像的链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6abaa95280608191985131b614a992b9",
+    "name": "Slashtel",
+    "sourceHash": "446c884064d9c1e610ff7bcc5e1aeb15f7878a70b80a637b062b4a5058e943d1",
+    "summary": "旅行 eSIM 和手机充值",
+    "description": "直接在 ChatGPT 中为旅程查找旅行 eSIM，或为境外预付费手机充值。Slashtel 会显示覆盖 190+ 个目的地的实时流量套餐及其价格、数据量和有效期，也会列出 150+ 个国家/地区运营商（例如 Airtel、Jio、Telcel 和 MTN）的手机充值和套餐。选好方案后，Slashtel 会提供安全结账链接；你可在 slashtel.com 付款，并通过邮件收到 eSIM 二维码或充值确认。无需账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5c0b47f55c8191a0dd3096012dfce0",
+    "name": "Sleekplan",
+    "sourceHash": "4d75ed8510fc10a09e826c3e39e607a163c592a863f531fe6ee728520fca9e37",
+    "summary": "管理客户反馈",
+    "description": "直接在 ChatGPT 中使用你的 Sleekplan 工作区，包括反馈看板、路线图、更新日志和调查。\n\n询问热门功能需求的摘要，查看客户实际提出的需求，并按投票数和近期活动排序。查找重复帖子并合并，让投票集中到同一项需求上。更新状态、分配标签并通过评论回复客户。功能发布后，无需离开对话即可起草并发布更新日志条目。查看 NPS、CSAT 和调查回复，了解用户对产品的感受。\n\n该插件涵盖反馈帖子、投票及投票者、评论、标签、状态、用户和细分群体、调查及更新日志条目等 40+ 项操作。读取会立即执行；任何会更改数据的操作（创建、编辑、合并或删除）都会先向你展示，并在确认后执行。\n\n需要具备管理员或贡献者权限的 Sleekplan 工作区。连接时请使用你的 Sleekplan 账户登录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6947bfc48dc8819191a8f348b82f7c32",
+    "name": "Sleep Cycle",
+    "sourceHash": "c2de90af11472b7ee2df3fc56834098ad544bdf3c85fb00e08db67d42abe22ad",
+    "summary": "助眠放松音效",
+    "description": "Sleep Cycle 运用经验证的睡眠科学，帮助你获得更好的休息。数百万人每晚都信赖 Sleep Cycle；它提供基于科学设计的助眠工具，包括精心制作的睡眠音效，帮助你放松并更轻松入睡。如果你难以放松下来，可以直接在对话中立即开始收听。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a058c8ecc248191b7d013eb03fd2727",
+    "name": "Sleuth Skills",
+    "sourceHash": "bc0a823e12fd5ac222839a7ffa7f8dbca75bafddd045646e0af21b15eedae084",
+    "summary": "在聊天中使用自定义技能",
+    "description": "Sleuth Skills 将 ChatGPT 连接到你的个人 skills.new 知识库——其中私密收藏着你创建或保存的技能、规则、智能体和斜杠命令。该应用可让 ChatGPT 发现知识库中的内容，并按需加载特定技能的完整内容，让对话遵循你自己的工作方法，而不是依赖通用知识。它是只读的：绝不会修改、删除或分享你的知识库内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aac1ad35c2c8191aab2c1c75ad20a89",
+    "name": "SlickTrip",
+    "sourceHash": "c62fe5d661b5482cb5387ba96039752de6f2e9b9b2e5a5c87aae772d62e63ea6",
+    "summary": "追踪航班和酒店价格",
+    "description": "SlickTrip 会监测航班、酒店和座位价格，并在价格变动时通知你。搜索航班和酒店，查看实时价格和日历上的最低价日期，并查询航班上哪些座位可选。然后设置提醒：指定票价、酒店住宿、座位，或针对某条航线或某个地点设置可灵活选择日期的旅行愿望清单。SlickTrip 会持续检查，并在价格下降或座位开放时通过电子邮件或短信通知你。无需账户即可搜索；设置提醒需要免费的 SlickTrip 登录账户。预订会在航空公司或酒店销售商自己的网站上完成，每项结果都会打开已配置好的 slicktrip.com 页面。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aaed1da9d14819196ff3a645afc1277",
+    "name": "Slide15",
+    "sourceHash": "ba258a3a3d9984ac4064b4bf896d1397e8da14309f522dc556ccb0c5e2cdb7be",
+    "summary": "在聊天中玩 15 数字华容道",
+    "description": "Slide15 是一款无需离开 ChatGPT 即可游玩的滑块拼图。只需请求一个谜题，棋盘就会出现在对话中：滑动、轻点或使用方向键移动数字方块，直到数字按顺序排列。每个谜题都通过合法移动打乱，因此总能解出。可随时生成新棋盘，还提供计时器、步数计数器、供新手查看的简短玩法说明，以及完整的英语、俄语和西班牙语本地化。无需账户，除匿名使用分析外不会收集其他数据。同一款游戏也可在 slide15.com、iPhone 和 iPad 上免费游玩。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a39286d7d5c8191b30bafc49a25e52a",
+    "name": "SlideForge",
+    "sourceHash": "441391e7729edb3ad942f6258ed8902fc473983562861062d89409db37b66bda",
+    "summary": "创建可编辑的 PowerPoint",
+    "description": "SlideForge 可将自然语言请求或结构化数据转换为可编辑的 PowerPoint 文件。你可以请求 KPI 摘要、项目状态控制面板、路线图或对比图；SlideForge 会在约一秒内生成可下载的 .pptx，并在聊天中提供内嵌预览供你检查。文件可用 PowerPoint、Google Slides 和 Keynote 打开。\n\n幻灯片来自包含 150+ 种版式的目录：KPI 记分板、状态控制面板、漏斗图、瀑布图、甘特计划、组织结构图、路线图等。你可以创建多页幻灯片、将 PDF 和幻灯片图像转换为可编辑的 PowerPoint、将演示文稿翻译成 32 种语言，并应用自己的品牌主题和标志。目录之外还提供代码模式，可使用 python-pptx 自定义版式。\n\n数字和文字会完全按你提供的内容呈现——渲染过程具有确定性，每次响应都会报告幻灯片是否完整渲染，以及哪些内容经过了调整。SlideForge 通过 OAuth 连接到你自己的账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a956f7183648191a0954c2da143a0aa",
+    "name": "Slidely",
+    "sourceHash": "ea52197a9a81f92325e380baae857539423a9513509ecb17247a8cb543b61fda",
+    "summary": "创建和编辑演示文稿",
+    "description": "Slidely 可帮助用户通过 ChatGPT 创建、导入、审阅和编辑 PowerPoint 演示文稿。用户可以新建演示文稿或导入现有 .pptx、选择设计系统、让 Slidely 起草并渲染幻灯片、审阅提议的幻灯片，并将获批的幻灯片加入演示文稿。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69eba611751c819182a7476b3acfe9fa",
+    "name": "Slides AI",
+    "sourceHash": "59f818c908a32a6e6dee3f00708dfc149004f62a1ba52150b488fa534384acbc",
+    "summary": "创建和编辑演示文稿",
+    "description": "Slides AI 可帮助你根据几乎任何输入快速制作清晰、结构化的演示文稿。将一个简单想法、文本、PDF 或链接转化为可立即使用的幻灯片，整个过程只需几秒。\n\n应用会自动将内容整理为幻灯片、构建版式，并生成与主题相配的视觉内容。创建完成后，你可以使用内置编辑器轻松完善演示文稿：改写文字、调整结构或自定义幻灯片。\n\n演示文稿可以导出为完全可编辑的 PPTX 文件，也可以分享为 PDF，方便立即用于工作、学习或展示。\n\n主要功能\n\n• 灵活输入：根据主题、文本、PDF 或 URL 生成幻灯片\n• 自动组织幻灯片结构并生成版式\n• 提供适用于不同演示风格的 100+ 款现成模板\n• 内置编辑器，便于快速调整并完全掌控\n• 导出为 PPTX 和 PDF 格式\n• 几秒内生成整洁、可用于演示的结果",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7bc59b410481918fc3ee872c135dc6",
+    "name": "SlideSpeak",
+    "sourceHash": "c073abaa5a73cf0b4cdb205c382ac1bc6cf00a4e48a4bf009c10bd865ec54eeb",
+    "summary": "根据提示生成 AI 演示文稿",
+    "description": "SlideSpeak 可在 ChatGPT 中根据你的提示生成精美演示文稿。描述主题和受众，观看幻灯片在聊天中生成并实时预览，然后在 SlideSpeak 编辑器中打开成品，以便自定义、分享或导出。生成过程会使用你的 SlideSpeak 账户所含的积分。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a92db284554819196a3d77aec4a0be6",
+    "name": "Slipa",
+    "sourceHash": "71c973abe518293c036ce9fb0080449361cb4af0ff2d8a693a8e4f73b9f7b536",
+    "summary": "将屏幕录制转成演示视频",
+    "description": "Slipa 可将粗略的屏幕录制转换为完成度高的演示视频。它会转写你说的话，将其改写为流畅脚本，由旁白以二十九种语言中的任一种重新配音，并为成片添加你的标志、品牌颜色和字幕。旁白语言与录制语言互不依赖，因此你可以录制一次，再用另一种语言发布。请求生成视频时，Slipa 会先告知费用，然后才会产生任何支出。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6949525febe08191a6ff3c728571eb57",
+    "name": "Smallpdf",
+    "sourceHash": "3a83e09b557813cc511647691ebc1077744f2b1013e8bc81fa261100fb4f6373",
+    "summary": "满足 PDF 处理所需的一切",
+    "description": "使用 Smallpdf ChatGPT 应用压缩 PDF，以用于提交、电子邮件及其他用途，同时保持画质。需要将 PDF 转换为 Word 文件？轻松完成；你还可以使用 OCR 让文档变为可编辑状态。无需离开 ChatGPT，也可以将图像、Word、Excel 和 PowerPoint 文件转换为 PDF。前往 Smallpdf 网站即可继续合并、签署、编辑等操作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c28d6aedac81919502a88c2179e20c",
+    "name": "Smart Chess:Train+Learn to win",
+    "sourceHash": "c80d744a841b26e313164ddde6ddf00c94e718348052ddae12d15d2f01ad13ff",
+    "summary": "下棋、进步：教练与策略",
+    "description": "无需离开 ChatGPT 即可下棋。几秒钟内开始新对局，用日常棋类语言走棋，并在对弈过程中讨论每个环节。你可以询问某步棋为何好或不好、接下来该怎么走，或如何提升棋艺。这款应用面向希望同时享受下棋、学习和乐趣的人。\n\n这款应用易于使用。只需开始一局并走棋。你可以使用简单的走法名称、标准国际象棋记谱法，或用普通英语提问。如果不确定该怎么走，就寻求帮助。聊天过程中棋局会继续，因此学习过程自然流畅，不像阅读一篇冗长课程。\n\n如果你刚开始学棋，这款应用是友好的入门之选。它会用简单的小步骤讲解概念，告诉你每种棋子能做什么，以及为什么有些走法比其他走法更有力。你不必假装听懂了，继续提问即可。你可以一次学会一步棋。\n\n如果你已经会下棋，还可以深入学习。讨论开局、中局、残局、战术、策略、计划和常见错误。询问某个局面对哪一方更有利的原因。比较不同走法，探索新思路。对话会根据你的问题灵活调整。\n\n按自己的节奏下棋。可以长考，也可以快速走棋。停下来询问某个局面，回看之前的着法，尝试另一种思路并看看可能出现什么结果。国际象棋不只是找出最佳走法，也要理解这步棋为何有效。\n\n应用可以用清晰的语言讲解捉双、牵制、串击、闪击、双将、弃子、通路兵、王的安全、棋子活跃度、空间、先手等许多棋类概念。遇到难题时，随时可以要求再次解释，让复杂主题更容易理解。\n\n想提高棋艺？对局结束后复盘。讨论关键转折、错失的机会和精彩着法。询问棋局在哪一步发生变化，寻找自己的走棋模式。不要只知道错误发生了，还要从中学习。每盘棋都是进步的机会。\n\n你也可以针对棋艺的特定方面练习。重点学习希望记住的开局，研究常见残局，学习如何进攻、防守、兑换棋子或制定更好的计划。根据你当前的水平获取建议，而不是听所有棋手都会收到的相同建议。\n\n对话和棋局同样重要。你可以问：“如果我走这里会怎样？”问：“我这盘棋的最佳着法是什么？”问：“我的进攻为什么失败了？”问：“能不能讲得更简单一点？”这款应用专为提问而设计，因此你不必默默下棋。\n\n无需为了下棋和学习而在不同工具之间切换。棋盘和对话协同运作：你走一步棋，提出问题，获得回答，然后继续下棋。一切都在同一处完成，让练习流畅又愉快。\n\n无论你每周下一盘棋，还是每天对弈多盘，这款应用都随时可用。初学者可以建立信心，休闲玩家可以享受乐趣，俱乐部棋手可以探索新思路。任何喜欢国际象棋的人都能在对弈时展开有趣的交流。\n\n你可以用这款应用下完整棋局、测试新思路、理解复杂局面、复盘已结束的对局并发现更好的走法。按自己的节奏学习，保持好奇，尽管提问。每一步棋都是思考、学习和享受乐趣的新机会。如果你想在 ChatGPT 中体验一款会与你交流、教你下棋并帮助你进步的棋类应用，它已准备就绪。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2cc03c95908191ba38c71b185699ee",
+    "name": "Smart Planner AI",
+    "sourceHash": "06464fa48f38e7157e3b824d12e15ba8ff97855c8bf1a3d815de70a94fad7ea9",
+    "summary": "管理任务和日程",
+    "description": "规划一周安排，将目标拆解为可执行的步骤，并与家人、朋友或团队协调工作。Smart Planner AI 会向 ChatGPT 提供你的任务、规划偏好、进度，以及符合条件的同步日历信息。在此起草计划、审核后再保存，只有获批才会保存。在 Shared Spaces 中，你可以创建空间、管理成员、分配周期性任务和子任务、查看保护隐私的成员空闲情况，并跟踪每位成员的工作量和记录的贡献。共享内容的更改可能会通知成员；日历和提醒操作可能会影响已连接的服务。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8b50d183f081918339e17cd4c95bd0",
+    "name": "smart-me",
+    "sourceHash": "827c4c03a27efcda6e15f751776aacde6cb72199546a0cc7c36785e6ac7fa7b7",
+    "summary": "读取电表和电动汽车充电数据",
+    "description": "smart-me 是一款建筑计量平台。此应用将 ChatGPT 连接到 smart-me 账户，让你无需打开门户网站，也能用日常语言询问仪表数据。\n\n你可以询问仪表当前读数、热泵或公寓在某段时间内的用量、按当前费率计算的费用、每日峰值出现时间，以及用电量在数天或数月间的变化情况。它会读取每刻钟的负荷曲线和每日数据序列、站点文件夹结构、电动汽车充电站及其会话和设置、负荷管理组，以及用于计算建筑能源账单的费率和用量。\n\n经你确认后，它还可以执行更改：重命名仪表、创建和整理文件夹、切换继电器、向充电站发送命令、设置充电电流上限，以及配置共享建筑中用于结算自发自用电量的费率和单位。每项更改都会在执行前展示给你。删除文件夹或充电站需要两个步骤，且第二步必须提供确切名称。\n\n你需要拥有 smart-me 账户并登录。查询长时间范围的测量数据需要 smart-me Professional 许可；任何账户都可查看单次读数。此应用仅在你自己的账户及权限范围内操作，不会存储任何数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9586f0e6d081918e32b97360796504",
+    "name": "SmartFlow Portal",
+    "sourceHash": "8698dd0bc6cbadb9171f299faa36ce7feb5ab5f87e1a95d091d4b3bbf8f5a34b",
+    "summary": "项目、待办事项和发票",
+    "description": "SmartFlow Portal 将客户项目带入 ChatGPT。查看项目计划和里程碑、跟进待你处理的事项、审阅发票，并推动交付进展。获授权的 SmartFlow 管理员还可以管理组织、计划、客户提交内容、工时记录和账单工作流；访问权限依据已登录用户的角色和组织范围执行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7da2b1c32881919265c2a68e2e6a1c",
+    "name": "Smartling",
+    "sourceHash": "be89c38446d26f03d047d01563b4596f3b59171de131c6ba48a6a735570b4d14",
+    "summary": "管理 Smartling 翻译",
+    "description": "Smartling 是云端翻译管理平台，全球品牌使用它大规模翻译和管理本地化内容。此 MCP 服务器将 Smartling 的翻译和本地化工具直接带入你的 AI 助手。\n\n你可以：\n- 使用 Smartling 的 MT API 即时翻译文本，并应用术语表、风格指南和首选术语\n- 在各项目中搜索、标记和审阅字符串\n- 创建、监控和管理翻译任务——添加或移除内容、授权工作并查看任务历史\n- 提出、跟踪并解决审校人员与语言专家之间的字符串问题和质量疑问\n- 查阅术语表、风格指南、翻译记忆库和语言资源包，以核对术语和品牌语气\n- 查看供应商和译员分配、字数报告及工作流详情\n- 列出 Smartling 组织中的项目、用户和账户\n\n适用对象：\n已在使用 Smartling、希望无需离开 AI 助手即可快速查询或批量操作的本地化经理、项目经理和工程师，例如检查任务状态、分流质量问题、获取报告或即时翻译。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e95d545bb48191985e5873db121d5b",
+    "name": "SmartphoneKey",
+    "sourceHash": "97c49776992483623876a8e858b24fc7ff2c0eae8073698b2335618950c8b6dd",
+    "summary": "管理智能门锁住户",
+    "description": "SmartphoneKey 让你通过自然对话管理智能门锁住户。你可以：\n\n• 查看任意门锁的当前住户名单                                                                                                      \n  • 按姓名和电子邮件添加住户——他们会收到对讲呼叫和通知\n  • 按姓名或电子邮件移除住户\n\n所有操作均通过你的 SmartphoneKey 账户进行安全保护，因此你只能管理自己拥有的门锁。\n\n更多功能即将推出，包括门禁控制和钥匙管理。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2e3ae94af4819190469f3503a97d9c",
+    "name": "smarts.bio: AI for biology",
+    "sourceHash": "b1e4423cfe04f3e28faf2ad4d4b3bd5d3a2361ed0b63bd97a417e0e00b8d10c7",
+    "summary": "生物信息学工具与流程",
+    "description": "smarts.bio 将真正的生物信息学平台带入 ChatGPT。用普通英语描述分析需求，即可在自己的数据上运行实际工具和分析流程——无需编写脚本或进行设置。\n\n你可以：\n* 运行序列搜索和分析——针对 DNA、RNA 和蛋白质进行 BLAST、GC 含量、ORF、结构域等分析\n* 检出并注释变异、比对测序读段（WES、RNA-seq），并运行质量控制及其他多步骤流程\n* 上传并管理工作区文件，然后在交互式查看器中打开结果——FASTA、BAM、VCF、PDB、CSV\n* 在分析过程中搜索基因、文献和专利\n\n适用对象：生物学家、生物信息学家、计算生物学家及研究人员；他们更愿意描述分析需求，而不是自行配置工具链。\n\n连接你的 smarts.bio 账户即可开始。长时间运行的任务会在后台继续执行，文件也会保留在你自己的工作区中。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2a65ef74648191a4400fe2965f50fb",
+    "name": "Smartsheet AU",
+    "sourceHash": "e32fa3a0e876c9fc1e840f6c64d30c189140937e1e69e4a2429d2a93e0a674a0",
+    "summary": "分析和管理 Smartsheet",
+    "description": "让 Smartsheet 成为 AI 工作流中的原生工具。通过对话让 AI 分析项目时间线、创建图表来总结表格信息。Smartsheet 连接器可消除手动数据录入和重复更新，让你专注于决策，由 AI 处理细节。借助能理解并操作 Smartsheet 数据的 AI，改变你的项目管理方式。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a296e1300a88191b60b1cde1b450afe",
+    "name": "Smartsheet EU",
+    "sourceHash": "0e9c1bea97ca345407d5987fe5d18d672517fd339e969a304d857c075fb77a40",
+    "summary": "分析和管理 Smartsheet",
+    "description": "让 Smartsheet 成为 AI 工作流中的原生工具。通过对话让 AI 分析项目时间线、创建图表来总结表格信息。Smartsheet 连接器可消除手动数据录入和重复更新，让你专注于决策，由 AI 处理细节。借助能理解并操作 Smartsheet 数据的 AI，改变你的项目管理方式。",
+    "model": "codex-subagent-reviewed"
+  }
+]

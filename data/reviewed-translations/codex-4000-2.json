@@ -1,0 +1,626 @@
+[
+  {
+    "id": "plugin_asdk_app_6a15c812a48c8191a0676030e4447bee",
+    "name": "Taskaid AI",
+    "sourceHash": "d87438bf528c3c42364656efde585d9b98a5abbfdefec257a7123de0be2bdee1",
+    "summary": "管理任务和计划",
+    "description": "Taskaid AI 可帮助用户通过 ChatGPT 管理私人任务、任务列表和每日计划。它可以查找进行中的任务和列表、创建或更新任务及任务列表，并读取或替换 Taskaid 中显示的每日计划。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a54e4fb251081919c813b534af63ddf",
+    "name": "TaskNotify",
+    "sourceHash": "4f826164e8c49a4df53cb66ffdb762ea4e6e39f69607db13fa7ea9c96d552ee9",
+    "summary": "接收真正重要的 Telegram 提醒",
+    "description": "大多数定期任务每次运行都会通知你，即使内容没有变化。TaskNotify 为 ChatGPT 提供直达你私人 Telegram 聊天的通道，只有在结果、提醒或更新确实值得关注时才会联系你。\n\n只需轻点一下即可连接 Telegram，然后让 ChatGPT 在对话之外向你发送重要任务结果。消息会实时送达，并支持丰富格式；TaskNotify 仅转发消息内容，不会存储消息。\n\n使用 TaskNotify 可以：\n- 在 Telegram 上接收定期任务的有效结果\n- 跳过没有内容或无需操作的通知，避免噪声\n- 在手机上接收紧急提醒和重要更新\n- 配对或重新连接私人 Telegram 聊天，无需复制令牌\n- 发送格式清晰的通知，支持粗体文本、链接、代码和引用",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5ee36eff388191a1be7e377009e4bc",
+    "name": "TasksBoard",
+    "sourceHash": "9c89afa5bcf3ce03f200b4bac4290469f5f11c3a337836414439058889fead65",
+    "summary": "管理日常任务",
+    "description": "TasksBoard 是一款简洁的看板式待办应用，可将所有日常任务集中在一处。你可以并排创建多个列表，例如工作、个人事务、杂货采购或正在处理的项目，并在整洁、无干扰的看板上一目了然地查看所有内容。\n\n几秒钟内即可添加任务，将任务拆分为子任务、设置截止日期，并添加不想忘记的备注。通过拖放重新排序，或根据优先事项变化在列表间移动任务。完成任务后打勾，看着看板逐渐清空。\n\n任务会在你的所有设备间同步，因此无论是在办公桌前还是外出途中，列表始终保持最新。你还可以与家人、室友或队友共享列表，实时协同规划并完成任务。\n\n无论是安排工作日、规划旅行还是管理家庭事务，TasksBoard 都能通过专注、直观的方式，帮助你掌握所有重要事项。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a980d96eca881919b3027aeba94a366",
+    "name": "TaskView",
+    "sourceHash": "6f570e1a90e5483ec79fbef34a468809f33534a20e77d9c0a49b19bdeee7defa",
+    "summary": "管理项目和任务",
+    "description": "TaskView 可将 ChatGPT 连接到你自行托管的项目工作区。查找和整理项目、看板、任务、标签及依赖关系；并按照你授权的权限创建和更新工作事项。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa199e8775c819193fc3a315f8a4ef2",
+    "name": "Taste",
+    "sourceHash": "620495d0e3c6aebc544fb4814d13f370b480454b3f7d5e3adcc362bed165afa6",
+    "summary": "查找设计参考",
+    "description": "查找并浏览你保存在 Taste 中的设计。搜索参考资料和合集，在视觉图库中查看设计，并利用你的品味档案指导设计工作。连接 Taste 账户即可访问你的资料库。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4d9025b880819184f1000b53b39f5e",
+    "name": "Taverity",
+    "sourceHash": "24f49b10e8af946510266309483ef5d3a58dcdd475bf317626c2f5501eea488b",
+    "summary": "安排后续短信",
+    "description": "Taverity 让用户可以借助助手查找联系人列表、预览个人后续短信，并在自己的 Taverity 账户中排队发送经批准的一次性消息。排队的消息会显示在 Taverity iPhone 应用中，并在获得批准后通过用户自己的 iPhone 号码发送；MCP 服务器不会直接发送 SMS。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f271663a288191ac98f46bed7cb032",
+    "name": "Tavily",
+    "sourceHash": "15a3d77f75e5a1abf7cec026104520ee2c1fa0eda4226780351d0f38119e5190",
+    "summary": "面向 AI 的网络搜索",
+    "description": "AI 智能体的网络基础设施层。专为实时搜索、抓取网页、爬取网站和结构化数据检索打造的 Web API。以 AI 为核心的企业信任 Tavily，可用于数据增强、研究、RAG 流程和自主 AI 系统，帮助确保信息新鲜、准确且可扩展。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f47105a4f0819197705839eeebce42",
+    "name": "TBT",
+    "sourceHash": "6b8245ce8009a94900c4f3057f7c861940aab0b98ae6ed8a1dd4e70fd1901754",
+    "summary": "预订泰国渡轮船票",
+    "description": "可直接在 ChatGPT 以及 WhatsApp、Instagram DM、Telegram 和 Facebook Messenger 等社交聊天渠道预订泰国各地的渡轮、长尾船、快艇、浮潜行程和海岛游。无需填写表单，也无需跳转到网站。只要告诉应用你想去哪里、何时出发，确认心仪选项后即可通过电子邮件收取票券。\n覆盖 50+ 个目的地和 40+ 家当地船运运营商，包括 Koh Samui、Koh Phangan、Koh Tao、Bangkok、Phi Phi、Phuket、Krabi、Koh Lanta 和 Koh Lipe，还可前往泰国所有岛屿。系统会比较路线的速度、价格和舒适度，并可将巴士与渡轮组合，或将多段渡轮行程合并为一次预订。\n与分别预订各段行程相比，通常价格更低；流程也比传统预订网站更快、更简单。每笔预订都会由位于泰国的人工团队复核，确保衔接时间安排合理。随时可通过 ChatGPT、WhatsApp、Instagram、Messenger 或 Telegram 联系真人客服，无需额外付费。\n可使用任何主要货币付款，支持银行卡、PayPal、Apple Pay、Google Pay、Klarna、Alipay、WeChat Pay 等。已在泰国正式获得许可并注册。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694b0e3dedd481918e809c589dd8f10c",
+    "name": "TeacherGPT",
+    "sourceHash": "14ebe2b4701876ee6388cee0f989e820759b44c492b5ec17c8be7db0aadabe7e",
+    "summary": "为 YouTube 视频制作测验",
+    "description": "TeacherGPT 可将带字幕的 YouTube 视频转换成交互式选择题测验，将测验保存在一个未公开的课程链接后，并允许用户通过课程 ID 获取或删除课程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_connector_1p_eba8b52fe53881918408d4b46b957644",
+    "name": "Teams",
+    "sourceHash": "ba45193565cc424189b746dfbe68fb9c2f9c47463855465fd389f1bc4a680006",
+    "summary": "总结 Teams 并跟进",
+    "description": "Microsoft Teams 办公聊天与协作：搜索消息、总结讨论串、发送回复并管理 Planner 任务。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69690af05a74819189e671dc6ef00e2f",
+    "name": "Teamspective",
+    "sourceHash": "78039ccf2bc23b151b19fb61ec6c4ac80099f7971c226334d681294757bb2b6e",
+    "summary": "获取领导力洞察",
+    "description": "Teamspective 是一个领导力赋能平台，帮助领导者通过敬业度调查、反馈和协作洞察了解团队。此应用可让 ChatGPT 访问你的 Teamspective 工作区数据，并针对以下内容提供个性化洞察：\n\n- 你的身份与背景：角色、团队、直接下属及数据访问权限\n- 敬业度结果：调查得分、KPI（敬业度、幸福感、领导力、DEIB）、主题、趋势，以及结合基准数据的 AI 解读洞察\n- 反馈摘要：你收到的成长反馈与赞扬，以及你给直接下属的绩效评价\n- 调查评论：带有情绪分析的开放文本定性洞察\n\n适合用于准备 1:1 沟通、了解团队情绪、发现需要关注的领域，并获得可执行的领导建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a211a11248081918af1b295078b7a19",
+    "name": "Teamtailor",
+    "sourceHash": "69c0f7282c76c270f9ba494f381cd13a96fcd7ac355e3eef89474dfb0899ca6e",
+    "summary": "管理招聘数据",
+    "description": "Teamtailor Public MCP 允许获授权用户使用 ChatGPT 搜索招聘工作区数据、查看职位、候选人、问题、组织结构和会议记录，并根据用户的 Teamtailor 权限更新职位配置、申请问题、面试套件和技能。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a22ce5f60dc8191a56bf3f66890b1cf",
+    "name": "Tela",
+    "sourceHash": "5f9db30aa4005beded1e96e3ad4ade604930bc551361f9409f23daafafe15dba",
+    "summary": "支持语义搜索的团队维基",
+    "description": "tela 是一款以 Markdown 为核心的团队维基，AI 智能体是其中的一等参与者。连接 ChatGPT 与团队知识库，即可大规模读取、编写和维护文档。• 语义搜索（“research”）——按含义回答问题，从完整页面正文中整理依据，并标出来源之间的分歧 • 关键词搜索——按排名显示并突出摘要片段的全文搜索 • 内容编写——创建、更新并精细修改页面；移动、删除页面并通过公开链接分享 • 知识健康度——发现近似重复页面、找出尚无答案的问题并建议链接 • Atlas——根据 git 仓库和 Jira 自动生成技术文档；触发重新摄取并查询覆盖情况 • 演示文稿——编写、检查并预览以维基页面存储的 Slidev 幻灯片。使用 tela 账户登录即可连接。可通过 docker compose（AGPL）自行托管，也可使用 telawiki.com。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a84511f5db88191906baf1ef2d977c7",
+    "name": "Teleprompter.com",
+    "sourceHash": "f916f53cb32ca377661c5594c466b8e2bc2b228a36766300ff5717210a0783e0",
+    "summary": "起草 Teleprompter.com 提词稿",
+    "description": "无需离开对话，即可起草、修改并整理你在镜头前朗读的脚本。连接 Teleprompter.com 账户后，ChatGPT 可以和你一起编写脚本，然后直接保存到工作区，归入正确文件夹，供下次拍摄使用。\n\nChatGPT 可以：\n\n- 创建脚本，并在编写时应用播放设置：字体大小、滚动速度、定时速度模式、文本对齐方式和预计时长\n- 直接修改现有脚本。更新只涉及你指定的字段，其余设置保持原样\n- 阅读你的资料库：按最新优先列出脚本，获取任意脚本的完整文本，并查看每个文件夹中的内容\n- 整理内容：创建文件夹、重命名文件夹，并在文件夹之间移动脚本或移回根目录\n\n由于 ChatGPT 能读取你已经写好的内容，你可以基于自己的历史素材继续创作：例如精简上个月的开场白、制作 30 秒的产品介绍，或统一某个文件夹中所有内容的结束语。\n\n你需要拥有 Teleprompter.com 账户；所有账户等级均可使用此集成。连接时采用 OAuth，因此无需复制或保存密钥。你可以选择授予哪些权限：读取和写入脚本与文件夹分别需要单独批准，因此只读访问也是有效选择。ChatGPT 只能看到你自己的个人工作区。\n\n保存在这里的脚本与你的 Teleprompter 应用读取的是同一份脚本，因此在对话中起草的内容，下次打开应用时即可使用。\n\n与 Claude 描述的差异均为有意安排：",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7026f78434819186579d93d20ab38b",
+    "name": "Tella",
+    "sourceHash": "1594b1db8c18c858b8bb0e01cd41c780ad52617592ad566900e52c91b49b1afc",
+    "summary": "使用 AI 创建和编辑视频",
+    "description": "Tella 是一款一体化屏幕录制工具和 AI 视频编辑器，可用于制作精致的产品演示、教程、课程和视频消息，然后通过链接分享或导出最高 4K 分辨率的视频。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0100e531548191b53db8ed0aec4946",
+    "name": "Temponia",
+    "sourceHash": "db51a7a8e8a1b5de2cbf30f172786f27494ae4db1eb3c120e30ae0545ff30057",
+    "summary": "跟踪工时和工时表",
+    "description": "Temponia 是一款工时跟踪和工时表应用，适用于自由职业者、代理机构和内部团队，帮助他们轻松记录工时。\n\nTemponia 不会让你面对一长串空白字段，而是提供日历视图：像安排会议一样拖动即可记录工时。连接 Google Calendar 或 Outlook，只需单击一下即可将现有日程转换为可计费工时记录。原生 iOS 和 Android 应用可让你离开办公桌时也能及时更新本周记录。\n\n你可以使用它：\n  - 通过日历、列表或计时器记录时间，选择最适合当前情境的方式\n  - 跟踪任务和项目，并按周、月或年查看可分组的仪表板\n  - 在同一处管理费用和工时\n  - 使用 Google 或 Microsoft SSO 登录；通过 SCIM/JIT 为团队开通账户\n  - 导出整洁的工时表和报告，供客户或薪资结算使用\n\n适合跟踪可计费工时的独立顾问、向客户开票的代理机构，以及需要清楚记录一周时间去向的团队。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a550573ca1481919b3bb28af7c8a2c7",
+    "name": "Temso",
+    "sourceHash": "19e992b0aec5a3588682c8003e420476e477f9a190bc3d31bc735baa50166811",
+    "summary": "追踪品牌在 AI 对话中的表现",
+    "description": "Temso 可追踪你的品牌在各 AI 助手中的曝光度，包括声量份额、情绪倾向、引用来源以及改进建议。连接 Temso 后，即可用自然语言询问 AI 曝光数据，并将实时分析直接带入聊天。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7ae3e0851c8191aef2899e2de3586a",
+    "name": "Tenet Careers",
+    "sourceHash": "8070575f31ef68ba93627799fb9c3cec9288656675ff576b15191c98f8f2fb9d",
+    "summary": "搜索 Tenet Healthcare 职位",
+    "description": "按职位、关键词或地点搜索 Tenet Healthcare 医院及医疗机构网络中的当前职位。在 ChatGPT 中查看匹配机会，然后打开职位发布页面继续申请。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a330848fe108191856054fc0c867954",
+    "name": "Tenzo AI MCP",
+    "sourceHash": "b6232b54bce11adb8efdf6357d3524a311ed257d2b7a816db4e5cdcbb4f1dbea",
+    "summary": "询问有关 Tenzo 数据的问题",
+    "description": "关于招聘数据，想问什么都可以。Tenzo AI MCP 服务器会将 AI 助手连接到招聘流程，因此你无需逐页点击，只需询问：谁申请了这个职位、每位候选人目前处于哪个阶段、他们在 AI 筛选面试中的表现如何，以及本周发生了哪些变化。\n\n打开候选人资料并查看完整流程，包括其申请和阶段、简历、SMS 和电子邮件往来记录，以及完整的筛选面试文字稿、评分和摘要。查看职位配置、审阅会议记录，并用自然语言获取招聘分析。\n\n访问采用只读模式并通过 OAuth 验证，因此助手可以读取你的数据，但无法更改数据；所有内容都限定在你的组织范围内。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699562017464819186082ec0bff33f17",
+    "name": "Terac",
+    "sourceHash": "6121a3a534ec828f8f0e9f73a5be0a401ebb9104ef68e6f5c745a66c35bc7b4c",
+    "summary": "随时联系经过审核的人类专家",
+    "description": "Terac 可让你的 AI 智能体直接在聊天中联系经过验证的人类专家。描述你需要完成的工作，无论是专家访谈、一轮客户研究、代码审查还是模型评估。我们会提供经人工确认的报价，招募并筛选合适人员，将工作成果作为结构化结果交付，并且只在确认完成后向专家付款。\n\n所有流程都在同一对话中完成，因此请人协助不再意味着需要另找平台、新供应商或单独安排项目周期。你的智能体定义工作内容、确认费用并跟进直至完成，让你在工作流需要时即可按需获得专家服务。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa2c81fc7c48191a06e101858e41837",
+    "name": "Termalin",
+    "sourceHash": "c15755a652d67140c90f6b09a1b4c95c8edf6882d9a0d96506231afd65454cb9",
+    "summary": "在聊天中管理服务器",
+    "description": "Termalin 可将你的服务器连接到聊天中。你可以要求 ChatGPT 检查磁盘空间、查看日志末尾、重启服务、编辑配置或安装软件包；它会通过 SSH 运行实际命令，并通过 SFTP 读取或写入你已注册服务器上的文件，然后在对话中汇报结果。它还可以通过同一安全通道列出数据库表，并运行只读查询或完整查询。无需在任何地方粘贴 SSH 密钥：服务器通过 Termalin Connectors（一行安装命令）主动向外连接；每次运行都使用短期证书进行身份验证；访问权限通过你的 termal.in 账户中的 OAuth 授予。你始终可以掌控访问：为每个连接设置策略（完全访问、命令允许列表或只读）、查看每项操作的完整审计记录，并可在账户页面一键断开连接。它可与 Termalin 桌面应用（Windows/macOS/Linux）和网页版控制台配合使用，但无需打开其中任何一个。\n\n开始使用需要 termal.in 账户（Pro、Team 或试用版），至少注册一个 Connector（Settings → Connectors，通过一行命令安装），并完成电子邮件验证。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f5795de4a48191a35dc5c448520676",
+    "name": "Terminal49",
+    "sourceHash": "071a91089ed9144eb5749a9f855f30b647c7185c1285950df9e3955491e07ba6",
+    "summary": "追踪海运集装箱",
+    "description": "Terminal49 可帮助用户查找和监控海运货物及集装箱、查看路线和运输事件、检查支持的船运公司，并通过 ChatGPT 创建新的追踪请求。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a06af11448c819197403537fadb90c1",
+    "name": "Tessie",
+    "sourceHash": "2aba50fb895217a72dae73b61348814b6192074ddf1b996c29aac2b3f6cd7437",
+    "summary": "访问并控制你的 Tesla",
+    "description": "Tessie 让你可以直接通过 ChatGPT 访问并控制自己的 Tesla。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a91e4895594819184be7d56ec39bd54",
+    "name": "Tessryx",
+    "sourceHash": "e80a1ded3c552d7f4b048d3a483d87787dba0b4f6a579ed4a0df249a0b99a080",
+    "summary": "构建并托管在线 Web 应用",
+    "description": "Tessryx 为智能体提供构建空间。它可以在聊天中创建真实网站、API 或内部工具所需的数据、逻辑、页面和定时任务，并将其托管在用户自己域名的公开 URL 上。用户无需部署生成的代码，也无需在本地运行任何程序。\n\n工具支持的主要工作流：\n- 编写 JSON Schema，再创建通过该架构验证的数据文件。同一架构还会生成编辑界面，让非技术人员之后无需智能体也能维护内容。\n- 编写可返回 HTML 或 JSON 的工作流，并将其绑定到带边缘缓存的公开动态端点。一个端点同时提供渲染页面，以及该页面自身 JavaScript 调用的 API 路由。\n- 定义带参数的外部系统 HTTP 调用，凭据以只写密钥的形式保存，助手可以引用但无法读取。\n- 按 cron 或时间间隔安排工作流，使数据自动重新计算。\n- 认领并验证自定义域名，并通过该域名提供上述任意内容。\n\n身份验证采用 OAuth 2.1；用户无需管理 API 密钥。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3a3eaae26081918ee3278271809dcc",
+    "name": "Testifly",
+    "sourceHash": "8bc5dbfe4050913be9e3887268e3e9946f94f8bed1c8113cb05bc2f3dc14d97e",
+    "summary": "将 Testifly 连接到你的智能体",
+    "description": "Testifly 可帮助开发者、QA 工程师和产品团队直接通过 URL 对网站和 Web 应用执行自动化端到端（E2E）测试、网站检查和 UI 验证。无需任何设置，即可运行基于浏览器的测试，检查用户流程、页面行为、重定向、可用性、性能、无障碍性和网站整体健康状况。无论测试的是生产网站、预发布环境、预览部署还是本地环境，Testifly 都能快速发现问题，避免问题影响用户。\n\n对于 AI 辅助和 vibe coding 工作流，Testifly 尤其有用，因为 AI 编码智能体会快速生成代码。随着开发速度加快，自动化端到端验证对于确保功能确实能在浏览器中正常运行至关重要。Testifly 提供独立验证层，可发现 AI 生成代码或单元测试可能遗漏的用户流程故障、回归问题、UI 问题和部署问题。\n\nTestifly 集成到 ChatGPT 后，你可以用自然语言创建、运行并分析端到端测试。它可与 Claude Code、Cursor、GitHub Copilot、Windsurf 等 AI 开发工具及其他编码智能体协同工作，让开发者无需编写测试代码也能持续验证更改。生成结构化测试报告、验证缺陷修复、监控回归问题，并放心交付高质量 Web 应用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1944c0789c8191a0b574c7045cfc38",
+    "name": "Testlify",
+    "sourceHash": "faa027a76940c2db344f8b21c70fe81496e8984a1e711fc3cbbaaea294d17e63",
+    "summary": "现已原生支持 AI",
+    "description": "Testlify MCP Server 可让 AI 助手安全地连接并操作你的 Testlify 人才评估平台。通过自然语言直接访问和管理测评、候选人数据、测试结果及招聘工作流——简化招聘流程、获取候选人表现分析，并自动管理测评，全程无需离开 AI 环境。你说：标语？",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a73cc2bd5a48191a3fe9f22373fd52a",
+    "name": "TestMaker",
+    "sourceHash": "a1d2bbd1dfa37ab0da90e70bbf2b5c7179932f3faea29c429645e04fc1ae357a",
+    "summary": "创建学习练习册和题目",
+    "description": "TestMaker 让你通过 ChatGPT 创建和管理自己的学习练习册。查看现有练习册和题目，创建新的练习册，并添加、编辑或删除题目。可用于整理学校考试、入学考试、职业认证和语言学习的材料。需要 TestMaker 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8abcc3f22c819196d21cf6e44e3a3b",
+    "name": "TeX64",
+    "sourceHash": "d0f08ed2041a10eb06b3194eea71a6f11c1b3d9e3d68ec3776aaa7e74feef3ba",
+    "summary": "创建日语学习 PDF",
+    "description": "TeX64 可将课程材料转化为日语讲义、考试摘要、练习题和简易学术报告。用户用日常语言描述所需内容；TeX64 会在自己的服务器上处理排版和制作细节，并返回带有页面预览的完整 PDF。编译在一次性沙盒中运行，无法访问网络。PDF 链接为临时链接，并会在一小时内过期；TeX64 不保留账户或文档历史。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6947056e2a8c8191a1e0b1a46b9c692c",
+    "name": "Texas Electricity",
+    "sourceHash": "5417d234c5b09644ee56ee9740d728ed32384d2e2eda2483efe38ee008a67936",
+    "summary": "比较德克萨斯州电力方案",
+    "description": "Meter Energy 推出的 Texas Electricity 可比较德克萨斯州已放开管制地区邮编对应的居民电力方案。提供邮编和可选的月用电量，即可查看预估账单、实际费率、合同条款、费用、可再生能源占比、可用方案文件及注册链接。可按确切或最低合同期限、零售商或 100% 可再生能源内容筛选。默认用电量为每月 1,000 kWh；若搜索时未筛选零售商或期限，则使用 12 个月期方案。精简比较会展示按预估费率排序的精选方案，可能包含 Meter Energy 的 Standard 方案，并偏向部分供应商；并非最便宜方案的完整清单。如果所选零售商没有匹配结果，系统会显示其他供应商的结果并附上说明。估算金额不保证等同于实际账单。用户需前往外部网站注册；此应用不会为客户办理注册，也不会访问客户账户。搜索输入和链接点击会被记录用于分析。对于不支持或未经验证的服务区域，系统会返回错误，而不会使用备用费率。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a68c8f8a14081919fe12159d3193541",
+    "name": "Text",
+    "sourceHash": "76a6277e4c662bc708a446ca93025412fddbfd2107af965310e9c1ca161dd587",
+    "summary": "搜索客服对话",
+    "description": "Text 让获授权用户可在 ChatGPT 中搜索、检索和管理客户对话、HelpDesk 工单、归档的 LiveChat 聊天、文字记录、标签、客户档案和报告。用户还可以创建和更新工单、回复客户，以及为聊天添加标签、转接或结束聊天。搜索结果和操作受用户在 Text 工作区中已有的数据访问范围和权限限制。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7b8b9fd0b881918176d1a723ccfe14",
+    "name": "TextExpander",
+    "sourceHash": "da20c44253a403e94769d8ca60d74c8e18bb7443ef4a8c002baca2134e068e18",
+    "summary": "管理文本片段",
+    "description": "TextExpander 可帮助用户在自己的 TextExpander 账户中搜索、读取、创建、更新、移动和删除文本片段及片段组；在获得授权时，还可查看个人资料、组织成员和使用统计数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f937e1b1348191a625b280777e4c6d",
+    "name": "Textxt",
+    "sourceHash": "172420c352743be73536cb18829f100b97c465f1c8a0d057ccf95823719795b4",
+    "summary": "搜索你的 Textxt 聊天",
+    "description": "Textxt 让用户可以将自己的 Textxt 账户连接到 ChatGPT，从而在对话中搜索、总结和检索自己可阅读的 Textxt 聊天。此连接器为只读：它可以列出近期聊天、搜索消息、获取搜索结果的上下文，以及读取选定聊天/主题中的近期消息。它不会发送、编辑、删除或发布消息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8cd16b004c8191b881c13a934d8c61",
+    "name": "TG Finder",
+    "sourceHash": "73f679c7061d046d5f1284ff739bb2b24b944bcbd8fe83003ad0f7de57404a86",
+    "summary": "查找 Telegram 上的任何人",
+    "description": "通过用户名及其他标识符搜索并验证 Telegram 用户。查找 Telegram 账户、检查用户名是否可用/存在、补充个人资料信息，并获取可用的 Telegram 身份数据，用于研究、潜在客户挖掘、外联和联系人验证。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a666bbee318819198aa3e17cf99e389",
+    "name": "The Altiora Codex Oracle",
+    "sourceHash": "6158c38fb4e8b3fdbbc6198da568a64a3910351641cbc4cbfa6f71f80437ec59",
+    "summary": "个人神谕解读",
+    "description": "The Altiora Codex Oracle 是一个用于个人、灵性和创意反思的数字环境。用户可以进行单张、三张或五张牌的解读；对于多张牌解读，还可在完整解读、核心信息或个人传达之间选择。Oracle 支持英语和荷兰语，并可将解读保存为文档或 PDF。此服务旨在用于个人反思和启发，不能替代医疗、法律、财务或其他专业建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a70a1f4642c819196832fa9d9be6128",
+    "name": "The Astro Diary",
+    "sourceHash": "0b4a1eab9a687421b05438b32ddfa7dc9d440162cc87868e6a31bbbe469f6c6a",
+    "summary": "个人占星洞察",
+    "description": "The Astro Diary 可帮助用户探索当前及未来的行星和月相状况，获取已保存档案的星盘，将比较盘与组合盘进行比较，查看根据星盘生成的关系行运、个人行运和回归盘，并寻找用于反思的时机窗口。公开天空工具无需账户即可使用；个性化工具采用 OAuth，并强制执行档案所有权限制。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a358dd335c4819194830a9f636fe939",
+    "name": "The Big Answer",
+    "sourceHash": "dff967c8e24d434c7bd4b41b2e7d5029b27407ebea664d79964a602dd5f651a4",
+    "summary": "独自挑战全球玩家的问卷竞猜",
+    "description": "在 ChatGPT 中开始一场问卷竞猜。与朋友进行异步游戏——通过链接邀请伙伴，每个人按自己的时间回答五个有趣的问题；游戏结束后，你会收到结果、揭晓内容和电子邮件。也可以独自挑战全球玩家：选择一组题目、为答案计分，并在该题组的排行榜上攀升。你可以在小组件中作答，也可以在聊天中说出答案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f7bbf8df888191bcdbb1369675484b",
+    "name": "the brand id",
+    "sourceHash": "ea9ec4682deb20d50ecb0554783a040eefbe5b8716ea13255b4eecb13ee6adb1",
+    "summary": "使用实时品牌数据",
+    "description": "the brand id 允许已通过身份验证的用户将实时品牌档案连接到 ChatGPT。该插件会根据用户已连接的品牌数据，返回只读的品牌背景信息、文案指导、社交媒体指导、视觉指导和素材简报指导。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e83a987e188191841250d8b1e3cd0b",
+    "name": "The Economist - Graphs",
+    "sourceHash": "4ffcdb067cc6c5ae0e8e18138421c03c4970490d8cf8f9a17e641c37fb2ee7d0",
+    "summary": "民调、图表和洞察",
+    "description": "检索并可视化 The Economist 的 Trump tracker 数据。可查看总统在全国和各州的支持度，以及经济、医疗保健和移民等不同议题上的数据。答案可按年龄、教育程度、种族和性别细分。若有时间序列数据，该工具会返回最新数字并分析趋势。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f3c652752081919a7cb5f23dd5ecad",
+    "name": "The Grand Hotel Collection",
+    "sourceHash": "a03c189db0dce83adc28aa311d53cc1c17ea79d67ddc9a3c88732b3c1bb89e14",
+    "summary": "查找并预订 Grand Hotels",
+    "description": "The Grand Hotel Collection 让你可以直接通过 AI 聊天轻松发现并预订俄勒冈州的精品住宿。\n\n浏览配有精美照片的客房，并排比较选项，通过交互式日历查看实时价格。选择日期、了解设施，只需轻点几下即可预订住宿。\n\n包含两家特色酒店：位于 Tigard 的 The Grand Hotel at Bridgeport，以及位于 Salem 的 The Grand Hotel。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ab179b3bcc819198d3041c504e206c",
+    "name": "The Houstonian",
+    "sourceHash": "78d4677f586a5950f659e7eb234902736abbd479fca3557908bded1f211da298",
+    "summary": "酒店信息和实时价格",
+    "description": "ChatGPT 版 The Houstonian 应用让你轻松了解位于德克萨斯州 Houston 的 The Houstonian Hotel, Club & Spa。你可以在对话中提问，快速获取有关酒店设施、服务和常规信息的帮助。\n\n你还可以直接在 ChatGPT 中查看当前房价和空房情况。这对旅行者、活动策划者或任何希望在计划行程时了解最新信息的人来说都很方便。\n\n通过将这些信息直接带入 ChatGPT，此应用提供了一种简单的方式，让你了解酒店及其服务，并查看当前价格，从而判断它是否适合你的住宿需求。\n\n注意：\n回复由人工智能生成，偶尔可能包含不准确之处。所提供的信息仅供一般参考。请避免分享敏感个人信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6948281ec3b8819192a431bb40b2c598",
+    "name": "The Knot",
+    "sourceHash": "67dc526690eb0ddc14db702ae10a9aaa10320ed9d2b9b3beb28c9bb2a77ef2f7",
+    "summary": "发现婚礼服务商",
+    "description": "寻找评价出色、能让你的婚礼梦想成真的婚礼服务商和场地。浏览照片、评论、服务内容及其他关键信息，快速比较选项，并组建符合你风格的团队。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8ffdba659081919fc388ad5ea5dc04",
+    "name": "The Magic Shell",
+    "sourceHash": "9a8f8c2448acbf9af0639ed6fdc55927a91d67b346be95e4fce007be1b2c868c",
+    "summary": "向神谕提问",
+    "description": "提出一个问题，让神谕给出神秘的回答。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7b3f14c6f0819186479d4ef141f1f6",
+    "name": "The Org",
+    "sourceHash": "49673e6db3465fda9e0dc668efb374b7d07b238d4b679b23bc51a9cc76b3add6",
+    "summary": "公开组织架构图",
+    "description": "The Org 的 MCP 可让你在 The Org 账户中工作，加快潜在客户开发或求职探索流程。利用我们涵盖 2 百万多个组织架构图的网络搜索和筛选人物及职位。使用其他地方无法获得的高级筛选条件，例如职级、经理和下属，并了解人物和职位在组织中的关系。此服务兼顾速度与控制：ChatGPT 只会获取你提出要求的内容，遵守你的账户边界，并生成便于审阅、个性化和使用的结果。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8c430b9d0c8191b8834dd80a1cef6b",
+    "name": "The Peninsula",
+    "sourceHash": "434d55364546d521d335c603f9018c94cf9992cec0749b06fea19a71774172cd",
+    "summary": "规划你的 Peninsula 体验",
+    "description": "从这里开启你的 Peninsula 之旅。询问我们的任意一家酒店，比较你所选日期的客房和价格，探索全球各地酒店的餐饮与康养体验等。行程确定后，我们会将你转到 Peninsula.com 完成预订；你可在那里找到最优可用价格和特别优惠。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f24978a7a881918ad7451a3cb61ba3",
+    "name": "The Princeton Review",
+    "sourceHash": "acf79ff149bf1d0e97c4a37b7a8e43598cc5caf97da34559fbd4a5f76dc957b3",
+    "summary": "专家提供 SAT 备考",
+    "description": "通过 The Princeton Review 开始 SAT 备考。40 多年来，学生一直信赖这个品牌。就在你已经学习的地方，获得专家精心设计的考试指导。\n\n你可以询问：\n• SAT 考什么以及考试结构如何\n• 如何开始备考\n• 策略和学习方法\n• 数学、阅读和写作部分\n• 专家对示例题目的解析\n\nThe Princeton Review 将其课程、一对一辅导和图书中的专业经验带入你的学习流程，帮助你清晰、自信地掌握 SAT。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa5668d53088191bb5d84e110941913",
+    "name": "The Viral Sauce",
+    "sourceHash": "10616ae43b050a61ac506cf9761359d522cb16f0c2543ecd0e8fcec32ed60608",
+    "summary": "了解 Instagram 数据表现",
+    "description": "连接你的 The Viral Sauce 账户，即可在 ChatGPT 中讨论 Instagram 表现。探索已存储的账户和 Reel 数据指标，查看已发布的 TVS 研究结果，并将现有建议转化为切实可行的发布计划。你可以选择要共享的 Instagram 账户，也可随时断开连接。可用数据取决于你的 TVS 订阅。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a98129298ac8191945d0a8dfb54c871",
+    "name": "The Visa Services",
+    "sourceHash": "705acb1e064ecaca3783a94c49e199f681436a1b3b5f01053301ad7280185850",
+    "summary": "解答签证问题",
+    "description": "The Visa Services 根据内部知识库回答签证问题，包括可办理的国家和签证类型、处理时间、费用、所需文件及申请要求。\n你可以用任何语言提问，并以同一种语言获得答复。\n如果问题需要更多信息，插件会询问你指的是哪个国家或签证类型。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69eb448f4f6c8191807164bbd286e157",
+    "name": "The Wildfire tracker",
+    "sourceHash": "b2069225d961f4e0170919714e9ac2dc843a4d22e703aa6d73d5e34b650160d1",
+    "summary": "野火地图",
+    "description": "Wildfire Tracker 帮助人们了解居住地或计划前往地点附近的野火情况。在 ChatGPT 中，用户可以询问某个城市或地点附近是否发生火灾，并获取由可信火灾数据来源支持的当前野火概况，其中包括通过 Wildfire Tracker API 提供的 NASA 热点数据、NIFC 火灾记录和加拿大火灾记录。ChatGPT 应用会解析用户指定的位置，总结附近及最近的火灾信息，并呈现带有数量、重点信息和 Wildfire Tracker iOS 应用链接的精简地图式小组件。完整的手机应用则提供一体化野火地图和安全助手，包含野火更新、天气、风况、空气质量背景信息及实时提醒。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69324a40807c819189017b29ac8438dd",
+    "name": "TheFork",
+    "sourceHash": "c50ee0c82039e5d5accfead3c7b7b7cf6c211a3aa7a54ca3d823bcb581b86a93",
+    "summary": "查找并预订餐厅",
+    "description": "查找并预订餐厅",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694502d7182881919a9119bb086d5191",
+    "name": "TheHotelsNetwork",
+    "sourceHash": "2116cbfb2f2c2cc92d263ec980e1deb33cbfde548edd94f1c7161f0a35e41d85",
+    "summary": "获取酒店直订价格",
+    "description": "在 ChatGPT 中发现理想酒店，并以最优直订价格预订。\n\nThe Hotels Network 应用会将经过酒店核实的详情和官网价格带入聊天，让你放心比较，并在酒店自己的结账页面完成预订。\n\n自然地描述你的住宿需求（地点、日期、重要设施），即可获取最匹配酒店选项的个性化列表，包括照片、设施、政策和当前价格。准备好完成预订时，点击“直接预订”。\n\n查找超值酒店优惠，解锁独家直订优惠，并通过直接向酒店预订享受更大的灵活性。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a79e491384c8191adf3a123faa3f223",
+    "name": "Thriveworks Jobs",
+    "sourceHash": "b81f90f73505a5a1f5d9cc251fece8136e0b9e52f33dc716760adb027ee6045e",
+    "summary": "发现工作机会",
+    "description": "Thriveworks Jobs 帮助求职者探索 Thriveworks 的空缺职位。按职位名称、地点或两者搜索，助手会显示相关机会，并允许你在申请前深入了解详情。由 Appcast 提供支持。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69be6f6bf4b481918a2d44ce5d9a9ea9",
+    "name": "tickadoo",
+    "sourceHash": "1e9c67d64230b96a269ba6dee98aa67604646fcfab66ec2420aea3711e59f660",
+    "summary": "发现并预订现场体验",
+    "description": "探索全球 700+ 个城市的戏剧、音乐剧、旅行团、景点和活动。获取实时价格和可用情况，查看场地详情，并直接在 tickadoo.com 预订。无论是在 London 度过夜晚、在 New York 观光，还是探索 Tokyo——只需询问 tickadoo ®。你想做什么？®",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4386c510908191ad8913ede82f41aa",
+    "name": "Ticketbox.vn",
+    "sourceHash": "ea3ebb688d5648571fe89677f7aecbd06aa9dee2f2e6c69abe6051f5fee8c605",
+    "summary": "查找越南活动",
+    "description": "Ticketbox 帮助用户发现越南各地的活动，包括音乐会、演出、工作坊、体育赛事及其他现场体验。搜索活动、查看详情、演出时间、场地和票价，然后前往 ticketbox.vn 完成结账。支持越南语和英语。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b1c539d7f8819184ba2653b9872f90",
+    "name": "Ticketmaster",
+    "sourceHash": "8d16d110de4b20663052adbeb44f64d77424aed942be72e74d774a308343331c",
+    "summary": "在 Ticketmaster 搜索活动",
+    "description": "Ticketmaster 应用让你轻松掌握全球现场娱乐活动，帮助你发现即将举行的音乐会、体育赛事和戏剧演出，找到心仪活动，并只需轻点几下即可锁定座位。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ddbaba3fb48191a825f22c21b0599d",
+    "name": "TickTick:To-Do List & Calendar",
+    "sourceHash": "ff3887dd15e6122fe0939664a4b7c664cf7c05413c1a632e99c2dedafb16729b",
+    "summary": "提醒、规划和倒计时",
+    "description": "TickTick 是一款功能强大的待办事项与任务管理应用，可在所有设备间无缝云同步。无论你需要安排日程、记备忘、共享购物清单、团队协作，还是培养新习惯、为生日设置倒计时，TickTick 都能帮助你完成任务并让生活井井有条。\n\nTickTick 的主要功能：\n• 在所有设备间同步任务\n• 多种提醒\n• 灵活的日历视图\n• 与日历应用集成\n• 设置灵活的重复任务\n• 通过倒计时记录生日和纪念日",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1de605376c8191a4eddafe1866159f",
+    "name": "TiendaNube",
+    "sourceHash": "7cbfa070bb13c028145ff10e1d37e26d4c16b2bb5dc5eb96aa2e4c47a52e8ca9",
+    "summary": "管理你的在线商店",
+    "description": "将 ChatGPT 连接到你的 TiendaNube 商店，并使用自然语言管理业务。只需一次对话，即可搜索、创建和编辑商品及类别，查看订单、客户、优惠券、促销、配送方式和付款选项。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b07f4ee2c08191af4e2950096a046f",
+    "name": "Tillys",
+    "sourceHash": "5d33f7332e1fba36d1d530c46829c7e133ef39418ca991c90253ed2b0f7ace45",
+    "summary": "选购服装、鞋子和配饰",
+    "description": "通过 Tillys ChatGPT 更聪明地购物。\n用自然语言提问，即可快速找到你真正喜欢的服装、鞋子和配饰，并根据你的购物需求获取个性化商品推荐、穿搭灵感和建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a209ccc3df881919c7046091d790d8e",
+    "name": "TIM Brasil",
+    "sourceHash": "686d303b04c634ff51c84ed1b7e8d0cee3f702ec7e93eb88bf93c9c93d05b35e",
+    "summary": "TIM。想象更多可能",
+    "description": "比较套餐，找到最适合你的方案",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_695276ca00f88191bdf068763add308e",
+    "name": "Tim Hortons",
+    "sourceHash": "30daec91a310133f59baee202a479599d7803b69eacae7ee9e2659b6dd548d3c",
+    "summary": "查找门店位置",
+    "description": "Tim Hortons® 应用让查找餐厅位置变得轻松。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a69e0f7515c819183407c244eae8f0a",
+    "name": "Time Machine",
+    "sourceHash": "cfce0288bf7f30434d718b333e95a5b7bb1a4e0cb927de9b00ecb7b0d534e5a7",
+    "summary": "AI 驱动的学习平台",
+    "description": "Time Machine 是一个 AI 驱动的企业学习平台。此插件可让 ChatGPT 在你公司的 Time Machine 工作区中创建和管理课程、模块、主题、课时、练习、测验题、学习短内容、用户、部门、角色和演示培训。它还可以读取学员进度、洞察、证书和专家任务。执行 123 项操作，并采用 OAuth 2.1 和 PKCE；ChatGPT 只能查看你的 Time Machine 账户有权访问的数据。适合大规模管理企业培训的学习与发展（L&D）团队、销售赋能团队和管理员。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a00269ef3bc8191b4238be56cffcbaa",
+    "name": "Timebook",
+    "sourceHash": "3794be5f72fc28097e87f4370668398507841ddd5a5382de037f2cae5242ab67",
+    "summary": "跟踪可计费工时",
+    "description": "Timebook 帮助独立专业人士和小型团队通过 ChatGPT 跟踪可计费工作、管理客户与项目，并确保工时记录准确。此应用可以列出客户和项目、启动和停止计时器、记录过去的工作、查看近期记录，以及更新或删除已连接助手获准修改的记录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6985bc6832e08191a84d52138b4716cd",
+    "name": "TimerTime",
+    "sourceHash": "ebb39f014d0c2f750d53e744b1d534db7a54efb7d9e93564326f5d19f9a1fd24",
+    "summary": "快速简便的 ChatGPT 计时器",
+    "description": "在 ChatGPT 对话中快速、简单地设置计时器，并在计时结束时播放声音。\n\n例如：\n\n- “@TimerTime 2 分钟”\n- “启动一个一小时的 @TimerTime”\n- “@TimerTime 30 秒”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2adfdc7bc48191972e53f28dd04f69",
+    "name": "Timezone Buddy",
+    "sourceHash": "109c77c9889d5685aadfafc9fc3e30275263a614616517134de6329818ce4c11",
+    "summary": "时区会议助手",
+    "description": "Timezone Buddy 帮助人们跨时区协作。它可以查询 IANA 时区的当前时间，自动处理夏令时并转换多个时区之间的特定日期和时间，还可以为分布式团队寻找重叠的会议时段。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a83149af7a4819182bacb9834d67563",
+    "name": "timr",
+    "sourceHash": "58e1605c12e9020740c783f9acff4609e042bcf25fe93e706e657edcc078a693",
+    "summary": "跟踪工时、休假和里程",
+    "description": "timr 帮助用户通过 ChatGPT 查看当前活动和余额、检查工时与里程记录、启动或停止计时器、添加或更新记录，并管理跨多日的休假。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1f5aa83f888191845b774bd2957f6c",
+    "name": "Tineo",
+    "sourceHash": "74967e95f5eacdc4248458e18991660b4d677705c4dd44b3dcb18d498f979863",
+    "summary": "整理旅行计划",
+    "description": "Tineo 帮助你通过 ChatGPT 整理旅行计划。连接 Tineo 账户即可查找行程、查看行程详情，并将航班、住宿、交通和活动集中管理。\n\n创建旅行、添加行程项目，并在对话中更新已保存的旅行详情。查找地点并查看已保存航班航段的可用航班信息。行程保存在你的 Tineo 账户中，方便日后继续查看。\n\n需要 Tineo 账户。编辑已保存的行程只会更改你的 Tineo 记录，不会更改你在航空公司、酒店或其他旅行服务商处的预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9c56474bd881919827570089abe155",
+    "name": "Tiniest Cloud",
+    "sourceHash": "591546ac04172a502c796f02cdfa51bf7f8704aad392ff01f2ec31c246f8582b",
+    "summary": "部署带登录功能的 Web 应用",
+    "description": "Tiniest Cloud 可托管静态 Web 应用，并为每个应用提供登录、用户级存储、实时功能、推送通知、定时任务和语言模型，无需任何配置。你可以在对话中部署一个文件夹并获得在线 URL，通过电子邮件与他人共享应用，将应用回滚到早期版本，在不把密钥放进页面的情况下连接第三方 API，安排周期性工作，并将应用部署到自己的域名。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_695325bae7348191b58ae9349a963d22",
+    "name": "TinyFish",
+    "sourceHash": "db96e7ddc7c0d0b438380421ff504c2766a078711affc282e80a7ee449396771",
+    "summary": "查找并完成 Web 任务",
+    "description": "TinyFish 帮助 ChatGPT 回答网络问题，并完成由用户指定的浏览器工作流。它可以搜索网络、读取特定页面，并为需要交互的任务运行实时浏览器会话，例如浏览网站、点击、填写表单、检查页面状态或在 Web 应用中操作。请将其用于具体请求的任务；它不适用于广泛爬取、批量处理 URL 或未经明确指定的第三方访问。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aae98d6eb4c819184f316e096e24ade",
+    "name": "Tirada de Cartas",
+    "sourceHash": "bd16c55d8ba6662735240c77ee2963baa7b40744e40b26ed4fdcff5567102851",
+    "summary": "塔罗牌与西班牙牌",
+    "description": "直接在 ChatGPT 中进行互动式塔罗牌和西班牙牌占卜。可从 22 张大阿卡纳、完整的 78 张牌组或 40 张西班牙牌组中选择。洗牌、切牌并抽取三张牌或五个位置的十字牌阵，然后根据你的问题，对牌面、位置和正逆位进行关联解读。占卜解读具有象征意义，旨在用于反思和娱乐。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cdfdc3c408819181cf72f7ec66966b",
+    "name": "Tixxly",
+    "sourceHash": "3a617af35f9ed76865a58a3d73bb90f9100b9f2a1252febbcc2877fa5b28f504",
+    "summary": "预订当地旅行团和体验",
+    "description": "Tixxly 帮助你发现并预订来自全球供应商的旅行团、活动和当地旅行体验。浏览可选体验、查看空位和价格，并直接在对话中预订。由当地运营商提供实时库存——没有中间商加价。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab242dbeb5c8191ba5277534ef0c570",
+    "name": "tldraw",
+    "sourceHash": "87380b03a903e5bf4756c4fe67d3b4467c1f7d35990240b835b12e5c91827cd5",
+    "summary": "与智能体绘图和制图",
+    "description": "tldraw 将无限画布带入 Codex 和 ChatGPT。让你的智能体为代码库或任何流程绘制图表。绘制线框图，然后让 Codex 将其转换为应用。导入屏幕截图、添加注释，并让智能体更新项目。导入数据，让 ChatGPT 在画布上将其可视化。一切内容都链接到你在 tldraw.com 上的文件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69bca4c1b4f48191b616c7ab063eb17a",
+    "name": "tldv",
+    "sourceHash": "a0d6b1e87f784a9313992335cbb0d6d25fe19f268e115eccac18a3dc82998bc2",
+    "summary": "获取你的会议数据",
+    "description": "访问 Google Meet、Zoom、Teams 和线下会议的文字记录，包括你自己的会议以及团队和公司的会议。\n\n你可以使用 tl;dv 连接器：\n\n- 浏览、搜索并总结你自己会议的文字记录：“总结过去 7 天我所有的待办事项”\n\n- 根据你的 Playbook 对整个销售团队的所有销售电话进行评分：“根据 MEDDICC Framework 为本月所有销售电话打分。”\n\n- 生成后续跟进邮件：“总结我最近一次与 ACME Corp 潜在客户的会议，并生成一封后续跟进邮件。”\n\n- 分析全公司的客户通话：“根据所有面向客户的对话创建客户之声报告，并寻找追加销售机会和客户流失风险。”\n\n还有更多功能",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6954f3d85c7881918ea8bc9cb482342b",
+    "name": "to3D",
+    "sourceHash": "eb2d6515c0adf24aa24260187708d4affbbcd826280cb1caec618cdfee2ec7c4",
+    "summary": "将 2D 图像转换为 3D glTF",
+    "description": "to3D 帮助用户将 2D 图像转换为简单的 3D glTF 模型。你可以上传图像、预览生成的 3D 结果，并导出以便进一步编辑或用于设计工具。此应用旨在让基础 3D 转换变得快速、易用，即使没有专业 3D 软件经验的用户也能使用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c2c740824081919148e08a86fca182",
+    "name": "todo mate",
+    "sourceHash": "b36dea8c5caad4e8c805eb25af0f971c84c05e9cdd1e503644e7fa30667f4ef4",
+    "summary": "任务与日常安排",
+    "description": "使用 todo mate 管理待办事项列表。\n- 获取指定日期范围内的任务\n- 将任务标记为已完成\n- 添加新任务\n- 为任务设置基于时间的通知\n- 获取类别列表",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4b65affb0081918f6568db8aacb41f",
+    "name": "toflow.ai",
+    "sourceHash": "ee619044fa3db6b8ccd98df2cee0a2321880b570147803a8d01b464d0b8a3bc0",
+    "summary": "挖掘潜在客户、补充信息并开展外联",
+    "description": "通过 ChatGPT 连接 toflow.ai，发掘潜在客户、补充信息并开展多渠道外联。使用职位名称、资历、行业、公司规模和地点等筛选条件搜索人物和公司。补充联系人信息，查找经过验证的电子邮件地址、电话号码和 LinkedIn 个人资料。创建并管理名单，然后通过电子邮件、LinkedIn 和 WhatsApp 将联系人加入外联序列。无需离开聊天即可创建交易、记录通话、创建任务并跟踪电子邮件打开情况。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8d855b1a608191976724470c6243a4",
+    "name": "TokenLab",
+    "sourceHash": "4f9a14f2d68c20f381c55d3cf0a35f406c654dfe848e87026ccc72e8607d5c70",
+    "summary": "统一设计准则，适用于所有人",
+    "description": "为品牌、产品或系统定义统一的设计准则。将其转化为设计令牌、指导规范和生产成果，让人员、自动化流程与 AI 在一个可审查的工作流中共同参与。通过 ChatGPT 和 Codex 使用 TokenLab，探索工作区、项目、资源库、模式、别名和发布版本，解析用于实现的令牌，并在分支上准备受治理的更改，供人工审查。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a073fe5399c8191846079475eae7de2",
+    "name": "Tolstoy Library",
+    "sourceHash": "2727d74f2c4fd150a1a5629d2ff3715539ce6e01d62e3706cbc4071fb30127d0",
+    "summary": "管理媒体资料库",
+    "description": "Tolstoy Library 将你的视频和图像内容带入 ChatGPT。\n\n如果你是 Tolstoy 商家，现在只需聊天即可访问你的上传内容、社交媒体导入内容和添加了商品标签的媒体。\n\n你可以：\n  • “显示我资料库中最近上传的 20 项内容”——立即查看带缩略图的列表\n  • “找到我的海滩短视频”——按名称或 UGC 创作者账号搜索\n  • “查看该素材的详情，包括标记的商品和播放列表”\n  • “将其重命名为‘Summer launch hero’”，或将其标记为收藏",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694d197c90948191a51098efce20c259",
+    "name": "Tomorrow.io Weather",
+    "sourceHash": "4ff02fc6e81f6f7e79d1bedcee8a5e6d638fe5e3ac9e7d7665aee6819c3bfc60",
+    "summary": "按地点了解天气",
+    "description": "Tomorrow.io Weather 让你可以通过自然对话了解全球各地的天气状况和空气质量。\n你可以询问何时前往某座城市天气更舒适、多个地点的状况有何不同，或某个特定区域当前的空气质量是否良好。此应用会清晰呈现天气预报和空气质量信息，便于按日期或地点探索天气状况。\nTomorrow.io 是一家综合气象智能平台公司，融合自有卫星星座、先进 AI 模型和运营气象工作流，帮助组织大规模理解并应用气象信息。此应用用于探索和信息查询。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8b4a58c4788191876c58ca9e8ad831",
+    "name": "Tonk",
+    "sourceHash": "f79210a848604c49ec8d11926f62836ef0528a007cb8cafe605b3a968c2f8413",
+    "summary": "你的 Nashville 音乐智能体",
+    "description": "Tonk 帮助你找到 Nashville 值得一看的演出。经你批准后，它可以沿用你在 ChatGPT 中审阅过的音乐品味和旅行详情，或连接音乐服务中的简要样本，并据此建立个人品味档案。搜索 Tonk 持续维护的 Nashville 演出、艺人、场馆和街区目录，根据你的品味、氛围、地点和时间筛选出简短列表；无论你住在当地还是计划前往，都能找到合适的选择。无需无休止地滚动浏览，也能找到合适的乐队和场地。",
+    "model": "codex-subagent-reviewed"
+  }
+]

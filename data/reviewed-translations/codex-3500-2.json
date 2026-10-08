@@ -1,0 +1,674 @@
+[
+  {
+    "id": "plugin_asdk_app_6a6e0cc8938c8191865c123590a8539a",
+    "name": "Postly",
+    "sourceHash": "2f6d7305d78391452c1818175a68a3c7250e9314cee836fd651581cc950f2683",
+    "summary": "AI 社交媒体排期工具",
+    "description": "Postly 可让你直接在 ChatGPT 中创建、排期、发布和管理社交媒体及电子邮件营销活动。连接账户、上传媒体、起草内容、安排营销活动、监控发布活动并跟踪效果分析，所有操作都在一个工作流中完成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6b12e06c5c8191ac5d5252fa5f92c8",
+    "name": "Postman",
+    "sourceHash": "56fcf5e14d552a7919b1c9c685ee5d2a6cc0709c13bb62ba031b21f050b600ed",
+    "summary": "面向智能体的 API 工程工具",
+    "description": "为 Codex 配备 Postman 专业技能，覆盖完整的 API 生命周期。通过面向智能体、以文件系统为先的工作流，发现、设计、测试、记录、模拟、监控并改进 API。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a673b3d27848191af9b47a6c7980351",
+    "name": "PostNitro",
+    "sourceHash": "570fcb559e69d7b2440a717a226946e28f8554ef1d2eee5ede550c4ebb197be3",
+    "summary": "设计、排期、发布",
+    "description": "PostNitro MCP 服务器可让 AI 助手和智能体——包括 Claude（Desktop、Code 和 Cowork）、Cursor、ChatGPT 以及任何其他模型上下文协议客户端——创建轮播图和图片帖子、管理品牌套件与已连接的社交账户，并直接安排帖子发布。\n\n你只需连接一次服务器，AI 助手便可使用现成工具来生成轮播图和图片、管理品牌及社交账户、安排发布；这些工具使用与 REST API 相同的 Embed API 密钥和额度。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a632759aaf08191bf66f22649ac22cd",
+    "name": "PostSyncer",
+    "sourceHash": "e08249816f49df95827282b0965b47ffcc3a496f4bf5fa100d4564a5384e5b16",
+    "summary": "安排社交媒体帖子",
+    "description": "在 ChatGPT 中安排并发布社交媒体帖子。PostSyncer 可将 ChatGPT 连接到你的 Instagram、TikTok、YouTube、X（Twitter）、LinkedIn、Facebook、Threads、Bluesky、Pinterest、Telegram 和 Mastodon 账户，一个应用即可管理 11 个平台。\n\n让 ChatGPT 撰写配文、附加图片或视频（包括刚刚生成的内容），然后立即发布，或一次性安排到多个平台，并为每个平台生成不同版本。询问帖子或账户的表现，即可在聊天中查看浏览量、点赞、评论和分享数据。同步并回复评论、隐藏垃圾内容、将帖子归入营销活动，还可管理媒体库，全程无需打开控制面板。\n\n只需一步即可完成设置：安装应用并登录 PostSyncer。发布操作通过 PostSyncer 的官方平台集成完成，因此 ChatGPT 不会看到你的社交账户登录信息。\n\n试试这样提问：“@PostSyncer 将这段视频安排到 TikTok、Instagram Reels 和 YouTube Shorts，明天上午 9 点发布”——“@PostSyncer 为我们的发布活动起草一周的 LinkedIn 和 X 帖子并安排发布”——“@PostSyncer 我这个月哪条帖子浏览量最高？”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa170d67ef481918f44de7aa29b54df",
+    "name": "Povtori",
+    "sourceHash": "a3f8fb110db6bd257a3a37eb85071a4ffb79ab0e9ff11a59a8e09adb14cd4c7b",
+    "summary": "练习外语短语",
+    "description": "将实用短语转化为有针对性的翻译练习。保存想记住的表达，选择语言组合，然后在 ChatGPT 中完成引导式课程。Povtori 会保存你的短语列表、恢复未完成的课程并显示学习进度，让你专注练习仍不熟悉的内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a57223c7e648191b790ff2f49e8c201",
+    "name": "PowerDMARC",
+    "sourceHash": "3327c332e4a44aa42ba9dcb28dec5b15a7b09b7523654ebdc556dc48645c2575",
+    "summary": "检查 DMARC、SPF 和 DKIM",
+    "description": "PowerDMARC 可将电子邮件身份验证数据接入 ChatGPT。询问任意域名的安全状况，即可获取经过解读的 DMARC、SPF、DKIM、BIMI 和 MTA-STS 分析。深入查看 DMARC 汇总报告，了解哪些发件方正以你的域名发送邮件、哪些来源未通过身份验证，以及邮件分别来自哪些国家和组织。\n\n查询实时 DNS 和 WHOIS 记录，生成格式正确的 DMARC、SPF 和 DKIM 记录，并检查托管服务配置。\n\n身份验证通过 OAuth 安全处理——该插件只能访问你的 PowerDMARC 账户本已允许访问的内容，且绝不会存储你的凭据或令牌。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a14890167bc8191b77dea0507fb2af6",
+    "name": "Powerset Research",
+    "sourceHash": "5df0dc55a6273ac934d840c8da6bb9b871b769bc3cb88b5d21836d3e21fc9b29",
+    "summary": "访问 Powerset Research 数据",
+    "description": "Powerset Research（https://research.powerset.co/）是 Powerset（https://powerset.co/）的技术期刊，分析科技趋势、发布分析报告，并提供帮助创业者的免费工具。此应用让任何人都能通过 ChatGPT 访问 Powerset Research 的底层数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69abf7c33bc88191b2c8033ab41c2bb0",
+    "name": "Powly",
+    "sourceHash": "b6a7caeeb1a9551e12f25a85cb4274e3cce04e2f0bd476dcf1d54134a2616cb1",
+    "summary": "阿尔卑斯山滑雪场与雪况",
+    "description": "搜索阿尔卑斯山的 1,486 个滑雪场（AT、CH、DE、IT、FR、SI）。获取降雪预报、滑雪场详情、从任意城市出发的驾车时间、粉雪日提醒、滑雪场并排比较和路线地图。数据包括雪道公里数、缆车数量、海拔、冰川状况、当前雪深、滑雪通行证，以及来自 Open-Meteo 的 16 天天气预报。你可以这样问：“斯图加特 2 小时车程内有哪些滑雪场？”——“下周哪里雪最多？”——“Soelden 和 Ischgl 哪个更大？”——“显示前往 Zermatt 的路线”。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a701565da608191a54c7b9100e0dddf",
+    "name": "PR Readiness Check",
+    "sourceHash": "ca8aba138aa69afd215a2384e9bab5a1539f5c137e1f6e3e8f458e34401921e2",
+    "summary": "检查 PR 的评审就绪情况",
+    "description": "分析提供的拉取请求材料，检查变更证据、需求匹配度、测试、风险、回滚方案，以及是否已准备好交由人工评审。它不会访问代码仓库、运行测试、批准或合并拉取请求。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2c1e240cf081918fd8e08aa140de49",
+    "name": "Prada",
+    "sourceHash": "53815eff4dfdc2a55d7cfed89016563f18d7a83fdfd53050608d0d65e6642058",
+    "summary": "探索 Prada",
+    "description": "通过引导式对话体验探索 Prada 产品、时装秀故事和门店位置。浏览手袋、鞋履、成衣、配饰、香氛和美妆；查看产品详情、价格和购买选项；了解 Prada 系列和时装秀背后的创意理念。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4ba3bfbb2c8191b11030adf9bcefbe",
+    "name": "Precise Special Functions",
+    "sourceHash": "025a8faccd4a9f187cd9bc193c2d3c5e81633514ab66ef14c9a1c35e76f873e9",
+    "summary": "高精度数学函数",
+    "description": "Precise Special Functions 可高精度计算专用数学函数：贝塞尔函数（J、Y、I、K）、黎曼 ζ 函数、高斯超几何函数 ₂F₁、完全椭圆积分（K 和 E）以及伽马函数。它基于 mpmath 实现任意精度运算，最高可达 1000 位小数。适用于物理模拟、数论、工程计算，以及标准浮点数或代码中的近似值精度不足的场景。每个结果都是确定性的，并可与参考实现交叉核验。自然地提问：“J₀(7.2) 精确到 30 位是多少？”即可得到精确值。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5fe5e3471881919daf83971db15505",
+    "name": "Prefect",
+    "sourceHash": "2cc42fa6c745329c18d947c2c7f2eb665449f28bcf02ba8640d197c26f7587ff",
+    "summary": "检查 Prefect 工作流",
+    "description": "连接 Prefect Cloud，检查工作流、诊断失败、延迟或卡住的运行，查看工作区和工作进程的健康状况，并搜索最新的 Prefect 文档和发行说明。托管工具均为只读。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4680c064b8819197ecc496f58d8097",
+    "name": "Preferred Hotels & Resorts",
+    "sourceHash": "265477ae8166138a400baf7b6a86b2355690c9ab2b9182e17d5bb76121ae4a89",
+    "summary": "查找并预订豪华酒店",
+    "description": "告别平凡。从标志性的城市地标到僻静的海岛静居，Preferred Hotels & Resorts 邀你探索遍布全球的独立豪华酒店和度假村——每一家都独具特色，令人难忘。\n\n告诉我们你梦想前往何处、期待怎样的感受，我们会根据你的喜好精选推荐。无论你向往洁白细腻的沙滩、坐落于城市中心且设计前卫的都市休憩之所，还是融于自然景致中的宏伟度假村，我们都会帮你想象下一段非凡旅程的起点。探索招牌设施，细品每家酒店的独特之处，只需几条消息即可发现下一次入住之选。\n\n作为 I Prefer Hotel Rewards 忠诚计划会员，你可享受专属礼遇、赚取和兑换奖励，并在全球参与计划的酒店获得个性化礼遇。无论你计划已期待许久的度假，还是临时起意的旅程，奢华旅行都从这里开始。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6967cd60dfb881918c8632682eb53f09",
+    "name": "Pregnancy Progress",
+    "sourceHash": "c705b67a839668abf605259520ade40aa7c5c32f872bf7e7a4ba29e595ad7bdf",
+    "summary": "了解宝宝的发育情况",
+    "description": "轻松快捷地逐周了解孕期进展。\n\n只需让 ChatGPT 显示孕期第 12 周等内容，即可查看该周的图片、重点和详情，并可前后浏览每一周。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4a695cc0f881918e9e0dc4c6fc37c5",
+    "name": "Pregnancy Wheel",
+    "sourceHash": "7738af124abccf22cc214961080a89a583cb5e7bcef48079e36cc3eb602b983c",
+    "summary": "追踪孕期周数",
+    "description": "输入末次月经日期或预产期，即可生成互动式孕期轮盘。立即查看当前孕周、孕期阶段、预产期和剩余天数，并通过有趣的水果大小对比了解宝宝现在有多大。你也可以查询第 1 周到第 42 周的任意一周，了解接下来会发生什么，即使没有具体日期也可以。\n\n此应用由独立开发者开发，不是医疗器械，也不能替代专业医疗、产科或助产建议。有关孕期和产前护理，请务必咨询医生、助产士或其他合格的医疗服务提供者。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a71858da92881919e89104e6aac23f5",
+    "name": "Premom Ovulation Calculator",
+    "sourceHash": "1d5720cb2301e2586f76c7a09955e244a410565307aaf0161e087452d07ed53e",
+    "summary": "查找排卵日与易孕期",
+    "description": "Premom Ovulation Calculator 根据末次月经第一天和平均周期长度，帮助用户估算排卵日、易孕期、下次月经时间，以及何时开始使用 LH 排卵试纸。它会在 ChatGPT 中打开互动式教育计算器，支持英语、德语和简体中文。此应用不会连接 Premom 账户、销售产品或引导用户访问外部网站。计算结果是基于周期的教育性估算，不能替代专业医疗建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6945ac50c5e08191a653f9a2fdb5523e",
+    "name": "Presentations Craft",
+    "sourceHash": "481dfd38d2fc7cd4259ab8314ec82c09334f435d271e6ff3bb21ad8aca1b9eb4",
+    "summary": "将创意变成幻灯片",
+    "description": "轻松制作精美演示文稿，方便你在编辑器中分享和编辑。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0ff4affa0c8191bb7a875b5f55ec11",
+    "name": "Presuo",
+    "sourceHash": "f1b1009a428073235639ede7a16a70e7d21d92835e2fa329cd501e9541fa8c96",
+    "summary": "与施工预算对话",
+    "description": "Presuo 可帮助用户在 ChatGPT 中浏览自己的施工预算、查看工程分项和预算项目、检查工程量项目，并在预算范围内进行搜索。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6b8f6b1c048191af7d01f2dd5dab8b",
+    "name": "Prezi",
+    "sourceHash": "c17c567e8b5e03d5ffd8514c2e09b4cccfffbe08f98d2a755e562f06d275f46a",
+    "summary": "将幻灯片变成交互式演示文稿",
+    "description": "Prezi 插件可将你已有的幻灯片（在 ChatGPT 中制作、由其他工具生成，或作为 PowerPoint 或 PDF 上传）放到 Prezi 开放且可缩放的画布上，把平面演示文稿变成视觉效果丰富、可交互的演示体验。它提供完整的演示、互动和分享工具，超越静态幻灯片：投票、测验和问答等互动功能可帮助你教学、销售，并让创意在演示结束后继续发挥影响。\n\n已有演示文稿？直接导入。也可以描述主题，让 Prezi 为你制作，并在生成过程中提供内嵌动画预览。可直接在原稿中修改：添加、编辑、重新排序或删除幻灯片，也可切换主题。\n\n按你的方式演示和分享：\n开启实时演示，让内容与你并列显示在带有 Newscaster 模式的互动视频中\n分享并导出为配音视频或播客\n分享一个互动链接，让观众参与投票和测验、提交问题并为问题点赞，还可实时或自行选择时间回应文字云\n导出为 PDF、PowerPoint 或 SCORM\n\n每份演示文稿都会保存到你自己的 Prezi 账户。付费方案中新建的演示文稿默认为私密，免费方案中新建的演示文稿默认为公开。任何人都可以通过链接打开公开演示文稿；私密演示文稿没有分享链接。更改演示文稿的可见性需要付费方案。必须使用 Prezi 账户登录。\n\n示例提示：\n@Prezi 为 [受众] 创建关于 [主题] 的互动课程。加入开场投票、可视化讲解、演示、两次知识检查、文字云和最终测验。\n@Prezi 将附件中的演示文稿改造成面向 [受众] 的可缩放互动演示。设计清晰的演示路径，并加入开场投票、[章节] 之后的文字云、主持式问答、五题测验和反馈活动。\n@Prezi 审阅此演示文稿，并在最合适的位置加入观众互动活动。包括开场投票、中段文字云、主持式问答、五题结尾测验和反馈表单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694c08abbb5481918f814ea25c49a9d6",
+    "name": "Priceline",
+    "sourceHash": "2e79afdc64cabe02c457994467314194619819409319961b2d68fe4ce28d5546",
+    "summary": "查找酒店与旅行优惠",
+    "description": "计划旅行？将 Priceline 添加到对话中，即可直接搜索酒店。告诉 ChatGPT 你要去哪里、何时出发，以及你在意什么——比如靠近市中心、海滩附近或价格实惠——即可在互动地图上查看 Priceline 的实时优惠。轻松比较选项，然后在 Priceline 预订，或继续与 Priceline 的 AI 旅行顾问 Penny 对话。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a64b484573081918d970f524136b630",
+    "name": "Pricewin Hotels & Flights",
+    "sourceHash": "f326601460d33604f6ed4f18e4e763fd9b1c921d0ba2ad4daecf2541236b193e",
+    "summary": "比较实时旅行价格",
+    "description": "Pricewin 可帮助旅行者搜索实时酒店和航班价格，比较多个旅行来源的结果，查看酒店空房情况和取消条款，并通过链接在 ChatGPT 之外完成预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6978cefe33448191ac463fdda027ba08",
+    "name": "Pricey- monitor+history+alerts",
+    "sourceHash": "034d325cbc1c4e8d58b7bf0d5c7aca3f4edf59bcfbff90ad2e86f5712dbb44c5",
+    "summary": "追踪并关注商品价格",
+    "description": "以最佳方式追踪你想购买的商品价格。\n\n- 查看商品及其历史价格。\n- 设置价格提醒，折扣出现时通过电子邮件通知你。\n\n例如：\n\n1. 告诉 ChatGPT：“@Pricey 为 [商品链接] 设置价格提醒”。\n2. 告诉 ChatGPT 你期望的价格，以及要发送提醒的电子邮件地址。\n3. 完成！",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a25e1d409008191a30d80366aaad5e5",
+    "name": "Primitive Email",
+    "sourceHash": "786be5ca5aa39bb855dee6847b0710179e41cacbd7693b308618cfad72457772",
+    "summary": "收发电子邮件",
+    "description": "Primitive Email 可让用户创建适用于智能体的电子邮件地址，读取和搜索收到的邮件、发送新邮件、在线程中回复、管理域名和 webhook、检查投递历史，并通过 ChatGPT 排查邮件路由问题。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab6b3139ddc819191d94b9cd7f799ab",
+    "name": "Princess Cruises",
+    "sourceHash": "5d65b8c4bf808eaa91cdd9c218046882a3c541d40f6da8cba67ac6d0807572c6",
+    "summary": "查找并探索邮轮行程",
+    "description": "用日常语言提出任何问题，即可直接从 Princess.com 获取有关目的地、行程、航行日期和价格的即时答复。无需切换标签页即可浏览完整的 Princess 目录，准备好后可直接前往预订。\n\n你可以：\n• 按目的地、日期、时长或出发港口搜索\n• 发现符合你兴趣的行程和停靠港\n• 直接前往 Princess.com 预订\n\n试着问：\n1. 五月有哪些地中海航线？\n2. Princess 冬季会停靠哪些加勒比海港口？\n3. 显示从西雅图出发的阿拉斯加邮轮",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7f07c5917881919fdfd03997469c43",
+    "name": "Print.com",
+    "sourceHash": "9dab622532af90384fb2eb5b145b16b28b5faccfcdf0d9f2a2bee09075aa3389",
+    "summary": "浏览并估算印刷价格",
+    "description": "Print.com 可帮助已登录的客户浏览可用的印刷品目录、查看兼容的产品选项、计算价格和配送选项、创建预配置的选择器链接、查找配件并查看订单历史。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694338ba59d48191910c5b35fc604501",
+    "name": "PrintA",
+    "sourceHash": "42bceefe016c4f2dc8069c336daa459e4f8c3b85f544b3d2749d5403e03b0f93",
+    "summary": "将图片印在 T 恤上",
+    "description": "PrintA 可将生成或上传的图片制作成定制印花 T 恤。在 ChatGPT 中打开设计工作室，将图片放在正面或背面，选择尺码和颜色，查看配送信息，然后通过 Stripe 安全结账。下单后，你可以在应用中查询订单状态并追踪货件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69735ab95b788191831330f0f1859628",
+    "name": "Printify",
+    "sourceHash": "153380c31b921dcf9dbf864c9d584fb29c1170b77d43d933b992d80bd96ae09c",
+    "summary": "设计并订购定制礼品",
+    "description": "借助 Printify，将创意变成真实的印刷产品。描述你想制作的内容，ChatGPT 会帮助你设计。为生日、节日或任何特别时刻定制礼物。订单按需生产并由 Printify 履约，全球已发货 200M+ 件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1313e18cf88191b042ce5f8fb01671",
+    "name": "PrintTiler",
+    "sourceHash": "ccac362f83207c03ad26e6e3f893c98df775bda7304bf019e918cfb30cfaba7d",
+    "summary": "制作拼接海报",
+    "description": "PrintTiler 可帮助用户查找可打印的海报创意，并生成已配置的拼接海报编辑器链接。应用可以搜索 PrintTiler 的公开创意目录，并创建预先设置好纸张尺寸、网格、方向、海报尺寸和打印模式的编辑器链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a48cb6545e4819192d92ee3b19a0701",
+    "name": "Prism by Crossdeck",
+    "sourceHash": "364be741a58f1079016dcab99d61d837fea95cd342af132a22894c264b72f3d6",
+    "summary": "应用商业智能分析",
+    "description": "Prism 可读取你实时的 Crossdeck 工作区——包括收入、权限、错误、分析数据、读取成本和客户身份——并按身份关联数据，因此能回答任何单层工具都无法回答的跨层问题：哪些付费客户遇到了某个错误以及他们支付了多少费用、哪些客户产生了最高的数据库读取成本，以及按姓名排列的客户生命周期价值排行榜。安全且只读：通过 OAuth 2.0 登录（无需粘贴密钥），没有写入功能；每个数字都附带自我说明（对于未接入的功能会报告“未埋点”，而不是伪造零值）。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fb38b9480c81919e16addf9dc1ce64",
+    "name": "Prismic",
+    "sourceHash": "09cb50a618b4c5b2300bd17bcc80e378e3e6ca272a645f54d22431473287fbc0",
+    "summary": "管理 Prismic 内容",
+    "description": "Prismic MCP 可让用户列出有权访问的 Prismic 存储库、检查内容模型（自定义类型和切片）、搜索并获取文档，以及在指定发布版本范围内进行内容更改，包括创建发布版本、创建文档、更新文档并向存储库的资源库上传文件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_695c70d5bb648191a156ddd85c967bf6",
+    "name": "Private MD Labs",
+    "sourceHash": "7cec207198854510e1248d5e9e353ae3c97094e68d871a60c779cd9836f0decd",
+    "summary": "快速了解身体状况",
+    "description": "询问任何健康主题——胆固醇、甲状腺、维生素 D、激素或其他方面——了解身体内部正在发生什么。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8bf1514eb8819189449527cb5f696c",
+    "name": "Private PDF Tools",
+    "sourceHash": "9100e25c5583c5d33482c609e91fd9fdf8f9d96a32736b3e3f7bce2b4bbb7e43",
+    "summary": "私密编辑 PDF 文件",
+    "description": "合并和压缩 PDF、将图片转为 PDF、重命名输出文件、拆分 PDF、提取指定页面并旋转 PDF 页面。\n\n文件会在浏览器本地处理。AILabTools 不会下载、存储或保留你的文件内容。根据所用的 ChatGPT 客户端，你可以下载处理完成的文件，或将其保存回 ChatGPT。\n\n使用引导式工作流合并文件并减小文件体积，也可以使用专用工具拆分、提取和旋转 PDF 页面。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0b0cd873848191ab989ba0c21519d0",
+    "name": "PrivateJet.com",
+    "sourceHash": "4db4dee0debfe556d796958c818ddbd19ba246c9e7c25bf3159999252427f83a",
+    "summary": "咨询私人飞机包机",
+    "description": "在全球范围内搜索私人飞机包机服务。获取多个机型类别的即时价格估算、查看详细规格，并继续前往我们的网站完成预订。\n\n功能：\n- 按任意两个机场搜索航班，并查看实时价格\n- 比较机型类别：涡桨飞机、轻型喷气机、中型喷气机、重型喷气机、超远程飞机、客机等\n- 查看详细机型规格：载客量、航程、客舱尺寸、行李空间等\n- 按城市、名称或 ICAO/IATA 代码查询私人飞机机场\n\n在结果组件中点击“咨询”，即可继续在 privatejet.com 完成预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b7bed23a9481919d2378ab225cddeb",
+    "name": "Product Hunt",
+    "sourceHash": "c4b8196ce9817a442307927b640e8545874b29f820d587229c9afe9262180304",
+    "summary": "科技领域最出色的新产品",
+    "description": "Product Hunt 每天通过社区驱动的排行榜推荐最出色的新产品。按类别或主题浏览，比较 AI、设计、开发者工具等领域的应用、工具和初创公司。阅读真实评价、探索替代产品，并了解哪些产品受到关注。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a414f68d4e481918cffd0137b8bb619",
+    "name": "Product Link Expander",
+    "sourceHash": "aaf6a33b9c7868b20b4fd9e416127146a6381f18edda8dd5dd107deeb377fdca",
+    "summary": "展开商品链接",
+    "description": "Product Link Expander 可帮助用户在分享或使用支持的零售商品链接前检查链接信息。它会将短链接展开为最终目标网址、标准商品网址、商品 ID、重定向次数、重定向链、警告和可用的网页元数据。此应用为只读，无需身份验证，也不会存储请求历史。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a51a55fdda48191a825ee818aa7ec61",
+    "name": "Product Listing Validator",
+    "sourceHash": "0f46cbe49d4554d0fa7e3d7f91c41b099bef973a17b2ab02d51c660a125d23d1",
+    "summary": "检查商品刊登信息",
+    "description": "Product Listing Validator 会检查商品刊登数据是否包含审核或发布前所需的字段。它会返回结构化的完整性结果，列出已有字段、缺失字段和验证错误，帮助卖家和产品团队快速发现不完整的商品信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a61e9d605448191a80c63f018b41a32",
+    "name": "ProductOS",
+    "sourceHash": "d06b7254a423bd43b459f467933a99b4e55ea6a00f3e2d4abe82d17bc0fb2dcd",
+    "summary": "构建、运行并部署项目",
+    "description": "ProductOS 是一个远程优先、原生支持 AI 的开发平台。无需本地克隆，即可将 ChatGPT 连接到整个云工作区。创建和管理项目、启动带实时预览网址的隔离云沙箱、读写文件、运行完整 Shell（npm、git、node）、配置 Postgres 数据库和 S3 存储，并触发生产部署。每次文件更改都会自动同步到 GitHub。非常适合直接在聊天中快速制作原型、进行全栈开发和团队协作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa6021d9da0819197b62af66f11ad62",
+    "name": "ProdVerity",
+    "sourceHash": "e28b0cd60d4bb7073a2d54a7cd7ea4c489f05d1b487a3e4a8fde2d1e1a7d00b7",
+    "summary": "验证生产环境发布",
+    "description": "ProdVerity 是面向开发人员和运维人员的只读生产环境验证插件。它会检查公开的 HTTPS Web 应用能否访问，检查常见安全标头，发现可选的 ProdVerity 验证清单，运行确定性的公开健康检查，并可将公开构建标记与预期的提交或发布标识进行比较。它不会登录、修改目标应用、访问私有网络，也不会声称进行了视觉验证。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8fd15c22f081919893ff04eeef8dc9",
+    "name": "ProfileID",
+    "sourceHash": "ba40a0ae56b856674951af28ce0236453b13cce1c206a62fa843c984406cebfc",
+    "summary": "AI 驱动的职业洞察",
+    "description": "ProfileID 是由 GenuineIN 提供支持的可信数字职业档案。它将经过验证的教育经历、技能、能力、工作经验、资质、项目、认证和职业证明整合到一个智能档案中。通过 ChatGPT，用户可以安全地访问和使用自己的 ProfileID 数据，获得职业指导、技能差距分析、求职准备评估、简历和作品集制作、机会匹配及个性化职业建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ba714e376481918b8bc66c1d986871",
+    "name": "Profit.co",
+    "sourceHash": "f53c0306b25b251d4ce813da950c4916e21eedf0498da636b7af01bfa1b5b5ac",
+    "summary": "追踪 OKR 和进度",
+    "description": "Profit.co 是一个由 AI 驱动的战略执行平台，旨在衔接高层战略与日常执行。公司创立于硅谷，总部位于德克萨斯州，服务遍及 70 个国家/地区的客户，从灵活敏捷的初创企业到 50 多家《财富》500 强巨头。\n\n该平台围绕三个关键组织支柱构建，以推动可衡量的成果：\n\n• 规划：通过先进的 OKR 软件、平衡计分卡、方针管理（Hoshin Kanri）和战略路线图制定战略，确保整个组织目标一致。\n      • 流程：通过项目组合管理（PPM）、任务管理、工时表和结构化会议工具推动执行。\n      • 人员：通过员工敬业度、认可、脉搏调查、360 度反馈和持续绩效管理，协调绩效管理中的人员因素。\n\nProfit.co 面向企业规模化采用而设计，提供 80+ 项与 Slack、Microsoft Teams、Jira 和 Salesforce 等关键工具的无缝集成。Profit.co 持续因企业级卓越表现获得认可，入选 Gartner® Hype Cycle™ 报告和 Capterra Shortlist，并保持 G2 领导者地位。凭借全球团队和强大的本地合作伙伴网络，Profit.co 还提供专家辅导、战略咨询和 24/7 实时支持，以确保每个组织都能实现最具雄心的战略目标。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a77ef8fec208191a11d118e9ff70cac",
+    "name": "Project Kickoff Pack",
+    "sourceHash": "3395294a3e8030ac182a869cb35cc4af3770ed9e2e05db980a3ca9927e64dacc",
+    "summary": "创建项目启动资料包",
+    "description": "将提供的项目材料和已确认事项整理为结构化的启动资料包。提取项目目标、角色、职责、里程碑、风险和启动条件。建议事项会清晰区分，并排除在当前交付内容之外。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4b9c8e385c819184ddbf8b27d02bcb",
+    "name": "ProjectBase Beta",
+    "sourceHash": "d1113fd7f9e7bc576a965d1aa6d96f3c269ad2bfbff0fcb3e7ceaa626d328307",
+    "summary": "ProjectBase AI 助手",
+    "description": "ProjectBase AI Assistant 可让你通过自然语言与 ProjectBase ERP 交互。访问项目记录、获取项目信息、监控财务状况，并通过对话界面完成日常运营任务。随着助手不断发展，还会持续增加新功能。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a5df2a72d48191b607f926c389d948",
+    "name": "Promocodes.com",
+    "sourceHash": "4c4f189a592e7ea71eaee0a9cd7486fddd1bb7427079ce6de6c57db919b917a2",
+    "summary": "查找经过验证的促销码",
+    "description": "Promocodes.com 帮助购物者无需离开 ChatGPT，即可找到真实有效的促销码。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0c85864e54819184e0e45f036bccb5",
+    "name": "Promova",
+    "sourceHash": "2b359ec2756da74ce8aad51f2c856a8889da9aa33afe96109e3e1f450f409b02",
+    "summary": "使用 Promova 学习语言",
+    "description": "Promova English Check 是一项免费的 5 题自适应语法评估，可直接在 ChatGPT 中进行，并返回你的 CEFR 等级（A1–C2）。测验结束后，你会看到一节根据自身水平定制的示例课程，也可以在 Promova 上继续学习个性化计划。\n\n你可以：\n\n- 参加免费的 5 题自适应英语水平测试\n- 获取 CEFR 测试结果（A1–C2）以及语法、词汇和流利度分数\n- 预览与自身水平匹配的示例课程\n- 前往 Promova 继续学习个性化计划\n\n使用方法\n\n- 让 ChatGPT 检查你的英语水平，例如：“Promova，检查我的英语水平”\n- 在互动卡片中回答 5 道简短语法题\n- 查看你的 CEFR 测试结果以及对应水平的示例课程\n- 点击前往 Promova，开始个性化学习计划",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69436ea745608191a97211829fea7efa",
+    "name": "Prompt Perfect",
+    "sourceHash": "8f3fe16a8908b5527504d4716af9d7037d9eebf5632652896f367a630f109ba0",
+    "summary": "创建和管理提示词",
+    "description": "将提示词管理和分析直接集成到 ChatGPT 工作流中。使用此应用将简单请求转化为结构化、包含丰富上下文的提示词，或通过内置评分和反馈评估你的提示词。轻松浏览、自定义并保存喜爱的提示词。无论何时需要在重复或复杂的工作流中严格遵循提示工程标准，Prompt Perfect 都能派上用场。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a61f14e3acc8191832b04c7f76ba528",
+    "name": "Promptwatch",
+    "sourceHash": "f3333c69fe072098e4115a3caf65c60a254ca1eb720d99afacd71a6ff5987ad7",
+    "summary": "追踪 AI 搜索曝光度",
+    "description": "Promptwatch 可帮助团队衡量品牌在 AI 搜索中的呈现情况、分析引用来源和竞争对手，并管理其曝光计划背后的提示词、监控项、内容和项目。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a67dedebdc481918874df3d348b4931",
+    "name": "Property Hazard MCP",
+    "sourceHash": "b4c6cf38a2f9253a5d17a8371e68e8328ce9dc890652c37962f6177ce102ca5e",
+    "summary": "危险查询与风险分析",
+    "description": "只需一次调用，即可查询美国任意地址面临的危险——包括洪水、野火、地震和沿海风暴暴露风险；数据来自 Census、FEMA 和 USGS 等政府公开数据源。无需 API 密钥。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a880b6e2e1c8191a676d751eacd9fff",
+    "name": "Propusher",
+    "sourceHash": "95d9e9ad1969b3d3702d51b469c84cc276636a6c5d96270d07e1183efdeabb47",
+    "summary": "健身训练与计划构建工具",
+    "description": "Propusher 是一个教练平台，用于设计训练并通过同步的移动应用将其提供给客户。此应用可让教练浏览 Propusher 练习库、编写带有 3D 骨骼动画的练习，并在自己的账户中组合训练、问卷和多周计划。此处创建的内容会立即显示在 Propusher Web 控制面板和客户的移动应用中。通过 OAuth，访问范围仅限于已登录教练的账户；应用只读取和写入该教练的练习、训练、问卷和计划，绝不会删除这些内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ab1813f594819181800eb3affb7b79",
+    "name": "ProSchool360",
+    "sourceHash": "85398f216d84da35842935f042789f5ef93be79c33da0bf54ae174c5817bd988",
+    "summary": "管理学校数据和统计信息",
+    "description": "将 ChatGPT 直接连接到你的 ProSchool360 学校管理账户。只需使用简单的自然语言提示，即可轻松查询和监控所在学校分支的学生档案、教学日程、作业列表、课程表和关键财务统计数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8a0cf734e48191aec4c958de2d145c",
+    "name": "Proto",
+    "sourceHash": "ad3461fc24e463674393536e762851ff6f92d366b00cc78d6d81a9b007f32356",
+    "summary": "生物 AI 模型与工具",
+    "description": "Proto 可帮助用户运行生物 AI 和生物信息学工具、检查其架构和示例、运行分析和模型、将这些工具部署到 Modal 计算工作区，并通过 ChatGPT 收集或获取已存储的结果。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa26799757c8191a586cd37e237b37f",
+    "name": "Provue",
+    "sourceHash": "e224f7d7bef50c9ed8787481efc976466ca525562dc4e8f6efec9908403dccca",
+    "summary": "比较航班与化验项目",
+    "description": "Provue 可帮助用户比较可选航班票价、旅行方案、诊断检测、健康套餐和上门采样服务，然后再决定预订或购买。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c4268002b08191986134e59fa42945",
+    "name": "Public Storage",
+    "sourceHash": "d3f6bb4cc5bcbb011ab2a5a93c3e8932e697aef454bb82e4651c42dd5e63736a",
+    "summary": "查找 Public Storage 自助仓储空间",
+    "description": "查找最适合你需求的 Public Storage 仓储单元。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a96b250d7548191aa553a29a1265457",
+    "name": "Publica Now",
+    "sourceHash": "cff83ba4fa08a61ddc8819a03a7f71d4f8df0629fed4774236b586f04d2ce1d4",
+    "summary": "发现创作者与作品",
+    "description": "Publica Now 可帮助用户发现独立创作者和公开发布的创意作品。按标题、创作者、描述或内容类型搜索，然后查看创作者的公开个人资料和已发布作品的元数据。此连接器为公开、只读且不涉及交易。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5f3f54fdf0819185993dea52e7cd45",
+    "name": "PublisherChamp",
+    "sourceHash": "07ef012a9316d8df31bae3e625c6f77cee078c7170d09830fe7c6de2818d85f9",
+    "summary": "图书销售分析",
+    "description": "PublisherChamp 可帮助作者和出版商分析其已连接账户中的图书销量、版税、Kindle Unlimited 阅读量和广告支出。它可以识别图书和系列、解释出版指标，并查找 PublisherChamp 官方指南。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7074e91c008191942479b885fb0d9b",
+    "name": "Publora",
+    "sourceHash": "d0580a564d466825f516dc7ace9b4ca21afc67317d7c7ad511910b762682f145",
+    "summary": "发布到 10 个社交网络",
+    "description": "Publora 可让 ChatGPT 在十个社交网络上发布和安排社交媒体帖子：LinkedIn、X、Instagram、Threads、TikTok、YouTube、Facebook、Bluesky、Mastodon 和 Telegram。\n\n只需连接一次账户，之后即可使用日常语言操作。你可以要求起草帖子并将其保留为草稿供你批准、附加图片或视频、安排在指定时间发布，或查看当前排队中的内容。Publora 会处理每个网络各自的规则，因此你无需操心字符数限制、媒体要求或串帖。\n\n在 LinkedIn 上，你还可以在同一对话中发表评论、作出回应和转发。\n\n你需要拥有 Publora 账户，并至少连接一个社交账户。免费方案也可使用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a11013996a4819183acd7147f86f8a4",
+    "name": "Purely Snacks",
+    "sourceHash": "af0ead7c0f70c10341268383f3e57b0e8c19123c6427572d7e7e152a6f802bd7",
+    "summary": "查找健康零食",
+    "description": "Purely Snacks 可帮助你根据偏好寻找更健康的零食。你可以按类型、成分、营养目标或饮食属性搜索商品，然后用“少糖”“更多蛋白质”“无麸质”“纯素”或“不含花生”等要求进一步筛选结果。\n\n应用会返回零食选项及实用详情，例如品牌、卡路里、蛋白质、糖、成分、饮食属性、商品类别和取舍信息，帮助你快速比较，然后再打开商品页面。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa2b0a010cc8191a47ba12aa4ac7db1",
+    "name": "PuzzleMaker Pro",
+    "sourceHash": "e44dab3de3778d120074edfdfa2ab198ba1c30e0dbc4c7c3a966e34aef31a802",
+    "summary": "创建课堂谜题",
+    "description": "将 AI 对话中的词汇和线索制作成单词搜索、填字游戏、班级宾果题组、字谜、配对练习和迷宫。预览结果，并在编辑器中打开相同版式。连接教师账户后，即可导出可打印的 PDF 或保存谜题。现有 Pro 账户可使用可打印答案、无水印导出和带学生加入代码的在线作业。学生无需账户。初期支持英文谜题内容。免费账户每月可导出 10 次，网站使用量也共用此额度。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6981220f09208191afc299c6cb7a4979",
+    "name": "Pylon",
+    "sourceHash": "f99cdca3182bf4d48bcdbd2b626e1e6e95efa131276b49633ca7edc560c5056b",
+    "summary": "管理 Pylon 支持问题",
+    "description": "直接在 ChatGPT 中访问 Pylon 客户支持平台，以搜索、管理和解决客户问题。随时掌握支持队列，并将 ChatGPT 的洞察与真实客户对话联系起来。\n\n你可以使用 Pylon 应用：\n  • 检查队列：“分配给我且需要回复的 Pylon 问题有哪些？”\n  • 了解客户：“总结 Acme Corp 最近的问题，并标记任何升级事项。”\n  • 更新问题：“将 Sarah 的账单问题标记为已解决，并添加我们已退款的备注。”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa2be82194c81919e05f3e7c5eedeef",
+    "name": "QA Wolf",
+    "sourceHash": "00cd3a64fe3b416f03b3f8fe8880cb1e6f55c720c74299a551f0b230a4d8f5fb",
+    "summary": "端到端测试自动化",
+    "description": "将 ChatGPT 连接到 QA Wolf，以检查获授权的工作区、在云浏览器中探索暂存应用、请求 QA Wolf AI 编写测试实现、运行现有测试并查看结果。通过实时会话链接，分别验证校验、发布以及草稿或正式运行状态。工具还可管理测试配置、流程标签、问题、定时或部署触发器，以及工作区测试邮箱。需要拥有具备所需工作区权限的 QA Wolf 账户。运行器和 AI 工作可能产生费用，测试操作也可能更改被测应用。已连接的集成可能发布代码或发送消息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a303b5f71d8819194e8aaee1092dee4",
+    "name": "Qarera",
+    "sourceHash": "8c1202fcb4581b2ba608decfc31b8595986f34b5c0ab06a639c23cd39044e1ca",
+    "summary": "搜索职位并定制简历",
+    "description": "Qarera 将求职过程带入 ChatGPT。搜索 Qarera 职位数据库，寻找符合你经验的岗位；将其保存到看板式求职跟踪器中；并针对具体职位优化简历，清楚展示修改前后的变化。调出已跟踪的申请，并在不离开聊天的情况下将其推进到已申请、面试中、已获 offer 等阶段。免费使用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9b5284465c8191b6eba9a977d148a8",
+    "name": "qBraid",
+    "sourceHash": "e03632cce8b55cba3170ea4748dccd2750798bab9f205cf065683f1d05d4a99a",
+    "summary": "量子计算工作区",
+    "description": "qBraid 可帮助用户探索量子设备、验证和模拟电路、提交量子作业并检查结果。经授权后，用户还可以管理云计算资源、检查笔记本和软件环境、浏览 qBook 课程、报名课程并查看学习进度。它还支持组织成员管理和额度工作流、账单摘要及支持请求。此应用无法购买额度，也无法创建或重新部署课程。某些操作会消耗现有额度、更改访问权限或发送消息；支持内容可能会分享给支持服务提供方。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a781b13f5708191baf045c44bfbe5cb",
+    "name": "QR Tracker",
+    "sourceHash": "2b7dfff206bf8f57c7313edba6afa57ea8aa4efda2048668fa6f19b58a9bf6bd",
+    "summary": "创建和跟踪 QR 码",
+    "description": "连接 QRTracker 账户，即可直接在 ChatGPT 中访问和管理所跟踪的 QR 码。\n\n查看现有 QR 码、目标地址、扫描次数和近期扫描分析数据。创建新的跟踪 QR 码，并更新现有动态 QR 码的目标地址，无需更改其短代码或重新打印 QR 码。\n\nQRTracker 只会访问你授权账户中的 QR 码。可用功能和创建限额遵循你的 QRTracker 方案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6946f5b66ebc8191bdd23a0e71a3dd67",
+    "name": "QRCM",
+    "sourceHash": "408e8813431af22780c3aefe8c8cbc9ca12d7bfcf8dfa4591eb3d614cf54b03a",
+    "summary": "创建并自定义 QR 码",
+    "description": "直接在 ChatGPT 中生成可自定义的 QR 码。支持 7 种类型：URL、WiFi 网络、联系人（vCard）、日历事件、电子邮件、电话号码和纯文本。交互式组件提供实时预览，并支持多种样式选项，包括 6 种点阵图案、自定义颜色、角落样式、带文字标签的边框以及上传徽标。立即下载高质量 PNG 或 SVG 文件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a38d367714c8191861dfc6d970620c7",
+    "name": "QRStuff",
+    "sourceHash": "5b06e0628f08d9b105c8a146639937489c5bcc979a79282f6c0f50f3e621ee01",
+    "summary": "生成并跟踪 QR 码",
+    "description": "生成、自定义并分析动态和静态 QR 码。为 URL、vCard、Wi-Fi 网络等创建自定义样式的 QR 码，并即时跟踪扫描分析数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3c501d69288191aa3554da75b127b8",
+    "name": "QtMesh Cloud",
+    "sourceHash": "58bb6e4404a6fb8c80cac42bb176209a33cbce7e7dbb1b20a19d589a80f12d6f",
+    "summary": "3D 资源质量检查",
+    "description": "QtMesh Cloud 可帮助用户直接从 ChatGPT 检查 3D 资源质量。用户可以列出项目、查看扫描摘要、检查发现的问题和扫描报告、查看质量门设置、更新所有者范围内的质量门，并控制项目公开报告是否可见。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699f1bb1c5ac819182dfee0b2d2ed99f",
+    "name": "Qu Review",
+    "sourceHash": "f5b709958f54859c6c3dffddd638ba7bf41b7ef39305ecb81d0ec5fdac28eed5",
+    "summary": "获取第二意见",
+    "description": "在对话中即可为任意 ChatGPT 回复征求独立的第二意见。Qu Review 会召集一组独立 AI 审阅者，从多个角度批判性地检查 ChatGPT 的回答，然后将他们的发现汇总成一份清晰且可执行的报告。\n\n每份审阅都会说明哪些内容准确、哪些可能有误、遗漏了什么，以及哪些方面值得进一步探索；还会提供易读的评分卡，让你一眼看出答案有多可信。\n\n适用于任何准确性至关重要的场景：健康问题、财务决策、学业任务、专业研究，或任何听起来不太对劲的内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa5700e34c0819188953778ed6a74f9",
+    "name": "QualiTaTi",
+    "sourceHash": "223caf4c5c38aeba845a05149453ac9943d830a414005a258ec73237158ae3ed",
+    "summary": "开展 AI 访谈与问卷调查",
+    "description": "QualiTaTi 是供学术和 UX 研究人员使用的 AI 定性研究平台。此插件通过托管的 MCP 服务器将 ChatGPT 和 Codex 连接到你的 QualiTaTi 账户，让你无需离开对话即可完成端到端研究。\n\n你可以：\n- 访谈研究：围绕某个主题创建 AI 访谈项目、起草或完善访谈指南、设置语言、语音或文字模式及访谈时长，并获取可分享给参与者的链接。之后，QualiTaTi 的 AI 访谈员会与参与者进行访谈并转录内容。你也可以导入已有的文字记录。\n- 进度与结果：列出项目和访谈，查看哪些访谈已完成并分析，阅读每次访谈的对话和质量评分，以及已保存的分析结果（主题、编码、摘要）。\n- 分析：对已完成的访谈运行完整分析或归纳编码（这会消耗 QualiTaTi 额度，并且每次都会先征得你的确认），然后将结果提取到聊天中，生成有证据支持且包含原文引述的摘要。\n- 对话式问卷：根据简报构建问卷、添加问题并发布；随后可在 qualitati.com 上查看回复。\n\n随附的三项技能可教会模型 QualiTaTi 的工作流：开展访谈研究、构建问卷和阅读结果。此插件可配合免费的 QualiTaTi 账户使用。登录采用 OAuth 2.1；授权会继承你的方案和配额，访问令牌会自动过期。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa2f4b4b2b0819199dbaa94be81be12",
+    "name": "Quickads",
+    "sourceHash": "02722562ee4aa70d54cbfd013421b2acfabdf2c96022d74c783a80d47310a3f7",
+    "summary": "创建、投放并分析广告",
+    "description": "QuickAds 可帮助你研究成功的广告、发现热门创意切入点，并将洞察转化为新营销活动。创建 AI 图片和视频、发布帖子、启动广告活动、运行自动化智能体，并在一个地方分析内容、广告和广告账户的表现。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4656c688748191be4c5247fb0d5dfc",
+    "name": "Quickchat AI",
+    "sourceHash": "980a6b72cfca5dfd371ec5261823eeefdc86b91857e043a8fecf7d1685010280",
+    "summary": "构建和管理 AI 智能体",
+    "description": "Quickchat AI 可让用户无需离开 ChatGPT，即可构建、配置、部署、测试和改进自己的客户支持 AI 智能体。可以从网站或简短访谈开始设置智能体，管理其知识库以及 HTTP 和远程 MCP 操作，将其接入各个渠道，在聊天中试用，分流并解决收件箱对话，还可查看表现、评分、CSAT 和 AI 额度使用量。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ca79775c848191a5f1e538e77aedbb",
+    "name": "Quicknode",
+    "sourceHash": "f552d9f33e19fd769cdbcbf4e105a60522c198f5cb0e24314a5fd2d2026667c9",
+    "summary": "面向 OpenAI 构建者的 Quicknode",
+    "description": "直接在 OpenAI 中管理 Quicknode 基础设施。在一次对话中创建和管理端点、监控日志与用量、配置安全性和速率限制，并查看账单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1df115ed9481918e3f8d406b5fa967",
+    "name": "Quilia",
+    "sourceHash": "bf614d6842bc7da9376ee2eb70b183d26b6e21dbd33fbe9a1c6ae5f58dc933a2",
+    "summary": "AI 案件管理器",
+    "description": "Quilia 让律师事务所用户能够通过 ChatGPT 处理自己在 Quilia 中的私有案件数据。用户可查看设置状态和律所设置，管理团队成员、地点、品牌、常见问题、案件类型、受众、自动化、请求模板、案件、预约、消息、请求、文件、备注、联系人、就业记录及 Quilia 帮助内容；使用的访问权限与其在 Quilia 中相同。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a91e12001688191808d42f87031d6c3",
+    "name": "Quilty",
+    "sourceHash": "5af9bd5b0d1d4e125a237aedc0e213a1d6c0392a3916ed5b4d3176da40d96773",
+    "summary": "阅读剧本分析报告",
+    "description": "Quilty 可让 ChatGPT 读取你已经拥有的 quilty.app 剧本分析报告。\n\n你可以列出报告、打开评估报告的某个部分、调取包含置信区间和维度细分的 Quilty Score、读取剧本元数据，以及搜索上传剧本中的场景。\n\n所有工具均为只读。此插件不能上传剧本、启动分析、更改设置或消耗额度。它只能查看你登录的 Quilty 账户中的分析结果。\n\nQuilty Score 是对上传文本的诊断性评估，并非对票房或商业表现的预测。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6967a44d66348191b91c9bf4e417794e",
+    "name": "QuintoAndar",
+    "sourceHash": "f1e2562d716e0b9e4fd4d118118043030fe5f5b01ad5a9dd40ba5b0ec6448268",
+    "summary": "找到理想的家",
+    "description": "这里有成千上万套待租和待售的房屋、公寓，其中或许就有你理想的家。\n使用 QuintoAndar ChatGPT 应用，你可以通过另一种简单方式找到心仪的房屋。\n写下你的需求，例如：“我想在 Pinheiros 租一套两居室公寓，月租最高 R$5,000”，即可立即收到个性化房源推荐。选出最吸引你的房源，点击“查看房源”即可在 QuintoAndar 平台上查看所有详情、预约看房，并找到最适合你的住所。\n如果你是房主，操作也同样快捷简单：访问 QuintoAndar 应用即可轻松发布房源，让成千上万名感兴趣的人看到。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b479dd28188191b60241d6a4a534f2",
+    "name": "QuizFlight",
+    "sourceHash": "557661d30e8fb4d44021946d9134855258b25327752cf32486ff913a7ad8c7c8",
+    "summary": "创建并开展实时测验",
+    "description": "QuizFlight 可将文本、文档或演示文稿转化为实时测验。你可以生成题目、审阅题目并启动实时活动。\n\n参与者使用设备通过链接或 PIN 加入，并在主持人进行测验时实时答题。\n\n此应用专注于创建和开展实时测验活动。活动期间会显示结果和分数。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694336f3c5088191bcdfe35bb532ad83",
+    "name": "Quizlet",
+    "sourceHash": "b97feaec7e374104a7c5a9167f6f309bbada3d542f3d0ecd193741a4e80a8e7f",
+    "summary": "创建抽认卡",
+    "description": "使用 ChatGPT 中的 Quizlet 应用，你可以根据任何提示或文件即时创建抽认卡。只需提出任何主题的抽认卡需求、上传笔记或描述你的需要，我们就会为你处理格式和生成。无需再复制、粘贴或切换标签页。在一个地方即可创建、自定义并学习。无论你是在准备考试，还是课间想创建一组卡片，ChatGPT 中的 Quizlet 都能帮你省去繁琐工作，专注学习。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fcae9e0fdc8191b7a161a2a3cfab1c",
+    "name": "QuizStage",
+    "sourceHash": "6d76d979a955a054c55966392f2b9ae403c3bd0f18b710adcf4d1e3092ec397c",
+    "summary": "编辑问答节目",
+    "description": "QuizStage 可帮助用户通过 ChatGPT 创建和维护问答节目。此应用可以列出用户自己的节目、检查节目结构、创建节目、编辑基本信息、管理类别，并创建、更新、重新排序或删除普通题目卡片。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8c9803ab64819190eacdbf152b3e02",
+    "name": "Qulture",
+    "sourceHash": "c60aee3d5444b7bc8d1d69c775be2ce24d98bd84bc29a585e5d505bd64788c6f",
+    "summary": "玩常识问答",
+    "description": "通过 Qulture 挑战你的常识。选择一个类别或随机混合类别，在沉浸式视觉体验中回答每个问题，然后查看答案解析和令人印象深刻的事实，最后查看总分。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6961340b9ef08191b3b6bc3930b80e09",
+    "name": "Quoted",
+    "sourceHash": "9e34cc2b244f3d03e7df056796d60159f6fd23c8c02624f2714bbb0ff0944ed9",
+    "summary": "查看任意名言",
+    "description": "Quoted 会以精美格式展示各种名言，方便你复制或保存。\n\n只需这样提问：“@Quoted Ben Franklin”，或“甘地对印度说过什么？@Quoted”，名言便会出现在聊天中，供你复制或保存。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69aca72176f4819197186bc55da38fe0",
+    "name": "quran.ai",
+    "sourceHash": "76b28a04e128946a5d96f5b94b4e192a932b533d54f7ae91295fdc4cc7c82d58",
+    "summary": "扎实深入地研习《古兰经》",
+    "description": "将 ChatGPT 变成 AI 驱动的《古兰经》研习伙伴——追溯全部 114 篇苏拉的主题，对比古典与现代学者对同一经文的解读，深入探究《古兰经》修辞表达的深度与精确性，并通过真实可靠的塔夫西尔注释理解复杂经文。所有数据均来自 quran.com，因此 AI 引用的每节经文、学者观点、解读和语言细节都经过核实，而非依据训练数据猜测。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d4ed7b2b1c8191a0ba97ee80d3b4db",
+    "name": "Radar Lite",
+    "sourceHash": "dc55254b1dc1936359df1aa6be5517108286deef7e1172a0964c45daef3491e0",
+    "summary": "借助 Red Sift 保障域名安全",
+    "description": "分析任意域名的电子邮件身份验证、DNS 和 Web 安全配置。Radar Lite 会扫描你的域名，在雷达图中直观呈现安全评分，并生成按优先级排列的发现和修复指导摘要。\n\n可尝试这样的提示：\n\n- Radar Lite 评估 example.com 的 DNS 安全性\n- Radar Lite 比较 domain1.com 和 domain2.com 的 DMARC 配置\n- Radar Lite 评估 domain1.com、domain2.com 和 domain3.com 的整体安全状况\n\n你可以提出后续问题，以澄清术语并深入了解已执行的测试。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_697aeaf3d1a881919418b9155c06e336",
+    "name": "Radio FM",
+    "sourceHash": "eff8932a28bd903a69dda74e768aaaf6e823f33341bd32088ee8ce0cd277058d",
+    "summary": "收听电台直播与播客",
+    "description": "Radio FM – 网络电台与播客\n\nRadio FM 是一款移动应用，可收听来自世界各地的网络电台和播客。它提供丰富的音频内容，包括音乐、新闻、脱口秀和娱乐节目。\n\n你可以浏览并收听来自不同国家的电台，还可以探索涵盖多个类别和语言的播客。\n\n可用内容\n\n来自不同国家和地区的电台\n涵盖新闻、音乐、脱口秀和娱乐等类别的播客\n涵盖古典、摇滚、流行、嘻哈、器乐等多种流派\n\n主要功能\n\n按国家/地区浏览电台\n搜索特定电台或播客\n将电台和播客保存到收藏列表\n查看最近播放的电台\n通过睡眠定时器自动停止播放\n通过闹钟功能在预定时间开始播放\n按类别访问播客\n界面简单易用\n通过通知控制播放\n设置应用打开时自动开始播放\n\n设备支持\nRadio FM 兼容 Android Auto、Google Chromecast、Android TV 和可穿戴设备。\n\n电台访问\n此应用收录了全球广播公司提供的数千个电台。之后可能会加入新电台。如果找不到某个电台，用户可以通过应用提出建议。\n\n支持与反馈\n如需帮助或有任何疑问，请访问：http://appradiofm.com/faq-list/\n\n联系邮箱：support@appRadioFM.com",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3c5ffc48548191a27313057aae1de6",
+    "name": "RaidRunner",
+    "sourceHash": "f9dbdd3c31c61ab85c2c19d72f521ae83593a98376193975df0306566210954c",
+    "summary": "管理 RaidRunner 接力活动时段",
+    "description": "RaidRunner 可帮助 Twitch 主播组织和参与 raid train（连续接力直播活动）。通过 ChatGPT，你可以查看自己参与或组织的活动、即将开始的已认领时段和完整活动阵容；发现并加入公开活动；认领、释放或候补时段，并管理时段交换请求。所有内容都仅限于你本人已连接的 RaidRunner 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cba500bd708191b4505f2b7365e056",
+    "name": "Rail Monsters - Train Tickets",
+    "sourceHash": "f6cf017dd4dc1e66d885714ed9836b687d00b3404bfc6707a2e8863dece1c7e8",
+    "summary": "预订全球火车票",
+    "description": "购买全球数千条线路的火车票。Rail Monsters 提供一站式预订体验、官方火车票、透明定价和即时出票服务。无论是日常通勤还是探索新大陆，都能找到优质路线，并获得 24/7 人工支持，确保旅程顺利。简单、安全、覆盖全球。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a787d1cef0c819190625488ef4eb5a6",
+    "name": "RainVis Hourly Weather Charts",
+    "sourceHash": "fab4e32d1e98b1dcf6e48ee04b7326e6886494dd7a3d4bf4d46cc78447bfb43f",
+    "summary": "RainVis 每小时天气图表",
+    "description": "RainVis 将逐小时天气数据转化为交互式七天预报图表。它会显示降雨概率以及每小时的预报累积降水量，帮助人们区分小概率降雨与预计会出现的可测量降雨，并了解预报意味着毛毛雨、持续降雨、大雨还是倾盆大雨。用户可以查看未来七天中的任意一天，逐小时拖动浏览，并使用温度、风、云量、气压、湿度、露点和空气质量自定义图表。",
+    "model": "codex-subagent-reviewed"
+  }
+]

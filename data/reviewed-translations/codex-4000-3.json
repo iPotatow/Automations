@@ -1,0 +1,626 @@
+[
+  {
+    "id": "plugin_asdk_app_6a2145dc4a0c8191b680935f4edc2efb",
+    "name": "TopCounsel",
+    "sourceHash": "ca69fbf5c9b08c12ec75dd3c05e9e02a53b39ffdf2efb27c56528dc9e63f3b32",
+    "summary": "寻找外部法律顾问",
+    "description": "TopCounsel 借助 The L Suite 内部法律顾问社群中匿名化的同行反馈，帮助用户寻找、比较并尽职调查律师事务所和个人律师。它支持按执业领域、地区、行业、事项类型及具名律所声誉发现外部法律顾问，同时保护成员匿名性。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8c946ae1bc819196a64d8fc9810c6d",
+    "name": "TopicLift Editorial Copilot",
+    "sourceHash": "d07cb999eb58584827330b113e0610c1634cbc7993c6781a8e192d87508b8a26",
+    "summary": "编辑流量洞察",
+    "description": "TopicLift Editorial Copilot 为出版商提供只读的对话界面，用于访问其 TopicLift 工作区。你可以询问实时及历史流量、热门和流量下滑的文章、Google Search、Google Discover、Google News、汇总搜索查询以及有证据支持的编辑机会。建议包括编辑主题、支持指标、可信度以及拟议标题或切入角度。该集成仅限于已通过身份验证的 TopicLift 工作区，不能编辑文章、WordPress、设置或报告。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aba4b2d6a348191b427b42a4e09dc77",
+    "name": "TÕPS",
+    "sourceHash": "bb4d212374693e26024183ae1d1db8d8d0398f78d319dbe1d2e5ed70c3b6a834",
+    "summary": "爱沙尼亚语备课工具",
+    "description": "TÕPS 是 Tehisarud.ee 提供的爱沙尼亚语教师工具包，适用于教案、小组活动、趣味练习和简短课堂开场。提供年级、科目和主题，然后选择所需材料。4 个只读 MCP 工具提供教学流程指南；ChatGPT 会在对话中依据这些指南编写材料。教师应在课堂使用前审阅并调整结果。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a321b839b4081918f95971db3dc06ec",
+    "name": "Total Parks",
+    "sourceHash": "92c0650a825c64958f0860378b00721c65e1aee06fb3ab69869cb25411442cd7",
+    "summary": "寻找并预订假日公园",
+    "description": "正在规划澳大利亚的房车、露营或小木屋之旅吗？\n\nTotal Parks 可即时连接到前台工作人员使用的同一套系统。\n\nTotal Parks 可按目的地、设施、客房或营位详情、旅行偏好、日期、宾客、宠物及车辆装备信息，帮助你查找假日公园、房车公园和露营地，并在预订前核实实际信息。\n\n你可以询问某地附近的公园、某段行程日期内看起来有空位的选项、有电或带独立卫浴的营位、无障碍或带水疗设施的小屋、公园是否欢迎狗、你的房车或露营车能否停入营位，或小屋具体包含哪些设施。答复依据 Total Parks 当前的房源、设施能力、政策和规划可用性核查，而非猜测。\n\n每条答复都会链接至 totalparks.com.au；当某处住宿看起来合适时，你会获得预订链接，其中已填写日期、宾客以及宠物或车辆信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a60a89a6bec81918b6155f03f66681a",
+    "name": "Tough Tongue AI",
+    "sourceHash": "c442575d74417419076774f57b12bf9caf5aae99070e6d0eefaa1d6f164d45f3",
+    "summary": "运行对话工作流程",
+    "description": "Tough Tongue AI 帮助团队通过 ChatGPT 管理对话练习场景、创建和分析会话、查看表现，并运行会议机器人及外呼工作流程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694916659c2c819190dd02fb6f388ff1",
+    "name": "Tourlane",
+    "sourceHash": "187ad89733a8a15a4000bc09298ecf56785ac3046f29a00eefc3cf46e978d291",
+    "summary": "规划多日旅行",
+    "description": "Tourlane 的 ChatGPT 体验让你通过简单对话探索量身定制的旅行创意和行程。一段对话即可获得精选旅行建议、亮点、价格以及了解详情的链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_697a07e2c2b8819196dc75fb56fd02e6",
+    "name": "TourRadar",
+    "sourceHash": "9af361a5529cf03af6c2df24916bfbd204ea3dc79e785e13eda581976478ed76",
+    "summary": "查找多日旅行团和套餐",
+    "description": "TourRadar 汇集全球规模最大的多日有组织旅行团、河轮、野生动物探险和其他冒险行程，连接 2,500 多家多日旅行运营商，提供 160 多个国家/地区的 50,000 多个旅行团和探险项目。我们致力于提供流畅、易用的体验。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d529e949a081919959e2d6a1f34abe",
+    "name": "ToursByLocals",
+    "sourceHash": "69de8e886af6087935e0189b73e11e1ede200ccf6fb35d87929c7da26238642a",
+    "summary": "预订当地导游的旅行团",
+    "description": "ToursByLocals 是连接用户与全球众多目的地当地导游的优质平台。用户可按城市或国家搜索私人导览行程，并进一步按团队人数或是否适合家庭等条件筛选。浏览导游资料后，用户可以为旅行找到合适人选；找到合适导游后，可核实其在旅行日期是否有空，并直接通过其个人资料页面预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6571881dd881918fdacf3353134f07",
+    "name": "Townline",
+    "sourceHash": "11fbe47afbee787ae932d1331dc11069218286ba952f6bb1ac2085e537835e4d",
+    "summary": "查找本地建筑项目招标",
+    "description": "Townline 持续追踪公共建筑项目机会，让承包商无需自行搜寻：涵盖纽约州、康涅狄格州和新泽西州公开的政府招标、RFP（征求建议书）、招标邀约，以及最新的建筑许可证申请，包括 Westchester、Fairfield、Hartford、New Haven、Nassau、Bergen 等地区。可按工种（水管、电气、屋顶、HVAC、总承包、太阳能）、县、市镇、状态和截止日期搜索。每条结果都链接到 townline.app 上的完整记录；使用 Pro 后，可在 Townline 应用中查看业主和申请人的联系方式。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9983c4649c8191a4797cc7328ec4dc",
+    "name": "TownSpot Events",
+    "sourceHash": "d5d050c23ce0bc587c750f0edc8c1bdf48d868c6c62f24d965f513101ebcca7c",
+    "summary": "查找附近的本地活动",
+    "description": "通过当地居民发布的真正本地活动信息，发现所在城市或社区正在举行的活动。查找今晚、明天或本周末的实用选项，包括免费活动、现场音乐和家庭活动。结果包含当地时间、场地、社区、价格、公开的发现者署名，以及指向 TownSpot 当前页面的链接。TownSpot Events 为只读工具，不能创建、编辑、预订或购买活动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a561b226d8c8191a8deba8442076a77",
+    "name": "Trabber",
+    "sourceHash": "ec9fc659fdb9cb8d5309945e9d8041d75a04b2861bc3762b6491471b3583462c",
+    "summary": "查找航班、酒店和租车",
+    "description": "Trabber 是旅游元搜索引擎。搜索航班、住宿或租车，即可并排查看销售该产品的航空公司、旅行社、酒店和租车网站提供的当前价格，并获得直接前往所选销售商网站预订的链接。\n\n这样做的好处：同一趟旅行在不同网站购买，价格可能相差很大；最便宜的销售商也会因航线或住宿而异。手动比较需要打开十几个浏览器标签页，在这里问一次就够了。\n\n可搜索的内容：\n\n- 单程、往返或多城市航班。\n\n- 各类住宿：酒店、公寓式住宿、公寓酒店、青年旅舍、家庭旅馆、别墅、露营地。\n\n- 租车。\n\n- 航班优惠，适合尚未确定目的地或日期时使用。\n\n还可通过追加条件缩小范围，例如只要直飞航班、早班出发、含早餐且可免费取消，或自动挡且不限里程。连接 Trabber 账户后，还可继续查看最近的搜索。\n\nTrabber 不销售旅行产品。你需按照销售商的条款，在其网站上预订、付款并获取支持。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5247f0cf6c8191849dd2e3fe0f5e2b",
+    "name": "TrackTogether",
+    "sourceHash": "6db850c683490ea795c5eb68384c16fafffd78837fdfc004e2ca4a2399fbbea9",
+    "summary": "共同追踪目标",
+    "description": "TrackTogether 帮助用户通过 ChatGPT 创建追踪器、管理清单任务、与朋友协作并跟进进度。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e1dfe13f3c8191aedf1ddb8d60f186",
+    "name": "Trackunit IrisX",
+    "sourceHash": "f195346ab99b357fe815785c8433365f52f619804f82abe1f1eb3b685a249efc",
+    "summary": "将车队数据转化为行动",
+    "description": "查询你的 Trackunit 车队，识别故障和闲置资产，创建提醒和访问密钥，更新资产数据，并自动生成定期报告。需要有效的 Trackunit IrisX 订阅。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a22d678e12481918c0813ef7387d279",
+    "name": "Trademark Dashboard",
+    "sourceHash": "ff62b931cc0a1140254ae1e3a411520987e9658373482fbf40d705cac6f03173",
+    "summary": "英国和美国商标检索",
+    "description": "按品牌名称搜索英国和美国商标记录，默认同时查询两个注册簿。可添加拼写或名称变体，并按状态和尼斯分类筛选，查看登记的所有者、商品和服务。使用有时效的链接，可在网站上继续免费进行相同检索；也可在 ChatGPT 中讨论结果。记录来自定期更新的数据集；搜索结果不构成商标法律确权或注册许可意见。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69de2da6d11c81918b8d2dd6bfe64d98",
+    "name": "Trademark Engine",
+    "sourceHash": "16d23069e8cd9c750df0b801de6ce19a66a08572bbc567d32d6490e64001c551",
+    "summary": "注册 USPTO 商标",
+    "description": "向美国专利商标局（USPTO）注册商标。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7363eccc0081918443d90fde67b93c",
+    "name": "Traffik Yacht Radar",
+    "sourceHash": "637534785429d7153f2725a96855c87c6245b083fd10032366a88c1c2afd6923",
+    "summary": "测量超级游艇活动",
+    "description": "Traffik 根据实时公开的安全广播，测量全球超级游艇和私人航空器的活动。你可以查询每周 Traffik 指数（100 = 普通水上活动周）、任一受追踪游艇港口的实测动态（包括 Monaco、Newport、Miami、Porto Cervo、Hamptons 等 150 多个地点）、飞往商务机场的私人飞机和直升机活动，或 Monaco Grand Prix 等大型活动中的超级游艇到场情况。每个数字都表示下限而非估算值：只统计位于指定地理围栏内且正在广播的船只，每条答复都会说明统计方法和日期。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3e7083a03481919ca6d1236ecb45db",
+    "name": "TRAIL Hike Planner & Camping",
+    "sourceHash": "e6665f27f92f9231e1ac7e46010fb34bf90a4748d450583c1fb6ebff259e3de4",
+    "summary": "生成完整自驾游行程",
+    "description": "101 TRAIL! 从头到尾规划徒步和露营之旅。获取完整的逐日行程，包含步道、露营地、营位、驾车路线和附近城镇，并根据你的体能水平、难度偏好和想看的风景进行匹配。101 TRAIL! 会涵盖完整计划：地图、步道起点、许可证、装备清单、食物和饮水补给点、最佳季节以及天气不佳时的备选方案。适用于轻松的一日徒步、多日背包徒步和国家公园探险。只需描述行程，就能获得随时可用的户外计划——不止有步道，还包括如何抵达、在哪里住宿、带什么装备，以及天气转坏时该怎么做。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e9c67943c08191a37c464b803ebdbe",
+    "name": "TrailVerse",
+    "sourceHash": "f185ee2303dcc789f1e36524f2323a27d657624fa8364e1793f5d30aae118b0b",
+    "summary": "探索美国国家公园",
+    "description": "TrailVerse 将国家公园探索带入 ChatGPT。\n\n提供美国 470 多个国家公园、纪念地和历史遗址的实时数据，并支持按天规划行程。告诉 Trailie 你是初学者、带孩子在 7 月游览 Zion，它便可结合实时 NPS 警报和天气，制定符合步行节奏的行程；按需考虑徒步限制和适合家庭的节奏。出行前请务必在 NPS.gov 确认涉及安全的重要信息。\n\n五项专门功能：\n\n• 规划旅行 — 制定考虑限制条件的逐日行程（日期、徒步难度/距离、节奏）。可在同一聊天中修改计划。最适合 NPS 公园，也适用于更广泛的美国旅行构想。\n\n• 公园详情 — 查看 NPS 地点的实时天气、警报、入园费用和热门活动。\n\n• 比较公园 — 并列比较 2–4 个 NPS 公园，并清楚展示亮点。\n\n• 搜索公园 — 按州、活动或名称，从完整目录中查找 NPS 地点。\n\n• 查找活动 — 查看即将举行的护林员项目、导览团和公园主办活动。\n\n只读工具使用 National Park Service API 和实时天气信息。露营地和许可证库存不保证实时，请在预订前通过 Recreation.gov 或 NPS 核实。在 ChatGPT 中可免费使用。若要保存旅行、导出 PDF 并查看完整 Trailie 历史记录，请访问 nationalparksexplorerusa.com/plan-ai。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69528c304ff08191865579052e70b158",
+    "name": "trainedby.ai",
+    "sourceHash": "be02841f4927bf11bbc49b2544a3d3f42cdc986003f348c1b35070f28d6d3502",
+    "summary": "AI 健身指导",
+    "description": "trainedby.ai 将你的可穿戴设备连接到 ChatGPT，让 AI 教练无需你输入任何内容，就能了解真实训练负荷、睡眠模式和恢复情况。\n\n**当今 AI 健身指导的问题**\n\n人们开始用 ChatGPT 规划马拉松训练、力量训练计划或 HYROX 备赛。这很合理，因为 AI 24/7 全天候可用、非常有耐心，也相当懂行。\n\n但不知为何，效果总是不太理想。\n\n这是因为你必须把所有事情都告诉它。每一次。每一件事。\n\n每段对话都从零开始。你必须详细描述当前水平、近期训练、日程和目标。你把 Garmin 截图粘贴进来，努力回忆上周训练内容、睡眠情况、静息心率是否偏高，或 HRV 是否连续数周走低。\n\n建议依据的是你告诉它的内容，而非实际发生的情况。\n\n而你提供的信息并不完整、带有主观性，而且往往不准确。\n\n如果 AI 教练能了解一切，会怎样？\n\n我们将你的可穿戴设备（Garmin、Oura、Whoop、Apple Health 及其他 50 多个平台）直接连接到 AI 助手。\n\n当你打开 ChatGPT 询问训练情况时，它已经掌握：\n- 过去几周、几个月和一年的训练记录\n- 睡眠质量和模式\n- 心率变异性及静息心率趋势\n- 每日活动和恢复指标\n- 营养和月经周期数据（如果你有追踪）\n\n无需再倾倒一大堆背景信息，也不用再主观地自我报告。\n\n**工作原理**\n\n我们利用智能压缩，将数周的可穿戴设备数据转化为 AI 能够理解和分析的内容。我们不会把原始心率读数一股脑塞进聊天窗口，而是提取重要趋势和模式——静息心率升高、HRV 下降、训练负荷增加、睡眠规律性变差。\n\n数据会从天汇总到周、月、年，让你发现趋势。\n\n它集成在 ChatGPT 中，因此你只需开始聊天。\n\n除可穿戴设备数据外，你还可以添加训练目标、反馈以及可用时间、伤病等个人信息。这样，AI 就能获得提供最佳建议所需的主观背景。\n\n**适用人群**\n\n如果你已经在佩戴手表或戒指，并使用 AI 辅助规划马拉松、力量训练计划或一般健身训练，trainedby.ai 会显著改善这种体验。\n\n**开始使用**\n\n产品可免费使用。\n\n连接可穿戴设备，将集成添加到 AI 助手，然后开始聊天。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a356725f034819186580eaee90be08d",
+    "name": "Trainerrr",
+    "sourceHash": "0365fb7f35a611f18f2e8ef980e6d8dbc2b4a455266b4f8b7cf8649d3b067796",
+    "summary": "追踪健身训练",
+    "description": "Trainerrr 帮助已登录用户通过 ChatGPT 管理训练计划、可重复使用的训练课程、已完成的训练记录、训练日志、每周进度检查、营养记录、食物查询和个人健身目标。它会处理用户选择发送的训练、营养、目标、日志、进度检查及图像参考详情，以便完成用户在 Trainerrr 账户中请求的操作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b16ad2c988819182d82a4649ed0449",
+    "name": "Trainline",
+    "sourceHash": "2997b922d38ea49c4f4b0f5dac013c4cb5c12c0a83354ec0195dbd187af6d7b2",
+    "summary": "查询火车及票价",
+    "description": "正在规划旅行吗？连接 Trainline，查询英国和欧洲各地的火车。\n试着问：“Trainline，这周六从 London 到 Manchester 的早班火车多少钱？”\n\n我们会以清晰的时刻表显示出发班次和价格，方便你选择符合日程和预算的车次。准备预订时，点击“在 Trainline 查看更多”。\n\n祝你旅途平安愉快！",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69df22c3b5b08191b87848122952f2f3",
+    "name": "TrainPal",
+    "sourceHash": "c9d5c9e618250d63ff2558525d2fd48e39e3d31d3f0bf4499cda27d550388419",
+    "summary": "搜索火车票",
+    "description": "在 ChatGPT 中搜索英国和其他欧洲国家的火车线路。查看可选行程及其出发和到达时间、时长、中转信息，以及有提供时的票价；随后前往 TrainPal 了解详情并继续后续操作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a897dddc53c8191800a297b2d2ff4e3",
+    "name": "Trakkr",
+    "sourceHash": "ba371c8d355a618117237d42c468c0585b1e1b8a95bc800e83cf07f95f8881a8",
+    "summary": "追踪 AI 搜索可见度",
+    "description": "衡量你的品牌在 ChatGPT、Perplexity、Gemini、Claude 及其他 AI 搜索体验中的呈现情况。使用你现有的 Trakkr 账户，查看可见度趋势、模型表现、引用缺口、竞争对手、研究信息和按优先级排列的行动建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a60dd4adc348191bf55396d33826e88",
+    "name": "Tralendr",
+    "sourceHash": "6bdec48d386377fb5acc361f3b9c0255f06e344927548abb80f54c07c8ec7736",
+    "summary": "保存并分享旅行计划",
+    "description": "AI 擅长规划旅行，却不擅长让行程保持实用。Tralendr 是 AI 旅行计划的管理空间。让 ChatGPT 规划旅行，然后保存到免费的 Tralendr 账户中，生成可视化的逐日行程：每个地点都显示在地图上，可通过一个链接分享，旅行时也能在手机上查看。随处规划，集中保存在 Tralendr。永久免费。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69432d738bec8191846a18591433d1a3",
+    "name": "Tranmere-Web",
+    "sourceHash": "39cb06164751ca33576388a25033682a7baee3713f66a41f49c074095d2e3341",
+    "summary": "探索 Rovers 队史",
+    "description": "Tranmere-Web 帮助球迷了解 Tranmere Rovers 球员资料、比赛、赛果、执教经历、效力俱乐部和转会信息，并允许获授权的贡献者添加经过核实的球员和转会记录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a92e6e7ec10819189c404c0721c3207",
+    "name": "Transcriptor",
+    "sourceHash": "bdb15bea7206697c0a0db95ed8fcb91612c01f2119354b564ca315fd93ad6591",
+    "summary": "查看视频转录文本和元数据",
+    "description": "Transcriptor 让 ChatGPT 像处理文本一样处理视频。粘贴 YouTube、Twitter/X、Instagram、TikTok、Twitch、Vimeo、Facebook、Bilibili、VK、Dailymotion 或 Reddit 链接，然后要求生成摘要、带时间戳的引述、章节列表、发布者和观看次数，或指定时间码的静帧。8 个只读工具覆盖整个流程：支持长视频游标分页的清理后纯文本转录、原始 SRT/VTT 字幕、可用字幕语言列表、扩展元数据、章节标记、任意时间码的单帧、所选播放列表项目的批量转录，以及 YouTube 搜索。其中 4 个工具会在聊天中生成交互式组件：搜索轮播、可搜索的定时转录文本、元数据卡片和画面查看器。该服务仅获取公开字幕、元数据、缩略图和单张静帧；绝不返回或重新分发视频或音频文件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7b949a34ac81919433664123cab2f4",
+    "name": "Transferhood",
+    "sourceHash": "2ac4d6d9359908e7d9708c77c5e527231d215cd8aad220db539af71887f3451b",
+    "summary": "私人机场接送",
+    "description": "使用 Transferhood 预订全球可靠的私人机场接送服务。查找并管理机场交通，查看接送详情，享受从预订到抵达的顺畅出行体验。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_695bd6eb834881918b4f94586de7e913",
+    "name": "Transkriptor",
+    "sourceHash": "eed35ab4d8340bf953403b1cf1930ad4fa44b8a40b751cec305870ad14b6525a",
+    "summary": "将音频转录为文本",
+    "description": "Transkriptor 将你的转录资料库带入 ChatGPT。\n\n在聊天中即可处理 Transkriptor 账户中已有的转录文本和录音——列出文件、阅读全文、获取 AI 生成的摘要、下载 PDF，并查看账户详情。\n\n主要功能：\n\n- 浏览转录文件：按文件名关键词、日期范围或时长列出并筛选转录内容。\n- 阅读完整转录：获取完整转录内容，包括说话人标签和时间戳。\n- AI 摘要：为会议、访谈、讲座、播客和其他录音生成简洁、有条理的摘要。\n- 导出 PDF：为任意转录文本生成可下载的 PDF。\n- 账户概览：查看剩余转录分钟数、订阅方案和语言偏好。\n\n如需创建新的转录，请在网页端 (transkriptor.com)、iOS 或 Android 上使用 Transkriptor。转录内容保存到账户后，此连接器便可让你通过 ChatGPT 轻松查找、阅读、总结和分享。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b0551eb940819199ea76d4d4c06ad9",
+    "name": "Trash Panda - Food Scanner",
+    "sourceHash": "ea9957f356a57cbf3fd4a6c1a810408f48622be5cf2b0b0c2c3456a6436da965",
+    "summary": "了解食品成分",
+    "description": "Trash Panda 帮助你更轻松地选择符合健康目标的食品。按名称或条形码查询杂货商品，了解其真实成分。它会用通俗易懂的语言解释添加剂、隐藏糖分和超加工成分。\n\n了解成分如何评级，以及哪些成分被归为可能有害、存在争议、生物工程来源或添加糖。了解每种成分是什么、为何使用以及可能产生的健康影响。无论你是在比较产品，还是寻找更好的替代品，Trash Panda 都能帮助你消除困惑，做出更有把握的选择。\n\n简单、快速，专为日常购物决策而设计。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a78ba71aebc8191b32c1120db0b16d4",
+    "name": "Traspion",
+    "sourceHash": "09237333eb5b8b88701bfddbebea6ecdb16ac7e133d48270f2cc9dd3e05e0355",
+    "summary": "转录媒体文件",
+    "description": "Traspion 将音频和视频转录流程直接带入 ChatGPT。连接 Traspion 账户后，你可以查找最近文件、阅读已完成的转录和翻译、上传媒体以进行转录、重命名文件、导出内容，并保存已批准的转录修改，全程通过自然对话完成。\n\n你还可以查看账户用量，以及自定义词汇和拼写替换。Traspion 仅访问与你已连接账户关联的文件；删除和更改账单等不支持的操作仍需在 Traspion 网站上进行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a61c7e71c948191bab9d249d1116458",
+    "name": "TravCozy",
+    "sourceHash": "30b880a94637365510178843786aeed471aef8207987b32255b4d5b92a7129b9",
+    "summary": "集中管理所有行程",
+    "description": "TravCozy 将旅行的各个环节集中在一起。向 ChatGPT 询问行程时，它会依据你的真实预订信息作答——包括从任意预订网站导入的航班、酒店、火车、租车和接送服务，并将它们整理成逐日行程。\n\n它还会在出发前找出遗漏：没有住宿的夜晚，以及抵达后没有后续交通安排的情况。你可以直接在对话中添加预订：描述预订内容、上传确认文件，或将预订邮件转发至 TravCozy 收件箱；系统会自动把它们归入正确的行程。\n\n需要 TravCozy 账户 (travcozy.com)。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699f4c39cd908191bf68865e0aa1aa4a",
+    "name": "Travel 101: Trip Itineraries",
+    "sourceHash": "2819fb1c99ae37abf464df59d8502a31bd9f4aeac475c39671953f949f7c09d9",
+    "summary": "规划多日旅行",
+    "description": "Travel 101 根据你的偏好制定完整行程，帮助你规划旅行。获取包含航班、住宿、活动、预算、地图等内容的逐日计划。在 Scratchpad 中保存和编辑行程，并与旅伴分享。无需填写表单或套用僵化模板，只要描述你想要的旅行风格，就能获得可直接使用的计划。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a5fc3e54f88191ab164622ae663861",
+    "name": "Travelenie",
+    "sourceHash": "2bdecee787357252be033390d19ed36a5e28360779bb44cd70e87c3ffaea1a69",
+    "summary": "获取旅行安排帮助",
+    "description": "Travelenie 是你的个人 AI 旅行助手，旨在处理每次旅行中的复杂细节，让你专注于享受旅程。从开始规划到撰写最后一张照片的说明文字，Travelenie 都会协助安排整个旅行流程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3a01fa73688191bf6a30e2c810f20e",
+    "name": "Traveloka",
+    "sourceHash": "1a5e793672d5a7fba23df5c46e14415f9beb6ff74d349d62531f9b5773f1bfe2",
+    "summary": "在 Traveloka 查找航班",
+    "description": "直接在 ChatGPT 中搜索 Traveloka 航班。告诉它你想在何时飞往何处——单程或往返、1 位或多位旅客——即可获取东南亚及全球目的地的可用航线、时刻表和价格。对结果排序和筛选，快速找到最适合你的航班。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d722ba3768819192200e6fe57a0eef",
+    "name": "TravelSearch.io",
+    "sourceHash": "ae1a80b5bde93082764240ef60f919b01bf3f626cc7ee92f95b02f43a187c3ef",
+    "summary": "查找优质假日旅行",
+    "description": "Travelsearch 是一款结构化旅行搜索与发现工具，可根据自然语言查询返回高度相关的度假选项。\n\n它利用丰富的多源产品数据，让 AI 智能体将用户意图（例如目的地、预算、日期、设施和旅行风格）与真实、可预订的旅行产品相匹配。\n\n用户可以用日常语言描述行程，例如：\n\n“London 有水疗和停车位的豪华酒店”\n“Spain 低于 £2,000 的适合家庭的海滨度假村”\n“含直飞航班的 Caribbean 全包式蜜月旅行”\n系统会将用户意图映射到丰富的旅行属性和实时库存（价格、可订状态、地点、设施、评分和图片），生成结构化结果，其中包括：\n住宿/度假产品名称、\n描述、\n匹配的设施、\n明确说明各选项为何符合查询的理由，以及\n来自可信旅行服务商的直接预订链接。\nAI 智能体的主要能力：\n将自然语言查询映射为数据集中的结构化旅行属性（目的地、时长、餐食方案、设施、价格范围、旅行者类型）\n汇总多个品牌和供应商提供的酒店、套餐及度假村库存\n返回按意图匹配程度排序的结果\n提供可用于商业行动的结果（预订深层链接）\n\n数据质量和覆盖范围：\n多品牌、多供应商的产品数据源（不使用抓取内容）\n根据供应商数据定期更新价格、可订状态等信息\n对属性进行标准化和丰富处理，确保匹配一致\n\n无需填写表单或使用筛选器，专为对话式搜索和 AI 旅行规划优化。\n\n适用场景：\n用户正在搜索假期、酒店或旅行建议时\n查询包含偏好条件（预算、设施、旅行风格、同行人员类型）时\n需要带链接的可预订选项时\n结果需要按个性化条件定制，或按通用搜索之外的条件筛选时",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cd1e0c101481918f5dc2e5607b3493",
+    "name": "TravelSwitch",
+    "sourceHash": "e62b7789be9d97fbd630d3555fedf53f1a086dad73e7613dbebe0c7ed7b1b5e1",
+    "summary": "航班、酒店和旅行套餐",
+    "description": "TravelSwitch 帮助用户在 ChatGPT 中通过自然语言搜索和比较航班、酒店及度假套餐。用户可以查找旅行选项、比较价格、浏览行程、查看酒店详情，并在准备好时前往 TravelSwitch 继续预订。该插件会获取实时旅行可订信息和价格，但不会代为预订或修改现有预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69835ac4865c8191bd0801e59efea5f8",
+    "name": "TravExp",
+    "sourceHash": "4e7d1514a20b374703e9855ada4ae201f1dbed427c4fad1c79c9f6ae08df0d5c",
+    "summary": "创建旅行行程",
+    "description": "TravExp 可将规划符合你偏好的旅行所需时间最多缩短 90%，让你把更多时间用于享受旅程，减少为细节操心。\n\n这款应用直接融入 ChatGPT 对话流程，提升旅行规划体验。你可以立即将 ChatGPT 生成的行程转换为内容丰富、可视化、可编辑且支持协作的旅行计划。也可以直接在聊天中创建全新的个性化行程。TravExp 会生成精美的可视化行程，包含目的地、评价、季节性信息、必做活动等重要详情。\n\n你还可以直接在 TravExp 中打开行程，轻松建立规划工作区，并使用导航、本地攻略、专属优惠、行李必备清单和 AI 旅行协助等配套功能。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69df44f6514c81918347a9fe6e8567ab",
+    "name": "Travomint",
+    "sourceHash": "5d7556de48201449d0d52d3730ef48f3b1238b5d22b5aeceb696520a55d81a96",
+    "summary": "低价机票",
+    "description": "使用 Travomint 预订低价机票，享受轻松便捷的预订体验、专属促销代码和经核实的评价，并找到最优惠的航班。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4cf1bf7b388191bab5eccca0fe3412",
+    "name": "Travon",
+    "sourceHash": "cbd30c691d7c25bf061ca64c0e9fe497e63b2513e0475692cd6adf1e10ed6ea4",
+    "summary": "AI 旅行规划助手",
+    "description": "Travon 帮助旅行者直接在 ChatGPT 中查看并了解旅行计划。\n\n你可以使用 Travon 查看已保存的行程，检查航班、酒店、活动、行李物品和其他旅行详情，还可以用自然语言询问行程相关问题。\n\n目前，这款 ChatGPT 应用为只读模式，因此可帮助你浏览现有旅行信息，但不会更改行程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69aef5b699a0819184512d57743fc1cd",
+    "name": "Tredict",
+    "sourceHash": "36ec107d92a122270c558e317ea4e60ce586e640d2320d815828b26d9acdfb90",
+    "summary": "分析训练并制定计划",
+    "description": "Tredict 是面向运动员和教练的耐力训练规划、结构化训练和训练分析平台。\n\n通过 ChatGPT，你可以直接在 Tredict 中创建可重复使用的训练计划和结构化训练课程，适用于跑步、骑行、游泳及其他运动。计划可根据你近期的活动和偏好的训练方法进行定制，例如依据功率、配速或其他表现指标。\n\n通过 Tredict 与 Garmin、Suunto、Polar、Wahoo、Coros 等平台的集成，可直接在运动手表上执行训练计划。\n\n借助 AI 助手整理训练日历，汇总训练内容，并为训练课程建议恰当的标题和说明。\n\n分析过往训练活动，并生成支持长期耐力训练的结构化训练计划。\n\nTredict 集成了 ChatGPT，帮助运动员和教练更高效地组织和规划耐力训练。\n\nTredict 符合 GDPR 要求。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4438da388081919a4222e44c6cd1bb",
+    "name": "Trellis Law",
+    "sourceHash": "2bb9581094e35886d1d3781cf426cd6f77b16c6db321d3de6ed84932882432f8",
+    "summary": "美国州级初审法院研究",
+    "description": "直接访问美国州级初审法院系统，开展法律研究并获取有关案件、裁决、法官、律师、动议、诉讼趋势等方面的洞见；所有内容均以初审法院数据和文件为依据并附有来源。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a20b18a639081918c1b438f8381b27e",
+    "name": "Trello",
+    "sourceHash": "f29d941a96efcebdfcfa47993c7080d14e6a74f1dacfaaafa5fc4c2169fefb58",
+    "summary": "在 Trello 中完成工作",
+    "description": "Trello 插件允许 ChatGPT 使用自然语言与你的 Trello 看板、卡片和任务交互。ChatGPT 与 Trello 之间的所有通信均经过加密以保护隐私，并按照安全最佳实践进行身份验证。完成设置后，你无需在不同标签页之间切换即可管理待办事项。借助 ChatGPT，开始处理 Trello 任务吧！",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab579a2fc24819199d8bea61fa8195f",
+    "name": "Treza",
+    "sourceHash": "17701879059cbd4f66718a4367f495867ac0edf6cdd0b3efaa91581d2c898074",
+    "summary": "创建和编辑 AI 视频",
+    "description": "Treza 可直接从 ChatGPT 制作并完成视频。描述你想要的视频，Treza 就会使用当前的视频和图像模型、旁白、音乐及字幕来制作，并在你的 Treza 账户中渲染。你也可以处理已有媒体：将多个片段与配音和背景音乐合并成一段视频，或为单个文件添加字幕、提升分辨率、裁剪画面或截短片段。\n\n你可以：\n- 从现成模板开始，例如将长视频或播客转换为带字幕的竖屏片段；也可以根据需求说明构建自定义流程。\n- 运行流程并跟进，直到视频完成。\n- 在消费前查看运行成本，并检查信用额度余额。\n- 浏览账户制作的视频、图像和音频。\n- 添加你附加或链接的图像、视频或音频文件，然后进行编辑。\n- 发布流程，并暂停或恢复其计划安排。\n- 连接你的 YouTube 频道或 TikTok 账户；审核完成视频后再发布。只有你点击“发布”后才会真正发布任何内容。\n\n运行任务会消耗 Treza 账户中的预付信用额度。连接时使用 Google 登录；如果你还没有 Treza 账户，系统会为你创建一个。发布内容需要你自己的 YouTube 频道或 TikTok 账户；你可以通过 Treza 在聊天中提供的链接连接账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab00a7a2c988191a774ed0b87559eb3",
+    "name": "Triad Astro",
+    "sourceHash": "faa7de330e26fd16bdbdf90ee131c851a3287a0b662bf2baad71b1c037da14a2",
+    "summary": "三体系出生星盘解读",
+    "description": "Triad Astro 同时依据 3 种占星传统解读你的出生星盘——西方占星（回归黄道）、吠陀占星（恒星黄道）和中国命理（八字/四柱）——并展示它们的共通之处。\n\n提供出生日期；如果知道，也提供出生时间和地点。它会一次性计算这 3 张星盘：西方体系的太阳、月亮和上升星座、行星相位及元素平衡；吠陀体系的纳克沙特拉、Navamsa、行星尊贵状态及 Vimshottari Dasha 时间线；以及中国体系的四柱、日主和十年大运。\n\n大多数占星工具只给出一种体系的解读。Triad Astro 会提供 3 种解读，并帮助你查看其重叠之处——那些在 3 种体系中各自独立出现的主题，值得进一步关注。\n\n行星位置依据符合 NASA JPL 标准的星历数据计算；出生地点会解析为坐标并自动处理时区，因此在已知出生时间时，星盘时间可精确到分钟。遇到含义不明确的地名时，可先查询并确认正确城市。\n\n无需账户或登录。只需请求解读，例如：“计算我的三体系出生星盘。我出生于 1990 年 March 14 日上午 7:45，地点是 India 的 Bangalore。”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699eac35bfd481919778eb627e41f5e1",
+    "name": "TriAstra Astrology & Saju",
+    "sourceHash": "9f2c67d517d40216ceaf9bcf24f3681aca39059b12a1725a50bd43620d575457",
+    "summary": "出生星盘和吠陀占星",
+    "description": "TriAstra 在 ChatGPT 中根据 3 种传统创建个性化出生星盘和本命占星解读：西方占星、吠陀占星（Jyotish/Kundli）和韩国四柱命理 Saju（韩国四柱/Myeongri）。\n\n输入出生日期、出生时间和出生地点，然后选择想要探索的传统。交互式结果会突出显示星盘中最重要的位置和模式，并用浅显语言解释计算依据。如果不知道出生时间，TriAstra 只会提供仍可可靠计算的解读，并省略宫位、角度及其他依赖出生时间的结论。对于 Saju，生理性别仅用于确定传统的大运顺行或逆行方向。\n\n西方和吠陀星盘使用 Swiss Ephemeris 天文数据；Saju 遵循韩国 Myeongri 原则。TriAstra 面向个人本命解读，而非每日预测或关系匹配。结果仅供反思和娱乐，不构成医疗、法律、财务或其他专业建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694c84d39cb881918c6d181ae69e33fc",
+    "name": "TRIGGERcmd",
+    "sourceHash": "e06ed292f94e6076051e5f946faa17be5b974ea86c56e15b9ec11f597492fa2e",
+    "summary": "在你的电脑上运行命令",
+    "description": "TRIGGERcmd 是一项云服务，可让你在自己的电脑上运行命令。\n你需要安装代理，然后创建一组希望在电脑上运行的命令。\n你可以为每条命令提供 MCP 工具说明，让 ChatGPT 了解命令的作用及其参数用法。也可以使用内置的两个 MCP 工具：list_commands 和 run_command。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c4d4163c8c819183a9bdcf6d2ac262",
+    "name": "Trip.com",
+    "sourceHash": "fa3a8df2ac750e05d3c8a94da3215bd05c4d70417faafa235f9c39ae38adff9b",
+    "summary": "一站式旅行助手",
+    "description": "在 ChatGPT 中直接搜索和比较航班、酒店、火车及景点，Trip.com 是你的全方位旅行助手。探索单程、往返和多城市航班；选择目的地城市的酒店；挑选适合的欧洲和亚洲铁路行程；还可通过灵活的搜索、筛选和排序发现景点、门票、旅行团、体验活动及其他可做的事情！\n\nTrip.com 适合获取旅行灵感、规划行程和预订旅行产品。享受安全即时预订和每周 7 天、每天 24 小时的多语言支持。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69050bf6de9c8191b3968f2cc08d33d6",
+    "name": "Tripadvisor",
+    "sourceHash": "06ab3b1e498758562fc27e6b709f1ef3a7ef094abd6d0fad99a9600a095d3d05",
+    "summary": "预订高评分酒店",
+    "description": "Tripadvisor 应用将可信评价和酒店信息带入 ChatGPT，让你更快速、更有把握地找到理想住宿。旅行者可通过以地图为主的交互视图浏览高评分酒店，立即了解街区、距离和氛围。你可以通过自然语言追问来优化结果，查看丰富的酒店详情（包括旅行者照片、近期评价和设施），比较价格选项，并顺畅跳转至预订合作伙伴或 Tripadvisor 深入了解。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6982d8d8dcd08191b80d17b52e44b819",
+    "name": "Tripbtoz",
+    "sourceHash": "22059c230ebecd8b18f9c0323ff1ed395c7cd8d92547603317bc4afc5a5d207b",
+    "summary": "观看、感受并预订旅行。",
+    "description": "Tripbtoz 是酒店预订助手，帮助旅行者更轻松地找到合适住宿。按城市、地区或地标搜索酒店，以清晰的列表浏览结果，并打开任意酒店查看关键详情，例如你所选日期的房型和价格，方便你快速比较并放心决定。\n\n人们会喜欢它的原因\n- 几秒内按地点或地标查找酒店\n- 通过简单易读的结果页面比较住宿\n- 预订前在同一处查看房型和价格",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9c87b4d6188191b233d20fdcac1104",
+    "name": "TripCanvas",
+    "sourceHash": "8531355f494c6722f0b7df9382f2ce543e83526926868c075a581e6a29587985",
+    "summary": "AI 旅行顾问和行程规划工具",
+    "description": "TripCanvas 是集 AI 旅行顾问、旅行规划和行程创建于一体的 ChatGPT 工具。它会根据日期、目的地、兴趣、限制条件、偏好节奏和同行旅伴，生成完整的公开旅行网站：包括地理路线合理的路线图、逐日行程、过夜住宿地点、行车距离、道路名称、地图、游览地点，以及供整个团队通过一个链接分享的优先预订事项。用户通过 OAuth 连接 TripCanvas 账户；每个 UTC 月可创建 1 个新网站，重新打开和分享不会额外消耗额度。额度用完后，插件会显示重置日期，并且只链接到介绍账户和额度信息的页面。它不会在 ChatGPT 中显示价格或发起购买。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a25d41fb4848191b3ecb60b55b6d7b8",
+    "name": "TripHelm",
+    "sourceHash": "34a2a81dbc1f21c599b9644f904f2e88f9a091ab4f7eacdd67092be1b5c73d54",
+    "summary": "用日历规划旅行",
+    "description": "TripHelm 将旅行规划整理成真正的日历，告别杂乱的笔记、标签页和截图。用日常语言描述行程，TripHelm 就会为你安排航班、用餐、入住、活动和休息时间，并放到正确日期和时段。\n\n需要更改什么？直接说出来：“把晚餐推迟到 8 点”“在博物馆前加一站喝咖啡”“让第 3 天安排轻松些”——日程就会随之更新。所有内容都会保存到你的 TripHelm 账户，并在完整网页应用中打开，你可以手动拖动、放置和微调任何时间块。\n\n从头规划整趟旅行，或调整已经开始的行程。无论哪种方式，你最终都会得到一份清晰、按小时排列且真正便于执行的日程，而不是一大段在登机口反复阅读的文字。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7c7cfea0348191bacb17dbe8f98c5e",
+    "name": "Triple Whale",
+    "sourceHash": "fc6a295760c826169781494d47f11cd8507ccabf40372862354d03f0c65b9c79",
+    "summary": "分析电商数据",
+    "description": "Triple Whale 通过检索店铺背景信息、已配置的 KPI、归因结果、指标变化说明、文档和只读数据仓库查询结果，帮助用户在 ChatGPT 中分析已连接的电商店铺。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a563383fbd08191aa6559cd6a6eb6d9",
+    "name": "TripPocket",
+    "sourceHash": "c19b0d91bd7ab3bfc8387d986f92b538795b29951421ca9ff0cbde663712ee42",
+    "summary": "规划韩国旅行和路线",
+    "description": "TripPocket 规划韩国国内旅行。用日常语言提出需求，它会搜索真实景点、推荐地区和旅行路线、制定逐日行程，并使用 TripPocket 精选的韩国旅行数据回答天气、节庆和交通费用问题。它支持家庭、情侣、独自出行，以及无障碍、适合婴儿车、宠物友好或少步行等旅行条件。所有地点、营业时间、价格和评分均来自 TripPocket 后端，不会凭空编造。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b16f24bc488191aace1d08c6ddfd4d",
+    "name": "trivago",
+    "sourceHash": "721f205b045a4471cb5d2d73ea0b31e022aadd4a490529ebb22a34e08f30bf9f",
+    "summary": "快速找到理想酒店。",
+    "description": "trivago MCP 服务器允许用户根据旅行日期和地点搜索酒店及其他住宿，范围从国家、城市，到具体场馆、地标或其他兴趣点。它会依据提供的详情返回定制酒店选项和多个预订网站的价格，以及照片、住宿关键信息和实用详情链接。简而言之，它为 AI 助手提供高效方式，帮助用户以合适价格找到合适住宿。\n\n你可以使用 trivago 应用来\n\n按目的地和日期搜索酒店：\n“帮我找一家 Las Vegas 的酒店，2 人入住，日期为 2026 年 7 月 12 日至 7 月 20 日”\n\n在地标附近寻找经济型住宿：\n“我需要 Eiffel Tower 附近的便宜住宿，住 1 晚，日期是 2026 年 6 月 12 日”\n\n预订活动场馆附近的酒店：\n“帮我找一家 Etihad Stadium 附近的酒店，日期为 2026 年 7 月 12 日至 7 月 14 日”\n\n协调会议差旅：\n“我需要住在 2026 年于 Europe 举办的下一届 KubeCon 会场附近”\n\n规划家庭假期：\n“我想在 2026 年 Easter 期间入住 Barcelona，订 2 间客房，住 2 位成人和 2 位分别为 6 岁和 10 岁的儿童”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0cee4e93ec8191ae6a7317c795621f",
+    "name": "Trivana — Quiz & Trivia Games",
+    "sourceHash": "db60297585915afd196693631e57a7d5875b4050673a30cb98a6006a99827cfc",
+    "summary": "创建并畅玩知识问答游戏",
+    "description": "将任何主题、活动或受支持的公开网页变成由 AI 主持、可实际游玩的知识问答节目。创建快速的 5 题回合、均衡的 7 题游戏，或使用 10 种语言进行 10 题挑战。选择 8 种主持人个性之一，也可以让 Trivana 根据主题安排主持人。在 ChatGPT 中预览并回答一道示例题，然后打开未公开列出的 Trivana 链接，畅玩带自动计分的完整免费游戏。玩家无需账户。可分享游戏，用于游戏之夜、家庭娱乐、课堂热身、团队破冰、派对、社团或现场活动。当私人卡片上出现 Claim your game 时，可用它认领游戏并查看游玩结果。确认拥有发布权后，是否将游戏发布到 Trivana 社区和搜索页面由创作者单独选择；仍需通过质量和热度审核。语音可用性因主持人、语言和制作等级而异。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a616525e168819184dcc838cdc44f54",
+    "name": "Trivana Study — Quiz My Notes",
+    "sourceHash": "09a6b9c0ee4f445a91c21c78401f2bf7f5da36686dfc98eece83fbcabdf4011d",
+    "summary": "让学习笔记变成可玩的测验",
+    "description": "把正在学习的内容变成可以实际游玩的测验。\n\n粘贴简短笔记、添加更完整的笔记、指定科目、分享受支持的公开网页，或让 ChatGPT 使用它能从附件中读取的相关文本。Trivana Study 会创建 1 个未公开列出的 5、7 或 10 题练习测验，包含自动计分、AI 主持人，以及供你或学习小组使用的游戏链接。\n\n为简短笔记补充经过核实且公认可靠的学科知识，可能有助于凑足完整一轮所需内容。较完整的笔记和受支持的网页内容仍以所提供的来源为依据。如果你要求只使用提供的材料，Study 会严格遵守这一限制，也可能要求你提供更多材料。\n\n先在 ChatGPT 中回答一道热身题，然后打开完整测验——玩家无需账户。默认由 Sofia 主持，也可从 10 种受支持语言的 8 种主持人个性中选择。如果出现 Save & track scores，你可以认领测验并保留游玩记录、分数和重玩记录。\n\n“未公开列出”表示任何拥有链接的人都能游玩，但测验不会自动公开展示。对于附件，ChatGPT 可能会发送提取或压缩后的文本；Trivana 不会收到原始附件。适用于讲座复习、课堂复习、考试和认证备考，以及快速检查自己真正掌握的内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3d831799548191b741018490f151e0",
+    "name": "TriviaQuiz",
+    "sourceHash": "b97a2303af2aaf221a64a6c03934cadf36bec19cd025be8836985498879d5961",
+    "summary": "主持实时问答游戏",
+    "description": "使用 ChatGPT 创建实时知识问答游戏和测验。将任何主题、课程、会议或活动变成可立即发布给朋友、学生或同事游玩的测验。分享 QR code，启动游戏，并通过实时排行榜、计时器、音效和监控面板主持游戏。\n\n- 即时发布测验：几秒内即可从 ChatGPT 提示生成实时玩家链接和 QR code。\n\n- 主持实时游戏：运行限时题目、追踪玩家，并随着答案提交查看排行榜。\n\n- 主持人面板：在私人管理视图中监控玩家、答复、进度和结果。\n\n理想用途：适合希望为课堂、会议、活动、演示或游戏之夜创建互动实时测验的教师、培训师、工作坊主持人、团队负责人和知识问答爱好者。\n\n如何在 ChatGPT 中使用\n\n1. 连接应用：将 TriviaQuiz 连接到 ChatGPT。\n\n2. 触发：输入“@TriviaQuiz”。\n\n示例提示：\n\n- “@TriviaQuiz 创建一个关于 Apollo 计划的 6 题知识问答游戏。”\n\n- “@TriviaQuiz 制作一个关于光合作用的课堂测验，包含选择题和判断题。”\n\n- “@TriviaQuiz 将这份工作坊议程变成带 QR code 的实时团队测验。”\n\n- “@TriviaQuiz 为我的团队制作一个有趣的周五测验，主题是产品发布。”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9361d2ee7481919a8c706c3ff5388f",
+    "name": "Trooth Network",
+    "sourceHash": "238b692a7a8ef0574d69e3a1886ca9392df8124e0c50e465329ef5c0d34ff510",
+    "summary": "查询公司的信任记录",
+    "description": "Trooth 是面向软件经济的信任网络。这个连接器让 ChatGPT 对话中的任何人都能查询 Trooth 上一家公司当前经过见证的记录，覆盖 9 个类别，从身份和安全到隐私、AI 实践及历史；每项记录都会列明来源和最近读取日期。在依赖一家公司前先查看其记录；购买前按相同类别比较两家供应商；实时、中立地查看某个域名的公开安全状况；验证已签名的 Trust Ledger Token；或询问 Trooth 的工作方式。公司也可以查询自己的记录，了解买家所看到的内容。每条答复都会注明来源和日期；经过见证的证据会与公司自行声明的内容分开标注；任何尚未确定的事项都会标记为未知，而不会靠猜测补全。该工具为只读模式，只返回公开数据，无需账户或登录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69680cd25f3c81918d933557ca79d8fa",
+    "name": "Tropic",
+    "sourceHash": "05c8c520749a533bac6ff1107b212626bdfbb4173d7a949fdc9338e082cb52eb",
+    "summary": "节省软件和 AI 费用",
+    "description": "软件和 AI 的定价并不公开，因此上网搜索无法告诉你是否付得太多。Tropic 可以帮你判断。\n\n将 Tropic 连接到 ChatGPT，即可依据超过 $18B 的已核实技术支出对比你的价格，获取来自 100,000+ 笔真实交易的谈判策略，并获得有关供应商竞争情况和合同条款的情报。上传报价，询问价格是否合理，然后带着真实依据进入下一轮谈判。\n\n你现有的 Tropic 权限仍然适用。你只能查看获准在 Tropic 应用中访问的数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69490a4a06148191a0dd78606a3dbf1f",
+    "name": "True Sky",
+    "sourceHash": "8cd7c6c4fb9e3fa69076422ee03dfabaa005231c318aa211df2ce1342989de8d",
+    "summary": "占星解读和星座运势",
+    "description": "直接在 ChatGPT 中计算本命星盘、行运、比较盘、组合盘以及太阳回归/月亮回归。\n\n功能：\n- 本命星盘 - 行星位置、宫头和相位\n- 行运数据 - 追踪行运行星与本命星盘的相位及其精确时间\n- 比较盘 - 比较两张星盘中的关系\n- 组合盘 - 以中点计算关系星盘\n- 太阳回归和月亮回归 - 生日和月度回归星盘\n\n支持 7 种宫位制（Placidus、Whole Sign、Koch、Equal 等）、11 种黄道体系（Tropical、Lahiri/Vedic、True Sidereal 等），并可选用小行星。\n\n免费：每天可进行 100 次计算。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699eb35b0f808191b597c5171627de5d",
+    "name": "Truffle Journal",
+    "sourceHash": "1cbc1880492e1324577e2d47b46c9701f66df71efa95cef5576e047b1ad3ec26",
+    "summary": "保存并搜索灵感",
+    "description": "从 AI 对话中提取有价值的见解——把重要内容连同笔记一起保存，以后即可快速找回。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a033efc2dd88191a996aa3ee554d7b4",
+    "name": "trumpet.app",
+    "sourceHash": "5d537fe99d37d497dc016504afa3712777551de2eaeefccdb41a16295a9f0309",
+    "summary": "管理销售交易空间",
+    "description": "直接连接你的 trumpet 工作区，无需离开 ChatGPT 即可处理交易空间。创建新的交易空间、搜索模板库、获取实时互动数据，并查看利益相关者的活动及交易健康状况洞察。\n适合在通话前做准备、在对话过程中创建交易空间、追踪交易进展，并准确了解接下来应重点关注什么。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a601f47420081919575cc64306b7a54",
+    "name": "TrustMRR",
+    "sourceHash": "4d5c2e29ac056a498cccc876945f44e52def70b6d9cd4ee2c71aef5229028918",
+    "summary": "发现经过验证的初创公司",
+    "description": "发现有已核实收入信号的活跃科技初创公司。无需账户即可浏览最近新增的 25 家初创公司和增长最快的 25 款产品。连接 TrustMRR 账户后，可筛选初创公司数据库并获取详细记录。部分卡片可能显示仅供参考的 FOR SALE（出售中）标记。此只读插件不支持购买、报价、交易、编辑或发送消息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3145f1e7588191be63666963390ec5",
+    "name": "Truth or Dare - Party game+fun",
+    "sourceHash": "559684a1e44c25dc8ca674e98dc33127e08fa236a7f400db06b5f488ef3a02a2",
+    "summary": "社交问答与挑战",
+    "description": "真心话大冒险——终极派对游戏\n\n让任何聚会都变成难忘之夜，与朋友、情侣和团体一起玩这款终极派对游戏——真心话大冒险。\n\n无论你是在参加派对、约会、举办过夜聚会，还是只想放松闲聊，真心话大冒险都能提供数百个有趣、搞笑、有挑战性和大胆刺激的问题与挑战，让所有人尽兴。\n\n功能\n\n* ChatGPT 生成无限的真心话和大冒险题目。\n* 随机挑战，乐趣无穷，可反复游玩。\n* 难度任你选择，简单或困难都可以。\n* 适合派对、游戏之夜、自驾游和约会。\n* 界面易用，一键即可开始游戏。\n\n适合场合\n\n* 朋友聚会\n* 情侣\n* 派对\n* 过夜聚会\n* 游戏之夜\n* 自驾游\n* 破冰活动\n* 饮酒游戏\n\n立即连接 Truth or Dare，挑战朋友、揭开秘密、完成搞笑的大冒险，创造难忘回忆。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7b71a411a081918b4f0919fcef3019",
+    "name": "TTMNG Public",
+    "sourceHash": "0dcce81820edae38927f12bb3556af88ae385d3215421061748c74fe851409eb",
+    "summary": "人人可用的 TTMNG 知识",
+    "description": "TTMNG Public 让用户查询 TTMNG 术语，并以泰语、西班牙语和意大利语阅读公开知识记录。它将信号点记录与疾病或病症记录分开，并说明教育性证据的适用边界。它不提供诊断或个性化治疗建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a66b8380884819184ecd4c571c93445",
+    "name": "TTXVN Nghị quyết 57",
+    "sourceHash": "a07fe4f2bb09f14b3edfbefad4b16ab6b40aa3a8111d6947c54f72655f88d1f0",
+    "summary": "查询第 57 号决议",
+    "description": "TTXVN 第 57 号决议可帮助用户查询越通社（TTXVN）有关第 57 号决议实施情况的资料，包括领导指示、事件新闻、任务和解决方案，以及各部委、行业和地方的落实活动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9c3aa2320c81918c620f6f8b29aeca",
+    "name": "TubeAlfred",
+    "sourceHash": "3c01e15448927f398f2eb59130610b37a20f9cc7be87c7f1e5803ac097abd840",
+    "summary": "研究 YouTube 视频",
+    "description": "在 ChatGPT 中搜索 YouTube，并探索视频、转录文本、评论、频道和播放列表。使用 TubeAlfred 总结视频、比较频道内容，并找出观众评论中的反复主题。连接 TubeAlfred 账户即可使用其托管的 YouTube 工具。无需 YouTube Data API 密钥。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a066c39e5208191a07b4e6cd176f216",
+    "name": "Tubi",
+    "sourceHash": "ce5b16b4eae888f687aafbae48897a8a69aa1d704ef148b1eb758300cb661e32",
+    "summary": "免费观看节目、电影和问答",
+    "description": "告诉 Tubi 你想看一部冷门佳作、90 年代喜剧，或任何符合心情的内容，它就会推荐可免费观看的节目和电影。想增加乐趣？还可以试试问答游戏。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8c201d65fc8191bcedc714780fab1a",
+    "name": "tugesto",
+    "sourceHash": "b2a29ed19f508ddda7a6b4e4eb66975fb01ce3265745e4625eef5ee6b7e9ce2e",
+    "summary": "薪资与人力资源软件。",
+    "description": "tugesto 是一款帮助企业升级管理方式的助手：在同一环境中处理薪资、人力资源、工时记录、员工门户、开票、会计、税务和法律合规。通过 ChatGPT，它能帮助你解答疑问、理解流程，并了解如何借助面向企业、自雇人士、会计事务所和咨询机构的 SaaS 解决方案实现任务自动化、减少错误并集中管理日常运营。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6943e2a0ea28819185694558e59000c3",
+    "name": "TUI",
+    "sourceHash": "e44b861c6025ed49f44ced2ad7dd98da5c0a277357b792b370a734becdf3bf70",
+    "summary": "查找酒店和体验活动",
+    "description": "使用 TUI ChatGPT 应用，发现理想假期。只需告诉我们你在寻找什么，我们就会立即为你匹配最合适的酒店和体验活动。按地点、评分、日期和时长搜索，找到完全符合你心意的假期。无需费心，也不用无休止地滚动浏览，让假期规划更轻松。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fa07fe5ba48191a4ea47c4d7d55a69",
+    "name": "Tuist",
+    "sourceHash": "cb9b9c758d4b2d7d94172a5eb3fbf14bb55ec1bff3c8b7555b65e6c15c704f94",
+    "summary": "构建和测试洞察",
+    "description": "Tuist 帮助团队检查 Xcode、Gradle 和 Bazel 构建数据、测试结果、缓存活动、预览、运行器作业及项目配置。它还支持经授权的账户设置和部分测试用例更新。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8c630598b48191b5348b78a4f148a0",
+    "name": "TuneWorks",
+    "sourceHash": "4f718e28c09ae9d36ae675288746e2d015b35ebb4f2107c7afb5709666d6aa6f",
+    "summary": "调校和优化车辆配置",
+    "description": "TuneWorks 将 ChatGPT 连接到你的高性能车辆工作区，让你访问每辆车的改装历史、设置数据、驾驶会话、维护记录、ECU 日志及其他信息。\n\n分析性能数据、比较设置版本、查看驾驶会话、诊断问题、追踪维护情况、管理车间作业和赛事准备，并利用改装历史了解发生了哪些变化以及下一步应测试什么。TuneWorks 将日志、设置、会话、图表、笔记和车辆信息关联起来，让你基于改装的完整背景做出决定。\n\nTuneWorks 同时支持读取和写入操作，因此你可以直接通过 ChatGPT 获取信息并执行操作。你还可以与他人协作管理共享车辆和改装项目、持续维护性能历史，并与调校师、队友、维修店或团队成员分享选定的车辆改装信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69450d740e508191bdb697e0ac33717d",
+    "name": "Turkish Airlines",
+    "sourceHash": "804f815ac5574676745cea53c5eac2d18a4323dcb0ecd507db1d512ea26dd098",
+    "summary": "搭乘 Turkish Airlines 出行",
+    "description": "直接在 ChatGPT 中规划并预订 Turkish Airlines 航班。查看实时航班状态，比较不同舱位的票价，然后前往 turkishairlines.com 安全完成预订。你也可以使用 PNR 或电子客票号码查询现有预订、查看行李额度、浏览城市指南和促销优惠。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f121f489748191a86a5a4f1dbe27b2",
+    "name": "Turnfeed",
+    "sourceHash": "f5e91c24ca60d44b446a6bfcf5ce067589630f14d1f9bc15c1ab186a239f6bc7",
+    "summary": "在 ChatGPT 中使用社交动态",
+    "description": "Turnfeed 是 ChatGPT 内的公开社交动态。无需登录即可查看最新帖子、打开完整对话并查找用户。连接你的 Turnfeed 身份后，可发布帖子、回复、点赞、关注、更新个人资料并使用安全控制。在任何内容发生变更前，ChatGPT 都会显示操作供你批准。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6962f22632708191ac37920ed65e5392",
+    "name": "Turo",
+    "sourceHash": "25e6069a6eef81ef11831f625b1f5c4eb767fbb04f9156f64a50091d44d6d443",
+    "summary": "搜索 Turo 租车",
+    "description": "在 ChatGPT 中搜索 Turo 的车辆库存，无论你身在何处，都能从活跃且值得信赖的房东社区中找到想要的汽车。\n\n无论你是想在 Tahoe 租 SUV，还是沿海出游想租敞篷车，只需描述计划，几秒内即可获得量身推荐，轻松找到适合旅程的车辆。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a54e87a39f08191a2ae0a00582bd063",
+    "name": "Tweek",
+    "sourceHash": "23aee41e7b2eda086d89e964ef50d9c4c0b375554689188dc14106a06ae8e230",
+    "summary": "简约每周计划工具",
+    "description": "Tweek 是一款简约的每周规划和待办事项应用。连接后，可直接在 ChatGPT 中查看和管理 Tweek 日历、每周任务和待办清单——列出本周安排，用自然语言创建、更新、完成和删除任务，将任务拆分为子任务，并使用批量工具一次处理多项任务。所有操作都通过 OAuth 2.1 限定在你自己的账户内；助手以你的身份操作，绝不会看到其他用户的数据。适合快速用自然语言记录任务并进行每周回顾。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0ac8d7e28c8191a58ea65bb0ca3d5c",
+    "name": "Twenty",
+    "sourceHash": "5044a2779dd903747261a757e967cfe1c8aa50f38f8954a5cddaf8ddd3dbc930",
+    "summary": "CRM 工作区工具",
+    "description": "Twenty 帮助用户通过 ChatGPT 使用 CRM 工作区：发现可用工具、了解工具架构、搜索 Twenty 文档、加载工作区技能，并执行获准的 CRM 操作，例如查找、创建、更新或删除记录，以及在用户角色获准时起草或发送电子邮件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3e889766b481919d6b2861e94a8afa",
+    "name": "Typeform",
+    "sourceHash": "57eada1c16f387c66dcc68adad67d875f4de67e5057a92095f44571779283194",
+    "summary": "创建表单并分析答复",
+    "description": "无需离开 ChatGPT，即可创建表单、联系人列表和自动化流程。使用自然语言分析表单和问卷数据、创建包含丰富信息的联系人档案，并构建将表单答卷者转化为客户的自动化流程。Typeform 让你无需切换工具，即可轻松理解并使用客户数据。",
+    "model": "codex-subagent-reviewed"
+  }
+]
