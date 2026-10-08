@@ -1088,19 +1088,19 @@
     "plugin_connector_68df33b1a2d081918778431a9cfca8ba|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_connector_68df33b1a2d081918778431a9cfca8ba",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:25:38.867Z",
+      "at": "2026-10-08T00:38:22.651Z",
       "completed": false,
       "usage": {
-        "prompt_tokens": 943,
+        "prompt_tokens": 942,
         "completion_tokens": 5000,
-        "total_tokens": 5943,
+        "total_tokens": 5942,
         "prompt_tokens_details": {
           "cached_tokens": 0
         },
-        "neurons": 144.9363555908203
+        "neurons": 144.92726135253906
       },
       "error": "Translation output truncated",
-      "elapsedMs": 33839
+      "elapsedMs": 93041
     },
     "plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e",
@@ -1217,35 +1217,1789 @@
       },
       "checksPassed": true,
       "elapsedMs": 4130
+    },
+    "plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:39:55.889Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1183,
+        "completion_tokens": 312,
+        "total_tokens": 1495,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 53.46156311035156
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "创建和管理您的商店"
+          },
+          {
+            "id": "p0.0",
+            "text": "Shopify for ChatGPT 让创建、运营和扩展在线商店变得像聊天一样简单。\n用 Shopify 的 AI 商店构建器将小型商业想法转化为电子商务网站：描述您的销售产品，创建商店，添加商品，并在线销售。\n已经有 Shopify 商店了吗？\n连接它以管理各地的库存，创建折扣代码，查看订单和客户详情，并获取商店表现的分析数据。\nShopify 支持在线销售、线下销售、B2B 销售、市场平台销售以及国际销售。\n无论您经营的是按需印刷业务、销售数字产品、运营在线精品店、一件代发，还是为批发买家服务，Shopify 都为您提供了构建、销售和增长的基础。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 9360
+    },
+    "plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:40:05.498Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 929,
+        "completion_tokens": 2292,
+        "total_tokens": 3221,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 70.95454406738281
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "创建并管理您的店铺"
+          },
+          {
+            "id": "p0.0",
+            "text": "使用 Shopify for ChatGPT，启动、运营和扩展在线商店就像聊天一样简单。利用 Shopify 的 AI 店铺构建器，将小微商业创意转化为电子商务网站：只需描述您销售的产品，即可创建店铺、添加商品并开始在线销售。已经拥有 Shopify 店铺？连接现有店铺，即可实现跨地点库存管理、创建折扣码、查看订单及客户详情，并获取店铺业绩分析报告。Shopify 支持在线销售、线下销售、B2B 业务、入驻第三方平台以及跨境销售。无论您是经营按需印刷业务、销售数字产品、运营在线精品店、从事一件代发，还是服务批发买家，Shopify 都能为您提供构建、销售和增长的坚实基础。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 68425
+    },
+    "plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:41:14.178Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 886,
+        "completion_tokens": 714,
+        "total_tokens": 1600,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 25.856365203857422
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "洞察到行动"
+          },
+          {
+            "id": "p0.0",
+            "text": "通过处理您的HubSpot数据来分析模式、创建和更新记录，并管理您的CRM操作。\n读取和写入您有权限访问的交易、联系人、公司、工单、互动及其他对象。\n准备报告、更新交易阶段、记录通话和邮件、创建任务，或在会议前查看管道详情。\n可用于聊天中的快速更新或全面的CRM管理，所有操作均依托实际的HubSpot数据。\n了解更多信息：https://knowledge.hubspot.com/integrations/connect-your-hubspot-account-to-chatgpt"
+          }
+        ]
+      },
+      "checksPassed": false,
+      "validationError": "Translation lost protected name HubSpot",
+      "elapsedMs": 7106
+    },
+    "plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:41:21.515Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1144,
+        "completion_tokens": 219,
+        "total_tokens": 1363,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 47.52301788330078
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "在 HubSpot 中从洞察到行动"
+          },
+          {
+            "id": "p0.0",
+            "text": "使用 HubSpot 数据分析模式、创建和更新记录，并管理 CRM 操作。\n读取和写入交易、联系人、公司、工单、互动以及您有权访问的其他对象。\n准备报告、更新交易阶段、记录通话和电子邮件、创建任务，或在会议前查看管道详情。\n用于聊天中的快速更新或基于实际 HubSpot 数据的全面 CRM 管理。\n了解更多：https://knowledge.hubspot.com/integrations/connect-your-hubspot-account-to-chatgpt"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 12666
+    },
+    "plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:41:35.102Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 896,
+        "completion_tokens": 3221,
+        "total_tokens": 4117,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 95.99090576171875
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "在 HubSpot 中将洞察转化为行动"
+          },
+          {
+            "id": "p0.0",
+            "text": "利用您的 HubSpot 数据来分析模式、创建和更新记录，并管理您的 CRM 运营。\n您可以读取并写入您有权访问的交易、联系人、公司、工单、互动及其他对象。\n在会议前，您可以准备报告、更新交易阶段、记录通话和邮件、创建任务或查看销售漏斗详情。\n无论是通过聊天进行快速更新，还是进行全面的 CRM 管理，一切都基于您的真实 HubSpot 数据。\n了解更多：https://knowledge.hubspot.com/integrations/connect-your-hubspot-account-to-chatgpt"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 66513
+    },
+    "plugin_asdk_app_694a52cfaa3c819192bea84eaa254968|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_694a52cfaa3c819192bea84eaa254968",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:42:41.895Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 828,
+        "completion_tokens": 763,
+        "total_tokens": 1591,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 27.081403732299805
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "连接350+数据源"
+          },
+          {
+            "id": "p1.0",
+            "text": "它可从任何已连接的数据源中提取性能数据，在支持的广告和营销平台上，它可以直接进行修改，例如暂停或启用广告活动、设置预算、创建Google商业资料动态或回复评论，且所有操作均在您确认后执行。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 4829
+    },
+    "plugin_asdk_app_694a52cfaa3c819192bea84eaa254968|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_694a52cfaa3c819192bea84eaa254968",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:42:47.105Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1084,
+        "completion_tokens": 133,
+        "total_tokens": 1217,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 41.268489837646484
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "连接350+数据源"
+          },
+          {
+            "id": "p1.0",
+            "text": "它从任何已连接的数据源中提取性能数据，并在支持的广告和营销平台上，可以在你确认后直接进行操作，例如暂停或启动一个活动、设置预算、创建Google商家资讯帖子或回复评论。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 2761
+    },
+    "plugin_asdk_app_694a52cfaa3c819192bea84eaa254968|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_694a52cfaa3c819192bea84eaa254968",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:42:50.110Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 834,
+        "completion_tokens": 1186,
+        "total_tokens": 2020,
+        "prompt_tokens_details": {
+          "cached_tokens": 704
+        },
+        "neurons": 36.727272033691406
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "连接 350 多种数据源"
+          },
+          {
+            "id": "p1.0",
+            "text": "它能从任何已连接的数据源中提取绩效数据。在支持的广告和营销平台上，它还可以在您确认后直接进行操作，例如暂停或启用广告系列、设置预算、发布 Google 商家资料帖子或回复评论。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 25195
+    },
+    "plugin_asdk_app_69bc11db874881918718abaca20b68ce|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_69bc11db874881918718abaca20b68ce",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:43:16.313Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 905,
+        "completion_tokens": 798,
+        "total_tokens": 1703,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 28.504112243652344
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "分析全球市场"
+          },
+          {
+            "id": "p0.0",
+            "text": "将您的Interactive Brokers账户连接至ChatGPT，通过自然语言管理您的投资组合。可查询持仓、余额、盈亏、资产配置和未成交委托，或请求实时报价与历史行情数据。您还可指示ChatGPT起草交易指令——例如「以200美元限价买入100股AAPL」——该指令将发送至您的IBKR账户供您审核和批准。ChatGPT不会直接向市场提交订单。任何显示或讨论的交易标的仅用于演示目的，不代表任何投资建议。SIPC会员"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 5626
+    },
+    "plugin_asdk_app_69bc11db874881918718abaca20b68ce|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_69bc11db874881918718abaca20b68ce",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:43:22.181Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1164,
+        "completion_tokens": 237,
+        "total_tokens": 1401,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 49.06932067871094
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "分析全球市场"
+          },
+          {
+            "id": "p0.0",
+            "text": "将你的Interactive Brokers账户连接到ChatGPT，通过自然语言管理你的投资组合。\n询问持仓、余额、盈亏、配置和未成交委托，或请求实时报价和历史市场数据。\n你还可以提示ChatGPT起草交易指令——例如，“以$200的限价买入100股AAPL”——这些指令会发送到你的IBKR账户供你审核和批准。\nChatGPT不会直接向市场提交订单。\n任何显示或讨论的交易代码仅供说明，不构成推荐。\n会员SIPC。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 7088
+    },
+    "plugin_asdk_app_69bc11db874881918718abaca20b68ce|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_69bc11db874881918718abaca20b68ce",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:43:29.524Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 904,
+        "completion_tokens": 1555,
+        "total_tokens": 2459,
+        "prompt_tokens_details": {
+          "cached_tokens": 704
+        },
+        "neurons": 47.427268981933594
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "分析全球市场"
+          },
+          {
+            "id": "p0.0",
+            "text": "将您的 Interactive Brokers 账户连接至 ChatGPT，即可通过自然语言管理您的投资组合。您可以查询持仓、余额、盈亏、资产配置和未成交委托，或者请求实时报价和历史市场数据。您还可以通过提示词让 ChatGPT 起草交易指令——例如，“以 200 美元的限价买入 100 股 AAPL”——这些指令将发送至您的 IBKR 账户，供您审核并批准。ChatGPT 绝不会直接向市场提交订单。所有显示的或讨论的交易代码仅用于说明目的，不构成任何投资建议。SIPC 会员。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 29906
+    },
+    "plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:43:59.639Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 787,
+        "completion_tokens": 741,
+        "total_tokens": 1528,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 26.221349716186523
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "管理Outlook日历"
+          },
+          {
+            "id": "p0.0",
+            "text": "用于工作日程安排的Microsoft Outlook日历：检查可用性，安排会议，创建事件，管理邀请。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 4470
+    },
+    "plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:44:04.869Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1043,
+        "completion_tokens": 86,
+        "total_tokens": 1129,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 37.58863830566406
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "管理Outlook日程"
+          },
+          {
+            "id": "p0.0",
+            "text": "使用Microsoft Outlook日历安排工作：查看可用性、计划会议、创建活动、管理邀请。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 1871
+    },
+    "plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:44:07.094Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 794,
+        "completion_tokens": 792,
+        "total_tokens": 1586,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 28.81818199157715
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "管理 Outlook 日程"
+          },
+          {
+            "id": "p0.0",
+            "text": "用于安排工作的 Microsoft Outlook 日历：查看空闲时间、规划会议、创建事件并管理邀请。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 17391
+    },
+    "plugin_asdk_app_69d3e5ee6a708191baa733f7b8931995|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_69d3e5ee6a708191baa733f7b8931995",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:44:24.692Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 827,
+        "completion_tokens": 662,
+        "total_tokens": 1489,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 23.99882698059082
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "管理并查询数据库"
+          },
+          {
+            "id": "p0.0",
+            "text": "通过ChatGPT直接管理Supabase项目。\n对PostgreSQL数据库执行SQL查询，设计和修改表结构，部署无服务器边缘函数，并配置用户认证。\n访问实时日志进行调试，创建并应用数据库迁移，通过自然语言管理开发分支。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 5301
+    },
+    "plugin_asdk_app_69d3e5ee6a708191baa733f7b8931995|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_69d3e5ee6a708191baa733f7b8931995",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:44:30.441Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1082,
+        "completion_tokens": 149,
+        "total_tokens": 1231,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 42.01254653930664
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "管理和查询数据库"
+          },
+          {
+            "id": "p0.0",
+            "text": "通过 ChatGPT 直接管理 Supabase 项目。在 PostgreSQL 数据库上执行 SQL 查询，设计和修改表结构，部署无服务器边缘函数，并配置用户认证。访问实时日志进行调试，创建并应用数据库迁移，以及通过自然语言管理开发分支。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 2818
+    },
+    "plugin_asdk_app_69d3e5ee6a708191baa733f7b8931995|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_69d3e5ee6a708191baa733f7b8931995",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:44:33.433Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 832,
+        "completion_tokens": 1498,
+        "total_tokens": 2330,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 48.418182373046875
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "管理并查询数据库"
+          },
+          {
+            "id": "p0.0",
+            "text": "直接通过 ChatGPT 管理 Supabase 项目。\n在 PostgreSQL 数据库上执行 SQL 查询、设计与修改表结构、部署无服务器边缘函数并配置用户身份验证。\n通过自然语言访问实时日志进行调试、创建并应用数据库迁移，以及管理开发分支。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 30579
+    },
+    "plugin_asdk_app_693a0a79ffe48191901173077edcf914|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_693a0a79ffe48191901173077edcf914",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:45:05.242Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 862,
+        "completion_tokens": 752,
+        "total_tokens": 1614,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 26.903417587280273
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "通过对话构建全栈应用"
+          },
+          {
+            "id": "p0.0",
+            "text": "Lovable通过自然语言构建和编辑全栈网页应用。描述一个应用，Lovable会创建项目，编写TypeScript、Tailwind和shadcn/ui代码，并返回可实时观看构建过程的预览界面。后续对话可进一步优化应用，您可检查生成代码与差异，添加PostgreSQL数据库和第三方连接器，管理可复用的项目知识与技能，并将完成的应用发布到公共URL。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 6314
+    },
+    "plugin_asdk_app_693a0a79ffe48191901173077edcf914|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_693a0a79ffe48191901173077edcf914",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:45:12.076Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1124,
+        "completion_tokens": 203,
+        "total_tokens": 1327,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 46.07769012451172
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "通过聊天构建全栈应用"
+          },
+          {
+            "id": "p0.0",
+            "text": "Lovable 可以通过自然语言构建和编辑全栈网页应用。描述一个应用，Lovable 就会创建项目、编写 TypeScript、Tailwind 和 shadcn/ui 代码，并返回一个实时预览，让你可以观看构建过程。后续消息可以进一步完善应用，你还可以查看生成的代码和差异，添加 PostgreSQL 数据库和第三方连接器，管理可重用的项目知识和技能，并将完成的应用发布到公共 URL。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 3862
+    },
+    "plugin_asdk_app_693a0a79ffe48191901173077edcf914|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_693a0a79ffe48191901173077edcf914",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:45:16.201Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 875,
+        "completion_tokens": 2242,
+        "total_tokens": 3117,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 69.0999984741211
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "通过对话构建全栈应用"
+          },
+          {
+            "id": "p0.0",
+            "text": "Lovable 可以根据自然语言构建和编辑全栈 Web 应用。\n只需描述应用需求，Lovable 就会创建项目，编写 TypeScript、Tailwind 和 shadcn/ui 代码，并提供一个可以实时观察构建过程的预览界面。\n你可以通过后续对话来不断完善应用，还可以检查生成的代码及其差异 (diffs)、添加 PostgreSQL 数据库和第三方连接器、管理可复用的项目知识与技能，并将最终完成的应用发布到公开 URL。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 17511
+    },
+    "plugin_asdk_app_6a8061659144819197910ef2762afbc0|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a8061659144819197910ef2762afbc0",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:45:33.933Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 805,
+        "completion_tokens": 496,
+        "total_tokens": 1301,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 18.838274002075195
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "通过SSH管理服务器"
+          },
+          {
+            "id": "p0.0",
+            "text": "Gateway可通过ChatGPT管理用户持有的Linux和Windows OpenSSH服务器：检查健康状态和配置，运行可审计的命令和类型化的管理操作，传输文件，并跟踪持久化任务。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 3534
+    },
+    "plugin_asdk_app_6a8061659144819197910ef2762afbc0|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a8061659144819197910ef2762afbc0",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:45:37.714Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1062,
+        "completion_tokens": 126,
+        "total_tokens": 1188,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 40.213802337646484
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "通过 SSH 管理服务器"
+          },
+          {
+            "id": "p0.0",
+            "text": "Gateway 允许用户通过 ChatGPT 管理自有的 Linux 和 Windows OpenSSH 服务器：检查健康状态和配置、运行可审计的命令和输入的管理操作、传输文件，以及跟踪持久化任务。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 3634
+    },
+    "plugin_asdk_app_6a8061659144819197910ef2762afbc0|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a8061659144819197910ef2762afbc0",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:45:41.576Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 811,
+        "completion_tokens": 1037,
+        "total_tokens": 1848,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 35.654544830322266
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "通过 SSH 管理服务器"
+          },
+          {
+            "id": "p0.0",
+            "text": "Gateway 让用户能够通过 ChatGPT 管理其拥有的 Linux 和 Windows OpenSSH 服务器：检查运行状态与配置、执行可审计的命令及类型化管理操作、传输文件，并跟踪持久化任务。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 25437
+    },
+    "plugin_asdk_app_6a48a3d89f7c81918b5810d628260b10|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a48a3d89f7c81918b5810d628260b10",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:46:07.209Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 817,
+        "completion_tokens": 865,
+        "total_tokens": 1682,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 30.138957977294922
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "免费网站扫描与增长"
+          },
+          {
+            "id": "p0.0",
+            "text": "对任何公开网页进行11个SEO基础要素扫描，每个问题提供通俗易懂的'重要性说明'及示例修复方法，获取一个10步网站增长框架，或查找特定SEO问题的解决方法"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 5320
+    },
+    "plugin_asdk_app_6a48a3d89f7c81918b5810d628260b10|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a48a3d89f7c81918b5810d628260b10",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:46:12.791Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1075,
+        "completion_tokens": 127,
+        "total_tokens": 1202,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 40.67867660522461
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "免费网站扫描与增长"
+          },
+          {
+            "id": "p0.0",
+            "text": "扫描任何公开网页，检查11项SEO基础，每个问题都有通俗易懂的解释和示例修复方法，获取10步网站增长框架，或者查找如何修复特定的SEO问题"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 3145
+    },
+    "plugin_asdk_app_6a48a3d89f7c81918b5810d628260b10|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a48a3d89f7c81918b5810d628260b10",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:46:16.375Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 828,
+        "completion_tokens": 1481,
+        "total_tokens": 2309,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 47.91817855834961
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "免费的网站扫描与增长服务"
+          },
+          {
+            "id": "p0.0",
+            "text": "扫描任何公开网页，针对 11 项 SEO 基础要素进行检测，并为每个问题提供通俗易懂的“重要性说明”及修复示例；此外，您还可以获取 10 步网站增长框架，或查询如何修复特定的 SEO 问题。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 34857
+    },
+    "plugin_asdk_app_6a8f6c526c5481918eb8a48806fa112b|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a8f6c526c5481918eb8a48806fa112b",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:46:51.443Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 837,
+        "completion_tokens": 801,
+        "total_tokens": 1638,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 28.28106689453125
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "通过Lumen构建界面"
+          },
+          {
+            "id": "p0.0",
+            "text": "Lumen UI帮助编码代理从真实多框架设计系统规范中构建可访问的界面。搜索组件目录，获取各框架特定的用法和源码，查看网页和原生示例，阅读语义标记，并遵循捆绑的Lumen工作流程支持Astro、React、Web Components、React Native、SwiftUI和Jetpack Compose。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 5847
+    },
+    "plugin_asdk_app_6a8f6c526c5481918eb8a48806fa112b|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a8f6c526c5481918eb8a48806fa112b",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:46:57.496Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1096,
+        "completion_tokens": 171,
+        "total_tokens": 1267,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 43.569541931152344
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "使用 Lumen 构建界面"
+          },
+          {
+            "id": "p0.0",
+            "text": "Lumen UI 帮助编码代理从真实的多框架设计系统合约中构建可访问的界面。搜索组件目录，获取特定框架的使用和源代码，检查网页和原生配方，阅读语义标记，并遵循 Astro、React、Web Components、React Native、SwiftUI 和 Jetpack Compose 的捆绑 Lumen 工作流程。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 5448
+    },
+    "plugin_asdk_app_6a8f6c526c5481918eb8a48806fa112b|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a8f6c526c5481918eb8a48806fa112b",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:03.157Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 845,
+        "completion_tokens": 1423,
+        "total_tokens": 2268,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 46.49090576171875
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "使用 Lumen 构建界面"
+          },
+          {
+            "id": "p0.0",
+            "text": "Lumen UI 通过真实的跨框架设计系统规范，帮助编程智能体构建无障碍界面。您可以搜索组件库、获取特定框架的使用方法及源码、查看 Web 和原生平台的实现方案、读取语义化 Token，并遵循为 Astro、React、Web Components、React Native、SwiftUI 和 Jetpack Compose 提供的内置 Lumen 工作流。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 40776
+    },
+    "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:44.134Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 94
+    },
+    "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:44.487Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 121
+    },
+    "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:44.792Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 83
+    },
+    "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:45.053Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 71
+    },
+    "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:45.321Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 477
+    },
+    "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:45.976Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 76
+    },
+    "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:46.271Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 63
+    },
+    "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:46.517Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 72
+    },
+    "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:46.738Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 64
+    },
+    "plugin_asdk_app_6985e5ad62908191ad013449cab57d02|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6985e5ad62908191ad013449cab57d02",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:46.988Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 69
+    },
+    "plugin_asdk_app_6985e5ad62908191ad013449cab57d02|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6985e5ad62908191ad013449cab57d02",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:47.232Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 66
+    },
+    "plugin_asdk_app_6985e5ad62908191ad013449cab57d02|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6985e5ad62908191ad013449cab57d02",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:47.500Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 70
+    },
+    "plugin_asdk_app_698cc70ed4048191af62942353547f57|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_698cc70ed4048191af62942353547f57",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:47.833Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 65
+    },
+    "plugin_asdk_app_698cc70ed4048191af62942353547f57|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_698cc70ed4048191af62942353547f57",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:48.053Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 955
+    },
+    "plugin_asdk_app_698cc70ed4048191af62942353547f57|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_698cc70ed4048191af62942353547f57",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:49.212Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 76
+    },
+    "plugin_asdk_app_6a52268982b081919d26887c12f67a2c|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a52268982b081919d26887c12f67a2c",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:49.462Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 66
+    },
+    "plugin_asdk_app_6a52268982b081919d26887c12f67a2c|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a52268982b081919d26887c12f67a2c",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:49.707Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 70
+    },
+    "plugin_asdk_app_6a52268982b081919d26887c12f67a2c|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a52268982b081919d26887c12f67a2c",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:49.952Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 57
+    },
+    "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:50.192Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 62
+    },
+    "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:50.424Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 63
+    },
+    "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:50.689Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 65
+    },
+    "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:50.986Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 54
+    },
+    "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:51.288Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 56
+    },
+    "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:51.560Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 57
+    },
+    "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:51.801Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 63
+    },
+    "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:52.085Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 55
+    },
+    "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:52.361Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 57
+    },
+    "plugin_asdk_app_6a7c329c161c8191a8df623446a34000|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a7c329c161c8191a8df623446a34000",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:52.580Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 72
+    },
+    "plugin_asdk_app_6a7c329c161c8191a8df623446a34000|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a7c329c161c8191a8df623446a34000",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:52.826Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 58
+    },
+    "plugin_asdk_app_6a7c329c161c8191a8df623446a34000|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a7c329c161c8191a8df623446a34000",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:53.043Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 57
+    },
+    "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:53.285Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 57
+    },
+    "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:53.528Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 67
+    },
+    "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:53.770Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 73
+    },
+    "plugin_asdk_app_6a7201527fa48191af83141ef896370a|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a7201527fa48191af83141ef896370a",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:54.024Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 75
+    },
+    "plugin_asdk_app_6a7201527fa48191af83141ef896370a|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a7201527fa48191af83141ef896370a",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:54.305Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 61
+    },
+    "plugin_asdk_app_6a7201527fa48191af83141ef896370a|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a7201527fa48191af83141ef896370a",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:54.529Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 61
+    },
+    "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:54.776Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 56
+    },
+    "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:55.047Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 75
+    },
+    "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:55.298Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 58
+    },
+    "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:55.533Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 62
+    },
+    "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:55.752Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 58
+    },
+    "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:55.979Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 56
+    },
+    "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:56.646Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 67
+    },
+    "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:56.862Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 67
+    },
+    "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:57.090Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 63
+    },
+    "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:57.318Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 60
+    },
+    "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:57.540Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 56
+    },
+    "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:57.787Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 75
+    },
+    "plugin_asdk_app_6a96846e8814819189ddb980b090aa20|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a96846e8814819189ddb980b090aa20",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:58.023Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 57
+    },
+    "plugin_asdk_app_6a96846e8814819189ddb980b090aa20|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a96846e8814819189ddb980b090aa20",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:58.269Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 56
+    },
+    "plugin_asdk_app_6a96846e8814819189ddb980b090aa20|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a96846e8814819189ddb980b090aa20",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:58.511Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 59
+    },
+    "plugin_asdk_app_696e4b35d354819199e87f105ca545a5|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_696e4b35d354819199e87f105ca545a5",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:58.744Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 65
+    },
+    "plugin_asdk_app_696e4b35d354819199e87f105ca545a5|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_696e4b35d354819199e87f105ca545a5",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:59.048Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 66
+    },
+    "plugin_asdk_app_696e4b35d354819199e87f105ca545a5|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_696e4b35d354819199e87f105ca545a5",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:47:59.481Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 65
+    },
+    "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:47:59.758Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 57
+    },
+    "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:47:59.987Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 55
+    },
+    "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:00.267Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 66
+    },
+    "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:00.520Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 71
+    },
+    "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:00.751Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 68
+    },
+    "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:01.064Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 74
+    },
+    "plugin_asdk_app_6a60a513907881919ca0e120f0963692|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a60a513907881919ca0e120f0963692",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:01.506Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 54
+    },
+    "plugin_asdk_app_6a60a513907881919ca0e120f0963692|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a60a513907881919ca0e120f0963692",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:01.765Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 58
+    },
+    "plugin_asdk_app_6a60a513907881919ca0e120f0963692|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a60a513907881919ca0e120f0963692",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:02.222Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 71
+    },
+    "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:02.520Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 59
+    },
+    "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:02.757Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 56
+    },
+    "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:02.993Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 110
+    },
+    "plugin_asdk_app_6a97be305050819192a4130e3e3acedc|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a97be305050819192a4130e3e3acedc",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:03.341Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 61
+    },
+    "plugin_asdk_app_6a97be305050819192a4130e3e3acedc|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a97be305050819192a4130e3e3acedc",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:03.630Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 68
+    },
+    "plugin_asdk_app_6a97be305050819192a4130e3e3acedc|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a97be305050819192a4130e3e3acedc",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:03.871Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 72
+    },
+    "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:04.154Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 77
+    },
+    "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:04.430Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 73
+    },
+    "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:04.753Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 58
+    },
+    "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:05.065Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 75
+    },
+    "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:05.359Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 53
+    },
+    "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:05.595Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 57
+    },
+    "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:05.891Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 57
+    },
+    "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:06.189Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 69
+    },
+    "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:06.775Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 55
+    },
+    "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:07.077Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 65
+    },
+    "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:07.905Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 70
+    },
+    "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:08.171Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 61
+    },
+    "plugin_connector_690a9430a270819196671dcb4c95898e|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_connector_690a9430a270819196671dcb4c95898e",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:08.407Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 61
+    },
+    "plugin_connector_690a9430a270819196671dcb4c95898e|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_connector_690a9430a270819196671dcb4c95898e",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:08.716Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 59
+    },
+    "plugin_connector_690a9430a270819196671dcb4c95898e|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_connector_690a9430a270819196671dcb4c95898e",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:08.935Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 57
+    },
+    "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:09.202Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 56
+    },
+    "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:09.479Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 62
+    },
+    "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:09.732Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 60
+    },
+    "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:10.002Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 58
+    },
+    "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:10.374Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 61
+    },
+    "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:10.601Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 58
+    },
+    "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:10.850Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 68
+    },
+    "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:11.117Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 58
+    },
+    "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:11.532Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 72
+    },
+    "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:11.786Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 57
+    },
+    "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:12.021Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 67
+    },
+    "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:12.405Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 82
+    },
+    "plugin_asdk_app_6a88631af75081918917d89fb00269ad|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a88631af75081918917d89fb00269ad",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:12.761Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 73
+    },
+    "plugin_asdk_app_6a88631af75081918917d89fb00269ad|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a88631af75081918917d89fb00269ad",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:12.996Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 70
+    },
+    "plugin_asdk_app_6a88631af75081918917d89fb00269ad|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a88631af75081918917d89fb00269ad",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:13.370Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 76
+    },
+    "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:13.663Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 75
+    },
+    "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:13.921Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 54
+    },
+    "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:14.170Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 73
+    },
+    "plugin_asdk_app_6a54f7589a18819194670b479e14137c|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a54f7589a18819194670b479e14137c",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:14.419Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 67
+    },
+    "plugin_asdk_app_6a54f7589a18819194670b479e14137c|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a54f7589a18819194670b479e14137c",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:14.676Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 64
+    },
+    "plugin_asdk_app_6a54f7589a18819194670b479e14137c|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a54f7589a18819194670b479e14137c",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:14.929Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 54
+    },
+    "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:15.267Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 60
+    },
+    "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:15.536Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 58
+    },
+    "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:15.895Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 67
+    },
+    "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:16.134Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 56
+    },
+    "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:16.454Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 52
+    },
+    "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:16.838Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 82
+    },
+    "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:48:17.104Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 73
+    },
+    "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:48:17.362Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 58
+    },
+    "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:48:17.657Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 54
     }
   },
   "complete": false,
-  "updatedAt": "2026-10-08T00:26:35.509Z",
+  "updatedAt": "2026-10-08T00:48:17.713Z",
   "pauseReason": "limit",
   "summary": [
     {
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
       "requested": 50,
-      "completed": 0,
-      "checksPassed": 0,
-      "errors": 0,
-      "reportedNeurons": 0
+      "completed": 12,
+      "checksPassed": 11,
+      "errors": 38,
+      "reportedNeurons": 312.015811920166
     },
     {
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
       "requested": 50,
-      "completed": 0,
-      "checksPassed": 0,
-      "errors": 0,
-      "reportedNeurons": 0
+      "completed": 12,
+      "checksPassed": 12,
+      "errors": 38,
+      "reportedNeurons": 532.0032653808594
     },
     {
       "model": "@cf/google/gemma-4-26b-a4b-it",
       "requested": 50,
-      "completed": 0,
-      "checksPassed": 0,
-      "errors": 0,
-      "reportedNeurons": 0
+      "completed": 11,
+      "checksPassed": 11,
+      "errors": 39,
+      "reportedNeurons": 699.445426940918
     }
   ]
 }
