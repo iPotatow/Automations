@@ -321,14 +321,19 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "搜索并获取更多数据",
       "legacySummaryOriginal": "Search and access more data",
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Search the web and access data providers and specialized indexes through Alexandria. Research companies, compare products, and find the data you need for your work. Access any page into clean content, and explore scientific papers and code repositories from your conversation.",
+      "description": "Firecrawl helps users search the web, extract page and document content, discover structured data providers, and research developer documentation and scientific papers. It also supports browser interactions, multi-page crawls, structured research jobs, website change monitoring, and account credit-usage checks.",
       "information": [
+        {
+          "label": "Capabilities",
+          "value": "Web search, Web scraping, Structured data extraction, Developer research, Scientific paper research, Website crawling, Browser interaction, Website monitoring",
+          "links": []
+        },
         {
           "label": "Developer",
           "value": "SideGuide Technologies, Inc.",
@@ -348,12 +353,12 @@
         },
         {
           "label": "Version",
-          "value": "2.2.0",
+          "value": "2.2.2",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T15:25:31.549Z",
+      "detailCheckedAt": "2026-10-08T05:11:31.549Z",
       "translationAttemptRun": "37202584253:1",
       "translation": {
         "summary": "搜索并访问更多数据",
@@ -364,7 +369,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-08T03:25:07.328Z",
         "translatedAt": "2026-10-08T03:25:07.328Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_connector_68df33b1a2d081918778431a9cfca8ba": {
       "id": "plugin_connector_68df33b1a2d081918778431a9cfca8ba",
@@ -15996,6 +16002,12 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-08T03:25:07.284Z",
         "translatedAt": "2026-10-08T03:25:07.284Z"
+      },
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:33.367Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:33.367Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_69f60c0bac548191b9782333ea1cbe2e": {
@@ -46725,6 +46737,12 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-08T03:25:06.958Z",
         "translatedAt": "2026-10-08T03:25:06.958Z"
+      },
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:35.441Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:35.441Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a5f7b1be6b48191b2ee935ebe58c6e1": {
@@ -54178,13 +54196,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "Charming 开发工具",
       "legacySummaryOriginal": "Personal apps for agents",
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Charming is a hosted runtime for personal web apps that users and their agents can share. An agent creates an app, Charming gives it a URL, backend, and key-value storage, and the user keeps using the same app and data across ChatGPT, Claude, and other agents.",
+      "description": "Charming is a secure cloud for apps you build with AI. Ask your assistant to build an app with Charming. Charming gives your app a link you can open anywhere and use to invite people to use it with you. They can use the app from their own AI assistant or their browser.",
       "information": [
         {
           "label": "Developer",
@@ -54205,12 +54223,12 @@
         },
         {
           "label": "Version",
-          "value": "1.1.0",
+          "value": "1.2.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:05:14.298Z",
+      "detailCheckedAt": "2026-10-08T05:11:37.447Z",
       "translationAttemptRun": "37202584253:1",
       "translation": {
         "summary": "供智能体使用的个人应用",
@@ -54221,7 +54239,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-08T03:25:07.135Z",
         "translatedAt": "2026-10-08T03:25:07.135Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6996e5762c508191846b87c57edbbebe": {
       "id": "plugin_asdk_app_6996e5762c508191846b87c57edbbebe",
@@ -79760,6 +79779,12 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-08T03:25:07.045Z",
         "translatedAt": "2026-10-08T03:25:07.045Z"
+      },
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:39.243Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:39.243Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6941e1d349208191b984b93cb344be5b": {
@@ -80941,6 +80966,12 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-08T03:25:07.127Z",
         "translatedAt": "2026-10-08T03:25:07.127Z"
+      },
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:41.335Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:41.335Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a695f24399c819190e2f3b413ff6052": {
@@ -117359,14 +117390,14 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "面向 AI 的法律研究数据",
       "legacySummaryOriginal": "Legal Research Data for AI",
       "legacyDescriptionSource": "Connect to an enterprise-grade database of case law, statutes, regulations, dockets, and more to enable complex legal research and writing workflows inside of ChatGPT.",
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Connect to an enterprise-grade database of case law, statutes, regulations, dockets, and more to enable complex legal research and writing workflows inside of ChatGPT.",
+      "description": "Midpage connects your AI assistant to US case law, statutes, regulations and agency guidance for legal research and litigation work.\n\nSearch court opinions by legal issue, citation or keywords. Analyze caselaw, examine reasoning and retrieve supporting quotations with links to the source. Research federal and state law, identify governing standards, and review available dockets and court filings.\n\nUse the research to develop arguments and draft briefs, motions and legal memoranda grounded in primary law.\n\nA Midpage account is required.",
       "information": [
         {
           "label": "Developer",
@@ -117387,12 +117418,12 @@
         },
         {
           "label": "Version",
-          "value": "6.0.0",
+          "value": "6.0.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:43:51.728Z",
+      "detailCheckedAt": "2026-10-08T05:11:43.388Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "法律研究数据",
@@ -117403,7 +117434,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-08T03:25:07.214Z",
         "translatedAt": "2026-10-08T03:25:07.214Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a69834b831c8191a0281d6aca1722f0": {
       "id": "plugin_asdk_app_6a69834b831c8191a0281d6aca1722f0",
@@ -120832,6 +120864,12 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-08T03:25:07.159Z",
         "translatedAt": "2026-10-08T03:25:07.159Z"
+      },
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:45.238Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:45.238Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_69a0ebc137fc8191a31ea04dadda2208": {
@@ -173535,6 +173573,12 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-08T03:25:07.244Z",
         "translatedAt": "2026-10-08T03:25:07.244Z"
+      },
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:47.350Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:47.350Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c": {
@@ -222375,7 +222419,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-07T04:59:20.334Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "把每天记录到日记",
@@ -222386,6 +222430,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-08T03:25:07.115Z",
         "translatedAt": "2026-10-08T03:25:07.115Z"
+      },
+      "detailNextAttemptAt": "2026-10-08T06:11:49.458Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:49.458Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa13b98d974819186351aeda445d4a7": {
@@ -224237,6 +224286,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:09:48.937Z",
+      "detailError": {
+        "at": "2026-10-08T05:09:48.937Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6abd427fd64c819199071ae93001843d": {
@@ -224252,7 +224308,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "information": []
+      "detailDue": false,
+      "description": "Pray Production Studio helps you turn creative ideas into AI video projects. Search your PPS projects, view project details, plan trailers, and render trailer videos from ChatGPT. Video generation uses credits in your PPS workspace, and the tools available depend on your account access and enabled providers.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Pray, Inc.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.prayproductionstudio.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.2",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-08T05:09:50.872Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab006e179b881918620ba236419415a": {
       "id": "plugin_asdk_app_6ab006e179b881918620ba236419415a",
@@ -224267,6 +224351,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:09:52.791Z",
+      "detailError": {
+        "at": "2026-10-08T05:09:52.791Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6aa02132f74c8191a3df331aee3b67ce": {
@@ -224282,6 +224373,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:09:54.859Z",
+      "detailError": {
+        "at": "2026-10-08T05:09:54.859Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab37421dc3c81919b639807e58724d7": {
@@ -224297,6 +224395,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:09:56.921Z",
+      "detailError": {
+        "at": "2026-10-08T05:09:56.921Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6aaccb41c63c819188242281417a8565": {
@@ -224312,6 +224417,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:09:59.112Z",
+      "detailError": {
+        "at": "2026-10-08T05:09:59.112Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a99cfc321cc8191bfd2b9c36c380067": {
@@ -224327,6 +224439,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:01.447Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:01.447Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a32406652f081919b860d8b9a545727": {
@@ -224342,6 +224461,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:03.575Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:03.575Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6aa86795f1188191b8e6dcd28e908281": {
@@ -224357,6 +224483,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:05.701Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:05.701Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a96acbac9388191b2bd896b13208855": {
@@ -224372,6 +224505,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:07.943Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:07.943Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_69de47395048819196b47688a3222079": {
@@ -224387,6 +224527,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:09.994Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:09.994Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab3980fb1488191a9b26b3f59efd90b": {
@@ -224402,6 +224549,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:12.057Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:12.057Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab3988e93408191a28cc89301266a0d": {
@@ -224417,6 +224571,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:14.104Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:14.104Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a712070f6c0819183a7429ba381a683": {
@@ -224432,6 +224593,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:16.200Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:16.200Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6aa196d5c8488191a3de00c74c9534ac": {
@@ -224447,6 +224615,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:18.265Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:18.265Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab2757102e08191887f75cc506c2333": {
@@ -224462,6 +224637,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:20.380Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:20.380Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab1cda19ea88191ad5786c255aa9b50": {
@@ -224477,6 +224659,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:22.423Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:22.423Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6aa1d6da5a88819187e23f9913146b3d": {
@@ -224492,6 +224681,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:24.652Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:24.652Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab22d5a94288191977c4f1233984454": {
@@ -224507,6 +224703,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:26.716Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:26.716Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a26d97bd46081918642a70d07cf07d4": {
@@ -224522,6 +224725,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:28.776Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:28.776Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab41ca8ad9c8191aff1e36e5b9c73d4": {
@@ -224537,6 +224747,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:30.954Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:30.954Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab23ce72a9c8191b8e8db68f0ad1b8c": {
@@ -224552,6 +224769,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:33.261Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:33.261Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab4809bed448191931f063b35677d15": {
@@ -224567,6 +224791,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:35.373Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:35.373Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab488d2d8348191aeca63f9d46fadaf": {
@@ -224582,6 +224813,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:37.453Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:37.453Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab3a3a7e17c8191ab7d27015958c2a4": {
@@ -224597,6 +224835,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:39.499Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:39.499Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab2c96a7ac08191a195159255244579": {
@@ -224612,6 +224857,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:41.592Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:41.592Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab2815f10ac8191a09931f6fab7aa6e": {
@@ -224627,6 +224879,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:43.800Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:43.800Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_69b58bc3d5088191813aa1ec093f6c4f": {
@@ -224642,6 +224901,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:45.871Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:45.871Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab4bf4ccaa0819187c5c982efe133b1": {
@@ -224657,6 +224923,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:47.947Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:47.947Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a6d1e32a7a88191ace9fb95ba92e762": {
@@ -224672,6 +224945,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:50.029Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:50.029Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab9f74baee0819183f0a726857cab76": {
@@ -224687,7 +224967,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "information": []
+      "detailDue": false,
+      "description": "Connect your B12 account to research chemical synthesis strategies, assess routes, and develop a selected strategy into a detailed route. Compare literature evidence, starting materials, reaction steps, and uncertainties. Revisit saved assessments and planning results across conversations. Research and route-development availability depends on your account configuration. Proposed routes require expert review and experimental validation.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "b12 Labs",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Scientific Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.b12-labs.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.3",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-08T05:10:51.987Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a9fc977245081919f6d259f6dfd555c": {
       "id": "plugin_asdk_app_6a9fc977245081919f6d259f6dfd555c",
@@ -224702,6 +225010,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:53.842Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:53.842Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab27e02b6f88191b72a053e0e319834": {
@@ -224717,6 +225032,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:55.900Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:55.900Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab424f09510819184c67efe86fa44e6": {
@@ -224732,6 +225054,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:10:57.952Z",
+      "detailError": {
+        "at": "2026-10-08T05:10:57.952Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab40feba8808191bf42d1c47dc87854": {
@@ -224747,6 +225076,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:00.171Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:00.171Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab3c380d3e081918389d336512c914a": {
@@ -224762,6 +225098,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:02.227Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:02.227Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab47661db0c8191999dbb61d7cdb990": {
@@ -224777,6 +225120,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:04.342Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:04.342Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a3cf95646208191bbbe827d9b44d0f2": {
@@ -224792,6 +225142,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:06.387Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:06.387Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a8aef1e122c8191891dbc5c74ffadaf": {
@@ -224807,6 +225164,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:08.430Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:08.430Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab3e501aef88191a5eca0ed900fe6ca": {
@@ -224822,6 +225186,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:10.486Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:10.486Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a801ee38924819188767f77d6d131ff": {
@@ -224837,6 +225208,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:12.556Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:12.556Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6aabe0d607c881919db39cd41af5406d": {
@@ -224852,6 +225230,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:14.588Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:14.588Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a7db3c930808191b645d0c6534c2c3a": {
@@ -224867,6 +225252,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:16.708Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:16.708Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a18225de2a48191999422743f9a3019": {
@@ -224882,6 +225274,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:18.773Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:18.773Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab13f1a7e5c819194ba96bf24362fdd": {
@@ -224897,6 +225296,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:20.937Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:20.937Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6aac4fa4c6948191a3351ef68a5cb888": {
@@ -224912,6 +225318,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:23.122Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:23.122Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab41e63e49c8191ba7b72342fa3b701": {
@@ -224927,6 +225340,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:25.184Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:25.184Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a392c6f607081919c2316c958269023": {
@@ -224942,6 +225362,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:27.285Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:27.285Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a4a5a256fa08191b1820f9421173ae9": {
@@ -224957,6 +225384,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-08T05:09:44.142Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-08T06:11:29.636Z",
+      "detailError": {
+        "at": "2026-10-08T05:11:29.636Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     }
   },
@@ -268012,23 +268446,23 @@
     "runId": "37730784095",
     "runAttempt": "1",
     "startedAt": "2026-10-08T05:08:01.076Z",
-    "updatedAt": "2026-10-08T05:09:44.154Z",
+    "updatedAt": "2026-10-08T05:11:51.271Z",
     "mode": "incremental",
-    "detailRequests": 0,
+    "detailRequests": 59,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
     "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 0,
+    "errors": 54,
     "stats": {
       "total": 4005,
-      "details": 3956,
+      "details": 3958,
       "translated": 3943,
       "missing": 16,
       "removed": 41,
-      "pendingDetails": 59,
+      "pendingDetails": 54,
       "pendingTranslations": 62
     }
   }
