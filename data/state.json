@@ -4150,10 +4150,11 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T15:26:18.350Z",
-      "translationAttemptRun": "37134929786",
+      "translationAttemptRun": "37721714319:1",
       "translationError": {
-        "at": "2026-10-03T17:49:24.016Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+        "at": "2026-10-08T03:21:21.542Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_69a089a326dc8191b32a3f2553f5be2c": {
@@ -4251,10 +4252,11 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T15:26:19.737Z",
-      "translationAttemptRun": "37134929786",
+      "translationAttemptRun": "37721714319:1",
       "translationError": {
-        "at": "2026-10-03T17:49:25.148Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+        "at": "2026-10-08T03:23:03.955Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_69d66f1e2abc8191b041e1dd10105a3e": {
@@ -257147,16 +257149,16 @@
     "runId": "37721714319",
     "runAttempt": "1",
     "startedAt": "2026-10-08T03:14:16.870Z",
-    "updatedAt": "2026-10-08T03:19:31.917Z",
+    "updatedAt": "2026-10-08T03:23:04.165Z",
     "mode": "translate",
     "detailRequests": 0,
-    "translationRequests": 45,
-    "translationAttempts": 3,
+    "translationRequests": 75,
+    "translationAttempts": 5,
     "translationLimit": 10,
     "aiConfigured": true,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 3,
+    "errors": 5,
     "stats": {
       "total": 3969,
       "details": 3969,
