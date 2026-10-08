@@ -1026,9 +1026,201 @@
       ]
     }
   ],
-  "results": {},
+  "results": {
+    "plugin_connector_68df33b1a2d081918778431a9cfca8ba|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_connector_68df33b1a2d081918778431a9cfca8ba",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:25:21.550Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 938,
+        "completion_tokens": 987,
+        "total_tokens": 1925,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 34.41645431518555
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "创建、审阅、编辑设计"
+          },
+          {
+            "id": "p4.0",
+            "text": "@Canva，根据此大纲创建一份路演演示文稿。\n@Canva，创建一则宣布我们周五促销活动的Instagram帖子。\n@Canva，生成一幅黎明时分灯塔的插画。\n@Canva，去除这张照片的背景。\n@Canva，上传此PDF并将其转换为演示文稿。\n@Canva，将此设计调整为适合社交媒体的尺寸。\n@Canva，根据我的品牌模板，从此表格生成设计。\n@Canva，更新此设计中的标题。\n@Canva，落实评论中的反馈意见。\n@Canva，将此设计与我的品牌模板进行核对。\n要求：使用插件需连接您的Canva账户。\n批量创建功能需使用符合条件的Canva企业版计划。\n设计和图像生成会消耗Canva AI积分。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 7657
+    },
+    "plugin_connector_68df33b1a2d081918778431a9cfca8ba|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_connector_68df33b1a2d081918778431a9cfca8ba",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:25:29.453Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1196,
+        "completion_tokens": 313,
+        "total_tokens": 1509,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 53.92644500732422
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "创建、审阅和编辑设计"
+          },
+          {
+            "id": "p4.0",
+            "text": "@Canva，根据此大纲创建路演演示文稿。\n@Canva，制作一则宣布周五促销的Instagram帖子。\n@Canva，生成一幅黎明时分的灯塔插图。\n@Canva，去除此照片的背景。\n@Canva，上传此PDF并将其转换为演示文稿。\n@Canva，将此设计调整为社交媒体尺寸。\n@Canva，使用我的品牌模板根据此电子表格创建设计。\n@Canva，更新此设计的标题。\n@Canva，在评论线程中实施反馈。\n@Canva，根据我的品牌工具包检查此设计。\n要求：使用插件前需连接Canva账户。\n批量创建需要符合条件的Canva企业计划。\n设计和图像生成使用Canva AI积分。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 9203
+    },
+    "plugin_connector_68df33b1a2d081918778431a9cfca8ba|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_connector_68df33b1a2d081918778431a9cfca8ba",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:25:38.867Z",
+      "completed": false,
+      "usage": {
+        "prompt_tokens": 943,
+        "completion_tokens": 5000,
+        "total_tokens": 5943,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 144.9363555908203
+      },
+      "error": "Translation output truncated",
+      "elapsedMs": 33839
+    },
+    "plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:26:12.916Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 777,
+        "completion_tokens": 417,
+        "total_tokens": 1194,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 16.301279067993164
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "创建文档、任务和数据库"
+          },
+          {
+            "id": "p0.0",
+            "text": "搜索并引用您的Notion页面"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 2453
+    },
+    "plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T00:26:15.644Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 1033,
+        "completion_tokens": 73,
+        "total_tokens": 1106,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 36.61353302001953
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "创建文档、任务和数据库"
+          },
+          {
+            "id": "p0.0",
+            "text": "搜索并引用你的 Notion 页面"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 1668
+    },
+    "plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T00:26:17.927Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 785,
+        "completion_tokens": 729,
+        "total_tokens": 1514,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 27.0181827545166
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "创建文档、任务和数据库"
+          },
+          {
+            "id": "p0.0",
+            "text": "搜索并查阅您的 Notion 页面"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 13197
+    },
+    "plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T00:26:31.379Z",
+      "completed": true,
+      "usage": {
+        "prompt_tokens": 922,
+        "completion_tokens": 696,
+        "total_tokens": 1618,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "neurons": 25.47430419921875
+      },
+      "output": {
+        "segments": [
+          {
+            "id": "summary",
+            "text": "创建和管理您的商店"
+          },
+          {
+            "id": "p0.0",
+            "text": "Shopify for ChatGPT让创建、运营和扩展在线商店变得像聊天一样简单。\n通过Shopify的AI商店构建器，将小企业想法转化为电商平台：描述您销售的商品，创建商店，添加产品并在线销售。\n已有Shopify商店吗？\n连接它以跨地点管理库存，创建折扣代码，查看订单和客户信息，并获取商店业绩分析。\nShopify支持在线销售、线下销售、B2B业务、在市场平台销售以及跨境销售。\n无论您经营的是按需印刷业务、销售数字产品、运营在线精品店、一件代发还是服务批发买家，Shopify都能为您提供构建、销售和发展的基础。"
+          }
+        ]
+      },
+      "checksPassed": true,
+      "elapsedMs": 4130
+    }
+  },
   "complete": false,
-  "updatedAt": "2026-10-07T18:13:22.888Z",
+  "updatedAt": "2026-10-08T00:26:35.509Z",
   "pauseReason": "limit",
   "summary": [
     {
