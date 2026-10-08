@@ -41,7 +41,20 @@ test('positions follows source domain without weakening securities checks',()=>{
  checkCompleteness('open positions','空缺职位','Recruiting');
  checkCompleteness('positions that match your experience','找到符合经验的职位','Fresenius Medical Care Careers');
  checkCompleteness('repeated positions on a Go board','禁止围棋棋盘局面重复','Go Game by BlueMoon');
+ checkCompleteness('review Search Console clicks and positions','查看 Search Console 点击量和排名','SEO');
  assert.throws(()=>checkCompleteness('positions and open orders','位置和开放订单','Brokerage'),/positions|open orders/);
  const units=translationUnits({name:'Checkers',summary:'Play a game',description:'Load custom positions.'});
  validateUnits({segments:[{id:'summary',text:'玩一局游戏'},{id:'p0.0',text:'加载自定义局面。'}]},units);
+});
+
+test('accepts job position context and faithful cost phrasing',()=>{
+ assert.equal(checkCompleteness('available positions at SonicJobs show job opportunities','展示可申请的职位机会','SonicJobs employment opportunities'),'展示可申请的职位机会');
+ assert.equal(checkCompleteness('Cost-effective capture, monthly pricing and delivery fees','成本效益高；月费和配送费',''),'成本效益高；月费和配送费');
+ assert.equal(checkCompleteness('Clear, competitive pricing','清晰且有竞争力的票价',''),'清晰且有竞争力的票价');
+ checkCompleteness('positions that match your experience','找到符合经验的职位','Fresenius Medical Care Careers');
+ checkCompleteness('repeated positions on a Go board','禁止围棋棋盘局面重复','Go Game by BlueMoon');
+});
+
+test('accepts usage-based pricing as a cost term',()=>{
+ assert.equal(checkCompleteness('usage-based pricing','按使用量计费'),'按使用量计费');
 });

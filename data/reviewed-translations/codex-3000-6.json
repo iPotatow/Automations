@@ -1,0 +1,666 @@
+[
+  {
+    "id": "plugin_asdk_app_6a98c7b0ece481919eb38a46ee7b6e06",
+    "name": "OffStereo",
+    "sourceHash": "3850c7834c87cbb74918122c5d2bbe6c78c1440f28a0579ce8da86d8048059cf",
+    "summary": "可播放的音乐故事与混音",
+    "description": "OffStereo 能把任何音乐问题变成可听的内容。你可以询问艺人、专辑、歌曲、音乐场景、采样、新发行作品，或音乐史上的今日事件；OffStereo 会制作一段简短的讲述节目，让故事与歌曲在同一个播放器中接连播放。你可以在聊天中暂停、跳过或调整内容；追溯曲目中有记录的采样；也可以创建播放列表并试听，然后再私密保存到 Spotify 或 Apple Music。连接 OffStereo 账户即可打开资料库，也可以分别连接 Spotify、Apple Music，或同时连接两者。你会获得聚焦且相关的结果；OffStereo 在保存到 Spotify 或 Apple Music，或对其进行更改之前，始终会先征求你的同意。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69dd66aac05c8191889aa3a18250dee6",
+    "name": "Oi",
+    "sourceHash": "834a74cb87228e38734e6d077d73a2f4c0239be42a7eadf35b37809cf2c35a66",
+    "summary": "开启",
+    "description": "Oi 帮助你发现、安装并使用可重复利用的 AI 智能体上下文来完成实际工作。浏览公开和私有的智能体上下文，选择适合任务的内容，然后按照清晰的说明和设置步骤，在 ChatGPT 或 Codex 中启动。团队可以统一 AI 在设计、工程、研究、支持及其他工作流程中的使用方式，无需每次都重写提示词。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a31dd76881c8191964e8f46ba95c8c6",
+    "name": "Olie Flow AI",
+    "sourceHash": "844f951a303bc88dc9aa6b4016a0997654d02952e600ce6c33774089697c9776",
+    "summary": "管理项目与漏斗",
+    "description": "Olie Flow AI 让用户可以在 ChatGPT 中管理 Olie 工作区：搜索和列出项目、查看项目状态与历史记录、浏览漏斗及其步骤、读取和添加项目内容、跟踪漏斗与步骤指标、在步骤间移动项目，以及创建、编辑或克隆项目。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a08dfd9b4948191b31c7f26bcfb256d",
+    "name": "Olostep",
+    "sourceHash": "6c97052bd54f4b9a7935db4e396aca359f15c3ce20c4c5df6253d04491ee02c3",
+    "summary": "搜索与抓取网页",
+    "description": "Olostep 将网页转化为适合 AI 使用的整洁结构化数据。你可以用自然语言搜索网页，将任意 URL 抓取为 Markdown、HTML、JSON 或截图，爬取整个网站，并获取基于网页来源的 AI 答案。Olostep 可靠、成本效益高，并可扩展至数十亿次请求，让你无需管理浏览器、代理或抓取工具，即可直接在 ChatGPT 中获取实时网页数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7f83418ef081919eef4331d1071357",
+    "name": "omgskills",
+    "sourceHash": "ed9ffccc8438eb5fe1cff753917a055fb1885e8766cb3de33d15440cbb42840c",
+    "summary": "查找可信的智能体技能",
+    "description": "从 omgskills 公共目录中发现适用于 Claude Code、Codex、Cursor 和其他编程智能体的技能。按任务搜索、查看详细元数据和安装说明、浏览热门及编辑精选技能，也可探索特定创作者的技能。omgskills 仅提供只读功能，帮助用户发现和评估技能，不会在设备上安装或更改任何内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1490df4c588191b9339ae21978c873",
+    "name": "omi",
+    "sourceHash": "58c27a4dbd899a5d23e0df0a3a69edd7adee732ada2a18a04e2ead62f5b51ec1",
+    "summary": "搜索你的 Omi 记忆",
+    "description": "Omi 让 ChatGPT 检索和管理你的 Omi 记忆及对话历史。你可以搜索过往对话、查看对话详情、列出已记住的信息，并在自己的 Omi 账户中创建、编辑或删除私人记忆。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69452c927b948191b2ea4515d84601ea",
+    "name": "Omio",
+    "sourceHash": "357e6a91173ab4765136b6b43ad4897f2b03b15854d616e98862d57d226a470d",
+    "summary": "预订火车、巴士与航班",
+    "description": "搜索、比较并预订覆盖欧洲、北美、南美和亚洲 46 个国家的火车、巴士、航班和渡轮票。获取来自 2,300+ 家交通服务商的实时价格和时刻表。\n\n主要运营商包括：\n- 火车：Amtrak、Deutsche Bahn、SNCF、Trenitalia、Renfe、Eurostar、ÖBB、Italo\n- 巴士：FlixBus、National Express、Greyhound、ALSA、Eurolines\n- 航班：包括 Ryanair、EasyJet、Lufthansa、American Airlines 等主要航空公司\n- 渡轮：Balearia、Fast Ferries、GNV 等\n\n可直接预订车票，并即时发送至手机。比较行程时长、价格和换乘选择。适合需要查找城市间路线、比较不同交通方式，或预订城际及国际行程的旅客。所有选项都整合在一次搜索中。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab23e1df18c8191a73935c265b2ea74",
+    "name": "Omnia",
+    "sourceHash": "ae388e3aaf5318aa12ec24e5c38d380a91e9dfdd4c5042da2b4c20a2af61dfd5",
+    "summary": "你的 GEO 助手",
+    "description": "Omnia 是一个 GEO（生成式引擎优化）平台，可跟踪 ChatGPT、Gemini 和 Perplexity 等 AI 模型如何看待并引用你的品牌。连接 Omnia 后，可查询品牌曝光指标、声量份额、情绪趋势，以及大型语言模型输出中的引用数据。监控品牌在 AI 生成回答中与竞争对手的表现对比，跟踪提示词层面的效果变化，并获取结构化分析数据，为内容和定位策略提供依据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ce67bdd5308191a2840b993cf325e5",
+    "name": "Omnisend",
+    "sourceHash": "88c482f9fd4a32d8c2fc07b7ed5cbb60c50bb80de6bbc2807630861bf811f941",
+    "summary": "分析 Omnisend 表现",
+    "description": "即时获取 Omnisend 数据的答案。询问营销活动表现、自动化流程流失情况和订阅者趋势。无需打开报表，就能了解哪些做得有效，以及接下来需要改进什么。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4cc0518698819198944cd25d2a536c",
+    "name": "Omny",
+    "sourceHash": "67024d3d106315738a1e7e885a70d602b98d4fd9b92f7881263e4f7ec143358f",
+    "summary": "找到理想房产",
+    "description": "找到真正符合你房产需求的房源。只需用自然语言描述搜索条件：预算、地点、生活方式、周边环境或具体标准。Omny 会筛选出最合适的房源，让你比较收藏项、保存偏好，并通过几个步骤申请看房。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4e76d149ac8191ac16e25e21319c73",
+    "name": "Omphalis",
+    "sourceHash": "0ac83ddff9b1133bc198ad07f31848c2befde465594599cfc89618d0ae15b4e6",
+    "summary": "阅读、收藏并添加笔记",
+    "description": "Omphalis 让你读过、听过和记下的内容逐渐串联起来。保存一篇文章，Omphalis 就会呈现其结构；通勤时听完播客，它能帮你回顾重点；看完两小时的演讲，它能在几秒内展示内容脉络；深夜录下一条语音笔记，它会将笔记放在相关的文章、演讲或论文旁边。\n\n去年春天读过的论文，可以与现在正在读的书相连；上个月散步时录下的语音笔记也能与二者并列。领域发生了什么变化、你的理解有什么变化、哪些内容依然成立，都属于同一个随时可用且彼此关联的资料库。这不是一堆越积越重的材料，而是一个日益清晰的空间。\n\n它适合那些需要让所读、所听内容在之后仍能派上用场的人，例如用于写作、教学、决策、研究或反思，让理解随着时间不断累积。\n\nOmphalis 是长期内容的伴侣：帮助梳理结构的地图、承载意义的页边批注，以及重返重要时刻的途径。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a100439469c8191a5bbfc749a479c81",
+    "name": "OnceHub",
+    "sourceHash": "bc6917baa95b0b10e1683450cbd7f6643b55cb0f86a251f442d3de1e5fd8112b",
+    "summary": "管理日程",
+    "description": "OnceHub 允许通过 ChatGPT 管理已通过身份验证的用户自己的会议、预订日历和中心、预订链接，以及定期或指定日期的可用时段。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a944918366481918a3c3f14dd34be97",
+    "name": "One Step Travel",
+    "sourceHash": "0b736c91ef298149596a5af1fa79949c5fde111ba082d7358f37fef5bef63344",
+    "summary": "规划旅行并估算费用",
+    "description": "使用个性化行程和预估旅行费用来规划旅程。One Step Travel 可以估算前往特定目的地的旅行成本、制定逐日旅行计划，并推荐符合旅客预算的美国目的地。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_connector_6a6917bfa0d8819082c3a0425e82cade",
+    "name": "OneNote (Beta)",
+    "sourceHash": "727dd3f71764fedec0d389ee646f3eb9ba618a04ea9821d48d9ffe44d3eff9f7",
+    "summary": "读取、导出、整理并安全更新 OneNote",
+    "description": "发现并使用 Microsoft OneNote 笔记本。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3d93b924488191bdb7eb40fc4219e6",
+    "name": "OneSignal",
+    "sourceHash": "ae3b8bcaa07b55810434c007a3e399db01569739ae753ab27ffdfa58ca2389df",
+    "summary": "管理消息工作流",
+    "description": "OneSignal 可帮助经过身份验证的工作区用户通过 ChatGPT 查看消息和受众数据、管理用户与模板、创建细分群体、发送通知，并配置电子邮件发送工作流。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6832de8c088191b69cafaf13466258",
+    "name": "OneUp Today",
+    "sourceHash": "f7f8c6ef16a3c9c6c1c2e2bda34dc23437459bac1bbb36ab610bb43307a9936e",
+    "summary": "在 Reddit 上寻找客户",
+    "description": "OneUp Today 可在 Reddit 上找到正在描述你的产品所解决问题的人，并将他们整理成可审核的拓展联系流程。使用此插件，你可以查看 OneUp 账户中正在运行的营销活动，浏览每个活动发现的潜在客户及其相关度评分和漏斗状态，阅读与潜在客户的对话记录，并使用 OneUp 的消息撰写器起草个性化开场白。经批准的草稿可加入发送队列；发送前还可以检查是否已准备就绪。每条消息都会通过你自己连接的浏览器会话发送，因此会以你的身份、通过你的账户发出，并且必须先经你批准。起草与发送始终是分开的步骤；未经明确确认，不会发送任何内容。新用户？首次使用时通过 Google 登录，系统会为你创建账户，并从本次聊天开始首次 Reddit 潜在客户搜索：只需告诉它你产品的网站。需要 OneUp Today 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a27130db8348191a67935d531be4d2d",
+    "name": "Onplana",
+    "sourceHash": "d8c3d5e0183e86a218da2cb3a2c156706a9de8225041103d8c35338cae00144e",
+    "summary": "规划项目并跟踪工作",
+    "description": "Onplana 将 ChatGPT 与你的项目组合连接起来。用一句话描述工作，它就能一步构建项目：包括史诗任务、任务、估算、依赖关系和计划日期。通过混合 BM25 + 向量搜索，搜索项目、任务、冲刺、风险、评论和 Wiki。读取项目状态、更新任务、记录工时、呈现项目组合层面的洞察并生成状态报告；所有操作都受组织套餐和角色权限控制，并会经过审计。专为在 Microsoft Project Online 于 September 2026 退役前进行迁移的团队打造。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d7fc1e77988191aec4891b19d96da2",
+    "name": "onX Offroad",
+    "sourceHash": "26b51f87d21358fd402ad049b7a3264492d5978f20e7f5c77588f5480b5b6b89",
+    "summary": "查找越野路线",
+    "description": "寻找下一次越野探险。在美国、加拿大或墨西哥的任意地点附近搜索路线，并按技术难度、车辆类型、路线长度和季节筛选。查看详细路线卡片，包含路线信息、路线报告、照片、海拔剖面、难度评级、车辆适配性等内容。所有信息均由 onX Offroad 提供。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5d9c7b6070819183af096968306650",
+    "name": "Onyx Coach",
+    "sourceHash": "2e235d01db7ad2885cbb4ed845fb696285534502d418f808192ec54fe8628d36",
+    "summary": "指导客户与训练",
+    "description": "Onyx Coach 帮助健身教练通过 ChatGPT 管理私人客户名单、查看训练记录、维护动作与训练资料库、创建并分配多周计划，以及记录私密客户笔记。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2bb8d25b7c81919668bc1c92d83289",
+    "name": "Oojo",
+    "sourceHash": "b20abf1f8fac99a69523522c65dedee2bf1b7142769b7da655fc4fd47300f6e8",
+    "summary": "比较航班",
+    "description": "Oojo 帮助用户搜索和比较实时航班选项、查看价格、时刻表、经停站和承运航空公司，并打开 Oojo 链接，在 ChatGPT 之外完成预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_696c1b3261d88191b98fc70125826939",
+    "name": "Open Context",
+    "sourceHash": "0ee8d40bd70ee878f3599b383502036ddcf36f8413433c6016d9c9240f473004",
+    "summary": "存储并检索上下文",
+    "description": "Open Context 让你在 AI 工作流中存储、整理并重复使用上下文。你可以保存个人资料、文档、说明及其他结构化信息，然后在需要时将恰当的内容载入对话或工具。\n\n无需反复解释背景或复制相同提示词，你可以基于共享且持久的权威信息源开展工作。这有助于保持对话一致、轻松实现个性化，并支持依赖长期知识和记忆的工作流。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9c2787bc48819197698e71b29ef7c2",
+    "name": "Open Ephemeris",
+    "sourceHash": "1ce2e0427bc6ca40f613e9f18135ae80747af831365ac566887a1f9ea86b2453",
+    "summary": "占星术、人类图与八字",
+    "description": "Open Ephemeris 为 ChatGPT 提供真实天文数据。每个天体位置都来自覆盖 1550-2650 CE、精度达到亚角秒级的 NASA JPL DE440 星历；它与航天器导航所用星历内核相同，因此位置是计算得出的，而非估算值。\n\n请求生成出生星盘后，对话中会打开交互式星盘。点击行星、宫位或相位线，即可就地查看解读。无需重复请求即可切换宫位制。人类图图谱、合盘双轮盘、行运时间线、吠陀占星 Rashi 网格和八字四柱图也同样适用。\n\n除星盘外，还支持行运与推运、太阳回归与月亮回归、日食和月食时间及当地可见情况、占星地图、择时搜索，以及恒星位置。\n\n可免费开始使用，无需银行卡。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_693022c8c0088191a7c7572aee832a0c",
+    "name": "OpenAI Certified",
+    "sourceHash": "f6f9d88c0373fc88f7e4472c42d2fe38ed4775b43fe7a179ae5f6261d4a67ab3",
+    "summary": "在 ChatGPT 中学习实用 AI 技能并获得 OpenAI Certified 认证。",
+    "description": "在 ChatGPT 中学习实用 AI 技能并获得 OpenAI Certified 认证。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_connector_1p_32dba5a7095c8191adca04ee30276304",
+    "name": "OpenAI Developers",
+    "sourceHash": "ad0bb261246c408be135f8749a1db4abd56e139794f99093804c04d935ca3caa",
+    "summary": "运用 OpenAI 最佳实践开发 AI 应用与智能体",
+    "description": "使用 OpenAI Developers 构建 AI 应用和智能体。借助最新模型和最佳实践优化现有 API 集成，并使用语音与图像模型打造多模态体验。通过 Agents API 和由 OpenAI 托管的沙盒构建智能体，并使用新的 GPT Live 双向模型创建语音智能体。获取改进提示词和诊断 API 错误的最佳实践。还可以通过官方活动信息和专题指导规划 DevDay。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a42dbbe74c081918a592a0aad65ca26",
+    "name": "OpenArt",
+    "sourceHash": "c7966d59054edb16e2f478f00940e5d41b3388e87e3d6ea14be072b2831ac633",
+    "summary": "创建图像与视频",
+    "description": "无需离开 ChatGPT，即可在 OpenArt 上创建图像和视频。只需描述想要的内容，也可以添加参考图，然后从最新 AI 模型中选择：GPT Image 2、Nano Banana 2、Seedance 2.0、Kling 3 Omni 等。OpenArt 会生成作品并将结果带回聊天中，完成时还会实时更新，让你在一次对话中从创意走到成品图像或视频。无需编辑工具。随时重新查看过去的创作，在项目中整理作品，并随时查看点数余额。OpenArt 添加新模型后，这里也会自动显示。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a971bba55a88191a9d4ad4edd5874b7",
+    "name": "Openlayer",
+    "sourceHash": "50575a5a496dc5bbcbe89a8df5dcec1f4470c638fe20c725f9bc746e44a13c6c",
+    "summary": "监控并治理 AI",
+    "description": "Openlayer 帮助团队通过 ChatGPT 检查 AI 项目、数据源、追踪记录、测试、评估结果和治理控制，并管理私有工作区资源。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6cf8d9a6888191aca749044c9f2807",
+    "name": "OpenRegs: Regulatory Research",
+    "sourceHash": "e98a516c33f0b5b731acb5e770d8c2230110f4c0e41e2ec1df9ff1f952bb1549",
+    "summary": "及时掌握法律，而非搜索网页",
+    "description": "OpenRegs 为合规团队将现行美国法规和法律带入 ChatGPT。覆盖 53 个司法管辖区：全部 50 个州、D.C.、Puerto Rico 和联邦层面。每个回答都会提供法律原文、研究日志和公开引用链接，任何人都能打开核查，让同事或审计人员能够验证结果，而不必只相信摘要。一次请求即可完成 50 州调查，无需手动维护电子表格。该服务由 OpenLaws PBC 开发，这是一家公益公司，也是 OpenLaws API 的提供方。OpenLaws 不是律师事务所，也不提供法律建议。\n\n使用场景：\n- 确认引用是否真实且仍然有效，然后阅读现行文本。\n- 一次请求即可比较某项规则在多个州之间的差异。\n- 研究美国法规和法律中的监管主题，并查看可核验的研究日志和引用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a57093e90e081918a8013806c91517a",
+    "name": "OpenRush",
+    "sourceHash": "3c9ee340075f06f15b5f2f8ae3e8c24bce1f2abf250377caa8e39e1b821c4b32",
+    "summary": "SEO 与竞争对手分析",
+    "description": "通过带引用且及时更新的数据研究关键词、分析竞争对手、查看搜索排名并跟踪自己网站的搜索流量。找到值得重点布局的关键词，了解竞争对手排名更高的原因，审查网站的技术问题；连接 Search Console 和 Analytics 账户后，还可查看点击量、流量来源和排名位置。适用于关键词发现、竞争差距分析和长期流量监测。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6935ba0e15b48191ae8ad5795b213c19",
+    "name": "OpenTable",
+    "sourceHash": "72611bb90e0fe4e40ed85f702bf964cd97a217128c280875a1ed4e48f22ffc1a",
+    "summary": "预订心仪餐厅",
+    "description": "查找餐厅预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a605b4283948191831f5f8c9b59fbd9",
+    "name": "Operator Powers",
+    "sourceHash": "9d557141b2e3c48d0cb665f024c9e09aa4b5971a532022877ed1fae588240fc0",
+    "summary": "助力运营与增长的 AI 技能",
+    "description": "Operator Powers 汇集了实用 AI 技能，面向希望提升工作效率的非技术运营人员。使用这些技能改进工作方式、了解客户真实需求、创建内容和设计、检验决策、强化产品方案和销售页面，以及推出数字产品。每项技能都针对特定任务，并能产出完整交付物。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a651de7b82c8191bc3480f1aa9c9e99",
+    "name": "Opscotch",
+    "sourceHash": "e015301b45699c5961ab174f86392d70a018e7aeddc7f31bd85feabad611bc40",
+    "summary": "知识与验证",
+    "description": "Opscotch MCP Server 为 AI 助手提供直接访问 Opscotch 知识和创作工具的能力。\n\n该 MCP 服务器提供结构化工具，帮助 AI 助手理解、创作、验证并处理 Opscotch 应用和工作流。\n\n此服务器面向使用 AI 编程助手的开发者，以及希望用自然语言构建或维护 Opscotch 解决方案的自动化工程师。\n\n连接该服务器的 AI 可以执行以下任务：\n- 回答有关 Opscotch 平台的问题\n- 解释 API、配置和运行时行为\n- 编写工作流和引导配置\n- 验证工作流结构与配置\n- 协助打包、部署和许可\n- 根据平台最新功能提供指导\n- 生成示例和实现模式\n\n通过 MCP，AI 可以使用专为理解 Opscotch 平台而打造的工具，从而让回答：\n\n- 更准确\n- 了解当前的平台功能\n- 能够进行结构化创作，而不只是生成文本\n- 更不容易虚构 API 或配置\n\n典型使用场景\n- “创建一个每分钟轮询 HTTP 端点的工作流。”\n- “为什么这个引导配置无法通过验证？”\n- “生成一个接收 webhook 并转发到 AWS SQS 的工作流。”\n- “解释这个 JavaScript 处理器。”\n- “帮助我将此工作流迁移到最新版本的 Opscotch。”\n- “帮我生成用于部署的签名包。”\n\n该服务器面向：\n\n- AI 编程助手\n- IDE 集成\n- CLI 智能体\n- 自动化开发者\n- DevOps 和平台工程师\n- 需要 Opscotch 权威知识的定制 AI 应用",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8c1b9f97f481918e9fd6dadbe9e6e9",
+    "name": "Optmyzr",
+    "sourceHash": "be0a671c8bd4aba43fd5a0de0df4035c1420090dcfc1eec0a238aa13ddbf162d",
+    "summary": "管理并优化 PPC",
+    "description": "Optmyzr 帮助广告主和代理机构查看已关联广告账户的表现、机会、分析数据、提醒和工作区数据；查找产品指导；创建监控例程；并通过 ChatGPT 准备或应用可审核的关键词和否定关键词更改。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a84784ebb6c8191819a3b6a4d86359c",
+    "name": "OpusClip",
+    "sourceHash": "320f886421d90d0de93e8362512090f048fda7e7f73bc4ca8fbe46b113a3caf0",
+    "summary": "剪辑、编辑并排期发布视频",
+    "description": "OpusClip 将 AI 视频编辑带入 ChatGPT。把长视频转换成适用于 TikTok、Instagram Reels 和 YouTube Shorts 的短视频片段，并由 AI 挑选精彩片段、自动重新取景和添加动态字幕。\n从受支持来源提供公开视频或未列出视频的链接，也可以使用已上传到 OpusClip 的视频。通过对话进行编辑：剪掉不需要的部分、删除填充词和停顿，并自定义字幕。编辑内容会保存到你的 OpusClip 工作区。\n导出短片、起草社交媒体文案，并请求发布或排期到已连接的社交账户。由你选择视频片段、目标账户和发布时间。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3afee66ea481919b2a45ae6e623b3a",
+    "name": "Orbismo",
+    "sourceHash": "38929487d4056686a3f21665d9a2b846e3f0d7b068d5b58925bdfa7bc4e5770c",
+    "summary": "构建 AI 熟悉的世界",
+    "description": "记录构成你世界的人物、地点、事件和细节。你使用的任何 AI 都能在任何聊天中调用这些内容，因此无需从头开始；你可以独自构建，也可以邀请整个团队加入。Orbismo 将所有内容保存在一个由你掌控、定制和分享的互联世界中。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a72f9db2440819182e2a20ea276ce9b",
+    "name": "OrbitPage",
+    "sourceHash": "514786c13082839437c5063a63601268bca4d50af4936c07e31070b643ee15dd",
+    "summary": "编辑并发布网页",
+    "description": "OrbitPage 帮助用户通过 ChatGPT 阅读、编辑、预览、发布和恢复自己托管的网页。所有更改都与已连接的 OAuth 工作区关联；应用会在编辑生效前展示方案，可以发布经批准的修订版本，并提供发布状态及保留版本信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0218f63798819186a1b0b18a83e9a9",
+    "name": "Order by Cash App",
+    "sourceHash": "badc1f6efeff3756b262d080a5c491d62103bb9d1930eabecebc69108b5dcc52",
+    "summary": "通过 Cash App 下单",
+    "description": "只需说出想吃什么，即可查找餐厅、浏览菜单、自定义订单，并通过几次点击完成结账。\n\n无论是快速吃一顿、再次点选最爱餐品，还是尝试附近的新店，Order by Cash App 都能让你轻松向本地餐厅下单。\n\n由 Cash App 的 Online Ordering 服务提供支持，可直接在 ChatGPT 中完成订单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f256267d548191baa53a7b798542b4",
+    "name": "Ordering.Tools",
+    "sourceHash": "3b1c43ba98582a2461e93a54c3dc2ada70491bc84cd74152fafa96e68453714a",
+    "summary": "餐厅订餐",
+    "description": "搜索由 Ordering.Tools 提供服务的餐厅，查看完整菜单（包含价格、过敏原、饮食选项和可选配料），并准备好待结账的订单。你可以问“Yugo Bistro 有哪些无麸质前菜？”或“帮我从 London Pub 点一个玛格丽特披萨和一杯可乐，外带，我叫 John，电话 +359...”；助手会生成购物车，根据餐厅实时菜单核对价格，并提供一键结账链接，让你在餐厅自己的页面上确认并付款。\n\n适用于数百家独立餐厅、咖啡馆、酒吧和酒店，支持自取、堂食和配送。每份订单都会附带餐厅提供的过敏原和饮食元数据，方便你提前标注注意事项。我们绝不会自动从银行卡扣款：你始终要在餐厅的结账页面确认并付款，流程与直接浏览其网站完全相同。只需使用 Ordering.Tools 账户登录一次，即可保存姓名、电话和电子邮件，方便之后一键下单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a608e436adc8191affb546011f744cf",
+    "name": "Orisu",
+    "sourceHash": "e7ed11920249bc39ffafd0b3b3e8f9a07d696c50dd01f03bc1cdd2504855c10b",
+    "summary": "构建 AI 媒体工作流",
+    "description": "Orisu 帮助用户创建、检查、编辑、运行并分享用于生成 AI 图像、视频、音频和文本的节点式工作流。用户可管理可重复使用的应用和品牌套件、验证工作流图、估算运行成本、监控执行情况，并通过 ChatGPT 查看生成结果。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a79affedd808191b69f2e62014b8235",
+    "name": "Orshot",
+    "sourceHash": "1b91ec2f578e936a65b2b58819dbf129450a7a071deb0880af696bdee42049a5",
+    "summary": "自动化视频、图像与 PDF",
+    "description": "Orshot 帮助用户使用可重复利用且符合品牌形象的模板自动生成视频、图像和 PDF，管理品牌素材，创建动态渲染 URL，起草自动化工作流，发布社交媒体帖子，并查看 Orshot 工作区中的社交数据分析。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a13e34004448191a3d689bf5b356065",
+    "name": "OSuite.ai",
+    "sourceHash": "34199e4ee5b42012abf70d2fa1f7db8059e9ec022bdf51a05c7c4450b839b8d8",
+    "summary": "审核有风险的 AI 操作",
+    "description": "OSuite.ai 帮助团队在重要 AI 操作发生前进行审核。它可以将高风险工作转入审批流程、检查操作是否获准继续、汇总运行时风险，并保留可供审计的记录，记录哪些事项经过审核、批准和完成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698c54e054c08191b7980a9a1e126157",
+    "name": "OTOMOTO",
+    "sourceHash": "116e7dd38fa15137498f0352cd9a7781faf6ebdb46c7515527ccfcd178ffffc5",
+    "summary": "在 OTOMOTO 找到心仪的汽车",
+    "description": "使用简单的语言在 OTOMOTO 寻找理想汽车。无需使用复杂筛选器和搜索表单，只要描述你想找的车，例如“适合 4 口之家、低里程的 SUV”或“年份较新、适合城市驾驶的汽车”。\n主要功能：\n\n智能搜索——用简单语言描述理想汽车\n精准结果——查看每条车源的信息并比较可选项\n交互式细化——继续提问以缩小搜索范围\n\n无论你是第一次买车，还是经验丰富的汽车爱好者，OTOMOTO 都能让购车像普通聊天一样简单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_696a80064378819184c212f6244021ec",
+    "name": "Otto by PassBy",
+    "sourceHash": "b9d59e7f1c154304f0a2eb0f3b5540228e54bcc27daf528e1e8fa5ef8228c6bd",
+    "summary": "零售洞察助手",
+    "description": "Otto 为美国实体门店提供现实世界的零售情报。\n\n由 PassBy 的专有数据提供支持，用户可以轻松询问哪些门店最繁忙、某个地点有多少人到访，或不同城市和品牌之间的表现如何。无需仪表板或分析师协助，即可立即获得答案。\n\nOtto 使用汇总且保护隐私的零售数据进行分析和生成报告，帮助用户了解实体零售的实际情况。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9a7acb988c8191b0ff581a3479faad",
+    "name": "OUIGO España",
+    "sourceHash": "354266a30187ec073bdefac4a191e71be24c82772ea22aca3023475fdd83cc62",
+    "summary": "查找 OUIGO 车票",
+    "description": "轻松规划行程，以实惠价格乘坐高速列车前往西班牙的 15 个目的地，票价 €9 起。\n\n只需在 ChatGPT 中通过 OUIGO España 应用输入出发车站、目的地和旅行日期，即可获取实时票价和时刻表。\n\n比较并细化搜索，找到符合预算和偏好的列车。\n\n选定列车后，只需在 OUIGO España 网站或应用上完成预订。\n然后通过 OUIGO 的不同票价选项定制行程：\n  - OUIGO Esencial：基础票价，可添加额外选项（选座、额外或超大行李、宠物、OUIGOFLEX……）\n  - OUIGO Plus：包含选座、额外或超大行李以及 OUIFUN 服务的票价。\n  - OUIGO Full：灵活票价，包含 OUIGO Plus 的所有权益，以及 OUIGOFLEX 选项，可免费改签车票。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c271c5d3a08191af9526629563664b",
+    "name": "Ouigo France",
+    "sourceHash": "c314e09bbd0601152848105c2c038b7973158555382e4e26a05c300b648722f9",
+    "summary": "查找 OUIGO 车票",
+    "description": "轻松规划行程，以实惠价格乘坐高速列车或普通列车，前往法国和比利时的 70 多个目的地；具体起价为 10 €，视出发车站而定。\n\n只需在 ChatGPT 的 OUIGO 应用中输入出发车站、目的地和旅行日期，即可查看实时票价和时刻表。比较并细化搜索，选择符合预算和要求的列车。\n选定列车后，只需在 OUIGO 网站或应用中轻松完成预订。\n\n随后可根据需要通过不同的 OUIGO 票价选项定制旅程：\n  - OUIGO Essentiel：按需搭配选项的基础方案（选座、额外或超大行李、折叠自行车或装袋自行车、OUIGOFLEX 选项……）\n  - OUIGO Plus：“全包”方案，包含选座、额外或超大行李，以及 OUIFI 和 OUIFUN 服务\n - OUIGO Full：灵活方案，可在出发前最多 7 天购买，包含 OUIGO Plus 的所有权益以及 OUIGOFLEX 选项，可免费改签车票",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a0eba51b5c81918c4a9f8973869153",
+    "name": "Outfit Lens",
+    "sourceHash": "3180e88821ac6856838409390d5e77c1f2bde4a491a49e86f002e1c5bb6bad0e",
+    "summary": "拍下造型，即刻选购",
+    "description": "把时尚灵感变成可以买到的商品。拍摄或上传任意穿搭照片，也可以直接输入想找的商品（“蓝色牛仔夹克”“皮革手提包”）；Outfit Lens 会从线上零售商中找到真实商品，包括与照片相似的商品，以及能搭配造型的上衣、鞋子、包袋和配饰推荐。快速比较价格，并直接前往零售商处购买。适合购买你在街头看到的穿搭、保存的截图，或一直念念不忘的造型。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6944b58290148191ae970160f3078cf4",
+    "name": "Outliner",
+    "sourceHash": "9fdaa73baaf2e249751fda260c505ecaf07f0673d9a25c31e0c16f574f783a2c",
+    "summary": "创建和编辑大纲",
+    "description": "在 ChatGPT 中直接将一个想法或上传的文件整理成清晰大纲。\n让 Outliner 帮你梳理路演演示文稿结构、规划产品发布，或构思文章；它会立即生成逻辑清晰的层级结构，你可以提升层级、精简或删除内容，在整理格式的同时思考。\n\n在 ChatGPT 中如何使用 Outliner\n\n1. 连接：将 Outliner 应用连接到 ChatGPT。\n2. 调用：通过以下任一方式启用该应用：\n输入命令：输入“@”后选择 Outliner 应用，或者在聊天框中输入“Outliner”（后面加一个空格）。\n操作列表：直接从操作列表中选择（需要 Sider 扩展程序）。\n3. 创建：现在即可开始！可以尝试提出具体请求：\n· “为我的气候变化研究论文列出大纲。”\n· “把这个产品概念拆解成逐步工作流。”\n· “总结此文件，然后制定项目计划大纲。”\n\n准备好后，复制大纲，并与团队一起继续完善。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e45ac95a488191a97fe25f2f0dc612",
+    "name": "OutReserve",
+    "sourceHash": "73b3acb9b86fd94423520cc527c0c1787616cae414126326d496d704fd300e18",
+    "summary": "查找露营地与房车营地",
+    "description": "通过 OutReserve 直接在 ChatGPT 中查找并比较露营地和房车营地。按目的地搜索、浏览附近选项、按营位类型筛选，并添加旅行日期以查看可订情况和价格信息。每项结果都包含实用详情，例如地点、评价、季节开放状态、设施、照片、地图，以及用于在 OutReserve 查看或预订的直接链接。\n\nOutReserve 专为希望更快捷轻松发现营地的旅客打造：减少标签页，提供更清晰的选项，让你更顺畅地从“我们应该住哪里？”找到“这个不错”。\n\n开启难忘户外体验之旅。发现、预订并探索。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a566052cde08191bbb62f836aba2c93",
+    "name": "Outside Agent",
+    "sourceHash": "3bcc81def9e3aa4bdcb0b70042575bf53f53deae26c0b1b8ca5ff115ebc5bad9",
+    "summary": "构建并发布 AI 智能体",
+    "description": "Outside Agent 可将自然语言说明转化为托管式 AI 智能体，无需离开你的编程智能体即可发布到短信、语音和网页渠道。描述智能体应完成的工作，它就会生成完整配置、基于你自己的内容构建知识、进行安全审查并完成发布。你可以创建智能体、填充知识库、在发布前预览回复、申请电话号码，并通过自然对话管理已创建的所有内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c59dc87d808191b78cda59c973dffa",
+    "name": "Ovios Home",
+    "sourceHash": "8f761982c5091aacad2a76f34fc799e0e1b8f061cdd02beeb7278fb5da97837e",
+    "summary": "选购 Ovios 户外家具",
+    "description": "浏览并发现 Ovios Home 的户外家具。自然地聊聊你想找什么——无论是露台沙发组合、餐桌还是休闲椅——都能根据空间、风格和预算获得个性化推荐。查看产品详情、并排比较选项，并获取直接购买链接。商品来自 Ovios Home 的完整产品目录，库存和价格均为实时信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a61e6c523c48191b68f446e6e0e55d6",
+    "name": "Owll",
+    "sourceHash": "f1aca0ebb67eff023b18f66e899747123c1faa0a99217b171164feb392c53850",
+    "summary": "搜索 Owll.ai 笔记",
+    "description": "Owll 是一款适用于会议、录音、文档、图像及其他内容的 AI 笔记产品。Owll for ChatGPT 会连接到用户已授权的 Owll 资料库，让用户搜索笔记、浏览文件夹、查看笔记详情和 AI 生成的摘要，并按需访问或导出文字记录。当前版本仅提供只读访问，无法创建、编辑或删除笔记。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3e81be8f8481918e1e2cd1d7ea09c4",
+    "name": "OWOX Data Marts",
+    "sourceHash": "8a0b5ed8b77a571977a380025371e35bb3a0c8e8deaf7d71c096e0e222e1870a",
+    "summary": "探索你的数据集市",
+    "description": "OWOX Data Marts 将 ChatGPT/Codex 连接到公司的受治理分析层。数据分析师会基于你自己的数据仓库（BigQuery、Snowflake、Databricks、Redshift、Athena）定义可信的数据集市，包括指标、维度和联接逻辑。在 ChatGPT/Codex 中，你可以通过自然语言搜索找到合适的数据集市、查看字段、查询受治理数据并获取由服务器计算的汇总结果——这些结果来自分析师定义的指标和联接逻辑，而不是从原始表格中猜测得出——还可以管理定期报告的运行计划。数据保留在你的数据仓库中；OWOX 只连接数据，不会留存数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a257dbabf308191b12c45cad8b33c0f",
+    "name": "Pablooo.club Benchmark library",
+    "sourceHash": "efa3c2802f7ccb22968d3086183a892e120c72e48d69a32d0f954b83d00017ec",
+    "summary": "对比 10k+ 张截图",
+    "description": "Pablooo.club 帮助用户搜索大型 iOS、Android 和 Web 应用截图库，比较真实的产品 UI 模式，按应用、屏幕类型和设备类型筛选，以轮播方式展示结果，并调取单张截图供进一步视觉分析。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5e7101271481918388b69db853c70f",
+    "name": "Pace",
+    "sourceHash": "a1fb558df2c16bdacdc862b7899a9545abc35fefa8caf415c8a114c550a937f3",
+    "summary": "掌握每笔交易的实时背景",
+    "description": "Pace 是销售管道的上下文层。它会从 CRM、电子邮件和通话录音中预先计算交易情报，然后将每笔交易的实时结构化上下文提供给 AI 助手。你可以询问某个客户账户的真实情况，获取有证据支持的 AI 风险和预测评估，发现陷入停滞的交易，并准确了解团队最终业绩。无需再翻查 Salesforce 或 HubSpot，也不必猜测。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a74879adef48191b026c7e5dd666694",
+    "name": "PaceKeeper AI",
+    "sourceHash": "934e3022dba334e904aa52242c432e1e00ab122ce523757bccc28a85be7d9509",
+    "summary": "训练与恢复洞察",
+    "description": "PaceKeeper 可帮助运动员查看个人档案和运动项目设置、检查计划中和已完成的训练、了解身心状态与恢复趋势，并分析其已连接的 intervals.icu 账户中的压缩活动流数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6651ce322481919e5b5e4a957b1c8f",
+    "name": "Pacelab Intervals",
+    "sourceHash": "f10f4f81453ad1b342b633a339133a96994575f0002f7420f167c90a7a4986b0",
+    "summary": "创建间歇训练",
+    "description": "Pacelab Intervals 帮助用户通过 ChatGPT 创建结构化间歇训练、将训练安排到 Pacelab 日历中、更新已保存的训练，并查看近期训练历史。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1c40469b288191949dd4cbd593062f",
+    "name": "Pacing: Run Coach & Tracker",
+    "sourceHash": "6ec07961a92583195910672ae91fec66a25707f6ca95e3f189567523c54096ad",
+    "summary": "在手机上执行 ChatGPT 训练计划",
+    "description": "在 ChatGPT 中设计跑步训练，然后出门开跑。Pacing 会将你在对话中制定的训练或计划转化为手机上的实时教练训练课程，省去把间歇训练内容复制到笔记应用的麻烦。无论你准备的是 6x800m 间歇训练、轻松长跑、阈值节奏跑，还是从零基础到 5K 再到马拉松的完整多周计划，都可以直接提出需求。准备好后，Pacing 会通过卡片、代码、深层链接或扫描 QR 码交接训练。用 Pacing 手机应用打开后，计划就会变成实时训练课程，通过语音实时指导每组间歇；当你的配速偏离时提醒你，并在每次变化前提前告知。更喜欢凭感觉训练？开启心率区间指导，在受支持的 iOS 设备上还可使用 AirPods Pro 3 实时心率。查看训练课程、调整配速、保存、排期，或直接开始。无需 GPS 手表。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a777414cb308191b809fc1b296614fa",
+    "name": "PackRat",
+    "sourceHash": "d162fc575e15d6c9bbf9996f596f5440050de1e62e471d1d0460d6fbe533b554",
+    "summary": "规划旅行并更聪明地打包",
+    "description": "PackRat 帮助户外旅行者规划行程并制作更完善的打包清单。按关键词或自然语言搜索大量户外装备目录，按重量和价格比较产品，并创建打包清单，分析总重量以及基础装备、穿戴装备和消耗品的重量明细。询问最重物品的轻量替代品，为特定行程查找遗漏装备，查看目的地近期天气预报，浏览户外指南，还可以将行程和装备清单保存到 PackRat 账户并与移动应用同步。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6970b8cdeb548191ae0bf1a90bf4a5f5",
+    "name": "Padel Analyst",
+    "sourceHash": "1813cf4c03f777482dacddd8cd5598d510473441dbc292bd50de38d5d30e408a",
+    "summary": "查询职业板式网球数据",
+    "description": "即时获取职业板式网球相关答案。\n\n查询任意球员的个人资料、排名历史和职业数据。比较球员或组合之间的交锋记录。查看赛事结果、比赛比分、详细比赛统计和逐分回顾。根据真实表现数据模拟对阵情况。数据覆盖 Premier Padel 和 FIP 巡回赛，以及历史 World Padel Tour 和 Pro Padel Tour 数据。\n\n由 Padel API 提供支持。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a55555b70508191b3453ca8ec9212ef",
+    "name": "Padlet",
+    "sourceHash": "90863c2f4886737f43187645d6de2e4a5f52fb8619209267b415fd887101f01e",
+    "summary": "创建并管理 Padlet",
+    "description": "Padlet 是一个视觉化协作看板平台，教师、学生和团队可在名为 padlets 的协作看板上收集、整理和分享内容。ChatGPT 版 Padlet 应用通过 OAuth 连接用户自己的 Padlet 账户，让用户可直接在对话中使用自己的 padlet。\n\n使用此应用，用户可以：\n- 创建 padlet，并使用分区、布局、壁纸和外观设置进行整理。\n- 添加、编辑、排列、置顶和排序帖子，并在自由布局看板上绘制帖子之间的关系。\n- 阅读、搜索和总结看板内容，包括对图像、视频、音频和文档附件进行 AI 分析。\n- 对帖子发表评论并管理讨论。\n- 通过修改权限、密码、协作者和电子邮件邀请来管理共享设置。\n- 安排定时冻结等自动化操作，并按需冻结或解冻看板。\n- 为学生提交内容评分，并通过 LTI 将成绩同步到已连接的 LMS（例如 Canvas 或 Schoology）。\n- 学校和团队资料库管理员可管理成员和邀请、按角色设置权限、配置 SSO（OAuth 提供方和 SAML）、批准的电子邮件域名、内容安全及允许的附件类型。\n\n该应用目前尚未完全支持 Padlet 的 Sandbox（白板）格式，但支持 Padlet 的其他看板格式。\n\n所有操作都针对已通过身份验证的用户 Padlet 账户，并遵循 Padlet 的权限模型——应用只能查看和更改登录用户在 Padlet 本身有权查看和更改的内容。删除帖子和分区属于软删除，可通过专用恢复工具还原；少数不可逆操作（删除评论、自动化或自定义字段，移除协作者、邀请或已批准域名）会标记为破坏性操作，因此助手在执行前会向用户确认。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a94ee278a70819185e417020a0450f6",
+    "name": "Page2AI",
+    "sourceHash": "a4779f19a02303a3925784651096ec201bb66cfef4c04de46663862eab6fbe0a",
+    "summary": "将公开网页转换为 Markdown",
+    "description": "Page2AI 会将单个公开网页（仅限你明确提供的 URL）转换为适合大型语言模型上下文的整洁 Markdown：提取主要内容并去除模板杂项，同时保留标题、代码块、表格和链接；还可选择添加包含来源 URL 和标题的 YAML 前置元数据。按需运行且只读：不会爬取网页、不需要账户，也不会由应用存储数据。它不会绕过付费墙、登录、速率限制或任何网站的访问控制；会拒绝私有网络和云元数据 URL；响应上限为 10 MB，并强制实施超时和按 IP 限速。相同的 MIT 许可引擎也可作为本地 MCP 服务器使用（npx -y page2ai-mcp），适用于完全私密的工作流。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a13a2500194819184429920c9b66c41",
+    "name": "PageShare",
+    "sourceHash": "4fd3c9b97d225363f7683ca435c1e844069c20ad842cea9d580f305c6db7c3ed",
+    "summary": "分享并保护生成的 HTML",
+    "description": "PageShare 让你能够分享并保护使用 ChatGPT 生成的 HTML 页面。发布新页面并更新现有页面，通过密码或电子邮件规则控制访问，管理自定义域名和追踪链接，并查看网站分析数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6943669d08d08191a4fd19bd94f13f4f",
+    "name": "Paloma",
+    "sourceHash": "38dc436e556bdfb061ddd812fcdf9a8f18a03ab4967662f1c294272beb7f0c6f",
+    "summary": "查找活动场地",
+    "description": "Paloma 帮助你为私人派对、活动和大型团体用餐查找并预订场地。提供宾客人数、日期、预算和偏好等活动详情后，Paloma 会根据实时空闲情况、设施和承办能力为你匹配场地。从生日派对和公司聚会，到私人包间和餐厅大桌，Paloma 让你轻松发现合适场地，并放心地从搜索进入咨询。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a96ec86423c8191a13c7369bba45295",
+    "name": "PandaDoc",
+    "sourceHash": "6a362e707659c14af40f08f99394a500388951e3adb4f4ec3f3cb151d4d49b13",
+    "summary": "发送文件以供签署",
+    "description": "无需离开对话，即可在 ChatGPT 中创建各类协议并发送电子签名。描述你的需求，查看协议逐步成形，添加收件人并发送。你的 AI 草稿会自动变成精致且可供签署的协议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a90854bdd048191a54f870d317270c1",
+    "name": "Panderr",
+    "sourceHash": "fa62b93291cbe84a961c71b024132ece3b425ea97c8c937db80c12708f348123",
+    "summary": "迁移并编辑网站",
+    "description": "将现有网站导入 Panderr，以便保留、改进或重新设计。以现有网站为起点，迁移其页面和内容，然后继续在 Panderr 中编辑和管理网站。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69adad9bda08819187d81b717f588434",
+    "name": "Pantry Persona",
+    "sourceHash": "a654ffcb14e9acc0aef8d035eb7498a4ced7670105f71f215cbdb6f33d5da7cc",
+    "summary": "膳食计划、食谱与采购",
+    "description": "把你喜爱的厨房管理应用的一切功能，以及更多能力，带入 ChatGPT。\n\nPantry Persona 会记住冰箱里有什么、家人能吃或不能吃什么，以及你偏好的品牌。它可以保存食谱、规划餐食、制作购物清单并跟踪营养信息；你在一周中做饭和采购时，它会让所有内容保持同步。\n\n**食谱** — 从网站、烹饪视频或社交帖子保存食谱，也可以直接在对话中创建。按食材、菜系或现有食材可做的菜品搜索，并将收藏食谱整理成合集。\n\n**膳食计划** — 一次生成整周餐食，或逐日规划。计划会自动遵循家庭的饮食偏好和饮食规则，并附上每餐的营养信息，方便查看整周安排。\n\n**购物清单** — 按商店整理的可视化交互清单。轻点一下即可勾选商品。让它根据膳食计划生成购物清单时，会跳过储藏室已有的商品。准备购买时可发送到 Instacart。\n\n**烹饪模式** — 开始烹饪食谱后获取逐步指导。完成后，食材会从储藏室库存中扣除，剩菜则会记录并标注保质日期。\n\n**营养** — 查看每道食谱和每餐的卡路里及宏量营养素，为每个人设置每日目标，并查看今天或本周的摄入情况。记录实际吃过的食物，包括外出用餐，也会计入总量。\n\n**个性化厨房** — 家庭资料会保存每位成员的饮食偏好、饮食规则、喜爱的品牌和营养目标。每条建议、计划和搜索结果都会据此筛选，无需重复说明。邀请其他家庭成员后，大家可以实时使用同一份储藏室库存、食谱和购物清单。\n\n还可以跟踪储藏室食品的保质日期、预测哪些常备食品即将用完、学习你购买的品牌和价格，并将杂货收据转换为最新库存和清晰的支出概览。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6209a216b48191b731c56b2b0e772e",
+    "name": "PaperDock",
+    "sourceHash": "5fb6977fe046f61d9c1c5b9503af7d74ceceec5633efdb30eccd162c562bd00b",
+    "summary": "编辑并协作处理 LaTeX",
+    "description": "PaperDock 帮助研究人员通过 ChatGPT 处理私有 LaTeX 项目。用户可以创建项目、查找并编辑源文件、添加或替换项目文件，并通过评论和聊天协作。每项操作均遵循用户当前的 PaperDock 项目角色，源文件编辑内容可通过“Review changes”查看。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4e564b06508191a9f03ec6bcd7b49a",
+    "name": "Paradise Beach Cozumel",
+    "sourceHash": "fb24d80f00b00154f89a78a4b10eced0569dc4ac6bcfe2ccd55084f81912bb49",
+    "summary": "管理海滩一日游预订",
+    "description": "这是 Paradise Beach Cozumel 的官方数字礼宾服务。轻松管理或修改预订，浏览一日通行套餐，查看价格，并即时了解设施、附加服务及享受完美海滩一日游所需的一切信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69efb4c23a1881918ff3fb17c09eaf24",
+    "name": "Parenting Hub",
+    "sourceHash": "4d495024543d1d66bffb016fc58138ddb4c79f605b834853270c8faf5dbdda29",
+    "summary": "婴儿饮食与照护答疑",
+    "description": "Parenting Hub 帮助家长查找带有来源链接的指导内容，涉及婴儿喂养、辅食添加、产后健康、安全问题和后续步骤。它会在相关情况下提供实用答案卡、婴幼儿食谱详情、配料、步骤、过敏原、营养说明和安全指导。此服务仅供教育参考，不能替代临床医疗。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4bba76b3f08191b728d00f84e49b29",
+    "name": "Parks n Paws",
+    "sourceHash": "2ade698c33aff30f714e84111332efbbdf2d1e8f630b2d556e23088e97fd4ca4",
+    "summary": "查找可携狗入住的公园周边住宿",
+    "description": "Parks n Paws 帮助旅客查找美国国家公园附近经过人工审核、允许携狗入住的酒店。每条房源都会突出实用的宠物政策信息，例如费用、体重限制、品种限制、地点和适合狗狗的设施。我们会提供客观的优缺点，以及附近兽医、可携狗用餐场所和最佳游览季节等本地建议。该目录涵盖 60 个美国国家公园和另外 25 个知名公园及纪念地周边的 1,300 多家酒店。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a88ed0e831c8191857f4239bb9be0db",
+    "name": "Parliament Connect",
+    "sourceHash": "014dd38914e019b033a1e91322201ca12a474c04903ec9da8ff2944f4b606423",
+    "summary": "搜索英国议会视频片段",
+    "description": "根据实际发言内容搜索英国议会视频片段库。用通俗语言描述一个想法，或提供你记得的独特词句，Parliament Connect 就会返回匹配片段，并附上发言人、党派、会议日期、文字稿摘录和可分享的视频链接。可用于查找记忆模糊的引语、确认某位议员是否谈过某个主题，或调出辩论现场视频。搜索范围涵盖你的 Parliament Connect 套餐所包含的议员，并使用现有账户登录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a804c772fe48191ba286c9421e2e13d",
+    "name": "Parra-Glideator",
+    "sourceHash": "6ec51e9fa34ffce3dc6d5a6a397080296c7b33b739d16b7277c7fb984792d496",
+    "summary": "规划下一次飞行。",
+    "description": "Parra-Glideator 帮助飞行员筛选条件看起来最理想的地点和时间。其只读工具可按选定日期对场地进行排名、比较基于预报得出的越野飞行潜力、展示已保存的场地概况和历史季节性信息、提供起飞与降落资料，并列出精选的本地资源，例如俱乐部页面、网络摄像头和气象站。结果仅用于辅助决策：飞行员起飞前必须自行核实当前条件、当地规则、空域、进入权限，以及其技能和装备是否适用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69732efbec4c8191b922536df9857357",
+    "name": "Partoska",
+    "sourceHash": "803c6f8c4ed02e8a320344475fc6bd9b8a4dba52d925a059d4e6a980b9c5322f",
+    "summary": "收集并分享活动照片",
+    "description": "派对结束后，你是否曾花上好几个小时，在聊天群组、电子邮件往来和零散的云端文件夹中寻找照片？Partoska 可以解决这个问题。\n\n创建活动，分享链接或 QR 码，然后看大家把照片以原画质汇集到同一个地方。\n\n适用于婚礼、生日派对、团队活动、家庭聚会、公司聚会、体育比赛、营地活动，以及任何值得留存照片的场合。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b3aaf82bb0819188b2fc5a2b69280e",
+    "name": "Patent Connector",
+    "sourceHash": "2d6ef692103f96257131209c1a43daf00818ee88e501b06a93df4ced013dfa9e",
+    "summary": "搜索专利与商标",
+    "description": "直接在 ChatGPT 中搜索并阅读主要知识产权局的专利、商标和注册外观设计。\n\n专利：可完整搜索美国（USPTO）、欧洲（EPO）和德国（DPMA）的专利及文件（权利要求、摘要、说明书）；支持搜索澳大利亚专利（IP Australia）；并可查询日本（JPO）和台湾（TIPO）的书目信息及法律状态。此外还支持专利族、审查历史、USPTO 审查意见通知、并排比较，以及所有权/转让记录。\n\n商标：搜索欧盟（EUIPO）和澳大利亚注册簿；查询美国（USPTO/TSDR）、欧盟、日本、澳大利亚和台湾的状态及文件。\n\n外观设计：搜索欧盟（EUIPO）、日本和澳大利亚的注册外观设计并查看图片。\n\n需要从你想使用的主管机构获取免费的 API 凭据——几分钟内即可在 patent.dev/patent-connector（免费）完成设置。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d5cf9e9a548191a604954338985681",
+    "name": "Pathors",
+    "sourceHash": "1f75d7d5b8a6fa01b3db749f96c7c3c7f71898d810391f77fc8cc302c1110d3a",
+    "summary": "构建并部署语音智能体",
+    "description": "几分钟内即可构建并部署可用于生产环境的语音 AI 智能体——无需编写代码。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694d16dd066c8191b123b5d9bcf3a5c5",
+    "name": "Patriot Conceptions",
+    "sourceHash": "a34eafc10003ec7c607478b1de6524757ea24619b8b479955a7adffbd3337dce",
+    "summary": "预览资料",
+    "description": "Patriot Conceptions 帮助用户浏览经授权的代孕者资料预览卡片、比较少量候选人，并继续前往受访问限制的 Patriot Conceptions 资料页面或接入链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a69949cfa40819183b8e7cc09329d96",
+    "name": "Patsnap Patent Paper Search",
+    "sourceHash": "053ae10054bef2374b509c79a8de99c49654dca84577b34701d6326cee0f6991",
+    "summary": "统一搜索",
+    "description": "这是一款专业工具，可同时深入整合搜索 Patsnap 全球专利和文献数据库。它支持自然语言查询、语义搜索和关键词搜索，并具备精准预筛选能力，以高效、准确地检索科学与专利情报。此 MCP 还允许用户以 Markdown 格式获取专利或文献的基本书目信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a411a8b32c81919a745365382dcbb2",
+    "name": "PAWFECT | PUPPY YOGA",
+    "sourceHash": "2ffe8960deacb32792729413d1cc5c26b6d2cd38c467cf63f606e89bc140ba64",
+    "summary": "预订附近的幼犬瑜伽活动",
+    "description": "伸展、创作、拥抱！Pawfect Max 将放松瑜伽和引导绘画与幼犬的活泼乐趣结合起来。在这场有趣又令人愉悦的工作坊中，健康体验遇上摇摆的尾巴。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4f50013d9481918845d1ffc2c1e21b",
+    "name": "Paytm Travel",
+    "sourceHash": "0416f131d56c64c8174555f6d5091459b9de090e36bb1fdd6c74fad33cbdbdd6",
+    "summary": "查找航班与巴士",
+    "description": "在 ChatGPT 中搜索和比较 Paytm 实时航班及城际巴士选项。浏览票价、时刻表和筛选条件；查看航班价格明细和票价规则；检查巴士设施、上下车地点及取消政策；随后前往 Paytm 完成预订。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8ada2e49408191a0e9861b1dda442f",
+    "name": "Pazarus",
+    "sourceHash": "168f1e1023f11c5a356dbc3f4273406298b65f0b00e4f95bb8d4a2233e04659e",
+    "summary": "电商平台集成器",
+    "description": "Pazarus 是一个电商平台集成服务，可在一个面板中管理 Trendyol、Hepsiburada、Amazon、n11、Çiçeksepeti、PttAVM、Pazarama、İdefix 及其他电商网站。此插件会将你的 Pazarus 账户连接到 ChatGPT；你可以在聊天中查询并分析店铺数据。\n\n可以执行的操作：\n• 销售：“按平台分析我昨天的销售额”“本周我卖得最好的商品”\n• 订单：“昨天收到的订单有多少已发货？”“订单 TY-100234 目前是什么状态？”\n• 退货：“最近 30 天的退货率和最常见的退货原因”\n• 库存：“缺货商品”“14 天内即将售罄的商品”\n• 客户问题：“等待回复的平台客户问题”\n• 利润：“本月损益摘要、佣金和运费占比”\n• 状态：“我的平台连接有问题吗？最近有哪些提交错误？”\n\n回答来自真实店铺数据，并附有相关面板页面的链接。连接通过 OAuth 建立，仅涵盖你在 Pazarus 面板有权限访问的数据；客户个人信息会被遮蔽；所有工具均为只读（不会更改库存、价格或订单）。你可以随时在面板中断开连接。需要 Pazarus 账户；所有套餐均可使用，包括免费套餐。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a837ebb63688191887b5c55c3a6e072",
+    "name": "PC Toplama Aracı",
+    "sourceHash": "ca9a3017eea7aaf6411dc0bd176936f05ad7605f158f4f22d7cd481267b7e773",
+    "summary": "组装系统与 PC 配件",
+    "description": "通过 UcuzaCebinde，你可以组装电脑系统并获取实时的真实电脑配件价格。根据需求搭建 PC，还可以创建 setup 链接与朋友分享。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1d92a960208191a307a35c35722eec",
+    "name": "PDF Editor by PDF net",
+    "sourceHash": "0acedebdceb26308d12599d34a8d81e058ce56d02d8323eecdafbfa2143d2672",
+    "summary": "创建、转换并整理 PDF",
+    "description": "将 pdf.net 连接到 ChatGPT，以便编辑、生成和整理 PDF。你的 pdf.net 资料库会直接连接，无需每次重新上传。\n\n直接编辑 PDF：修改文本、修正日期、填写表单。通过提示词生成新 PDF，例如发票、合同和提案。最多合并 20 个 PDF，按页码范围拆分、压缩，并转换为 Word、Excel 或 PowerPoint。翻译完整文档，同时保留版式。将资料库整理到文件夹中。\n\n处理 PDF 可能很慢。你得先转换为 Word 才能编辑，切换工具来合并，额外付费翻译，还得翻找文件夹找文件。pdf.net 把这些操作全部放在一个聊天中。\n\n直接编辑 PDF，无需往返转换 Word。通过提示词生成发票、合同和提案。最多合并 20 个文件，按页拆分、压缩，并转换为 Word、Excel 或 PowerPoint。翻译完整文档并保留版式。你的 pdf.net 资料库保持连接，随时发条消息就能访问文件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694a7093b8308191ae6592025c7ba8e2",
+    "name": "PDF Editor PRO by Playgram",
+    "sourceHash": "37501ddb7b74a588738756791cedd111f0a8e20684c2a2f80a6832002af6fa62",
+    "summary": "编辑和批注 PDF 文档",
+    "description": "直接在浏览器中轻松编辑、批注和签署 PDF 文档。PDF Editor Pro 让你可以修改文本、添加图像、突出显示重要部分，并使用简单的文本提示编辑 PDF。\n\n主要功能：\n\n* 直接编辑 PDF 中的文本和图像\n* 使用 AI 提示编辑 PDF（只需描述希望更改的内容）\n* 添加批注、评论和高亮标记\n* 使用你的签名签署文档\n* 填写并保存 PDF 表单\n* 合并和拆分 PDF 文件\n* 将 PDF 转换为其他格式\n* 使用密码保护敏感文档\n\n非常适合学生、专业人士以及日常处理 PDF 的任何人。无需安装——通过直观界面即可立即开始编辑。文档会经过安全处理，绝不会存储在我们的服务器上。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a46236573c88191bee8842836b0aa7e",
+    "name": "PDF Reader Pro",
+    "sourceHash": "70882719439c43ebf461062262566e37f65e886b376150a394c45077ef4bcb5d",
+    "summary": "转换并管理 PDF",
+    "description": "在 ChatGPT 中通过附件或上传组件转换 PDF 和 Office 文件、压缩 PDF、合并文档、提取表格并管理 PDF 页面。结果会以可下载文件的形式返回。",
+    "model": "codex-subagent-reviewed"
+  }
+]

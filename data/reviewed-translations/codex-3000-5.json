@@ -1,0 +1,666 @@
+[
+  {
+    "id": "plugin_asdk_app_6a63dd1f7c448191a9e50bc2a5956a86",
+    "name": "Music Block",
+    "sourceHash": "d65feb2ca2a6833eb4c4922dbe08cc9b06f6487727a133696a90db42ac41c921",
+    "summary": "创作乐谱与吉他谱 TAB",
+    "description": "Music Block 可将你在 ChatGPT 中的音乐灵感转换为可播放的乐谱和吉他谱 TAB。\n\n你可以请求吉他乐句、钢琴和弦配置、贝斯线、鼓点、旋律、和弦进行、练习曲、编曲或乐理示例；Music Block 会直接在对话中将它们排版成雕版风格的乐谱。\n\n可以尝试这样提问：“给我 5 条适用于 B7alt 的旋律小调乐句”“为 ii–V–I 写一段行进贝斯线”“展示声部连接流畅的爵士钢琴和弦配置”或“把这段旋律改编为弦乐四重奏”。\n\nMusic Block 支持吉他、贝斯、尤克里里、钢琴和键盘、鼓、弦乐、铜管、木管、萨克斯和人声。吉他、贝斯和尤克里里示例包含 TAB；键盘使用大谱表；合奏最多可包含 8 个声部。\n\n每个示例都支持播放，你可以听到自己正在学习的内容、调整速度，并单独静音或独奏各个声部。你还可以使用替代调弦、扩展音域的吉他和贝斯、摇摆和 Shuffle 节奏、连音符、和弦符号，以及推弦、滑弦、击弦和勾弦等常见吉他技巧。\n\nMusic Block 适用于练习、教学、写歌、编曲，以及通过为对话创作的简短原创示例探索乐理。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a60d84f01dc819183ec9fd36fd44139",
+    "name": "MusicBook Pro",
+    "sourceHash": "293bf13ddcbe433f8710a91ad1d78a92713002a7a501e0a46f07231c8425ab78",
+    "summary": "创作和规划音乐",
+    "description": "MusicBook Pro 是面向音乐人的私人效率工作区。它可以搜索已连接 Mac 上经用户批准的歌曲库文本和音乐元数据，查看歌曲、草稿、灵感、项目和歌单，并创建新的灵感或歌单，而不会更改现有内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69feec9028fc81919d28fd903c166cb0",
+    "name": "MVP Adviser",
+    "sourceHash": "aeb58c2903583347beabe6b379612ac74b01297dc1be1af0e2d26cfee9f622a2",
+    "summary": "评估 AI 是否适合 MVP",
+    "description": "MVP Adviser 帮助创始人和产品团队整理 MVP 背景信息，评估该用例是否确有必要使用 AI，审视关键风险和范围，并制定实用的实施计划。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1036f7cb9c81918792889c321869ce",
+    "name": "MyAreaReport",
+    "sourceHash": "55b47e7d0e67cafc2dd076111ac2645c4dc369d776dbc433c32b6922b6c49a38",
+    "summary": "英国地区信息",
+    "description": "MyAreaReport 帮助用户在 ChatGPT 中探索英国邮编、邮区前缀和地区相关信息。它会检索犯罪、洪水预警、房价、道路交通和附近燃油价格等官方公开数据，并通过内容丰富的仪表板展示结果，还可进一步深入查看详情。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698cd00a264c8191893e213ab2bccccb",
+    "name": "MYCOlive",
+    "sourceHash": "ef6d52439ca930ded8fb15a55fab9bd54dbd3433b3d98891f9ea5ad71f895733",
+    "summary": "住房租赁平台",
+    "description": "MYCOlive 帮你在一处发现并比较合租公寓和房间。浏览可租房源、查看配套设施，并根据所在位置、预算和生活方式寻找灵活的居住选择，让你更轻松、更安心地选到住处。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6945d9d84c5c8191a28343ae9d7b6e8b",
+    "name": "MyFitnessPal",
+    "sourceHash": "c2277f67fd1fc0112b247684ec37d2e2a61d42ba0bd4b1e3709933b5dea4a331",
+    "summary": "生成膳食计划、食谱和个性化营养建议",
+    "description": "生成膳食计划、食谱和个性化营养建议",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_697b4f3e714c8191a274be3ece643759",
+    "name": "MyFonts",
+    "sourceHash": "45f27054eeafa0086d38f70a8b863e5fc06557370efdd36597f2b2d43f9b93af",
+    "summary": "AI 字体搜索与发现",
+    "description": "按个性、类型、用途、审美或行业发现字体，也可以直接从图片识别字体。在聊天中描述你的项目、氛围、风格或创意方向，或者上传图片，即可获取符合需求的精选字体推荐。\n\n1. 从图片识别字体 — 上传任意图片，借助 WhatTheFont 在几秒内找到匹配字体。\n2. 按描述发现字体 — 描述项目的氛围、风格、行业或感觉，即可获得相符的精选字体推荐。\n\n安装后，用自然语言描述你的需求，或直接通过 @MyFonts 调用。\n可以尝试：\n- @MyFonts 给我推荐一种有编辑出版和文学气质的衬线字体，但不要像 Garamond 或 Baskerville 那么传统。\n- @MyFonts 为宣传活动推荐字体，风格要叛逆、年轻又有高级感。\n- @MyFonts 识别附件图片中使用的字体。\n- @MyFonts 找出图片中使用的 WhatTheFont 字体。\n- @MyFonts 为精品酒店的品牌形象推荐字体，灵感来自欧洲老式招牌，同时适合当代奢华客群。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3bb7f0f6208191883a03a92782d2a3",
+    "name": "Mygentic",
+    "sourceHash": "1bfa2cf65d3f7dfed456e9f6f5f408362c769a6e99ea72c74cbb29fb47df733b",
+    "summary": "与你的工作应用对话",
+    "description": "MyGentic 连接你的工作应用，让你在一个地方搜索、理解并使用个人工作知识。\n\n用户可以连接 Gmail、Google Drive、Calendar、Slack、Notion、Zoom 和 LinkedIn 等工具，然后针对已同步的信息用自然语言提问。无需在多个应用之间切换，MyGentic 就能帮用户查找邮件、文档、会议、笔记、联系人、任务和重要背景信息。\n\n它适合用来总结近期工作、查找重要文件或对话、准备会议、回忆以往决策，并从已连接的工作数据中获取答案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9edb61f0048191b2bd6994e5af5b9c",
+    "name": "MyGeotab MCP",
+    "sourceHash": "a301e202112747a8ed9cdfd38b04034352056f29be1103f3258e3b10ab680006",
+    "summary": "分析和管理车队",
+    "description": "在 MyGeotab 中监控车辆、分析行程和驾驶员行为，并掌握车队的安全异常、诊断、维护、电动车充电和合规情况。将实时数据接入 ChatGPT 后即可采取行动：设置区域和规则、确认故障并生成报告，全程无需离开对话。了解超速和利用率趋势，用日常语言询问车队情况，并将洞察融入 AI 工作流程，转化为实际行动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3096222fc88191a198ee631f044fe5",
+    "name": "Mynawoo AI Language Tutor",
+    "sourceHash": "5330ce4d8d1eba6a2b7f2d2269cafddda72aec2a04a4b82f8627fa1e7e493508",
+    "summary": "个人语言教练",
+    "description": "Mynawoo 帮助已认证的学习者在 ChatGPT 中开始并继续个性化语言学习计划。学习者可以确认讲解语言和课程，参加私人分级测评或从 A1 开始，获取聊天课程讲解，在 Mynawoo 中创建私人语法练习，并管理 Leitner 词汇卡及辅导建议。课程内容的访问权限仍取决于学习者的 Mynawoo 计划。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1dd633cd4881918a235601689f8048",
+    "name": "Myo",
+    "sourceHash": "ba0c5403436916a17ab0ea1aa5b7e6be61c98a1541d24e5b24c350a1aee367f0",
+    "summary": "浏览并预订 Myo 服务",
+    "description": "浏览 Myo 服务地点，探索可提供的服务，查看预约时段并开始预订流程。了解不同服务，并找到合适的时间，然后继续完成预约。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c1b82faf2c81919e80900a7443dcfd",
+    "name": "MyRegistry.com",
+    "sourceHash": "fe4349558bb85579b03320f4f3b170058f02567c5f1b30c9c164831a6d4743e9",
+    "summary": "所有商店，一个礼品登记清单®",
+    "description": "无需离开 ChatGPT，即可管理和搜索通用礼品清单及礼品登记表。轻松查找并添加来自任何商店的礼物，搜索礼品登记表和礼品清单，享受顺畅的送礼体验。MyRegistry 让亲友更容易为你挑选完美礼物。\n安装后，描述你的需求或直接通过 @MyRegistry 调用。可以尝试：\n@MyRegistry，我有朋友创建了礼品清单吗？\n@MyRegistry，把礼物添加到我的礼品清单。\n@MyRegistry，搜索朋友的婚礼礼品登记表。\n@MyRegistry，给我看看价格在 $50-$100 之间的礼物\n@MyRegistry，查找朋友的节日礼品清单\n@MyRegistry，这个组织有捐赠清单吗？",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a591c6c9e8c8191a04f6d0f21abd4cf",
+    "name": "mytesla.io",
+    "sourceHash": "4afc767d11300e101534cb11a50e37e3cb2999c588d8714090248b0f9b6f2df4",
+    "summary": "用 AI 控制你的 Tesla",
+    "description": "你的 Tesla 应用已经可以发送指令，而这个插件能做它做不到的事。mytesla.io 将汽车连接到 AI 已知的信息——你的日历、天气和日常安排——并判断何时采取行动。提出你想要的结果，而不是点选按钮：“在我最后一场会议结束时让车厢凉爽”“只在非高峰时段充电，并在早上 7 AM 前充到 100%”“如果今晚预报有霜，就在我第一场会议前除霜”。设置一次后，它便会自动运行。你也可以直接询问：“我的车在哪儿？锁好了吗？下雨时我是不是忘了关车窗？”系统会整合多个系统的实时数据一次作答，无需你在仪表板中逐项查找。通过 Tesla 官方 Fleet API 执行气候、充电、安全和状态方面的 40 项操作。不控制驾驶；车辆令牌保留在服务器端，且可随时撤销。与 Tesla, Inc. 无关联。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6947349b4970819182bd4902c44a46a2",
+    "name": "NA Drink Finder",
+    "sourceHash": "c5a1d262cf75bb675715ae00a77a8f6a491f14f9866703ff5cd2c367549d951f",
+    "summary": "查找无酒精饮品",
+    "description": "NA Drink Finder 拥有全球最大的供应无酒精饮品场所数据库。该应用收录了全球超过一百万家酒吧、餐厅、酿酒厂和商店，这些场所提供无酒精啤酒、无酒精鸡尾酒、葡萄酒和烈酒，让你无论身在何处都能轻松找到选择。\n\nNA Drink Finder 面向所有关注理性饮酒的人士，包括参加 Dry January、保持戒酒、出于健康原因或个人偏好而选择不饮酒的人。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_696e2dbbec1c8191b0b1d2d2014954d9",
+    "name": "Namecheap",
+    "sourceHash": "e571568026f0c908cb34dbd02e2655c749249caaca5efadd9c0d3c9d514868cc",
+    "summary": "搜索域名及价格",
+    "description": "Namecheap 支持查询单个或多个域名是否可用及其价格。用户可以搜索特定域名，在域名不可用时请求替代建议，并比较不同顶级域名的价格。服务器会从 Namecheap 平台返回实时可用状态和准确价格。适合发现域名、批量检查域名，以及帮助用户寻找可用替代选项。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a02febc5e0081919a95ff9fbb6366bc",
+    "name": "NameEasy",
+    "sourceHash": "ce152ca0c46610ea54b1c38193e00d5874752d9a072f0ee188354a94ee456f2c",
+    "summary": "查找印度婴儿名字",
+    "description": "NameEasy 帮助父母和家庭寻找印度婴儿名字。在 ChatGPT 中，你可以从数万个名字的目录中按宗教（印度教、穆斯林、锡克教、基督教、耆那教）、性别、rashi、bhagwan、首字母或含义搜索。为新一代父母而设计。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a267f9c28d8819181dc04450486ef5a",
+    "name": "Namp",
+    "sourceHash": "1d8fe65b2c6e8aa78960c45dcbc50718c6a2073f97f7c839dd46b2ef84eeb075",
+    "summary": "管理项目数据",
+    "description": "Namp MCP 帮助已通过身份验证的用户查找项目、笔记、备忘录、会议纪要、看板、成员和文件；还可以通过 ChatGPT 创建或更新私人项目工作区内容，以及上传项目文件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa2a26508c08191a28b05ee395c98eb",
+    "name": "Namsiang Thai Voice",
+    "sourceHash": "5afdde92f892549fdcd578f101866723d1ea4cafcc34f0340c5dfde5f6d8b0a0",
+    "summary": "指挥泰语语音演绎",
+    "description": "按性别、年龄、个性和角色选配泰语语音；逐行指导戏剧、配音和旁白的情绪与节奏；然后直接在 ChatGPT 中创建、跟踪、播放和下载私人音频，无需暴露服务提供商的 API 密钥或语音 ID。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2063ffb22081918743651721172c6a",
+    "name": "Nash Agent",
+    "sourceHash": "1f06b21fdf270e8b8a805c63b4b32e270c20dc2cd0a10771cca2569b367f9291",
+    "summary": "AI 购物代理",
+    "description": "Pier39 带来一种全新的购物体验：代理对代理商业。\n\n用户无需手动浏览商店并与卖家议价，只需描述想要的商品和预算。Pier39 会发现参与的 negotiate.v1 商家，找到符合条件的商品，与商家的 AI 销售代理展开谈判，并代表用户争取尽可能划算的交易。\n\n该应用可以：\n\n• 在参与的商店中搜索符合用户需求的商品\n• 自动发现商品目录和定价\n• 协商折扣、套装、运费、保修和其他优惠\n• 比较多家商户的报价\n• 总结谈判结果和潜在节省金额\n• 帮助用户做出更明智的购买决定\n\nPier39 基于 negotiate.v1 协议构建。这是一项开放标准，允许 AI 购物代理与 AI 商户代理在无需预先集成或协调的情况下进行谈判。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3c0c69e2dc81918636e2510c30dc12",
+    "name": "Native Soil",
+    "sourceHash": "98d138d85a70b0560489e31f2268a32ac79c0140a48e68aa19055f381c534854",
+    "summary": "保存并加载 AI 对话状态",
+    "description": "Native Soil 会保存 AI 对话的工作状态（决策、上下文和计划），并让你在任何其他模型、客户端或服务提供商中加载这些内容。切换工具、达到上下文限制，或明天再回来时，你可以从上次中断处继续，无需重新解释所有内容。每次保存都会经过检查和评分，保存前会剔除机密信息和私人数据；聊天内容不会被更改或删除。在共享项目中，加载结果会通过回忆检查进行衡量，让你了解实际恢复了哪些内容，以及哪些需要复核。输入 “soil save” 捕获状态，再输入 “soil load” 即可在任何地方恢复。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa01652f2808191896e15fc1aa5cae8",
+    "name": "nav4ai",
+    "sourceHash": "53ed4d4ddefdde5023439f5d1eb987b1c4bcc494128509d44ace0b3adafab1e3",
+    "summary": "课程材料与作业",
+    "description": "nav4ai 帮助独立教师在 ChatGPT 中查看学生、分组和已完成的作业。你可以获取教学上下文，包括所请求的私人笔记和已完成的答案，然后创建、编辑、设置样式并预览互动式课程或作业材料。可以将经批准的托管方提供的图片导入材料。对附加材料所做的更改也会同步更新 nav4ai 中对应的课程或作业内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a43e7c3b32c8191afc81bb532d69ab8",
+    "name": "NEBLES",
+    "sourceHash": "ecf8930fbec64851012a2b8988f6289a9a8c6b5c2f5c608a81495194140107c7",
+    "summary": "曼谷公寓月租助手",
+    "description": "NEBLES Rental Assistant 帮助用户通过 ChatGPT 搜索经核实的曼谷公寓月租房源、比较租金和入住费用、查看房间详情，并了解 NEBLES 的预订流程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a0bd21a7f888191a2c78cb2056f0ce8",
+    "name": "neimo.",
+    "sourceHash": "420d2a32d1b0b89b79916ee46cff660388333be1a387ac58833adb69c7ed9b9a",
+    "summary": "监管研究",
+    "description": "通过查询精选知识库、启动合规工作流程并发现关键监管更新，优化监管相关工作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69609ea9703c8191bceca42c51c445ce",
+    "name": "Nejo",
+    "sourceHash": "2bd8f08af8f2d79374a572a0128720df416ad333662e7329cf882930c9b53b73",
+    "summary": "搜索职位信息",
+    "description": "直接在聊天中搜索德国、奥地利和瑞士的最新职位。描述你的求职目标或技能，并按地点、工作模式、经验级别和合同类型筛选。匹配结果会在聊天中清晰展示；如需查看更多结果，可直接前往 Nejo 网站。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e0086d87088191a3edc052fa50c29f",
+    "name": "Neon",
+    "sourceHash": "1fbdd1528eb04d69ce60ea6aea6fb30bcf79e5c769f2ba60e1f9982161f6a90e",
+    "summary": "管理 Neon 后端",
+    "description": "通过 ChatGPT 查看并管理 Neon 项目、分支、计算资源、Postgres 数据库、身份验证、数据 API、函数、存储、日志和数据库变更。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a61d1d9a5a481918fb86e13d48423dd",
+    "name": "NeoSapien",
+    "sourceHash": "1068fdd75982dc843faceebce04e2e22b016ee2a5a99be6dd8592ccd14753ebc",
+    "summary": "你的个人 AI 助手",
+    "description": "连接 NeoSapien，将你在 Neo 1 中的记忆、转录内容和提醒带入 ChatGPT。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_691f1f8f72408191afdbbdf8242bdf86",
+    "name": "Netlify",
+    "sourceHash": "b23f27746f88e6c487c6c0c1c8412cbb201d8b7fae526a1e78f4b368d27bae8d",
+    "summary": "在 Netlify 上构建和部署",
+    "description": "在 Netlify 上构建和部署",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d954576c8081919b329f17e38e67a6",
+    "name": "NetSuite",
+    "sourceHash": "ae073cb082a404d65bff9e38eff403b450345b4cf352aabd36a14acd492f19d7",
+    "summary": "将 ChatGPT 连接到 NetSuite",
+    "description": "轻松快速地将 NetSuite 集成到 ChatGPT。NetSuite AI Connector Service 提供基于协议的集成服务，支持 Model Context Protocol (MCP)，让客户能够灵活、可扩展地将 AI 助手连接到 NetSuite。连接后，ChatGPT 可以直接访问并使用 NetSuite 数据和功能，从而快速获取洞察、生成报告、简化流程等。一套全面的工具支持交互，同时保留 NetSuite 现有的基于角色的安全模型。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ff65c6614c8191832cc977c582a40b",
+    "name": "Neura Relay MCP",
+    "sourceHash": "d4eb959eec6bd0bf7d7c75a92c4cd3742f0523c4bedfba1370fc908dd830beca",
+    "summary": "治理代理操作",
+    "description": "Neura Relay MCP 帮助连接到 ChatGPT 的工作流程在执行前审查拟议的代理操作。它会返回 Decision Receipts、跟踪引用和 Registry 上下文，但不会执行后续操作，也不会暴露私人载荷。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5f20dca3148191afd516ff7bf8b10c",
+    "name": "NeuronSearchLab",
+    "sourceHash": "2ad634fbed708c55abff8ce688e7d58e8497983d7dc2cfd1b39aa37f6dc4de82",
+    "summary": "管理推荐系统",
+    "description": "在 ChatGPT 中查看并管理你的 NeuronSearchLab 推荐工作区。搜索目录条目、了解排名、配置上下文、流水线、规则和细分群体、运行实验和模型训练，并查看效果分析。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa1605d5f5c81919c227940a0206a7f",
+    "name": "Never Boring AI",
+    "sourceHash": "8dbbbd54f6aa7a10a2bf028c18b9cbd5e9b08df8fe3c223708a7639855049552",
+    "summary": "在 LinkedIn 帖子中查找陈词滥调",
+    "description": "粘贴一篇 LinkedIn 帖子，查看读者已经看腻了哪些修辞套路。\n\n该插件会统计一小组修辞套路，并将每项统计结果与同一语言的 LinkedIn 已发布帖子参考语料进行比较。它会报告每种套路的出现次数、该帖与参考帖子的对比情况；如果某种套路的使用频率高于常见水平，还会给出具体建议，帮助你更直接地表达相同意思。\n\n支持法语和英语，并会说明实际检测的语言。法语检测三种套路：“这不是 X，而是 Y”的对比句式、连续三行以相同词语开头，以及预告式结论（“Résultat :”）。英语检测一种套路：“it’s not X, it’s Y”的对比句式；另外两种也曾在英语帖子中检测，但结果不可靠，因此不纳入。\n\n这只是风格检查。它不会改写帖子，也不会评估作者身份或帖子是如何生成的。无需账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a70caed62fc819199e8466cd66de26e",
+    "name": "New Vintage",
+    "sourceHash": "db129422b0b90be4fc7a735cecb9f6d18bccb3a8bc6f561f591b2ce1394f4c83",
+    "summary": "集中管理酒庄数据",
+    "description": "为 AI 提供处理酒庄数据所需的一切。探索 Commerce7、RedChirp、Klaviyo、Mailchimp 等。可用于报告、细分分析和发现营收机会。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699634bbd95881918fb3c3815c6eb240",
+    "name": "New York LLC Publication",
+    "sourceHash": "c5289dc4cc5a2f8cac088238b143ff547979282e6527d39124d63a391efb0351",
+    "summary": "纽约 LLC 成本与报纸查询",
+    "description": "刚在纽约成立 LLC？在 120 天截止期限前，了解出版要求、各县的刊登费用，以及需要在哪些报纸上刊登。覆盖纽约州全部 62 个县的实时价格。适用于本州 LLC、外州 LLC 和 PLLC。\n\n你可以：\n- 检查你的 LLC 是否需要刊登公告，以及不刊登会有什么后果\n- 获取按县区划分的价格和指定报纸名单\n- 生成符合法律要求的公告\n- 检查现有公告是否存在合规问题\n- 邮寄给州政府前审查提交材料\n- 获取整个流程的分步指导\n\n数据来源于 NY LLC Law §206、县书记官办公室和 llcpublishers.com，并会定期更新。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_templated_apps_69dd0cc7d8d8819199442e552974feff",
+    "name": "newday",
+    "sourceHash": "7f62f23747a313ca30aac050a48d4e7ff785fdf007bb697551552cb7a7be3f98",
+    "summary": "newday：开启新的一天",
+    "description": "newday，开启新的一天。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e1e73024748191a47040915470c82d",
+    "name": "Newegg",
+    "sourceHash": "9d504604ab4ba412ef304f11aaceefcc31a51eae5a6ff2b3544b97a5130db1d8",
+    "summary": "搜索和浏览电子产品",
+    "description": "用户可以在 Newegg 搜索商品并查看详细信息。\n准备购买时，系统会将用户转到 Newegg 网站完成结账。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2708b98248819188dd31f3c904b00c",
+    "name": "NewHomeSource",
+    "sourceHash": "df3fd5acc691c243d730b2b0369359bbe43a3be7d3098f393b91045fdacf1679",
+    "summary": "搜索新建住宅",
+    "description": "NewHomeSource 帮助用户根据地点、价格、卧室数量、开发商和户型偏好，发现新建住宅及社区。搜索超过 12,000 个新房社区——这是全球最大的新建住宅数据库。比较待售新房的价格、图片和户型图。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699ec01259e48191bc0981a4b7917026",
+    "name": "Newsify",
+    "sourceHash": "bd371a8788f1cf8a5904b022df6e4bac7277ff7e6c323310b35ca3e4b9aff2cc",
+    "summary": "任何国家的热门新闻",
+    "description": "随时了解世界正在讨论的话题。Newsify 为你带来任何国家、任何语言的今日热门新闻，并整理成摘要供你阅读。询问任意地点，即可即时获取新鲜且相关的报道。无需搜索，也不用滚动浏览，直接查看新闻。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a54d4795cf4819196a5ad36280475c8",
+    "name": "Newsmind — RSS for your AI",
+    "sourceHash": "89175de7bf843ab50c811023609277b6aba73eb15cd3a85ad828e9542385db41",
+    "summary": "阅读和搜索你的 RSS 订阅",
+    "description": "Newsmind 将你的 RSS 订阅连接到 ChatGPT。询问最新动态，获取你选择来源的简报；按关键词或含义搜索订阅内容；汇总不同媒体对同一新闻的报道；为文章加星标并整理归类；还可以关注主题，让匹配内容在你下次提问时随时可查。阅读进度会在不同对话间同步；现有订阅可通过 OPML 一次性导入。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a58673988ac8191abcdf00db9c98fc3",
+    "name": "NewsTune Studio",
+    "sourceHash": "88aeef381939c01b19f086b5c4744b0f7a0f3d30cf0d377f97192ca8ba3644a0",
+    "summary": "创建并发布播客",
+    "description": "NewsTune Studio 帮助 ChatGPT 和 Codex 查看现有系列、制作私人单集、等待制作完成并返回单集直达链接、比较获准使用的语音、打开安全的语音选择或经同意的语音克隆交接流程、发布已批准的公开页面和 RSS Feed，并为用户自行完成的播客平台分发做好准备。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2417c2d8348191863b4f7b6065048e",
+    "name": "NewTwos",
+    "sourceHash": "ae81a48d71b69edf85614d1d52fe473ee682d48469d2589ffc4b6046668bc04b",
+    "summary": "记录清单、待办事项和笔记",
+    "description": "NewTwos 是一个便捷的记录工具。此连接器让 ChatGPT 能将待办事项和笔记添加到相应清单、设置提醒、完成和整理事项，并搜索你记录的所有内容——使用与 NewTwos 应用相同的数据，且仅限于你批准的权限范围。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8d0d4520188191935462c6897c426e",
+    "name": "NexoRush",
+    "sourceHash": "cc09ebc7ad6542c7f53f6c8bc3d04d03c4bb44aa28ab71fc586d9d5bc40d68e8",
+    "summary": "寻找自由职业专家",
+    "description": "根据项目所需技能和专长，发现自由职业专业人士。NexoRush 帮助你查找相关的公开个人资料、了解专业技能，并为项目找到合适的专才。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8177464f048191bf661ed8265647ac",
+    "name": "NextClip",
+    "sourceHash": "d32b885fb232d42734351aa29df1d328109f71fcea04335401bfd9f7264494f5",
+    "summary": "将长视频剪成短视频",
+    "description": "NextClip 帮你把任意 YouTube 视频剪辑成短视频。粘贴链接，选择设置——片段时长、画面比例、布局和重点内容——AI 就会自动找出精彩片段并添加字幕和吸引眼球的文案。你会获得带标题、说明和传播力评分的片段。可以导出为 MP4，并直接在对话中发布或安排发布到 TikTok、Instagram、YouTube Shorts、LinkedIn 和 Facebook。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8e013e0bdc8191a08a349e0f38a0fb",
+    "name": "NexTrade360",
+    "sourceHash": "ef0dd4b2b473c24def3e2698ae8ea0572592b42c34c8a2f388c57318c7f45e92",
+    "summary": "管理贸易交换业务",
+    "description": "NexTrade360 帮助获授权的易货交易所员工使用 ChatGPT 搜索会员和潜在客户记录、查看运营和财务报告、分析交易活动、发现贸易和信用风险机会，并在所选交易所中创建内部笔记和后续跟进任务。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69a098f7ace081919526e1cc9baf7c6f",
+    "name": "Nexvio AI",
+    "sourceHash": "0572503e92be7083a041cf3404b6487f879099b74f51eadc4ab178dd5ac3c0f8",
+    "summary": "你的 AI 支持代理",
+    "description": "连接 Nexvio 工作区，通过我们的 MCP App 管理 AI 代理、联系人、支持工单、分析数据和帮助文档。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4c509b3710819193e4d03be7e43495",
+    "name": "NiceBabyName — Nameology",
+    "sourceHash": "514c4da4286447e876486f2b2877213f3b1580fb0a59ec2c16a81fc32ead18c3",
+    "summary": "使用 Nameology 取婴儿名字",
+    "description": "NiceBabyName 帮助父母使用整体姓名学——书籍 The Four Aspects 中的 “Four Aspects” 方法——寻找、分析和比较婴儿名字。输入一个名字，它会给出该名字对应的主宰行星、气质、上升星座和上升度数，以及含义、个性解读和对新生儿的适配说明。输入两个到五个名字，它会并排比较并标出哪些更适合新生儿，同时列出各名字的优势和不足。它还可以根据首字母、性别和文化来源搜索包含 160,000+ 个名字的数据库，收集候选名字。英语名字依据发音解读，应用会请用户确认发音；波斯语和阿拉伯语名字则严格按照其文字读音解读。也可以提供父母姓名来进一步完善解读。支持英语、波斯语和阿拉伯语。仅供指导与参考。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a88d242d9b08191a545d2f906914d4b",
+    "name": "Nieves Alaska Relocation",
+    "sourceHash": "98963f0e10f6313cfe8f54bbe72fe7c621c69fb4fd722da668a40505bc1a4086",
+    "summary": "规划搬迁至阿拉斯加",
+    "description": "Nieves Alaska Relocation 帮助用户规划搬迁至阿拉斯加，按照中立标准比较受支持的社区，估算大致的抵押贷款成交成本和 VA 资金费范围，准备获授权的外部房产搜索，并以保护隐私的方式转交给 Nieves de Alaska，过程中不会在 ChatGPT 内收集联系信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a427db505bc81918a7a9d9a0d51b7de",
+    "name": "Nifty",
+    "sourceHash": "5e493c74895a746df5d69031067f4e3f319b648b02d17be9a815341efdb3998f",
+    "summary": "在聊天中运行你的工作中心",
+    "description": "连接 Nifty，直接在聊天中构建和运行项目。让助手创建包含阶段、任务、负责人和截止日期的项目，几秒钟内即可在 Nifty 中生效。在工作区中搜索、生成状态报告、发现停滞任务并发布更新，全程无需离开对话。Nifty 是团队唯一可信的数据来源，因此 AI 创建的内容都会得到整理、共享并可供执行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6ba15c341c8191a6681d3f7daf110c",
+    "name": "Nike",
+    "sourceHash": "d350b5b1098cda68fc245a2a35cb50fed068c644e3473050851c2fca66b225b0",
+    "summary": "跑者的鞋款推荐工具",
+    "description": "只要你有身体，你就是运动员。如果你是跑者，就需要合适的跑鞋。此工具旨在帮助跑者找到合适的贴合感、脚感和鞋款风格，充分发挥跑步表现。\n\n所有产品均由跑者投入心力打造，并按照冠军运动员的精确要求进行设计。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3317442fc8819193f6cb06ef619a67",
+    "name": "Ninjo",
+    "sourceHash": "a575622ca071abc40150c1fdb3b3a7e3ce7d6b53bdfacbce43a56c353b8ae558",
+    "summary": "管理 AI 互动代理",
+    "description": "Ninjo 帮助运营人员用日常语言管理 AI 互动代理：诊断代理配置并获取优先级修复建议，查看代理处理过的对话，编辑提示词和触发条件，审查联系人限制、后续跟进工作流及相关通知，并按自定义属性值细分联系人目录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a39221273d88191b7d51b4b81b65819",
+    "name": "NivaDesk",
+    "sourceHash": "a406ea866f13e8cdd117470927f8cb0863afe32c522b82bde1be551f135b2e19",
+    "summary": "管理定制订单",
+    "description": "NivaDesk 帮助定制订单工作室通过 ChatGPT 管理订单、客户、私人笔记、任务、日程和财务摘要。连接 NivaDesk 工作区后，用户可以搜索订单、查看仪表板摘要、检查获准查看的财务信息、创建私人笔记并更新订单状态。\n\n它适用于承接定制项目的小团队和工作室，包括定制艺术品、手工制品、维修、摄影、裁缝、珠宝及其他以客户为中心的工作流程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5a3d09aa4881919254241ea2ce7966",
+    "name": "No Bike No Life",
+    "sourceHash": "f62a91d3e154f2f978d4c49b4cbe12a73ed2e247ea9fc9a0c0bf8aed2549c221",
+    "summary": "摩托车、路线和天气",
+    "description": "No Bike No Life 根据 NBNL 目录中的数据回答摩托车相关问题。\n\n购车建议：通过九个问题了解用途、经验、驾照、身高和预算，为你推荐合适车型，并附上图片、关键数据和推荐理由。\n\n目录：搜索车型、查看详情，并在表格中比较最多五辆摩托车。\n\n路线：规划两点之间的路线或环线，可在地图上查看弯道情况、海拔剖面和沿途天气。\n\n天气：查看多日预报和适骑性评估、阿尔卑斯山口路况，以及指南针所示的今日出行方向建议。\n\n新手知识：提供超过 200 个关于技术、保养和骑行实践的新手问题解答。\n\n所有信息均来自 nbnl.de 编辑维护的目录。车型照片由制造商提供，并标明来源。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a51c02688508191b35ee24ee59922cc",
+    "name": "NoBrainner",
+    "sourceHash": "e802d62f63febacf4aa3e6e938c57a3a3f7f32c21a11754b4b70934c898704a8",
+    "summary": "更智能的闪卡",
+    "description": "NoBrainner 将你的闪卡学习进度和间隔重复卡组直接连接到 ChatGPT。登录后，你可以让 ChatGPT 详细概览当前学习统计数据、查看近期复习活动、找出最薄弱的卡片，并获取下一步复习内容的个性化建议。\n\n此外，你可以使用 ChatGPT 即时起草新的学习卡组（例如词汇表、练习题或主题摘要），检查草稿后直接保存到 NoBrainner 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a69087747f0819196e81bc695901a83",
+    "name": "Nomad Helper",
+    "sourceHash": "6fd2e67d89f7843a4f8dd242899a5a4e543361ab20695774a1e8d4feea91332c",
+    "summary": "西班牙数字游民签证经验",
+    "description": "从获授权的 Telegram 聊天中查找有关申请和取得西班牙数字游民签证的第一手经验。Nomad Helper 会针对每个问题重新开展多语言调研，持续跟进直至完成，并附上原始消息链接，返回简明结果。每位用户只能搜索分配给自己账户的聊天。独立服务，与 Telegram 无关联。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2fded907648191b9474e109cb6bbd0",
+    "name": "Nomadic",
+    "sourceHash": "ffbf29e8c9dc00b71d3229e85d23b5d59501422277d8339ebc973708563fd603",
+    "summary": "滑动发现旅行地点",
+    "description": "Nomadic 通过可交互的滑动信息流帮助旅行者发现地点。询问某个城市或街区有哪些去处，滑动浏览个性化推荐，保存喜欢的地点，并在 Google Maps 中打开每个推荐地点。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d540774c9c81919b21847e488a2aa6",
+    "name": "Noodle Seed",
+    "sourceHash": "b00f31b0b11c691d92ba4f87175f2fdc1f8107874b0a97b886a93097cba48166",
+    "summary": "监控你的 MCP 应用",
+    "description": "在 ChatGPT 中访问你的 Noodle Seed 工作区，更快查找信息、保持井然有序，并在无需切换工具的情况下推进工作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a844c160294819182f94c6f137ff780",
+    "name": "NoPressure",
+    "sourceHash": "b530c3dc83dc9b9201248cfac9a36840f71d920820752646880ae4fb93ae3297",
+    "summary": "练习棘手的对话",
+    "description": "NoPressure 是一款面向职场的沟通技能练习工具。它能将棘手的对话变成实时语音角色扮演，让你在正式沟通前进行排练：给出严厉反馈、拒绝请求、应对绩效评估、向利益相关方提出异议、协商加薪，或与新团队成员进行首次 1:1 沟通。\n\n只需描述一次情境——对方是谁、对方的立场，以及难点在哪里。ChatGPT 可以根据当前对话中的已有信息整理这份简报，包括你从其他工具带入的内容，让角色以真实人物和真实利害关系为基础，而非通用模板。NoPressure 只能看到收到的简报：它无法访问你的日历、邮件或文档。根据简报，它会生成角色、场景图片和语音，然后在聊天中显示开始卡片。点击 Start 会在 NoPressure Web 应用中开启语音通话，你可以与一位坚持自身立场并会提出反驳的角色直接对话。\n\n会话结束后，复盘内容会返回卡片，包括关键洞见、你应对核心挑战的方式，以及下一步应关注的方面。你可以将复盘内容及对话转录发送到聊天中，继续与 ChatGPT 讨论。模拟情境可重复使用，因此你可以重新练习并与先前尝试比较，也可以先编辑标题、卡片描述和角色。每个情境都保存在你自己的 NoPressure 私人工作区中。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab27b92ae488191ad861ca84fdde184",
+    "name": "Normalic Assistant",
+    "sourceHash": "0ffdf19b35b38d4054a1bd8e3379215fbde360693553e3f61f256871043e71ed",
+    "summary": "询问制造业数据",
+    "description": "Normalic Assistant 将 ChatGPT 连接到你所在组织的 Normalic 账户，让你无需离开对话就能询问制造业数据。\n\n你可以询问工作站表现、生产报告、检测到的洞察和异常、产品与操作员效率，以及跟踪的任务——这些功能与 Normalic 应用内的助手相同。\n\n每个人都使用自己的 Normalic 登录账户进行连接——没有共享账户或 API 密钥。需要拥有现有 Normalic 账户，并且组织已启用 MCP Assistant 功能。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a724310c3308191806a44713b312211",
+    "name": "NORMS: Evidence & Scope",
+    "sourceHash": "2ba856814adc32e58016e744e1690dc344038c9a125bd1d846acef77b6bf4b48",
+    "summary": "结构化证据检查",
+    "description": "NORMS 用于评估结构化且已批准的规范记录，是否为已声明用途提供了充分且经过验证的依据。它会检查明确授权、时间适用性、范围、验证、条款拆分和结构化条件，然后报告阻塞项、未知事项和未经检查的领域。缺少所需依据或依据未经验证时，系统将拒绝放行。NORMS 不提供法律建议或合规认证，不解析 PDF 或其他文档，不检索法律，不会从自由文本推断规范条件，也不批准合同或修改外部数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9334b461a08191891f55631669ae34",
+    "name": "Northeast Telemetry",
+    "sourceHash": "11161839a488c51afedf32d24f52b2eabd825ae825c643d189835581a6b3c222",
+    "summary": "与你的传感器数据对话",
+    "description": "连接 Northeast Telemetry 客户账户，询问所监控的设备、系统、空间和房产。\n\n查看当前传感器读数、历史趋势，以及授权仪表板中的近期设备警报。你可以请求简短说明，也可以要求提供详细计算、单位、日期和数据限制。可用信息取决于已安装的传感器、已发布的仪表板配置、权限和保留的历史记录。\n\n通过交互式图表和限定范围的历史分析探索变化趋势。较长时间段使用抽样图表和服务器端摘要，而不会返回每个数据点。精确统计和能耗估算依据源观测数据，并会标出缺失的历史记录；不会将不完整时段呈现为完整总计。\n\n如果账户所有者已配置获准的控制项，你可以请求更改精确的共享属性或客户端属性设置。每项操作都需要相应权限，并且必须在执行前于对话中单独获得你的批准。ChatGPT 或 Codex 也可能根据连接设置请求权限。该插件无法选择任意设置或数值、发送 RPC 命令或更改仪表板布局。已存储的设置不能独立证明实体设备的实际状态。\n\nNortheast Telemetry 不保证能够检测或预防设备故障或财产问题，不提供紧急响应，也不能替代法规要求的安全装置、专业检查、维护、维修或生命安全系统。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699dc623e5488191955863d8c4a7ad19",
+    "name": "Norton",
+    "sourceHash": "a67084bf9b9a8b87a068deea9c827908086a3a67c99d46ec887714e872ecd534",
+    "summary": "核验网络和邮件中的诈骗",
+    "description": "聊天期间保持安全。Norton 将由 Norton Genie AI 助手支持的实时 AI 诈骗检测直接带入 ChatGPT。分享可疑邮件、短信、消息、图片或链接，即可快速获得分析和清晰的网络安全建议，帮助你在点击之前避开网络钓鱼、诈骗和恶意内容。你也可以随时询问安全、隐私、身份保护和设备性能等日常问题，并在当前聊天中获取可信答案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9247b0f9c88191ba78db2d222337a6",
+    "name": "Not Just You",
+    "sourceHash": "dab60a21df00cb9a64c4494a17c5ccdc9349666fe5f347ac2527cf8c4b175b6e",
+    "summary": "AI 服务状态，来源分开呈现",
+    "description": "通过官方服务商公告、社区报告和用户自愿提供的已安装客户端信号，查看 AI 服务状态。各来源分别呈现，方便你自行比较证据。\n只读，无需账户，且绝不读取提示词、文件、凭据或消息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a93020715548191b7d0ce88272ec572",
+    "name": "Noteflix",
+    "sourceHash": "0d8b114a2358756c8d5753d8c4c74ddef11ba0e5fddb5cae2bdb6f9e0ba04600",
+    "summary": "保存私人学习笔记",
+    "description": "Noteflix 帮助学习者将当前 ChatGPT 对话中提供的文本转化为主动学习流程。它可以整理忠实于原文的学习指南、创建闪卡和主动回忆练习、逐题开展复习，并根据学习者的截止日期和可用时间制定切实可行的复习计划。\n\n该插件不会检查上传内容、检索先前对话、查询记忆或搜索现有 Noteflix 内容。学习流程所需的源材料必须在当前请求中以文本形式提供。它会标记来源之间的冲突，而不是默默替用户解决；并会将所提供学习材料中嵌入的指令视为引用内容，而非命令。\n\n只有当学习者明确要求保存某项内容时，插件才会显示确切标题、Markdown 正文、可选摘要和要点、保存位置及私人可见性，然后等待单独确认。只有收到肯定答复后，它才会调用 create_private_note。该工具可以为精确匹配的 OAuth 连接 Firebase UID 创建一条私人记录。它不能列出、读取、搜索、更新、发布、共享或删除现有笔记，也不能生成媒体。\n\n每次保存都要求拥有符合条件的现有 Noteflix 账户。对于精确匹配的 OAuth UID，权益检查采用默认拒绝策略；插件绝不会使用服务账户的订阅权益或其他用户的访问权限。在 ChatGPT 中不提供购买、定价、结账、计划管理、恢复订阅或升级链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6963160dabc081919ea88a9a39df4977",
+    "name": "NoteItHub",
+    "sourceHash": "4ea34c4be69d706bdfdcb5c6addef404e564551e832fcf1c8812d7204db0b7f3",
+    "summary": "将聊天转为任务和笔记",
+    "description": "Noteithub 可根据对话创建 TODO 清单，并将重要聊天保存为日记条目。\n\n你可以按目标整理任务、更新任务状态，并将聊天中的笔记或决策集中保存。这样便于跟踪待办事项，并随时查阅重要讨论。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a98c8e9655c8191a96bd866456058e6",
+    "name": "Notit",
+    "sourceHash": "2a5a3036a5c01941049caa52f569a515571a3c53ab87892d9b1eba7e6f634e39",
+    "summary": "用 Notit 笔记学习",
+    "description": "连接 Notit 与 ChatGPT，查看课程、讲座、笔记、转录、摘要、关键词、考试要点和 Quick Reviews。搜索学习材料，并根据 Notit 账户中已存储的内容提问。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9bd5da798c8191a241ff70bed70706",
+    "name": "Nova42",
+    "sourceHash": "98e5ba9721f2a613058b69414c1a872ddcea5cda922f50b05de83b94a9df66e1",
+    "summary": "分析零售执行情况",
+    "description": "Nova42 为获授权的零售团队提供只读的对话界面，用于查看其最新发布的工作区数据。跟踪业绩、准备零售商会议、确定当前问题的优先级、分析已确认的价格证据，并核实分销覆盖范围。所有结果仅限于当前登录用户有权访问的工作区，显示数据发布的新鲜度，并区分观测值、明确的零值、空值、缺失数据和尚未观测到的数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c018134d508191b3a46476b0440d51",
+    "name": "Nowistay",
+    "sourceHash": "84693aec7133ea1e7275e9aa2f378f2a5cfadde86e403fbecdf356a75f42f134",
+    "summary": "管理短租房源",
+    "description": "Nowistay 帮助度假屋房东在 ChatGPT 中管理日常运营。你可以查看符合条件的 Nowistay 房源的预订、可订状态、价格、住客记录和消息、任务、入住指南及私人房产知识，并在获批后进行更新，无需切换工具。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9d4f410b908191a43c5d180b02af12",
+    "name": "Nowlun Tracking",
+    "sourceHash": "50d816c905f3783c7191e1d7a22b8029372f1b399a8ad911acec51b15c4ba0a8",
+    "summary": "追踪货运",
+    "description": "Nowlun 可将提单转换为实时货运视图。上传文件，或直接粘贴 BL、订舱或集装箱编号，即可在聊天中获取当前状态。\n\n除了追踪标识符，它还会读取 BL 的完整内容——发货人和收货人、通知方、货物描述、集装箱编号及尺寸、装货港和卸货港、船舶与航次，以及商业条款。因此，你无需再把 PDF 中的信息手动录入门户网站，可以直接询问文件内容。\n\n识别货物后，你可以查看：\n\n当前状态和最近已知节点\n船舶、航次和承运人详情\nETD 和 ETA，以及承运人更新后的日程变更\n多集装箱货运的逐箱明细\n显示航线及船舶当前位置的交互式地图\n\n适用于货运代理、进口商、出口商，以及任何需要处理运输文件、希望无需登录三个承运人网站就能获取答案的人。\n\nNowlun 是一家数字货运代理平台，涵盖海运、空运、清关和内陆卡车运输。追踪货运无需账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6a699e6f3481918d5e6034432894f2",
+    "name": "NPMScan",
+    "sourceHash": "a1cfef350203483b9ff1cd2909223197a8bb74f85f51ccdbae30874960e396a7",
+    "summary": "npm 软件包与漏洞查询",
+    "description": "直接在对话中查询 npm 软件包元数据、已知漏洞和 CVE 详情。NPMScan 的 MCP 服务器提供只读工具，数据来自 npm 注册表、OSV.dev、GitHub Security Advisories、GitHub 自身 API 和 NIST 国家漏洞数据库：按名称或关键词搜索软件包，并在每条结果中提供下载量、依赖该包的软件包数量和拼写仿冒检测；安装前检查软件包的安装脚本、维护者、许可证、GitHub 星标和下载趋势，或并排比较 2-5 个候选项并给出确定性选择；检查锁文件中固定的精确版本，或模拟升级版本，以便在运行 npm install 前判断是安全补丁还是可能造成破坏的主版本升级；一次查询一个软件包或最多 100 个软件包的漏洞，每项发现均附严重程度、摘要、CVE 别名和修复版本，而非只有公告编号；一次审计整个 GitHub 仓库的依赖（包括 monorepo 工作区），或生成符合规范的 CycloneDX/SPDX SBOM，并嵌入漏洞和许可证数据；根据 CISA KEV/FIRST EPSS 利用数据对原始 `npm audit --json` 报告中的发现排序，判断应优先修复哪些问题，然后获取针对已标记问题的具体、有序修复方案；检查 npm 维护者账户的发布历史，查找疑似账户被盗后的异常发布集群，或查看其基本资料；浏览最新 npm 公告，包括 GitHub 精选且主要基于 CVE、经过审核的公告，以及已知恶意软件包信息流，并可按严重程度、漏洞类别（XSS、SQL/NoSQL 注入、SSRF、访问控制、代码注入等 15 种以上，仅限已审核类别）、受影响软件包或精确 GHSA/CVE ID 筛选；查询任何生态系统中任意 CVE 的权威 CVSS/CWE 数据，并补充 CISA 已知遭利用漏洞状态和 FIRST.org EPSS 利用概率评分。无需 API 密钥或身份验证，每条结果都会链接到 npmscan.com 上的完整说明。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a48ad108c5c8191bdb66f845876a685",
+    "name": "Nudges",
+    "sourceHash": "abd28a9f8c657312bf424a62b18b49310af9e6fb254feb83358222113d0e60ad",
+    "summary": "通过邮件发送提醒",
+    "description": "只需告诉 ChatGPT 需要记住什么以及提醒时间。Nudges 会确认确切时间，到期后立即通过电子邮件提醒你。无需安装应用、无需电话号码、设置数量不限，也没有付费墙。\n\n它能理解日常说法：“30 分钟后”“明天 9 点”“每天早上 8 点”“每隔一个星期五”。每条提醒都会再次确认准确的本地时间和发送目标收件箱，让你能在问题造成影响前发现错误。随时询问提醒事项，也可以用一句话取消任意一条。\n\nNudges 免费且不限量，会将提醒发送到你平时使用的收件箱。连接时会验证你的电子邮箱，因此无需额外设置。我们会向该地址发送提醒，并统计基本使用事件以运行服务。我们绝不存储提醒的具体内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8afb49a09881919d1e4ba40efb5687",
+    "name": "NugIt",
+    "sourceHash": "37b9513d111b79fad38f6b4dda12c7db28604ef3768575de96c7024642697b39",
+    "summary": "保存有用的回答",
+    "description": "NugIt.ai 帮助你留存值得以后再次查找的 ChatGPT 答案。在有用的回答下方输入 “NugIt”，即可将其保存为个人资料库中带标题的私人 Nug。随着时间推移，NugIt.ai 会成为一个可搜索的空间，方便你再次查找并使用这些有用答案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aacf78d67d48191a4919b49f37c2579",
+    "name": "nunu.ai",
+    "sourceHash": "c28042501b8f466ac245143de1428330a7701eeae43077d44a243da32989cf67",
+    "summary": "AI 驱动的软件测试",
+    "description": "使用 nunu.ai 插件自动化 QA 测试。用自然语言编写测试用例，并在真实 Android 和 iOS 设备、Windows 虚拟机及浏览器上端到端运行。自动检查过去的运行记录、查看缺陷并更新测试用例。创建完整的测试计划，并在每次新版本构建时或按计划定期运行。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a759567dbbc8191b64358deb145619a",
+    "name": "NutriSave",
+    "sourceHash": "b302b5cf98b7c97e5bf3926091f58e956c237341f82884d13a58d5a600c24e03",
+    "summary": "膳食计划与食谱",
+    "description": "NutriSave 帮助用户查看公开的示例膳食菜单，\n浏览不同日期和餐次，并打开相符的食谱。\n热量和营养素数值仅供参考。该服务不会提供诊断或处方，\n也不能替代医疗专业人士。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2a8e538fe48191a2081f2e3e8b5fa4",
+    "name": "Nutshell CRM",
+    "sourceHash": "d419e559289d9dbb1ae2391a229d183cc8e3c7f871cc98914f87f868b47d5435",
+    "summary": "探索你的 CRM 数据",
+    "description": "Nutshell 将 CRM 带入对话。把 Nutshell 账户连接到 ChatGPT，即可立即询问销售管道、查找联系人、跟踪潜在客户并获取销售洞察，无需离开 AI 工具。\n\n无论是准备电话沟通、检查交易状态，还是查看团队表现，只需提问即可获取 CRM 数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ced86bd8308191b4ad344d6703fc73",
+    "name": "Nuwa",
+    "sourceHash": "0de1c954a414dccf63ba8ef1687b9cfcd32bcd12ff331d57cc8bbac2e875bc72",
+    "summary": "与你的手写笔记对话",
+    "description": "将 Nuwa Pen 连接到 ChatGPT。使用自然语言搜索、回忆和总结手写笔记。询问今天写了什么、查找特定主题的笔记、浏览笔记本，或查看手写内容的渲染图像——全程无需离开对话。Nuwa 将纸笔笔记融入你的 AI 工作流程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6924c7bffc81918166d037b61ab06a",
+    "name": "Nyambot",
+    "sourceHash": "5676a33f346b95dbca2a15b44b84db95d91c5d8653a6ca452ecaff667e60af18",
+    "summary": "法国官方数据",
+    "description": "Nyambot 将你的助手连接到法国官方公开数据，并生成带来源的回答。你可以询问房地产（DVF 实际价格）、法律（Légifrance 条文）、企业（SIRENE 注册信息）、社会援助、健康或行政手续相关问题；Nyambot 会检索并交叉核对官方数据，同时注明来源（日期、参考编号、金额）。如果数据不存在或问题不够明确，它会如实说明，而不是编造。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6944a6ce46408191b38807bc5444b5be",
+    "name": "NyquistAI",
+    "sourceHash": "6cc2095df03375c13fbeb056713eb5090e12e75047f5f588641a65e5ca5ef9d0",
+    "summary": "最新 FDA 医疗器械信息",
+    "description": "访问 NyquistAI 全面的 FDA 医疗器械情报数据库，包括所有 510(k)、PMA、De Novo 和 HDE 许可及批准信息、不良事件、召回、指南等。此应用仅用于研究、合规和监测等目的，不提供医疗建议或临床推荐。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5c8a96e3d481919d103242b5bed062",
+    "name": "OathMCP",
+    "sourceHash": "699c3769b45e48636712fe311c4d1131b16a9ee0c32b986f6fe9bdfc462b6ba4",
+    "summary": "运行临床计算器",
+    "description": "OathMCP 帮助用户查找、检查并运行 39 种成熟的临床计算器，提供明确单位、确定性结果、合理性检查、局限说明和证据链接。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6ab29fafda248191bd1362d00200fa05",
+    "name": "Oboeru",
+    "sourceHash": "f703a569f39c96979aaf2697804b61cc0c48af003285e0faa8c24baa0fe156a1",
+    "summary": "会话英语转为复习卡片",
+    "description": "将你在 ChatGPT 中练习的英语表达，以日英双语闪卡的形式保存到自己的 Oboeru 账户。支持即时造句练习流程、连接确认和查看保存目标卡组。添加卡片需要登录并授权连接 Oboeru 账户。保存的卡片可在 Oboeru Web 应用中复习。不支持读取现有卡片内容或学习记录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a54afce16f0819181c79836ec0c701c",
+    "name": "Ocoya",
+    "sourceHash": "6d1c42f75975df619ccf16900bae5c96589005c11ec8a062747c875ba9aa343c",
+    "summary": "社交媒体管理",
+    "description": "通过 ChatGPT 查看社交媒体资料和帖子、创建 AI 辅助草稿与营销活动、安排或发布社交内容，并管理自动化工作流程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a97e3308a148191b5c0ba8f01fda918",
+    "name": "Octen",
+    "sourceHash": "18ec9e8795ff4c91c21cac421cecc2f50527515804f0bb215d9c70688a3f8514",
+    "summary": "实时网页搜索与提取",
+    "description": "Octen 通过其托管 MCP 服务器为 ChatGPT 提供实时网络信息：包含查询相关重点和筛选器的实时网页搜索、专门的新闻频道、用于研究和比较的多角度广泛搜索、便于阅读和提供答案依据的网址转 Markdown 提取，以及（仅限受邀用户的 Beta 版）图片和视频搜索。用户通过 OAuth 连接 Octen 账户；无需配置 API 密钥。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6399c9bc848191a2f28f30593f9b5f",
+    "name": "OctoEverywhere",
+    "sourceHash": "e30da6f40e691ce05fe8a306293ce538e4b8e7309e04a7986e1b358749bb46e0",
+    "summary": "监控和控制 3D 打印机",
+    "description": "OctoEverywhere 帮助用户监控已连接的 3D 打印机、查看实时打印状态和 AI 故障检测、查看摄像头快照及文件列表、排查并解决常见 3D 打印问题，以及通过 ChatGPT 使用受权限控制的打印机命令。\n\nOctoEverywhere 适用于各种类型的 3D 打印机，包括 Bambu Lab、Prusa、Creality、Elegoo、Anycubic、QIDI、Snapmaker、Sovol、Flashforge 等品牌的打印机。OctoEverywhere 兼容 OctoPrint、Klipper、Moonraker、Fluidd、Mainsail、PrusaLink 等。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5e27365db881919a72170f6ddb019b",
+    "name": "Octopus.do",
+    "sourceHash": "e246e3869c3d18dc0fd7f816e101df66fd112d4eb03bc5a34020ec7b5469ea7e",
+    "summary": "构建和编辑站点地图",
+    "description": "Octopus.do 用于构建站点地图：由页面组成的树状结构，每个页面包含一组模块，每个模块对应一个线框图。该应用现已连接到 ChatGPT。你可以读取现有项目的页面、模块和结构，也可以根据描述或草图生成完整站点地图：批量创建页面、添加包含线框图的模块、移动并重组树状结构。通过 OAuth 使用你自己的 octopus.do 账户；助手只能看到你已有权限访问的项目。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a89aa0da4fc8191b88349c6913687a7",
+    "name": "OEG AI Studio",
+    "sourceHash": "5349a7b6a64673dd1990b9274ff3f55495533d74bef11be9622ae39f50542e25",
+    "summary": "使用 OEG 创作图像",
+    "description": "OEG AI Studio 将 ChatGPT 和 Codex 直接连接到每位用户自己的 OEG 账户。用户可以查看服务状态、探索图像和视频模型、查看自己的虚拟形象和任务、估算生成费用，并且只有在明确批准费用后才能创建一张付费图片。安装插件并不会授予访问权限；每位用户都必须使用自己的 OEG 凭据登录。",
+    "model": "codex-subagent-reviewed"
+  }
+]

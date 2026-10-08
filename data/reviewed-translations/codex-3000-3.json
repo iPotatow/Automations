@@ -1,0 +1,666 @@
+[
+  {
+    "id": "plugin_asdk_app_6a8c892f334c8191a56023560ed46b4b",
+    "name": "LlamaParse",
+    "sourceHash": "8a89ea6685666f17d489cedac32050512867947be35790ba4b59bd4a27d36849",
+    "summary": "面向智能体的文档处理",
+    "description": "LlamaParse 插件为用户和智能体提供多种文档处理功能，支持任意格式或文件类型，包括解析（付费和免费）、架构提取、分类、拆分以及索引与检索。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4251cdb9208191895d75b16b97e536",
+    "name": "LLM Pulse",
+    "sourceHash": "26f68f9577f4200f6bd5284310eeff1961fd4b0da1a83fc7d9308f6e280e7ee7",
+    "summary": "追踪 AI 品牌曝光度",
+    "description": "LLM Pulse 帮助团队监测其品牌、竞争对手、提示词和来源在 AI 回答中的呈现情况。你可以直接在 ChatGPT 中通过 LLM Pulse 工作区查看曝光度、提及、引用、情绪倾向、建议和流量信号。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a302d66c90c8191911800010290bf8e",
+    "name": "Lloyd by The L Suite",
+    "sourceHash": "408cffd519ad852dd557f7af7f3301d90911384e0b2264d071e173602b82695d",
+    "summary": "获取企业法务同行见解",
+    "description": "The L Suite 是领先的企业内部法律顾问社群，为企业法务提供同行法律见解。获取同行建议、寻找法律顾问、识别合同问题、查看基准数据等。仅限会员。\n\nLloyd by The L Suite 将由 2,500 多名企业总法律顾问及其团队组成的私人社群中的同行经验带入 ChatGPT。你可以询问企业法务同行在任何法律议题上的做法或观点，例如谈判方式、先例、操作手册和基准数据；获取带有引用和社群来源的归属明确的见解（get_peer_insights），或查找同行实际使用的法律工具、服务提供商和外部法律顾问（find_vendors）。结果仅限于该会员自己的 L Suite 同行网络，也就是其在平台上可见的内容。此功能为只读，不会创建或修改记录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a34146ad96c81918708bb6d4e4e6bba",
+    "name": "LMGram",
+    "sourceHash": "bd4be3e109f79de0366a42521b367c7fb9401d9bf5db466e0ad8d502d11b4e64",
+    "summary": "按意向寻找合适的人",
+    "description": "LMGram 帮助 ChatGPT 根据用户明确表达的意向，发起由用户选择加入的真人匹配请求。用户可以关联 LMGram 个人资料、创建精简的匹配请求、查看近期收到或发出的请求；双方都感兴趣时，可以开始轻量聊天，并在私密的 LMGram 聊天中收发消息。该应用旨在帮助寻找合作者、同行、导师、帮手、测试用户或领域专家，同时避免分享原始对话记录或不必要的私人背景信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d76949d91c81918ab25512aacbabb3",
+    "name": "Lnk.Bio",
+    "sourceHash": "ebb819f9bb46b504eb53a71b7b212c1bdf7a893fec53ee47a7b77bc67c84f4e5",
+    "summary": "添加、编辑并美化你的 Lnk.",
+    "description": "直接通过 Claude 管理完整的 Lnk.Bio 个人资料。添加、编辑、安排发布时间并重新排序链接；创建页面，添加标题、简介和按钮等内容区块；设置 Instagram、TikTok 等社交平台图标。浏览并应用主题，自定义颜色和字体，或设置壁纸。将 Lnk.Bio 融入 AI 工作流程，通过对话更快地创建和更新个人简介链接页面。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a73b856e4348191a97dc8e3a1e58a94",
+    "name": "Lobu",
+    "sourceHash": "b49b91695f7f89650f9878138bea15925979d2923adfaac85b61697d6864fe60",
+    "summary": "连接数据、设备与智能体",
+    "description": "Lobu 让 ChatGPT 在受管控的前提下访问持久化工作区记忆、已连接的数据、设备、通知渠道及其他智能体。用户可以搜索并保存共享上下文、查询获准访问的数据、预览更改，并执行经过权限检查且在需要时须经人工批准的操作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a965e31977c81919dd104f5f00400a8",
+    "name": "LocalKidsGuide",
+    "sourceHash": "6c5751d4ba622774e71478ea374176147873930155d5a4e71b687de11e9b3113",
+    "summary": "查找附近适合孩子的活动",
+    "description": "LocalKidsGuide 是专为家庭打造的活动发现平台。它不再让信息散落各处，而是将儿童活动、事件和适合孩子的场所整理为结构统一的目录，让家长每次都能找到适合孩子年龄的内容。询问适合带孩子参加的活动，例如游泳课、艺术营、故事会、游乐场、博物馆和室内游乐空间，并按孩子年龄、类别和价格筛选。无论在家附近还是旅行途中都能使用：查看覆盖的城市、搜索这些城市附近的活动，并直接打开 localkidsguide.com 上的活动详情和报名页面。所有结果均来自 LocalKidsGuide 经过审核的公开目录。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a99d92679e8819187a0fdda45825405",
+    "name": "LocationLists",
+    "sourceHash": "0ec78d3a7729fa5e81ce01e8e57b368f66cfc9cb0981bec397cbdf85db5c619a",
+    "summary": "搜索美国地点数据集",
+    "description": "LocationLists 汇总品牌在其官方门店或经销商查询工具中公布的完整地点清单，涵盖 Bobcat、Caterpillar、STIHL、Generac、Home Depot、Waffle House 等 260 多个品牌；还包括按州分类的持证行业承包商以及协会会员目录。你可以查询品牌或地点类型，查看记录数量和每行包含的字段（名称、地址、城市、州、邮编、电话、纬度、经度、网站，以及经销商等级或产品线等品牌专属字段），确认文件最近一次重建时间，并查看 10 条真实记录。完整数据集可从 locationlists.com 下载。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa1121df1b08191b5d69ef142b9ee42",
+    "name": "Lofty",
+    "sourceHash": "c34a531f8d6f3bc6528bb036d98498eef2c6c147f7596bcb91e70a1a5194508c",
+    "summary": "在 Lofty 中将线索转化为行动",
+    "description": "连接 Lofty CRM，以管理潜在客户、交易和沟通记录。你可以要求查找或更新潜在客户、查看交易状态，或调取某联系人的近期电话、短信和邮件，无需离开聊天。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_697248cb2b7c819185ed882ecee6b3ef",
+    "name": "LogoGenic Image Generator",
+    "sourceHash": "342d7dfca92b6d0c9f075956711d77bd9d9913bf44fa6778a5e30b1b9b308fb0",
+    "summary": "生成图像",
+    "description": "输入描述，选择风格或格式，即可生成不同尺寸的图像。设计师、开发者、内容创作者以及任何需要视觉素材但不想手动画图的人都可以使用。\n\n生成的图像可用于演示文稿、模型稿、社交媒体内容或灵感参考。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9fa5fcd7b4819197e2febf62db341e",
+    "name": "lolcv",
+    "sourceHash": "7c9038b16b952ca758ed9f459b2829df45c9af68c579417f5a7f15a60346109a",
+    "summary": "简历、求职信与职位",
+    "description": "连接 lolcv 账户，查找并阅读你的简历和求职信，根据你批准的内容准备定制草稿，并通过来源链接搜索职位列表。可从 98 款简历模板（含 32 款 Pro 设计）或 13 款求职信设计中选择。重新设计简历时会另存为副本，保留原件。Pro 表示某个设计系列；目前列出的所有模板都可以选择。职位筛选条件可能会发送给外部服务提供商；搜索结果可能经过缓存或不完整。简历、求职信和职位搜索分别由不同权限控制。你可以在 lolcv 中打开草稿，检查版式、编辑并导出。需要 lolcv 账户。本应用不会代你投递申请、联系雇主、发布内容、覆盖或删除文档。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7ec21fbf148191a66c20f2f8a29a93",
+    "name": "Looki",
+    "sourceHash": "2bb8564d198da80e6bf59ec76ff38e2046b7e2a144ea3548146f61fa0d9f8b36",
+    "summary": "搜索生活记忆",
+    "description": "将 Looki 中的记忆带入 Codex，让个性化回答以你的真实生活背景为依据。你可以按日期浏览片段、按含义搜索记忆、打开特定片段及其媒体、重温 AI 生成的精彩集锦，或在有数据时查看最新实时事件。临时媒体链接会按私人且短期有效的数据处理。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6a442345f88191b23be1e01237d551",
+    "name": "LoomaScale",
+    "sourceHash": "cca41fae9f87921590164a3dd399367d214e53e634926377b0fec56947512198",
+    "summary": "投放 Meta 和 Google 广告",
+    "description": "LoomaScale 帮助用户检查已连接的 Google 和 Meta 广告账户、查看广告系列表现和投放进度、研究关键词和搜索词、创建暂停状态的广告系列，以及管理广告系列投放和预算。启用广告系列会开始产生实际广告费用；每次创建、启用和预算更改都会根据用户配置的每日支出上限进行验证。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a999a858d3c8191abf6a6de76d6803e",
+    "name": "Loomly",
+    "sourceHash": "ab6b643dd950f85eac78ca08e39161c47671613b122acc060e712b9f3fd8d6a9",
+    "summary": "规划和管理社交内容",
+    "description": "在 Loomly 中规划、组织和管理社交媒体内容。使用 ChatGPT 查看日历、帖子、帖子创意和内容库，并在你的 Loomly 账户中创建帖子草稿和创意。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a76060a3cbc81919eaaca7e37e830fe",
+    "name": "Loops",
+    "sourceHash": "660d708f418aee3df4c71c515209fcc7172dc0982ccc579ce5645e87e4dec674",
+    "summary": "在 ChatGPT 中使用 Loops",
+    "description": "无需离开 ChatGPT，即可使用 Loops。管理联系人和邮件列表、发送事务性邮件、处理事件，并访问 Loops API 提供的其他功能。只需告诉 ChatGPT 你想做什么。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9e1cd4ab3881918e7901f729ee964c",
+    "name": "LoreSight",
+    "sourceHash": "a5f993d0b4b51388cdc0917a6376f14e47485e3d28fe3b63ac3831468c1def2f",
+    "summary": "游玩互动小说",
+    "description": "LoreSight 在 ChatGPT 中打开基于 CRT 的互动小说播放器。浏览内置书库或启动推荐作品，然后在本地小组件中游玩。小组件还支持用户主动加载本地 Z-machine 文件并调整显示设置。目前尚不支持云端存档。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b0323da97081918a501917632b13f4",
+    "name": "Lots of Lotteries",
+    "sourceHash": "e6f6ebf86e7acce3aadaa6d68fb88870ad90b7269d983c316e1848a407351648",
+    "summary": "在 ChatGPT 中查看彩票开奖结果",
+    "description": "轻松快捷地查看最新彩票结果\n\n例如：\n\n- “@Lots of Lotteries 给我看看最新的 Powerball 号码”\n- “@Lots of Lotteries，MegaMillions 的结果是什么？”\n- “@Lots of Lotteries，EuroMillions 号码是多少？”\n\n支持的彩票：\n\n- Powerball（美国）\n- Mega Millions（美国）\n- EuroMillions（欧盟）\n- Euro Jackpot（欧盟）\n- Lotto 6/49（加拿大）\n- Lotto Max（加拿大）\n- Lotto（英国）\n- Thunderball（英国）\n- Oz Lotto（澳大利亚）\n- La Primitiva（西班牙）\n- Superenalotto（意大利）",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a43803a94f88191b9909df05ff5012a",
+    "name": "Louis Vuitton",
+    "sourceHash": "0b8c9cf52d5218e5d0e5f45eca2ee57945b78a7b01b858b5d3318c1ebc9ffb37",
+    "summary": "探索各系列产品",
+    "description": "欢迎使用 ChatGPT 上的 Louis Vuitton 应用。开始对话，享受富有启发性且沉浸式的体验，探索品牌旗下所有系列。经典手袋、小型皮具、成衣、旅行包、礼品、配饰、美妆、香水、鞋履、珠宝、腕表……走进 Louis Vuitton 的世界，让 ChatGPT 帮你发现心仪的作品，从最新发布到历久弥新的经典款。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6457591da0819189fd8fb001f109fd",
+    "name": "LouisianAI",
+    "sourceHash": "da0ba7ba5a9e0df533765dfa7c4f2b6f8aaf4b3d0dcc9885c1978d7c3e0401ff",
+    "summary": "研究路易斯安那州 AI 项目",
+    "description": "LouisianAI 帮助用户通过一个公开、来源可追溯的追踪平台，研究路易斯安那州的 AI 和数据中心基础设施。你可以查看追踪器摘要、列出记录、调取项目或路易斯安那州公共事业委员会案卷详情、搜索和获取权威证据，以及比较两个项目。所有工具均为只读、无需账户，并返回范围受限的公开结果，其中包含可信度、来源链接和明确的不确定性说明。追踪器摘要包含紧凑的内嵌卡片；所有工作流程都无需自定义界面即可使用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69dea4beafec8191ad87857bd871499a",
+    "name": "Love and Lemons",
+    "sourceHash": "46ebb7ffc189200ac652282ff610f3f993e4ef65fcd6039c75658ee7d206eef8",
+    "summary": "查找食谱并规划餐食",
+    "description": "按食材、菜系或口味偏好查找食谱，浏览精心挑选的匹配食谱和合集轮播，其中包含照片、评分和摘录。打开任意食谱，可查看详情、特色食材以及完整做法的直接链接。\n\n准备规划一周餐食了吗？让它生成个性化的 3–7 天日程，通过重复利用相同食材来减少浪费、简化采购，并自动生成可打印、可带去商店的购物清单。\n\n无论你想知道一大把柠檬能做什么，还是计划一整周的健康晚餐，Love & Lemons 都能让这件事变得轻松又美味。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6949ae98a000819195c1e363a64c550c",
+    "name": "Lowe’s",
+    "sourceHash": "0599f408d47dcdd89272b37caab7cdb307c2c8e37c38df0218f136c2ae45ec1b",
+    "summary": "家居装修产品。",
+    "description": "探索 Lowe’s 的家居装修产品。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a88003ba910819182942cf778180b52",
+    "name": "Lucebra",
+    "sourceHash": "fac12ffbe99f3314f9735e497f99ba793f7036e0c1d4947509666bb7c15b1d50",
+    "summary": "探索在线课程",
+    "description": "按主题、技能或学习目标搜索并发现 Lucebra 上的在线课程。快速浏览相关课程选项，找到符合你学习需求的内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c597eebdd4819194fd9c4d03acedb6",
+    "name": "Lucid",
+    "sourceHash": "58cb368c45564d5cec399fef01696db36f747f69f78f2137f49ec236fd189bc0",
+    "summary": "构思、绘图并协同对齐团队。",
+    "description": "通过 ChatGPT，直接根据对话生成基础 Lucidchart 图表，简化工作流程。此集成不仅能无缝创建图表，还充当数字桥梁，让你可以直接在 ChatGPT 中即时搜索、检索、共享和总结已有的 Lucid 文档。无论是启动新的流程图，还是从复杂的白板中提取见解，你都可以减少在不同工具间切换的阻碍，为 AI 提供所需的可视化上下文，加快工作进度。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a288650da788191abac641c7f1f0c9f",
+    "name": "Lucid Beads",
+    "sourceHash": "f973646be0d6d1816222ad8d0a7116e2d258d712bd768b2e7cc5242f397e12f9",
+    "summary": "设计专属梦想手链",
+    "description": "通过与 Lucid Beads 对话，以实时 3D 方式设计个性化天然宝石串珠手链。选择天然宝石、腕围、珠子表面处理、图案、隔珠、吊饰和可选字母珠；也可以根据你的意图和偏好获取推荐。预览手链后，可购买或前往 LucidBeads.com 继续定制。每条手链均按订单手工制作，所有美国境内订单均享免费标准配送。国际配送需另付费用。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a82e719c090819198c38d465cf13874",
+    "name": "Luma",
+    "sourceHash": "56e5c07498e3f6469242b2c17223e4b204cd20601be81cd6b8cae0e878234e80",
+    "summary": "查找并管理活动",
+    "description": "无论你是想开始了解 AI，还是训练参加秋季马拉松，都可以在 Luma 找到志同道合的人。加入论文阅读会或跑步俱乐部，让自己离目标更近一步。\n\nLuma 为全球数百万场活动提供支持。无论你喜欢编织还是风筝运动，都能找到可以参加的活动。\n\n如果你在主办活动，也可以使用此连接器跟踪和管理即将举行的活动。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cd104d54308191aa3b6acb549ab5b9",
+    "name": "Lume",
+    "sourceHash": "a859707434243a13ffb381775d0cebabaf1f9da37ca3fd38eceb70a261f83ac3",
+    "summary": "在坎皮纳斯找到理想居所",
+    "description": "Lume 帮你在坎皮纳斯寻找住房，并深入了解每个空间的实际居住体验。探索经过精心挑选的房源，了解周边环境、建筑特色和日常生活氛围。每套房源都经过细致呈现，让你不只看表面，找到真正适合自己生活方式的居所。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4ada3917f881918da853b7e4c34d16",
+    "name": "Lumini",
+    "sourceHash": "4c50bb4f6b8715c1770eda4fbf719997b1dca1210aae2938350d162a10a94f0c",
+    "summary": "搜索法规并追踪法案",
+    "description": "将 AI 助手连接到 Lumini——由 AI 驱动的新西兰政府情报服务。搜索法规、追踪法案、监测公众咨询并获取议会活动见解，所有内容均限定在你的组织范围内。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fb5c66e6608191a93f72d190c7bb86",
+    "name": "Lune",
+    "sourceHash": "c10ea6e873422c058025445d431304f4cd53657e5c6148483bc1bc00c01a1e10",
+    "summary": "研究知识与工具",
+    "description": "Lune 将 ChatGPT 与面向科学工作流程的研究知识和工具连接起来。用日常语言提问，Lune 会从顶级学术会议检索相关论文，并提供摘要、元数据、引用链接，以及可获取时的全文。它还为文献综述、评估设计、消融研究和投稿场所选择提供精选指导。从早期构想到可发表的研究成果，Lune 帮助研究人员和技术团队更快推进工作，并提供可追溯的来源、更扎实的文献依据，以及更严谨、基于证据的决策。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a282d986ad08191be4c6e6b8ccf81b9",
+    "name": "Lurna",
+    "sourceHash": "2fe30492063b0479a5ab4ce422592018e3e20938f5a16b789444ee878e2aa313",
+    "summary": "学习闪卡与笔记",
+    "description": "直接在 ChatGPT 中将任意主题转化为适合学习的材料。Lurna 可帮你生成能在聊天中翻看的互动闪卡组，以及在清晰阅读视图中呈现的结构化 Markdown 学习笔记。更快复习关键概念，然后将卡组和笔记导出到 app.lurna.co，通过间隔重复继续学习，让系统化复习自然融入 AI 学习流程。\n\n你可以使用 Lurna 应用来：\n\n1. 考试准备——根据课程主题制作闪卡\n用途：将正在学习的科目转化为可在聊天中复习的互动闪卡组，然后导出到 Lurna 进行间隔重复。\n示例提示：“为我的生物期中考试制作光合作用闪卡——涵盖光反应、卡尔文循环，以及 ATP 和 NADPH 的用途。大约 15 张，达到考试难度。”\n\n2. 从对话生成深入学习笔记\n用途：与 AI 讨论复杂主题后，将解释整理成带有标题、表格和摘要的结构化易读笔记。\n示例提示：“写一份关于 2008 年金融危机成因和后果的学习笔记。包括关键术语、时间线，以及一段供我课前复习的简短摘要。”\n\n3. 学习上传的材料——笔记和闪卡\n用途：上传阅读材料、幻灯片或自己的笔记，无需手动重新排版即可转换为学习材料。\n示例提示：“这是我上传的 CRISPR Cas9 课程笔记。请先生成学习笔记，再制作一套涵盖最可能考查概念的闪卡。”\n\n4. 面试或资格认证前快速复习\n用途：快速制作以记忆提取为重点的闪卡，用于技术面试、资格认证或词汇学习。\n示例提示：“生成闪卡，帮我准备 AWS Solutions Architect 面试——重点关注 S3、IAM、VPC 和常见架构权衡。”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a61b02bec60819197f5ee5a427ff8a3",
+    "name": "Lyssna",
+    "sourceHash": "82a8c2c6e5d68f8d515e86535b9bce02ba3d7749d47def6be9b4eb46ed658912",
+    "summary": "查询你的研究数据",
+    "description": "Lyssna 的 MCP 服务器将你的研究数据连接到 ChatGPT，让你可以针对实际数据提问并获得回答，而不是依赖猜测。\n\n搜索你有权访问的所有可用性测试和问卷。获取测试详情、研究结构、筛选题答案、回复、录音和访谈记录。跨研究比较结果，无需逐个重新打开；并将发现带入接下来正在处理的工作中。\n\n这是只读连接器：它只会检索你的 Lyssna 研究数据，不会创建或修改任何内容。访问权限沿用你现有的 Lyssna 权限，因此你只能看到自己已有权访问的内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6946f8ed4fa081918b79d24c71ab1041",
+    "name": "Lytical",
+    "sourceHash": "a6891c6b63f6efe15ee30f28e17e3599b0ea1d435fede18b1f0992f3fb524c50",
+    "summary": "网站分析与洞察",
+    "description": "Lytical 会自动采集网站活动并将其转化为实用洞察，帮助你了解流量、用户行为和趋势，无需费力翻查分析报告。它能帮你快速回答诸如发生了什么变化、变化原因以及接下来该做什么等问题。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b7c7a99cd88191b6f7e938c1ab78dc",
+    "name": "M6plus",
+    "sourceHash": "2d1d24b8215878f2f6a7db04a00095d3f105d5999cd53a41c3df3c9146b07eca",
+    "summary": "探索 M6+ 内容",
+    "description": "几秒钟内找到想看的内容。使用 M6+，只需描述你想看的类型（心情、节目类别或观看对象），即可立刻发现为你量身推荐的内容。电影、剧集、娱乐节目、纪录片或体育赛事——体验简单、直观且个性化。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a69bfa20cd88191acaf7d9886d686fe",
+    "name": "Maakrop",
+    "sourceHash": "2949c5bddee81b505421b0280e25dcfdfe612ae8d6122b9a469524f312b3b6f4",
+    "summary": "你的教学助手",
+    "description": "Maakrop 是一款教学助手，让日常课堂管理更简单、更方便。教师可以在一个地方通过对话获取重要信息并处理常见任务，无需花时间切换多个页面、搜索菜单或手动收集信息。\n\nMaakrop 可帮助教师查看教学日程，查找班级、科目和学生，检查并汇总出勤情况，查看成绩，追踪未完成作业，并快速了解各班情况。它还可协助添加或更新学生信息、创建测评、录入成绩和出勤情况，以及导入学生名单或教学日程。\n\n对于包含多个步骤的任务，Maakrop 可以收集相关信息、拟定清晰计划，并在保存任何更改之前将详情提交审核。这有助于减少重复行政工作的错误，同时让教师了解进度并保持掌控。\n\n无论教师是在为一天的课程做准备、检查缺勤、跟进未交作业、查看班级表现，还是整理课堂信息，Maakrop 都能减少行政事务和查找资料所耗费的时间，让教师有更多时间投入授课、备课和支持学生。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a732e22122c8191ac404137c0514300",
+    "name": "Macaly Cloud",
+    "sourceHash": "e4f66eeb86ce6d077c3ee6fa39201048741b75d499ec0efff56e7c476c514c31",
+    "summary": "在 Macaly 上构建并托管应用",
+    "description": "Macaly Cloud 让用户可以直接通过 ChatGPT 创建、编辑、验证、预览、复制并明确发布托管的 Web 应用。它提供托管式项目沙盒、由 Git 支持的文件变更、平台功能指南、构建诊断、可分享的实时预览以及生产环境部署。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7045fe403c81918e49f176b04c3035",
+    "name": "mach",
+    "sourceHash": "da8ec45fe738a52d34bcd00bae7eda4a9053b2a57525640c0b526ec5ec2a5172",
+    "summary": "安全检查移动应用交付情况",
+    "description": "mach 将获批账户连接起来，用于检查 Flutter、React Native 和 Expo 项目的交付工作：项目、云构建、应用商店提交、OTA 发布、Maestro 测试运行和账户用量。此连接器为只读，绝不会暴露项目机密、签名凭据、构建日志或构建产物。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa10c1a74c48191bd03e5237a024445",
+    "name": "MacroDroid Macro Builder",
+    "sourceHash": "1740b7afc3351a172a617e16d6beb6432657c25a6f89d3a377deb9789f9350db",
+    "summary": "通过描述构建宏",
+    "description": "用日常语言描述你想要的自动化任务，即可获得完整的 MacroDroid 宏，可直接导入 Android 手机。\n\nMacroDroid 是一款 Android 自动化应用，已有超过一百万名用户每天使用触发条件、操作和约束来自动化设备：例如在会议期间将手机静音、电量不足时关闭 WiFi、开车时朗读消息、到家后发送位置，以及完成数千种其他自动化任务。\n\n此插件为 ChatGPT 提供完整的 MacroDroid 功能目录（包含 400 多种触发条件、操作和约束）、每种功能对应的准确 JSON 结构，以及一个可在你查看宏之前验证成品的校验器。只需说明想在什么情况下发生什么，例如“在日历事件期间将手机静音，结束后取消静音”。ChatGPT 会选择合适的功能、编写宏并进行验证。\n\n将结果保存为 .macro 文件，在“宏”标签页中选择“导入”；或者将其粘贴到 remote.macrodroid.com 上的 MacroDroid AI Macro Builder，即可直接发送到手机。\n\n无需账户或登录。你输入的内容不会被 MacroDroid 保存。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8b5dbaf2b881918d86b6b10f49e0ba",
+    "name": "Made In Show",
+    "sourceHash": "51bfac65ef304796ab7d90966faeecf80d3e56e318d5d4e0112085208812bf45",
+    "summary": "查看设备、团队和日程",
+    "description": "Made In Show (MIS) 是面向活动制作公司的管理平台，适用于音频、视频和灯光服务供应商。此连接器将 ChatGPT 连接到你公司的 MIS 安装环境，让团队能够用日常语言处理实时制作数据。\n\n你可以询问制作项目及其日程、查看特定日期的仓库库存、提前发现物料和人员冲突、检查制作项目完成度，以及查看制作备注和供应商统计数据；如果管理员允许，还可以操作数据：预留设备、添加地点、创建制作项目和起草报价文字。\n\n默认情况下访问权限处于关闭状态，由 MIS 管理员按用户控制：每个用户的 AI 访问权限可以是仅查看数据、查看并操作，或完全无权访问。写入操作遵循相同的用户权限，并在每次调用时由服务器端强制执行；对于创建制作项目等影响较大的操作，工具还会增加两步确认。连接器通过 OAuth 对接你的安装环境；数据只在 ChatGPT 与 MIS 后端之间流动，Made In Show 不会将其用于模型训练，并且工具调用会记录 90 天以供审计（不会存储响应内容）。\n\n需要在已启用 AI 访问权限的 Made In Show 安装环境中拥有账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b2b5a768d4819190d3a86c5f12e6d9",
+    "name": "Maersk",
+    "sourceHash": "2dcd0f8d43b4fcd34e4e55a52df2756c68640118491710986b7392ec3d1b2a29",
+    "summary": "追踪货运",
+    "description": "Maersk 帮助用户追踪海运集装箱和订舱、空运货物、陆运货物、拼箱货物及包裹，并浏览 Maersk 船期以规划海运。应用会返回当前运输节点、地点，以及可获取的预计时间；还为支持的运输类型提供追踪小组件，并提供一个交互式船期小组件，其界面从应用自身来源加载。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a585f804ad08191931907c9dc46a985",
+    "name": "Magic Patterns",
+    "sourceHash": "c04720f6636f0e54f9dd55b659982dd72b5e7fc1cde48796c6c2ca01f2f2037d",
+    "summary": "获取设计灵感",
+    "description": "让你的智能体能够制作创意原型、生成设计灵感、上传本地 UI，并整合 Magic Patterns 设计。Magic Patterns 工具集可帮助你与智能体通过视觉方式确认想要构建的内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a71cd90a56481919fa672db7cb39260",
+    "name": "Magic Tips",
+    "sourceHash": "e046e208c1d018bd332138e76881c8fb66521abf3ff946e7c87fb9e33ccd38e3",
+    "summary": "寻找迪士尼乐园人少的日期",
+    "description": "Magic Tips 将“我们什么时候去比较好？”转化为具体答案。\n\n选择度假区和月份，即可查看每天 1 到 10 分的客流评分，以及每个日期的预计等候时间等级，覆盖巴黎迪士尼乐园、华特迪士尼世界、迪士尼乐园度假区（加利福尼亚）、东京迪士尼度假区、香港迪士尼乐园和上海迪士尼度假区。评分根据历史等候时间观测数据、学校和公共假日日历、天气数据及季节性活动生成，并按照各园区自身的客流范围进行标准化。\n\n它还可以回答后续问题：\n• 各园区的游乐设施目录——最低身高、乘坐时长、必玩标记和社区评分\n• 搜索所有度假区，查找供应特定菜品的餐厅（“纯素”“火鸡腿”“米奇华夫饼”）\n• 度假区常见问题，以及用通俗语言解释规划术语的词汇表（Lightning Lane、DAS、rope drop），支持 13 种语言\n\n适用范围和限制如下：覆盖对象为迪士尼乐园和迪士尼邮轮，不包括环球影城。游乐设施目录为静态数据，不含实时等候时间或设施关闭信息。客流评分是预测值，并非保证；方法及已知限制公布于 https://magic-tips.app/en/methodology\n\nMagic Tips 是独立的粉丝制作项目，与华特迪士尼公司或其任何子公司、关联公司均无隶属、认可、赞助或官方关联关系。园区、游乐设施和角色名称均为各自所有者的商标，仅用于标识本工具涵盖的地点。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4bb46596648191a84d189c4731246e",
+    "name": "magicplan",
+    "sourceHash": "79a4be966164617d7485475c39497ccf8a1985359d32857ccce4136e7b606a9d",
+    "summary": "与你的平面图对话",
+    "description": "magicplan 是一款现场测量、记录和估算应用，广泛用于财产修复、保险和建筑行业。此连接器为 ChatGPT 提供对 magicplan 工作区的只读访问权限，让你可以直接在对话中查看和分析项目数据。\n\n连接后，ChatGPT 可以：\n- 列出并打开项目，读取每张平面图上记录的现场数据\n- 获取按楼层和房间细分的测量面积与体积\n- 读取现场填写的自定义表单，以及湿度仪器记录的干燥历史\n- 浏览项目照片和文件，并关联到其记录的建筑部位\n- 打开估算单并查看各个明细项目和费用总额\n\n连接通过工作区级别的 magicplan 客户 ID 和 API 密钥进行身份验证，并代表整个工作区执行操作。连接器为只读：不会在 magicplan 中创建、更改或删除任何内容，API 密钥也不会分享给 ChatGPT。\n\n常见用途：根据修复项目准备工作范围、检查哪些房间仍需记录、汇总估算单，或回答有关平面图测量数据的问题。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8fd2ab38f48191aa33ca4aac744eb6",
+    "name": "Magister",
+    "sourceHash": "1bf60b5e77b43685fd82f7efb02868c8fcd144ac22b34c43c8364ff584d20054",
+    "summary": "查询桌游规则",
+    "description": "Magister 帮助用户查找支持的桌游、获取有来源依据的规则解答并进行后续对话；如果用户持有 Library Pass，还可以主动申请添加尚未收录的游戏。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1f227d5a848191ae3317c66947b440",
+    "name": "Magnific",
+    "sourceHash": "167cabe0e830b67c9e1bd40dbc998a8420dcaea9d62fd8e107f197b7137eccc3",
+    "summary": "创建图像、视频和设计",
+    "description": "在 ChatGPT 中使用 Magnific，将创意变为完整视觉作品。在同一处访问所有图像、音频和视频生成模型，运行多步骤创意工作流。将图像放大至 4K、重新布光、添加配音、构建 3D 模型，并从任意设计中自动提取图层。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2e4ae9228881919b13aeb3f87ca03e",
+    "name": "Mailopoly Inbox",
+    "sourceHash": "11fbc5fd8d316837639d32919b129f38f8baa8c5cc3810d955d2f5811e5d6f95",
+    "summary": "搜索并发送邮件和消息",
+    "description": "Mailopoly 将支持的电子邮件账户和消息服务整合到一个统一收件箱中。连接 Gmail、Google Workspace、Outlook、Microsoft 365、iCloud Mail、Yahoo Mail 或兼容的 IMAP 邮箱。搜索已连接账户、阅读完整邮件和附件文本、查看新邮件，也可以从已连接账户起草或发送邮件。\n\nMailopoly 会分析已连接的邮件，提取优先事项、任务、会议和活动、带金额与到期日的发票和账单，以及包裹配送信息。你可以通过智能列表整理消息、排查同步和重新连接问题，并选择接收每日简报。\n\nMailopoly 还支持授权连接 Slack、Microsoft Teams、WhatsApp、TikTok、Facebook 和 Instagram。来自已连接服务的消息会与电子邮件一起显示，可在同一收件箱中搜索，并能在原服务中回复。\n\n需要 Mailopoly 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a667faef58c8191a6b73a0cb0cf1bc6",
+    "name": "Mailrith",
+    "sourceHash": "05d5d07b72ccbaa654e60aa5ec1856c1907df7d914b96eb5c12c9478e556a2b0",
+    "summary": "管理电子邮件营销",
+    "description": "Mailrith 帮助用户在一个已连接的工作区中查看订阅者和邮件效果、准备并发送群发邮件，以及管理邮件序列、自动化流程、定向设置和邮件模板。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a99aa86c0148191970a36d0a0839c4a",
+    "name": "MAK Immigration Source Guide",
+    "sourceHash": "4b4d6ceb6ccb22dc49b0cf08a3b17ac03258742aefe0c800175a2aaa9540e650",
+    "summary": "加拿大移民信息来源",
+    "description": "查找 MAK Canadian Immigration Services 提供的加拿大移民信息来源链接、主题参考资料和带日期的变更记录。本插件用于一般信息和来源查找，不提供个性化移民建议或针对具体案件的法律结论。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69463c3af6a48191aef5c21055cd32bf",
+    "name": "Make A Viz",
+    "sourceHash": "4ea7e62391086b2b5a0564a66d22ef8d349e424618430d6754930fa6b0ca6235",
+    "summary": "创建和编辑流程图",
+    "description": "ChatGPT 中的 Make A Viz 应用可让你直接创建和编辑可视化图表，包括流程图、时序图和思维导图。\n无需外部工具或标签页，即可在 ChatGPT 中即时生成图表。你可以提出“为我们的销售审批流程创建流程图”或“绘制用户身份验证的时序图”等要求，并直接在对话中查看图表。\n图表可通过对话和可视化编辑器进行完整编辑。你可以发送“添加错误处理分支”等指令来完善图表，也可以直接调整节点和连线。\n所有图表都会自动保存，并可在 ChatGPT 中继续访问。之后只需询问“列出我的图表”或“显示我创建的入职流程”，即可找回并继续编辑。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_697889aa44408191a672657ce9a3dde1",
+    "name": "MakeMyTrip",
+    "sourceHash": "b77fe8f7ff9b511e033d8a20c63c56fd3bba577cac451e93f65aabb9c5e15d10",
+    "summary": "查找航班、酒店和出租车",
+    "description": "在对话中直接查询实时库存和价格，发现航班、酒店和出租车。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a712cb183048191994564060b91ef43",
+    "name": "Mallary",
+    "sourceHash": "6272210e8e2b5d7b607f5df82c9eb208924a20fcc4e415e5c0de61b6d151f88f",
+    "summary": "在社交媒体发布并回复",
+    "description": "在 ChatGPT 中使用 Mallary，在你已连接的社交媒体账户上发布和安排帖子、上传媒体、阅读并回复评论，以及查看帖子和受众数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a94ffd770b88191bfdfdae406598d2d",
+    "name": "Malloy Studio",
+    "sourceHash": "de3fe882cc19b93fdd3eb01e2181d78257f215dc36398c7728df0694cd359b0d",
+    "summary": "生成动态图形",
+    "description": "通过简单的文字提示生成可自定义的动态图形。制作动画标题、图表、字幕条、社交媒体叠层、产品视觉素材等，然后调整设计并导出，用于视频创作。Malloy Studio 帮助创作者和视频编辑者无需从 After Effects 空白项目开始，也能制作动态图形。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6943d1778c8c81918f4c9ddf4849ca41",
+    "name": "Malwarebytes",
+    "sourceHash": "3dc06f972718ce1207fc7a20a6a92c90be9a8114e64a527833b3f34bb1e7bbe5",
+    "summary": "验证链接、域名和电话号码。",
+    "description": "在点击、拨打或回复之前验证链接、域名、电子邮件和电话号码，防范网络钓鱼和诈骗。直接在 ChatGPT 中查看未知号码、可疑邮件、缩短网址和陌生链接的即时信誉信息、所有权详情和风险等级。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a86e63a115481919e1692b9e96a72c6",
+    "name": "Manatal",
+    "sourceHash": "f1c6737081fa81fc5ced9b0ac0f9c4059026aace88e3ba9321fd2f9d3b2cb76f",
+    "summary": "管理招聘流程",
+    "description": "将 Manatal 接入 ChatGPT。用日常语言搜索和添加候选人、创建并查看职位，以及将候选人与空缺职位进行匹配。招聘数据触手可及，帮助你更快处理重要决策，从候选人筛选到会议准备和招聘流程审查。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694515f686a88191abd2f9c020d4bc06",
+    "name": "MangaBoom",
+    "sourceHash": "ed7ffdc2c34d11ff2530dae69ade90cd569ecba08a558b1ead135e9bf861def3",
+    "summary": "将文本和聊天转成漫画",
+    "description": "你的专属 AI 漫画家。几秒钟内即可将故事、聊天记录和创意转化为生动的全彩漫画。\n\n核心功能\n\n聊天转漫画：复制文字对话，立即生成 4 格漫画短剧，适合社交媒体内容。\n智能导演模式：自动安排故事节奏（开场、铺垫、高潮、反转）。\n移动端优先格式：生成适合手机阅读的纵向滚动版式。\n多种风格：可切换热血少年漫画、韩式网络漫画和美式卡通风格。\n\n在 ChatGPT 中的使用方法\n1. 连接：将 MangaBoom 连接到 ChatGPT。\n2. 调用：通过以下任一方式启用应用：\n输入命令：输入“@”并选择 MangaBoom，或在聊天框中输入“MangaBoom”。\n3. 创作：就这么简单！",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cbfd610c3881919163e080ede4d042",
+    "name": "Manufact",
+    "sourceHash": "1ba0fdb5c1cc5e01599327a6c6a97090dff701c250f0f829cce30b460f81beeb",
+    "summary": "部署 MCP 服务器",
+    "description": "Manufact 让用户能够在 Manufact Cloud 中部署、监控和管理 MCP 服务器及 MCP Apps。该应用支持组织查询、服务器和部署管理、GitHub 仓库部署、构建和运行日志检查，以及网关可观测性分析。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2c0bf33cb48191884d842b15ad3c20",
+    "name": "Mapbox",
+    "sourceHash": "8535d20736cb7b245c5a2e7cd95c99a65668a6e26d88aa031661166f001bff79",
+    "summary": "Mapbox 位置智能",
+    "description": "为使用 Mapbox 构建应用提供技能和 MCP 服务器。技能涵盖 Web、iOS、Android 和 Flutter 集成模式，以及地图样式、制图、搜索和地理空间操作。MCP 服务器将你的 AI 智能体连接到实时 Mapbox 数据，包括地理编码、路线规划和等时圈，从而使用最新、准确的数据构建真实地图和位置功能。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_694b9ff58c4081918629c070f1611ea7",
+    "name": "Mapify",
+    "sourceHash": "6902ab4bfc57978c8df89564617d1898bd201b4788b4b48609e704efac67ef23",
+    "summary": "将任意内容转为思维导图",
+    "description": "Mapify 可将文本、文档、网页、YouTube 链接、音频、视频、图像和研究提示转化为交互式思维导图。用户可以直接渲染 Markdown，也可以启动私密 Mapify 任务来处理源材料、进行后续澄清，并返回可缩放的层级结构，以探索概念、会议记录、媒体和研究发现。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2af88a22788191877468b75ccfe2bc",
+    "name": "MapQuest",
+    "sourceHash": "d8aefb7908fcd2880cd0b4b766978b6a15f267b513805124671e5c795e73e80c",
+    "summary": "查找地点并获取路线",
+    "description": "获取任意两个地址之间的驾车路线，预计到达时间会考虑当前交通状况。搜索某地点附近的餐馆、商店、服务和其他场所，并查看距离。查询地址的精确坐标，或根据一组坐标查找最近的地址。要跑腿或安排配送？把停靠点列表交给 MapQuest，它会计算最高效的访问顺序。路线上的交通事故和道路施工也会标记出来，让你出发前了解情况。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698429b2c5fc8191bb997f52cb2a413a",
+    "name": "MarcoPolo",
+    "sourceHash": "e49e087831a01701dbc4868c0bddb13bceba44a640c5ed08f74e2f8de13671f4",
+    "summary": "安全的 AI 数据工作区",
+    "description": "MarcoPolo 会启动一个安全容器，让 ChatGPT 能够处理你的实际数据。连接数据库、API、S3、数据湖仓、CRM、Jira、日志等系统——使用范围受限的凭据，模型永远看不到这些凭据。\n\nChatGPT 可使用 DuckDB、Python、shell 以及一组工具，跨系统浏览、查询、转换和分析数据。工作区会长期保留，让你可以在已有工作的基础上继续推进。\n\n你可以直接在对话中准备报告、了解数据、调试问题或查看最新指标。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a172ed01fd4819188c0cbd26e01ced6",
+    "name": "Markdown by mdedit.ai",
+    "sourceHash": "01680574f3bcb5dfef9b233410e709a94cc8f5d1dd4027fd682fa4fee20f6e58",
+    "summary": "保存、编辑和分享 Markdown",
+    "description": "直接在对话中于 mdedit.ai 创建并保存私密 Markdown 文档。可在各工作区查找和修改已保存文档，并在你选择时发布或取消发布可分享链接。发布操作始终需要你的明确确认。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69aabb9fed388191a27178a825825f4d",
+    "name": "Markup AI",
+    "sourceHash": "24329caf12020bba51e6777a1b7b8cce70800fac31f59e18eb0b1fdf047b8fbd",
+    "summary": "检查内容质量",
+    "description": "Markup AI 会通过一次调用，根据组织配置的质量检查审阅草稿：品牌语气偏差、未批准术语、风格指南违规、难读句子、听起来像 AI 的表达、缺乏依据或有风险的主张、来源缺失以及 AI 搜索适配度。用户可在 ChatGPT 中分享内容，并可选填目标；随后会收到已运行的检查项目、配置警告，以及包含位置、说明和修改建议的问题列表。团队还可以指定检查名称，选择角色、品牌语气档案、风格指南或内容档案，运行明确的一组检查，并查看组织可用的检查及配置。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a973e80c5048191a440bb0815c5a241",
+    "name": "Marq",
+    "sourceHash": "e653141d43cfdca62099ffba6dd4d04412b70793139eba8d22250d41a3e2cea8",
+    "summary": "创建符合品牌规范的内容",
+    "description": "Marq 是面向品牌团队的品牌赋能平台，帮助团队支持组织各处的内容创作者。将 Marq 连接到 ChatGPT，查找品牌模板，并用它们创建或更新符合品牌规范的内容，例如单页介绍、数据表和社交媒体帖子。使用 ChatGPT 检查项目页面、文本、图像和 Smart Fields，然后改写、校对或翻译文案并替换图片。你也可以使用用户、团队或项目信息个性化内容，从 Marq 数据集填充文档，并将 Marq Brand Kit 的颜色、字体和标志应用于受支持的模板元素。可将完成的项目导出为 PDF、PNG 或 JPG。更改会保留现有样式和元素锁定，让团队更快创建和更新内容，同时保持品牌及版式控制。ChatGPT 只能处理已登录用户在 Marq 中有权访问的内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1f03a5003481919a9dc301fed29ac4",
+    "name": "Martini",
+    "sourceHash": "51cc19f93b83d54d5080f8a5a4d6a9a9bb9d05481d36df2e5cdd4c3d002576ff",
+    "summary": "协作式电影制作",
+    "description": "使用 ChatGPT 与 Martini 一起浏览可视化项目看板、整理场景和镜头创意、管理拍摄对象与参考素材、添加制作备注，并在共享画布上组织电影制作工作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9a2170e1a4819191915a584e07f8cb",
+    "name": "Mary",
+    "sourceHash": "74881fc7052ceec41feafe9e37c72ec1db490b779cadfd5972cd27f22bf3db12",
+    "summary": "提取并核实事实",
+    "description": "Mary 让你可以直接在 ChatGPT 中提取、审查并核实某事项的完整事实记录。每个回答都来自你的文档并附有来源引用，还会说明哪些内容被遗漏以及原因。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7b8619ab348191a773e0fb830c31cc",
+    "name": "Masha",
+    "sourceHash": "e4a66c0daa9551f4b160fc19f2f2a489d9cc1809e887fe6ba49f9cfbefe88faf",
+    "summary": "CTV 广告系列与指标",
+    "description": "Masha 是面向 CTV、视频和展示广告的广告系列管理平台。连接 Masha 账户后，你可以用日常语言查询自己的广告系列：列出广告系列，查看按日期、设备、地理位置、时段、年龄或电商维度拆分的投放和效果指标，以及查看账户中的广告主和发布商。\n\n即使不连接账户，你仍可浏览 Masha 公开的 CTV 库存和价目表，并获取用于制作媒体提案的品牌素材包和演示文稿结构。已连接的用户还可以将完成的演示文稿渲染为可下载的 PDF。\n\n此连接器对你的 Masha 数据仅提供只读访问。它绝不会暴露供应商成本、代理商利润或其他租户的数据；每次调用都按照 Web 应用使用的相同权限限定在你自己的账户范围内。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2abc00cdcc81919fc869fb8087ea08",
+    "name": "Matchbox",
+    "sourceHash": "fb4eb26b8813199c4405ec5f0da3dd0944cab41f04004c7285162a4a401aa53c",
+    "summary": "为任何问题寻找工具",
+    "description": "Matchbox 帮助你针对实际问题找到合适的产品或工具。用日常语言描述困扰你的事情——“我总忘记吃药”“我需要用三种货币追踪支出”——Matchbox 就会推荐与你情况相符的具体产品，并按匹配程度排序，而不是按热门程度排序。它会同时展示鲜为人知和较新的工具以及成熟产品，帮你发现通用搜索和榜单文章容易遗漏的选择。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aabfbe0a06081919190bf7ac1ab6a1a",
+    "name": "MatchMyCrew.com",
+    "sourceHash": "3c564d586c41ecead1872fc57fb85a38335c5eeea07ac3c92505ad6fa677bc6c",
+    "summary": "寻找创意制作团队人员",
+    "description": "Match My Crew 帮助用户搜索公开列出的创意制作专业人员，按查询词、服务、地点和可用时间筛选结果，并查看已发布的服务提供者个人资料。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a90aee0e95c8191ae8482cc8fb895b0",
+    "name": "Matriz del Destino",
+    "sourceHash": "e848c1d2b34b58c5e3494936cf39661c22ae5f2c7fd014c6afffb22c706c019c",
+    "summary": "命运矩阵与兼容性",
+    "description": "根据出生日期计算命运矩阵，并为两个人计算兼容性矩阵。作为精神探索和自我反思的工具，返回主要能量、天赋、财务和关系层面，以及共同目标。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa8270578c48191ba66e27efc3699e7",
+    "name": "Mavvrik",
+    "sourceHash": "a6511c2bd82c693af01a9e938fa91e35f1e73f1023a2520b82aa9e0df2b92df2",
+    "summary": "云成本智能分析",
+    "description": "Mavvrik 将 ChatGPT 连接到你的 Mavvrik 租户，让你无需打开仪表盘，就能针对实际数据查询云成本。用日常语言询问支出趋势、成本驱动因素、预算差异、异常情况和节省建议。适用于 FinOps 从业者、云工程师，以及任何需要快速了解成本情况、无需手动筛选报告的人。目前涵盖已连接云账户中的 Cloud Cost、Cost Variances、Recommendations 和 Anomalies。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aac127617f08191834dd08c960ecbbd",
+    "name": "Max Eats Out",
+    "sourceHash": "e9c174c6525352af1ee79eb525332098089c8cd75906ffea476ad298b0d1fb5d",
+    "summary": "发现精选餐厅和酒吧",
+    "description": "从 Max Eats Out 发现餐厅和酒吧。这是一份经过编辑精选的指南，收录世界各地城市中精心挑选的场所。你可以按城市、菜系、氛围、饮品、推荐菜品和其他特点搜索，浏览具体场所，并以对话方式询问餐饮去处。\n\nMax Eats Out 是一份编辑指南，而非通用地点数据库。推荐来自一个私密的美食爱好者和当地居民社群，以及他们的探访和观点，因此各城市的覆盖范围有所不同，并且经过刻意筛选。\n\n你可以用它寻找适合某顿饭或某种场合的去处、了解某城市的覆盖范围，或深入了解特定场所。该插件只读访问 Max Eats Out 的公开目录，无需 Max Eats Out 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8803ef01748191be0b2d93257d5871",
+    "name": "May or Shall",
+    "sourceHash": "5d50e0e230203e2c15feb71062cb845ca35dd7b013321acdc9725972d584c362",
+    "summary": "搜索并引用你的案件材料",
+    "description": "May or Shall 是处理法律事务的工作区。你可以阅读案件材料包，每段值得保留的文字都会成为一张卡片，永久记录准确引文及其来源：文件、页码和段落。\n\n连接 ChatGPT 后，你可以基于这些材料起草内容，而不是依赖记忆。搜索你在各个事务中保存的所有内容，按日期提取时间线，并询问诉状中的哪些段落仍缺少具体答辩，因而可能依照 CPC 的 Order VIII Rule 5 被视为承认。你也可以在对话中将段落保存到某个事务，并保留其引用信息。\n\nChatGPT 接收的材料均由你事先选择和分类，因此它使用的是有依据且经过筛选的资料，而不是一堆 PDF。\n\n由执业诉讼律师创建。免费使用，采用 AGPL 开源许可。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3a4dbd763081919117ce18a0a90093",
+    "name": "Maze",
+    "sourceHash": "58feb1e855c9fc144d8c2a89e457110307d3cd1684e27f27dec1ebec4b346391",
+    "summary": "调取 Maze 研究数据",
+    "description": "连接 Maze，在工作流程中查找研究、查看会话结果并呈现用户洞察。即使不知道研究名称，也可按主题查找研究；查看参与者回复和任务指标；获取有主持和无主持会话中的重点与主题；调取录音或文字记录以便深入分析。\n\n适用于为产品决策收集证据、设计评审前综合研究发现，或了解尚未审阅的研究。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69b8c4ce2d10819193a65b07ee69398f",
+    "name": "McAfee",
+    "sourceHash": "531733d39ea7e44c3a52e4a48fdc65c832d17fe44375db2f47f4d896ebddd8ba",
+    "summary": "实时防范诈骗",
+    "description": "聊天时远离诈骗。McAfee 将实时诈骗检测直接带入 ChatGPT，让你在点击前判断内容是否可信。分享可疑邮件、短信、社交消息或链接，即可立即获得分析、清晰的风险说明以及后续处理建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_698cab1901ec8191b56825a9e3bb69eb",
+    "name": "McDreams Hotels",
+    "sourceHash": "df348e13b30124a4e020185e8ab2f70438aad0b0c42a07aff80658923c2e5e3a",
+    "summary": "查找并预订酒店客房",
+    "description": "欢迎入住 McDreams Hotels。我们提供经济实惠的设计型客房，配有平板电视、免费高速 WiFi 和优质箱式弹簧床垫。McDreams 是一家“数字化”酒店，没有前台。欢迎在线办理入住，或使用自助入住机办理。最后还有个好消息：所有酒店均完全使用绿色电力。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a29ae0e945081918c21f571b1d482a7",
+    "name": "MCLogs",
+    "sourceHash": "914f11151b015a8b663cd8d87ad491abed1c89005274e1feb78d015287a4909d",
+    "summary": "追踪货运",
+    "description": "MCLogs 可让用户通过集装箱编号或提单查询公开的海运货物追踪信息。它会返回当前状态、路线、预计日期、船舶和航次详情、电放状态以及可用的事件历史记录。此版本不提供发票访问权限，也无需 MCLogs 账户或身份验证。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a84283581f08191b0cab72626586efd",
+    "name": "MCP Conduct Register",
+    "sourceHash": "b07fa9fcef2cc2dcb82521a8aea47a43062fa4b3f15a3fe0663e0e398a3897c4",
+    "summary": "检查 MCP 服务器行为",
+    "description": "此插件展示 MCP 服务器已测量行为的公开登记信息。\n\n系统会按计划测量五项条件：服务器是否使用 MCP、是否发布 A2A 智能体卡、是否声明由谁付费、相同输入是否返回相同输出，以及第三方能否重新计算判断结果。无法测量的条件会记录为“未测量”，绝不会计为通过，登记方运营者也不能放宽此规则。\n\n登记册不会对服务器排名，也不会推荐某台服务器优于另一台。它会返回已测量的内容、测量时间和记录的 SHA-256 值，让不信任发布方的人也能自行核验。\n\n未出现在登记册中的端点，只表示从未在此处测量。缺失会如实报告为缺失，不代表负面判断。\n\n除非被检查服务器的所有者已记录同意，否则不会测量确定性，因为这需要在他人的服务器上执行工具。\n\n免费、只读、无需账户或密钥。登记册是由定时脚本生成的构建产物，不经过编辑环节，并以 DOI 归档，确保即使代码仓库迁移，引用仍然有效。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a312802286c8191bad0a7278a4e53ef",
+    "name": "MCP Server For WordPress",
+    "sourceHash": "3310559a674a73cc99d99dda80bf047ce4be5a5945665e0751c457218583f827",
+    "summary": "安全管理你的 WordPress",
+    "description": "将你的 WordPress 网站连接到 ChatGPT。ChatGPT 可以使用 WordPress Abilities API 所公开的功能，在该 WordPress 网站上执行操作。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c462f16acc819195ccb6d60a90abb5",
+    "name": "Medeloop Grants",
+    "sourceHash": "82f86eb3159e1bd51067eab958a24b9ddb02e817a636dc06f24696370b9f3470",
+    "summary": "查找并申请 NIH 资助",
+    "description": "Medeloop Grants 帮助研究人员和项目团队从“我们应该申请什么？”迈向可信的初稿，无需切换工具或从头开始。\n在 ChatGPT 中，它将精选资助数据、你的专业背景和专门的起草工作流程整合到一个体验中。你可以询问相关资助机会、快速了解自己是否符合条件，并在同一对话中开始起草申请书。\n它的实用之处在于各环节彼此衔接。Medeloop 不会只返回一长串泛泛的结果，而是根据你的背景和研究方向匹配资助项目，帮助你优先考虑切实可行的机会。它还会及早提示资格要求和截止日期等关键限制，减少你在成功可能性较低的资助上浪费时间。\n准备好写作时，平台会通过结构化输入引导你，并生成一份扎实的初稿供你完善。起草过程沿用发现资助机会时使用的上下文，因此你不必重复说明或每次重新整理研究内容。\n用户通常看重 Medeloop Grants 能减少资助申请工作的额外负担。它帮助用户专注于研究本身，而不是在零散工具间切换、重新整理信息或反复怀疑项目是否匹配。随着它从你的输入和以往工作中学习，搜索与写作也会逐渐更贴合你的需求。\n最终，你可以更顺畅地从发现机会推进到完成草稿，减少阻碍和无效反复。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fde1e3d8cc8191a7ab1cb3807d7f10",
+    "name": "MedStats",
+    "sourceHash": "fb7eeb34d8e7ce28035619a28eba772cc345dcaf85ea9f45c9cceb0732c2c876",
+    "summary": "MedAT 学习教练",
+    "description": "MedStats 将 ChatGPT 与个人 MedAT 学习追踪连接起来。用户可以保存已确认的练习成绩、调取最近成绩、分析分测验趋势、汇总学习进度、使用每日教练、勾选计划中的学习时段，并获取包含后续建议的每周回顾。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69734448e32081918d2dc65d46db7706",
+    "name": "MeetGeek",
+    "sourceHash": "2eaad11df0a17540c99b509ade51481853ba13f9995dec6420a69049847bdb95",
+    "summary": "搜索会议记录",
+    "description": "直接在 ChatGPT 中访问会议数据。\n\nMeetGeek 是一款 AI 会议助手，可记录、转写并总结 Zoom、Google Meet 和 Microsoft Teams 上的对话。\n\n通过此集成，你可以搜索过去的会议记录、调取行动事项、分析讨论内容，并从对话中发现见解，无需离开 ChatGPT。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a33481f1f4081918f931bd9da5e021e",
+    "name": "Meeting Mate",
+    "sourceHash": "4755a2e61e2fd08171e5edad87227b0683c76d2751c356f04cc8ca5beda4e720",
+    "summary": "访问会议录制内容",
+    "description": "Meeting Mate 帮助用户直接在 ChatGPT 中访问和分析会议录制内容、文字记录、摘要和行动事项。\n\n用户可以搜索对话、查看 AI 生成的摘要、调取行动事项，并从过往会议中获取见解，无需离开 ChatGPT。Meeting Mate 专为希望快速访问会议知识和后续跟进信息的专业人士打造。\n\n主要功能：\n\n• 访问会议录制内容\n• 调取会议文字记录\n• 查看 AI 生成的摘要\n• 查看行动事项和决策\n• 搜索所有对话\n• 从会议中提取见解\n• 访问会议元数据和参与者信息\n\nMeeting Mate 适用于线上和线下会议，让会议资料更易于查找和使用，帮助团队保持协同。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a74e64b42088191857cdd5ca6f30d77",
+    "name": "Meeting Summarizer",
+    "sourceHash": "b4b459568567f5dd6d4de9323574d79e271a5580661828fd6329fc4c34cb1fa8",
+    "summary": "查找会议洞察",
+    "description": "Chat Everywhere 出品的 Meeting Summarizer 帮助用户查找过往会议、调取摘要、报告和思维导图、搜索带时间戳的文字记录证据，并在 ChatGPT 中利用这些上下文准备后续跟进和草稿。访问范围仅限于经过身份验证且符合条件的账户所拥有的会议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8ac73629e0819183058d1c50b4be06",
+    "name": "Meetly",
+    "sourceHash": "f94cd3e8da1b2f6e7643130de0321c9b6e9c1a0b2c13faf8dfa82e947cf787ca",
+    "summary": "把会议转化为实用成果",
+    "description": "Edge First AI 出品的 Meetly 帮助用户查找自己明确同步的会议，并调取带有发言者标签的证据。随后可使用配套技能，借助其原生功能进行总结、研究、梳理、教学、规划并创建产品文档。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6943e63ae0b4819185d8d108167e98cd",
+    "name": "Meetup",
+    "sourceHash": "3426448e543749a44f77f5e1ccf01d916f888878ecb6939c72d41c59c7dd6c13",
+    "summary": "查找本地社交活动",
+    "description": "通过聚焦且个性化的附近活动视图，发现与你兴趣和氛围相符的社交活动。\n\n借助这款 ChatGPT 应用，你可以用自然语言和丰富上下文发现符合实际需求的 Meetup 活动，找到合适的人群，参加真正喜欢的活动。\n\n无论你想和内向者一起参加温馨的桌游聚会，还是想与有职业追求的年轻专业人士小酌交流，应用都会理解你的偏好并推荐合适的活动。你可以按兴趣、地点和日期优化结果，并查看活动的重要详情，包括清晰的介绍、参与者、主办群组和评分。",
+    "model": "codex-subagent-reviewed"
+  }
+]

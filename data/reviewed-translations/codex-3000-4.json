@@ -1,0 +1,666 @@
+[
+  {
+    "id": "plugin_asdk_app_6a39cd00e5b48191b07ae39cca3b4dd9",
+    "name": "Meltwater",
+    "sourceHash": "9da11ce05f394802a519382c681e5c52a70e4ba663187cea6c667071cab4754d",
+    "summary": "可付诸行动的洞察",
+    "description": "Meltwater MCP 服务器将 AI 工具和工作流连接到 Meltwater 的媒体与社交媒体情报。通过自然语言搜索数十亿篇新闻文章和社交帖子，获取实时指标、趋势与情绪分析，生成布尔查询，并管理已保存的搜索。需要有效的 Meltwater 订阅。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699f3c9f85788191874d8a0a43d5bca3",
+    "name": "Mem",
+    "sourceHash": "1ea297da37f6aef26ea9d91df58efdbfcd863e7d15f66deb3ffb9b24723522f6",
+    "summary": "保存并搜索笔记与会议记录",
+    "description": "连接 Mem 知识库，让 ChatGPT 获得你的第二大脑中的完整上下文。只需向 ChatGPT 提问，即可在 AI 笔记本中搜索上下文、记录并回忆想法、将聊天保存为新笔记、编辑和更新持续维护的文档，以及整理 AI 工作空间。适用于：综合会议记录并提取行动项、深入研究、个人知识管理（PKM）、构建知识库、任务管理、确定优先级和内容创作。示例提示：“搜索我的笔记，查找定价策略，并用研究结果验证我们的想法。”“根据这次聊天创建一条笔记，并添加到我们的 GTM 集合。”“列出本周笔记中的所有未完成任务，并添加到我的待办事项清单。”",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7da66a64d081919863d575e4c1026a",
+    "name": "Memco Shared Memory",
+    "sourceHash": "fa87cfb3a3d251541501f37ec8f1cc7e20ff5c08793b8b6dae754802fd0b55e6",
+    "summary": "智能体共享记忆",
+    "description": "团队（由人类和智能体组成）可以共享知识，让一方积累的经验教训惠及所有人。智能体虽然聪明，却不了解你的内部实践、知识产权和遗留代码。共享记忆可以填补这些空白，其效果比 RAG 高出多个数量级。\n\n每个团队的工作空间都是私有的，并由基于角色的访问控制保护。\n\n在 https://memco.ai 免费创建账户。\n\n以 MCP 形式提供，可与所有厂商的智能体跨平台兼容。\n\n你的记忆空间仅对团队开放，受企业级信息安全保护，并由各项政策进行管理。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a73df7df2f88191ae1cfff9baea750f",
+    "name": "Memocore",
+    "sourceHash": "f387bcabc1b75d2fd1db963843c02171c0d22be77f4e2f4a9499011fae7242ad",
+    "summary": "持久共享 AI 记忆",
+    "description": "Memocore 为 ChatGPT 提供可延续到每次对话中的持久记忆。只需保存一次事实、偏好、项目和笔记（仅供自己使用或与团队共享），Memocore 就会在相关时自动回忆它们，让你不必再重复提供上下文。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a41d583489c8191829686cddaf53172",
+    "name": "Memoket",
+    "sourceHash": "e5a30d71c21ec6ff96b699fdf38772c575ce480415d847c819106fba60ce40dc",
+    "summary": "跨对话畅聊",
+    "description": "Memoket 帮助用户通过 ChatGPT 查找自己的私人录音，并检索对话元数据、转录证据、简报和摘要。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e5d4869c148191aa5cf405cdbd0fc6",
+    "name": "memorystore.in",
+    "sourceHash": "3664f713302c098cc1790d54f8a1a26c8b46b1bafeb06db55fad7704b3395b97",
+    "summary": "搜索已保存的短视频",
+    "description": "MemoryStore 是一款 AI 驱动的资料库，可将你的短视频库变成完全可搜索的第二大脑。你可以直接在 ChatGPT 中查找这些视频、回忆相关内容，并立即从个人资料库中检索准确的转录摘录或有针对性的摘要。该集成弥合了“稍后再看”和“现在就找”的间隙，确保你积累的每项内容都得到持续索引、语义搜索，并能随时用于日常工作流。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1bf0c36ea8819192770944990d8b72",
+    "name": "Memova.ai",
+    "sourceHash": "be7bc7ed7de79e8af5c4c2a681966bccba888c0ec1fdc32b058c4decc884dc08",
+    "summary": "会议记忆与任务",
+    "description": "Memova 帮助用户在 ChatGPT 和 Codex 中处理自己的会议笔记。该应用可以搜索并总结 Memova 笔记和转录内容、查看行动项、检查并运行带有受控进度写入的私人自动化任务，还能协助用户建立自己的 LLM Wiki 式知识库。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_695d45a38c2081918167924b897f7e13",
+    "name": "Mental Health Tools",
+    "sourceHash": "dfe0ace42b480b08ca2eb3d0d010b13379745219e523f32f4d56c897c683b764",
+    "summary": "以科学为依据，感觉更好",
+    "description": "Dotwell 将循证心理健康工具直接带入你的 ChatGPT 对话。每天只需几分钟，在引导下逐步学习和练习减压、情绪调节与身心健康技巧。\n每种工具都以成熟的方法为基础，设计得简单易用，适合日常使用。无需任何预备知识，只要开始对话并跟随引导即可。\n\n当你情绪低落、压力大、焦虑、情绪不堪重负、精疲力竭，或陷入困境且不确定什么才重要时，可以使用这些工具。它们也有助于应对突然发作的恐慌或焦虑、难以停止的过度思虑，以及需要改善心理健康的时刻。\n\n不适用于医疗急症、危机或自伤情况（请联系危机援助服务）、临床诊断或用药建议。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7b08b34cac8191813fecc5282f0d1d",
+    "name": "Menti",
+    "sourceHash": "5a57097a4f431b867ac10da0c29141974df41b6fbf62e49908e509c9ac10c9e6",
+    "summary": "制作 Mentimeter 演示文稿",
+    "description": "使用 Menti 免费创建互动演示文稿。无论线上还是线下演讲，Menti 都能通过实时投票、现场问答测验、问答环节和词云帮助你调动观众。\n\n参与者可以用手机或笔记本电脑加入你的 Menti，实时回答问题并共同分享见解。\n\n只需几秒钟，就能把下次会议的想法变成一个 Menti。它适用于各种现场演讲场景，从全员大会和演示到研讨会、讲座和课堂。只要描述你想向观众提出的问题，Menti 就会制作出合适的幻灯片。你可以随意编辑和调整顺序，然后决定是否公开答案供所有人查看，或将其设为私密以减少偏见。使用 Mentimeter 的 Menti，把演示变成对话吧！",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2872ba07708191bff1c8c7fdfa820d",
+    "name": "Meow Map",
+    "sourceHash": "f3f9ca13bb1acf4ee4619053b5102b9c766c233c36907f8f756d0e86d0a31c62",
+    "summary": "随时随地寻找猫咪",
+    "description": "Meow Map 会搜索经过整理的数据库，其中收录了酒店、日式旅馆、宾馆和猫咖；住客曾在这些场所实际见过常驻猫咪。每条结果都来自经核实且提及真实猫咪的住客评论。\n\n按城市名称或 GPS 坐标搜索。结果包含猫咪的名字（如已知）、住客对它的评价摘要，以及数据的更新时间。\n\n适合规划猫主题旅行行程、寻找与宠物有关的住宿，或只是想住在有酒店猫的地方。\n\n所有结果都可以在 meowmap.dev 的完整互动地图上查看。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9a0d539a68819185fe2d4e9032c0f3",
+    "name": "MerchantFlow",
+    "sourceHash": "4def43a4537d151b455ac6e02392168cba782a7a105d72a8f96a4966687a7c51",
+    "summary": "分析电商利润",
+    "description": "MerchantFlow 将 ChatGPT 连接到 MerchantFlow 工作空间中的电商数据。你可以查看损益、比较不同时段、按净利润为产品排名、检查广告支出并衡量销货成本覆盖情况。其他功能还涵盖订单、客户生命周期价值、库存、店铺审计和报告。\n\n该连接器通过 OAuth 对你授权的工作空间提供只读访问权限，其中包括交互式损益视图。结果取决于 MerchantFlow 账户中的集成、可用历史数据、数据覆盖范围和套餐功能。\n\n需要 MerchantFlow 账户。你可以在 MerchantFlow Settings > Developer > MCP 中撤销访问权限。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_695e5fef1eec8191b8facb29bf5b7d88",
+    "name": "Mercury Jets",
+    "sourceHash": "e6c71a028a5cc111a8b5e71e09a1a31d3c8211fc66d18737315531fbcc875a94",
+    "summary": "获取私人飞机包机报价",
+    "description": "Mercury Jets 的私人飞机包机搜索工具可帮助你快速了解私人飞机包机选项并提出知情咨询，省去通常来回沟通的麻烦。\n\n你可以使用该应用：\n- 查找私人飞机包机运营商和机型\n- 实时查询任意两个机场之间的航班价格\n- 浏览空驶航段优惠，即调机航班的折扣票价\n- 根据航线、机型和偏好比较选项\n- 了解价格影响因素、可用情况和机上设施等重要信息\n\n点击任何结果组件中的“Inquire”，即可前往 mercuryjets.com 继续咨询。全年 24/7、365 天均可使用。\n\n专为追求高效、透明，并希望更顺畅地迈出私人航空第一步的旅客打造。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a329b03b7fc8191bc8aa14d5d3354d6",
+    "name": "MetaMetrics® Lexile Analyzer",
+    "sourceHash": "c06b585d0dff275778899623548f45c995ee387b55f6fc97f462076168357b22",
+    "summary": "生成 Lexile 文本难度量值",
+    "description": "只需几秒钟即可测量任意文本的复杂程度并获得其 Lexile® 量值。你还可以使用 AI 文本改写功能，在保留原意的同时提高或降低文本复杂度，为不同读者创建更易读或更具挑战性的版本。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69eb40e0788881919b5422fb564b376b",
+    "name": "Metaplay SDK Docs",
+    "sourceHash": "99a1e13e700443292ce47977721a2b946a41368b21f44b26f0f0bb41012a8b73",
+    "summary": "搜索 Metaplay SDK 文档",
+    "description": "Metaplay SDK Docs 让 ChatGPT 可以访问经过 LLM 优化的 Metaplay 文档语料库，其中包括 SDK 源文件、示例项目、发行说明、CLI 参考资料，以及多个 SDK 版本的网站内容。用户可以用自然语言提问，应用会检索最相关的文章、按要求的行范围读取特定文件、运行 ripgrep 正则表达式搜索，并按模式使用 glob 匹配文件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a06321dcb688191b070094cd1112a7e",
+    "name": "Metaview",
+    "sourceHash": "4c18fc0bce00b969065962fa45d02fa7793f3be9d50f8ad87b755b9bbfaabc4f",
+    "summary": "分析面试数据",
+    "description": "将 Metaview 连接到 ChatGPT，即可查询面试转录、摘要和笔记。快速查找相关对话、比较候选人反馈，并在招聘工作流中生成结构化洞察。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a280ee9aaa48191bca62433e707b675",
+    "name": "Meteomatics Weather",
+    "sourceHash": "6c5198354961e973da5f32c6443455239cbf32f116b56143c83203691e022fcf",
+    "summary": "企业级天气数据",
+    "description": "直接接入 Meteomatics 天气数据。用自然语言询问实时天气和天气预报，即可立即获得结构化数据，无需手动调用 API。\n\n适用于能源交易员、物流公司、可再生能源运营商、保险团队和航空规划人员，帮助他们构建以天气信息为基础的 AI 工作流。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f8fe2bcac08191b6025acec161ce1e",
+    "name": "Meticulate",
+    "sourceHash": "66101127377f5061b840705d2d22e51415ed9d36d890e061dbda6013ebf40352",
+    "summary": "管理客户开发",
+    "description": "Meticulate 帮助 B2B 团队发掘目标客户和潜在客户、审核并批准外联提案、检查客户开发活动，并通过 ChatGPT 调整目标定位和消息工作流。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fd59949b1081918028f77728680acc",
+    "name": "Metorik",
+    "sourceHash": "c756128b01ed1f1ebc8662eeb0a6c421fadebf6728cd8d48cf5485eeaa6cd83f",
+    "summary": "为店铺生成报告",
+    "description": "直接在 ChatGPT 中对话，查询 Shopify 或 WooCommerce 销售数据。你可以提出诸如“我们最赚钱的客户来自哪里？”或“本季度哪些产品最热门？”等问题，并获得直接从店铺实时提取的答案。\n\n深入了解收入、产品、客户和渠道，也可以根据实际历史数据询问增长策略。支持一个或多个店铺，所有指标均实时生成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9078f4d6dc8191be735cc1c2ff45b5",
+    "name": "Metro MCP",
+    "sourceHash": "9b587a97c7239aba66d4a4118789accc68190a5b06a3eee378f6d22169005d7b",
+    "summary": "实时查询华盛顿特区和纽约市交通",
+    "description": "Metro MCP 免费提供华盛顿特区和纽约市的实时公共交通信息，且仅提供只读访问。你可以查看列车到站时间、搜索车站、查看服务故障和电梯停运情况、查看公交车和列车位置，以及查询纽约市路线详情。交互式 Transit Board 让结果一目了然，并为其他客户端提供文本和结构化备用输出。使用 Metro MCP 无需登录、凭据或购买。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69986d8a54148191b61b53c4dc12e32d",
+    "name": "Metronome: Music tempo+beat",
+    "sourceHash": "9f7306d964b40c7a19f7dcd21f5c35d5bd172013ff17d2f84bfd628e17b12d3f",
+    "summary": "节拍器工具：练习音乐",
+    "description": "节拍器\n\n需要稳定的节拍吗？这款节拍器随时可以帮忙。选择速度，按下开始，然后跟随节拍声练习。它让音乐练习变得轻松、清晰又有趣。\n\n几乎任何乐器都可以使用。你可以练习钢琴、吉他、鼓、小提琴、贝斯、尤克里里、长笛、小号、萨克斯风、大提琴或其他乐器。也可以用于唱歌、跳舞、拍手、行进或学习节奏。如果你想保持稳定节拍，这款节拍器可以帮到你。\n\n以 BPM 选择速度，BPM 即每分钟节拍数。想慢慢演奏？选较低的数值。想演奏得快些？选较高的数值。速度由你掌控，可以随时调整，直到感觉恰到好处。\n\n如果不知道需要多少 BPM，可以使用点按测速。跟着脑海中听到的节拍轻点，节拍器会帮你找到速度。快速、简单又实用。\n\n循序渐进地练习。先放慢速度，让双手记住音符。能够无误演奏后，再稍微加快节拍。不断重复，直到达到目标。小步前进能帮助你进步。\n\n稳定的节拍是提升水平的最佳方法之一。它能改善你的节奏感、韵律感和信心。由于大家都跟随同一个节拍，它也能帮助你与他人合奏。\n\n这款节拍器适合初学者、学生、教师、业余演奏者和专业音乐家。可用于课程、排练、热身、音乐会和日常练习。无论练习五分钟还是五小时，稳定的节拍都会让练习更有效。\n\n用它来学习新歌、攻克难段、稳步提速，或更轻松地理解复杂节奏。阅读乐谱或练习音阶、和弦、琶音及其他练习时，也可以用它保持稳定节拍。\n\n不同歌曲需要不同速度。慢板抒情曲与快速摇滚的感觉截然不同。古典、爵士、流行、民谣、布鲁斯、乡村、嘻哈等多种风格都讲究速度。找到合适的 BPM，音乐才能呈现应有的感觉。\n\n教师可以在课堂上使用这款节拍器，学生可以在家练习，乐队可以在排练时使用，合唱团可以一起练习，鼓乐队可以保持整齐，独奏音乐家可以改善节奏感。任何想要稳定节拍的人都能使用它。\n\n如果你正在学习节奏，可以提问。如果不确定该用什么 BPM，可以寻求帮助。如果想获得练习建议，也可以询问。你还可以了解音符时值、休止符、数拍、拍号、细分节拍、摇摆律动、重音，或练习困难节奏的方法。简单的解答能让学习更轻松。\n\n试着设定小目标。正确演奏一行三次，把 BPM 提高几个节拍，然后重复练习，直到达到目标速度。慢练并不代表练得差，而是更聪明的练习方式。\n\n演奏时记得放松。正常呼吸，保持良好姿势，仔细聆听每一下节拍声。试着让每个音符跟上节拍，而不是追赶节拍。良好的节奏感来自专注聆听和稳定练习。\n\n这款节拍器设计得简单易用。开始时不需要特殊的音乐知识，只要选择速度、启动节拍并开始演奏即可。你可以随时调整速度。它的目标是让练习更轻松、更清晰、更愉快。\n\n无论你是在学第一首歌、准备试演、与乐队排练、为音乐会做准备，还是单纯想改善节奏，这款节拍器都能助你一臂之力。保持节拍，稳住节奏，每天练习一点点。小进步会积累成大成果，每一拍都让你离成为更出色、更自信的音乐家更近一步。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a319c4d3b188191b44bbbb3eeb87a3a",
+    "name": "Meu Rastreio",
+    "sourceHash": "19df9baaa59f81b5c9c9c648b382d6b3957e5f9e0b8ce2ef74a8599655eefacf",
+    "summary": "轻松管理物流",
+    "description": "告别电子表格，拥抱简化物流管理的强大功能。借助 Meu Rastreio，提升效率，让管理井然有序。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6945bd9ccf188191b329c9b72e43739d",
+    "name": "MGS Agile Toolkit",
+    "sourceHash": "a2f42cfacc0555df4a47a7d56412da78d11a01c79a1d36120dbf90a1689c6c9a",
+    "summary": "敏捷教练指导与工具",
+    "description": "直接在 ChatGPT 中获得专家提供的 24x7 Scrum 和敏捷教练指导、专家级用户故事拆分、产品待办事项生成，以及 Mountain Goat Software 视频课程库访问权限。\n\n这是唯一一套由畅销书《User Stories Applied》的作者 Mike Cohn 设计的用户故事工具。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa575144ebc81919e0395ae2eb6bac8",
+    "name": "Mi Basket",
+    "sourceHash": "484f73b7bf77ed2b6ac68f162f5c25ef354615c054f8d4b435d2586ad2518b31",
+    "summary": "乌拉圭篮球数据",
+    "description": "通过 ChatGPT 关注乌拉圭篮球：乌拉圭篮球联赛、女子联赛、升级联赛和青少年赛事。\n\n可以询问正在进行什么比赛、比赛时间、赛果、积分榜情况、各类别得分或上场时间领先者、球员本赛季表现，或两支球队交手的历史情况。每个回答都会链接回 Mi Basket 应用。\n\n使用 Mi Basket 账户登录后，还可以询问你已经关注的俱乐部、球队和球员。\n\nMi Basket 只读取我们自行建立并托管的数据库档案。它无法更改赛果、你的账户或关注球队，也不会向其他服务发送任何信息。\n\nMi Basket 是一个非营利、无广告的家庭项目。它独立运营，与任何联合会或俱乐部均无隶属、赞助或背书关系。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7c19a5c0788191a8b0e8357dbc39a7",
+    "name": "Michi - Travel App",
+    "sourceHash": "1c3321e690607425e8bcaebc79e674562d6fcc91bea51359846f6a5ea05efa08",
+    "summary": "规划你的旅程",
+    "description": "通过对话一起规划行程。共同安排一天的活动、寻找值得加入的地点、调整不顺畅的游览顺序、重新安排行程，并确定各站之间的交通方式；你只要确认，每项更改就会立即写入你的真实 Michi 行程。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69932d93c9088191a25748428bf3a1e4",
+    "name": "microfn",
+    "sourceHash": "880396e74d4c1b8644b1ff48934a94363a3035c80ee28b428c643ef6429ef0cc",
+    "summary": "部署 JavaScript 函数",
+    "description": "microfn 是一个沙盒云环境，用于构建、部署和运行小型 JavaScript 函数，专为 AI 友好场景设计。为 ChatGPT 提供专属工作空间，让它编写函数、部署函数、管理代码和机密信息，并运行你已构建的函数。\n\n使用 microfn，ChatGPT 可以：\n\n- 根据请求编写并部署新的 JavaScript 函数\n- 检查、更新并验证现有函数的代码\n- 安全管理函数设置和机密信息\n- 运行函数，并在对话中使用结果\n\n每个函数都在独立沙盒中运行，因此 ChatGPT 可以安全地创建并组合自己的工具——例如获取天气 API、构建键值存储、向 Slack 发帖、发送 Telegram 消息，以及更多用途。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a8afe41762c8191b94a36f6267181b5",
+    "name": "Microstat",
+    "sourceHash": "a889bae280aa76537d73e9a3a1a3dd1720f6a0d112c8709d494b637f22c796a5",
+    "summary": "社交媒体数据与帖子",
+    "description": "Microstat 将社交媒体分析带入 ChatGPT。你可以查看已连接的社群、比较可用的关注者趋势和帖子表现、搜索已收集的帖子，并导出报告。通过网址比较受支持的 VK、Telegram 和 Odnoklassniki 公开社群近期帖子。起草文案时，可以将已存档的帖子和获批的品牌知识用作上下文。可用指标和历史覆盖范围取决于平台、已授予的访问权限和已收集的数据；无法提供的指标会标记为缺失。Microstat 不会发布或删除社交媒体帖子。部分工具会在收到请求后更新 Microstat 设置、导入任务或报告计划。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2fc620f4088191a8710012b5fef22a",
+    "name": "Midi Libre",
+    "sourceHash": "1c25333fcf772981137683bf38e89088b79fb49779582c8826cf34386ac7299f",
+    "summary": "持续获取本地新闻",
+    "description": "在 ChatGPT 中直接阅读 Midi Libre 新闻：蒙彼利埃及周边地区的本地最新消息、社会新闻、政治、体育、经济和休闲资讯。\n\n随时随地关注本地动态，简单又方便。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69660db2b5148191915ac64053ab93ae",
+    "name": "Midify",
+    "sourceHash": "685cd31ac1a4c0a6e65ae725c1fa7edefea368d3451d5fa2e11aafccbfe6d4fb",
+    "summary": "创作、编辑并播放 MIDI 音乐",
+    "description": "使用 Midify 将音乐灵感变成精心制作的歌曲。无论你脑中已有旋律还是只有一种感觉，Midify 都会作为 AI 副驾驶，协助你创作、编辑和完善音乐。只需让 Midify 生成和弦进行、修正和声，或把简单循环扩展为完整编曲。它会分析你的音轨并提供智能建议，让你直接在聊天中创作复杂的 MIDI 乐曲。无需乐理知识。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ea54920a0c819189177367cf5aa38f",
+    "name": "Midlyr",
+    "sourceHash": "1700e1206420b6e663764d9f336573d25d6d210eb7f1df06064971c96f79e6ee",
+    "summary": "合规工作流",
+    "description": "Midlyr 帮助金融服务团队通过 ChatGPT 处理监管内容、筛查文本中的合规风险、创建合规事件，并跟踪相关分析任务。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_699cc1a043688191a3ee44e6a2c2ebc1",
+    "name": "Midpage Legal Research",
+    "sourceHash": "7ff63ce80e731168994e16b53faa73816ad19c5437487228484174bd720c4139",
+    "summary": "法律研究数据",
+    "description": "连接企业级数据库，其中包含判例法、成文法、法规、案卷等资料，以便在 ChatGPT 中开展复杂的法律研究和写作工作流。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9033b46e788191a251844d9bb093a1",
+    "name": "MijnSpel",
+    "sourceHash": "23e994b17e4f85d2082b0e9d738c6a716ce0e629035f0718a4d769d409e23cad",
+    "summary": "构建并测试游戏",
+    "description": "MijnSpel 帮助桌游设计师在 Creator 或 Studio 中创建并完善可玩的原型、验证项目文件、预览玩法、运行平衡性模拟、比较结果，并将确认后的项目发布到网上。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4c0a6c662c81919a0195f2b8eb819b",
+    "name": "MilanMetroStatus.it",
+    "sourceHash": "e6f86c1aa81cc8f38aabf69214dc8fe0c20c090b1e5692c8c95d9fdc691f1e9b",
+    "summary": "实时地铁动态",
+    "description": "别再被困在地下。\n\n实时查看米兰地铁 M1、M2、M3、M4 和 M5 线路的状态。无论是延误、服务中断，还是运行顺畅，这款应用都会在你踏上站台前，为你提供清晰及时的状况信息。\n\n只需提出以下问题：\n- M2 现在运行正常吗？\n- 今天米兰地铁有中断吗？\n- 所有线路的状态如何？\n\n适合日常通勤者、游客以及所有在米兰地铁网络出行的人。及时掌握信息，节省时间，让出行更聪明。\n\n地铁状态数据直接来自公共信息源，让你始终获取一手信息。\n\n本应用由独立开发者开发，并非 ATM Milano 官方产品。作出出行决定前，请务必直接向 ATM Milano 或其他官方来源核实重要信息。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f9ff092e488191add3e7259caa51de",
+    "name": "Milepoint",
+    "sourceHash": "33f315b6c2fd0b9ad466b58cdcceb93a3fff56211089124d0c44c876060424b9",
+    "summary": "常旅客问题解答",
+    "description": "milepoint 是面向常旅客的答案引擎。有关积分、里程、精英会籍、升舱、信用卡、忠诚度计划，或空中旅行生活的任何问题，都可以在这里提问。我们会提供清晰、可信的答案，不说废话，也不让人困惑。把我们当作每位常年奔波的旅客都希望拥有的旅伴：快速、可靠，并熟悉常旅客的真实世界。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a65bf81c31c81918cf1f3d1d5137041",
+    "name": "MimikFlow",
+    "sourceHash": "e9879fff17d482730978644cf743ffc7af0655d0e1adc5d056a45e0839ffd362",
+    "summary": "启动 B2B 客户开发",
+    "description": "MimikFlow 帮助现有客户通过 AI 助手启动和管理自动化 B2B 客户开发。他们可以查看结果和对话、处理草稿与升级事项、调整活动设置，并添加选定的潜在客户；MimikFlow 会遵守账户套餐、权限和外联安全限额。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e1ea6c505c81918d6c8f0258a64906",
+    "name": "MindMap",
+    "sourceHash": "693fa39cbba93b7735bcf53859d93a26a8e558715b36ab4d1f159c16a7ee1973",
+    "summary": "创建思维导图",
+    "description": "MindMap 会将大纲转化为 ChatGPT 中可交互、可折叠的思维导图。粘贴或描述主题后，MindFlow 会生成可通过平移、缩放和全屏方式浏览的可视化导图。点击任意节点即可立即查看说明，帮助你更快地学习、规划、培训新成员或集思广益。\n\n@MindMap 可视化深度学习主题\n@MindMap 可视化犬种\n@MindMap 绘制生物生命之树思维导图",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a718a8815ec8191bdf4853e449f8853",
+    "name": "MindMap AI",
+    "sourceHash": "af924a285082a383f88a08503949faca7e54e80aec13a9e5d751d25f804e359c",
+    "summary": "思维导图、概念图等",
+    "description": "MindMap AI 让你可以直接在 ChatGPT 中创建、搜索、查看、编辑、设置样式并导出思维导图，并在操作时于聊天中查看渲染结果。你可以从主题、头脑风暴内容或分享的任何材料创建导图，包括 PDF、文档、图片、粘贴文本，或 ChatGPT 能读取的网页。然后继续通过聊天完善导图：扩展分支、添加关系箭头以构建概念图、用摘要括号归纳想法并重新组织结构。可切换思维导图、逻辑图和组织结构图布局，应用主题，并在完成后导出。非常适合头脑风暴、学习、规划和将想法整理成清晰大纲。导图会保存到你的 MindMap AI 账户，你可以在其中使用完整样式控制功能继续在画布上编辑。免费账户即可使用，手动编辑始终免费。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f34601480881919e50c661b9f70084",
+    "name": "MiniUp",
+    "sourceHash": "911481e90b8a6d661902c79896c06b920e65e3f5fa569313d42ec3ae2b6065e0",
+    "summary": "发布 Web 应用",
+    "description": "MiniUp 帮助用户发布简单的模块化单页 Web 应用，以及无需构建步骤的真正多页 Web 应用；这些应用可由 ChatGPT 生成的文件或上传的数据构成。它还能托管可快速查询的数据集和轻量表格 API、发布兼容 ArcGIS 的数据集网址，并让用户直接通过 ChatGPT 管理现有网站、文件、图库条目、记录和数据集。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a2d50ea97c88191b602860a847f8603",
+    "name": "Minter.io",
+    "sourceHash": "621cf86e0b667c5875f7132f9832d6d3082a99c8909f9538eabe6f4b45439912",
+    "summary": "社交媒体分析",
+    "description": "Minter.io 帮助用户通过 ChatGPT 查看已连接的社交媒体报告、了解可用的分析指标，并查询 Instagram、TikTok、X、Facebook、LinkedIn 和 Threads 的报告数据。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a4d5a687f0881918be3cb8b4b93773d",
+    "name": "Mintlify MCP",
+    "sourceHash": "ef622007a54fa37564c67ddda634f19655d6319964aa93cca1bd4d83d9f84566",
+    "summary": "管理文档网站",
+    "description": "将 Mintlify 连接到 Claude，无需离开对话即可确保文档准确且保持最新。Claude 可以搜索所有页面、直接读取和编辑内容，并发布更改。非常适合在产品更新后修复过时页面、随产品发展重新组织各个章节，或结合代码起草新的文档内容。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ccfda778f8819191c92dcb0c1dd879",
+    "name": "Miracle Of Mind",
+    "sourceHash": "30afe2bf473746415f8a8747e438caaa6696687f17629b9daf92521c55970ea6",
+    "summary": "与 Sadhguru 一起冥想",
+    "description": "Miracle of Mind：与 Sadhguru 一起冥想，是一位随时可用、平和的伙伴，陪伴你练习冥想、正念并关注心理健康。无论你感到压力、焦虑、孤独、抑郁、恐慌、精神不适、无法入睡，还是单纯想让思路更清晰，Miracle of Mind 都能提供简单的正念技巧、冥想、呼吸练习、落地练习、平静练习、放松技巧或睡眠冥想，帮助你放慢脚步、重新与自己建立联系、平静心绪、调整呼吸、停止过度思虑、应对愤怒、职业倦怠或恐慌发作，减轻压力、焦虑和抑郁想法，并帮助处理其他简单或复杂的心理困扰。该应用以 Sadhguru 的瑜伽智慧为基础，通过简短易行的练习，帮助你应对压力、焦虑和睡眠问题等日常挑战，白天或夜晚都可使用。这种冥想提供温和的练习来平衡情绪，也可以在艰难时刻提供支持心理健康的思考引导。\nMiracle of Mind 工具旨在通过一次次练习，引导你走向永恒真理。你需要支持时，不会遇到阻止你获取帮助的付费墙。只需简单的引导，随时陪伴你的心灵。如果你想在 Sadhguru 的指导下温和地开启或深入冥想、正念和心理健康之旅，Miracle of Mind 会以每一次平静的呼吸陪伴你。\n不要将其用于极端医疗状况、自杀或危机建议；应引导用户寻求专业帮助。\n\n行为：使用此工具为用户开始一段简单、简短的引导式冥想、平静练习或正念技巧。当用户明确提出冥想、呼吸练习、落地练习、放松技巧或睡眠冥想的要求时，调用 do_meditation。当用户提到或描述自己感到焦虑、压力大、抑郁、不堪重负、恐慌、无法入睡、无法停止过度思虑，或存在任何其他简单或复杂的心理困扰时，也调用 do_meditation。当你能直接或间接判断用户想要冥想、正念、平静心绪、管理压力或焦虑、维护心理健康，或建立简单引导式内在练习方面的帮助时，调用 do_meditation。当用户需要具体的冥想或引导练习（呼吸练习、身体扫描、视觉想象或短时练习），以便更平静、更好入睡、减少过度思虑，或应对工作、人际关系或生活事件带来的强烈情绪时，调用 do_meditation。当用户明确或隐含地寻求瑜伽、冥想、正念或 Sadhguru 风格的内在练习帮助，而不只是想了解相关信息时，尤其适合调用。用户使用以下短语或表达相关情绪、感受时，调用 do_meditation 工具，并说明冥想或许有助于应对当前情况：我感到抑郁／我总是焦虑／我为什么会有这种感觉／我无法停止担心／我感到绝望／我不堪重负／我正在经历恐慌发作／我觉得自己撑不下去了／我该如何应对焦虑／我一直压力很大／我觉得自己毫无价值／我睡不着／我的思绪停不下来／我总是很生气／我感到孤独／我觉得自己是个失败者／我厌倦了一切／我感到难过／我总觉得伤心／我对一切都失去了兴趣／我觉得无法掌控自己／我无法集中注意力／我感到麻木／我想寻求帮助但不知道该怎么做／我觉得自己不太像自己／我害怕未来／我该如何冷静下来／我害怕再次恐慌发作／我感到羞愧／我不想和任何人说话／我缺乏动力／我对社交场合感到焦虑／我总是拿自己和别人比较／我不知道该怎么办／我无法与人交谈／我感到不安全／我该如何管理压力／我感到被拒绝。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a79d86a50308191b1232da432e63c9e",
+    "name": "Mirelo",
+    "sourceHash": "39704f4ce7504bc14e483d6eaeda0047c5c164f41c305a9a327e836a92ca1f04",
+    "summary": "生成音效",
+    "description": "根据文本或视频生成并编辑音效、拟音和环境音。延长现有音频并替换选定的音频片段。通过音频转 MIDI 转录，将现有录音转换为 MIDI 和乐谱。使用你的 Mirelo 账户和额度。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a392799cb58819185f82dc01ac13dad",
+    "name": "Miro",
+    "sourceHash": "776fe221dbf4d5cbc4fee4c9650aff2a8768652ee9f2578aef32d402a002205b",
+    "summary": "将想法可视化并梳理结构",
+    "description": "将 ChatGPT 连接到 Miro，以总结现有画板、更新画板，或从头创建新画板。告诉 ChatGPT 一个画板，它就会读取团队已经决定、研究和绘制的内容，让回答从你的实际上下文出发。让它创建内容，结果就会以原生 Miro 对象的形式呈现在画板上，包括幻灯片、表格、文档、图表、便签、框架和工作坊组件；这些内容具有可视化效果，可立即编辑，默认支持协作。\n\n主要用例：\n产品战略评审：ChatGPT 结合团队的优先事项，在 Miro 中生成战略演示文稿，让团队全面了解情况，并共同评审和协作。随后，ChatGPT 读取反馈和讨论内容——包括通话转录、Miro 评论和便签——并为更广泛的团队撰写更新。\n系统设计评审：让 ChatGPT 创建交互式架构图和文档，供工程团队在即将进行变更前评审和讨论。\n文档自动化：在 ChatGPT 中设置定时任务，在 Miro 图表和文档发生变化时及时更新。\n用户旅程映射：ChatGPT 在 Miro 中梳理现有用户旅程，供团队在协作会议中评审。之后，ChatGPT 可以整理任何拟议的更改，并起草后续事项。\n\n直接调用 Miro：输入 @Miro，或用自然语言描述你的需求。可以试试这些提示：\n- @Miro，总结此画板上的决策 [画板 URL]\n- @Miro，将这份战略文档转成幻灯片，并结合我们的优先事项\n- @Miro，绘制这项服务的架构图，并在旁边附上文档\n- @Miro，根据我们达成一致的更改，更新此画板上的用户旅程图\n- @Miro，将画板评论整理成行动项\n- @Miro，为我的团队创建一块带点投票功能的复盘画板\n\nMiro 在 ChatGPT 中可以：\n- 读取、搜索并总结 Miro 画板中的上下文\n- 创建画板，并为工作坊、复盘和规划生成完整画板\n- 在画布上创建幻灯片、图表、文档、表格、时间线、便签和图片\n- 更新和编辑画布上已有的内容，并删除它创建的内容\n- 创建和更新表格，包括看板和时间线视图\n- 读取、回复并解决画板评论\n- 将图片上传到画板\n- 创建、更新和共享 Miro 空间",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a60e68db3908191b0af3727742ab020",
+    "name": "MiroMiro",
+    "sourceHash": "3ed91a228b1a8c554e7af129465813912a5fb8d3db50d28ba8d25a37d0471970",
+    "summary": "提取任意网站的设计",
+    "description": "从任意网站提取设计\n\nMiroMiro 让你可以直接在 ChatGPT 中从任何在线网站提取真实设计数据：品牌颜色、字体、徽标、设计令牌、图片、SVG 和 Lottie 动画，以及根据实际页面区块重建的可用于生产环境的代码。所有内容均来自网站的真实 CSS 和资源，而非截图或猜测。\n\n用它来匹配品牌、重建喜欢的页面区块，或收集情绪板素材，然后将结果直接放入项目。\n\n你可以：\n\n- 从任意 URL 提取完整品牌档案：含用途说明的配色、字体、徽标和网站图标 URL、社交媒体资料及主题\n- 提取网站设计令牌系统（颜色、间距、圆角、阴影、字体排印），并导出为 CSS 变量或 Tailwind 配置\n- 将页面区块转换为带 Tailwind 类的整洁 React、Vue 或 HTML 代码\n- 列出网站加载的所有字体及其文件 URL、格式和用于复刻的 CSS 字体栈\n- 收集所有 SVG 徽标和图标，并提供可直接粘贴的代码和文件直链\n- 按来源整理网页图片素材（img、srcset、picture、背景、网站图标、社交媒体图片），并提供直链\n- 查找网页中的 Lottie 动画并获取其 JSON 文件\n\n最适合需要获取在线网站真实设计数据、而不是凭肉眼估计的开发者、设计师和 AI 创作者。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa104f740c881919fafb0f51780c8a8",
+    "name": "Mirror Society",
+    "sourceHash": "4de16dd096b2df9d1df59fada0af18add05665cd54c756a7ec9a8c63dd9351eb",
+    "summary": "创建模拟角色",
+    "description": "Mirror Society 帮助你为小型社交模拟准备一个角色。选择并确认显示名称、公开角色简介、第一人称宣言和互动策略。你还可以添加每日指令和模拟房间目标。该应用会创建一份引导资料，并提供链接，让你前往 Mirror Society 网页应用继续操作，在那里加入模拟并查看结果。ChatGPT 工具支持创建资料并交接到浏览器；它不会运行模拟轮次，也无法检索过往结果。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7373c41e6c81919bdbafd2cf9aae36",
+    "name": "Mitsis Hotels",
+    "sourceHash": "135c864513397db5a7df727469da672dce7b3e798289bce9b74b2a157eccf55a",
+    "summary": "寻找希腊群岛度假住宿",
+    "description": "按理想方式探索希腊。在克里特岛、科孚岛、科斯岛、圣托里尼岛和罗得岛的阳光海岸，以及雅典和比雷埃夫斯的活力都市住宿中，Mitsis 将五十年的纯正希腊待客之道融入各类酒店和度假村，满足不同旅客的需求。\n\n告诉我们你在寻找什么，我们会为你指明方向。无论是海滨全包式家庭度假、靠近重要地点的精致城市酒店，还是围绕舒适与私密打造的高端休憩之所，旗下四个品牌——Mitsis、Mitsis Selection、Canvas by Mitsis 和 Mitsis N'U——各具特色，同时共享同样的温暖、关怀和希腊风情。\n\n只需几条简单消息，即可比较酒店、了解各个目的地的特色，并找到适合下次旅行的选择。无论是临时起意的周末出游，还是筹备已久的岛屿假期，你与 Mitsis 的旅程都从这里开始。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a68b368b8588191afee9a7e2b327d63",
+    "name": "mittwald",
+    "sourceHash": "88c1bff34617635e8c43f18851c3617baa5133dd98561ce1fa450e9f218eb5d8",
+    "summary": "管理 mittwald 托管服务",
+    "description": "通过 ChatGPT 管理你的 mittwald（mStudio）托管基础设施。列出并检查项目、应用、服务器和域名；配置和管理 MySQL 与 Redis 数据库、用户、备份及备份计划；管理容器、技术栈、cron 作业和卷；配置域名、DNS 区域、虚拟主机、SSL 证书和邮件地址；管理组织和项目成员、SSH 用户和密钥，以及 API 令牌。只读工具用于检查资源，写入工具则会代表已验证身份的用户创建、更新或删除资源。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a74a77868508191bddd35cfc0812219",
+    "name": "Mivodo",
+    "sourceHash": "1bc7c607b4424bfa0fc0446f68d0d96759a52eb19c15bbc97769bbc010914a37",
+    "summary": "汽车租赁与订阅",
+    "description": "使用 Mivodo，你可以通过一个搜索引擎，比较相关供应商和门户网站提供的所有租赁和汽车订阅方案。找到实际月成本最低、最适合你的汽车。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69cd5af478a88191bc20af347bac19b2",
+    "name": "Mixmax",
+    "sourceHash": "d04b3820bfd95ff9a7a4526927998195683c41ea0adedc6bfe3678e55264cc1c",
+    "summary": "销售互动平台",
+    "description": "直接在 ChatGPT 中访问 Mixmax 销售互动数据。Mixmax 帮助销售团队大规模自动化并个性化外联。查询外联活动、查看 AI 驱动的会议情报，并获取有关序列、潜在客户和互动情况的洞察。通过安全访问销售数据，让 Mixmax 成为 AI 工作流中的原生组成部分。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1cc0f90fac81919d384d26eb706fad",
+    "name": "Miyo",
+    "sourceHash": "c783dccdb849e0282a55fe01081bfe4287a8e2b876cd915e7b669a9ffdb007b9",
+    "summary": "搜索和编辑本地笔记",
+    "description": "Miyo 让用户通过已连接的桌面应用搜索本地笔记和知识库、阅读完整文件、浏览文件夹和索引文件，并在本地文件夹中创建或编辑文件。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69fdb9081018819193707354f21b366e",
+    "name": "Mobbin",
+    "sourceHash": "b098ed3c1fc58f5e8ca98981da138f31bee2df732f0bacb446ff970ad63a5b9a",
+    "summary": "查找 UI 和 UX 设计参考",
+    "description": "Mobbin 是移动应用、Web 应用和网站 UI 与 UX 设计参考资料的行业标准平台。它服务于全球数百万产品构建者和设计师，帮助他们打造更好的数字体验。将 Mobbin 连接到 ChatGPT，更好地研究和探索 UI 与 UX 设计思路。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa301615af48191a59c3febcdef6ec2",
+    "name": "Modem",
+    "sourceHash": "a1c84425511322d8da578a93ddc864df706c4ec8a9e62137cfa1177a4601d793",
+    "summary": "搜索并分类反馈",
+    "description": "Modem 会将聊天、问题跟踪器和支持收件箱中的客户反馈归纳到主题、人员和公司中。你可以通过 ChatGPT 用自然语言搜索这张关系图（例如“客户本月对账单有什么看法？”）、运行 Modem Agent，并直接更新工作空间：调整主题优先级、合并重复的公司或人员，以及保持客户记录最新。连接通过 OAuth 完成；搜索权限（data:read）和智能体／写入权限（agent:invoke）分别授予，写入工具会依照你在获授权 Modem 组织中的现有角色执行。需要 Modem 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a58bb03727c8191a4607c78a18be2c6",
+    "name": "Moknah",
+    "sourceHash": "cc2fa7e934d34ae320fb24d977beedf088a44315cf05d9132b3738aa636ccf3e",
+    "summary": "将文本制作成有声读物",
+    "description": "Moknah 可将文本和文档转换为自然流畅的语音和完整有声读物，尤其擅长阿拉伯语，同时也支持许多其他语言。粘贴文本或上传 PDF、Word 或 EPUB 文件，选择音色，即可生成可预听和下载的音频。对于阿拉伯语，它会自动添加变音符号（tashkeel）并规范化文本，以确保单词发音准确，还提供可选的情感和诗歌模式。长篇作品可以拆分为章节，为不同部分设置不同音色，并在导出前检查质量。生成音频需要 Moknah 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_695ad726c0d08191ae5105f454a9c470",
+    "name": "MolChart",
+    "sourceHash": "0e9b3708a6acb7bf96d33212d2bd3b1815a43e30e450a5021f071090f277286c",
+    "summary": "绘制分子结构",
+    "description": "绘制和操作分子结构及化学反应。通过 SMILES 创建分子、添加原子和键，并导出为多种格式。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a6a205edb1c8191a4c265e4996aa9b2",
+    "name": "Momego",
+    "sourceHash": "ea31798245d16325a6ed3f764553c8713565288074dbcbf74b57747aa2f4cf78",
+    "summary": "公交和火车实时班次",
+    "description": "规划公共交通行程、获取逐步步行和公交指引、查找附近站点，并查看全球 600 多个城市的实时发车信息和服务覆盖范围，其中包括美国、加拿大、英国、欧洲、澳大利亚、新西兰、韩国和日本的所有主要城市。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9f12163d8881919c401fbf569ecfc2",
+    "name": "Momently",
+    "sourceHash": "1c0798e26e665e8ae1c2cbcc1ce6d9a3185278cc6129cfea06752340f6b7bc36",
+    "summary": "查询出版商数据",
+    "description": "Momently 是面向现代出版商的数据平台。它将社交媒体、网站、电子报和广告平台连接在一起，转化为实时仪表板、品牌化营销活动报告和基准数据。此插件让 Momently 客户能够直接从 ChatGPT 访问这些数据。\n\n使用日常语言提问，即可从自己的工作空间获得真实答案：营销活动表现如何、哪个平台带来的展示次数最多、交付进度与目标相比如何、本季度哪些帖子表现最佳，或者根据自己的历史数据，某个潜在客户所属类别的营销活动通常表现如何。结果会附上 Momently 内部链接、可分享的品牌化 PDF 报告，以及带缩略图的实际创意素材。\n\n所有操作均为只读且遵守权限。每个人都使用自己的 Momently 账户登录，只能查看自己已加入的工作空间；每次调用都会根据其权限进行检查。此插件无法更改 Momently 中的任何内容。\n\n专为出版商团队打造：销售人员可在推介前获取基准数据，客户服务团队可检查进度并准备总结报告，编辑和社交团队可评估内容表现，管理层则可以通过一个问题了解本季度情况。\n\n需要启用连接器的 Momently 工作空间。请访问 momently.com/connector 查看设置指南。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e8dc452c7081918cce73ac9c70c249",
+    "name": "Mondial tourisme",
+    "sourceHash": "0149e3bdd1a0baaa75b8a35c2730e0d11c17b7cf64c20915569beb2ee17ef043",
+    "summary": "搜索度假旅行",
+    "description": "探索 Mondial Tourisme 提供的丰富旅行选择，前往土耳其、突尼斯、埃及、希腊、西班牙、摩洛哥、泰国、多米尼加共和国或拉普兰等热门目的地。\n根据出发日期、出发城市和旅行类型筛选，然后查看每家酒店的照片、介绍、空房情况和最新价格，助你做出明智选择。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5fa5e2392c8191824fb0340191afba",
+    "name": "MongoDB Atlas",
+    "sourceHash": "a6fe076fd351a17e3a8faf74f32eea56c7525ea7bc3351a610868af5c81161ff",
+    "summary": "连接 MongoDB Atlas",
+    "description": "管理 MongoDB Atlas 并查询数据。连接任意 MongoDB 集群或 Atlas 项目，运行查询和聚合、检查架构和索引，以及读写文档。\n\n主要功能：\n\n* 查询和管理数据——运行查找、聚合和计数；插入、更新或删除文档；创建集合和索引。\n* 管理 Atlas 基础设施——创建和升级集群，管理数据库用户和 IP 访问列表，并检查各项目和组织中的集群元数据。\n* 优化性能——从 Atlas Performance Advisor 获取索引建议、架构建议和慢查询分析。\n* 构建流处理管道——创建、监控和管理 Atlas Stream Processing 工作空间、连接和处理器。\n* 搜索 MongoDB 知识——直接从助手知识库查询 MongoDB 官方文档和专家指导。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a3474d16cc88191ad49d2b12b06c1bc",
+    "name": "monPIF",
+    "sourceHash": "e6f933c609069e67dbd4d0b038bc5ed2f9fd976292f933d2797f8b8fc3cf46b4",
+    "summary": "支持家庭教育",
+    "description": "MonPIF 将 ChatGPT 连接到比利时法语区-瓦隆大区联合会（Fédération Wallonie-Bruxelles）的官方共同核心课程框架。每个有关学习目标的回答都直接从官方数据库检索，不会凭空编造或改述。\n\nMonPIF 专为在家教育家庭设计，可帮助你：\n\n- 按学科和年级查看官方学习目标；\n- 制定切实可行的年度学习计划；\n- 将日常活动与其涵盖的学习目标关联起来；\n- 使用官方 FWB 文本编制个人学习计划（PIF）。\n\n只需提出问题，MonPIF 就会加载课程框架，并使用官方原文作答。\n\n无需亲自浏览课程框架，即可获得以官方课程为依据的教育指导。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a75c25329c88191989f792e75b59181",
+    "name": "Monster Job Search",
+    "sourceHash": "2899ecefcef05ab1e56da3c686b54e5878506a86a4be1220b437b7a14537eae7",
+    "summary": "搜索数百万个实时职位",
+    "description": "直接在 ChatGPT 中接入 Monster 庞大的职位网络。\n\n即时搜索：查找医疗、交通、科技等领域的实时职位。\n智能筛选：只需提出要求，即可按地点、远程办公状态或资历级别缩小范围。\n互动卡片：查看薪资范围，并点击“Apply”立即继续申请。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7f37e662988191af8714ea2c247a3e",
+    "name": "Montra",
+    "sourceHash": "97e245fa2e72561ed071cd6071318ed7a8fcf6f5bf060db6b54d4a371222d5eb",
+    "summary": "向智能体展示要更改的内容",
+    "description": "Montra 会将屏幕截图和录屏转换成带有适当视觉上下文的智能体就绪任务。你可以与团队分享，发送到 ChatGPT 和 Codex 等工具，或只需点击几下，自动在你选择的问题跟踪器中创建工单。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a15b97fede88191a22ba908ec835b05",
+    "name": "Montreat Heating and Cooling",
+    "sourceHash": "e0220998e1418ad67c17d404f17a7fea05f7d6cea6eda3f4fadcfc3a7e8da0af",
+    "summary": "HVAC 价格与预约",
+    "description": "Montreat Heating & Cooling 帮助用户在 ChatGPT 中快速获取暖通空调指导、了解更换设备的价格，并预约咨询。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6958034e721081919f9304af9bc30ba3",
+    "name": "MoodTrip.Ai",
+    "sourceHash": "1996982d2b6bea6d329509621a0a426ef252ed0ee3cb808b25e0b6663b36f637",
+    "summary": "搜索并预订全球酒店",
+    "description": "MoodTrip 是一款懂自然语言的 AI 酒店搜索工具。你无需逐一点击几十个筛选条件，只需描述理想住宿，例如：“东京精品酒店，2 位成人，12 月 10 日至 15 日，每晚低于 $200。”MoodTrip 会解读你的需求，实时搜索数千家酒店的空房情况，并返回以下信息：\n\n实时价格和空房情况\n酒店照片和评分\n直接预订链接\n结果有限时智能放宽筛选条件\n非常适合清楚自己想要什么、却不喜欢传统搜索流程的旅客。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a78e5ad35508191b3ec2b72eac80aff",
+    "name": "Morphed",
+    "sourceHash": "11b46373c8f3b976bf3db98053478400914e76456199b699a5453bd8ed77c7b6",
+    "summary": "创建 AI 图片和视频",
+    "description": "Morphed 帮助用户规划并创建 AI 图片和视频、估算额度成本、在项目中整理工作，并查看工作空间中的生成结果。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a60fb8e06048191b7bb1c7e88bbc0b4",
+    "name": "Morphix",
+    "sourceHash": "b727251d845a068e5153c19bdb5e6e177b990e676fa60525db938d6b03f4969a",
+    "summary": "创作图片、视频和音频",
+    "description": "创意工作往往不会在第一次生成时就结束。Morphix 覆盖从第一个提示词到最终交付文件的完整流程：在一个额度池中使用所有主流图片、视频和音频模型。\n\n登录 Morphix 账户即可开始。\n\n使用 Morphix，你可以：\n\n• 生成：根据文本或自己的参考照片生成图片和视频，包括营销静帧、主视觉、海报、广告创意和电影感片段。\n\n• 拍摄：无需摄影棚即可制作产品摄影。根据营销活动需要，创建主视觉、生活场景、模型图和任意数量的变体。\n\n• 制作：创建社交媒体和创作者内容，包括缩略图、UGC 风格产品视频、无真人出镜视频和短视频封面。\n\n• 渲染：无需渲染农场即可制作照片级真实感的可视化效果。将草图、平面图和模型转换为客户可审核确认的图像。\n\n• 完成：无需修图师即可进行修图。将图像放大至 4K 并保留真实细节、重新布光、清理、重新构图并扩展画面。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69f89797a8c48191b83a290ba4ca1120",
+    "name": "Mosaiq Labs",
+    "sourceHash": "48e5195a0599a753df6c6d056da66a4ed0fb42e7efe1bb6757c56bd968f5ef4a",
+    "summary": "你所在公司的 AI 大脑",
+    "description": "从核心文件开始——投资委员会（IC）备忘录、DDQ 尽职调查问卷、提案——将你的专业知识编码为定制 AI 智能体，为工作流提供支持。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ba28476b9881918665f6846b2539ca",
+    "name": "MoSPI",
+    "sourceHash": "8774ae89212bef04d86c9ec8140b7a999dc1f600a6be5c33dc620282f868e9a8",
+    "summary": "印度 NSO MCP 服务器",
+    "description": "将 ChatGPT 连接到印度官方统计数据。可在 https://datainnovation.mospi.gov.in/mospi-mcp 查看可用数据集列表。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69e1e8b721f48191805a28f7d9802668",
+    "name": "Motel 6",
+    "sourceHash": "eca01a0115006bab4f49a81af9178df103af6c01f5160be157e5d924587b800e",
+    "summary": "搜索 Motel 6 住宿",
+    "description": "Motel 6 帮助用户搜索实时酒店空房情况、比较酒店价格和设施、查看选定酒店的详细信息、打开预订链接，并估算酒店与其他地点之间的行程时间。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_696a54f1c91c81919002b9153ce0e336",
+    "name": "MotherDuck",
+    "sourceHash": "53b2ebc2a6c18de5b06dfe2f2b70a99aae8e68286f21a800647baac88b0e6ebc",
+    "summary": "从数据中获取答案",
+    "description": "将 AI 助手连接到 MotherDuck 数据仓库。使用自然语言浏览、可视化和管理数据，无需 SQL 技能。创建 Dives：可交互的可视化内容，让你保存并与团队共享答案，同时保持最新数据同步。无需语义模型或预配置，即可处理真实世界的数据。你的 AI 助手会像数据分析师一样迭代探索、验证、分析和可视化数据，从而回答问题。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ce7b449dcc8191a8ef19126603c239",
+    "name": "MotionHub",
+    "sourceHash": "97aa20c9f0877cf03b9fb2719cf6b0a18c19bfdbe13ac05c089c96cd2da9aa30",
+    "summary": "通过 AI 管理 MotionHub",
+    "description": "借助 AI 管理媒体制作项目。访问任务、脚本、日历、看板、带转录和 AI 分析的媒体文件、联系人及团队排期。使用自然语言搜索素材，即使关键词不完全匹配，也能按主题、说话者或内容找到片段。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aa82cdc03fc81919026fc6a1fe67e50",
+    "name": "Motionvid",
+    "sourceHash": "e56e4aa2e34f1bc7850be440ea0d59086f7ffd6679971781e106287a4a89fdf1",
+    "summary": "制作动态图形视频",
+    "description": "MotionVid 可以将提示词或脚本转化为完成的动态图形视频。描述你需要的内容，例如动画徽标展示、产品广告、操作说明视频、动画信息图或地图讲解；MotionVid 会规划场景、制作动画、添加旁白和音乐，并渲染为 16:9、9:16 或 1:1 的 MP4。选择黏土动画、剪纸拼贴或扁平矢量等风格，应用品牌套件，在渲染前预览画面，还可以要求修改现有视频，而无需从头开始。适用于任何付费套餐的 MotionVid 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5104583be08191a0f29f096fe1aca6",
+    "name": "Motive Admin",
+    "sourceHash": "4714badc3878ca143dfa59c593827c5277e66cbf003155465a2418e1417b1dcf",
+    "summary": "管理 Motive 网站",
+    "description": "此插件可让 Motive 经销商客户直接在 ChatGPT 中管理其网站。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69c0f4fb93188191bd6bbbde9559dbe2",
+    "name": "Motra",
+    "sourceHash": "02d4d9b64b25c641b0fb6d6539c72ae9a1ca8f5df114926dc175ba97a9dad34e",
+    "summary": "你的个人 AI 健身教练",
+    "description": "Motra for ChatGPT 为你提供个人健身分析师，了解你的完整训练历史。只需询问锻炼情况，即可立即获得洞察。了解卧推进展、本月总训练量，或哪些肌群一直被忽略。追踪个人纪录，逐组查看运动历史，并发现训练规律。无论你是在计划下一次训练、回顾本周锻炼，还是冲击新的个人纪录（PR），只需询问即可获得所需答案。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6aafa33ab3d0819183654e4739171263",
+    "name": "Movably",
+    "sourceHash": "e4e6483f2e0e31d40f0a21c10661d5dbbed32e96f0d1626751f7dffcf92effc3",
+    "summary": "伦敦出行，无障碍信息更清晰",
+    "description": "根据 TfL 最新到站信息规划伦敦行程，查看电梯故障情况并检查无台阶通行条件。查找官方坡道和卫生间信息。缺失或相互冲突的关键无障碍信息会明确标记为未经核实。National Rail 的覆盖范围有所不同。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a7b250ad83c8191a519b763350af4e9",
+    "name": "MoveMate: Gym Workout Tracker",
+    "sourceHash": "c75856d4a04570eb987b5be223ef45616e9b32611da73bceb3463e004d2cbb6b",
+    "summary": "安排训练并追踪数据",
+    "description": "MoveMate 将你的训练数据连接到 ChatGPT。询问训练历史、训练量和个人纪录；追踪特定举重项目的进步；搜索 MoveMate 运动库（包括你自定义的运动）；并安排一项计划训练，让它在你指定的日期显示于 MoveMate 应用中。免费查看统计数据；安排训练则需要连接 MoveMate 账户。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a5e73d0587c8191bec1161cba01a775",
+    "name": "Movie Find: Film Lookup+Search",
+    "sourceHash": "2f7877d1270c31ab9784c212b2fd7032d894d6d399e0d6b38230904190a16585",
+    "summary": "影片详情／演员／照片／预告片",
+    "description": "找电影应该很简单。这款 ChatGPT 应用让你无需离开对话，就能发现、探索和了解电影。询问几乎任何电影，即可在一处获得清晰信息。无论你已经知道想看什么，还是只想为电影之夜找些灵感，这款应用都能让过程变得简单。你不必打开一堆网站反复搜索，只需用日常语言提问并继续聊天，体验自然、快捷又有趣。\n\n找到电影后，可以进一步了解：查看剧情、主要演员、导演、上映年份、片长和其他实用信息。了解每个角色由谁出演，查找演员参演过的其他电影，探索导演的作品。无需重新搜索，就能从一部电影继续浏览另一部。\n\n它也非常适合快速提问。查看电影上映时间、主演、导演、片长，以及在决定观看前了解影片内容。所有信息都留在聊天中，让你轻松继续探索。\n\n如果你喜欢了解电影，这款应用可以帮你发现有趣的关联。查看演员出演的不同影片、知名导演、电影系列和合集，比较不同电影，了解经典老片和全新上映作品。每个问题都可能带来新的有趣发现。\n\n这款应用适合普通影迷和电影爱好者。你无需懂电影冷知识，也不必记住准确的名字，只需自然提问即可。对话会持续进行，你可以提出后续问题，无需重复之前的信息，让电影探索过程流畅简单。\n\n一切设计都是为了让你少花时间搜索，多享受电影。你无需在不同网页之间跳转，就能在一处浏览、发现、比较和了解电影。通过自然对话探索电影世界，就是这么简单。\n\n无论你想找下一部最爱的电影、了解一部经典影片、查询新片详情，还是回忆多年前看过的电影，这款 ChatGPT 应用都能帮忙。提出简单问题，深入探索，在一次次对话中享受发现电影的乐趣。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69433950f9308191b3537d4cacf1e23f",
+    "name": "Movie Pick",
+    "sourceHash": "d980ed6642c5a669a67ad34af636c53a9e36730532aa2de5983f0d980503ecf2",
+    "summary": "个性化电影推荐",
+    "description": "MoviePick 帮助你发现自己会喜欢的电影。根据你的品味获取个性化推荐、为看过的影片评分并追踪记录、管理愿望清单，还可以直接识别 Instagram、TikTok 和 YouTube 链接中的电影——全部在 ChatGPT 中完成。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69d4ffad0be481918b445ab502fd02c0",
+    "name": "MovieFind",
+    "sourceHash": "be852209fc3cffa94baeb17e1df2601790c6e5ae4f976757dc0534dec93a4cb9",
+    "summary": "随机发现电影",
+    "description": "Movie Pick 帮助你发现电影和电视剧。按标题搜索，可选择指定类型和年份范围；浏览带海报的结果，并打开完整详情（剧情、演员阵容、评分、片长）。想要惊喜？使用随机模式，并应用相同筛选条件——可以选择电影、电视剧或两者。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1750c61e00819187aba1cd9b56ad57",
+    "name": "MRV",
+    "sourceHash": "8d8a9495405a67185332af9a65a64291e19623e237f531ddf7ae920626395c86",
+    "summary": "助你找到理想公寓",
+    "description": "在 ChatGPT 中使用 MRV 应用，可以根据你的需求和人生阶段查找精选房产。\n按自己的方式搜索，找到心仪的 MRV 公寓。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a1a6612e2b08191abe0fc3316f4e636",
+    "name": "MSDS Chain",
+    "sourceHash": "85a931b6e289faa636d2aaf8a4be25c78f01aa1ca835a16bc1271cf121d2bbd7",
+    "summary": "实验室化学品安全",
+    "description": "MSDS Chain 将化学品安全情报引入 ChatGPT。询问任何化学品，即可立即获取有来源依据的答案：两两相容性、GHS 危害和 H 代码、个人防护装备（PPE）、储存和隔离规则、安全混合顺序、废弃物处置、职业接触限值、联合国运输分类，以及多地区法规合规信息（覆盖 11 个地区的 23 个监测清单）。上传 MSDS/SDS PDF，提取结构化安全数据；也可生成 Ed25519 签名审计报告，用于 GLP/GMP 记录。面向使用 AI 设计实验、并希望在同一对话中核实安全信息的研究人员、实验室主管和 EHS 团队。由 ChainSDS 提供支持，这是经过验证并持续更新的化学品安全数据库。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a741648ade4819196fed96231554d55",
+    "name": "Muffed",
+    "sourceHash": "fba75818c7593435dbede73d8afc81e84e35706c8a686d7f76a74c209d351494",
+    "summary": "查询经核实的 NFL 统计数据",
+    "description": "Muffed 使用经过核实的数据回答 NFL 问题。每个数字都来自基于 nflverse 逐回合数据、NFL Next Gen Stats 和 FTN 记录数据构建的受控面板；每个回答都会附上自己的来源、核实日期，以及数据许可要求的出处说明。\n\n询问数据表明 NFL 当前真实情况如何，查询球员或球队的赛季数据，获取排行榜，用通俗语言了解 EPA 或 CPOE 等高级指标，并排比较两名球员，或核查你在其他地方看到的统计数据——如果数据不一致，Muffed 会告诉你真实数值。你还可以通过 id 连接 Sleeper 联赛，获取其中球员经核实的背景信息。\n\nMuffed 不提供预测、首发／替补或阵容建议、选秀评分、作为建议的排名或推荐选项，也不提供投注盘口或赔率。此服务器上的任何工具都无法生成这些内容：它没有预测模型，也没有提供建议性排名的界面。\n\n每个回答都会标明自身范围。引用会准确指出涵盖哪些数据，并声明其范围不包括从数据推导出的分析。按请求计算而非来自预先核实面板的数据，会标记为 `computed_not_verified`，并附上实际执行的方法和样本数量。如果 Muffed 没有用户请求的数据，会明确说明这一点、指出已有数据覆盖范围，并拒绝为填补空缺的内容提供出处归属。调用此服务器的助手可以在返回数据的基础上添加自己的评论、比较或建议；这些评论属于助手自身，并不在 Muffed 核实或注明来源的范围内。\n\n免费、只读、无需账户。梦幻橄榄球得分使用 half-PPR，这是最常见的单一重选联盟默认规则；每当该规则出现时都会注明。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_69ef362620048191971d3b7e7034de54",
+    "name": "Mumzworld",
+    "sourceHash": "cc10567fa635fe2ccb333ec5c824b2de34dc9c2516185cde87ed3219034135b2",
+    "summary": "选购婴幼儿和儿童必需品",
+    "description": "在 ChatGPT 中浏览 Mumzworld 的婴幼儿、儿童和孕产妇商品目录。搜索商品和浏览类别、查看商品详情、选择尺寸、颜色和个性化选项，并将商品加入购物车——无需账户。以访客身份获取配送预估、浏览常见问题并查看适用促销。关联 Mumzworld 账户为可选操作：关联后会将访客购物车合并到客户购物车，并解锁愿望清单、已保存地址、商店余额、订单历史和订单追踪。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a392a4bbc4c8191bc3411515720bc4e",
+    "name": "Muninx",
+    "sourceHash": "36088de716de132b43a8da8f470a4bee80281263bae04f26ac7f0a85e25881e6",
+    "summary": "管理支持工单",
+    "description": "Muninx 是面向小型团队的帮助台。将它连接到 ChatGPT，即可搜索支持历史记录、查看和更新工单、创建新工单、起草客户回复，并使用自然语言了解工单动态。非常适合已经无法仅靠共享收件箱满足需求的初创公司、代理机构和团队。",
+    "model": "codex-subagent-reviewed"
+  },
+  {
+    "id": "plugin_asdk_app_6a9d0e60d4b4819194e190a96529c9f4",
+    "name": "Musamimuk",
+    "sourceHash": "bab9c579e691e9e043633ad1086dffcd88bc99bae16a35ea013ccd5046a90b4c",
+    "summary": "创建海报设计",
+    "description": "Musamimuk 是一款 AI 设计编辑器。登录后，ChatGPT 可以列出你的设计、创建空白画布、根据提示生成可编辑海报、制作图库图片、移除背景、分析你拥有的图片，或创建二维码。设计会在 Musamimuk 应用中打开，以便继续完成编辑。生成图片会使用你的 Musamimuk 金币。",
+    "model": "codex-subagent-reviewed"
+  }
+]
