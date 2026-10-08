@@ -54244,7 +54244,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-08T05:11:37.447Z",
-      "translationAttemptRun": "37202584253:1",
+      "translationAttemptRun": "37730784095:1",
       "translation": {
         "summary": "供智能体使用的个人应用",
         "description": "Charming 是一个托管运行环境，用于创建用户及其智能体可以共享的个人 Web 应用。智能体创建应用后，Charming 会为其提供 URL、后端和键值存储，用户便可在 ChatGPT、Claude 及其他智能体中持续使用同一个应用和数据。",
@@ -54255,7 +54255,12 @@
         "reviewedAt": "2026-10-08T03:25:07.135Z",
         "translatedAt": "2026-10-08T03:25:07.135Z"
       },
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationError": {
+        "at": "2026-10-08T05:19:33.932Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
+      }
     },
     "plugin_asdk_app_6996e5762c508191846b87c57edbbebe": {
       "id": "plugin_asdk_app_6996e5762c508191846b87c57edbbebe",
@@ -79784,7 +79789,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:20:51.715Z",
-      "translationAttemptRun": "37453076339:1",
+      "translationAttemptRun": "37730784095:1",
       "translation": {
         "summary": "艺人链接与报告",
         "description": "Dynamoi 帮助艺人和唱片公司创建或刷新免费的 Spotify Smart Link、查看页面和分析、搜索记录并查看活动状态；不会收款、启动付费活动、修改预算或发起外部 OAuth，相关操作留在仪表板。",
@@ -79800,6 +79805,11 @@
       "detailError": {
         "at": "2026-10-08T05:11:39.243Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-08T05:21:21.033Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6941e1d349208191b984b93cb344be5b": {
@@ -80971,16 +80981,20 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:21:34.940Z",
-      "translationAttemptRun": "37453076339:1",
+      "translationAttemptRun": "37730784095:1",
       "translation": {
-        "summary": "社交媒体工作区",
-        "description": "Youanai 可帮助用户搜索工作区帖子、社交动态、媒体、分析数据和 Business DNA；还可以创建带图像的草稿、生成媒体、更新 Business DNA，并通过 OAuth 授权范围内的工作区访问权限安排未来的社交帖子。",
-        "sourceHash": "6a7c5787677d4105110584da70ac64c7870718379cde392547e8d6c62ab84892",
+        "summary": "社交工作空间",
+        "description": "Youanai帮助用户搜索工作区帖子、社交动态、媒体内容、数据分析和业务DNA，进而创建图文草稿、生成媒体素材、更新业务DNA信息，并通过OAuth范围的工作区访问权限安排未来发布的社交内容。",
+        "sourceHash": "7c07dda38a2568c43452c03c88d5f6344afe343d6cf1753e210c88e9acc91763",
         "status": "translated",
-        "model": "codex-subagent-reviewed",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-08T05:22:09.960Z",
         "qualityVersion": 2,
-        "reviewedAt": "2026-10-08T03:25:07.127Z",
-        "translatedAt": "2026-10-08T03:25:07.127Z"
+        "usage": {
+          "requests": 1,
+          "neurons": 20.368534088134766,
+          "total_tokens": 1358
+        }
       },
       "detailFailures": 1,
       "detailNextAttemptAt": "2026-10-08T06:11:41.335Z",
@@ -97578,10 +97592,10 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:31:42.093Z",
-      "translationAttemptRun": "37722450197:1",
+      "translationAttemptRun": "37730784095:1",
       "translationError": {
-        "at": "2026-10-08T03:26:52.177Z",
-        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "at": "2026-10-08T05:22:29.227Z",
+        "message": "Workers AI translation failed: Translation contains no Chinese text",
         "transient": true
       }
     },
@@ -117439,16 +117453,20 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-08T05:11:43.388Z",
-      "translationAttemptRun": "37134929786",
+      "translationAttemptRun": "37730784095:1",
       "translation": {
-        "summary": "法律研究数据",
-        "description": "连接企业级数据库，其中包含判例法、成文法、法规、案卷等资料，以便在 ChatGPT 中开展复杂的法律研究和写作工作流。",
-        "sourceHash": "7ff63ce80e731168994e16b53faa73816ad19c5437487228484174bd720c4139",
+        "summary": "判例法、法规和规章",
+        "description": "Midpage将您的AI助手连接到美国判例法、法规和机构指南，用于法律研究和诉讼工作。\n\n通过法律问题、引用或关键词搜索法院意见。\n分析判例法，审查推理过程并获取带有来源链接的支持性引文。\n研究联邦和州法律，确定适用标准，并查阅可用的案件档案和法院文件。\n\n利用研究结果起草基于原始法律的论证、备忘录、动议和法律备忘文件。\n\n需要Midpage账户。",
+        "sourceHash": "6173437cfe97300b7b7bec75108dcdbd67897b4e750a71ee6785cca89898cbfa",
         "status": "translated",
-        "model": "codex-subagent-reviewed",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-08T05:22:15.805Z",
         "qualityVersion": 2,
-        "reviewedAt": "2026-10-08T03:25:07.214Z",
-        "translatedAt": "2026-10-08T03:25:07.214Z"
+        "usage": {
+          "requests": 1,
+          "neurons": 24.94781494140625,
+          "total_tokens": 1588
+        }
       },
       "detailFailures": 0
     },
@@ -120869,16 +120887,20 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T16:45:59.067Z",
-      "translationAttemptRun": "37134929786",
+      "translationAttemptRun": "37730784095:1",
       "translation": {
-        "summary": "留学支持",
-        "description": "Edvoy 帮助学生发现大学和课程、查看留学资格初步评估、了解申请与签证指南、探索奖学金和留学目的地，并可在征得同意后请求 Edvoy 顾问联系。",
-        "sourceHash": "0523cd7591ff9d2099b522829c6e894ab0eebc1a4e7c7e04852dca43b9189692",
+        "summary": "寻找留学选项",
+        "description": "Edvoy帮助学生探索大学和课程，检查预估的留学资格，查看申请和签证指导，探索奖学金和目的地，并在获得同意后请求与Edvoy顾问联系。",
+        "sourceHash": "7a2a065de59d60632494da00f81febc97deed7b2fc5664de4f771980c08ef13d",
         "status": "translated",
-        "model": "codex-subagent-reviewed",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-08T05:22:17.894Z",
         "qualityVersion": 2,
-        "reviewedAt": "2026-10-08T03:25:07.159Z",
-        "translatedAt": "2026-10-08T03:25:07.159Z"
+        "usage": {
+          "requests": 1,
+          "neurons": 24.64235496520996,
+          "total_tokens": 1494
+        }
       },
       "detailFailures": 1,
       "detailNextAttemptAt": "2026-10-08T06:11:45.238Z",
@@ -173578,16 +173600,20 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T17:18:51.943Z",
-      "translationAttemptRun": "37134929786",
+      "translationAttemptRun": "37730784095:1",
       "translation": {
-        "summary": "咨询私人飞机包机",
-        "description": "在全球范围内搜索私人飞机包机服务。获取多个机型类别的即时价格估算、查看详细规格，并继续前往我们的网站完成预订。\n\n功能：\n- 按任意两个机场搜索航班，并查看实时价格\n- 比较机型类别：涡桨飞机、轻型喷气机、中型喷气机、重型喷气机、超远程飞机、客机等\n- 查看详细机型规格：载客量、航程、客舱尺寸、行李空间等\n- 按城市、名称或 ICAO/IATA 代码查询私人飞机机场\n\n在结果组件中点击“咨询”，即可继续在 privatejet.com 完成预订。",
-        "sourceHash": "4db4dee0debfe556d796958c818ddbd19ba246c9e7c25bf3159999252427f83a",
+        "summary": "私人飞机包机报价",
+        "description": "全球搜索私人飞机包机。\n获取多个飞机类别的实时定价估算，查看详细规格，并跳转至我们的网站完成预订。\n\n功能特点：\n- 在任意两个机场之间搜索航班并获取实时定价\n- 对比飞机类别：涡轮螺旋桨飞机、轻型喷气机、中型喷气机、重型喷气机、超远程型、客机等\n- 查看详细飞机规格：载客量、航程、客舱尺寸、行李容量等\n- 按城市、名称或ICAO/IATA代码查询私人飞机机场\n\n在结果窗口中点击“咨询”，即可继续在privatejet.com完成预订。",
+        "sourceHash": "5a03b96c7d5b193026458888e9c348c9e345c6cb6d5330e25f71d13ecf3e16b9",
         "status": "translated",
-        "model": "codex-subagent-reviewed",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-08T05:22:17.312Z",
         "qualityVersion": 2,
-        "reviewedAt": "2026-10-08T03:25:07.244Z",
-        "translatedAt": "2026-10-08T03:25:07.244Z"
+        "usage": {
+          "requests": 1,
+          "neurons": 27.6407413482666,
+          "total_tokens": 1684
+        }
       },
       "detailFailures": 1,
       "detailNextAttemptAt": "2026-10-08T06:11:47.350Z",
@@ -215130,12 +215156,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T17:45:56.326Z",
-      "translationAttemptRun": "37134929786",
-      "translationError": {
-        "at": "2026-10-03T17:45:56.652Z",
-        "message": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
-      },
-      "lastMissingAt": "2026-10-06T05:29:42.497Z"
+      "translationAttemptRun": "37730784095:1",
+      "lastMissingAt": "2026-10-06T05:29:42.497Z",
+      "translation": {
+        "summary": "评估并出售您的汽车",
+        "description": "IQ Sell My Car 帮助您了解您的车辆可能的价值，并连接全国经销商网络。\n输入您的车辆识别码、里程数、邮政编码和车辆状况，以获取基于市场的零售价、私人交易价和预估经销商报价。\n在您准备就绪后，提供明确同意后，将您的车辆提交给合作经销商。\n您的车辆不会在IQAutoDeals.com上公开列出。\n提交后，您将收到一封包含安全链接的电子邮件，用于上传照片并激活您的卖家列表。",
+        "sourceHash": "1f624d51287dea94869cf526b6da9a5acb78ae223d170488db3945005e74ebf6",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-08T05:22:31.575Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 37.35081100463867,
+          "total_tokens": 1967
+        }
+      }
     },
     "plugin_asdk_app_69ff25d774688191923ddf755696543f": {
       "id": "plugin_asdk_app_69ff25d774688191923ddf755696543f",
@@ -215398,10 +215434,10 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-03T17:46:06.592Z",
-      "translationAttemptRun": "37722450197:1",
+      "translationAttemptRun": "37730784095:1",
       "translationError": {
-        "at": "2026-10-08T03:28:38.855Z",
-        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "at": "2026-10-08T05:22:27.821Z",
+        "message": "Workers AI translation failed: Translation contains no Chinese text",
         "transient": true
       }
     },
@@ -222435,16 +222471,20 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-07T04:59:20.334Z",
       "detailFailures": 1,
-      "translationAttemptRun": "37573889568:1",
+      "translationAttemptRun": "37730784095:1",
       "translation": {
-        "summary": "把每天记录到日记",
-        "description": "TimePeace 是一个平静、私密的生活记录空间，涵盖日记、日志、习惯、情绪、饮食、锻炼、金钱、人际关系和旅行。连接你常用的 AI 助手后，它可以用日常语言帮助你规划并打理生活。\n\n你可以让它把预订确认信息整理成一趟旅行，自动填入航班、酒店和日期；制定一周训练计划；或规划餐食并把所需物品加入购物清单。你也可以一边交谈一边记录日常：锻炼、用餐、约会或笔记。它添加的所有内容都会标记为来自你的助手，而且它只能删除自己添加的内容，绝不会删除你自己的记录。\n\n你决定它可以访问什么。添加日记内容是基础权限；回读你的日常记录，以及修改你创建的内容（旅行、日常安排和餐食计划），分别是在连接时授予的独立权限，绝不会捆绑授权。此外，健康、人际关系和金钱各自都需要单独授权。若你未开启某项权限，相应工具就会如实拒绝操作。\n\n你的数据不会被出售、用于广告共享或用于建立个人画像——没有第三方跟踪器，也没有广告。这是你的日记；助手只是另一种访问方式，只能在你允许的范围内工作。",
-        "sourceHash": "751a966444223c18013632f6d5bfb7f62e0e52e079e95388bd00d16fc41197f7",
+        "summary": "规划并记录你的生活",
+        "description": "TimePeace是你整个生活的平静私密空间——日记、日志、习惯、情绪、饮食、运动、金钱、人际关系和旅行。连接你已有的AI助手，它就能用通俗易懂的语言帮你规划并维持这种生活。\n\n让它把预订确认信息转化为旅行计划——自动填充航班、酒店和日期——来安排一周的训练，或规划你的饮食并把所需物品添加到购物清单。它还能在你说话时记录当天的活动：一次锻炼、一餐饭、一次约会或一条备忘录。它添加的每项内容都会标注为来自你的助手，且只能删除自己添加的内容——绝不会影响你的原始记录。\n\n你决定它能操作哪些内容。添加日记是基础权限；回顾查看日期、修改已创建的内容（你的行程、日常安排和饮食计划）则需要分别授权——这些权限在连接时单独授予，不会捆绑在一起。健康、人际关系和金钱相关功能还需额外单独授权。如果未开启某项权限，对应的功能会直接且诚实地拒绝请求。\n\n所有内容都不会被出售、用于广告共享或用于构建用户画像——没有第三方追踪器，也没有广告。这是你的日记，助手只是另一种访问方式，仅在你允许的范围内工作。",
+        "sourceHash": "53923d54ba86a55c80ce408e3a4a074196e210066f12dff8854c337c11af3ec3",
         "status": "translated",
-        "model": "codex-subagent-reviewed",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-08T05:22:24.219Z",
         "qualityVersion": 2,
-        "reviewedAt": "2026-10-08T03:25:07.115Z",
-        "translatedAt": "2026-10-08T03:25:07.115Z"
+        "usage": {
+          "requests": 1,
+          "neurons": 32.7976188659668,
+          "total_tokens": 1983
+        }
       },
       "detailNextAttemptAt": "2026-10-08T06:11:49.458Z",
       "detailError": {
@@ -224351,7 +224391,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-08T05:09:50.872Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "37730784095:1",
+      "translation": {
+        "summary": "AI生成式视频工作室",
+        "description": "Pray Production Studio帮助您将创意想法转化为AI视频项目。搜索您的PPS项目，查看项目详情，规划预告片，并从ChatGPT生成预告片视频。视频生成会消耗PPS工作区的积分，可用工具取决于您的账户权限和已启用的服务提供商。",
+        "sourceHash": "f629a208d403cceccaed080527eb27cbe5e3742dafd34dec18b4571ab0b4f808",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-08T05:22:24.015Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 23.473403930664062,
+          "total_tokens": 1476
+        }
+      }
     },
     "plugin_asdk_app_6ab006e179b881918620ba236419415a": {
       "id": "plugin_asdk_app_6ab006e179b881918620ba236419415a",
@@ -225010,7 +225065,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-08T05:10:51.987Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "37730784095:1",
+      "translation": {
+        "summary": "规划化学合成路线",
+        "description": "连接您的B12账户以研究化学合成策略，评估路线，并将选定策略转化为详细路线。比较文献证据、起始材料、反应步骤和不确定性。在对话中回顾已保存的评估和规划结果。研究及路线开发功能的可用性取决于您的账户配置。建议的路线需要经过专家评审和实验验证。",
+        "sourceHash": "13e98fff39b509c506c6d93f0c973463b3a33198eb841a5a6027c5d0b188339c",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-08T05:22:24.877Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 29.4271297454834,
+          "total_tokens": 1679
+        }
+      }
     },
     "plugin_asdk_app_6a9fc977245081919f6d259f6dfd555c": {
       "id": "plugin_asdk_app_6a9fc977245081919f6d259f6dfd555c",
@@ -268455,30 +268525,142 @@
       "qualityVersion": 2,
       "reviewedAt": "2026-10-08T05:12:22.929Z",
       "translatedAt": "2026-10-08T05:12:22.929Z"
+    },
+    "7c07dda38a2568c43452c03c88d5f6344afe343d6cf1753e210c88e9acc91763": {
+      "summary": "社交工作空间",
+      "description": "Youanai帮助用户搜索工作区帖子、社交动态、媒体内容、数据分析和业务DNA，进而创建图文草稿、生成媒体素材、更新业务DNA信息，并通过OAuth范围的工作区访问权限安排未来发布的社交内容。",
+      "sourceHash": "7c07dda38a2568c43452c03c88d5f6344afe343d6cf1753e210c88e9acc91763",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-08T05:22:09.960Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 20.368534088134766,
+        "total_tokens": 1358
+      }
+    },
+    "6173437cfe97300b7b7bec75108dcdbd67897b4e750a71ee6785cca89898cbfa": {
+      "summary": "判例法、法规和规章",
+      "description": "Midpage将您的AI助手连接到美国判例法、法规和机构指南，用于法律研究和诉讼工作。\n\n通过法律问题、引用或关键词搜索法院意见。\n分析判例法，审查推理过程并获取带有来源链接的支持性引文。\n研究联邦和州法律，确定适用标准，并查阅可用的案件档案和法院文件。\n\n利用研究结果起草基于原始法律的论证、备忘录、动议和法律备忘文件。\n\n需要Midpage账户。",
+      "sourceHash": "6173437cfe97300b7b7bec75108dcdbd67897b4e750a71ee6785cca89898cbfa",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-08T05:22:15.805Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 24.94781494140625,
+        "total_tokens": 1588
+      }
+    },
+    "5a03b96c7d5b193026458888e9c348c9e345c6cb6d5330e25f71d13ecf3e16b9": {
+      "summary": "私人飞机包机报价",
+      "description": "全球搜索私人飞机包机。\n获取多个飞机类别的实时定价估算，查看详细规格，并跳转至我们的网站完成预订。\n\n功能特点：\n- 在任意两个机场之间搜索航班并获取实时定价\n- 对比飞机类别：涡轮螺旋桨飞机、轻型喷气机、中型喷气机、重型喷气机、超远程型、客机等\n- 查看详细飞机规格：载客量、航程、客舱尺寸、行李容量等\n- 按城市、名称或ICAO/IATA代码查询私人飞机机场\n\n在结果窗口中点击“咨询”，即可继续在privatejet.com完成预订。",
+      "sourceHash": "5a03b96c7d5b193026458888e9c348c9e345c6cb6d5330e25f71d13ecf3e16b9",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-08T05:22:17.312Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 27.6407413482666,
+        "total_tokens": 1684
+      }
+    },
+    "7a2a065de59d60632494da00f81febc97deed7b2fc5664de4f771980c08ef13d": {
+      "summary": "寻找留学选项",
+      "description": "Edvoy帮助学生探索大学和课程，检查预估的留学资格，查看申请和签证指导，探索奖学金和目的地，并在获得同意后请求与Edvoy顾问联系。",
+      "sourceHash": "7a2a065de59d60632494da00f81febc97deed7b2fc5664de4f771980c08ef13d",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-08T05:22:17.894Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 24.64235496520996,
+        "total_tokens": 1494
+      }
+    },
+    "f629a208d403cceccaed080527eb27cbe5e3742dafd34dec18b4571ab0b4f808": {
+      "summary": "AI生成式视频工作室",
+      "description": "Pray Production Studio帮助您将创意想法转化为AI视频项目。搜索您的PPS项目，查看项目详情，规划预告片，并从ChatGPT生成预告片视频。视频生成会消耗PPS工作区的积分，可用工具取决于您的账户权限和已启用的服务提供商。",
+      "sourceHash": "f629a208d403cceccaed080527eb27cbe5e3742dafd34dec18b4571ab0b4f808",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-08T05:22:24.015Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 23.473403930664062,
+        "total_tokens": 1476
+      }
+    },
+    "53923d54ba86a55c80ce408e3a4a074196e210066f12dff8854c337c11af3ec3": {
+      "summary": "规划并记录你的生活",
+      "description": "TimePeace是你整个生活的平静私密空间——日记、日志、习惯、情绪、饮食、运动、金钱、人际关系和旅行。连接你已有的AI助手，它就能用通俗易懂的语言帮你规划并维持这种生活。\n\n让它把预订确认信息转化为旅行计划——自动填充航班、酒店和日期——来安排一周的训练，或规划你的饮食并把所需物品添加到购物清单。它还能在你说话时记录当天的活动：一次锻炼、一餐饭、一次约会或一条备忘录。它添加的每项内容都会标注为来自你的助手，且只能删除自己添加的内容——绝不会影响你的原始记录。\n\n你决定它能操作哪些内容。添加日记是基础权限；回顾查看日期、修改已创建的内容（你的行程、日常安排和饮食计划）则需要分别授权——这些权限在连接时单独授予，不会捆绑在一起。健康、人际关系和金钱相关功能还需额外单独授权。如果未开启某项权限，对应的功能会直接且诚实地拒绝请求。\n\n所有内容都不会被出售、用于广告共享或用于构建用户画像——没有第三方追踪器，也没有广告。这是你的日记，助手只是另一种访问方式，仅在你允许的范围内工作。",
+      "sourceHash": "53923d54ba86a55c80ce408e3a4a074196e210066f12dff8854c337c11af3ec3",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-08T05:22:24.219Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 32.7976188659668,
+        "total_tokens": 1983
+      }
+    },
+    "13e98fff39b509c506c6d93f0c973463b3a33198eb841a5a6027c5d0b188339c": {
+      "summary": "规划化学合成路线",
+      "description": "连接您的B12账户以研究化学合成策略，评估路线，并将选定策略转化为详细路线。比较文献证据、起始材料、反应步骤和不确定性。在对话中回顾已保存的评估和规划结果。研究及路线开发功能的可用性取决于您的账户配置。建议的路线需要经过专家评审和实验验证。",
+      "sourceHash": "13e98fff39b509c506c6d93f0c973463b3a33198eb841a5a6027c5d0b188339c",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-08T05:22:24.877Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 29.4271297454834,
+        "total_tokens": 1679
+      }
+    },
+    "1f624d51287dea94869cf526b6da9a5acb78ae223d170488db3945005e74ebf6": {
+      "summary": "评估并出售您的汽车",
+      "description": "IQ Sell My Car 帮助您了解您的车辆可能的价值，并连接全国经销商网络。\n输入您的车辆识别码、里程数、邮政编码和车辆状况，以获取基于市场的零售价、私人交易价和预估经销商报价。\n在您准备就绪后，提供明确同意后，将您的车辆提交给合作经销商。\n您的车辆不会在IQAutoDeals.com上公开列出。\n提交后，您将收到一封包含安全链接的电子邮件，用于上传照片并激活您的卖家列表。",
+      "sourceHash": "1f624d51287dea94869cf526b6da9a5acb78ae223d170488db3945005e74ebf6",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-08T05:22:31.575Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 37.35081100463867,
+        "total_tokens": 1967
+      }
     }
   },
   "lastRun": {
     "runId": "37730784095",
     "runAttempt": "1",
     "startedAt": "2026-10-08T05:12:23.858Z",
-    "updatedAt": "2026-10-08T05:17:46.496Z",
+    "updatedAt": "2026-10-08T05:22:31.819Z",
     "mode": "translate",
     "detailRequests": 0,
-    "translationRequests": 45,
-    "translationAttempts": 3,
+    "translationRequests": 108,
+    "translationAttempts": 15,
     "translationLimit": 50,
     "aiConfigured": true,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 3,
+    "errors": 7,
     "stats": {
       "total": 4005,
       "details": 3958,
-      "translated": 3943,
+      "translated": 3951,
       "missing": 16,
       "removed": 41,
       "pendingDetails": 54,
-      "pendingTranslations": 62
+      "pendingTranslations": 54
     }
   }
 }
