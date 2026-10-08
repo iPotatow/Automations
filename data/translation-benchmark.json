@@ -1088,19 +1088,10 @@
     "plugin_connector_68df33b1a2d081918778431a9cfca8ba|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_connector_68df33b1a2d081918778431a9cfca8ba",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:38:22.651Z",
+      "at": "2026-10-08T03:09:13.777Z",
       "completed": false,
-      "usage": {
-        "prompt_tokens": 942,
-        "completion_tokens": 5000,
-        "total_tokens": 5942,
-        "prompt_tokens_details": {
-          "cached_tokens": 0
-        },
-        "neurons": 144.92726135253906
-      },
-      "error": "Translation output truncated",
-      "elapsedMs": 93041
+      "error": "HTTP 429",
+      "elapsedMs": 267
     },
     "plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e",
@@ -2063,447 +2054,447 @@
     "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:44.134Z",
+      "at": "2026-10-08T03:09:14.950Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 94
+      "elapsedMs": 49
     },
     "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:44.487Z",
+      "at": "2026-10-08T03:09:15.311Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 121
+      "elapsedMs": 47
     },
     "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_69cd81e0f90c8191812ac45be244d9ab",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:47:44.792Z",
+      "at": "2026-10-08T03:09:15.800Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 83
+      "elapsedMs": 46
     },
     "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:45.053Z",
+      "at": "2026-10-08T03:09:16.044Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 71
+      "elapsedMs": 52
     },
     "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:45.321Z",
+      "at": "2026-10-08T03:09:16.340Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 477
+      "elapsedMs": 50
     },
     "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a5df0fa4a808191ab4fce77f8c348dc",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:47:45.976Z",
+      "at": "2026-10-08T03:09:16.617Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 76
+      "elapsedMs": 45
     },
     "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:46.271Z",
+      "at": "2026-10-08T03:09:16.842Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 63
+      "elapsedMs": 57
     },
     "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:46.517Z",
+      "at": "2026-10-08T03:09:17.242Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 72
+      "elapsedMs": 589
     },
     "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a96d5e9880c8191aa2a97ec908b4f39",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:47:46.738Z",
+      "at": "2026-10-08T03:09:18.052Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 64
+      "elapsedMs": 56
     },
     "plugin_asdk_app_6985e5ad62908191ad013449cab57d02|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6985e5ad62908191ad013449cab57d02",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:46.988Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 69
-    },
-    "plugin_asdk_app_6985e5ad62908191ad013449cab57d02|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6985e5ad62908191ad013449cab57d02",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:47.232Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 66
-    },
-    "plugin_asdk_app_6985e5ad62908191ad013449cab57d02|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6985e5ad62908191ad013449cab57d02",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:47:47.500Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 70
-    },
-    "plugin_asdk_app_698cc70ed4048191af62942353547f57|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_698cc70ed4048191af62942353547f57",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:47.833Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 65
-    },
-    "plugin_asdk_app_698cc70ed4048191af62942353547f57|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_698cc70ed4048191af62942353547f57",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:48.053Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 955
-    },
-    "plugin_asdk_app_698cc70ed4048191af62942353547f57|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_698cc70ed4048191af62942353547f57",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:47:49.212Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 76
-    },
-    "plugin_asdk_app_6a52268982b081919d26887c12f67a2c|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a52268982b081919d26887c12f67a2c",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:49.462Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 66
-    },
-    "plugin_asdk_app_6a52268982b081919d26887c12f67a2c|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a52268982b081919d26887c12f67a2c",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:49.707Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 70
-    },
-    "plugin_asdk_app_6a52268982b081919d26887c12f67a2c|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a52268982b081919d26887c12f67a2c",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:47:49.952Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 57
-    },
-    "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:50.192Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 62
-    },
-    "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:50.424Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 63
-    },
-    "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:47:50.689Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 65
-    },
-    "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:50.986Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 54
-    },
-    "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:51.288Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 56
-    },
-    "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:47:51.560Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 57
-    },
-    "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:51.801Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 63
-    },
-    "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:52.085Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 55
-    },
-    "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:47:52.361Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 57
-    },
-    "plugin_asdk_app_6a7c329c161c8191a8df623446a34000|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a7c329c161c8191a8df623446a34000",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:52.580Z",
+      "at": "2026-10-08T03:09:18.774Z",
       "completed": false,
       "error": "HTTP 429",
       "elapsedMs": 72
     },
-    "plugin_asdk_app_6a7c329c161c8191a8df623446a34000|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a7c329c161c8191a8df623446a34000",
+    "plugin_asdk_app_6985e5ad62908191ad013449cab57d02|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6985e5ad62908191ad013449cab57d02",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:52.826Z",
+      "at": "2026-10-08T03:09:19.052Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 58
+      "elapsedMs": 71
     },
-    "plugin_asdk_app_6a7c329c161c8191a8df623446a34000|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a7c329c161c8191a8df623446a34000",
+    "plugin_asdk_app_6985e5ad62908191ad013449cab57d02|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6985e5ad62908191ad013449cab57d02",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:47:53.043Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 57
-    },
-    "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:53.285Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 57
-    },
-    "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:53.528Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 67
-    },
-    "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:47:53.770Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 73
-    },
-    "plugin_asdk_app_6a7201527fa48191af83141ef896370a|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a7201527fa48191af83141ef896370a",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:54.024Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 75
-    },
-    "plugin_asdk_app_6a7201527fa48191af83141ef896370a|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a7201527fa48191af83141ef896370a",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:54.305Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 61
-    },
-    "plugin_asdk_app_6a7201527fa48191af83141ef896370a|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a7201527fa48191af83141ef896370a",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:47:54.529Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 61
-    },
-    "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:54.776Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 56
-    },
-    "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:55.047Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 75
-    },
-    "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:47:55.298Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 58
-    },
-    "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:55.533Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 62
-    },
-    "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:55.752Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 58
-    },
-    "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:47:55.979Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 56
-    },
-    "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:56.646Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 67
-    },
-    "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:56.862Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 67
-    },
-    "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:47:57.090Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 63
-    },
-    "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:57.318Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 60
-    },
-    "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:57.540Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 56
-    },
-    "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:47:57.787Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 75
-    },
-    "plugin_asdk_app_6a96846e8814819189ddb980b090aa20|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a96846e8814819189ddb980b090aa20",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:58.023Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 57
-    },
-    "plugin_asdk_app_6a96846e8814819189ddb980b090aa20|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a96846e8814819189ddb980b090aa20",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:58.269Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 56
-    },
-    "plugin_asdk_app_6a96846e8814819189ddb980b090aa20|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a96846e8814819189ddb980b090aa20",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:47:58.511Z",
+      "at": "2026-10-08T03:09:19.341Z",
       "completed": false,
       "error": "HTTP 429",
       "elapsedMs": 59
     },
-    "plugin_asdk_app_696e4b35d354819199e87f105ca545a5|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_696e4b35d354819199e87f105ca545a5",
+    "plugin_asdk_app_698cc70ed4048191af62942353547f57|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_698cc70ed4048191af62942353547f57",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:58.744Z",
+      "at": "2026-10-08T03:09:19.615Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 65
+      "elapsedMs": 60
     },
-    "plugin_asdk_app_696e4b35d354819199e87f105ca545a5|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_696e4b35d354819199e87f105ca545a5",
+    "plugin_asdk_app_698cc70ed4048191af62942353547f57|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_698cc70ed4048191af62942353547f57",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:59.048Z",
+      "at": "2026-10-08T03:09:19.870Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 60
+    },
+    "plugin_asdk_app_698cc70ed4048191af62942353547f57|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_698cc70ed4048191af62942353547f57",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:20.202Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 78
+    },
+    "plugin_asdk_app_6a52268982b081919d26887c12f67a2c|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a52268982b081919d26887c12f67a2c",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:20.476Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 64
+    },
+    "plugin_asdk_app_6a52268982b081919d26887c12f67a2c|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a52268982b081919d26887c12f67a2c",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:20.857Z",
       "completed": false,
       "error": "HTTP 429",
       "elapsedMs": 66
     },
+    "plugin_asdk_app_6a52268982b081919d26887c12f67a2c|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a52268982b081919d26887c12f67a2c",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:21.214Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 62
+    },
+    "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:21.442Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 51
+    },
+    "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:21.667Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 52
+    },
+    "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:21.992Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 59
+    },
+    "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:22.263Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 58
+    },
+    "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:22.644Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 47
+    },
+    "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:22.932Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 42
+    },
+    "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:23.788Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 58
+    },
+    "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:24.126Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 47
+    },
+    "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:24.405Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 53
+    },
+    "plugin_asdk_app_6a7c329c161c8191a8df623446a34000|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a7c329c161c8191a8df623446a34000",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:24.646Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 41
+    },
+    "plugin_asdk_app_6a7c329c161c8191a8df623446a34000|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a7c329c161c8191a8df623446a34000",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:24.852Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 64
+    },
+    "plugin_asdk_app_6a7c329c161c8191a8df623446a34000|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a7c329c161c8191a8df623446a34000",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:25.098Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 39
+    },
+    "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:26.003Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 66
+    },
+    "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:26.294Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 44
+    },
+    "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a61e06bd2d08191ab2faa84dfd37b96",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:26.518Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 40
+    },
+    "plugin_asdk_app_6a7201527fa48191af83141ef896370a|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a7201527fa48191af83141ef896370a",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:26.732Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 55
+    },
+    "plugin_asdk_app_6a7201527fa48191af83141ef896370a|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a7201527fa48191af83141ef896370a",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:27.009Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 39
+    },
+    "plugin_asdk_app_6a7201527fa48191af83141ef896370a|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a7201527fa48191af83141ef896370a",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:27.245Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 41
+    },
+    "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:27.469Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 40
+    },
+    "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:27.819Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 47
+    },
+    "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_694f3a712f688191a8a64cb5d8390e92",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:28.140Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 39
+    },
+    "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:28.401Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 44
+    },
+    "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:28.622Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 38
+    },
+    "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a33192d4f9481919b05403bdae08b95",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:29.015Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 43
+    },
+    "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:29.255Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 52
+    },
+    "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:29.496Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 48
+    },
+    "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a1d9e570188819180e6b571fadb3173",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:29.724Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 33
+    },
+    "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:29.931Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 39
+    },
+    "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:30.166Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 44
+    },
+    "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a385fa6ea3881918bfcfce6751184a1",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:31.002Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 46
+    },
+    "plugin_asdk_app_6a96846e8814819189ddb980b090aa20|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a96846e8814819189ddb980b090aa20",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:31.237Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 47
+    },
+    "plugin_asdk_app_6a96846e8814819189ddb980b090aa20|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a96846e8814819189ddb980b090aa20",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:31.493Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 44
+    },
+    "plugin_asdk_app_6a96846e8814819189ddb980b090aa20|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a96846e8814819189ddb980b090aa20",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:31.771Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 45
+    },
+    "plugin_asdk_app_696e4b35d354819199e87f105ca545a5|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_696e4b35d354819199e87f105ca545a5",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:31.998Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 45
+    },
+    "plugin_asdk_app_696e4b35d354819199e87f105ca545a5|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_696e4b35d354819199e87f105ca545a5",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:32.320Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 33
+    },
     "plugin_asdk_app_696e4b35d354819199e87f105ca545a5|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_696e4b35d354819199e87f105ca545a5",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:47:59.481Z",
+      "at": "2026-10-08T03:09:32.531Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 65
+      "elapsedMs": 40
     },
     "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:47:59.758Z",
+      "at": "2026-10-08T03:09:32.866Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 57
+      "elapsedMs": 44
     },
     "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:47:59.987Z",
+      "at": "2026-10-08T03:09:33.099Z",
       "completed": false,
       "error": "HTTP 429",
       "elapsedMs": 55
@@ -2511,470 +2502,470 @@
     "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a172fe86f5481919f73cbc3bc3ad5bb",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:00.267Z",
+      "at": "2026-10-08T03:09:33.345Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 66
+      "elapsedMs": 40
     },
     "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:00.520Z",
+      "at": "2026-10-08T03:09:33.867Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 71
+      "elapsedMs": 43
     },
     "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:00.751Z",
+      "at": "2026-10-08T03:09:34.104Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 68
+      "elapsedMs": 35
     },
     "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a3779d9c3348191b5b7c418498bbdd1",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:01.064Z",
+      "at": "2026-10-08T03:09:34.471Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 74
+      "elapsedMs": 39
     },
     "plugin_asdk_app_6a60a513907881919ca0e120f0963692|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a60a513907881919ca0e120f0963692",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:01.506Z",
+      "at": "2026-10-08T03:09:34.736Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 54
+      "elapsedMs": 44
     },
     "plugin_asdk_app_6a60a513907881919ca0e120f0963692|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a60a513907881919ca0e120f0963692",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:01.765Z",
+      "at": "2026-10-08T03:09:34.964Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 58
+      "elapsedMs": 45
     },
     "plugin_asdk_app_6a60a513907881919ca0e120f0963692|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a60a513907881919ca0e120f0963692",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:02.222Z",
+      "at": "2026-10-08T03:09:35.585Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 71
+      "elapsedMs": 41
     },
     "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:02.520Z",
+      "at": "2026-10-08T03:09:35.799Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 59
+      "elapsedMs": 41
     },
     "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:02.757Z",
+      "at": "2026-10-08T03:09:36.032Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 56
+      "elapsedMs": 58
     },
     "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a28188ff0308191abc0698e30c5d273",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:02.993Z",
+      "at": "2026-10-08T03:09:36.359Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 110
+      "elapsedMs": 54
     },
     "plugin_asdk_app_6a97be305050819192a4130e3e3acedc|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a97be305050819192a4130e3e3acedc",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:03.341Z",
+      "at": "2026-10-08T03:09:36.671Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 61
+      "elapsedMs": 60
     },
     "plugin_asdk_app_6a97be305050819192a4130e3e3acedc|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a97be305050819192a4130e3e3acedc",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:03.630Z",
+      "at": "2026-10-08T03:09:37.095Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 68
+      "elapsedMs": 40
     },
     "plugin_asdk_app_6a97be305050819192a4130e3e3acedc|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a97be305050819192a4130e3e3acedc",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:03.871Z",
+      "at": "2026-10-08T03:09:37.329Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 72
+      "elapsedMs": 47
     },
     "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:04.154Z",
+      "at": "2026-10-08T03:09:37.572Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 77
+      "elapsedMs": 44
     },
     "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:04.430Z",
+      "at": "2026-10-08T03:09:37.784Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 73
+      "elapsedMs": 44
     },
     "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a014275060c81919efb76bf2c381fbc",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:04.753Z",
+      "at": "2026-10-08T03:09:38.017Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 58
+      "elapsedMs": 41
     },
     "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:05.065Z",
+      "at": "2026-10-08T03:09:38.271Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 75
+      "elapsedMs": 42
     },
     "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:05.359Z",
+      "at": "2026-10-08T03:09:38.633Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 53
+      "elapsedMs": 41
     },
     "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_694472f7a6a8819195b99aa54a5f65d0",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:05.595Z",
+      "at": "2026-10-08T03:09:38.850Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 57
+      "elapsedMs": 42
     },
     "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:05.891Z",
+      "at": "2026-10-08T03:09:39.167Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 57
+      "elapsedMs": 40
     },
     "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:06.189Z",
+      "at": "2026-10-08T03:09:39.521Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 69
+      "elapsedMs": 49
     },
     "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a99f442d5008191bcda4d6176318fef",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:06.775Z",
+      "at": "2026-10-08T03:09:39.755Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 55
+      "elapsedMs": 69
     },
     "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:07.077Z",
+      "at": "2026-10-08T03:09:40.004Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 65
+      "elapsedMs": 40
     },
     "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:07.905Z",
+      "at": "2026-10-08T03:09:40.232Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 70
+      "elapsedMs": 38
     },
     "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:08.171Z",
+      "at": "2026-10-08T03:09:40.435Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 61
+      "elapsedMs": 43
     },
     "plugin_connector_690a9430a270819196671dcb4c95898e|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_connector_690a9430a270819196671dcb4c95898e",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:08.407Z",
+      "at": "2026-10-08T03:09:40.666Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 61
+      "elapsedMs": 36
     },
     "plugin_connector_690a9430a270819196671dcb4c95898e|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_connector_690a9430a270819196671dcb4c95898e",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:08.716Z",
+      "at": "2026-10-08T03:09:40.993Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 59
+      "elapsedMs": 42
     },
     "plugin_connector_690a9430a270819196671dcb4c95898e|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_connector_690a9430a270819196671dcb4c95898e",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:08.935Z",
+      "at": "2026-10-08T03:09:41.436Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 57
+      "elapsedMs": 47
     },
     "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:09.202Z",
+      "at": "2026-10-08T03:09:41.893Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 56
+      "elapsedMs": 40
     },
     "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:09.479Z",
+      "at": "2026-10-08T03:09:42.156Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 62
+      "elapsedMs": 36
     },
     "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a8de7727cec8191a327f9f5c333705a",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:09.732Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 60
-    },
-    "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:10.002Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 58
-    },
-    "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:10.374Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 61
-    },
-    "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:10.601Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 58
-    },
-    "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:10.850Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 68
-    },
-    "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:11.117Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 58
-    },
-    "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:11.532Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 72
-    },
-    "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:11.786Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 57
-    },
-    "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:12.021Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 67
-    },
-    "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:12.405Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 82
-    },
-    "plugin_asdk_app_6a88631af75081918917d89fb00269ad|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a88631af75081918917d89fb00269ad",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:12.761Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 73
-    },
-    "plugin_asdk_app_6a88631af75081918917d89fb00269ad|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a88631af75081918917d89fb00269ad",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:12.996Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 70
-    },
-    "plugin_asdk_app_6a88631af75081918917d89fb00269ad|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a88631af75081918917d89fb00269ad",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:13.370Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 76
-    },
-    "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:13.663Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 75
-    },
-    "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:13.921Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 54
-    },
-    "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:14.170Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 73
-    },
-    "plugin_asdk_app_6a54f7589a18819194670b479e14137c|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a54f7589a18819194670b479e14137c",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:14.419Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 67
-    },
-    "plugin_asdk_app_6a54f7589a18819194670b479e14137c|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a54f7589a18819194670b479e14137c",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:14.676Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 64
-    },
-    "plugin_asdk_app_6a54f7589a18819194670b479e14137c|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a54f7589a18819194670b479e14137c",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:14.929Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 54
-    },
-    "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:15.267Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 60
-    },
-    "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:15.536Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 58
-    },
-    "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446|@cf/google/gemma-4-26b-a4b-it": {
-      "sampleId": "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446",
-      "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:15.895Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 67
-    },
-    "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9|@cf/qwen/qwen3-30b-a3b-fp8": {
-      "sampleId": "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9",
-      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:16.134Z",
-      "completed": false,
-      "error": "HTTP 429",
-      "elapsedMs": 56
-    },
-    "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9|@cf/mistralai/mistral-small-3.1-24b-instruct": {
-      "sampleId": "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9",
-      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:16.454Z",
+      "at": "2026-10-08T03:09:42.567Z",
       "completed": false,
       "error": "HTTP 429",
       "elapsedMs": 52
     },
+    "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:43.184Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 42
+    },
+    "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:43.547Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 38
+    },
+    "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:43.782Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 39
+    },
+    "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:44.018Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 55
+    },
+    "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:44.388Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 36
+    },
+    "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a9c4704427881919f175ee34d26bdf4",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:44.614Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 48
+    },
+    "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:45.075Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 40
+    },
+    "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:45.708Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 35
+    },
+    "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6aa7ad131c4c81918373561ab7de3699",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:45.909Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 39
+    },
+    "plugin_asdk_app_6a88631af75081918917d89fb00269ad|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a88631af75081918917d89fb00269ad",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:46.426Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 49
+    },
+    "plugin_asdk_app_6a88631af75081918917d89fb00269ad|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a88631af75081918917d89fb00269ad",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:46.773Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 35
+    },
+    "plugin_asdk_app_6a88631af75081918917d89fb00269ad|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a88631af75081918917d89fb00269ad",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:46.997Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 63
+    },
+    "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:47.271Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 55
+    },
+    "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:47.543Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 36
+    },
+    "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a9b571fb30081919e0bcf355d38d2ba",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:47.773Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 35
+    },
+    "plugin_asdk_app_6a54f7589a18819194670b479e14137c|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a54f7589a18819194670b479e14137c",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:47.993Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 55
+    },
+    "plugin_asdk_app_6a54f7589a18819194670b479e14137c|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a54f7589a18819194670b479e14137c",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:48.258Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 38
+    },
+    "plugin_asdk_app_6a54f7589a18819194670b479e14137c|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a54f7589a18819194670b479e14137c",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:48.492Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 41
+    },
+    "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:48.758Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 40
+    },
+    "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:48.978Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 39
+    },
+    "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446|@cf/google/gemma-4-26b-a4b-it": {
+      "sampleId": "plugin_asdk_app_6a9fda75d4188191a6e27100ffefd446",
+      "model": "@cf/google/gemma-4-26b-a4b-it",
+      "at": "2026-10-08T03:09:49.261Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 45
+    },
+    "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9|@cf/qwen/qwen3-30b-a3b-fp8": {
+      "sampleId": "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "at": "2026-10-08T03:09:49.508Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 51
+    },
+    "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9|@cf/mistralai/mistral-small-3.1-24b-instruct": {
+      "sampleId": "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9",
+      "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
+      "at": "2026-10-08T03:09:49.736Z",
+      "completed": false,
+      "error": "HTTP 429",
+      "elapsedMs": 39
+    },
     "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:16.838Z",
+      "at": "2026-10-08T03:09:49.979Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 82
+      "elapsedMs": 76
     },
     "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c|@cf/qwen/qwen3-30b-a3b-fp8": {
       "sampleId": "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c",
       "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-      "at": "2026-10-08T00:48:17.104Z",
+      "at": "2026-10-08T03:09:50.265Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 73
+      "elapsedMs": 47
     },
     "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c|@cf/mistralai/mistral-small-3.1-24b-instruct": {
       "sampleId": "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c",
       "model": "@cf/mistralai/mistral-small-3.1-24b-instruct",
-      "at": "2026-10-08T00:48:17.362Z",
+      "at": "2026-10-08T03:09:50.502Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 58
+      "elapsedMs": 38
     },
     "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c|@cf/google/gemma-4-26b-a4b-it": {
       "sampleId": "plugin_asdk_app_6a482e727e008191a23cbff802b2a46c",
       "model": "@cf/google/gemma-4-26b-a4b-it",
-      "at": "2026-10-08T00:48:17.657Z",
+      "at": "2026-10-08T03:09:50.723Z",
       "completed": false,
       "error": "HTTP 429",
-      "elapsedMs": 54
+      "elapsedMs": 37
     }
   },
   "complete": false,
-  "updatedAt": "2026-10-08T00:48:17.713Z",
+  "updatedAt": "2026-10-08T03:09:50.762Z",
   "pauseReason": "limit",
   "summary": [
     {
@@ -2999,7 +2990,7 @@
       "completed": 11,
       "checksPassed": 11,
       "errors": 39,
-      "reportedNeurons": 699.445426940918
+      "reportedNeurons": 554.5181655883789
     }
   ]
 }
