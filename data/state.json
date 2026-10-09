@@ -206056,7 +206056,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "搜索 Nailie 美容师",
       "legacySummaryOriginal": "Search Nailie beautists",
@@ -206084,12 +206084,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.0.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T17:39:49.576Z",
+      "detailCheckedAt": "2026-10-09T05:17:42.022Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "搜索 Nailie 美容师",
@@ -206100,7 +206100,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-08T18:14:30.002Z",
         "translatedAt": "2026-10-08T18:14:30.002Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a4c509b3710819193e4d03be7e43495": {
       "id": "plugin_asdk_app_6a4c509b3710819193e4d03be7e43495",
@@ -222448,7 +222449,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-09T05:12:31.229Z",
       "firstSeenAt": "2026-10-07T04:59:09.662Z",
-      "detailDue": true,
+      "detailDue": false,
       "description": "TimePeace is one calm, private place for your whole life — diary, journal, habits, mood, meals, exercise, money, people and travel. Connect the AI assistant you already use, and it can help you plan and keep that life, in plain language.\n\nAsk it to turn a booking confirmation into a trip — flights, hotel and dates filled in — to build a week of training, or to plan your meals and add what you need to your shopping list. It can also log your day as you talk: a workout, a meal, an appointment, a note. Everything it adds is labelled as coming from your assistant, and it can remove only what it added — never your own entries.\n\nYou decide what it can touch. Adding to your diary is the baseline; reading your days back, and changing the things you've made (your trips, routines and meal plans), are each a separate permission you grant when you connect — never bundled, and health, people and money each need their own permission on top. Leave a permission off and those tools simply, honestly decline.\n\nNothing is sold, shared for advertising, or used to build a profile — no third-party trackers, no ads. It's your diary; the assistant is just another way in, working only where you let it.",
       "information": [
         {
@@ -222470,13 +222471,13 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-07T04:59:20.334Z",
-      "detailFailures": 1,
+      "detailCheckedAt": "2026-10-09T05:17:43.721Z",
+      "detailFailures": 0,
       "translationAttemptRun": "37730784095:1",
       "translation": {
         "summary": "规划并记录你的生活",
@@ -222491,11 +222492,6 @@
           "neurons": 32.7976188659668,
           "total_tokens": 1983
         }
-      },
-      "detailNextAttemptAt": "2026-10-08T06:11:49.458Z",
-      "detailError": {
-        "at": "2026-10-08T05:11:49.458Z",
-        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa13b98d974819186351aeda445d4a7": {
@@ -275678,9 +275674,9 @@
     "runId": "37887275480",
     "runAttempt": "1",
     "startedAt": "2026-10-09T05:10:48.231Z",
-    "updatedAt": "2026-10-09T05:17:36.169Z",
+    "updatedAt": "2026-10-09T05:17:45.311Z",
     "mode": "incremental",
-    "detailRequests": 169,
+    "detailRequests": 171,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
@@ -275694,7 +275690,7 @@
       "translated": 3925,
       "missing": 25,
       "removed": 55,
-      "pendingDetails": 2,
+      "pendingDetails": 0,
       "pendingTranslations": 173
     }
   }
