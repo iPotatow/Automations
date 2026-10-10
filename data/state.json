@@ -14450,13 +14450,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "研究移民法",
       "legacySummaryOriginal": "Research immigration law",
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "BIA Edge helps users research U.S. immigration law in ChatGPT by retrieving case law, statutes and regulations, agency policy, unpublished decisions, validity and citation treatment, visa bulletins, EOIR statistics, doctrine data, and criminal-code text. Its 42 tools are read-only and return source-grounded records and warnings for the model to evaluate. It does not provide legal advice.",
+      "description": "Passim AI gives ChatGPT access to a U.S. immigration-law research database. Search case law, statutes and regulations, agency policy, and unpublished BIA and AAO decisions; retrieve source text; and inspect ImmCite citation-treatment data. Additional tools cover criminal-code provisions, visa bulletins, EOIR statistics, and corpus coverage. Results include available source links and research limitations. Access requires a Passim AI account authorized to use the service. Passim AI provides research materials, not legal advice or a guarantee of an authority's validity; users must verify primary sources.",
       "information": [
         {
           "label": "Developer",
@@ -14472,17 +14472,17 @@
           "label": "Website",
           "value": "",
           "links": [
-            "https://biaedge.com/"
+            "https://passimai.com/"
           ]
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.0.2",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T15:28:36.488Z",
+      "detailCheckedAt": "2026-10-10T04:59:07.231Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "研究移民法",
@@ -14493,7 +14493,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-09T17:47:29.676Z",
         "translatedAt": "2026-10-09T17:47:29.676Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a39991eaf2c8191b140983518666545": {
       "id": "plugin_asdk_app_6a39991eaf2c8191b140983518666545",
@@ -49226,7 +49227,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "规划空间并创建视觉效果",
       "legacySummaryOriginal": "Plan spaces and create visuals",
@@ -49235,8 +49236,13 @@
       "description": "Plan a renovation, see how furniture fits, explore a new home, or create visuals for your next project.\nCreate and edit floor plans, try different layouts, arrange furniture, and visualize interiors, buildings, and outdoor spaces in 2D and 3D. Explore ideas for your own home, client projects, or property presentations.\nTurn photos, sketches, and references into images and videos. Compare styles, materials, and design options, or create visual content beyond home design.\nWork with plans, specifications, quotes, and project documents. Organize materials and costs, compare options, and prepare clear briefs and presentations.\nStart with an idea, a photo, a floor plan, or your project files. Develop your work through conversation and continue refining it in Planner 5D.",
       "information": [
         {
+          "label": "Capabilities",
+          "value": "Interactive",
+          "links": []
+        },
+        {
           "label": "Developer",
-          "value": "UAB “Planner5D”",
+          "value": "Planner 5D",
           "links": []
         },
         {
@@ -49248,17 +49254,17 @@
           "label": "Website",
           "value": "",
           "links": [
-            "https://www.planner5d.com/"
+            "https://planner5d.com/"
           ]
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.3.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:02:14.073Z",
+      "detailCheckedAt": "2026-10-10T04:59:09.106Z",
       "translationAttemptRun": "37202584253:1",
       "translation": {
         "summary": "规划空间并创建视觉效果",
@@ -49269,7 +49275,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-09T17:47:29.824Z",
         "translatedAt": "2026-10-09T17:47:29.824Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a88289a42b48191af01d7e15ce97a0e": {
       "id": "plugin_asdk_app_6a88289a42b48191af01d7e15ce97a0e",
@@ -68232,7 +68239,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "SEO 工具",
       "legacySummaryOriginal": "SEO research and AI blogging",
@@ -68260,12 +68267,12 @@
         },
         {
           "label": "Version",
-          "value": "2.0.0",
+          "value": "3.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:13:47.661Z",
+      "detailCheckedAt": "2026-10-10T04:59:10.770Z",
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "SEO 研究与 AI 博客写作",
@@ -68276,7 +68283,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-09T17:47:29.696Z",
         "translatedAt": "2026-10-09T17:47:29.696Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a4433c154488191afd8a203123f7d2b": {
       "id": "plugin_asdk_app_6a4433c154488191afd8a203123f7d2b",
@@ -125462,13 +125470,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "简历辅导与职位匹配",
       "legacySummaryOriginal": "Coach resumes and match jobs",
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Improve Data and SDE resumes without inventing evidence, or match supplied plain-text resume content to today's public Wayroc job feed through one read-only action. No Wayroc account, OAuth, saved-resume access, job application, notification, or student-data modification is used.",
+      "description": "Browse Wayroc jobs discovered today in Toronto from the public feed, or compare supplied plain-text resume content to those jobs. View up to 25 results per page and request more with a cursor. Matching uses deterministic keyword ranking. No Wayroc login, applications, saved-resume access, or student record changes.",
       "information": [
         {
           "label": "Developer",
@@ -125489,12 +125497,12 @@
         },
         {
           "label": "Version",
-          "value": "0.2.0",
+          "value": "0.4.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:48:44.976Z",
+      "detailCheckedAt": "2026-10-10T04:59:12.530Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "优化简历并匹配职位",
@@ -125505,7 +125513,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-09T17:47:29.859Z",
         "translatedAt": "2026-10-09T17:47:29.859Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a56967af9c48191aa929457b25c85a4": {
       "id": "plugin_asdk_app_6a56967af9c48191aa929457b25c85a4",
@@ -169351,7 +169360,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "查找租车",
       "legacySummaryOriginal": "Find rental cars",
@@ -169378,12 +169387,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T17:16:08.516Z",
+      "detailCheckedAt": "2026-10-10T04:59:14.156Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "查找租车",
@@ -169394,7 +169403,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-09T17:47:29.846Z",
         "translatedAt": "2026-10-09T17:47:29.846Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69a038b1ebdc8191be43a17904cd1d80": {
       "id": "plugin_asdk_app_69a038b1ebdc8191be43a17904cd1d80",
@@ -219367,9 +219377,14 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "detailDue": true,
-      "description": "Find restaurant reservations",
+      "detailDue": false,
+      "description": "OpenTable helps diners find and book restaurant reservations, whether dining close to home or visiting a new city. Check available tables for your date, time, and party size, review restaurant booking policies, hold an available reservation slot, and complete your booking. Reservations that require a credit card are supported. Availability and booking requirements depend on the restaurant.",
       "information": [
+        {
+          "label": "Capabilities",
+          "value": "Check restaurant availability, Review booking policies, Book restaurant reservations",
+          "links": []
+        },
         {
           "label": "Developer",
           "value": "OpenTable",
@@ -219377,7 +219392,7 @@
         },
         {
           "label": "Category",
-          "value": "Other",
+          "value": "Travel",
           "links": []
         },
         {
@@ -219389,12 +219404,12 @@
         },
         {
           "label": "Version",
-          "value": "21.0.0",
+          "value": "21.0.3",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T17:48:43.694Z",
+      "detailCheckedAt": "2026-10-10T04:59:16.714Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "预订心仪餐厅",
@@ -219405,7 +219420,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-09T17:47:29.819Z",
         "translatedAt": "2026-10-09T17:47:29.819Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a9edf1829d481918a943ddb5f3c8457": {
       "id": "plugin_asdk_app_6a9edf1829d481918a943ddb5f3c8457",
@@ -233372,7 +233388,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "SuperIntern lets users securely access the meetings and projects available to them in their selected workspace, including meeting metadata, transcripts, live transcripts, AI summaries, and notes. The connector is read-only and follows each user's existing SuperIntern permissions through OAuth.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "NanoHuman Inc.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Productivity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://super-intern.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:57:57.697Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab10b31ee5c8191b4dff56e0559c35c": {
       "id": "plugin_asdk_app_6ab10b31ee5c8191b4dff56e0559c35c",
@@ -233387,7 +233431,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Search more than 18,000 ready-made map graphics from Super Map World, covering over 200 countries and the world. Find flat country maps and globe views, filter by projection, colour, and borders - including administrative levels such as regions, provinces, and counties where available. Most maps are free to download and reuse with attribution under Creative Commons and other open licences.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "RORY DUNCAN GIANNI",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://supermap.world/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:57:59.377Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab6816fca1481919550bef4b64fd02e": {
       "id": "plugin_asdk_app_6ab6816fca1481919550bef4b64fd02e",
@@ -233402,7 +233474,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Tattoos Wizard helps people plan a tattoo before they book. Estimate what a tattoo typically costs at studios in 618 cities by size, level of detail and colour; find real tattoo artists and studios from the Tattoos Wizard directory (10,000+) by style and city, with portfolio images and profile links; and find practical guides on aftercare, healing, pain by placement, cost and styles. No account is needed, and every tool only reads public Tattoos Wizard data.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Tattoos Wizard UG",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://tattooswizard.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:01.413Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab66d24f56481919361b6c33f7c1928": {
       "id": "plugin_asdk_app_6ab66d24f56481919361b6c33f7c1928",
@@ -233417,7 +233517,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Create and edit images and videos with MeiGen. Browse available models and workflow prices, find up to three visual inspirations, and turn a selected idea into an image or video. Remove or replace backgrounds, upscale images, create marketing posters, and generate selected product-detail images.\n\nConnect a verified MeiGen account to use paid tools. Generations use your existing purchased credits; daily free credits do not apply. Review the current price and requested image count before starting. MeiGen does not sell credits or subscriptions through this plugin.\n\nWith your permission, prepare a selected image attachment or direct public image URL. Prepared images receive public links accessible to anyone who has the link and are scheduled for cleanup seven days after their latest upload. Accepted generations retain separate reference copies for history and reuse; contact support for removal. Storage cleanup does not guarantee immediate removal of cached copies. Uploads are not automatically published to the gallery.\n\nRecover an existing task after a timeout without starting another generation, and revoke access from MeiGen's Connected apps page. Image previews depend on the host; original result links remain available.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Meigen Creative LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.meigen.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:03.054Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a7b424896288191886164f955836d75": {
       "id": "plugin_asdk_app_6a7b424896288191886164f955836d75",
@@ -233432,7 +233560,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Ruwana Studio brings a connected creative production workflow into ChatGPT. Start from an idea, brief, product, manuscript, image, or other source material and use Ruwana tools to create professional photography, commercial visuals, fashion campaigns, lookbooks, ads, cinematic scenes, animation, avatars, motion, and video.\n\nFor fashion and commercial production, Ruwana goes beyond generating a single image. It supports consistent models and characters across shots and uses production direction such as camera, lens, lighting, proportions, styling, and product fidelity to create controlled editorial and commercial results.\n\nFor film and documentary workflows, production can begin from manuscripts, photographs, documents, or archival material and continue into visual interpretation, character and environment development, scene creation, previsualization, and moving sequences.\n\nPhotography, image creation, animation, motion, avatars, and video can belong to the same connected workflow, with one result becoming the source for the next production step. You describe what you want to create in ChatGPT, and Ruwana executes the requested production through its connected tools.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "ADRIAN-MIHAI IONITA",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://ruwana.studio/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:04.758Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab52532ab348191be78c537fe025ab3": {
       "id": "plugin_asdk_app_6ab52532ab348191be78c537fe025ab3",
@@ -233447,7 +233603,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Klap turns long videos into short vertical clips for TikTok, Instagram Reels and YouTube Shorts, right from ChatGPT.\n\nShare a YouTube, Twitch, Kick or Vimeo link, or any public video URL, and ask for shorts. Klap finds the most engaging moments, reframes them to 9:16 around the speaker, adds animated captions and ranks every clip by virality score. Clipping runs in the background: a live card shows its progress, then turns into a gallery of shorts you can play right in the conversation.\n\nFrom the gallery you can:\n• Watch each short with its captions\n• Download a short as an MP4\n• Schedule a short to your connected YouTube, TikTok, Instagram, LinkedIn or Facebook accounts, at the time you choose\n• Open a short in the Klap editor to fine-tune captions, layout and length\n\nYou can also guide the clipping (\"the funniest moments about pricing\", \"15-second clips\", \"5 clips at most\"), set the spoken language, and ask for your recent projects.\n\nUsing Klap in ChatGPT requires a Klap account. Exports and scheduling follow your Klap plan. Social accounts are connected on klap.app, and ChatGPT never receives their credentials. Klap only publishes a post after you confirm the short, the accounts, the time and the caption.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Klap",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://klap.app/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:06.444Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_69beb865b68c81919c2064fabf77d0b0": {
       "id": "plugin_asdk_app_69beb865b68c81919c2064fabf77d0b0",
@@ -233462,7 +233646,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Canvora turns your content into on-brand marketing visuals inside ChatGPT.\n\nShare a URL, a document, text, or an idea. Canvora reads it and creates a full set of designs – social posts, carousels, stories, ads, presentations, and slide decks – in your saved brand kit (logo, colors, fonts, style). You can create for multiple brands and keep each one consistent.\n\nWhat you can do:\n  - Turn a URL, document, text, or idea into visuals across 100+ formats\n  - Save a brand kit per brand so every visual stays on-brand\n  - Localize a whole set into any of 150+ supported languages, with text regenerated natively – right-to-left and non-Latin scripts supported\n  - Edit in plain language (e.g. \"make the headline warmer\") and regenerate with the layout intact\n  - Create variations and export to PDF, PPTX, or ZIP at 2K or 4K\n\nBuilt for creators, freelancers, marketing teams, and agencies – whether you run one brand or many.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Zynova Technologies OÜ",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://canvora.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:08.173Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a9be4a3c71c819186673d3ab7f6b90c": {
       "id": "plugin_asdk_app_6a9be4a3c71c819186673d3ab7f6b90c",
@@ -233477,7 +233689,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Tốc Biến gives builders in Vietnam their own cloud server. Once you have a Tốc Biến server, this app lets ChatGPT work on it for you: install ready-made apps such as n8n or WordPress, publish your own website or code, give your server a public https://<name>.tocbien.app address, check which apps are live, and read an app's logs when something goes wrong. Every app gets its own HTTPS address automatically.\n\nThis app only manages servers you already have. It makes no purchases, shows no plans or prices and never charges your balance; servers are managed on tocbien.cloud.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "CÔNG TY TNHH SOLUTIONS AI TỐC BIẾN",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://tocbien.cloud/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:09.844Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a58e3cdf86881919e813606edacec3c": {
       "id": "plugin_asdk_app_6a58e3cdf86881919e813606edacec3c",
@@ -233492,7 +233732,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Grafana Assistant brings a purpose-built LLM to Grafana so operators, developers, and SREs can troubleshoot issues, manage dashboards, and answer product questions in minutes. \n\nWhether you’re analyzing data, polishing dashboards for executives, or guiding teammates to navigation and knowledge resources, Assistant removes manual querying and helps teams move faster. \n\nOrganizations save hours of toil and reduce operational cost by letting Assistant surface insights while engineers focus on higher-value work.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Grafana Labs",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://grafana.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:11.532Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a6fe19cd3b8819196ed17d8b317e872": {
       "id": "plugin_asdk_app_6a6fe19cd3b8819196ed17d8b317e872",
@@ -233507,7 +233775,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Give AI coding agents shared long-term memory and live work context across tools, sessions, machines, and team members. Vibsync preserves discoveries, product knowledge, decisions, questions, tasks, and active work areas so the team does not repeat the same research or overwrite each other’s work. Git remains the source of truth; Vibsync is a collaboration context layer, not an agent orchestrator.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "LOOSEDAYS Co.,Ltd.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://vibsync.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:13.205Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a163d939968819198315647797d30b3": {
       "id": "plugin_asdk_app_6a163d939968819198315647797d30b3",
@@ -233522,7 +233818,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Before you run something that can't be undone (a force-push, a production deploy, a destructive command, a config change), ask invinoveritas for a verdict: approve, approve with concerns, or reject, with issues ranked by severity and suggested fixes. The verdict can come back as a signed proof that anyone can check later without trusting us.\n\nYou can also verify a proof someone handed you (free), read the public verdict track record including the verdicts that turned out wrong (free), timestamp a third party's exact claim, reality-check a backtest, and audit an agent's verifiability.\n\nA verdict is a reasoned second opinion, not a guarantee of outcome.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Baby Blue Viper",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://api.babyblueviper.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:15.136Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa1762f1b2c8191b7cebfe3015fe248": {
       "id": "plugin_asdk_app_6aa1762f1b2c8191b7cebfe3015fe248",
@@ -233537,7 +233861,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Zenifra helps users inspect authorized projects, operational health, metrics, builds, AI usage, and billing through a personal OAuth connection in ChatGPT.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Zenifra",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.zenifra.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.1.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:16.795Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a674eeea0f08191a1dea7623eb958b3": {
       "id": "plugin_asdk_app_6a674eeea0f08191a1dea7623eb958b3",
@@ -233552,7 +233904,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Swagger helps users find and inspect API definitions, apply governance rules, create or update private APIs, and manage and publish developer portal content through ChatGPT.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Smartbear",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://swagger.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:18.616Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aaa8993171c8191828baa4545e18d2f": {
       "id": "plugin_asdk_app_6aaa8993171c8191828baa4545e18d2f",
@@ -233567,7 +233947,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "ProfitTree helps Etsy sellers research public listings, shops, and keywords and inspect their connected shops' sales, profit, orders, ads, product costs, and tracked items through ChatGPT.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Profittree Ltd",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Business & Operations",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://profittree.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:20.299Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa448b4f7d481918788090d2ebec213": {
       "id": "plugin_asdk_app_6aa448b4f7d481918788090d2ebec213",
@@ -233582,7 +233990,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Connect your Metadata account to create editable, on-brand ad concepts, look up audience targeting criteria and estimate reach, inspect campaign setup, and analyze advertising performance and pipeline attribution. Work with campaign workflows for Facebook, Instagram, LinkedIn, Reddit, Google Ads, and Microsoft Advertising, subject to your connected accounts, permissions, and the available tools. Review proposed changes before authorizing campaign launches or changes to live budgets.\n\nAn existing Metadata account with MCP access is required.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Metadata",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Business & Operations",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://metadata.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:21.986Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a905b5abe3c8191ba1c34f1edd52afe": {
       "id": "plugin_asdk_app_6a905b5abe3c8191ba1c34f1edd52afe",
@@ -233597,7 +234033,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Flexport helps users search logistics reference data, track and browse shipments, review quote requests and pricing, request rates, and create freight bookings through ChatGPT.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Flexport Inc",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Business & Operations",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.flexport.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:23.727Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab872bf5360819186af0917c923e57e": {
       "id": "plugin_asdk_app_6ab872bf5360819186af0917c923e57e",
@@ -233612,7 +234076,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Independent, unofficial app developed by James Jenrette / 1102tools using public Bureau of Labor Statistics Occupational Employment and Wage Statistics (OEWS) data. Not affiliated with or endorsed by BLS or the U.S. government.\n\nLook up occupational wages nationally, by state, or by metro; compare wages across locations and occupations; and calculate wage benchmarks with user-selected burden multipliers. Eight read-only tools use the bundled May 2025 OEWS release, published May 15, 2026. No account or API key is required. Base wages exclude fringe, overhead, and profit; burdened rates are estimates. Historical releases and forecasts are not available. BLS.gov cannot vouch for the data or analyses derived from these data after the data have been retrieved from BLS.gov.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "James Prentiss Jenrette",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://1102tools.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:26.432Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab5004a37dc81918472cf526729e745": {
       "id": "plugin_asdk_app_6ab5004a37dc81918472cf526729e745",
@@ -233627,7 +234119,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Intuizi connects ChatGPT to the Intuizi data platform, where marketing teams turn de-identified signal data into audiences and deliver them to their marketing destinations. The plugin queries the Large Behavioral Model, Intuizi's flagship LQM, trained on de-identified, real-world behavioral signal. Responses include counts, statuses, and metadata. Audience data never enters the chat and is sent only to destinations configured in the Intuizi console.\n\nWhat you can do:\n- Look up reference catalogs: POI categories and brands, apps, web domains, CTV channels, Transactions merchants, demographic and profile attributes, countries, and signal providers.\n- Estimate how large an audience would be before you build it, then create audiences from POI visits, app usage, web domains, CTV viewing, Transactions, demographics, profile attributes, home location, or your own cohorts, alone or combined with AND, OR, and NOT IN.\n- Grow a completed audience with a lookalike model and follow the model run.\n- Preview a frequency range, then activate the audience to a delivery destination your team has already set up in the Intuizi console.\n- Create cohorts from your own files or from an existing audience, and manage projects, POI categories, brands, and location submissions.\n- Check your organization's data-scan usage against its limits.\n\nEvery tool wraps a documented Intuizi API v2 endpoint, so validation, permissions, and rate limits match the API exactly. Read-only tools are marked read-only and delete tools are marked destructive. You need an Intuizi console account: connect with one-click OAuth, approve access in your browser, and the plugin sees only the projects and data your account can see.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Intuizi, Inc.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.intuizi.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:28.208Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab85f56d4ec8191970ab75fdeddd2f9": {
       "id": "plugin_asdk_app_6ab85f56d4ec8191970ab75fdeddd2f9",
@@ -233642,7 +234162,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Independent, unofficial app developed by James Jenrette / 1102tools using public GSA per diem data. It is not affiliated with or endorsed by GSA or the U.S. government.\n\nLook up CONUS lodging and meals-and-incidental-expenses rates by city, ZIP code, or state; see seasonal lodging and M&IE breakdowns; and estimate or compare travel per diem. Seven read-only tools provide source-backed rates and calculations. No user sign-in or API key is needed. Estimates exclude airfare and ground transportation. Verify the fiscal year, month, and work locality before using a rate.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "James Prentiss Jenrette",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://1102tools.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:30.074Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a79f1d2046c8191abe959a682371e57": {
       "id": "plugin_asdk_app_6a79f1d2046c8191abe959a682371e57",
@@ -233657,7 +234205,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Give ChatGPT access to your CallRail account, to analyze interaction data, manage your data and configuration, and know what marketing is working for you.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "CallRail, LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://callrail.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:32.017Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a70ad3d28dc8191a5d74a5133a0fe60": {
       "id": "plugin_asdk_app_6a70ad3d28dc8191a5d74a5133a0fe60",
@@ -233672,7 +234248,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "ChatGPT, Perplexity, Gemini, Claude, and Grok are already answering with your brand. Voris tracks those citations, measures the awareness they build, and reports what they earn you in plain language. Cookieless, EU hosted, live.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Rocket Venture Labs",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://voris.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:33.677Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a68da53bec08191b430382e359d0a20": {
       "id": "plugin_asdk_app_6a68da53bec08191b430382e359d0a20",
@@ -233687,7 +234291,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Ask the Grid connects ChatGPT to live and historical US electricity-grid data. Check current grid conditions, find and query published market datasets, read Energy Wire briefings, explore grid assets, and manage your own alerts and saved grid assets. Results retain source, timestamp, market, and unit context.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Parisi Labs, Inc.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://askthegrid.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:35.342Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aad7d38342c8191a3125e576597ecec": {
       "id": "plugin_asdk_app_6aad7d38342c8191a3125e576597ecec",
@@ -233702,7 +234334,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Search and read English-language guides about Swedish Category B driving theory from EngelskaKorkort.se. Learn about traffic rules, road signs, road safety, risk education and driving licence requirements, and find a free practice theory test. Sweden Driving Theory is an independent educational service and is not affiliated with Trafikverket or Transportstyrelsen.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "SETR Ab",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://engelskakorkort.se/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:37.057Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab8444eab88819199b9819480c3556c": {
       "id": "plugin_asdk_app_6ab8444eab88819199b9819480c3556c",
@@ -233717,7 +234377,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "LiveSky calculates sky positions, sunset, twilight and observing windows for the Sun, Moon, planets, Pluto and Messier objects. Find compass directions and cataloged constellations, see when targets are highest, and compare astronomical darkness with the Moon’s position. Select @LiveSky for each astronomy question, including follow-ups. Provide a city or observing landmark when current-location context is unavailable. No account or saved observing profile is required. Results describe geometric conditions, not weather, local obstructions, telescope suitability or guaranteed visibility.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Dapperfinch Inc",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://dapperfinch.com/livesky/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:38.732Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a7ae3809a148191ac2fa410c17f26c7": {
       "id": "plugin_asdk_app_6a7ae3809a148191ac2fa410c17f26c7",
@@ -233732,7 +234420,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "uNotes is a study library of university course materials — past exams, assignments, lab reports and lecture notes, organized by school and course. The uNotes plugin gives ChatGPT read access to that library and to the user's own study data: it can search the library, open a document and read its full text, list the user's flashcard decks and quizzes, look up their study streak, check how much of their monthly quota is left, and list the schools and courses they follow.\n\nEvery tool is read-only. The plugin exposes eight tools, all declared readOnlyHint:true / destructiveHint:false / idempotentHint:true, and none of them create, edit or delete anything in a uNotes account. Typical use is asking a question about material the user already has — \"what do my Biology notes say about cell structure\", \"which courses am I following\", \"how long is my study streak\" — and letting ChatGPT pull the answer out of the underlying documents.\n\nAccess is authorized with OAuth 2.1: PKCE (S256) with dynamic client registration, an explicit consent screen, and seven granular read scopes (search, documents, flashcards, quizzes, study, profile, library) plus offline_access. Tools are registered per request against the scopes the token actually carries, so a grant that omits a scope makes the matching tools invisible rather than merely blocked. Requests are rate-limited per user, and tools never accept a user identifier as input — every call is scoped to the authenticated account's own data.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "14930398 Canada Inc.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://unotes.net/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:40.406Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab65f14eabc8191a91739f12eb048ea": {
       "id": "plugin_asdk_app_6ab65f14eabc8191a91739f12eb048ea",
@@ -233747,7 +234463,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Biohacking Kompakt ist eine deutschsprachige Faktencheck-Datenbank zu Supplements, Peptiden, Therapien und Longevity-Themen. Zu jedem Thema gibt es den BK-Score: fünf Achsen, die den Wissensstand beschreiben – wie gut am Menschen untersucht, wie gut die Sicherheitslage untersucht ist, wie lange und breit angewendet, wie plausibel der Mechanismus und wie groß der Hype. Dazu die Richtung, in die die vorhandene Evidenz zeigt, und die passende Folge des Podcasts „Biohacking Kompakt“.\n\nDer Score bewertet den Wissensstand, nicht die Substanz. Die App liest live von biohackingkompakt.de, verkauft nichts und gibt keine medizinische Beratung. Zu verschreibungspflichtigen und nicht zugelassenen Substanzen liefert sie ausschließlich die Einordnung der Studienlage – ohne Dosierung, ohne Anwendung, ohne Bezugsquelle.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Biohacking Kompakt",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://biohackingkompakt.de/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:42.250Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a91c9ef5034819187f2bb748621212b": {
       "id": "plugin_asdk_app_6a91c9ef5034819187f2bb748621212b",
@@ -233762,7 +234506,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Learn SQL with interactive QueryCraft lessons and original GreenCart practice schema. Complete editable SQL fill-ins, multiple-choice questions, matching, ordering, and short responses. Get useful hints, clear solutions, and schema guidance as you work through the course.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Ekaterina Zaznova",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://querycraftsql.app/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.2",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:43.953Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a679a2771648191a133ec7977c547ec": {
       "id": "plugin_asdk_app_6a679a2771648191a133ec7977c547ec",
@@ -233777,7 +234549,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "LeakData checks whether the verified email address on your connected LeakData account appears in known data breaches. Review reported breach sources, dates and affected data types to understand your email exposure.\n\nYou can also look up aggregate statistics for a five-character SHA-1 password hash prefix computed on your device. These statistics describe a group of hashes; they cannot tell whether your specific password was leaked. Never share a password or full hash.\n\nAn existing LeakData account with API access is required. This plugin supports your account's verified primary email only; domain searches and searches for other people are not supported.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Leakdata.io",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Security",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://leakdata.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.2",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:46.139Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ac42a13c68c819188105b9b41fe3b86": {
       "id": "plugin_asdk_app_6ac42a13c68c819188105b9b41fe3b86",
@@ -233792,7 +234592,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "The LSEG connector provides real-time access to LSEG's institutional-grade market data, analytics and valuation capabilities, spanning across asset classes and domains, together with foreign exchange market coverage and order placement on LSE24 Exchange. It enables users to analyse instruments, perform complex calculations and move from analysis to execution through natural language interactions, governed by their existing LSEG account entitlements.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Market data, Analytics, Valuation, Foreign exchange market coverage, LSE24 RFQ and quote workflows, Order placement on LSE24 Exchange",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "LSEG",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.lseg.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:48.038Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab05e3ed54881919f5fffaceda8caec": {
       "id": "plugin_asdk_app_6ab05e3ed54881919f5fffaceda8caec",
@@ -233807,7 +234640,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "BeanHub is a hosted Beancount ledger on Git. After you connect with OAuth, ChatGPT can list books, accounts, entries, files, forms, and commits, search transactions, and check balances.\n\nNew connections start read-only. You can allow book updates later. Updates create a Git commit after Beancount validation. The app cannot mint access tokens, change billing, connect a bank, dump Connect or Inbox data, make a book public, or delete a book.\n\nEnable MCP first at https://app.beanhub.io/mcp/. Docs: https://docs.beanhub.io/guides/mcp/",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Launch Platform LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://beanhub.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:49.695Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab0d4cbdd5081918c37d2a7a8f94a16": {
       "id": "plugin_asdk_app_6ab0d4cbdd5081918c37d2a7a8f94a16",
@@ -233822,7 +234683,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Ask about your TrackMyStack portfolio in plain language: your net worth, what each holding is worth and how it has changed. Import a brokerage statement and ChatGPT records the holdings for you. Explore your allocation, dividends, daily movers, net worth history and goals.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Beeblesoft Ltd",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://trackmystack.app/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:51.338Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa9f5eb007c819194248395d60a84b1": {
       "id": "plugin_asdk_app_6aa9f5eb007c819194248395d60a84b1",
@@ -233837,7 +234726,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Stratify backtests Indian index option strategies on a year of real 1-minute NIFTY options data. Describe the trade in plain words — the legs, when to enter, how to manage it while it is open — and the server runs it against every trading day in the window and returns what actually happened.\n\nEvery result carries P&L after real charges (brokerage, STT, exchange and SEBI fees, GST, stamp duty) and modelled slippage, return on margin from a SPAN calibration, and an honesty panel: an out-of-sample split, walk-forward folds, a bootstrap interval, and a deflated Sharpe that accounts for how many variants you have already tried. No ratio is reported below 30 trades. Every backtest gets a shareable report page with the equity curve, the rules card and every trade.\n\nThe open strategy protocol covers any number of legs on any expiry; strikes by delta, premium, points or percent; per-leg stops and targets; rolling a tested side; entry gates on VIX, index RSI/EMA/SMA and combined premium; clock-time entries and exits; and portfolio rules such as pausing after consecutive losses.\n\nData never leaves the server — a backtest returns results, not rows. No trades are executed and no financial advice is given: the service never calls a strategy good. Free tier: NIFTY, one year, 100 backtests an hour. Requires a free Stratify account (sign in via OAuth).",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "SRINATH H",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://stratify.aeon-labs.site/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:53.023Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a9aa47d0d1c8191892f3c652f91ffac": {
       "id": "plugin_asdk_app_6a9aa47d0d1c8191892f3c652f91ffac",
@@ -233852,7 +234769,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Connect your NAFA account to read your workout plan and history, update an exercise, and read, log or correct food entries with calories, macros and fibre. Choose separate read and edit permissions, revoke access at any time, and confirm every change before it is saved. Biomarkers, body measurements, sensor health metrics, medical records and photos are not available through this plugin.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "AUGE XR AG",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Healthcare",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://nafa.fitness/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:54.702Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab1c764dbb88191a6d2e15c9296323f": {
       "id": "plugin_asdk_app_6ab1c764dbb88191a6d2e15c9296323f",
@@ -233867,7 +234812,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Keep the things you notice, the places you go, and the experiences worth remembering with Discriminantly. Add to your collection naturally through conversation with ChatGPT, revisit what you’ve kept, organize interests and travels, and turn the places you’re considering into itineraries and plans. The more you keep, the more context you have at hand when you want to remember, explore, or plan what comes next.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "BRIAN GERARD DONATO ELICIERTO",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.discriminantly.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:56.406Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a32c7f22c308191a6d4eaa81a1317a5": {
       "id": "plugin_asdk_app_6a32c7f22c308191a6d4eaa81a1317a5",
@@ -233882,7 +234855,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "VoltShare is an EV charging marketplace that puts public and private EV chargers on one map. This connector lets ChatGPT search for EV chargers near any address or coordinates and pull full details — connector type (J1772, CCS, NACS, Tesla), power output, price per kWh, live availability, hours, and host info — so drivers can find a compatible charger before committing to the trip. Tools: Search EV chargers (distance-sorted results filtered by connector type, max price per kWh, minimum power, and availability) and Get EV charger details (full profile for any charger, including pricing, live status, and host). Read-only: the connector never books, reserves, or charges anything — it only discovers chargers.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Inova Studio LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://voltshare.app/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:58.249Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab4e9d9ea6881919ab3d825eda382ef": {
       "id": "plugin_asdk_app_6ab4e9d9ea6881919ab3d825eda382ef",
@@ -233897,7 +234898,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Tilgang for agenter til Norges største markedsplass for charter- og pakkereiser",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Reisegiganten AS",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.restplass.no/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:58:59.901Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab8b29c98c48191ac2b5e7d19b0249e": {
       "id": "plugin_asdk_app_6ab8b29c98c48191ac2b5e7d19b0249e",
@@ -233912,7 +234941,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "SelectBNBs Verify checks accommodation permits for short-term rentals in South Korea using official government registry data.\n\nPaste a listing’s Registration details—region of issuance, licence type and licence number—or provide a registered business name, address or government management number. Verify returns the matching permit’s recorded status, registered business, permit category and address, with source dates and record links when available. It explains how closely the submitted details match the record and what to compare before booking.\n\nEach request checks one listing or retrieves one permit record. South Korea is currently supported; other countries are reported as not covered. A missing match does not establish that a property is unregistered or illegal, and an active permit does not by itself confirm a listing’s identity. No account or sign-in is required. Verify does not book, pay or contact anyone.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "SelectBNBs",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://selectbnbs.com/verify/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:59:01.622Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a03b72913d88191b464189e99b02d38": {
       "id": "plugin_asdk_app_6a03b72913d88191b464189e99b02d38",
@@ -233927,7 +234984,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "Tripsy helps travelers plan, organize, and manage their trips directly from ChatGPT. Connect your Tripsy account to access itineraries, destinations, reservations, activities, notes, and other trip details, so ChatGPT can answer trip questions, summarize plans, suggest next steps, and help keep your travel information organized before and during your journey.\n\nExample prompts\n\n- “Show me my itinerary for Paris next week.”\n- “What reservations do I have on the first day of my trip?”\n- “Summarize my upcoming Japan trip.”\n- “Help me find gaps in my itinerary.”\n- “What activities are planned near my hotel?”\n- “Create a day-by-day overview of my trip.”\n\nUse cases\n\n- Review upcoming trips and daily plans\n- Find reservations, activities, notes, and key details faster\n- Summarize complex itineraries into simple overviews\n- Prepare for travel days with checklists and reminders\n- Ask natural-language questions about your saved trip plans\n- Get help organizing ideas while building your itinerary\n\nTravel with Tripsy anywhere\nTripsy is also available as a native app for iPhone, iPad, and Mac, so you can access and manage your trips during your journey. The native app supports offline access, making your itinerary available even when connectivity is limited.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Tripsy LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://tripsy.app/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:59:03.919Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab47593421c81919e0ce997274fbf35": {
       "id": "plugin_asdk_app_6ab47593421c81919e0ce997274fbf35",
@@ -233942,7 +235027,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-10T04:57:53.084Z",
       "firstSeenAt": "2026-10-10T04:57:53.084Z",
-      "information": []
+      "detailDue": false,
+      "description": "WeekendSeek weekend exhibition guide (weekendseek.com). Search current and upcoming museum/gallery special exhibitions across 91 cities (Japan, China, Europe, US…), filter by city/region, venue, or keyword, and get detail pages with dates, venue info and links. Data trilingual (中文/English/日本語) — tell it which language you want.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Lei Yin",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Entertainment",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://weekendseek.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-10T04:59:05.585Z",
+      "detailFailures": 0
     }
   },
   "scans": [
@@ -280787,9 +281900,9 @@
     "runId": "38025747139",
     "runAttempt": "1",
     "startedAt": "2026-10-10T04:56:12.940Z",
-    "updatedAt": "2026-10-10T04:57:53.099Z",
+    "updatedAt": "2026-10-10T04:59:18.336Z",
     "mode": "incremental",
-    "detailRequests": 0,
+    "detailRequests": 45,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
@@ -280799,11 +281912,11 @@
     "errors": 0,
     "stats": {
       "total": 4114,
-      "details": 4075,
+      "details": 4114,
       "translated": 4039,
       "missing": 10,
       "removed": 78,
-      "pendingDetails": 45,
+      "pendingDetails": 0,
       "pendingTranslations": 75
     }
   }
