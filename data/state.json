@@ -99274,7 +99274,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:31:40.090Z",
+      "detailCheckedAt": "2026-10-11T05:36:02.543Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "管理 Motive 网站",
@@ -99285,7 +99285,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.266Z",
         "translatedAt": "2026-10-10T16:41:20.266Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a98207a9a948191ba15725862d2141d": {
       "id": "plugin_asdk_app_6a98207a9a948191ba15725862d2141d",
@@ -99330,13 +99331,14 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:31:42.093Z",
+      "detailCheckedAt": "2026-10-11T05:36:04.233Z",
       "translationAttemptRun": "38068645872:1",
       "translationError": {
         "at": "2026-10-10T16:41:24.384Z",
         "message": "Workers AI translation failed: Translation contains no Chinese text",
         "transient": true
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a9f450b7ba881919aa6afa675c37d74": {
       "id": "plugin_asdk_app_6a9f450b7ba881919aa6afa675c37d74",
@@ -99381,7 +99383,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:31:44.046Z",
+      "detailCheckedAt": "2026-10-11T05:36:06.069Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "咨询服务参考资料",
@@ -99392,7 +99394,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.039Z",
         "translatedAt": "2026-10-10T16:41:20.039Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa2e363f35c81919fd7006e2cb3cc97": {
       "id": "plugin_asdk_app_6aa2e363f35c81919fd7006e2cb3cc97",
@@ -99437,7 +99440,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:31:46.079Z",
+      "detailCheckedAt": "2026-10-11T05:36:07.782Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "查找公共招标",
@@ -99448,7 +99451,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.302Z",
         "translatedAt": "2026-10-10T16:41:20.302Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69dd66e263c48191bc366788af31855c": {
       "id": "plugin_asdk_app_69dd66e263c48191bc366788af31855c",
@@ -99493,7 +99497,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:31:48.184Z",
+      "detailCheckedAt": "2026-10-11T05:36:09.485Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "招标信息搜索引擎",
@@ -99504,7 +99508,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.347Z",
         "translatedAt": "2026-10-10T16:41:20.347Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a449de9da948191b44f8566d49eb16a": {
       "id": "plugin_asdk_app_6a449de9da948191b44f8566d49eb16a",
@@ -99550,7 +99555,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:31:50.212Z",
+      "detailCheckedAt": "2026-10-11T05:36:11.325Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "管理房地产销售",
@@ -99561,7 +99566,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.129Z",
         "translatedAt": "2026-10-10T16:41:20.129Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa06c4c57508191afa23e90541b12f6": {
       "id": "plugin_asdk_app_6aa06c4c57508191afa23e90541b12f6",
@@ -99606,7 +99612,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:31:52.522Z",
+      "detailCheckedAt": "2026-10-11T05:36:13.041Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "根据配方生成 FDA 标签",
@@ -99617,7 +99623,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.062Z",
         "translatedAt": "2026-10-10T16:41:20.062Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a03a3be33648191aef497e780854dcd": {
       "id": "plugin_asdk_app_6a03a3be33648191aef497e780854dcd",
@@ -99714,12 +99721,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:31:56.483Z",
+      "detailCheckedAt": "2026-10-11T05:36:15.061Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "规划并评估 SEO 内容",
@@ -99730,7 +99737,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.151Z",
         "translatedAt": "2026-10-10T16:41:20.151Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a2da571f8f88191a20309aa4d11fdfc": {
       "id": "plugin_asdk_app_6a2da571f8f88191a20309aa4d11fdfc",
@@ -99775,7 +99783,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:31:58.519Z",
+      "detailCheckedAt": "2026-10-11T05:36:16.717Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "审计并优化广告",
@@ -99786,7 +99794,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.132Z",
         "translatedAt": "2026-10-10T16:41:20.132Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69cdd011ebf481919fa1698d7b9530e1": {
       "id": "plugin_asdk_app_69cdd011ebf481919fa1698d7b9530e1",
@@ -99831,7 +99840,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:00.510Z",
+      "detailCheckedAt": "2026-10-11T05:36:18.409Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "销售排行榜与辅导",
@@ -99842,7 +99851,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.313Z",
         "translatedAt": "2026-10-10T16:41:20.313Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a7b33f0560c8191ac4493633393d091": {
       "id": "plugin_asdk_app_6a7b33f0560c8191ac4493633393d091",
@@ -99887,7 +99897,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:02.526Z",
+      "detailCheckedAt": "2026-10-11T05:36:20.120Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "审查网站与 AI 可见度",
@@ -99898,7 +99908,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.170Z",
         "translatedAt": "2026-10-10T16:41:20.170Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69f8dd9dc044819194166c2e5c799013": {
       "id": "plugin_asdk_app_69f8dd9dc044819194166c2e5c799013",
@@ -99943,7 +99954,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:04.558Z",
+      "detailCheckedAt": "2026-10-11T05:36:21.818Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "管理你的业务",
@@ -99954,7 +99965,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.118Z",
         "translatedAt": "2026-10-10T16:41:20.118Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69690af05a74819189e671dc6ef00e2f": {
       "id": "plugin_asdk_app_69690af05a74819189e671dc6ef00e2f",
@@ -100057,7 +100069,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:08.621Z",
+      "detailCheckedAt": "2026-10-11T05:36:23.558Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "生成商业洞察",
@@ -100068,7 +100080,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.198Z",
         "translatedAt": "2026-10-10T16:41:20.198Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a073d3730e08191b398175c801bc714": {
       "id": "plugin_asdk_app_6a073d3730e08191b398175c801bc714",
@@ -100137,7 +100150,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:14.314Z",
+      "detailCheckedAt": "2026-10-11T05:36:25.266Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "管理8个平台的广告",
@@ -100148,7 +100161,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.069Z",
         "translatedAt": "2026-10-10T16:41:20.069Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a7cdfd4dbac81918c9bb8636b303498": {
       "id": "plugin_asdk_app_6a7cdfd4dbac81918c9bb8636b303498",
@@ -100193,7 +100207,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:17.309Z",
+      "detailCheckedAt": "2026-10-11T05:36:27.003Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "借助 AI 调查数据",
@@ -100204,7 +100218,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.148Z",
         "translatedAt": "2026-10-10T16:41:20.148Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a2b0e8207ec81918363c2eb43362e44": {
       "id": "plugin_asdk_app_6a2b0e8207ec81918363c2eb43362e44",
@@ -100306,7 +100321,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:21.316Z",
+      "detailCheckedAt": "2026-10-11T05:36:28.672Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "细粒度访问 CE 数据",
@@ -100317,7 +100332,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.081Z",
         "translatedAt": "2026-10-10T16:41:20.081Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a4251cdb9208191895d75b16b97e536": {
       "id": "plugin_asdk_app_6a4251cdb9208191895d75b16b97e536",
@@ -100362,7 +100378,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:23.271Z",
+      "detailCheckedAt": "2026-10-11T05:36:30.452Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "追踪 AI 品牌曝光度",
@@ -100373,7 +100389,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.254Z",
         "translatedAt": "2026-10-10T16:41:20.254Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a0e2379604c819198f14c6787ca5e2b": {
       "id": "plugin_asdk_app_6a0e2379604c819198f14c6787ca5e2b",
@@ -100475,7 +100492,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:27.181Z",
+      "detailCheckedAt": "2026-10-11T05:36:32.167Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "Safari 行程提案工作流",
@@ -100486,7 +100503,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.293Z",
         "translatedAt": "2026-10-10T16:41:20.293Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a90f63dcf008191ba50c89d48d0fb85": {
       "id": "plugin_asdk_app_6a90f63dcf008191ba50c89d48d0fb85",
@@ -100531,7 +100549,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:29.139Z",
+      "detailCheckedAt": "2026-10-11T05:36:33.898Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "德国与欧盟公共招标",
@@ -100542,7 +100560,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.044Z",
         "translatedAt": "2026-10-10T16:41:20.044Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69893af74b808191a27cf931802c3c37": {
       "id": "plugin_asdk_app_69893af74b808191a27cf931802c3c37",
@@ -100644,7 +100663,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:33.041Z",
+      "detailCheckedAt": "2026-10-11T05:36:35.672Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "将屏幕录制转成演示视频",
@@ -100655,7 +100674,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.308Z",
         "translatedAt": "2026-10-10T16:41:20.308Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a7ae2565a148191802be85a9bf06ab2": {
       "id": "plugin_asdk_app_6a7ae2565a148191802be85a9bf06ab2",
@@ -100700,7 +100720,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:35.021Z",
+      "detailCheckedAt": "2026-10-11T05:36:37.462Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "起草并安排帖子",
@@ -100711,7 +100731,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.288Z",
         "translatedAt": "2026-10-10T16:41:20.288Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a14183a803c8191be1e856c6d568894": {
       "id": "plugin_asdk_app_6a14183a803c8191be1e856c6d568894",
@@ -100813,7 +100834,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:38.941Z",
+      "detailCheckedAt": "2026-10-11T05:36:39.174Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "管理并优化 PPC",
@@ -100824,7 +100845,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.275Z",
         "translatedAt": "2026-10-10T16:41:20.275Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a667faef58c8191a6b73a0cb0cf1bc6": {
       "id": "plugin_asdk_app_6a667faef58c8191a6b73a0cb0cf1bc6",
@@ -100869,7 +100891,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:41.013Z",
+      "detailCheckedAt": "2026-10-11T05:36:40.866Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "管理电子邮件营销",
@@ -100880,7 +100902,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.257Z",
         "translatedAt": "2026-10-10T16:41:20.257Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a7ade915c948191b65965ee1e866ded": {
       "id": "plugin_asdk_app_6a7ade915c948191b65965ee1e866ded",
@@ -100925,7 +100948,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:42.977Z",
+      "detailCheckedAt": "2026-10-11T05:36:43.050Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "查询你的营销数据",
@@ -100936,7 +100959,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.063Z",
         "translatedAt": "2026-10-10T16:41:20.063Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a34c510354c8191b8a065fa13230bb6": {
       "id": "plugin_asdk_app_6a34c510354c8191b8a065fa13230bb6",
@@ -101038,7 +101062,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:46.861Z",
+      "detailCheckedAt": "2026-10-11T05:36:44.757Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "发现、丰富并编排潜在客户",
@@ -101049,7 +101073,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.333Z",
         "translatedAt": "2026-10-10T16:41:20.333Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_694b324e45ac8191aacfd79d8deb1043": {
       "id": "plugin_asdk_app_694b324e45ac8191aacfd79d8deb1043",
@@ -101145,7 +101170,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:50.863Z",
+      "detailCheckedAt": "2026-10-11T05:36:46.494Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "管理你的在线商店",
@@ -101156,7 +101181,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.053Z",
         "translatedAt": "2026-10-10T16:41:20.053Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a944d2cdfac8191b5fd3fea573398ef": {
       "id": "plugin_asdk_app_6a944d2cdfac8191b5fd3fea573398ef",
@@ -101201,7 +101227,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:52.873Z",
+      "detailCheckedAt": "2026-10-11T05:36:48.328Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "管理资产与库存",
@@ -101212,7 +101238,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.225Z",
         "translatedAt": "2026-10-10T16:41:20.225Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a5e7a3d083081919006613d85fb4d0c": {
       "id": "plugin_asdk_app_6a5e7a3d083081919006613d85fb4d0c",
@@ -101308,7 +101335,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:32:56.915Z",
+      "detailCheckedAt": "2026-10-11T05:36:50.433Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "管理你的 Whatalo 商店",
@@ -101319,7 +101346,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.340Z",
         "translatedAt": "2026-10-10T16:41:20.340Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69fdd26fdcfc8191b38fe55815846708": {
       "id": "plugin_asdk_app_69fdd26fdcfc8191b38fe55815846708",
@@ -101466,7 +101494,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:02.998Z",
+      "detailCheckedAt": "2026-10-11T05:36:52.218Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "管理店面内容",
@@ -101477,7 +101505,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.299Z",
         "translatedAt": "2026-10-10T16:41:20.299Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a020f360ec881919a0ee02b633b965f": {
       "id": "plugin_asdk_app_6a020f360ec881919a0ee02b633b965f",
@@ -101573,7 +101602,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:06.940Z",
+      "detailCheckedAt": "2026-10-11T05:36:53.922Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "房地产数据与背景信息",
@@ -101584,7 +101613,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.120Z",
         "translatedAt": "2026-10-10T16:41:20.120Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa0a6c7b624819196b60e3eaef05562": {
       "id": "plugin_asdk_app_6aa0a6c7b624819196b60e3eaef05562",
@@ -101629,7 +101659,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:08.934Z",
+      "detailCheckedAt": "2026-10-11T05:36:55.582Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "记录工作，发现洞察",
@@ -101640,7 +101670,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.249Z",
         "translatedAt": "2026-10-10T16:41:20.249Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a59184994a88191af200cf54e62eb34": {
       "id": "plugin_asdk_app_6a59184994a88191af200cf54e62eb34",
@@ -101685,7 +101716,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:10.912Z",
+      "detailCheckedAt": "2026-10-11T05:36:57.398Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "连接你的 Zeck.app 数据",
@@ -101696,7 +101727,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.346Z",
         "translatedAt": "2026-10-10T16:41:20.346Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a157e10a9a48191be370607e8a94987": {
       "id": "plugin_asdk_app_6a157e10a9a48191be370607e8a94987",
@@ -101792,7 +101824,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:14.848Z",
+      "detailCheckedAt": "2026-10-11T05:36:59.304Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "搜索和分析证据",
@@ -101803,7 +101835,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.099Z",
         "translatedAt": "2026-10-10T16:41:20.099Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a44a9d050d081918636f82d3a5a5d4f": {
       "id": "plugin_asdk_app_6a44a9d050d081918636f82d3a5a5d4f",
@@ -101848,7 +101881,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:16.863Z",
+      "detailCheckedAt": "2026-10-11T05:37:00.965Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "研究风险与趋势",
@@ -101859,7 +101892,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.129Z",
         "translatedAt": "2026-10-10T16:41:20.129Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69788e70bfd48191a516b4bc2f0a104b": {
       "id": "plugin_asdk_app_69788e70bfd48191a516b4bc2f0a104b",
@@ -102006,7 +102040,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:22.850Z",
+      "detailCheckedAt": "2026-10-11T05:37:02.671Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "评估并选择气体冷却器",
@@ -102017,7 +102051,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.037Z",
         "translatedAt": "2026-10-10T16:41:20.037Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a3261b7cdfc81919a864e7a3c4a303d": {
       "id": "plugin_asdk_app_6a3261b7cdfc81919a864e7a3c4a303d",
@@ -102262,7 +102297,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:32.673Z",
+      "detailCheckedAt": "2026-10-11T05:37:04.349Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "搜索并管理人脉",
@@ -102273,7 +102308,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.106Z",
         "translatedAt": "2026-10-10T16:41:20.106Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa4a9f42500819195c270ab28582cf5": {
       "id": "plugin_asdk_app_6aa4a9f42500819195c270ab28582cf5",
@@ -102318,7 +102354,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:34.680Z",
+      "detailCheckedAt": "2026-10-11T05:37:06.528Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "Harvey 法律智能",
@@ -102329,7 +102365,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.108Z",
         "translatedAt": "2026-10-10T16:41:20.108Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a908cd7176081919717ffa210436393": {
       "id": "plugin_asdk_app_6a908cd7176081919717ffa210436393",
@@ -102374,7 +102411,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:36.698Z",
+      "detailCheckedAt": "2026-10-11T05:37:08.360Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "处理客户数据",
@@ -102385,7 +102422,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.057Z",
         "translatedAt": "2026-10-10T16:41:20.057Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_697d413990c88191a2bf4799604f8f6c": {
       "id": "plugin_asdk_app_697d413990c88191a2bf4799604f8f6c",
@@ -102435,7 +102473,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:38.675Z",
+      "detailCheckedAt": "2026-10-11T05:37:10.222Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "管理 Salesforce 记录",
@@ -102446,7 +102484,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.301Z",
         "translatedAt": "2026-10-10T16:41:20.301Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_connector_1p_e4d796f7afc48191bf6af2220a55fdd6": {
       "id": "plugin_connector_1p_e4d796f7afc48191bf6af2220a55fdd6",
@@ -102492,12 +102531,12 @@
         },
         {
           "label": "Version",
-          "value": "0.1.20",
+          "value": "0.1.26",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:40.634Z",
+      "detailCheckedAt": "2026-10-11T05:37:11.908Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "为工作空间所有者或管理员管理 ChatGPT 工作空间。",
@@ -102508,7 +102547,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.181Z",
         "translatedAt": "2026-10-10T16:41:20.181Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_699caef2d680819188727b0ddbb349dd": {
       "id": "plugin_asdk_app_699caef2d680819188727b0ddbb349dd",
@@ -102554,7 +102594,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:42.612Z",
+      "detailCheckedAt": "2026-10-11T05:37:13.753Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "分析您的产品数据",
@@ -102565,7 +102605,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.021Z",
         "translatedAt": "2026-10-10T16:41:20.021Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69b9f38bfa248191877ad584f5608b92": {
       "id": "plugin_asdk_app_69b9f38bfa248191877ad584f5608b92",
@@ -102611,7 +102652,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:44.648Z",
+      "detailCheckedAt": "2026-10-11T05:37:15.504Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "访问你的 Helium 10 数据",
@@ -102622,7 +102663,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.230Z",
         "translatedAt": "2026-10-10T16:41:20.230Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a3e889766b481919d6b2861e94a8afa": {
       "id": "plugin_asdk_app_6a3e889766b481919d6b2861e94a8afa",
@@ -102668,7 +102710,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:46.695Z",
+      "detailCheckedAt": "2026-10-11T05:37:17.198Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "创建表单并分析答复",
@@ -102679,7 +102721,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.331Z",
         "translatedAt": "2026-10-10T16:41:20.331Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_connector_690e2dabf430819196f8b3701ec838ec": {
       "id": "plugin_connector_690e2dabf430819196f8b3701ec838ec",
@@ -102725,7 +102768,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:48.704Z",
+      "detailCheckedAt": "2026-10-11T05:37:18.923Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "分析产品数据",
@@ -102736,7 +102779,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.048Z",
         "translatedAt": "2026-10-10T16:41:20.048Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69a880b0d024819182db60f36cb48420": {
       "id": "plugin_asdk_app_69a880b0d024819182db60f36cb48420",
@@ -102782,7 +102826,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:50.647Z",
+      "detailCheckedAt": "2026-10-11T05:37:20.779Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "查找并分析区块链数据",
@@ -102793,7 +102837,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.038Z",
         "translatedAt": "2026-10-10T16:41:20.038Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69b2e9aed45c8191b254b207dfcc2bb4": {
       "id": "plugin_asdk_app_69b2e9aed45c8191b254b207dfcc2bb4",
@@ -102844,7 +102889,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:52.856Z",
+      "detailCheckedAt": "2026-10-11T05:37:22.462Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "查询和分析 Mixpanel",
@@ -102855,7 +102900,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.126Z",
         "translatedAt": "2026-10-10T16:41:20.126Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69a22803c8c481919da6f9b41bd93725": {
       "id": "plugin_asdk_app_69a22803c8c481919da6f9b41bd93725",
@@ -102901,7 +102947,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:54.857Z",
+      "detailCheckedAt": "2026-10-11T05:37:24.146Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "你的品牌情报引擎",
@@ -102912,7 +102958,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.338Z",
         "translatedAt": "2026-10-10T16:41:20.338Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_698b10719a688191b53a37692efb6d81": {
       "id": "plugin_asdk_app_698b10719a688191b53a37692efb6d81",
@@ -102958,7 +103005,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:33:58.963Z",
+      "detailCheckedAt": "2026-10-11T05:37:26.044Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "SEO 数据与关键词研究",
@@ -102969,7 +103016,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.152Z",
         "translatedAt": "2026-10-10T16:41:20.152Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69a2327e44fc8191ace64618746edc84": {
       "id": "plugin_asdk_app_69a2327e44fc8191ace64618746edc84",
@@ -103014,7 +103062,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:00.969Z",
+      "detailCheckedAt": "2026-10-11T05:37:28.000Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "查询 SQL 数据库",
@@ -103025,7 +103073,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.045Z",
         "translatedAt": "2026-10-10T16:41:20.045Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a5937013728819186b9de76e1f68de1": {
       "id": "plugin_asdk_app_6a5937013728819186b9de76e1f68de1",
@@ -103071,7 +103120,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:02.954Z",
+      "detailCheckedAt": "2026-10-11T05:37:29.762Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "Tableau（仅 MCP；即将结束生命周期）",
@@ -103082,7 +103131,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.319Z",
         "translatedAt": "2026-10-10T16:41:20.319Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_connector_690a9430a270819196671dcb4c95898e": {
       "id": "plugin_connector_690a9430a270819196671dcb4c95898e",
@@ -103133,7 +103183,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:04.933Z",
+      "detailCheckedAt": "2026-10-11T05:37:31.559Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "提出问题并开展分析",
@@ -103144,7 +103194,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.351Z",
         "translatedAt": "2026-10-10T16:41:20.351Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a4438da388081919a4222e44c6cd1bb": {
       "id": "plugin_asdk_app_6a4438da388081919a4222e44c6cd1bb",
@@ -103190,7 +103241,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:06.899Z",
+      "detailCheckedAt": "2026-10-11T05:37:33.289Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "美国州级初审法院研究",
@@ -103201,7 +103252,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.328Z",
         "translatedAt": "2026-10-10T16:41:20.328Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_698ccc7e538481918e43736065f8ca42": {
       "id": "plugin_asdk_app_698ccc7e538481918e43736065f8ca42",
@@ -103247,7 +103299,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:08.902Z",
+      "detailCheckedAt": "2026-10-11T05:37:35.252Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "无需查询即可获得答案",
@@ -103258,7 +103310,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.080Z",
         "translatedAt": "2026-10-10T16:41:20.080Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_696a54f1c91c81919002b9153ce0e336": {
       "id": "plugin_asdk_app_696a54f1c91c81919002b9153ce0e336",
@@ -103304,7 +103357,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:10.872Z",
+      "detailCheckedAt": "2026-10-11T05:37:36.987Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "从数据中获取答案",
@@ -103315,7 +103368,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.266Z",
         "translatedAt": "2026-10-10T16:41:20.266Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a736fa1def48191af5a8f0c9cf88d4f": {
       "id": "plugin_asdk_app_6a736fa1def48191af5a8f0c9cf88d4f",
@@ -103361,7 +103415,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:12.858Z",
+      "detailCheckedAt": "2026-10-11T05:37:38.844Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "体育数据、球员道具投注与对阵分析",
@@ -103372,7 +103426,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.315Z",
         "translatedAt": "2026-10-10T16:41:20.315Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a4674940e1881918a0c756045d25d63": {
       "id": "plugin_asdk_app_6a4674940e1881918a0c756045d25d63",
@@ -103418,7 +103473,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:14.854Z",
+      "detailCheckedAt": "2026-10-11T05:37:40.527Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "创建地图并进行 GIS 分析",
@@ -103429,7 +103484,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.224Z",
         "translatedAt": "2026-10-10T16:41:20.224Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a14890167bc8191b77dea0507fb2af6": {
       "id": "plugin_asdk_app_6a14890167bc8191b77dea0507fb2af6",
@@ -103474,7 +103530,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:16.879Z",
+      "detailCheckedAt": "2026-10-11T05:37:42.342Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "访问 Powerset Research 数据",
@@ -103485,7 +103541,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.288Z",
         "translatedAt": "2026-10-10T16:41:20.288Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_695cdd7e863c819192b88beffc2033b6": {
       "id": "plugin_asdk_app_695cdd7e863c819192b88beffc2033b6",
@@ -103531,7 +103588,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:18.880Z",
+      "detailCheckedAt": "2026-10-11T05:37:44.074Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "网站、应用、搜索和市场数据",
@@ -103542,7 +103599,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.153Z",
         "translatedAt": "2026-10-10T16:41:20.153Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a5ed857b1588191828d1d78247e8ae7": {
       "id": "plugin_asdk_app_6a5ed857b1588191828d1d78247e8ae7",
@@ -103588,7 +103646,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:20.865Z",
+      "detailCheckedAt": "2026-10-11T05:37:46.010Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "韩国水资源数据",
@@ -103599,7 +103657,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.248Z",
         "translatedAt": "2026-10-10T16:41:20.248Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69fd59949b1081918028f77728680acc": {
       "id": "plugin_asdk_app_69fd59949b1081918028f77728680acc",
@@ -103644,7 +103703,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:22.881Z",
+      "detailCheckedAt": "2026-10-11T05:37:47.825Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "为店铺生成报告",
@@ -103655,7 +103714,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.261Z",
         "translatedAt": "2026-10-10T16:41:20.261Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a10afd73e7c81919bf3abc516520edc": {
       "id": "plugin_asdk_app_6a10afd73e7c81919bf3abc516520edc",
@@ -103701,7 +103761,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:24.839Z",
+      "detailCheckedAt": "2026-10-11T05:37:49.538Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "分析广告和销售数据。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify",
@@ -103712,7 +103772,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.136Z",
         "translatedAt": "2026-10-10T16:41:20.136Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_699c97e791ac8191ac8156422cae82a4": {
       "id": "plugin_asdk_app_699c97e791ac8191ac8156422cae82a4",
@@ -103757,7 +103818,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:26.829Z",
+      "detailCheckedAt": "2026-10-11T05:37:51.315Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "搜索卫星影像数据",
@@ -103768,7 +103829,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.307Z",
         "translatedAt": "2026-10-10T16:41:20.307Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a53367747ac8191891c960a0f61b376": {
       "id": "plugin_asdk_app_6a53367747ac8191891c960a0f61b376",
@@ -103813,7 +103875,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:28.883Z",
+      "detailCheckedAt": "2026-10-11T05:37:53.247Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "分析 Search Console SEO 数据",
@@ -103824,7 +103886,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.228Z",
         "translatedAt": "2026-10-10T16:41:20.228Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a626bbfaf0481918ee0d2b6fa459d2b": {
       "id": "plugin_asdk_app_6a626bbfaf0481918ee0d2b6fa459d2b",
@@ -103870,7 +103933,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:30.891Z",
+      "detailCheckedAt": "2026-10-11T05:37:55.003Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "查找提及、趋势和需求",
@@ -103881,7 +103944,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.076Z",
         "translatedAt": "2026-10-10T16:41:20.076Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69f4ff416e948191b53586c77b559615": {
       "id": "plugin_asdk_app_69f4ff416e948191b53586c77b559615",
@@ -103927,7 +103991,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:33.012Z",
+      "detailCheckedAt": "2026-10-11T05:37:56.768Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "分析 Ramp 经济数据",
@@ -103938,7 +104002,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.143Z",
         "translatedAt": "2026-10-10T16:41:20.143Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69b2ece221cc8191b9e7c3e49ab0adf9": {
       "id": "plugin_asdk_app_69b2ece221cc8191b9e7c3e49ab0adf9",
@@ -103984,7 +104049,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:35.025Z",
+      "detailCheckedAt": "2026-10-11T05:37:58.434Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "为大语言模型提供空间智能",
@@ -103995,7 +104060,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.057Z",
         "translatedAt": "2026-10-10T16:41:20.057Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a50c0e094c88191ac7b55aec73bd267": {
       "id": "plugin_asdk_app_6a50c0e094c88191ac7b55aec73bd267",
@@ -104041,7 +104107,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:37.010Z",
+      "detailCheckedAt": "2026-10-11T05:38:00.247Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "善于倾听的跑步教练",
@@ -104052,7 +104118,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.251Z",
         "translatedAt": "2026-10-10T16:41:20.251Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a2d50ea97c88191b602860a847f8603": {
       "id": "plugin_asdk_app_6a2d50ea97c88191b602860a847f8603",
@@ -104098,7 +104165,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:39.013Z",
+      "detailCheckedAt": "2026-10-11T05:38:02.004Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "社交媒体分析",
@@ -104109,7 +104176,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.263Z",
         "translatedAt": "2026-10-10T16:41:20.263Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_694e8b8715108191a49fe2db4398d9e2": {
       "id": "plugin_asdk_app_694e8b8715108191a49fe2db4398d9e2",
@@ -104154,7 +104222,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:40.926Z",
+      "detailCheckedAt": "2026-10-11T05:38:03.946Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "查询业务数据",
@@ -104165,7 +104233,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.131Z",
         "translatedAt": "2026-10-10T16:41:20.131Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a32f6911e788191a7826866848ba5c0": {
       "id": "plugin_asdk_app_6a32f6911e788191a7826866848ba5c0",
@@ -104210,7 +104279,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:42.940Z",
+      "detailCheckedAt": "2026-10-11T05:38:05.721Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "分析产品数据",
@@ -104221,7 +104290,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.056Z",
         "translatedAt": "2026-10-10T16:41:20.056Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a514c90130c8191bb9a04df335d5ac6": {
       "id": "plugin_asdk_app_6a514c90130c8191bb9a04df335d5ac6",
@@ -104266,7 +104336,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:44.858Z",
+      "detailCheckedAt": "2026-10-11T05:38:07.458Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "用于情报分析的 AI 智能体",
@@ -104277,7 +104347,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.153Z",
         "translatedAt": "2026-10-10T16:41:20.153Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a204b2923fc8191bcbd87ec6dc9d382": {
       "id": "plugin_asdk_app_6a204b2923fc8191bcbd87ec6dc9d382",
@@ -104323,7 +104394,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:46.880Z",
+      "detailCheckedAt": "2026-10-11T05:38:09.184Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "为 AI 提供企业上下文",
@@ -104334,7 +104405,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.055Z",
         "translatedAt": "2026-10-10T16:41:20.055Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a4d2371565481918bcf2890f2f29226": {
       "id": "plugin_asdk_app_6a4d2371565481918bcf2890f2f29226",
@@ -104379,7 +104451,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:48.887Z",
+      "detailCheckedAt": "2026-10-11T05:38:10.963Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "巴西电商数据",
@@ -104390,7 +104462,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.116Z",
         "translatedAt": "2026-10-10T16:41:20.116Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a331a47b4e481918568c30498ea0a94": {
       "id": "plugin_asdk_app_6a331a47b4e481918568c30498ea0a94",
@@ -104435,7 +104508,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:50.920Z",
+      "detailCheckedAt": "2026-10-11T05:38:12.740Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "分析你的作者销售数据",
@@ -104446,7 +104519,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.028Z",
         "translatedAt": "2026-10-10T16:41:20.028Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a31190204b481919633d8e2f3dc18a6": {
       "id": "plugin_asdk_app_6a31190204b481919633d8e2f3dc18a6",
@@ -104492,7 +104566,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:52.842Z",
+      "detailCheckedAt": "2026-10-11T05:38:14.502Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "收入和增长洞察",
@@ -104503,7 +104577,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.081Z",
         "translatedAt": "2026-10-10T16:41:20.081Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69fb51f9519081919c1f3e44ea9a5a05": {
       "id": "plugin_asdk_app_69fb51f9519081919c1f3e44ea9a5a05",
@@ -104554,7 +104629,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:54.796Z",
+      "detailCheckedAt": "2026-10-11T05:38:16.219Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "让智能体运行数据工作流",
@@ -104565,7 +104640,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.200Z",
         "translatedAt": "2026-10-10T16:41:20.200Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69ef657024848191b86f94341d6b2570": {
       "id": "plugin_asdk_app_69ef657024848191b86f94341d6b2570",
@@ -104611,7 +104687,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:56.870Z",
+      "detailCheckedAt": "2026-10-11T05:38:17.998Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "跟踪 SEO 和页面变化",
@@ -104622,7 +104698,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.132Z",
         "translatedAt": "2026-10-10T16:41:20.132Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a8ebd56a408819189228d0b24cde31a": {
       "id": "plugin_asdk_app_6a8ebd56a408819189228d0b24cde31a",
@@ -104667,7 +104744,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:34:58.931Z",
+      "detailCheckedAt": "2026-10-11T05:38:19.770Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "使用 Google Ads、Meta 和 TikTok",
@@ -104678,7 +104755,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.114Z",
         "translatedAt": "2026-10-10T16:41:20.114Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69ecca09a4f88191804893914eb08f1a": {
       "id": "plugin_asdk_app_69ecca09a4f88191804893914eb08f1a",
@@ -104723,7 +104801,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:00.942Z",
+      "detailCheckedAt": "2026-10-11T05:38:21.654Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "连接您的电商数据",
@@ -104734,7 +104812,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.287Z",
         "translatedAt": "2026-10-10T16:41:20.287Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69bc499205fc81918be3bd546e10ad06": {
       "id": "plugin_asdk_app_69bc499205fc81918be3bd546e10ad06",
@@ -104779,7 +104858,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:02.912Z",
+      "detailCheckedAt": "2026-10-11T05:38:23.323Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "按需查询餐厅分析",
@@ -104790,7 +104869,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.160Z",
         "translatedAt": "2026-10-10T16:41:20.160Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69e5be7461d88191814dabaea57e77a1": {
       "id": "plugin_asdk_app_69e5be7461d88191814dabaea57e77a1",
@@ -104836,7 +104916,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:04.913Z",
+      "detailCheckedAt": "2026-10-11T05:38:25.069Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "英国房产数据与洞察。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。需要满足相关要求。",
@@ -104847,7 +104927,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.141Z",
         "translatedAt": "2026-10-10T16:41:20.141Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_699f16ca9088819197fdf3c876e03312": {
       "id": "plugin_asdk_app_699f16ca9088819197fdf3c876e03312",
@@ -104893,7 +104974,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:07.010Z",
+      "detailCheckedAt": "2026-10-11T05:38:26.747Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "统一的政府承包数据 MCP",
@@ -104904,7 +104985,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.320Z",
         "translatedAt": "2026-10-10T16:41:20.320Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a3ed08a777481919fe5c4b0c1bb9171": {
       "id": "plugin_asdk_app_6a3ed08a777481919fe5c4b0c1bb9171",
@@ -104950,7 +105032,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:09.012Z",
+      "detailCheckedAt": "2026-10-11T05:38:28.485Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "分析客户旅程数据",
@@ -104961,7 +105043,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.073Z",
         "translatedAt": "2026-10-10T16:41:20.073Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69e78df330808191bc4f4dec232da97e": {
       "id": "plugin_asdk_app_69e78df330808191bc4f4dec232da97e",
@@ -105007,7 +105090,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:10.989Z",
+      "detailCheckedAt": "2026-10-11T05:38:30.322Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "分析营销数据",
@@ -105018,7 +105101,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.080Z",
         "translatedAt": "2026-10-10T16:41:20.080Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6946f8ed4fa081918b79d24c71ab1041": {
       "id": "plugin_asdk_app_6946f8ed4fa081918b79d24c71ab1041",
@@ -105064,7 +105148,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:13.361Z",
+      "detailCheckedAt": "2026-10-11T05:38:32.093Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "网站分析与洞察",
@@ -105075,7 +105159,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.256Z",
         "translatedAt": "2026-10-10T16:41:20.256Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a547b24c764819181ca4fefaafce08c": {
       "id": "plugin_asdk_app_6a547b24c764819181ca4fefaafce08c",
@@ -105120,7 +105205,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:15.363Z",
+      "detailCheckedAt": "2026-10-11T05:38:34.057Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "追踪社交媒体上的品牌提及",
@@ -105131,7 +105216,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.318Z",
         "translatedAt": "2026-10-10T16:41:20.318Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a00b1da0cf48191866e8ccfdd514289": {
       "id": "plugin_asdk_app_6a00b1da0cf48191866e8ccfdd514289",
@@ -105176,7 +105262,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:17.374Z",
+      "detailCheckedAt": "2026-10-11T05:38:35.823Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "搜索详细的规划数据",
@@ -105187,7 +105273,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.249Z",
         "translatedAt": "2026-10-10T16:41:20.249Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a67dedebdc481918874df3d348b4931": {
       "id": "plugin_asdk_app_6a67dedebdc481918874df3d348b4931",
@@ -105232,7 +105319,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:19.338Z",
+      "detailCheckedAt": "2026-10-11T05:38:37.501Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "危险查询与风险分析",
@@ -105243,7 +105330,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.291Z",
         "translatedAt": "2026-10-10T16:41:20.291Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a6b7507acac8191bf58510fd71bf9d1": {
       "id": "plugin_asdk_app_6a6b7507acac8191bf58510fd71bf9d1",
@@ -105289,7 +105377,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:21.327Z",
+      "detailCheckedAt": "2026-10-11T05:38:39.219Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "社会公益领域资助方研究",
@@ -105300,7 +105388,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.246Z",
         "translatedAt": "2026-10-10T16:41:20.246Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a03a83c004c81919cfb2ddb5dc605f3": {
       "id": "plugin_asdk_app_6a03a83c004c81919cfb2ddb5dc605f3",
@@ -105346,7 +105435,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:23.494Z",
+      "detailCheckedAt": "2026-10-11T05:38:41.036Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "处理营销数据",
@@ -105357,7 +105446,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.237Z",
         "translatedAt": "2026-10-10T16:41:20.237Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a709e3aa59c81919cf58da3451d6bc2": {
       "id": "plugin_asdk_app_6a709e3aa59c81919cf58da3451d6bc2",
@@ -105402,7 +105492,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:25.470Z",
+      "detailCheckedAt": "2026-10-11T05:38:43.055Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "查询个人与公司信息",
@@ -105413,7 +105503,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.297Z",
         "translatedAt": "2026-10-10T16:41:20.297Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69d9466015208191bd0299f399695968": {
       "id": "plugin_asdk_app_69d9466015208191bd0299f399695968",
@@ -105459,7 +105550,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:27.443Z",
+      "detailCheckedAt": "2026-10-11T05:38:44.855Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "查询所有应用中的数据",
@@ -105470,7 +105561,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.064Z",
         "translatedAt": "2026-10-10T16:41:20.064Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a316d9991cc8191be9e2fd3b45ee56a": {
       "id": "plugin_asdk_app_6a316d9991cc8191be9e2fd3b45ee56a",
@@ -105508,7 +105600,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:29.407Z",
+      "detailCheckedAt": "2026-10-11T05:38:46.675Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "询问货运数据",
@@ -105519,7 +105611,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.104Z",
         "translatedAt": "2026-10-10T16:41:20.104Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69de66a3ae6c8191a29deae81697d641": {
       "id": "plugin_asdk_app_69de66a3ae6c8191a29deae81697d641",
@@ -105565,7 +105658,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:31.371Z",
+      "detailCheckedAt": "2026-10-11T05:38:48.511Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "营销数据聚合",
@@ -105576,7 +105669,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.124Z",
         "translatedAt": "2026-10-10T16:41:20.124Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69a87595e18c81919121d76e18c959bd": {
       "id": "plugin_asdk_app_69a87595e18c81919121d76e18c959bd",
@@ -105621,7 +105715,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:33.418Z",
+      "detailCheckedAt": "2026-10-11T05:38:50.334Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "搜索全球政策数据",
@@ -105632,7 +105726,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.287Z",
         "translatedAt": "2026-10-10T16:41:20.287Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a5610d5d034819186cb063a811800aa": {
       "id": "plugin_asdk_app_6a5610d5d034819186cb063a811800aa",
@@ -105677,7 +105772,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:35.409Z",
+      "detailCheckedAt": "2026-10-11T05:38:52.099Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "询问营销数据。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。Shopify。HubSpot。4",
@@ -105688,7 +105783,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.087Z",
         "translatedAt": "2026-10-10T16:41:20.087Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a79a24c9b0c819197d220e7b655c8b5": {
       "id": "plugin_asdk_app_6a79a24c9b0c819197d220e7b655c8b5",
@@ -105733,7 +105829,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:37.405Z",
+      "detailCheckedAt": "2026-10-11T05:38:53.957Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "追踪品牌在大语言模型中的表现",
@@ -105744,7 +105840,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.282Z",
         "translatedAt": "2026-10-10T16:41:20.282Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a580170fa748191a74978c8467a9d6f": {
       "id": "plugin_asdk_app_6a580170fa748191a74978c8467a9d6f",
@@ -105789,7 +105886,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:40.424Z",
+      "detailCheckedAt": "2026-10-11T05:38:55.654Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "查询你的 Realpage 数据",
@@ -105800,7 +105897,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.294Z",
         "translatedAt": "2026-10-10T16:41:20.294Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a3eabbf663c819186dda21300243f8e": {
       "id": "plugin_asdk_app_6a3eabbf663c819186dda21300243f8e",
@@ -105845,7 +105943,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:42.441Z",
+      "detailCheckedAt": "2026-10-11T05:38:57.344Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "查询你的 Yuno 分析数据",
@@ -105856,7 +105954,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.173Z",
         "translatedAt": "2026-10-10T16:41:20.173Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a4d70c7c59c8191b189b2d3bca160ca": {
       "id": "plugin_asdk_app_6a4d70c7c59c8191b189b2d3bca160ca",
@@ -105902,7 +106001,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:44.386Z",
+      "detailCheckedAt": "2026-10-11T05:38:59.051Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "探索多户住宅数据",
@@ -105913,7 +106012,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.030Z",
         "translatedAt": "2026-10-10T16:41:20.030Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a7b7fbdd6248191a6d7fb66123c5a8f": {
       "id": "plugin_asdk_app_6a7b7fbdd6248191a6d7fb66123c5a8f",
@@ -105959,7 +106059,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:46.342Z",
+      "detailCheckedAt": "2026-10-11T05:39:00.946Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "注重隐私的分析",
@@ -105970,7 +106070,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.184Z",
         "translatedAt": "2026-10-10T16:41:20.184Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a2534eb69588191a6e1a9d3dbff642d": {
       "id": "plugin_asdk_app_6a2534eb69588191a6e1a9d3dbff642d",
@@ -106015,7 +106116,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:48.572Z",
+      "detailCheckedAt": "2026-10-11T05:39:02.728Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "网站分析证据",
@@ -106026,7 +106127,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.248Z",
         "translatedAt": "2026-10-10T16:41:20.248Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a623ee04d488191a233bbb316dcd84d": {
       "id": "plugin_asdk_app_6a623ee04d488191a233bbb316dcd84d",
@@ -106071,7 +106173,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:50.557Z",
+      "detailCheckedAt": "2026-10-11T05:39:04.418Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "与 Evidence 数据对话",
@@ -106082,7 +106184,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.211Z",
         "translatedAt": "2026-10-10T16:41:20.211Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a550573ca1481919b3bb28af7c8a2c7": {
       "id": "plugin_asdk_app_6a550573ca1481919b3bb28af7c8a2c7",
@@ -106127,7 +106230,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:52.525Z",
+      "detailCheckedAt": "2026-10-11T05:39:06.187Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "追踪品牌在 AI 对话中的表现",
@@ -106138,7 +106241,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.321Z",
         "translatedAt": "2026-10-10T16:41:20.321Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a2824334d588191b362051e122252dc": {
       "id": "plugin_asdk_app_6a2824334d588191b362051e122252dc",
@@ -106183,7 +106287,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:54.542Z",
+      "detailCheckedAt": "2026-10-11T05:39:08.028Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "估值并研究飞机",
@@ -106194,7 +106298,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.170Z",
         "translatedAt": "2026-10-10T16:41:20.170Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a08cc516b00819185f774d7e6c9205a": {
       "id": "plugin_asdk_app_6a08cc516b00819185f774d7e6c9205a",
@@ -106239,7 +106344,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:56.601Z",
+      "detailCheckedAt": "2026-10-11T05:39:09.862Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "干旱分析",
@@ -106250,7 +106355,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.203Z",
         "translatedAt": "2026-10-10T16:41:20.203Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69b9dc048c288191955640d6adcd00b4": {
       "id": "plugin_asdk_app_69b9dc048c288191955640d6adcd00b4",
@@ -106296,7 +106402,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:35:58.659Z",
+      "detailCheckedAt": "2026-10-11T05:39:11.621Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "搜索华盛顿特区政府合同",
@@ -106307,7 +106413,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.198Z",
         "translatedAt": "2026-10-10T16:41:20.198Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996": {
       "id": "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996",
@@ -106352,7 +106459,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:00.679Z",
+      "detailCheckedAt": "2026-10-11T05:39:13.348Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "AI 原生企业技术画像",
@@ -106363,7 +106470,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.351Z",
         "translatedAt": "2026-10-10T16:41:20.351Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69a6ce9775ac8191a7d4b9ea0cfa5e36": {
       "id": "plugin_asdk_app_69a6ce9775ac8191a7d4b9ea0cfa5e36",
@@ -106409,7 +106517,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:02.753Z",
+      "detailCheckedAt": "2026-10-11T05:39:15.044Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "品牌 AI 可见度智能体",
@@ -106420,7 +106528,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.048Z",
         "translatedAt": "2026-10-10T16:41:20.048Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a2792c624bc81919203ca37f2002068": {
       "id": "plugin_asdk_app_6a2792c624bc81919203ca37f2002068",
@@ -106465,7 +106574,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:04.802Z",
+      "detailCheckedAt": "2026-10-11T05:39:16.839Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "分析调查问卷回复",
@@ -106476,7 +106585,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.180Z",
         "translatedAt": "2026-10-10T16:41:20.180Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a2b5f32daec8191816385768400869f": {
       "id": "plugin_asdk_app_6a2b5f32daec8191816385768400869f",
@@ -106521,7 +106631,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:06.790Z",
+      "detailCheckedAt": "2026-10-11T05:39:18.559Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "连接农场数据",
@@ -106532,7 +106642,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.342Z",
         "translatedAt": "2026-10-10T16:41:20.342Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a0b6f15203881919f5b90e74321fb24": {
       "id": "plugin_asdk_app_6a0b6f15203881919f5b90e74321fb24",
@@ -106578,7 +106689,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:08.790Z",
+      "detailCheckedAt": "2026-10-11T05:39:20.267Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "连接客户洞察",
@@ -106589,7 +106700,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.210Z",
         "translatedAt": "2026-10-10T16:41:20.210Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a4a5924bbe08191adba09cf6018cd21": {
       "id": "plugin_asdk_app_6a4a5924bbe08191adba09cf6018cd21",
@@ -106634,7 +106746,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:10.880Z",
+      "detailCheckedAt": "2026-10-11T05:39:21.968Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "受治理的Azadea商业智能洞察",
@@ -106645,7 +106757,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.040Z",
         "translatedAt": "2026-10-10T16:41:20.040Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a7c7752de408191a101b78e59fda025": {
       "id": "plugin_asdk_app_6a7c7752de408191a101b78e59fda025",
@@ -106690,7 +106803,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:13.119Z",
+      "detailCheckedAt": "2026-10-11T05:39:23.660Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "实验与产品数据",
@@ -106701,7 +106814,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.197Z",
         "translatedAt": "2026-10-10T16:41:20.197Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a60a8b378ec8191b43d237119f7fa0d": {
       "id": "plugin_asdk_app_6a60a8b378ec8191b43d237119f7fa0d",
@@ -106746,7 +106860,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:15.090Z",
+      "detailCheckedAt": "2026-10-11T05:39:25.549Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "追踪应用商店排名",
@@ -106757,7 +106871,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.041Z",
         "translatedAt": "2026-10-10T16:41:20.041Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_696cfe921f98819195e54b7c46666164": {
       "id": "plugin_asdk_app_696cfe921f98819195e54b7c46666164",
@@ -106802,7 +106917,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:17.192Z",
+      "detailCheckedAt": "2026-10-11T05:39:27.243Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "查找英国法律住房数据",
@@ -106813,7 +106928,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.296Z",
         "translatedAt": "2026-10-10T16:41:20.296Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a577b9a9b94819188c363160d99cefb": {
       "id": "plugin_asdk_app_6a577b9a9b94819188c363160d99cefb",
@@ -106858,7 +106974,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:19.294Z",
+      "detailCheckedAt": "2026-10-11T05:39:28.943Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "管理数据管道",
@@ -106869,7 +106985,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.212Z",
         "translatedAt": "2026-10-10T16:41:20.212Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69d61a063cac8191a0694067973607e1": {
       "id": "plugin_asdk_app_69d61a063cac8191a0694067973607e1",
@@ -106914,7 +107031,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:21.381Z",
+      "detailCheckedAt": "2026-10-11T05:39:30.761Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "分析表单提交",
@@ -106925,7 +107042,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.219Z",
         "translatedAt": "2026-10-10T16:41:20.219Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69a21510293c8191bdd3a807d501c389": {
       "id": "plugin_asdk_app_69a21510293c8191bdd3a807d501c389",
@@ -106971,7 +107089,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:23.392Z",
+      "detailCheckedAt": "2026-10-11T05:39:32.771Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "查询数据并生成洞察",
@@ -106982,7 +107100,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.079Z",
         "translatedAt": "2026-10-10T16:41:20.079Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a722f577c248191ae60b6afb988342e": {
       "id": "plugin_asdk_app_6a722f577c248191ae60b6afb988342e",
@@ -107027,7 +107146,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:25.398Z",
+      "detailCheckedAt": "2026-10-11T05:39:34.503Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "对话式网站分析",
@@ -107038,7 +107157,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.303Z",
         "translatedAt": "2026-10-10T16:41:20.303Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a8774407d4081919100aae8d18bba79": {
       "id": "plugin_asdk_app_6a8774407d4081919100aae8d18bba79",
@@ -107083,7 +107203,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:27.403Z",
+      "detailCheckedAt": "2026-10-11T05:39:36.256Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "打造内容，赢得 AI 搜索",
@@ -107094,7 +107214,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.027Z",
         "translatedAt": "2026-10-10T16:41:20.027Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a7634d6666c8191b3983771aab9f0d7": {
       "id": "plugin_asdk_app_6a7634d6666c8191b3983771aab9f0d7",
@@ -107139,7 +107260,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:29.489Z",
+      "detailCheckedAt": "2026-10-11T05:39:37.997Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "全球商标数据",
@@ -107150,7 +107271,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.183Z",
         "translatedAt": "2026-10-10T16:41:20.183Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a63863d58c081918f626f59a683791e": {
       "id": "plugin_asdk_app_6a63863d58c081918f626f59a683791e",
@@ -107195,7 +107317,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:31.585Z",
+      "detailCheckedAt": "2026-10-11T05:39:39.820Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "查找并分析美国房产。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。费用信息见原文。",
@@ -107206,7 +107328,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.110Z",
         "translatedAt": "2026-10-10T16:41:20.110Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a54bd377acc8191ab61241cccd56979": {
       "id": "plugin_asdk_app_6a54bd377acc8191ab61241cccd56979",
@@ -107225,7 +107348,7 @@
       "legacySummaryOriginal": "Graded Pokémon card prices",
       "lastSeenAt": "2026-10-11T04:45:14.560Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "pokeka is a market reference for graded Pokémon trading cards. Ask in plain language — even collector nicknames like \"Moonbreon\" — and get the exact card identity (set and number), a representative market value with date, 30/90-day trend, and scarcity signals. It covers Japanese, English, and Simplified-Chinese cards with a separate market-data track for each language. Data comes from verified auction results and is refreshed continuously.",
+      "description": "POKEKA helps identify Pokémon cards, compare graded-card price evidence, inspect sets and follow market trends. Search by names, set numbers or collector nicknames. Japanese, English and Simplified-Chinese card markets stay separate. Results include available dates, grades, sources and evidence limits; thin samples and single sales are distinguished from representative prices. Public queries work without an account. Optionally connect an existing POKEKA account to use its current access permissions and revoke access from POKEKA at any time.",
       "information": [
         {
           "label": "Developer",
@@ -107234,7 +107357,7 @@
         },
         {
           "label": "Category",
-          "value": "Data & Analytics",
+          "value": "Other",
           "links": []
         },
         {
@@ -107246,12 +107369,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:33.642Z",
+      "detailCheckedAt": "2026-10-11T05:39:41.605Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "有评级宝可梦卡牌价格",
@@ -107262,7 +107385,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.136Z",
         "translatedAt": "2026-10-10T16:41:20.136Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a552795016c8191b525649af7df1a78": {
       "id": "plugin_asdk_app_6a552795016c8191b525649af7df1a78",
@@ -107308,7 +107432,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:35.708Z",
+      "detailCheckedAt": "2026-10-11T05:39:43.345Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "了解你的用户",
@@ -107319,7 +107443,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.048Z",
         "translatedAt": "2026-10-10T16:41:20.048Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a85a87c8ab881918ae0123f7314759e": {
       "id": "plugin_asdk_app_6a85a87c8ab881918ae0123f7314759e",
@@ -107364,7 +107489,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:37.723Z",
+      "detailCheckedAt": "2026-10-11T05:39:45.045Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "分析影院和市场数据",
@@ -107375,7 +107500,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.039Z",
         "translatedAt": "2026-10-10T16:41:20.039Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a202fec83d08191a190caf5d024e893": {
       "id": "plugin_asdk_app_6a202fec83d08191a190caf5d024e893",
@@ -107420,7 +107546,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:39.768Z",
+      "detailCheckedAt": "2026-10-11T05:39:46.728Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "与你的业务数据对话",
@@ -107431,7 +107557,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.171Z",
         "translatedAt": "2026-10-10T16:41:20.171Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a7f1d4e9f388191ab1e0f00bf041b2b": {
       "id": "plugin_asdk_app_6a7f1d4e9f388191ab1e0f00bf041b2b",
@@ -107477,7 +107604,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:41.753Z",
+      "detailCheckedAt": "2026-10-11T05:39:48.684Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "查找并分析创作者。3。3。3。3。3。3。3。3。3。3。3。3。3。3。3。3。3。3。3。3。3。3。3。3。3。3。3。3。3。3。3。19",
@@ -107488,7 +107615,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.113Z",
         "translatedAt": "2026-10-10T16:41:20.113Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a79cfc7d22081918410284c05c5cdeb": {
       "id": "plugin_asdk_app_6a79cfc7d22081918410284c05c5cdeb",
@@ -107533,7 +107661,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:44.514Z",
+      "detailCheckedAt": "2026-10-11T05:39:50.403Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "AI 冲浪预报",
@@ -107544,7 +107672,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.339Z",
         "translatedAt": "2026-10-10T16:41:20.339Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69e0ace8682481919ed9bce7fb231a52": {
       "id": "plugin_asdk_app_69e0ace8682481919ed9bce7fb231a52",
@@ -107590,7 +107719,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:46.527Z",
+      "detailCheckedAt": "2026-10-11T05:39:52.283Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "查询营销数据仓库。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。该功能为只读。Shopify。200",
@@ -107601,7 +107730,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.142Z",
         "translatedAt": "2026-10-10T16:41:20.142Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a515f15215c819196d35d1462b6c542": {
       "id": "plugin_asdk_app_6a515f15215c819196d35d1462b6c542",
@@ -107647,7 +107777,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:48.491Z",
+      "detailCheckedAt": "2026-10-11T05:39:54.003Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "发布商网站分析",
@@ -107658,7 +107788,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.212Z",
         "translatedAt": "2026-10-10T16:41:20.212Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a0d6c1e67588191b68c0492dfbfe1da": {
       "id": "plugin_asdk_app_6a0d6c1e67588191b68c0492dfbfe1da",
@@ -107703,7 +107834,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:50.477Z",
+      "detailCheckedAt": "2026-10-11T05:39:55.793Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "随时向你的数据提问",
@@ -107714,7 +107845,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.158Z",
         "translatedAt": "2026-10-10T16:41:20.158Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a7ddd659a0c8191baa547c058e400bb": {
       "id": "plugin_asdk_app_6a7ddd659a0c8191baa547c058e400bb",
@@ -107759,7 +107891,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:52.492Z",
+      "detailCheckedAt": "2026-10-11T05:39:57.487Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "物流运营分析",
@@ -107770,7 +107902,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.307Z",
         "translatedAt": "2026-10-10T16:41:20.307Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6970b8cdeb548191ae0bf1a90bf4a5f5": {
       "id": "plugin_asdk_app_6970b8cdeb548191ae0bf1a90bf4a5f5",
@@ -107816,7 +107949,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:54.537Z",
+      "detailCheckedAt": "2026-10-11T05:39:59.224Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "查询职业板式网球数据",
@@ -107827,7 +107960,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.277Z",
         "translatedAt": "2026-10-10T16:41:20.277Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a5e636eabcc8191b055490191e2a3ee": {
       "id": "plugin_asdk_app_6a5e636eabcc8191b055490191e2a3ee",
@@ -107873,7 +108007,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:56.551Z",
+      "detailCheckedAt": "2026-10-11T05:40:01.069Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "面向智能体的会话回放",
@@ -107884,7 +108018,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.157Z",
         "translatedAt": "2026-10-10T16:41:20.157Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a68a3cbbb9481918cc81087bc39a17a": {
       "id": "plugin_asdk_app_6a68a3cbbb9481918cc81087bc39a17a",
@@ -107930,7 +108065,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:36:58.594Z",
+      "detailCheckedAt": "2026-10-11T05:40:02.752Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "迪拜房地产数据",
@@ -107941,7 +108076,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.141Z",
         "translatedAt": "2026-10-10T16:41:20.141Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a90b43d9c3c8191ba99cecd23423232": {
       "id": "plugin_asdk_app_6a90b43d9c3c8191ba99cecd23423232",
@@ -107986,7 +108122,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:00.549Z",
+      "detailCheckedAt": "2026-10-11T05:40:04.446Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "真实应用界面和 A/B 测试",
@@ -107997,7 +108133,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.250Z",
         "translatedAt": "2026-10-10T16:41:20.250Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a73741a42848191a598382633e8bc0a": {
       "id": "plugin_asdk_app_6a73741a42848191a598382633e8bc0a",
@@ -108042,7 +108179,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:02.560Z",
+      "detailCheckedAt": "2026-10-11T05:40:06.175Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "分析 AI 搜索带来的流量",
@@ -108053,7 +108190,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.339Z",
         "translatedAt": "2026-10-10T16:41:20.339Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a8cc6dc38ac819198b700b1b4e67fb0": {
       "id": "plugin_asdk_app_6a8cc6dc38ac819198b700b1b4e67fb0",
@@ -108098,7 +108236,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:04.655Z",
+      "detailCheckedAt": "2026-10-11T05:40:07.951Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "人员与公司数据",
@@ -108109,7 +108247,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.195Z",
         "translatedAt": "2026-10-10T16:41:20.195Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_696a80064378819184c212f6244021ec": {
       "id": "plugin_asdk_app_696a80064378819184c212f6244021ec",
@@ -108155,7 +108294,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:06.649Z",
+      "detailCheckedAt": "2026-10-11T05:40:09.781Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "零售洞察助手",
@@ -108166,7 +108305,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.276Z",
         "translatedAt": "2026-10-10T16:41:20.276Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a888e2ed7288191b4a7a5789517b783": {
       "id": "plugin_asdk_app_6a888e2ed7288191b4a7a5789517b783",
@@ -108212,7 +108352,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:08.680Z",
+      "detailCheckedAt": "2026-10-11T05:40:11.480Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "追踪 AI 搜索曝光度、AEO 和 GEO",
@@ -108223,7 +108363,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.215Z",
         "translatedAt": "2026-10-10T16:41:20.215Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a21d9628cac8191bfe79ebbbf898379": {
       "id": "plugin_asdk_app_6a21d9628cac8191bfe79ebbbf898379",
@@ -108268,7 +108409,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:10.697Z",
+      "detailCheckedAt": "2026-10-11T05:40:13.365Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "电商销售分析",
@@ -108279,7 +108420,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.104Z",
         "translatedAt": "2026-10-10T16:41:20.104Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a8163d9224c81919fcf99ae872b223e": {
       "id": "plugin_asdk_app_6a8163d9224c81919fcf99ae872b223e",
@@ -108324,7 +108466,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:12.697Z",
+      "detailCheckedAt": "2026-10-11T05:40:15.035Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "监控并分析评论",
@@ -108335,7 +108477,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.145Z",
         "translatedAt": "2026-10-10T16:41:20.145Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a5c0b47f55c8191a0dd3096012dfce0": {
       "id": "plugin_asdk_app_6a5c0b47f55c8191a0dd3096012dfce0",
@@ -108381,7 +108524,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:14.786Z",
+      "detailCheckedAt": "2026-10-11T05:40:16.736Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "管理客户反馈",
@@ -108392,7 +108535,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.308Z",
         "translatedAt": "2026-10-10T16:41:20.308Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a5f43058c0081918bcb6f6c4aeaaaec": {
       "id": "plugin_asdk_app_6a5f43058c0081918bcb6f6c4aeaaaec",
@@ -108437,7 +108581,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:16.801Z",
+      "detailCheckedAt": "2026-10-11T05:40:18.431Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "Shopify 利润和广告分析",
@@ -108448,7 +108592,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.243Z",
         "translatedAt": "2026-10-10T16:41:20.243Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69f0459f7b508191a7cc3188d4f1a2ff": {
       "id": "plugin_asdk_app_69f0459f7b508191a7cc3188d4f1a2ff",
@@ -108493,7 +108638,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:18.851Z",
+      "detailCheckedAt": "2026-10-11T05:40:20.135Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "完整建筑生命周期评估",
@@ -108504,7 +108649,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.294Z",
         "translatedAt": "2026-10-10T16:41:20.294Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a91a85bf4a08191af8367df88e7f0c8": {
       "id": "plugin_asdk_app_6a91a85bf4a08191af8367df88e7f0c8",
@@ -108549,7 +108695,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:20.835Z",
+      "detailCheckedAt": "2026-10-11T05:40:22.066Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "用 SQL 研究网页",
@@ -108560,7 +108706,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.245Z",
         "translatedAt": "2026-10-10T16:41:20.245Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a6a0f6c3d2c8191a795d56bd1973f34": {
       "id": "plugin_asdk_app_6a6a0f6c3d2c8191a795d56bd1973f34",
@@ -108605,7 +108752,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:22.844Z",
+      "detailCheckedAt": "2026-10-11T05:40:23.797Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "研究法律数据",
@@ -108616,7 +108763,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.044Z",
         "translatedAt": "2026-10-10T16:41:20.044Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a0ed52f792c8191a57a8423306bcba8": {
       "id": "plugin_asdk_app_6a0ed52f792c8191a57a8423306bcba8",
@@ -108661,7 +108809,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:24.832Z",
+      "detailCheckedAt": "2026-10-11T05:40:25.614Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "查询 Steep 工作区数据",
@@ -108672,7 +108820,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.315Z",
         "translatedAt": "2026-10-10T16:41:20.315Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a5a300495f88191bc275d9a593a4acb": {
       "id": "plugin_asdk_app_6a5a300495f88191bc275d9a593a4acb",
@@ -108717,7 +108866,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:26.767Z",
+      "detailCheckedAt": "2026-10-11T05:40:27.424Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "波多黎各和哥伦比亚房地产数据",
@@ -108728,7 +108877,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.144Z",
         "translatedAt": "2026-10-10T16:41:20.144Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69b1bc3173c08191afcd571ab8fe39f7": {
       "id": "plugin_asdk_app_69b1bc3173c08191afcd571ab8fe39f7",
@@ -108773,7 +108923,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:28.764Z",
+      "detailCheckedAt": "2026-10-11T05:40:29.245Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "分析问卷回复",
@@ -108784,7 +108934,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.295Z",
         "translatedAt": "2026-10-10T16:41:20.295Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a75e68905488191bda0b28770747e7d": {
       "id": "plugin_asdk_app_6a75e68905488191bda0b28770747e7d",
@@ -108829,7 +108980,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:30.751Z",
+      "detailCheckedAt": "2026-10-11T05:40:31.001Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "询问商店数据",
@@ -108840,7 +108991,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.056Z",
         "translatedAt": "2026-10-10T16:41:20.056Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a8aed3672d88191aed6ca08dfa7169a": {
       "id": "plugin_asdk_app_6a8aed3672d88191aed6ca08dfa7169a",
@@ -108885,7 +109037,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:32.770Z",
+      "detailCheckedAt": "2026-10-11T05:40:33.480Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "韩国房地产实际成交价格",
@@ -108896,7 +109048,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.295Z",
         "translatedAt": "2026-10-10T16:41:20.295Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69f2c16423b081919ad4d1358924bb2f": {
       "id": "plugin_asdk_app_69f2c16423b081919ad4d1358924bb2f",
@@ -108942,7 +109095,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:34.757Z",
+      "detailCheckedAt": "2026-10-11T05:40:35.271Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "数字营销智能。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。需要满足相关要求。请确认相关信息。",
@@ -108953,7 +109106,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.115Z",
         "translatedAt": "2026-10-10T16:41:20.115Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a741648ade4819196fed96231554d55": {
       "id": "plugin_asdk_app_6a741648ade4819196fed96231554d55",
@@ -108999,7 +109153,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:36.774Z",
+      "detailCheckedAt": "2026-10-11T05:40:36.954Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "查询经核实的 NFL 统计数据",
@@ -109010,7 +109164,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.267Z",
         "translatedAt": "2026-10-10T16:41:20.267Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a0f9ab98bf4819197de479522d5367b": {
       "id": "plugin_asdk_app_6a0f9ab98bf4819197de479522d5367b",
@@ -109055,7 +109210,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:38.813Z",
+      "detailCheckedAt": "2026-10-11T05:40:38.644Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "受治理的知识层",
@@ -109066,7 +109221,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.038Z",
         "translatedAt": "2026-10-10T16:41:20.038Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a91fcd93878819188347d20f83fe2ee": {
       "id": "plugin_asdk_app_6a91fcd93878819188347d20f83fe2ee",
@@ -109112,7 +109268,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:40.895Z",
+      "detailCheckedAt": "2026-10-11T05:40:40.456Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "基于你治理的数据提供答案",
@@ -109123,7 +109279,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.171Z",
         "translatedAt": "2026-10-10T16:41:20.171Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a72f0eca32c8191adfbab4247d5f0e0": {
       "id": "plugin_asdk_app_6a72f0eca32c8191adfbab4247d5f0e0",
@@ -109168,7 +109325,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:42.933Z",
+      "detailCheckedAt": "2026-10-11T05:40:42.196Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "电商市场情报",
@@ -109179,7 +109336,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.160Z",
         "translatedAt": "2026-10-10T16:41:20.160Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a57223c7e648191b790ff2f49e8c201": {
       "id": "plugin_asdk_app_6a57223c7e648191b790ff2f49e8c201",
@@ -109225,7 +109383,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:44.953Z",
+      "detailCheckedAt": "2026-10-11T05:40:43.866Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "检查 DMARC、SPF 和 DKIM",
@@ -109236,7 +109394,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.288Z",
         "translatedAt": "2026-10-10T16:41:20.288Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a5259b0384881919be9cb3139943abc": {
       "id": "plugin_asdk_app_6a5259b0384881919be9cb3139943abc",
@@ -109281,7 +109440,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:46.982Z",
+      "detailCheckedAt": "2026-10-11T05:40:45.705Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "探索电信数据",
@@ -109292,7 +109451,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.196Z",
         "translatedAt": "2026-10-10T16:41:20.196Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_69f4972405788191a6dab94f75b03359": {
       "id": "plugin_asdk_app_69f4972405788191a6dab94f75b03359",
@@ -109337,7 +109497,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:48.998Z",
+      "detailCheckedAt": "2026-10-11T05:40:47.572Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "了解你的空间",
@@ -109348,7 +109508,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.160Z",
         "translatedAt": "2026-10-10T16:41:20.160Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_698e0691d8c88191815179bf248d70a8": {
       "id": "plugin_asdk_app_698e0691d8c88191815179bf248d70a8",
@@ -109393,7 +109554,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:50.954Z",
+      "detailCheckedAt": "2026-10-11T05:40:49.307Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "查询区块链数据",
@@ -109404,7 +109565,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.047Z",
         "translatedAt": "2026-10-10T16:41:20.047Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a957b8200648191b556653d13ff522c": {
       "id": "plugin_asdk_app_6a957b8200648191b556653d13ff522c",
@@ -109449,7 +109611,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:52.988Z",
+      "detailCheckedAt": "2026-10-11T05:40:51.106Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "将实时广告转化为 AI 上下文",
@@ -109460,7 +109622,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.333Z",
         "translatedAt": "2026-10-10T16:41:20.333Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a563d3b76d48191813a111ffd7b5e0a": {
       "id": "plugin_asdk_app_6a563d3b76d48191813a111ffd7b5e0a",
@@ -109505,7 +109668,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:55.020Z",
+      "detailCheckedAt": "2026-10-11T05:40:52.886Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "每日指挥",
@@ -109516,7 +109679,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.086Z",
         "translatedAt": "2026-10-10T16:41:20.086Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a57093e90e081918a8013806c91517a": {
       "id": "plugin_asdk_app_6a57093e90e081918a8013806c91517a",
@@ -109535,7 +109699,7 @@
       "legacySummaryOriginal": "SEO and competitor analysis",
       "lastSeenAt": "2026-10-11T04:45:14.560Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Research keywords, analyze competitors, check search rankings, and track your own site's search traffic with cited, up-to-date data. Find keywords worth targeting, see why a competitor outranks you, audit a site for technical issues, and review your own Search Console and Analytics for clicks, sources, and positions after connecting those accounts. Useful for keyword discovery, competitor gap analysis, and monitoring traffic over time.",
+      "description": "Research keywords, analyze competitors, check search rankings, and track your own site's search traffic and ad spend with cited, up-to-date data. Find keywords worth targeting, see why a competitor outranks you, audit a site for technical issues, and review your own Search Console, Analytics, and Google Ads for clicks, sources, positions, spend, and conversions after connecting those accounts. Useful for keyword discovery, competitor gap analysis, monitoring traffic over time, and seeing which campaigns are paying off.",
       "information": [
         {
           "label": "Developer",
@@ -109556,12 +109720,12 @@
         },
         {
           "label": "Version",
-          "value": "2.0.1",
+          "value": "3.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:57.311Z",
+      "detailCheckedAt": "2026-10-11T05:40:54.744Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "SEO 与竞争对手分析",
@@ -109572,7 +109736,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.275Z",
         "translatedAt": "2026-10-10T16:41:20.275Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a70caed62fc819199e8466cd66de26e": {
       "id": "plugin_asdk_app_6a70caed62fc819199e8466cd66de26e",
@@ -109617,7 +109782,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:37:59.331Z",
+      "detailCheckedAt": "2026-10-11T05:40:56.452Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "集中管理酒庄数据",
@@ -109628,7 +109793,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.270Z",
         "translatedAt": "2026-10-10T16:41:20.270Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a3b8ade83ec8191956643d17852b477": {
       "id": "plugin_asdk_app_6a3b8ade83ec8191956643d17852b477",
@@ -109673,7 +109839,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:38:01.339Z",
+      "detailCheckedAt": "2026-10-11T05:40:58.251Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "免费 SEO 关键词创意",
@@ -109684,7 +109850,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.246Z",
         "translatedAt": "2026-10-10T16:41:20.246Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a26ec50353c8191b5774172b9a972cb": {
       "id": "plugin_asdk_app_6a26ec50353c8191b5774172b9a972cb",
@@ -109730,7 +109897,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:38:03.367Z",
+      "detailCheckedAt": "2026-10-11T05:40:59.952Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "查询组织数据",
@@ -109741,7 +109908,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.197Z",
         "translatedAt": "2026-10-10T16:41:20.197Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a9c3aa2320c81918c620f6f8b29aeca": {
       "id": "plugin_asdk_app_6a9c3aa2320c81918c620f6f8b29aeca",
@@ -109786,7 +109954,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-03T16:38:05.366Z",
+      "detailCheckedAt": "2026-10-11T05:41:01.629Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "研究 YouTube 视频",
@@ -109797,7 +109965,8 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-10T16:41:20.331Z",
         "translatedAt": "2026-10-10T16:41:20.331Z"
-      }
+      },
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a20231ac46c8191af38748cff7dcf93": {
       "id": "plugin_asdk_app_6a20231ac46c8191af38748cff7dcf93",
@@ -286075,9 +286244,9 @@
     "runId": "38112457322",
     "runAttempt": "1",
     "startedAt": "2026-10-11T04:43:31.811Z",
-    "updatedAt": "2026-10-11T05:35:57.477Z",
+    "updatedAt": "2026-10-11T05:41:01.629Z",
     "mode": "incremental",
-    "detailRequests": 1672,
+    "detailRequests": 1841,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
@@ -286088,11 +286257,11 @@
     "stats": {
       "total": 4112,
       "details": 4112,
-      "translated": 4079,
+      "translated": 4077,
       "missing": 2,
       "removed": 87,
       "pendingDetails": 1,
-      "pendingTranslations": 33
+      "pendingTranslations": 35
     }
   }
 }
