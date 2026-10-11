@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-10T16:43:06.318Z",
-  "total": 4114,
-  "details": 4114,
-  "translated": 4109,
-  "missing": 10,
-  "removed": 78,
-  "pendingDetails": 0,
-  "pendingTranslations": 5,
+  "generatedAt": "2026-10-11T04:45:14.750Z",
+  "total": 4112,
+  "details": 4105,
+  "translated": 4098,
+  "missing": 2,
+  "removed": 87,
+  "pendingDetails": 9,
+  "pendingTranslations": 14,
   "lastRun": {
-    "runId": "38068645872",
+    "runId": "38112457322",
     "runAttempt": "1",
-    "startedAt": "2026-10-10T16:41:21.350Z",
-    "updatedAt": "2026-10-10T16:43:02.479Z",
-    "mode": "translate",
+    "startedAt": "2026-10-11T04:43:31.811Z",
+    "updatedAt": "2026-10-11T04:45:14.569Z",
+    "mode": "incremental",
     "detailRequests": 0,
-    "translationRequests": 11,
-    "translationAttempts": 5,
-    "translationLimit": 50,
-    "aiConfigured": true,
+    "translationRequests": 0,
+    "translationAttempts": 0,
+    "translationLimit": 250,
+    "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 5,
+    "errors": 0,
     "stats": {
-      "total": 4114,
-      "details": 4114,
-      "translated": 4109,
-      "missing": 10,
-      "removed": 78,
-      "pendingDetails": 0,
-      "pendingTranslations": 5
+      "total": 4112,
+      "details": 4105,
+      "translated": 4098,
+      "missing": 2,
+      "removed": 87,
+      "pendingDetails": 9,
+      "pendingTranslations": 14
     }
   },
   "lastScan": {
-    "id": "38025747139",
-    "at": "2026-10-10T04:57:53.084Z",
+    "id": "38112457322",
+    "at": "2026-10-11T04:45:14.560Z",
     "complete": true,
-    "seen": 4104,
-    "previous": 4098,
+    "seen": 4110,
+    "previous": 4114,
     "categories": [
       {
         "category": "featured",
@@ -60,7 +60,7 @@
       },
       {
         "category": "creativity",
-        "count": 210,
+        "count": 211,
         "status": "stable-observed"
       },
       {
@@ -75,7 +75,7 @@
       },
       {
         "category": "data-and-analytics",
-        "count": 289,
+        "count": 290,
         "status": "stable-observed"
       },
       {
@@ -85,7 +85,7 @@
       },
       {
         "category": "education-and-research",
-        "count": 294,
+        "count": 295,
         "status": "stable-observed"
       },
       {
@@ -110,7 +110,7 @@
       },
       {
         "category": "travel",
-        "count": 413,
+        "count": 416,
         "status": "stable-observed"
       },
       {
