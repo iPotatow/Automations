@@ -45196,13 +45196,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "制作可分块打印的海报",
       "legacySummaryOriginal": "Make tiled posters",
       "lastSeenAt": "2026-10-12T05:00:42.528Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "PrintTiler helps users find printable poster ideas and generate configured editor links for tiled posters. The app can search PrintTiler's public idea catalog and create editor links with paper size, grid, orientation, poster dimensions, and print mode already set.",
+      "description": "PrintTiler helps users find printable poster ideas, calculate tiled layouts for a target physical size, and open a preconfigured editor link to print one image across ordinary A-series or US paper. It supports AI-generated artwork and public image or share links. Local uploads are processed in the browser, and the final PDF is generated in the browser; PrintTiler does not retain local uploaded images or generated PDFs. Public remote image links may be fetched through a server proxy for browser compatibility. The user reviews and adjusts the layout in PrintTiler, where export eligibility and any payment remain under PrintTiler's control.",
       "information": [
         {
           "label": "Developer",
@@ -45223,12 +45223,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-11T05:08:23.256Z",
+      "detailCheckedAt": "2026-10-12T05:01:15.753Z",
       "translationAttemptRun": "37202584253:1",
       "translation": {
         "summary": "制作拼接海报",
@@ -240456,7 +240456,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-12T05:00:42.528Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "information": []
+      "detailDue": false,
+      "description": "Project Plan 365 lets you work with Microsoft Project (MS Project) and MPP files directly in ChatGPT. Create and manage project plans and Gantt chart schedules, open and analyze existing Microsoft Project MPP files, and review tasks, milestones, dates, durations, resources, assignments, dependencies, progress, and critical paths. Update project schedules using natural language, then download the updated MPP file or open it in Project Plan 365. Simplify project planning and project management while keeping your plans compatible with the Microsoft Project MPP file format.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Housatonic Software",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Productivity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.projectplan365.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-12T05:00:47.664Z",
+      "detailFailures": 0
     },
     "plugin_connector_692de805e3ec8191834719067174a384": {
       "id": "plugin_connector_692de805e3ec8191834719067174a384",
@@ -240471,7 +240499,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-12T05:00:42.528Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "information": []
+      "detailDue": false,
+      "description": "The Atlassian Rovo MCP Server connects ChatGPT to your Atlassian workspace, so you can work with Jira, Confluence, and Compass directly from your conversation.\n\nFind and summarize Jira issues, create and update tickets, transition statuses, and add comments without switching tabs. Search, read, draft, and edit Confluence pages with full context. Explore Compass components and their related issues and documentation.\n\nThe Atlassian Rovo MCP Server supports both read and write actions, enabling you to retrieve information and take action in real time. It also includes dedicated UI components for Jira and Confluence, making issue details, page content, and updates easier to review and act on directly within ChatGPT.\n\nMore Atlassian products are coming soon.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Interactive, Write",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "Atlassian",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Productivity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.atlassian.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.7",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-12T05:00:49.332Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aad401c01088191b7592ff835ecda56": {
       "id": "plugin_asdk_app_6aad401c01088191b7592ff835ecda56",
@@ -240486,7 +240547,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-12T05:00:42.528Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "information": []
+      "detailDue": false,
+      "description": "Connect your WordPress site to ChatGPT with Jetpack AI. Publish and update content, manage plugins and settings, and work through routine admin without jumping into WordPress for every change.\n\nJetpack’s ChatGPT plugin uses the full WordPress.com MCP toolkit.\n\nRequires the Jetpack plugin active on your site.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Automattic Inc.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://jetpack.com/ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-12T05:00:50.987Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa2f36b5a8881919636a2e0e507c8bb": {
       "id": "plugin_asdk_app_6aa2f36b5a8881919636a2e0e507c8bb",
@@ -240501,7 +240590,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-12T05:00:42.528Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "information": []
+      "detailDue": false,
+      "description": "AlterVision helps retail teams analyze visitor traffic, sales, conversion rates, and progress toward store and seller targets. Connect an existing account to find stores, compare daily performance, review sales competition standings, and investigate why visits did not become purchases through reason summaries and seller-recorded explanations. Non-conversion reports and sales competitions require AlterVez access.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "AlterVision",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Business & Operations",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://altervision.com.br/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-12T05:00:52.648Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a90e9da4ad08191a201cbfc21b38e6e": {
       "id": "plugin_asdk_app_6a90e9da4ad08191a201cbfc21b38e6e",
@@ -240516,7 +240633,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-12T05:00:42.528Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "information": []
+      "detailDue": false,
+      "description": "Tassyir is the back office of e-commerce merchants in Algeria. Once a merchant connects their Tassyir business, ChatGPT can review sales (orders, confirmation and delivery rates, delivered revenue, ad spend, best sellers and top wilayas), work the order queue (list pending orders, confirm, cancel, schedule, assign and comment on them, dispatch confirmed orders to delivery and follow parcels until delivered or returned), manage the catalog (create and update products with sizes, colors and per-variant prices, categories and stock levels) and keep the books (record expenses and capital transactions). Every action runs with the merchant’s own Tassyir role permissions, on the one business they connected. Amounts are in Algerian dinars (DZD).",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "BRAHIM AZZOUG",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Business & Operations",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://app.tassyir.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.1.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-12T05:00:54.324Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_69e144b6acc48191bd001a3d7c752c5c": {
       "id": "plugin_asdk_app_69e144b6acc48191bd001a3d7c752c5c",
@@ -240531,7 +240676,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-12T05:00:42.528Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "information": []
+      "detailDue": false,
+      "description": "Assembly helps users work with clients from ChatGPT. Users can find clients and companies, manage tasks, notes, files, messages, forms, contracts, invoices, subscriptions, products, prices, app connections, notifications, and related workspace activity and records through authenticated Assembly APIs.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Assembly (Copilot Platforms Inc.)",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Business & Operations",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://assembly.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-12T05:00:56.019Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a870f742ce88191b7bbc09f0d84b62f": {
       "id": "plugin_asdk_app_6a870f742ce88191b7bbc09f0d84b62f",
@@ -240546,7 +240719,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-12T05:00:42.528Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "information": []
+      "detailDue": false,
+      "description": "Connect ChatGPT to your Hiver shared inboxes. Ask questions about the conversations your team handles in Gmail: search and read conversations, find the emails behind a Gmail thread, see who is on an inbox and which tags and SLA policies apply. Move work forward without leaving the chat: add internal notes visible only to your team, apply or remove tags, and save reply drafts for a teammate to review and send. Administrators can also pull inbox reports directly: conversation volume, response performance, SLA compliance, agent workload, CSAT, sentiment, and per-company support summaries. Every action uses your own Hiver account and permissions, so you only ever see the shared inboxes you are a member of, writes are attributed to you, and nothing is ever sent to a customer by the app itself.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "GREXIT, INC.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Business & Operations",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://hiverhq.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-12T05:00:57.659Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a971dee7028819187a366c7cb596599": {
       "id": "plugin_asdk_app_6a971dee7028819187a366c7cb596599",
@@ -240561,7 +240762,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-12T05:00:42.528Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "information": []
+      "detailDue": false,
+      "description": "Hyros tracks every ad click, lead, and sale, so you can see which campaigns, ads, and keywords actually produce revenue. This app brings that data into ChatGPT.\n\nAsk in plain language and get answers from your live Hyros account:\n\n• \"Which Meta campaigns had the best ROAS last month?\"\n• \"What were my best performing ads last month?\"\n• \"Where did last week's revenue actually come from?\"\n• \"Show me an overview of the last 7 days\"\n\nChatGPT can pull attribution reports, spend and ROAS by campaign or ad set, lead and customer journeys, revenue and LTV breakdowns, and call and booking data, then chart it, summarize it or drop it into the doc you're already writing.\n\nBuilt for media buyers, agencies, and growth teams who spend their days reconciling ad platform numbers against what actually hit the bank account.\n\nRequires an active Hyros account. You connect with your Hyros login, and ChatGPT only sees data that account already has access to.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "hyros.com",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Business & Operations",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://hyros.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-12T05:01:00.251Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a96e832461c81919cb43fb6c718d03a": {
       "id": "plugin_asdk_app_6a96e832461c81919cb43fb6c718d03a",
@@ -240576,7 +240805,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-12T05:00:42.528Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "information": []
+      "detailDue": false,
+      "description": "Qwikyo helps people in India discover local service providers and public work requests. Search by service and location, view task details and professional profiles, and browse supported service categories and locations. The plugin does not create bookings, process payments, sell items, send messages, or arrange transport.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Qwikyo",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Business & Operations",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.qwikyo.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.2",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-12T05:01:06.121Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab81f50a2b881918abe2865d47fb2a3": {
       "id": "plugin_asdk_app_6ab81f50a2b881918abe2865d47fb2a3",
@@ -240591,7 +240848,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-12T05:00:42.528Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "information": []
+      "detailDue": false,
+      "description": "Teach Me turns ChatGPT into a patient, adaptive teacher for learners, educators, and parents. It teaches topics step by step, prepares classroom-ready lesson briefs, adapts explanations when an age is supplied, and supports source-grounded learning from files, PDFs, books, webpages, videos, playlists, courses, recordings, curricula, and mixed sources that ChatGPT can inspect. It clearly states source-access limits, supports English and simplified Modern Standard Arabic, and asks permission before routine assessments. Teach Me creates no account, stores no learner state, and its read-only connector receives no learner messages or source contents.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Ahmed Ebead",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://github.com/ahmed3bead/teach-me"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-12T05:01:07.791Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab6865a344481919ff4d2a9bb5d6e5d": {
       "id": "plugin_asdk_app_6ab6865a344481919ff4d2a9bb5d6e5d",
@@ -240606,7 +240891,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-12T05:00:42.528Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "information": []
+      "detailDue": false,
+      "description": "Class Key retrieves teacher-prepared English lesson settings using a six-character class code. Learners can confirm the lesson title and version, then use the returned scenario, AI role, optional English level, and feedback settings for practice in ChatGPT. The tool does not receive student identities, answers, or chat transcripts. It records usage counts and enforces request limits. Teacher sign-in and in-app reporting on the companion website are not yet available; a public sample lesson is available with code CKTEST.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "久貴 南部",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://ai-eigo-lab.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-12T05:01:09.474Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a4eda49a1c08191b662a0adb444785a": {
       "id": "plugin_asdk_app_6a4eda49a1c08191b662a0adb444785a",
@@ -240621,7 +240934,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-12T05:00:42.528Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "information": []
+      "detailDue": false,
+      "description": "Performance Signal helps runners use ChatGPT to inspect their connected Strava training history, find specific activities, analyze run details and streams, compare mileage trends, and sync missing activity data into the app's private local store.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Performance Signal",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Healthcare",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://performancesignal.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-12T05:01:12.351Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab6f6b73064819196e16826f827a0f3": {
       "id": "plugin_asdk_app_6ab6f6b73064819196e16826f827a0f3",
@@ -240636,7 +240977,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-12T05:00:42.528Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "information": []
+      "detailDue": false,
+      "description": "CarGene answers questions about the history of Japanese cars from a curated database: which generations of a model were sold and when, their chassis codes, the engineers who developed them, how generations relate (successor, sibling, derivative), and sales figures by country and year. Each fact comes with the source it was taken from. Read-only, no account needed.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "空 小澤",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Entertainment",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://car-gene.com/mcp/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-12T05:01:14.060Z",
+      "detailFailures": 0
     }
   },
   "scans": [
@@ -289677,9 +290046,9 @@
     "runId": "38205938574",
     "runAttempt": "1",
     "startedAt": "2026-10-12T04:59:00.032Z",
-    "updatedAt": "2026-10-12T05:00:42.542Z",
+    "updatedAt": "2026-10-12T05:01:17.365Z",
     "mode": "incremental",
-    "detailRequests": 0,
+    "detailRequests": 14,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
@@ -289689,11 +290058,11 @@
     "errors": 0,
     "stats": {
       "total": 4123,
-      "details": 4110,
+      "details": 4123,
       "translated": 4104,
       "missing": 30,
       "removed": 89,
-      "pendingDetails": 14,
+      "pendingDetails": 0,
       "pendingTranslations": 19
     }
   }
