@@ -1,5 +1,6 @@
 export function createSiteClient({fetcher=fetch,oidcUrl,oidcRequestToken,baseUrl=process.env.SITE_BASE_URL,serviceToken=process.env.SITES_SERVICE_TOKEN,delay=ms=>new Promise(resolve=>setTimeout(resolve,ms))}={}) {
- const target=new URL(baseUrl);if(target.protocol!=='https:')throw new Error('SITE_BASE_URL must use https');target.pathname=target.pathname.replace(/\/$/,'');
+ // Migrate the original Site hostname, including existing repository variable overrides.
+ const target=new URL(baseUrl);if(target.hostname==='plugin.ipotatouv.chatgpt.site')target.hostname='plugins.ipotatouv.chatgpt.site';if(target.protocol!=='https:')throw new Error('SITE_BASE_URL must use https');target.pathname=target.pathname.replace(/\/$/,'');
  const tokenUrl=new URL(oidcUrl);tokenUrl.searchParams.set('audience','plugin-catalog-sync');let bearer;
  async function refresh(){const r=await fetcher(tokenUrl,{headers:{Authorization:`Bearer ${oidcRequestToken}`},signal:AbortSignal.timeout(15000)});if(!r.ok)throw new Error('GitHub OIDC token unavailable');const value=(await r.json()).value;if(typeof value!=='string'||!value)throw new Error('Invalid GitHub OIDC response');bearer=value;}
  return {async post(path,payload){

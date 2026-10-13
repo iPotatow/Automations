@@ -15,9 +15,9 @@
 
 ## 配置
 
-Repository Variables：SITE_BASE_URL（Sites 地址）、CLOUDFLARE_ACCOUNT_ID；可选 WORKERS_AI_MODEL、AI_CONCURRENCY、AI_TRANSLATION_LIMIT、CLOUDFLARE_AI_DAILY_NEURON_LIMIT。
+Repository Variables：SITE_BASE_URL（Sites 地址，默认 https://plugins.ipotatouv.chatgpt.site）、CLOUDFLARE_ACCOUNT_ID；可选 WORKERS_AI_MODEL、AI_CONCURRENCY、AI_TRANSLATION_LIMIT、CLOUDFLARE_AI_DAILY_NEURON_LIMIT。
 
-Repository Secrets：CLOUDFLARE_API_TOKEN（Workers AI 执行及 Analytics 读取权限）、SITES_SERVICE_TOKEN（私有 Sites 服务访问令牌）。同步仍单独校验 GitHub OIDC，限定本仓库 ID、main 和 catalog-sync.yml。
+Repository Secrets：CLOUDFLARE_API_TOKEN（Workers AI 执行及 Analytics 读取权限）、SITES_SERVICE_TOKEN（私有 Sites 服务访问令牌）。旧的 plugin.ipotatouv.chatgpt.site 地址会自动迁移到当前 plugins 地址，包括已有 SITE_BASE_URL 配置。同步仍单独校验 GitHub OIDC，限定本仓库 ID、main 和 catalog-sync.yml。
 
 external 翻译后端需 AI_TRANSLATION_BACKEND=external，并配置 AI_API_KEY、AI_BASE_URL、AI_MODEL。
 

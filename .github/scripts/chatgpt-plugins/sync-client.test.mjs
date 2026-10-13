@@ -39,3 +39,12 @@ test('first icon cache may exceed 35 minutes while remaining bounded',async()=>{
  }},'b'.repeat(40),{now:()=>elapsed,log:()=>{}}),/saved checkpoint/);
  assert.equal(assetCalls,3);
 });
+
+test('legacy Site hostname migrates even when supplied by a repository variable',async()=>{
+ const seen=[];const client=createSiteClient({baseUrl:'https://plugin.ipotatouv.chatgpt.site/',oidcUrl:'https://token.invalid',oidcRequestToken:'test-only',fetcher:async(url,options)=>{
+  if(String(url).startsWith('https://token.invalid'))return Response.json({value:'test'});
+  seen.push(String(url));assert.equal(options.headers.Authorization,'Bearer test');return Response.json({complete:true});
+ }});
+ await client.post('/api/admin/sync',{});await client.post('/api/admin/assets',{});
+ assert.deepEqual(seen,['https://plugins.ipotatouv.chatgpt.site/api/admin/sync','https://plugins.ipotatouv.chatgpt.site/api/admin/assets']);
+});

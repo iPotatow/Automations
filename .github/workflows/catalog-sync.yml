@@ -12,7 +12,7 @@ jobs:
     env:
       STATE_DIR: ${{ github.workspace }}
       OUTPUT_DIR: ${{ github.workspace }}/catalog-results
-      SITE_BASE_URL: ${{ vars.SITE_BASE_URL || 'https://plugin.ipotatouv.chatgpt.site' }}
+      SITE_BASE_URL: ${{ vars.SITE_BASE_URL || 'https://plugins.ipotatouv.chatgpt.site' }}
       SITES_SERVICE_TOKEN: ${{ secrets.SITES_SERVICE_TOKEN }}
     defaults:
       run:
@@ -93,7 +93,7 @@ jobs:
     env:
       STATE_DIR: ${{ github.workspace }}
       OUTPUT_DIR: ${{ github.workspace }}/catalog-results
-      SITE_BASE_URL: ${{ vars.SITE_BASE_URL || 'https://plugin.ipotatouv.chatgpt.site' }}
+      SITE_BASE_URL: ${{ vars.SITE_BASE_URL || 'https://plugins.ipotatouv.chatgpt.site' }}
       SITES_SERVICE_TOKEN: ${{ secrets.SITES_SERVICE_TOKEN }}
     defaults:
       run:
@@ -180,7 +180,7 @@ jobs:
     env:
       STATE_DIR: ${{ github.workspace }}
       OUTPUT_DIR: ${{ github.workspace }}/catalog-results
-      SITE_BASE_URL: ${{ vars.SITE_BASE_URL || 'https://plugin.ipotatouv.chatgpt.site' }}
+      SITE_BASE_URL: ${{ vars.SITE_BASE_URL || 'https://plugins.ipotatouv.chatgpt.site' }}
       SITES_SERVICE_TOKEN: ${{ secrets.SITES_SERVICE_TOKEN }}
     defaults:
       run:
