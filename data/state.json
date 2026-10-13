@@ -654,12 +654,12 @@
         },
         {
           "label": "Version",
-          "value": "3.0.0",
+          "value": "3.0.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:55.181Z",
+      "detailCheckedAt": "2026-10-13T06:03:44.790Z",
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "创建文档、任务和数据库",
@@ -17617,7 +17617,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:56.763Z",
+      "detailCheckedAt": "2026-10-13T06:03:46.353Z",
       "translationAttemptRun": "37134929786",
       "detailFailures": 0,
       "translation": {
@@ -31879,7 +31879,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:58.354Z",
+      "detailCheckedAt": "2026-10-13T06:03:48.023Z",
       "translationAttemptRun": "37134929786",
       "detailFailures": 0,
       "translation": {
@@ -32509,7 +32509,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:59.928Z",
+      "detailCheckedAt": "2026-10-13T06:03:49.573Z",
       "translationAttemptRun": "37134929786",
       "detailFailures": 0,
       "translation": {
@@ -36286,7 +36286,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:31:01.494Z",
+      "detailCheckedAt": "2026-10-13T06:03:51.213Z",
       "translationAttemptRun": "37134929786",
       "detailFailures": 0,
       "translation": {
@@ -48643,7 +48643,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "把内容变成视频",
       "legacySummaryOriginal": "Turn any content into videos",
@@ -48652,6 +48652,11 @@
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
       "description": "Synthesia turns whatever you're working on into a finished, on-brand video.\n\nStart from a prompt, a script, a document, or a link. We build a multi-scene video draft using your workspace's brand kits or one our curated Styles. Choose your Style or brand kit in the chat, open the draft in Synthesia to edit, or just generate and watch the video directly in the chat.\n\nAlready have the source material somewhere else? Pull it from the tools you're connected to and hand it straight to us — no copy-paste, no rebuilding.\n\nYou can ask Synthesia to:\n\n\"Make a video explaining our new expense policy.\"\n\"Turn this brief into a two-minute video for new starters.\"\n\"Take the notes from our product spec and make an internal launch video.\"\n\"Pull this quarter's numbers and make a 90-second update for the team.\"\n\"Find the onboarding video we published last quarter.\"\n\"Summarize what shipped this week and turn it into a video for the sales team.\"\n\"Show me my drafts.\"\n\nRequirements: a paid Synthesia account. Connect once and we'll use your existing brand settings and workspace permissions — you'll only ever see videos you already have access to in Synthesia.\n\nWant to go hands-on? Every draft or generated video can be opened in Synthesia's full editor for editing and polish.\n\nThis plugin is currently in beta and features may be added or removed in the future, and there may be bugs. Please report any bugs, feedback, or issues you experience at https://synthesiacreate.typeform.com/mcp-beta and/or support@synthesia.io",
       "information": [
+        {
+          "label": "Capabilities",
+          "value": "Create a finished video from a brief with Synthesia Syren, Add generated visuals, motion graphics, music and AI presenters, Match your brand by sharing links to your logo and assets, Watch your video in the chat, Edit by describing the changes you want, Export finished videos as MP4, Find and replay your Syren videos, Create a classic Synthesia draft on request",
+          "links": []
+        },
         {
           "label": "Developer",
           "value": "Synthesia",
@@ -48671,12 +48676,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-11T05:10:08.370Z",
+      "detailCheckedAt": "2026-10-13T06:04:12.572Z",
       "translationAttemptRun": "37202584253:1",
       "translation": {
         "summary": "将任意内容转成视频",
@@ -50833,7 +50838,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:31:03.107Z",
+      "detailCheckedAt": "2026-10-13T06:03:52.772Z",
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "管理 Neon 后端",
@@ -55211,14 +55216,14 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "DNS 诊断",
       "legacySummaryOriginal": "Scan, fix & verify your DNS",
       "legacyDescriptionSource": "DNS Doctor (【7†https://dnsdoctor.dev†dnsdoctor.dev】) — DMARC monitoring plus SPF, DKIM and DMARC diagnostics for any domain. Scan email authentication, find SPF lookup-limit problems, check DKIM and DMARC, generate validated DMARC records, monitor DMARC RUA reports and new senders, and move from p=none to quarantine on a scan's evidence and to reject on report evidence. Free domain scans and a free monitoring trial. Every DNS change is human-approved. Fix records are generated deterministically and RFC-validated, never guessed by AI; SPF is diagnosed, never rewritten. Twenty tools: scan a domain (SPF, DKIM, DMARC, MX, DNS health, blacklists, domain and TLS expiry), read the stored report, look up a domain's registration (registrar, expiry, nameservers, locks), build a validated DMARC upgrade or a DMARC record from scratch, validate a pasted DMARC record, count SPF lookups, audit SPF includes, check a DKIM selector, check a record on the domain's own nameservers, check global propagation from six vantage points, check reverse DNS, parse a DMARC aggregate report, build the hardening pack for a non-sending domain, hand the owner a monitoring sign-up link, and for signed-in operators read the monitoring alert log and the enforcement-readiness verdict. Three account tools add a domain to monitoring, run the ownership check",
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "DNS Doctor (https://dnsdoctor.dev) — DMARC monitoring plus SPF, DKIM and DMARC diagnostics for any domain. Scan email authentication, find SPF lookup-limit problems, check DKIM and DMARC, generate validated DMARC records, monitor DMARC RUA reports and new senders, and move from p=none to quarantine on a scan's evidence and to reject on report evidence. Free domain scans and a free monitoring trial. Every DNS change is human-approved. Fix records are generated deterministically and RFC-validated, never guessed by AI; SPF is diagnosed, never rewritten. Twenty tools: scan a domain (SPF, DKIM, DMARC, MX, DNS health, blacklists, domain and TLS expiry), read the stored report, look up a domain's registration (registrar, expiry, nameservers, locks), build a validated DMARC upgrade or a DMARC record from scratch, validate a pasted DMARC record, count SPF lookups, audit SPF includes, check a DKIM selector, check a record on the domain's own nameservers, check global propagation from six vantage points, check reverse DNS, parse a DMARC aggregate report, build the hardening pack for a non-sending domain, hand the owner a monitoring sign-up link, and for signed-in operators read the monitoring alert log and the enforcement-readiness verdict. Three account tools add a domain to monitoring, run the ownership check and read the records to publish; today they hand the owner the same sign-up link. The assistant never signs the user in, never emails on their behalf, and never applies a DNS change: it explains the findings and presents each record for the human to publish.",
+      "description": "Check, fix and verify any domain's DNS, explained in plain English. DNS Doctor reads the records behind a domain, tells you what is wrong and why, and gives you the exact record to publish when there is one.\n\nScan a domain for email authentication (SPF, DKIM, DMARC), mail routing (MX), DNS health, blacklists and domain and SSL certificate expiry. Look up any record on the domain's own nameservers, see whether a change has reached resolvers in six locations, check reverse DNS for a mail server, count SPF lookups, audit the third-party includes an SPF record trusts, and read a domain's registration: registrar, expiry, nameservers and locks.\n\nDMARC records are generated and validated by a deterministic engine that follows the RFCs. The AI writes the explanation, never the record. SPF is diagnosed but never rewritten, because a changed SPF record can silently cut off a real sender. Nothing is applied to your DNS: you publish every record yourself.\n\nConnect your DNS Doctor account to work with your monitored domains from ChatGPT: add a domain, check its ownership record, and read the alerts DNS Doctor raises for record changes, expiry, blacklisting, registrar or nameserver changes and new email senders seen in DMARC reports. It also tells you when that report evidence says it is safe to move DMARC from none to quarantine and then to reject.",
       "information": [
         {
           "label": "Developer",
@@ -55227,7 +55232,7 @@
         },
         {
           "label": "Category",
-          "value": "Developer Tools",
+          "value": "Business & Operations",
           "links": []
         },
         {
@@ -55239,12 +55244,12 @@
         },
         {
           "label": "Version",
-          "value": "1.9.0",
+          "value": "1.9.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-11T05:13:24.030Z",
+      "detailCheckedAt": "2026-10-13T06:04:14.114Z",
       "translationAttemptRun": "37202584253:1",
       "translation": {
         "summary": "扫描、修复并验证 DNS",
@@ -76262,7 +76267,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "研究",
       "legacySummaryOriginal": "Track your brand in AI search",
@@ -76271,6 +76276,11 @@
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
       "description": "AthenaHQ shows how AI assistants such as ChatGPT, Perplexity, and Gemini talk about your brand. Ask for share of voice, mention rate, citation rate, and ranking position versus competitors, drill into the AI responses behind those numbers with sentiment and sources, see which domains and pages AI models cite most, and review tracked prompts, competitors, content performance, and plan credit usage for the websites in your AthenaHQ workspace.",
       "information": [
+        {
+          "label": "Capabilities",
+          "value": "Read, Write",
+          "links": []
+        },
         {
           "label": "Developer",
           "value": "AthenaHQ",
@@ -76290,12 +76300,12 @@
         },
         {
           "label": "Version",
-          "value": "2.0.0",
+          "value": "3.2.2",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-11T05:24:10.390Z",
+      "detailCheckedAt": "2026-10-13T06:04:15.693Z",
       "translationAttemptRun": "37453076339:1",
       "translation": {
         "summary": "跟踪品牌在AI搜索中的表现",
@@ -76819,7 +76829,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:31:04.693Z",
+      "detailCheckedAt": "2026-10-13T06:03:54.394Z",
       "translationAttemptRun": "37453076339:1",
       "detailFailures": 0,
       "translation": {
@@ -92531,7 +92541,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:31:06.255Z",
+      "detailCheckedAt": "2026-10-13T06:03:55.967Z",
       "translationAttemptRun": "37573889568:1",
       "detailFailures": 0,
       "translation": {
@@ -96086,13 +96096,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "电子名片",
       "legacySummaryOriginal": "Enrich and analyze leads",
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Popl helps users discover and enrich business contacts, retrieve team leads, inspect campaigns and members, and analyze event pipeline and ROI from ChatGPT.",
+      "description": "Popl is your AI assistant (MCP) for event lead capture, helping marketing and revenue teams enrich, analyze, prospect, and report on event data through natural language.\n\nBefore an event, Popl can be used in ChatGPT to help you identify target accounts, enrich attendee and exhibitor lists, match prospects against CRM data, and prioritize the right people to meet. After the event, teams can analyze captured leads, surface key insights, measure performance, and generate detailed ROI reports without manually sorting through spreadsheets or dashboards.\n\nPopl for ChatGPT connects your event data with Popl’s AI-native enrichment engine and broader in-person data layer, giving your team a faster, more conversational way to understand every event. Ask questions, uncover opportunities, and turn offline interactions into structured, actionable data that drives follow-up and revenue.",
       "information": [
         {
           "label": "Developer",
@@ -96113,12 +96123,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-11T05:34:17.843Z",
+      "detailCheckedAt": "2026-10-13T06:04:17.295Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "丰富并分析潜在客户",
@@ -116137,7 +116147,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:31:07.825Z",
+      "detailCheckedAt": "2026-10-13T06:03:57.668Z",
       "translationAttemptRun": "37134929786",
       "detailFailures": 0,
       "translation": {
@@ -120237,7 +120247,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:31:09.430Z",
+      "detailCheckedAt": "2026-10-13T06:03:59.296Z",
       "translationAttemptRun": "37134929786",
       "detailFailures": 0,
       "translation": {
@@ -121266,7 +121276,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:31:11.130Z",
+      "detailCheckedAt": "2026-10-13T06:04:00.892Z",
       "translationAttemptRun": "37134929786",
       "detailFailures": 0,
       "translation": {
@@ -131020,13 +131030,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "会反问你的抽认卡",
       "legacySummaryOriginal": "Flashcards that quiz you back",
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Flash is a spaced-repetition flashcard app that ChatGPT can run for you. Tell ChatGPT what you're learning — paste a chapter, lecture notes, a vocabulary list, or just describe the topic — and it writes the cards into a deck in your Flash account. When you want to study, say so: ChatGPT asks each due card, checks your answer — typed, or dictated with the mic — and grades it Again, Hard, Good, or Easy. Grading is strict on numbers, doses, ranges, units, and names, which makes it a good fit for nursing, medicine, law, languages, and anything else where \"close enough\" isn't.\n\nEvery review is scheduled by FSRS, the modern spaced-repetition algorithm that models your memory and shows you each card right before you'd forget it. There are no settings to learn.\n\nNothing you drill with ChatGPT scrolls away: cards, answers, and review dates live in your Flash account, synced across devices, and you can also study on the web at flashmemorize.com. Existing Anki decks import whole (.apkg with cloze, hints, images, audio, LaTeX, typed answers, and nested decks), and everything exports back to Anki or CSV at any time.\n\nWhat ChatGPT can do once connected: list your decks and due counts, create decks and cards, start and run a study session, reveal answers, submit grades, edit or delete cards, and adjust daily new-card limits.\n\nA free Flash account is all you need. Flash has no ads, no tracking, and no third-party analytics.",
+      "description": "Flash is a spaced-repetition flashcard app that ChatGPT can run for you. Tell ChatGPT what you're learning (paste a chapter, lecture notes, a vocabulary list, or just describe the topic) and it writes the cards into a deck in your Flash account, then shows them in a panel you can page through, with any edits beside what the card said before. When you want to study, say so: ChatGPT asks each due card, checks your answer (typed, or dictated with the mic) and grades it Again, Hard, Good, or Easy. A study panel also opens in the chat, so you can show each answer, tap the grade yourself, and see how far through the session you are. Grading is strict on numbers, doses, ranges, units, and names, which makes it a good fit for nursing, medicine, law, languages, and anything else where \"close enough\" isn't.\n\nEvery review is scheduled by FSRS, the modern spaced-repetition algorithm that models your memory and shows you each card right before you'd forget it. There are no settings to learn.\n\nNothing you drill with ChatGPT scrolls away: cards, answers, and review dates live in your Flash account, synced across devices, and you can also study on the web at flashmemorize.com. Existing Anki decks import whole (.apkg with cloze, hints, images, audio, LaTeX, typed answers, and nested decks), and everything exports back to Anki or CSV at any time.\n\nWhat ChatGPT can do once connected: list your decks and due counts, create decks and cards, run a study session on one deck, a subdeck, or a set of tags, reveal answers, submit grades, edit or delete cards in batches, rename, nest, and archive decks, and adjust daily new-card limits.\n\nA free Flash account is all you need. Flash has no ads, no tracking, and no third-party analytics.",
       "information": [
         {
           "label": "Developer",
@@ -131047,12 +131057,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-11T05:51:47.419Z",
+      "detailCheckedAt": "2026-10-13T06:04:18.955Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "能出题考你的闪卡",
@@ -137841,7 +137851,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:31:12.737Z",
+      "detailCheckedAt": "2026-10-13T06:04:02.592Z",
       "translationAttemptRun": "37134929786",
       "detailFailures": 0,
       "translation": {
@@ -140806,7 +140816,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:31:14.312Z",
+      "detailCheckedAt": "2026-10-13T06:04:04.173Z",
       "translationAttemptRun": "37134929786",
       "detailFailures": 0,
       "translation": {
@@ -149127,7 +149137,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:31:15.887Z",
+      "detailCheckedAt": "2026-10-13T06:04:05.799Z",
       "translationAttemptRun": "37134929786",
       "detailFailures": 0,
       "translation": {
@@ -172440,7 +172450,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:31:17.461Z",
+      "detailCheckedAt": "2026-10-13T06:04:07.440Z",
       "translationAttemptRun": "37134929786",
       "detailFailures": 0,
       "translation": {
@@ -188973,7 +188983,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:31:19.078Z",
+      "detailCheckedAt": "2026-10-13T06:04:09.117Z",
       "translationAttemptRun": "37134929786",
       "detailFailures": 0,
       "translation": {
@@ -195440,7 +195450,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:31:20.686Z",
+      "detailCheckedAt": "2026-10-13T06:04:10.737Z",
       "translationAttemptRun": "37134929786",
       "detailFailures": 0,
       "translation": {
@@ -220297,9 +220307,14 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "detailDue": true,
+      "detailDue": false,
       "description": "Publish the pages, reports, dashboards, and other artifacts you create with ChatGPT and get a link to share them. Spacefast lets you update existing sites, manage access, connect custom domains, and view or restore earlier versions. Connect your Spacefast account to manage your team's Spaces from the conversation.",
       "information": [
+        {
+          "label": "Capabilities",
+          "value": "Interactive, Read, Write",
+          "links": []
+        },
         {
           "label": "Developer",
           "value": "Automattic Inc.",
@@ -220319,12 +220334,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.0.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-11T06:37:57.883Z",
+      "detailCheckedAt": "2026-10-13T06:04:20.597Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "发布并分享 AI 创作",
@@ -224177,7 +224192,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:29:46.336Z",
+      "detailCheckedAt": "2026-10-13T06:02:44.551Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -224286,7 +224301,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:29:49.555Z",
+      "detailCheckedAt": "2026-10-13T06:02:46.194Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -224340,7 +224355,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:29:51.144Z",
+      "detailCheckedAt": "2026-10-13T06:02:47.758Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -224394,7 +224409,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:29:52.731Z",
+      "detailCheckedAt": "2026-10-13T06:02:49.308Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -224448,7 +224463,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:29:54.334Z",
+      "detailCheckedAt": "2026-10-13T06:02:50.929Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -224502,7 +224517,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:29:55.936Z",
+      "detailCheckedAt": "2026-10-13T06:02:52.641Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -224556,7 +224571,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:29:57.540Z",
+      "detailCheckedAt": "2026-10-13T06:02:54.543Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -224610,7 +224625,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:29:59.755Z",
+      "detailCheckedAt": "2026-10-13T06:02:56.221Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -224664,7 +224679,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:01.355Z",
+      "detailCheckedAt": "2026-10-13T06:02:57.882Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -224718,7 +224733,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:02.953Z",
+      "detailCheckedAt": "2026-10-13T06:02:59.436Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -224767,12 +224782,12 @@
         },
         {
           "label": "Version",
-          "value": "1.1.0",
+          "value": "1.4.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:04.587Z",
+      "detailCheckedAt": "2026-10-13T06:03:00.980Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -224826,7 +224841,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:06.156Z",
+      "detailCheckedAt": "2026-10-13T06:03:02.522Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -224990,7 +225005,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:11.803Z",
+      "detailCheckedAt": "2026-10-13T06:03:04.142Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -225044,7 +225059,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:13.378Z",
+      "detailCheckedAt": "2026-10-13T06:03:05.750Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -225098,7 +225113,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:14.951Z",
+      "detailCheckedAt": "2026-10-13T06:03:07.474Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -225152,7 +225167,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:16.555Z",
+      "detailCheckedAt": "2026-10-13T06:03:09.163Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -225206,7 +225221,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:18.185Z",
+      "detailCheckedAt": "2026-10-13T06:03:10.745Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -225260,7 +225275,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:19.757Z",
+      "detailCheckedAt": "2026-10-13T06:03:12.415Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -225314,7 +225329,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:21.314Z",
+      "detailCheckedAt": "2026-10-13T06:03:14.089Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -225368,7 +225383,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:22.890Z",
+      "detailCheckedAt": "2026-10-13T06:03:15.743Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -225422,7 +225437,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:24.546Z",
+      "detailCheckedAt": "2026-10-13T06:03:17.296Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -225476,7 +225491,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:26.128Z",
+      "detailCheckedAt": "2026-10-13T06:03:18.827Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -225530,7 +225545,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:27.720Z",
+      "detailCheckedAt": "2026-10-13T06:03:20.372Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -225584,7 +225599,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:29.337Z",
+      "detailCheckedAt": "2026-10-13T06:03:21.995Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -225638,7 +225653,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:30.914Z",
+      "detailCheckedAt": "2026-10-13T06:03:23.628Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -225692,7 +225707,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:32.602Z",
+      "detailCheckedAt": "2026-10-13T06:03:25.306Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -225746,7 +225761,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:34.255Z",
+      "detailCheckedAt": "2026-10-13T06:03:27.024Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -225860,7 +225875,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:37.410Z",
+      "detailCheckedAt": "2026-10-13T06:03:28.648Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -225914,7 +225929,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:39.052Z",
+      "detailCheckedAt": "2026-10-13T06:03:30.322Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -225968,7 +225983,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:40.656Z",
+      "detailCheckedAt": "2026-10-13T06:03:31.933Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -226022,7 +226037,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:42.249Z",
+      "detailCheckedAt": "2026-10-13T06:03:33.576Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -226076,7 +226091,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:44.070Z",
+      "detailCheckedAt": "2026-10-13T06:03:35.235Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -226130,7 +226145,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:45.639Z",
+      "detailCheckedAt": "2026-10-13T06:03:36.840Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -226184,7 +226199,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:47.231Z",
+      "detailCheckedAt": "2026-10-13T06:03:38.449Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -226238,7 +226253,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:48.830Z",
+      "detailCheckedAt": "2026-10-13T06:03:40.083Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -226292,7 +226307,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:50.422Z",
+      "detailCheckedAt": "2026-10-13T06:03:41.638Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -226346,7 +226361,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-06T05:30:51.992Z",
+      "detailCheckedAt": "2026-10-13T06:03:43.226Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -241243,7 +241258,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Doitong is an AI video studio. Ask ChatGPT to create videos, images, music and short films, and get the results right in the conversation. Everything is saved to your Doitong library.\n\n- Idea or photo to video: text-to-video, image-to-video, effects and current short-video trends.\n- Images and posters in any aspect ratio.\n- Music tracks.\n- Short films with director agents: choose an agent, describe your idea, review the script, and the agent shoots it scene by scene.\n- Check progress and browse your recent work.\n\nSign in with your existing Doitong account. Paid actions use the credits already in your account: each one shows its price and waits for your confirmation, and each connection has its own spending limit (100,000 credits by default) that you can change in Doitong settings.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "SPACEFOX UNIPESSOAL LDA",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://doitong.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:21.603Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab7a35807d48191970dd1bdb063b785": {
       "id": "plugin_asdk_app_6ab7a35807d48191970dd1bdb063b785",
@@ -241258,7 +241301,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Cyber AI brings the models of your Cyber AI account into the chat. Describe what you want, and the assistant picks a model, shows the exact price and starts the generation only after you agree.\n\nWhat you can make:\n- Images from a text description, in many styles\n- Short videos from a text description\n- Songs, instrumental music and voice-over\n- 3D models\n\nHow it works:\n1. Connect your existing Cyber AI account: sign in on cyhub.ai and choose Allow.\n2. Ask for a picture, a video, music or a 3D model in plain words.\n3. The assistant checks the settings with the model and shows the price. Nothing is charged at this step.\n4. After you confirm, the generation starts. When it is ready, you get download links to the files.\n\nYour money stays under your control:\n- Paid generations are off for every new connection until you turn them on.\n- Each connection spends only within your account limits, per generation and per day. You can change them on the Apps tab of your account.\n- The price you confirmed is the most you pay. A failed generation is not charged.\n- A generation that is still waiting in the queue can be cancelled, and the reserved money returns to the balance.\n\nGenerations are paid from the balance of your Cyber AI account, at the same prices as on the website and in the Cyber AI bots. A Cyber AI account is required.\n\nDownload links work for 7 days. The history of your generations stays in your account.\n\nWorks in English and Russian.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "OLEG GALITCHII",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://cyhub.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:23.254Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab7347cfe948191a45faabd2fcfee46": {
       "id": "plugin_asdk_app_6ab7347cfe948191a45faabd2fcfee46",
@@ -241273,7 +241344,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Search Storyblocks stock videos, music, sound effects, and images in ChatGPT. Preview results in an interactive media carousel, inspect asset metadata and available formats, find similar content, explore categories and related search terms, and refine searches with catalog counts. Download selected assets when explicitly requested. Requires Storyblocks authentication; downloads depend on account entitlements. Each successful download-link request licenses the asset, records a download, and consumes plan quota, including repeat requests.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Storyblocks",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.storyblocks.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:24.870Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab5bee11070819194c6610303a0a876": {
       "id": "plugin_asdk_app_6ab5bee11070819194c6610303a0a876",
@@ -241288,7 +241387,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "McSill Ultra 5.0 is a storytelling and narrative development plugin based on James McSill’s methodology. It helps users analyse, structure, develop, edit, and refine stories, manuscripts, scenes, characters, dialogue, point of view, subtext, emotional progression, tension, pacing, and reader experience. It can work with fiction, non-fiction, professional narratives, and early-stage ideas, providing practical narrative analysis and editorial guidance while preserving the author’s voice, creative intent, and final decision-making.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "JAMES MCSILL",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.mcsill.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:26.513Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa5702d6cc481919355eb34c94fab69": {
       "id": "plugin_asdk_app_6aa5702d6cc481919355eb34c94fab69",
@@ -241303,7 +241430,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "VoxelDraft helps users create and refine 3D voxel models through short temporary model references, inspect their geometry, explore them in an interactive 3D preview inside ChatGPT, export OBJ/MTL or compact JSON files, and optionally save or reopen private projects in their VoxelDraft account.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Y&T",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://voxeldraft.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:28.168Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab82582de38819194d609d9125e5920": {
       "id": "plugin_asdk_app_6ab82582de38819194d609d9125e5920",
@@ -241318,7 +241473,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Boy or Girl Names helps you browse baby names and try the site's name tools. Search boy, girl, unique, or gender-neutral names by letter or by the start of a name, including names used in a country. Draw random names from the popular boy and girl lists. Read the Chinese gender calendar from a conception date, the calendar-month gender chart, and the Chinese zodiac for a birth date. Chart results are folklore from the public pages, not a medical test. The plugin does not store the dates you enter and does not give name meanings.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "NICOLAE MATIES",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://boyorgirlnames.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:29.815Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab2816373dc81918d34014dccc50701": {
       "id": "plugin_asdk_app_6ab2816373dc81918d34014dccc50701",
@@ -241333,7 +241516,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Connect ChatGPT to a Mac you control. Find and read local files, make checked edits, run terminal commands, and inspect their actual output and exit codes. Pair the free Ganado Bridge agent on your Mac using a short-lived code. Your Mac must stay awake and online, and the agent must keep running. Remote SSH commands use only aliases you explicitly configure on that Mac. Bridge uses your existing operating-system permissions: it is not a sandbox, and file or terminal actions can change or delete data. Requested file contents and command output are sent to ChatGPT through the authenticated relay. Disconnect or revoke the device to stop future access. The local agent is open source under MIT. No purchase or AI API key is required by Bridge; your ChatGPT plan and permissions remain separate.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Ganado",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://ganado-bridge.vercel.app/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "0.2.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:31.629Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aad3d4f29a481918626a0898167864f": {
       "id": "plugin_asdk_app_6aad3d4f29a481918626a0898167864f",
@@ -241348,7 +241559,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Prontuno helps users send transactional emails, check delivery status, manage sending domains and suppressions, and configure delivery event webhooks through ChatGPT.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "TUNSLAB LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://prontuno.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:33.322Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a98b3e51a288191aed4c3bd303dd8d1": {
       "id": "plugin_asdk_app_6a98b3e51a288191aed4c3bd303dd8d1",
@@ -241363,7 +241602,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Raygun helps developers investigate application errors, inspect user sessions, analyze frontend and backend performance, correlate problems with deployments, and manage monitoring workflows from ChatGPT.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Raygun",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://raygun.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:34.901Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aba90d937f4819186c86c5a6da849ba": {
       "id": "plugin_asdk_app_6aba90d937f4819186c86c5a6da849ba",
@@ -241378,7 +241645,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Symbioza runs your containerized GPU job on a rented cloud machine and hands back the files it writes, under a spending limit you set. Describe the job (a container image, the command, links to its input data and a budget) and Symbioza gives you a free estimate first: the expected price, the time limit that applies and whether your prepaid credit covers it. Nothing runs until you approve the submit. Symbioza sizes the machine, runs the job and reports its progress, then returns the output files with their SHA-256 hashes and time-limited download links, and the charge. The budget is a hard ceiling: it is checked before a machine is booked and again before every retry, and you are never billed more than it. Use it for training, fine-tuning, evaluation, batch inference and preprocessing. Credit is added on the Symbioza website.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "משה אדרי",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://symbioza.dev/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:36.588Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a71bcb8fcd4819189b81bf08f14b2a5": {
       "id": "plugin_asdk_app_6a71bcb8fcd4819189b81bf08f14b2a5",
@@ -241393,7 +241688,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Search1API helps users research current information by searching the public web and news, reading full pages, discovering links on a site, and exploring trending GitHub repositories and Hacker News stories. It returns structured results with canonical source URLs for citation.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "DING WANG",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://s1.dev/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:38.218Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa99b68bd5c8191ae8cec019b624f00": {
       "id": "plugin_asdk_app_6aa99b68bd5c8191ae8cec019b624f00",
@@ -241408,7 +241731,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Format JSON and JavaScript, convert data formats, validate schemas, compare documents, inspect Modbus frames, and run engineering and public network diagnostics. Tarsolution Tools provides 35 MCP tools without an API key. Results are text and structured JSON; preview tools return source. Use synthetic, non-sensitive test data only. MCP does not accept authentication credentials, private keys or JWTs; authenticated testing is available separately on the website, with no results imported into MCP. Temporary webhook inboxes accept bounded, masked JSON events and expire within 10 minutes. Shared limits apply. Remote write requests require explicit authorization.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "FATIH MEHMET ARSLAN",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://tools.tarsolution.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:39.918Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abb20abcb388191857bcfc83072c752": {
       "id": "plugin_asdk_app_6abb20abcb388191857bcfc83072c752",
@@ -241423,7 +241774,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Prepare practical tests and release plans for your AI agents and chatbots. Get prompt-injection test inputs, map OWASP LLM risks to test prompts and warning signals, create an AI release plan with open decisions and a starter gate policy, and build a tests.json pack containing 1–20 response checks for PromptBrake CI.\n\nThese free tools require no account or API key. They help you prepare tests; they do not run scans against your application. Response checks use case-insensitive text comparisons, and the release-planning score measures planning completeness, not security assurance. Use test inputs only with systems you own or are authorized to test.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "AMMAR ABDULQADER JIRJEES",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://promptbrake.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:41.483Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab62f03ec288191912a8501067fc500": {
       "id": "plugin_asdk_app_6ab62f03ec288191912a8501067fc500",
@@ -241438,7 +241817,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Keyword research for the App Store and Google Play, from the stores' own numbers. Ask ChatGPT which phrases a competitor ranks for, including the hidden keyword field nobody can see; score any keyword with Apple Search Ads popularity and first-page difficulty; analyse a niche; compare where two apps rank; check Apple's top charts and an app's visibility; and follow your apps and keywords so aso.best reads their positions every morning. Numbers come from Apple and Google, never from estimates. Requires an aso.best account; the tools answer on paid plans, bought on aso.best.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Primoz Cigoj",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://aso.best/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:43.055Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aba1c5dde448191970ee73c40d6cf67": {
       "id": "plugin_asdk_app_6aba1c5dde448191970ee73c40d6cf67",
@@ -241453,7 +241860,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Chartrades is a market data and research service. Connect your Chartrades account to view reports, check price and volume history, and see when data is stale or incomplete.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "AMIRSALAR BAHRAMI",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://chartrades.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:44.823Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa9adce04dc81919c43ba7e0f45064e": {
       "id": "plugin_asdk_app_6aa9adce04dc81919c43ba7e0f45064e",
@@ -241468,7 +241903,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Bring your HVAC, plumbing, electrical, and other trades business context into ChatGPT with ProfitHero. Pull goals, live KPIs, and weekly insights so answers, trends, and next moves are grounded in your actual ServiceTitan, HouseCall Pro, and QuickBooks data.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "ProfitHero",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://profithero.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:48.304Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa1add367108191acd677cd528d0e93": {
       "id": "plugin_asdk_app_6aa1add367108191acd677cd528d0e93",
@@ -241483,7 +241946,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "HailPing lets you search its published hail storm reports for the continental United States. Find reports by state, city, date range, reported hail size, or distance from a US city or coordinates. Each result gives the storm date, largest reported hailstone, number of qualifying reports, and a link to the public report. You can open a report for its summary, affected cities and counties, and hail size distribution, or view a city market page with its recorded hail history and frequency band. The catalog covers published events from 2025 onward using Vaisala Xweather reports. Reported hail and modeled storm footprints do not confirm property damage, and this is not a forecast or warning service.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Page Steady",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://hailping.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:49.897Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aba9bf4f37481919183ffb9cedfdf7b": {
       "id": "plugin_asdk_app_6aba9bf4f37481919183ffb9cedfdf7b",
@@ -241498,7 +241989,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Explore the Google Analytics 4 property you selected in TalkToData through five read-only tools. Ask about traffic, acquisition sources, pages, devices, and a seven-day summary. The plugin fetches authorized data on demand and cannot modify your Analytics property.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "NAVINES ISRAEL LTD",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://talktodata.navines.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:51.496Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a709a8c0d9481919e718d3016a3d57f": {
       "id": "plugin_asdk_app_6a709a8c0d9481919e718d3016a3d57f",
@@ -241513,7 +242032,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Text your customers without leaving ChatGPT. Salesmsg connects your business texting inbox directly to your AI assistant - so you can send messages, read conversation threads, find or create contacts, and check reply history in seconds. Whether you're following up on a lead, responding to an unread thread, or starting a conversation with a new contact, ChatGPT handles it all through your real Salesmsg numbers. Simple to connect. Instant to text.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Salesmsg",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Communication",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.salesmessage.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:53.145Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab163ef064c8191bb5209a9ac9cac68": {
       "id": "plugin_asdk_app_6ab163ef064c8191bb5209a9ac9cac68",
@@ -241528,7 +242075,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Open Medicine helps users search published clinical algorithms and retrieve a selected algorithm's details, flowchart data, references, and supporting clinical analysis.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Open Medicine",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://myopenmedicine.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:54.781Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab82f60444c8191a1e79eb946f915c1": {
       "id": "plugin_asdk_app_6ab82f60444c8191a1e79eb946f915c1",
@@ -241543,7 +242118,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Study for the FAA private-pilot knowledge test with a free, source-cited ground school. Ask about regulations, airspace, VFR weather minimums, weight and balance, aerodynamics, systems, navigation, weather or human factors and get short answers with the FAA citation each one came from (14 CFR sections, PHAK chapters), plus a link to the full lesson. Quiz yourself with practice questions written for this course in the style of the FAA knowledge test; the answer and per-choice explanations come after you try. The whole curriculum is free. This is an independent study platform, not FAA-approved and not affiliated with the FAA; its content is reviewed through an AI instructional-review system, not by a certificated flight instructor.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Osama Bedier",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://pplfree.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:58.182Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a9608140bb081919ec2b881d4b91836": {
       "id": "plugin_asdk_app_6a9608140bb081919ec2b881d4b91836",
@@ -241558,7 +242161,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Independent, student-built study guides for first-year TCOMK mathematics, digital design and programming. Search lecture concepts, practise with authored self-checks, explore interactive visuals and consult stored course dates with source links. TCOMK identifies the programme these guides cover; this plugin is not affiliated with or endorsed by KTH Royal Institute of Technology. Stored information can change: verify deadlines and examination details with current official course sources.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Justus August",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://github.com/justusaugust/kth-study"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:01:59.842Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab77a6e971c81918b9e9185a6a19d58": {
       "id": "plugin_asdk_app_6ab77a6e971c81918b9e9185a6a19d58",
@@ -241573,7 +242204,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Create flashcards from your notes, organize your collection, and review due cards with spaced repetition. Nibomo saves your cards and review progress so you can continue studying in its web, iOS, and Android apps. Find and update existing cards, reveal answers after attempting a question, and record your review rating. Requires a Nibomo account.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "SAMO DANNI EOOD",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://nibomo.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.29.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:01.602Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab6919cac6c8191bf541d4983a871e8": {
       "id": "plugin_asdk_app_6ab6919cac6c8191bf541d4983a871e8",
@@ -241588,7 +242247,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Connect your QLASE account to view your courses, classes, materials, assignments, progress, and grades. QLASE recognizes your participation in each course: you can teach one course and study in another. Students can prepare submissions with text, a link, or files. Teachers can prepare courses, classes, resources, and rubrics, review evidence, and propose grades, feedback, or an individual message. Academic changes are presented in QLASE for you to review and confirm before they are applied. Access follows your account permissions, and you can disconnect the plugin at any time. The plugin does not process payments, answer exams, or record learning progress merely because you consult materials.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "DANIEL EDUARDO ORTEGA CORELLA",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://qlase.goatify.app/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:03.248Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab7b6720c7081918192bcbf20e6c35f": {
       "id": "plugin_asdk_app_6ab7b6720c7081918192bcbf20e6c35f",
@@ -241603,7 +242290,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Mr. Paul's Learn...Wow! Library brings a growing collection of guided learning tools into ChatGPT. Choose a topic and Mr. Paul walks you through it step by step, with clear menus, browsing options, and structured, reference-style results. Each tool returns Mr. Paul's step-by-step guide, which ChatGPT follows to deliver a consistent learning experience. From NuSpark Publishing, the independent publisher behind the Learn...Wow! book series.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "NuSpark Publishing",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://nusparkpublishing.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:04.832Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aba77466b6c81918296fb39d24e0362": {
       "id": "plugin_asdk_app_6aba77466b6c81918296fb39d24e0362",
@@ -241618,7 +242333,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Live ClinicalTrials.gov oncology trial comparison around an asset, plus landscapes and CI briefings.\n\nFree, read-only MCP server from Prognyx (oncology competitive intelligence). Three tools: compare_trials returns up to three interventional ClinicalTrials.gov studies around an asset or target in one oncology indication, side by side (sponsor, phase, status, declared arms, primary outcomes, last update, registry URL); search_registry gives the live landscape of a target, company, indication or NCT number (study counts, leading sponsors, phase mix, recent studies, related briefings); search_briefings searches Prognyx briefings, where each claim links to a primary source. No account, no API key. Registry records describe declared designs; a match does not establish that two programmes compete.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "RALI ZINE FILALI",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Scientific Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.prognyx.com/mcp"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:06.439Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a1c2d41062081919cb6e6d23a8f4405": {
       "id": "plugin_asdk_app_6a1c2d41062081919cb6e6d23a8f4405",
@@ -241633,7 +242376,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "AlgoVault returns a single composite verdict — BUY, SELL, or HOLD — for crypto perpetual futures, with confidence, market regime, funding rate, and plain-language reasoning, instead of raw indicators you'd still have to interpret. Every call is scored against outcomes and the win rate is published with a Merkle anchor on Base, so you can verify the track record on-chain rather than trust a screenshot. Coverage spans major perpetual-futures venues (Binance, Bybit, OKX, Bitget, Hyperliquid and more) across 11 timeframes, plus a cross-venue funding-rate scanner and search over AlgoVault's research. AlgoVault is read-only decision-support: it analyzes; you decide. It never places orders, moves funds, or touches your accounts.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "AlgoVault Labs",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://algovault.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:08.071Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abaed4adad881919175d720f80973f9": {
       "id": "plugin_asdk_app_6abaed4adad881919175d720f80973f9",
@@ -241648,7 +242419,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Pagarva brings your business into the conversation. Ask questions in your own words, by typing or speaking, and get clear answers and insights from your live account: revenue, recent sales, transaction details, and team performance. When you're ready to get paid, just ask Pagarva to create and send a payment link to your customer. The Pagarva plugin works wherever ChatGPT does: on your phone, on your laptop, or in your car between jobs.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Pagarva",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://pagarva.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:09.681Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab455faaa24819182be214ceb37cc65": {
       "id": "plugin_asdk_app_6ab455faaa24819182be214ceb37cc65",
@@ -241663,7 +242462,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "SwitchWize provides verified U.S. savings rates, bank-gap comparisons, and credit-card reward data. Each response includes source links, observation timestamps, freshness status, and methodology so you can assess whether the information is current before acting.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "SW Digital Holding LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.switchwize.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:11.264Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab63bd76a54819188ba65555b71a797": {
       "id": "plugin_asdk_app_6ab63bd76a54819188ba65555b71a797",
@@ -241678,7 +242505,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Kove is a personal finance app for budgeting, savings goals, investments, retirement planning, and debt payoff. This app lets ChatGPT read a signed-in Kove user's own data: accounts and balances, net worth, budget vs. actual spending, spending by category and month-over-month comparisons, recent and searched transactions, recurring charges and subscriptions, unusual spending, savings goals, investments, retirement plan, and a credit card payoff projection (avalanche vs. snowball).\n\nIf the user grants change access when connecting, ChatGPT can also update monthly or long-term budget amounts and custom categories; create, update, or contribute to savings goals; recategorize transactions or mark them reviewed; accept or dismiss detected recurring charges; update a credit card's limit, APR, or minimum payment; and update retirement plan assumptions. With the user's permission, it can send Kove's team a note about something Kove couldn't do.\n\nIt cannot move money, make trades or payments, connect or disconnect banks, or change account or billing settings. Requires a Kove account with external app access turned on in Settings. Each connection is limited to one user, and every change is logged in Kove's Settings, where access can be revoked at any time.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Keane Financials LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.kovefinance.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:12.861Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aba88b172048191be3c3082c8cbf56d": {
       "id": "plugin_asdk_app_6aba88b172048191be3c3082c8cbf56d",
@@ -241693,7 +242548,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Find and prioritize companies showing signs of M&A activity, capital raising, or financial distress with Fintent’s predictive signals.\n\nBuilt for private equity, investment banking, and deal sourcing teams, Fintent brings company scores, historical trends, and deal-maker research activity into your conversations.\n\nWith Fintent, you can:\n\n• Check M&A, CapRaise, Distress, and Deal-Maker scores for individual companies or lists of company domains.\n• Review saved screeners to identify new signals, rising activity, and companies worth a closer look.\n• Explore up to 12 months of weekly signal history to understand when activity started and how it has changed.\n• See the research topics behind signals and the private equity, investment banking, venture capital, and law firms researching a company.\n• Create screeners from company lists, add companies, and remove companies you no longer want to track.\n• Export screeners and their historical signals to Excel.\n\nUse Fintent to prepare for company conversations, review target lists, monitor potential opportunities, and prioritize outreach.\n\nRequires a Fintent account.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Fintent Inc",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.fintent.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:14.440Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab68848daa081918d90e99879353167": {
       "id": "plugin_asdk_app_6ab68848daa081918d90e99879353167",
@@ -241708,7 +242591,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "IPOInsider gives ChatGPT read-only access to IPOInsider's IPO database: the current IPO universe with company, symbol, status, industry, exchange, offer date and price, proceeds, market cap and lifetime return; the pricing calendar for any date window, including deals that have not priced yet; the underwriting syndicate of every deal with the left-lead bank identified; company, ticker and underwriter name lookup; and point-in-time history showing the whole universe or a single deal as it stood on any past date. Typical workflows: count or screen IPOs by offer date, status, industry, exchange, proceeds or market cap; list what is pricing this week or this month; look up one deal by ticker; rank or filter deals by the bank that led them; and compare a deal or the market today with an earlier snapshot. SPAC deals are always excluded and are covered by the separate SPACInsider app. Every tool queries IPOInsider's own database and returns structured data; nothing is written, sent or fetched from the public internet. A SPACInsider account enabled for the IPOInsider MCP is required.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "SPACInsider LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.ipoinsider.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:16.009Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aaa5e60fe2881919823679106d5099a": {
       "id": "plugin_asdk_app_6aaa5e60fe2881919823679106d5099a",
@@ -241723,7 +242634,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Türkiye bordro mevzuatına göre net maaştan brüt maaş ve bordro hesaplamaları yapar. SGK, gelir vergisi, damga vergisi, işçi ve işveren maliyetleri gibi bordro kalemlerini hesaplayarak aylık sonuçlar sunar.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Datassist",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.datassist.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:17.638Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a7275eb241c819199b44787090208b1": {
       "id": "plugin_asdk_app_6a7275eb241c819199b44787090208b1",
@@ -241738,7 +242677,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Revelata deepKPI gives ChatGPT and Codex read-only access to financial and operating KPIs extracted from SEC filings for US public companies, with up to 10 years of history updated daily. Retrieve KPI time series and catalogs, company summaries and segments, and SEC filing markdown with source links for auditability. Built for equity research, diligence, and financial analysis. Requires sign-in to an existing Revelata account.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Revelata, Inc.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.revelata.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.17",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:19.514Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a8437fecfec819181eda17dc8faa4c8": {
       "id": "plugin_asdk_app_6a8437fecfec819181eda17dc8faa4c8",
@@ -241753,7 +242720,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Spera helps users create, inspect, revise, and compile private trading strategies, reusable modules, and custom nodes; run exact-revision backtests; and maintain project knowledge and artifact documentation. It does not deploy live trading bots, place trades, or access exchange credentials.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "SPERO SPERA PRIVATE LIMITED",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.spera.bot/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.2",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:21.126Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab991b89c4881918d676768665d33d4": {
       "id": "plugin_asdk_app_6ab991b89c4881918d676768665d33d4",
@@ -241768,7 +242763,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "C4C: Mortgage Industry Regulations gives ChatGPT the actual text of U.S. mortgage regulations and agency guides: HUD Handbook 4000.1, the Fannie Mae Selling and Servicing Guides, the Freddie Mac Guide, the Ginnie Mae MBS Guide, the VA Lenders Handbook (M26-7) and USDA HB-1-3555, plus the CFR and U.S. Code sections they rest on.\n\nAsk a question the way you'd ask a colleague, in plain words or loan-file shorthand like \"DTI\" or \"RSU income\". ChatGPT finds the governing section, quotes it verbatim, and gives you the citation, the effective date and the dated source document it came from. It flags when a rule has two versions in force, a pending revision, or was changed by a later letter. It can also look up a citation you already have (B3-4.3-04, 4000.1 II.A.4.c, 12 CFR 1026.43) and check whether a passage, including one from your own draft, really appears in the regulator's text.\n\nFour guided worflows: FHA, VA and USDA loan-file QC, and a review against Fannie Mae's AI Lender Letter LL-2026-04. Each check comes back with the rule it rests on, and your documents stay in your chat.\n\nRead-only, with no sign-in or account. Questions outside mortgage regulation get \"not found\" rather than a stretch. Results are for research and are not legal advice: verify against the primary source.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "CF Synergies, LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://claudeforcompliance.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:22.688Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abaf3fe8f588191939523d2d6f9cddd": {
       "id": "plugin_asdk_app_6abaf3fe8f588191939523d2d6f9cddd",
@@ -241783,7 +242806,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Conicia is psychoeducation and self-help from an OCD specialist. Connecting it gives your AI three things: short lessons on how OCD works, in-the-moment practices called the Right Now tools that open right in the chat, and a standing request that you set by connecting: when you ask for reassurance or a re-check in an anxious loop, your AI points you to a practice instead of feeding the loop. Ordinary questions get ordinary answers. The request is yours; how your AI honours it is up to your AI, not a guarantee from Conicia.\n\nPlease read this before you connect.\n\nConicia is not a substitute for clinical care. It does not diagnose or treat anything, and it is not for emergencies. It is intended for adults 18 and over. A conversational AI companion may not be suitable for some minors.\n\nYour AI can draw conclusions about you. Having an OCD tool connected, and the things you type around it, may lead your AI to infer that you have a diagnosis, whether or not that is true. Your chats stay with your AI provider under your own account and its consumer terms. They do not go to Conicia, and they are not protected the way medical records are. Use your judgment about what you share: shorthand is fine, and nothing in Conicia ever needs your story or your history. Connect it on a personal account only you can open, not a work, school, or shared one.\n\nConicia keeps nothing you type. Nothing you do inside a lesson or practice card is sent to Conicia or shown to your AI. There is no account and no sign-up; a tick that you finished a lesson and your place in a practice stay in your own browser only. Remove the connector any time in Settings, then Apps, for any reason. The rule, the tools, and the cards are gone from new chats immediately; conversations you already had stay in your AI's history like any other chat, so delete them there if you want them gone.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Conicia, Inc",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Healthcare",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://conicia.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:24.282Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a5e9439a4288191b2d55f65c8f571ae": {
       "id": "plugin_asdk_app_6a5e9439a4288191b2d55f65c8f571ae",
@@ -241798,7 +242849,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Mimo helps users find nearby active power bank stations, check device and return-slot availability, review working hours, and retrieve the active rental tariffs for a chosen station.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Mimo LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.mimometasharing.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:25.929Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab26c646c3c8191a1a200207ca4a166": {
       "id": "plugin_asdk_app_6ab26c646c3c8191a1a200207ca4a166",
@@ -241813,7 +242892,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "EscapeStays is the direct booking site of Luxury Lodging, a professional property manager with about 250 vacation rental homes across the United States. Search homes by place, dates, guests, bedrooms, pets and amenities; check live availability; get a real stay total that already includes cleaning, fees and taxes; and compare up to five homes side by side. Every result shows the home's neighbourhood, its own check-in time, deposit, pet policy and house rules, and its 4- and 5-star guest reviews from Airbnb and Booking.com, each labelled with its source. Prices are the manager's own, with no online travel agency commission added. The plugin never books for you: when you have chosen a stay it gives you a link to finish checkout, pay by card or Link, and accept the rental terms on Luxury Lodging's own site.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Louis Joseph Pellegrino",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://stay.luxurylodgingpm.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:27.712Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aba78a560fc8191acabe29d766ba0a0": {
       "id": "plugin_asdk_app_6aba78a560fc8191acabe29d766ba0a0",
@@ -241828,7 +242935,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Koko turns travel ideas into organized, mappable trips. Plan somewhere to go in chat, then save it straight to your Koko account: a ranked list of places, or a day-by-day itinerary with timed stops. Koko pins every place on a map, fills in ratings, opening hours and photos, and gives you a private link you can open and keep editing on the web or in the Koko app. Ask ChatGPT what you have saved, open a list to change it, or check when a new one is ready.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "CARSON KAR SHUN LI",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://kokotravel.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:29.512Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab2db4e5e0081919330a5699557e03a": {
       "id": "plugin_asdk_app_6ab2db4e5e0081919330a5699557e03a",
@@ -241843,7 +242978,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Hostizzy operates villas, farmhouses, cottages and homestays across India and rents them directly — it isn't a marketplace, so one company is responsible for the price, the property and the stay.\n\nSearch 39 homes by destination, party size and budget, check real availability, and get exact all-in totals from the same quote engine the checkout uses. Every price includes GST and the booking fee. There is no cleaning fee, no service fee and no pet fee.\n\nStrongest around Delhi NCR — Gurugram, Sohna, Manesar, Mangar — and in the hills at Mussoorie, Mukteshwar, Shimla and Barog. Read-only: it can research and quote, but never books or takes payment.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Hostizzy",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://book.hostizzy.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:31.187Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aabe9c9a9cc8191adde2aad597a07c0": {
       "id": "plugin_asdk_app_6aabe9c9a9cc8191adde2aad597a07c0",
@@ -241858,7 +243021,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "ParkMobile helps users find nearby parking, compare estimated prices and walking distances, inspect area details and amenities, and discover parking options for upcoming events.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "ParkMobile LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://parkmobile.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:32.741Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_69e458a2ea748191a71a07f7f673234c": {
       "id": "plugin_asdk_app_69e458a2ea748191a71a07f7f673234c",
@@ -241873,7 +243064,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Access practical travel data for road trips and vanlife worldwide, including fuel prices, currency exchange rates, cost of living, visa rules, vehicle license plates, events, and travel news. Use current country-level information to compare destinations and prepare informed journeys.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "ALEKSEI KOPAEV",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://openvan.camp/ru/developers"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:34.326Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab4ab193990819190809e2f9efc94bc": {
       "id": "plugin_asdk_app_6ab4ab193990819190809e2f9efc94bc",
@@ -241888,7 +243107,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Track your flight and get the latest available information about its status, terminal, boarding gate, delays, and gate changes.\n\nEnter your flight number and travel date to check the latest flight information. Flight Gate helps travelers keep important airport information together in ChatGPT before and during their journey.\n\nFlight information can change at any time. Always confirm final boarding and gate information with the airline and airport.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "LEONARDO FABIAN WEISSBERG GEREZ",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://datosmoviles.es/FlightGate/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:36.090Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abaa23386e08191b61b08c24126f3cf": {
       "id": "plugin_asdk_app_6abaa23386e08191b61b08c24126f3cf",
@@ -241903,7 +243150,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "KiedyKoncert.pl to kalendarz koncertów w Polsce. Plugin pozwala zapytać asystenta, kiedy gra wybrany wykonawca, jakie koncerty są w danym mieście lub okolicy w wybranym terminie i jakie są szczegóły konkretnego koncertu.\n\nCo potrafi:\n- wyszukać nadchodzące koncerty po wykonawcy lub nazwie wydarzenia (literówki są poprawiane), po miejscowości z promieniem 10–100 km, po dacie lub skrótach („dziś”, „ten weekend”, „następny miesiąc”) i po gatunku;\n- pokazać wszystkie ogłoszone terminy trasy wykonawcy, z liczbą odwołanych;\n- pokazać szczegóły koncertu: wykonawców, datę, godzinę otwarcia drzwi i startu (gdy są znane), miejsce i adres, status (w tym wyprzedany, odwołany, przełożony), cenę „od” i nazwy sprzedawców biletów;\n- podać listę gatunków z liczbą nadchodzących koncertów.\n\nSkąd dane: z oficjalnych kalendarzy klubów, hal i domów kultury oraz od sprzedawców biletów. Przy każdym koncercie podajemy źródło i datę ostatniego potwierdzenia.\n\nCzego plugin nie robi:\n- działa wyłącznie do odczytu: nie kupuje biletów, nie tworzy kont, nie zmienia danych i nie zapisuje alertów;\n- nie podaje linków do sklepów — każdy koncert prowadzi do swojej karty na KiedyKoncert.pl, gdzie są aktualni sprzedawcy;\n- obejmuje tylko koncerty w Polsce, od dnia dzisiejszego;\n- brak koncertów w kalendarzu jest mówiony wprost („brak nadchodzących koncertów”), bez zgadywania.\n\nDane są tak aktualne jak źródła — przed wyjazdem warto sprawdzić status u organizatora.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "LUKASZ MACIEJ KROL",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Entertainment",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://kiedykoncert.pl/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:37.799Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab7f470bef48191804980d767346ac0": {
       "id": "plugin_asdk_app_6ab7f470bef48191804980d767346ac0",
@@ -241918,7 +243193,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Inkspired is a platform where authors write and publish serialized stories and build the universes behind them. This connector gives your AI assistant access to your own Inkspired author workspace, so it can help you write, revise and understand your work without copy-pasting.\n\n\nWhat it can do:\n\n\n\nBrowse your work: list your stories and open any chapter, including drafts.\n\nDraft and revise: create new stories and chapter drafts, and save changes to drafts.\n\nProofread safely: suggest corrections that you review and apply. Every change an assistant makes to a chapter is backed up first, so you can restore the previous version.\n\nBuild your world: create universes, link stories to them, and add, update or link glossary entries for characters, places and lore.\n\nUnderstand your readers: read the comments and reviews on your chapters, see your writing stats, and view story performance. Performance includes reads, likes, retention and drop-off, demographics and rankings, within the limits of your plan.\n\nStay on top of activity: check your recent notifications.\n\n\nWhat it can't do: it can never publish, schedule or delete anything. Those actions stay with you on Inkspired. It only has access to your own account, you approve its permissions when you connect, and you can disconnect it at any time.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Inkspired",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Entertainment",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://getinkspired.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:39.373Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abb2bc2a6608191878ce88c9fd963d7": {
       "id": "plugin_asdk_app_6abb2bc2a6608191878ce88c9fd963d7",
@@ -241933,7 +243236,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "Reading Your Love (RYL) reads the relationship between two people as two gauges: temperature — your drive for romance — and humidity — the depth of feeling for the other person. Give both birth dates and birth cities (birth times sharpen it) and RYL shows an interactive card with where each of you sits on each gauge, named in RYL's own words (Lukewarm / Moderate / Hot, Dry / Moist / Damp). The card is a preview: the exact reading, with the full story behind it, is one tap away on readingyourlove.com, with your details already filled in.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "LNP83 PTE. LTD.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Entertainment",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.readingyourlove.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:41.303Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab7ec3957088191879c86e0b4207aeb": {
       "id": "plugin_asdk_app_6ab7ec3957088191879c86e0b4207aeb",
@@ -241948,7 +243279,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-13T06:01:17.120Z",
       "firstSeenAt": "2026-10-13T06:01:17.120Z",
-      "information": []
+      "detailDue": false,
+      "description": "MusicAtlas is the fastest way to discover music through sound across major streaming services. Find songs that sound like a track you love, explore similar artists, understand what makes a song sound the way it does, and discover playlists for any mood, genre, activity, or vibe. Listen to playable previews and jump to your favorite music service to hear more.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "MusicAtlas, Inc.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Entertainment",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://musicatlas.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-13T06:02:43.006Z",
+      "detailFailures": 0
     }
   },
   "scans": [
@@ -291856,9 +293215,9 @@
     "runId": "38354216619",
     "runAttempt": "1",
     "startedAt": "2026-10-13T05:59:38.017Z",
-    "updatedAt": "2026-10-13T06:01:17.131Z",
+    "updatedAt": "2026-10-13T06:04:22.649Z",
     "mode": "incremental",
-    "detailRequests": 0,
+    "detailRequests": 108,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
@@ -291868,11 +293227,11 @@
     "errors": 0,
     "stats": {
       "total": 4143,
-      "details": 4095,
+      "details": 4143,
       "translated": 4089,
       "missing": 6,
       "removed": 117,
-      "pendingDetails": 54,
+      "pendingDetails": 0,
       "pendingTranslations": 54
     }
   }
