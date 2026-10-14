@@ -6279,7 +6279,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "读取、导出、整理并安全更新 OneNote",
       "legacySummaryOriginal": "Read, export, organize, and safely update OneNote",
@@ -6312,12 +6312,12 @@
         },
         {
           "label": "Version",
-          "value": "0.1.4",
+          "value": "0.1.6",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-11T04:48:30.027Z",
+      "detailCheckedAt": "2026-10-14T04:06:04.467Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "读取、导出、整理并安全更新 OneNote",
@@ -61498,13 +61498,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "设计工具",
       "legacySummaryOriginal": "Design systems for AI agents",
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Better Design gives AI coding agents a design-engineering layer for frontend work.\n\nDesign Intelligence mode loads UI principles before the agent writes UI code, then asks the agent to self-review against accessibility, visual design, motion, content, and comprehension rules. It helps catch issues like weak hierarchy, inaccessible controls, distracting motion, unclear copy, and missing reduced-motion behavior before code is presented.\n\nScaffold mode lets an agent install a complete shadcn-compatible visual system: tokens, globals, and component source. Better Design can also generate a new custom design system from a natural-language prompt and return a shadcn install command for the resulting registry.\n\nThe MCP server exposes tools for finding and generating design systems, loading UI/UX and React Native guidance, reviewing interface quality, extracting existing CSS tokens, and installing icon components. Tools are served from a public HTTPS endpoint and authenticated with OAuth for hosted ChatGPT and Codex use.",
+      "description": "When ChatGPT builds you an app, a website or a page, it often looks generic and misses how people will use it. Better Design is a design harness that helps ChatGPT get both right.\n\nPick a look. Describe your product, and Better Design shows you design systems that fit it, such as calm and trustworthy for a finance app. A design system is the set of colors, fonts, buttons and cards that makes a product look like one brand. You choose one, and ChatGPT builds with it.\n\nMake your own. Describe the feel you want, or share your website, and Better Design creates a custom design system in a few minutes.\n\nGet the experience right. Better Design tells ChatGPT how sign-up, onboarding, forms, search, checkout and error messages should work, and what each screen should say.\n\nCheck the result. Better Design reviews what ChatGPT built for the problems people notice: text that is hard to read, buttons that are hard to find, screens that ask for too much at once, and words only insiders understand.",
       "information": [
         {
           "label": "Developer",
@@ -61525,12 +61525,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-11T05:16:37.747Z",
+      "detailCheckedAt": "2026-10-14T04:06:06.035Z",
       "translationAttemptRun": "37342451051:1",
       "translation": {
         "summary": "为 AI 智能体提供设计系统",
@@ -65676,14 +65676,14 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "付费广告分析",
       "legacySummaryOriginal": "Use Google Ads, Facebook, Meta",
       "legacyDescriptionSource": "HYPD brings your advertising and analytics accounts into ChatGPT so you can analyze paid marketing performance in plain language.\n\nConnect Google Ads, Meta (Facebook and Instagram), Google Analytics, and Merchant Center, then just ask.\nYou get campaign performance, spend and ROAS breakdowns, wasted-spend checks, creative and audience insights, funnel and conversion-path analysis, and Shopping feed diagnostics, all from your real account data.\nYou also get keyword research with search volume, competitor ad and SERP research, and landing-page checks, plus ready-to-run prompt templates, expert marketing skills, and your saved business context, so every answer reflects your accounts, brand, and goals.\n\nBuilt for marketers, agencies, and advertisers who want fast answers and client-ready reporting without leaving the chat. HYPD is read-only. It reports on your accounts and never changes your campaigns.",
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "HYPD brings your advertising and analytics accounts into ChatGPT so you can analyze paid marketing performance in plain language. \n\nConnect Google Ads, Meta (Facebook and Instagram), Google Analytics, and Merchant Center, then just ask. \nYou get campaign performance, spend and ROAS breakdowns, wasted-spend checks, creative and audience insights, funnel and conversion-path analysis, and Shopping feed diagnostics, all from your real account data. \n\nYou also get keyword research with search volume, competitor ad and SERP research, and landing-page checks, plus ready-to-run prompt templates, expert marketing skills, and your saved business context, so every answer reflects your accounts, brand, and goals. \n\nBuilt for marketers, agencies, and advertisers who want fast answers and client-ready reporting without leaving the chat. HYPD is read-only. It reports on your accounts and never changes your campaigns.",
+      "description": "HYPD connects your advertising platforms, analytics, ecommerce, and search data to ChatGPT and is built for PPC and paid media marketers, agencies, freelancers, ecommerce brands, and small business owners.\n\nPlatforms\nHYPD connects your Google Ads, Meta Ads, Microsoft Advertising/Bing Ads, LinkedIn Ads, Google Analytics 4, Merchant Center, and Google Search Console to ChatGPT.\n\nIncluded marketing data\nBuilt-in competitor-analysis tools help marketers research competing ads on Google & Meta Ads(ad libraries), research keywords (Keyword Planner), analyze Google SERPs and Google Shopping data, find competitors and audit landing pages.\n\nUse HYPD to:\n- Run detailed Google Ads audits across campaigns, ad groups, ads, keywords, search terms, bidding strategies, budgets, and conversion tracking.\n- Mine Google Ads search terms to find high-intent queries, new keyword opportunities, irrelevant searches, negative-keyword ideas, and non-converting spend.\n- Diagnose Google Ads performance changes and wasted spend by comparing metrics such as CPC, CTR, conversions, CPA, and ROAS across periods, campaign types, devices, locations, and audiences.\n- Discover keywords using Keyword Planner data and forecast potential impressions, clicks, CPC, demand, and advertising costs.\n- Analyze Meta Ads at the campaign, ad-set, ad, and creative levels to understand spend, reach, clicks, conversions, CPA, and ROAS.\n- Identify winning and fatigued Meta creatives, compare audiences and placements, and investigate delivery, pixel, catalog, or product-feed issues.\n- Diagnose GA4, consent, attribution, conversion-tracking, and funnel problems, including differences between advertising platforms and GA4.\n- Troubleshoot Merchant Center disapprovals, product-feed problems, weak Shopping visibility, price competitiveness, and underperforming products.\n- Investigate website and organic-search traffic declines, audit landing pages, plan campaign tests, and prepare reports for business owners or clients.\n\nSolutions\nFor eCommerce shops and SMBs, HYPD connects all important marketing data and turns it into clear answers about budgets, results, and next steps. eCommerce shops can also investigate product-feed issues, Shopping performance, customer journeys, and revenue attribution.\n\nFor agencies and freelancers, HYPD helps analyze multiple client accounts, explain performance changes, uncover optimization opportunities, and prepare client-ready reports.\n\nHYPD is read-only: it analyzes data and recommends actions but does not change campaigns, budgets, ads, or account settings.",
       "information": [
         {
           "label": "Developer",
@@ -65704,12 +65704,12 @@
         },
         {
           "label": "Version",
-          "value": "1.1.0",
+          "value": "1.1.2",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-11T05:18:37.895Z",
+      "detailCheckedAt": "2026-10-14T04:06:07.590Z",
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "使用 Google Ads、Facebook 和 Meta",
@@ -65970,7 +65970,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "云存储",
       "legacySummaryOriginal": "Securely access Box content",
@@ -65980,13 +65980,18 @@
       "description": "Search and reference your documents",
       "information": [
         {
+          "label": "Capabilities",
+          "value": "Search files, Analyze documents, Extract metadata, Organize content, Collaboration",
+          "links": []
+        },
+        {
           "label": "Developer",
           "value": "Box inc.",
           "links": []
         },
         {
           "label": "Category",
-          "value": "Productivity",
+          "value": "Business & Operations",
           "links": []
         },
         {
@@ -65998,12 +66003,12 @@
         },
         {
           "label": "Version",
-          "value": "8.0.0",
+          "value": "8.0.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-11T05:18:44.927Z",
+      "detailCheckedAt": "2026-10-14T04:06:09.180Z",
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "安全访问 Box 内容",
@@ -77280,13 +77285,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "退货平台",
       "legacySummaryOriginal": "Manage commerce ops",
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Redo gives AI assistants direct access to your entire commerce operations stack. Manage returns and exchanges, recover abandoned carts, optimize checkout, track orders, automate support workflows, manage inventory and fulfillment, and surface customer insights all through natural language. Connect your AI tools to the systems powering your brand so teams can move faster, reduce manual work, increase revenue, and create better customer experiences across the full e-commerce lifecycle.",
+      "description": "Redo helps authenticated merchants manage returns, orders, customers, marketing, shipping, inventory, and analytics in their private Redo account through ChatGPT.",
       "information": [
         {
           "label": "Developer",
@@ -77307,12 +77312,12 @@
         },
         {
           "label": "Version",
-          "value": "3.1.0",
+          "value": "3.1.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-11T05:24:39.206Z",
+      "detailCheckedAt": "2026-10-14T04:06:10.741Z",
       "translationAttemptRun": "37453076339:1",
       "translation": {
         "summary": "管理电商运营",
@@ -104809,14 +104814,14 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "追踪 SEO 与页面变化",
       "legacySummaryOriginal": "Track SEO and page changes",
       "legacyDescriptionSource": "PagePulse brings your Google Search Console data, Google Analytics 4 metrics, and detected on-page change history into ChatGPT. Ask about your sites by project, page, or topic and get answers grounded in your actual analytics.\nThe unique angle is correlation. PagePulse tracks every detected change to your pages — title rewrites, content updates, schema edits, link changes — and scores each one by importance. So when you ask \"why did traffic drop on the pricing page last week?\", ChatGPT can pull the analytics, surface the relevant page changes, and show you which edits lined up with the shift.\nUse it to investigate traffic dips, audit what's been changing across your site, find the queries driving impressions to a specific page, browse pages by tag, or get a quick read on how a project is performing — without switching between dashboards.",
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "PagePulse brings your Google Search Console data, Google Analytics 4 metrics, and detected on-page change history into ChatGPT. Ask about your sites by project, page, or topic and get answers grounded in your actual analytics.\nThe unique angle is correlation. PagePulse tracks every detected change to your pages — title rewrites, content updates, schema edits, link changes — and scores each one by importance. So when you ask \"why did traffic drop on the pricing page last week?\", ChatGPT can pull the analytics, surface the relevant page changes, and show you which edits lined up with the shift.\nUse it to investigate traffic dips, audit what's been changing across your site, find the queries driving impressions to a specific page, browse pages by tag, or get a quick read on how a project is performing — without switching between dashboards.",
+      "description": "Page Pulse combines Google Search Console data, Google Analytics 4 data, and on-page change tracking for the user's own websites. Through ChatGPT, users can list their tracked projects, investigate traffic drops by comparing analytics periods, see exactly what changed on their pages (content, titles, meta descriptions, links) and when, analyze the search queries driving traffic, start tracking new sites or hand-picked page lists, and set up email or Slack alerts for meaningful page changes or traffic thresholds.",
       "information": [
         {
           "label": "Developer",
@@ -104825,7 +104830,7 @@
         },
         {
           "label": "Category",
-          "value": "Data & Analytics",
+          "value": "Business & Operations",
           "links": []
         },
         {
@@ -104837,12 +104842,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-11T05:38:17.998Z",
+      "detailCheckedAt": "2026-10-14T04:06:12.508Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "跟踪 SEO 和页面变化",
@@ -107616,7 +107621,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "分析影院与市场数据",
       "legacySummaryOriginal": "Analyze cinema and market data",
@@ -107643,12 +107648,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.2.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-11T05:39:45.045Z",
+      "detailCheckedAt": "2026-10-14T04:06:14.081Z",
       "translationAttemptRun": "37609331348:1",
       "translation": {
         "summary": "分析影院和市场数据",
@@ -137621,7 +137626,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "读懂你的财务状况",
       "legacySummaryOriginal": "Understand your finances",
@@ -137654,12 +137659,12 @@
         },
         {
           "label": "Version",
-          "value": "3.0.0",
+          "value": "3.0.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-11T05:55:09.457Z",
+      "detailCheckedAt": "2026-10-14T04:06:15.755Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "了解您的财务状况",
@@ -199308,7 +199313,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "你最爱的品牌都在这",
       "legacySummaryOriginal": "All your favorite brands",
@@ -199318,8 +199323,13 @@
       "description": "Find exactly what you’re shopping for with Shop for ChatGPT. Just enter your search (Gift ideas? Snowproof boots?) and get recommended products—from local stores to the world’s biggest brands. When you’re ready to buy, check out instantly with Shop.app. Best of all? Each purchase directly supports brands you love.",
       "information": [
         {
+          "label": "Capabilities",
+          "value": "Search products, Compare options, Build carts, Prepare checkouts, Track orders",
+          "links": []
+        },
+        {
           "label": "Developer",
-          "value": "Shopify Inc.",
+          "value": "Shopify",
           "links": []
         },
         {
@@ -199331,17 +199341,17 @@
           "label": "Website",
           "value": "",
           "links": [
-            "https://shop.app/"
+            "https://shop.com/"
           ]
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.0.4",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-11T06:27:20.614Z",
+      "detailCheckedAt": "2026-10-14T04:06:17.324Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "你喜爱的各大品牌",
@@ -244093,7 +244103,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "PostPlanify brings social media management into ChatGPT.\n\nCreate, schedule, publish, and manage social media content across Instagram, Facebook, LinkedIn, X, TikTok, YouTube, Threads, Pinterest, Google Business Profile, and Bluesky.\n\nManage your full social media workflow from one place, including content planning, publishing calendars, social media analytics, performance reports, social inbox conversations, comments and messages, client workspaces, team collaboration, approvals, and account management.\n\nPostPlanify is built for social media managers, marketing teams, agencies, and businesses managing multiple brands or client accounts. Use it to plan campaigns, review performance, generate reports, manage audience engagement, organize client work, and handle day-to-day social media operations directly from ChatGPT.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "PostPlanify",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Productivity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://postplanify.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:14.423Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a09fa1ce9808191901677b6d4acf923": {
       "id": "plugin_asdk_app_6a09fa1ce9808191901677b6d4acf923",
@@ -244108,7 +244146,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Create Prints turns images and generated artwork into physical wall prints, posters, and framed artwork. It prepares chat images for printing, shows compatible products and prices, creates secure checkout links, and tracks Create Prints orders through delivery.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Viable Digital",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.createprints.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:16.065Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa5925ddc408191bd149b3adc2788e9": {
       "id": "plugin_asdk_app_6aa5925ddc408191bd149b3adc2788e9",
@@ -244123,7 +244189,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Algorithmic Ink turns your photos into geometric artwork directly inside ChatGPT. Transform a portrait, pet photo, object or landscape into spiral FM line art, scribble drawings, circle stippling or triangle art, then preview and refine the result in an interactive studio.\nStart by attaching a JPEG, PNG or WebP photo to your conversation, or choose a photo through the studio’s file picker. Describe the style you want, select ink and background colors, and adjust the drawing controls to change detail, contrast, line weight and other style-specific settings. Optional background removal isolates the subject; turn it off to preserve the complete scene.\nContinue refining your artwork through conversation or the studio’s controls. For example, ask to switch from spiral lines to scribble art, make the lines thinner, or change the colors while keeping the same photo. When the artwork is ready, download an SVG for further editing in compatible design software or a PNG for convenient viewing and sharing.\nImage processing and artwork generation run locally in your browser while the studio is open. Algorithmic Ink does not maintain a server-side library of your photos or finished artwork. The ChatGPT integration processes photo references and drawing settings, and shares rendering status, settings and a small artwork preview with ChatGPT to support follow-up requests. Photos selected in the studio are uploaded to ChatGPT when its upload feature is available, and exports may pass through ChatGPT’s download feature. The privacy policy explains these data flows, recipients, retention and user controls.\nNo separate Algorithmic Ink account is required, and Algorithmic Ink currently charges no usage fee. The app creates artwork from existing photos; it does not generate images from text alone, produce videos, or provide printing and shipping services. Processing speed and download availability depend on your device, browser and ChatGPT’s supported features.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "MAHFOUZ ALCHEIKH",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://algorithmicink.ca/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:17.674Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab5a1f8e7a081918233c9dccf836c13": {
       "id": "plugin_asdk_app_6ab5a1f8e7a081918233c9dccf836c13",
@@ -244138,7 +244232,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Create thoughtful greetings for everyday moments, birthdays, anniversaries and celebrations in 13 languages, including Hindi. Get a greeting as text or make a complete card with occasion-matched backgrounds and optional decorations. Try another version and download the image, or open its reusable design on Generate Greetings to customize it.\n\nCards are free and include a watermark. No Generate Greetings account is needed. Optional first names personalize the response and image; reusable web links omit names and expire after 30 days. The connector does not send messages, publish social posts or make purchases.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "TOMMASO MARIA SAVORANA",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://generategreetings.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:19.391Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abbdfc4957881918983a1f223d495ea": {
       "id": "plugin_asdk_app_6abbdfc4957881918983a1f223d495ea",
@@ -244153,7 +244275,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Crealix makes finished short-form and long-form videos from an idea or a script: faceless narrated videos, scene-by-scene videos, Reddit stories, tweet threads, text-message stories, AI dramas, AI movies, music videos and more. It picks a voice, a visual style, captions and music that suit the video from Crealix's catalog (or your saved brand), shows you a proposal to approve, and plays a draft with the voice, captions and music right in the chat. Ask for changes in plain words and render the final MP4 when you're happy. Crealix also generates images, video clips, music, avatar videos and 4K upscales, and uses your own files: attach them to the chat or upload them from the card. Everything is saved to your Crealix library and uses your Crealix credits; the cost is shown before anything is spent, and bigger spends ask for your OK.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "JORGE JIMENEZ DIAZ",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.crealix.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:20.976Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aba771badc08191b3ba96a4b9c8bf45": {
       "id": "plugin_asdk_app_6aba771badc08191b3ba96a4b9c8bf45",
@@ -244168,7 +244318,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Create Videos and Images inside Chat-GPT with Unify",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Unify",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://unifycore.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:22.585Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abb3c5a47748191900c707dc8e9ce28": {
       "id": "plugin_asdk_app_6abb3c5a47748191900c707dc8e9ce28",
@@ -244183,7 +244361,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "OceanToken puts 500+ AI models behind one account and one prepaid balance: GPT, Claude, Gemini, DeepSeek and Qwen for text; GPT Image, Seedream, Recraft and Gemini for images; Seedance, Veo, Sora and Wan for video; plus text-to-speech and transcription.\n\nSearch the catalog by type, capability and price, see exactly which options a model accepts, and get a cost estimate before anything runs, with a check against your available balance. Then generate: images with previews, video jobs you can follow to completion, voice-overs, subtitles, or a one-shot answer from another model when a cheaper or different model fits the task better. Results come back as download links. Every request is billed to your existing OceanToken balance at catalog prices; failed video jobs are not charged, and you can set a spending cap per request.\n\nConnect with your OceanToken email and password (a dedicated API key is created for the plugin, revocable in the OceanToken console) or with an existing API key.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "NextForm LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://oceantoken.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:24.243Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab8e8334a788191bf9381f5a75ef4ab": {
       "id": "plugin_asdk_app_6ab8e8334a788191bf9381f5a75ef4ab",
@@ -244198,7 +244404,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Turn a potential idea into a SysML v2 model you can see and develop, right in ChatGPT.\n\nDescribe a system, such as an aircraft architecture, a drone or an EV powertrain. ChatGPT drafts the SysML v2 model using BusbySim's syntax guide, then BusbySim validates the syntax. ChatGPT corrects any errors it reports until the model is valid. BusbySim then shows the model in its editor and diagram inside the chat. There you can pan, zoom and edit the SysML, and the diagram updates as you type. You can also work entirely in the diagram, using the right click to add, delete or edit elements.\n\nTo keep working on your model, open it in BusbySim as a project. You sign in or create a free account first. Within BusbySim you can link requirements, complete functional analysis, or output FHA, FMEA, fault trees and safety reports.\n\nNo login is needed in ChatGPT, and the plugin can't see your saved BusbySim projects. The syntax check covers the BusbySim specific subset of SysML v2 syntax only. It doesn't check what the model means or prove the design is safe.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Busby Ventures Limited",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.busbysim.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:25.876Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab4b56a106c81918567c8fff00593cc": {
       "id": "plugin_asdk_app_6ab4b56a106c81918567c8fff00593cc",
@@ -244213,7 +244447,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Bring an image from your conversation to a T-shirt or another available Inkdrop product. If you do not have artwork yet, create or attach a design in ChatGPT first. Once the image is ready, send “Choose my Inkdrop product” to open the picker.\n\nBrowse a horizontal product list, read details, enlarge photos, and choose available colors, sizes and print options. Apply your artwork and review the finished mockup in the conversation. Change the product or scale, recover saved choices after a reload, and open the real product preview on Inkdrop. To rework artwork, edit the standalone image in ChatGPT and explicitly continue with the finished image; review it before applying.\n\nWhen ready to buy, open Inkdrop’s website to review your product, shipping, taxes and payment. Opening checkout does not place an order. US availability and prices vary. An Inkdrop account is required to save artwork and create previews. Artwork and mockup images are unlisted, but anyone with their image link can view them.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Software services",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://inkdrop.fun/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:27.614Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aba38bb496c8191bea75edba854a095": {
       "id": "plugin_asdk_app_6aba38bb496c8191bea75edba854a095",
@@ -244228,7 +244490,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Create and revise short explainer videos and slides in your Fablyn workspace. Describe what you want to explain, then use Fablyn to save a Video, check its stills, and refine the words, layout and motion. Add optional narration and render a finished video, or approve stills as slides. Review your work and manage approvals in Fablyn Studio. A Fablyn account is required. Narration and rendering use your workspace’s minutes.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Yarra Systems Pty Ltd",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://fablyn.app/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:29.589Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a724ef298b08191b450f9801483666e": {
       "id": "plugin_asdk_app_6a724ef298b08191b450f9801483666e",
@@ -244243,7 +244533,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Investigate meeting bots, recordings, transcripts, calendars, logs, webhooks, service health, and API documentation from your Recall.ai workspaces.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Recall.ai",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.recall.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:31.215Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aaa8eb89614819199b3d35c47ab774e": {
       "id": "plugin_asdk_app_6aaa8eb89614819199b3d35c47ab774e",
@@ -244258,7 +244576,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "worklore is a library of honest, agent-reproducible developer stories. Search stories and open their machine-readable \"Reproduce this\" contract so your agent can run the same fix in your own project; x-ray any skill or story to see what it can actually do (a capability tier T0-T4 bound to the content hash) before you run it; and record how a reproduction honestly went. Sign in with GitHub or Google.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "VALENTINA KONIUKHOVA",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://worklore.dev/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:32.910Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abadac2d9a08191ae2307c047bb3806": {
       "id": "plugin_asdk_app_6abadac2d9a08191ae2307c047bb3806",
@@ -244273,7 +244619,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Investigate files, URLs, domains and IP addresses with VirusTotal threat intelligence. Read existing reports and interpret detections together with analysis dates and coverage. A missing report is an unknown result, not a safety verdict.\n\nAnalyze an explicitly authorized ChatGPT attachment using its original file object, or supply a small file as explicit bytes. VTAI hashes the original content and uploads it only after confirming that VirusTotal does not already know it. Contributing a new file does not spend report-query quota. Retrieving an existing report, including repeated lookups and analysis-status reads, consumes query quota; receipt recovery is free. File contributions have separate abuse limits.\n\nFor authorized network analysis, submit a URL or request domain/IP reanalysis. Keep each request ID, recover its receipt after an interruption, and follow its registered analysis without repeating an uncertain submission.\n\nConnect with Google sign-in through VirusTotal AI (VTAI); no VirusTotal API key is required. Permissions and quotas apply to your account across connections. Revoke access from VTAI at any time.\n\nStandard submissions are shared with VirusTotal and may be available to its security community and partners. Ask before sharing personal documents, internal code, credentials or personal data. Complete URLs, including query strings and fragments, are disclosed. The remote connector cannot read local filesystem paths. Report evidence does not guarantee safety.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "VirusTotal",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://ai.virustotal.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:34.583Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abb7dbdbbe481919972d35e8a97fb0a": {
       "id": "plugin_asdk_app_6abb7dbdbbe481919972d35e8a97fb0a",
@@ -244288,7 +244662,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Sadakio is loyalty infrastructure for cafés and small businesses in Türkiye: guest registration, digital cards, stamps and points, QR codes, menus, visit events, webhooks and retention metrics over a REST API. This plugin lets ChatGPT search the Sadakio developer documentation in English and Turkish, read whole pages including ready-made solution recipes, list every endpoint of the Platform API and the Business API, and return the exact contract of an endpoint, so developers get correct integration code without guessing field names. It only reads public documentation and API contracts and never touches any business or guest data.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "VLADIMIR DRIGOLA",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://sadakio.com/en/gelistirici"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:36.222Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aba8112fea88191bede7fa0906e107e": {
       "id": "plugin_asdk_app_6aba8112fea88191bede7fa0906e107e",
@@ -244303,7 +244705,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Protogrid is a public registry of MCP servers. Describe a task in plain words and it finds matching servers from the official MCP registry, tells you how each one connects (no sign-in, an API key, OAuth or a local package), and returns a ready-to-use configuration for clients such as Claude Code, Codex, Cursor or VS Code. Every server shows its tools, a change history of its tool definitions, and trust and quality scores built from our own credential-free checks. You can also check any remote MCP server URL for protocol support and directory readiness. protogrid is read-only: it never calls third-party tools and never asks for your credentials. Scores come from observable signals; no audit is implied.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "PEDRO IBANEZ REQUENA",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://protogrid.dev/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "0.3.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:37.888Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abc42c5af60819187ab2426e92768c4": {
       "id": "plugin_asdk_app_6abc42c5af60819187ab2426e92768c4",
@@ -244318,7 +244748,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "GitDiagram shows how a public GitHub repository is built. Ask about a repository, for example \"Show me the architecture of fastapi/fastapi\", and you get its architecture diagram: an interactive map of the main components and how they connect, which you can pan, zoom and open full screen, and where every component opens its source code on GitHub.\n\nWith the diagram, ChatGPT also receives GitDiagram's written explanation of how the codebase is organized, the list of components with the paths they live in, how they connect, and the Mermaid source, so it can answer follow-up questions about the code and point you to the right files.\n\nYou can also search GitDiagram's library of diagrams by owner or repository name, and get a repository's narrated explainer video and its transcript when one exists.\n\nIt's for anyone getting to know an unfamiliar codebase: onboarding to a project, evaluating an open-source dependency, preparing a first contribution, or explaining how a project works.\n\nLimitations: GitDiagram covers public GitHub repositories only. The plugin reads diagrams GitDiagram has already made; when a repository has none yet, it gives you a link to gitdiagram.com, where the diagram is made in about a minute, and after that the plugin can read it. Diagrams are AI-generated from the repository's files and can miss details, so check anything important against the code. The plugin is read-only, never changes anything on GitHub or elsewhere, and needs no account.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "GitDiagram",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://gitdiagram.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:39.660Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aaa3cbbcee481919de226883ef64627": {
       "id": "plugin_asdk_app_6aaa3cbbcee481919de226883ef64627",
@@ -244333,7 +244791,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Prerender Buddy helps users inspect public crawler-readable HTML and review read-only website health, crawler activity, AI visibility, recommendations, and content status from an authorized workspace.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Tmbrella LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://prerenderbuddy.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:41.560Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a988345a05c819190cdcd213b2f86dc": {
       "id": "plugin_asdk_app_6a988345a05c819190cdcd213b2f86dc",
@@ -244348,7 +244834,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Salesloft helps users find and inspect accounts, people, opportunities, users, and recorded conversations from their Salesloft workspace directly in ChatGPT. It supports looking up who is logged in and their team settings, searching or fetching a single account, user, opportunity, or contact by ID, and searching recorded calls and meetings to pull AI-generated summaries or a recording link. Users can also send feedback about the assistant's responses or tools back to Salesloft.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Salesloft",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Business & Operations",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.salesloft.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:43.230Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a509e86b6808191857c89fef7232cd4": {
       "id": "plugin_asdk_app_6a509e86b6808191857c89fef7232cd4",
@@ -244363,7 +244877,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "חפשו והשוו פרויקטים להשקעה בקרקעות לפי אזור, תקציב, סטטוס תכנוני, רמת סיכון ואופק השקעה. קבלו פרטי פרויקט, הסברים למונחים מרכזיים ואפשרויות שמתאימות להעדפות שלכם.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Ido Havilio",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Business & Operations",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://ilands.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:44.861Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aba5da88a848191aba28f75dd89f016": {
       "id": "plugin_asdk_app_6aba5da88a848191aba28f75dd89f016",
@@ -244378,7 +244920,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "EnergyIA.AR connects ChatGPT to official Argentine data on energy and mining, normalized and kept up to date from government and market sources.\n\nWhat you can ask:\n- Oil and gas: production by field, basin, formation, province, operator and well, with rankings, year-over-year changes and history since 2006.\n- Who leads each sector: top operators, who is rising and falling, and side-by-side company comparisons.\n- Mining: projects, production and exports by mineral and province.\n- Electricity: installed capacity by technology and province, generation, demand and large industrial consumers.\n- Gas network, gas consumption, the oil value chain and fuel prices at the pump.\n- Energy trade: exports by port and destination, and export prices by company.\n- RIGI large-investment projects, public tenders and opportunities for suppliers.\n- Macro context: consumer prices and the exchange rate.\n\nEvery answer carries its source, its period and its unit, and states how far each dataset reaches. All tools are read-only. Coverage is Argentina only. Works in Spanish and English. Requires an EnergyIA.AR account.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "NICOLAS MATIAS CHIARINI",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://energyia.ar/en/brain"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:46.736Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab9fd9dcef881919540fa46296aca45": {
       "id": "plugin_asdk_app_6ab9fd9dcef881919540fa46296aca45",
@@ -244393,7 +244963,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Tap by P3 Adaptive answers questions from Power BI models that P3 Adaptive has made public. It lists the public models and what each one holds, reads a model's tables, columns, measures and relationships, and runs one read-only DAX query at a time against the live model through the Power BI executeQueries REST API, so every figure is current when you ask. Each answer names the model it came from. Nobody signs in. The question, the query and its results are not kept, and the caller's address is kept only as a keyed code that changes daily, used for rate limits. Tap is a pilot, so its models and limits can change.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "P3 Adaptive",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://tap.p3adaptive.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:48.290Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa3aeb9fb5881918d2b14c76de453e9": {
       "id": "plugin_asdk_app_6aa3aeb9fb5881918d2b14c76de453e9",
@@ -244408,7 +245006,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Connect your Klaviyo email and SMS data to ChatGPT with Adzviser. Ask questions in plain language to see how your campaigns and flows are performing and what they are earning.\n\nCompare opens, clicks, unsubscribes, conversions, and attributed revenue across date ranges. Break results down by campaign, flow, message, or list. Turn your marketing data into clear reports, spot trends, and see which sends are actually driving revenue.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Adzviser LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://adzviser.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:49.872Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a53ba3c12d08191a9ea125caf59836a": {
       "id": "plugin_asdk_app_6a53ba3c12d08191a9ea125caf59836a",
@@ -244423,7 +245049,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Charts by Szum helps ChatGPT turn plain-language requests and raw data into polished charts. Explore curated themes and examples, validate chart definitions, and display interactive previews with SVG and PNG image links. Save results for permanent image and interactive embed links, then reopen, update, rename, or delete charts from ChatGPT or Szum Studio. Useful for reports, presentations, product work, and dashboards.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Bartosz Prusinowski",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://szum.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "2.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:51.640Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab4be7d73e48191be3a46bc55094e73": {
       "id": "plugin_asdk_app_6ab4be7d73e48191be3a46bc55094e73",
@@ -244438,7 +245092,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Create and edit animated bar, line and pie charts from ChatGPT using your RaceCharts account. Start with your own data, an existing project or a ready-made example. Customize titles, colors, layouts, images, music and timeline events.\nWith direct saving enabled, your assistant saves your requested changes and gives you a project link. You can also preview changes before saving. You control which projects and actions your assistant can access.\nWhen your chart is ready, ask for a video and receive a download link. Exports use your existing RaceCharts plan or export credits. A RaceCharts account is required.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "SERGEY KROHIN",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.racecharts.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:53.203Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abadf90c69881919b46c92f36bcfc99": {
       "id": "plugin_asdk_app_6abadf90c69881919b46c92f36bcfc99",
@@ -244453,7 +245135,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Build and run data pipelines directly in ChatGPT. Move data across SaaS apps, databases, data warehouses, and data lakes. Transform data using dbt Core™ models and sync data to your business apps with reverse ETL. Orchestrate pipelines, manage schedules, and troubleshoot issues—all through conversation.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Supaflow, LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.supa-flow.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:54.832Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa3af9d751881919a0439c1df4c8a63": {
       "id": "plugin_asdk_app_6aa3af9d751881919a0439c1df4c8a63",
@@ -244468,7 +245178,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Connect your CallRail call tracking data to ChatGPT with Adzviser. Ask questions in plain language to see how many calls your marketing is generating and where those calls come from.\n\nCompare total calls, first-time callers, answered and missed calls, and call duration across date ranges. Break results down by tracking number, source, campaign, or agent. Turn your call data into clear reports and see which channels are actually driving the phone to ring.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Adzviser LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://adzviser.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:56.481Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aba38a3e0248191a954e7f73e0e6edd": {
       "id": "plugin_asdk_app_6aba38a3e0248191a954e7f73e0e6edd",
@@ -244483,7 +245221,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Registered domain data from netapi.com for 1,584 TLDs, DNS providers and registrars. Free, no plan needed: compromised domain and IP checks, search in newly registered domains by word, the most popular websites of a country, TLD, registrar and DNS-provider statistics, and the popularity rank of a domain in the NetAPI Top 1M. \nWith a NetAPI plan: download links for the full list of a zone, the domains registered or deleted in the last 24 hours, all zones at once, or all domains of a DNS provider or a registrar; lists hold domain names (any plan), datasets add nameservers, hosting IP and country, emails and phone numbers to every domain (Plus or Pro).  Also domain and IP lookups.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "CodeRockers LTD",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://netapi.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:58.045Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a7c925a44d48191b8fdc84d4987536c": {
       "id": "plugin_asdk_app_6a7c925a44d48191b8fdc84d4987536c",
@@ -244498,7 +245264,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "MerchantSpring is the marketplace analytics platform built for agencies and enterprise brands, unifying sales, profit, advertising, inventory, traffic, Buy Box, and customer performance across seller and vendor accounts on 120+ marketplaces including Amazon, Walmart, eBay, Shopify, and more.\n\nChatGPT pulls live, portfolio-wide metrics with period-on-period comparisons built in. Drill from the total portfolio down to a single store or SKU, covering sales trends, store and product-level profit and loss, advertising performance by channel, and on-demand report types spanning inventory health, Buy Box performance, traffic and conversion, customer lifetime value, refunds, repeat purchase and more.\n\nAsk things like \"Compare sales across all client marketplaces this month vs last\", \"Which SKUs ran negative margins last quarter?\", \"How did advertising performance shift across channels week on week?\", or \"Show ordered vs shipped revenue for our Amazon Vendor accounts by month\". ChatGPT fetches the live numbers and does the analysis on the spot.\n\nFor agencies, that means the whole client book in one conversation - filter any query by marketplace, country, or store tags, compare performance across every account you manage, and turn the answers straight into client-ready reporting. Seller and vendor accounts are both fully supported.\n\nTrusted by 35,000+ brands and agencies.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "MerchantSpring",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://merchantspring.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:04:59.586Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_69455664de448191bc42a9f6584d34e5": {
       "id": "plugin_asdk_app_69455664de448191bc42a9f6584d34e5",
@@ -244513,7 +245307,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Analyze your connected marketing data.\n\nAsk questions about marketing data connected to Lemonado, compare performance across periods, and explore results in charts and tables. Uses the projects and accounts available through your Lemonado connection.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Lemonado AB",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://lemonado.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:01.241Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a9f1cf85ee0819187466e1aec1da69b": {
       "id": "plugin_asdk_app_6a9f1cf85ee0819187466e1aec1da69b",
@@ -244528,7 +245350,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Drag is a shared inbox for Gmail teams. The addresses everyone answers, like support@, sales@ and info@, become boards the whole team works together, with assignment, labels, a help center, WhatsApp and response-time reporting. It runs inside Gmail and Google Workspace, so nobody has to learn a new inbox.\n\nConnect Drag to ChatGPT and you can run that team inbox by asking. Triage what arrived overnight, draft a reply grounded in your own help center article, assign a conversation to a teammate, or turn a customer email into a task with a due date.\n\n47 tools across 12 categories, with full read and write access:\n\nTriage: list, search and filter email threads by column, assignee or label, and find what has waited longest for a reply.\n\nReply: draft and send responses grounded in your own help center articles, and leave internal comments for teammates.\n\nOrganize: assign conversations to teammates, add and remove labels and tags, and move threads between columns or boards.\n\nPlan: turn customer emails into task cards with due dates and checklists, and move work across columns as it progresses.\n\nWhatsApp: read conversations and send messages or approved templates alongside email.\n\nReport: first response times, average response time, daily volume and closed-conversation counts.\n\nSetup takes about two minutes: add the plugin, then enter your Drag API key once on a secure connect page. The key never appears in a web address and the connect service stores nothing. ChatGPT inherits your Drag permissions, and every action is attributed to you inside Drag where the whole team can see it. Reading never interrupts you; sending email or WhatsApp always asks first.\n\nRequires a Drag account with API access. Open source, MIT licensed.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "DragApp.com Ltd",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Communication",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.dragapp.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:02.789Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abae7007ef08191ab170d4340f7e021": {
       "id": "plugin_asdk_app_6abae7007ef08191ab170d4340f7e021",
@@ -244543,7 +245393,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Talmud: daily readings, plans, search and original text lookup; whole books from the Library, read a passage at a time Every tool is read-only: no sign-in and nothing about the user is stored. There are no ads or paid placements. Built by Good Turn Studio. More at https://scripturescroller.pages.dev/talmud/",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Sandeep Singh Rai",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://scripturescroller.pages.dev/talmud/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:04.566Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab94f51b52881918e4376bd75bb5153": {
       "id": "plugin_asdk_app_6ab94f51b52881918e4376bd75bb5153",
@@ -244558,7 +245436,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Anatomy opens an interactive 3D human body inside ChatGPT. Ask about a muscle, bone, nerve, joint or organ and ChatGPT frames it, fades whatever covers it, and labels what matters. Peel away muscle layers, cut through the body, isolate a structure, colour-code what belongs together, and play movements like bending, squatting or lifting a knee. Anatomy can also draw a muscle's line of pull across the hip or knee, so you can watch a muscle change its job as the joint moves. Tap anything to ask about it, mark where something hurts, or ask for a quick find-it quiz. Anatomy shows reference anatomy for learning and explanation; it does not diagnose or give medical advice.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Kushal Sokke Malleshappa",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://anatomy.autark.sh/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:06.129Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a959f6b59c0819181f08e5f3d55d51d": {
       "id": "plugin_asdk_app_6a959f6b59c0819181f08e5f3d55d51d",
@@ -244573,7 +245479,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Turn any topic into a course, chat through lessons until you understand. 1 on 1 teaching with AI.\n\nTell Endless U what you want to learn, and ChatGPT drafts a structured course just for you: real modules, bite-sized lessons, and a teacher that adapts as you go. Ask questions, go deeper, or slow down. It's a conversation with your private tutor, ChatGPT.\n\nPick up exactly where you left off, even weeks later, without searching through your chat history.\n\nEvery lesson you finish earns points and builds your streak, so momentum turns into a habit instead of another abandoned tab. \n\nBrowse courses other learners have built, or make yours public and share your progress. Your streak becomes something worth showing off.\n\nCurious about something? Don't just ask ChatGPT about it. Learn it, properly, one lesson at a time with Endless U.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Endless U",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.endlessu.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:07.710Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab9b057a94c8191b377af0c039f36bb": {
       "id": "plugin_asdk_app_6ab9b057a94c8191b377af0c039f36bb",
@@ -244588,7 +245522,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "許可された看護学生が、看護実習での出来事や気持ちを一段階ずつ整理し、次の実習で試せる一歩を考えるための認証付きサポートです。患者さんや施設を特定できる情報は入力しないでください。会話内容は認証サーバーへ送信・保存しません。",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "田原",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://miniature-soldier-897.notion.site/AI-3e7cafd3fc16813bb5c6c1dbdddd21a9"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:09.279Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abb52b1409c8191bbb6fa7a8fd384cf": {
       "id": "plugin_asdk_app_6abb52b1409c8191bbb6fa7a8fd384cf",
@@ -244603,7 +245565,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Analytics Power Hour Librarian searches the full transcript archive of the Analytics Power Hour podcast. Users ask what the hosts and guests have said about an analytics topic and get quoted passages, each cited with the episode number, title, timestamp, and link. Users can also ask about the archive itself, such as the latest episode or which episodes came out in a given year.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "MICHAEL HELBLING",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://analyticshour.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:10.903Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab2afe4d07881918c7271435c777ad4": {
       "id": "plugin_asdk_app_6ab2afe4d07881918c7271435c777ad4",
@@ -244618,7 +245608,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "JusticeNow Library brings the Chilean legal corpus into ChatGPT: rulings from the Supreme Court, the Courts of Appeals and first-instance courts; statutes, decrees and codes from the Library of Congress; Constitutional Court decisions; administrative rulings from the Comptroller General, the Labor Directorate, the tax authority (SII), the financial regulator (CMF) and the Superintendencies; and academic legal scholarship.\n\nAsk in plain language and ChatGPT searches the corpus, opens the official document and answers with the full citation —docket number, date, court or agency— and a link to the source, so every statement can be verified. Nothing is quoted without opening the document.\n\nRequires a JusticeNow account with a plan that includes Library. Searches draw down that plan's credits; opening documents is free.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Innovant Group SpA",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://justicenow-library.web.app/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:12.538Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a828cbffdcc8191819a5bf43e29f403": {
       "id": "plugin_asdk_app_6a828cbffdcc8191819a5bf43e29f403",
@@ -244633,7 +245651,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Automates face blurring in video and image files to streamline privacy compliance and data anonymization. Streamingo detects and obfuscates faces across media without destroying context, helping developers and data teams safely share, process, or publish visual media while adhering to GDPR, CCPA, and strict privacy standards.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Streamingo.ai",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Security",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://anonymize.streamingo.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:14.119Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab6cc92c7b08191aa38cfc203a11d53": {
       "id": "plugin_asdk_app_6ab6cc92c7b08191aa38cfc203a11d53",
@@ -244648,7 +245694,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Connect ChatGPT to Twelve Data for current and historical market information. Look up prices, time series, technical indicators, company fundamentals, earnings, dividends, market movers, analyst data, regulatory filings, and reference data for stocks, ETFs, mutual funds, forex, crypto, and commodities. Users authenticate with their own Twelve Data account, so available data and rate limits follow their plan. Market data is informational and is not investment advice.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Twelve Data Pte. Ltd.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://twelvedata.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:15.663Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab174d5fa908191ae89643cb793dbc3": {
       "id": "plugin_asdk_app_6ab174d5fa908191ae89643cb793dbc3",
@@ -244663,7 +245737,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Waypoint Budget is a budgeting app built for Canadian and US banks. This plugin lets ChatGPT read the budget you have open in the app: spending by category and merchant, planned versus spent for the month, individual transactions in small batches, savings and debt goals, account balances, upcoming recurring expenses and income, and net worth. Every tool is read-only. Nothing can be added, changed or deleted, and account numbers are never shared. The connection is off by default, turned on by you in Profile, then Integrations, and can be switched off at any time, which disconnects every assistant immediately.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Waypoint Budget Inc.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://waypointbudget.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:17.240Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abae404b9bc81918bd11cd40d24ae52": {
       "id": "plugin_asdk_app_6abae404b9bc81918bd11cd40d24ae52",
@@ -244678,7 +245780,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Exact, official steps to cancel about 80 popular US and UK subscriptions (streaming, music, audiobooks, Amazon Prime, Costco, Walmart+, delivery passes, gyms such as Planet Fitness and LA Fitness, news, meal kits, Adobe, Microsoft 365, iCloud+, Apple One, Canva, Chegg, Norton and other software, game passes, dating apps, meditation and diet apps, Ring and Nest camera plans, Apple and Google Play in-app subscriptions, phone and internet add-ons). Every tool is read-only: no sign-in and nothing about the user is stored. There are no ads or paid placements. Built by Good Turn Studio. More at https://cancelmysub.pages.dev",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Sandeep Singh Rai",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://cancelmysub.pages.dev/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:18.782Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa3b0c95918819191b0f689733bf1a1": {
       "id": "plugin_asdk_app_6aa3b0c95918819191b0f689733bf1a1",
@@ -244693,7 +245823,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "CoverForce gives licensed agents, retail agencies, wholesalers and MGAs real-time commercial insurance quotes from 60+ carrier products. Describe a risk in plain language and CoverForce builds the submission, asks only the underwriting questions that carrier actually needs, and returns bindable quotes side by side. Coverage includes Workers' Comp, BOP, GL, Cyber, MPL, and more. When you're ready to bind, you complete the application on CoverForce's secure platform or directly with the selected carrier.\n\nCoverForce is technology infrastructure, not an insurance agency. Every quote runs under your own agency's carrier appointments: CoverForce verifies your broker codes with each carrier at setup, then submits through that carrier's live API. Agents in a wholesaler or network program can also quote under a partner's appointments where that access has been granted. More than $1.2 billion in premium has been quoted through the platform, across 50,000+ submissions a month.\n\nCoverForce is available to U.S.-based insurance professionals only. You need an active property & casualty license in the states you quote, and an agency with a verified CoverForce account and active carrier appointments — register at coverforce.com. You'll only see carriers, products and states your agency is appointed and licensed for. Quotes are indicative until a carrier confirms and binds them, and remain subject to carrier underwriting and appetite. Policy issuance, servicing and all claims are handled directly by the issuing carrier.\n\nBy chatting with us through ChatGPT, the information you provide in this chat will be subject to ChatGPT's Terms of Use and Privacy Policy, and may be shared with CoverForce, your agency, participating insurance carriers and service providers for the purpose of providing you with insurance quotes. Please only share the business information needed to quote the risk, and no additional sensitive information. To learn more about how CoverForce processes your information, see our privacy policy at www.coverforce.com .",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "CoverForce, Inc",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.coverforce.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:20.321Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a8eae2b487c8191a323716c3d7263d4": {
       "id": "plugin_asdk_app_6a8eae2b487c8191a323716c3d7263d4",
@@ -244708,7 +245866,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Moody’s Structured and Private Cashflows MCP powers AI applications with a Gen AI accessible integration allowing for the calculation of cashflows and the calculation of subsequent tranche prices. \n\nThis innovative users to efficiently run, validate, and analyze cashflows using natural language, across Moody’s structured finance deal libraries, with coverage spanning CLO/CDO, RMBS, CMBS, ABS, Agency, Esoteric, and Private Credit. By leveraging Structured and Private Cashflows, users can perform cashflow analysis easily by prompting queries, and receive the entire suite of Deal, Tranche, Collateral, Account, and Fee related cashflows. \n\nAs AI-generated and client-defined deals evolve, the Structured and Private Cashflows serves as the common layer, delivering: \n\n- Centralized cashflow execution: Run cash flows across Moody’s structured finance deal libraries today, with support for AI generated deals as workflows evolve \n\n- Model and cashflow integrity: Powered by Moody’s proven cash flow and waterfall engines designated to support mathematical integrity, traceability, and transparent review \n\n- Comprehensive analytics: Supports pricing, multi-scope cashflow views, first-loss analysis, stratifications, and incremental analytics on existing cashflows. \n\n- Flexible outputs: Delivers structured cash flow results directly into visualizations, investor reporting, downstream analytics, and client-owned templates and systems",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Moody's Analytics, Inc.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.moodys.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:21.899Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abae495b4908191b4d152d4cb719303": {
       "id": "plugin_asdk_app_6abae495b4908191b4d152d4cb719303",
@@ -244723,7 +245909,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Where to look for money owed to you in the US: each state's official unclaimed property search (all 50 states, DC and Puerto Rico), MissingMoney.com, and federal sources for old tax refunds, lost 401(k)s and pensions, savings bonds, failed banks and credit unions, failed brokerages (SIPC), life insurance of someone who died (NAIC Policy Locator), the Social Security lump-sum death payment, Individual Indian Money accounts, and FTC, SEC, CFPB and HUD refunds. Takes several states at once (every state the user lived or worked in) and gives a claim checklist, including for heirs. Every tool is read-only: no sign-in and nothing about the user is stored. There are no ads or paid placements. Built by Good Turn Studio. More at https://findmymoney.pages.dev",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Sandeep Singh Rai",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://findmymoney.pages.dev/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:23.779Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abdd0e5e7a481919fe93d5aa8742159": {
       "id": "plugin_asdk_app_6abdd0e5e7a481919fe93d5aa8742159",
@@ -244738,7 +245952,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Capable Cap Table connects ChatGPT to your startup's cap table in Capable, the AI-native cap table and equity management platform. Ask about ownership, equity and fundraising in plain language, and draft changes for an admin to approve.\n\nFounders, finance, legal and HR admins can:\n- See who owns what on a fully diluted basis, by stakeholder and by share class, including the option pool.\n- Look up any stakeholder's stock options (ISO and NSO), RSUs, restricted stock (RSAs), warrants, SAFEs and convertible notes.\n- Check vesting schedules, cliffs and the next vesting dates.\n- Check the current 409A valuation, its fair market value per share and when it expires.\n- Model a priced round (Seed, Series A and later), including SAFE and note conversion and an option pool top-up, and see the dilution for each holder.\n- Model an exit and see what each holder takes home after liquidation preferences.\n- Get links to export the cap table to Excel, CSV or OCF, and review recent activity and pending proposals.\n\nEmployees, advisors and investors can ask about their own equity: how much has vested, the next vesting dates, exercise prices and deadlines.\n\nExample questions:\n- Who owns what in our cap table, fully diluted?\n- List our outstanding SAFEs with their valuation caps.\n- How much will the founders be diluted if we raise $10M at a $40M pre-money valuation?\n- When does our 409A expire?\n- If we sell the company for $150M, what does each holder take home?\n\nChatGPT can draft a change, such as a new stakeholder, an option grant, a termination, a cancellation or a 409A record, as a proposal. Nothing changes until an admin approves the proposal inside Capable.\n\nCapable shows each person only what they are allowed to see. Round and exit models are planning estimates, not tax, legal or investment advice. The plugin does not move money or place trades.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Read cap table and ownership, Read stock options, SAFEs and vesting, Check 409A valuations, Model rounds, dilution and exits, Draft changes for admin approval",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "Circo, Inc.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://capable.so/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:25.353Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abb749d2fa08191bac9bffe87b83215": {
       "id": "plugin_asdk_app_6abb749d2fa08191bac9bffe87b83215",
@@ -244753,7 +246000,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "The Coin Daily is a daily crypto news publication. This connector exposes its Research desk to your assistant: focused price charts with replay and A/B selection; funding, open interest, liquidations and order-book readings on the API's own observation clocks; hourly market-regime and volatility context; governed group comparisons (for example decentralised-finance versus AI-related crypto projects); source-linked news and video timelines; and the latest published Market Update with its chapters. Fourteen data tools retrieve evidence and fourteen focused widgets display it — widgets never invent values and missing readings stay gaps. There is no trading, order placement, wallet or payment action, and outputs are editorial market commentary, not personalised investment advice; the one preparation tool starts a bounded server-side computation and writes nothing of yours. A current membership (or trial/complimentary access) is required; sign-in uses OAuth 2.1 through the connector.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Novaframe AI Limited",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://thecoindaily.co/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:27.124Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abc42db97a08191b0338c3fdb1ec07a": {
       "id": "plugin_asdk_app_6abc42db97a08191b0338c3fdb1ec07a",
@@ -244768,7 +246043,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Use Bullflow in ChatGPT to research options activity and manage your saved custom alerts. Explore leading options tickers, net premium, gamma and vanna exposure, dark pool trades, and trade prices. Compare returned observations with their dates, timestamps, and filters, or create a custom alert using criteria you specify.\n\nRequires an existing Bullflow account with an active API subscription. Connect through Bullflow OAuth and approve the requested permissions. The plugin supports market research and alerts; it does not execute trades, manage brokerage accounts, or sell subscriptions. Market observations are for informational purposes and do not guarantee future results.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Bullflow LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.bullflow.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "0.1.4",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:28.834Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa97f8056408191aadc4a4f0738919e": {
       "id": "plugin_asdk_app_6aa97f8056408191aadc4a4f0738919e",
@@ -244783,7 +246086,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Insourcia gives your assistant direct access to French company data: 30 million registered entities, 17 million of them active, with 32 million director mandates, 7 million filed annual accounts and 20 million legal events.\n\nThe connector covers five things.\n\nDiscovery. Search in natural language on sector, geography, size, directors or financial aggregates (revenue, EBITDA, debt, cash, whether a fund sits on the cap table). Match a CRM export or a spreadsheet to the right SIREN numbers in bulk; the tool declines to guess when the identification is ambiguous rather than returning a plausible wrong answer.\n\nProfile. Identity, activity, headcount, directors, industry codes for a single company in one call, plus a directed map of its group: holdings, subsidiaries, sister companies, shared directors.\n\nFinancials. Income statement, balance sheet and ratios across consecutive fiscal years (cash, net debt, working capital, margins, payment terms, dividends). Credit risk grade from AAA to D with default probability at 3, 6 and 12 months and the main contributing factors.\n\nLegal monitoring. Business transfers, insolvency proceedings, account filings, capital increases, public procurement awards, subsidies, strike-offs and incorporations, searchable across all companies or as a timeline for one.\n\nWatchlists. Save a search or put a company under watch from the conversation, then read back what changed and mark signals as handled. These objects are the same ones the Insourcia web app uses: whatever your assistant saves, you find in your account.\n\nData comes from the French public registries (INPI/RNE, INSEE, BODACC, DECP) and sector sources, consolidated and reconciled by us. An Insourcia account is required",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Victor Jumbou",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://insourcia.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:30.397Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abad97d264c8191a499833a128d5f60": {
       "id": "plugin_asdk_app_6abad97d264c8191a499833a128d5f60",
@@ -244798,7 +246129,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Screens a US-listed company against four published Shariah equity standards (AAOIFI, Dow Jones Islamic Market, S&P Shariah, MSCI Islamic), first on its business (prohibited industries each standard excludes) and then on its debt, using live market data and the company's own SEC filings. Also screens a whole portfolio, finds halal alternatives, calculates dividend purification and zakat. Every answer carries a 'say' field: one or two plain sentences to read aloud. Research output, not investment advice. Every tool is read-only: no sign-in and nothing about the user is stored. There are no ads or paid placements. Built by Good Turn Studio. More at https://askmizan.com",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Sandeep Singh Rai",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://askmizan.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:31.970Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab7bb7240fc81919fe7efc911b526a8": {
       "id": "plugin_asdk_app_6ab7bb7240fc81919fe7efc911b526a8",
@@ -244813,7 +246172,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Finality turns your crypto history into tax figures you can check. Connect your wallets and exchange exports, and Finality reconciles every trade, swap and transfer across chains and venues, matching each sale back to what you paid for it so costs are not lost between wallets. Then just ask ChatGPT: what's my capital gains position for this tax year, what did the reconciliation find and what is each finding worth, what was I still holding at the end of the year. Answers come from your own Finality account, with the figures and the working behind them. When a year is ready, Finality produces the working paper for your return (HMRC's SA108 in the UK, IRS Form 8949 in the US) and an evidence workbook for your records. Connecting is read-only by default; choose Full automation to let ChatGPT add wallets and start scans for you. It can never delete your account, change your sign-in or see exchange passwords.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Azimuth Systems Ltd",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.finalitycryptotax.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:33.588Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abae435b74c8191bf683597ea42744e": {
       "id": "plugin_asdk_app_6abae435b74c8191bf683597ea42744e",
@@ -244828,7 +246215,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Ready-to-use call scripts for lowering US and UK household bills: home internet, mobile, cable or satellite TV, streaming, car and home insurance, electricity and gas, water, credit card interest and gym memberships, with tips for Xfinity (Comcast), Spectrum, AT&T, Verizon, Frontier, T-Mobile, Cox, Optimum, Mediacom, Astound, Kinetic, Quantum Fiber, Google Fiber, WOW!, DIRECTV, DISH, GEICO, Progressive, State Farm, Allstate, Nationwide, Travelers and USAA. Every tool is read-only: no sign-in and nothing about the user is stored. There are no ads or paid placements. Built by Good Turn Studio. More at https://lowermybill.pages.dev",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Sandeep Singh Rai",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://lowermybill.pages.dev/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:35.257Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a300c24d1348191914f5e32562e4582": {
       "id": "plugin_asdk_app_6a300c24d1348191914f5e32562e4582",
@@ -244843,7 +246258,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Connect TableWealth to review your net worth, accounts, holdings, transactions, and cash flow in ChatGPT. Explore spending categories, bounded portfolio summaries, saved net-worth snapshots, and data freshness. Financial access is read-only and limited to the workspace, accounts, and permissions you authorize. TableWealth cannot move money, place trades, or edit financial records. You can either automatically connect accounts or manually upload account information.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Ironwood Apps LLC",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://tablewealth.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:36.834Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa98aeb507c81918e2b55ebb7d1ddd0": {
       "id": "plugin_asdk_app_6aa98aeb507c81918e2b55ebb7d1ddd0",
@@ -244858,7 +246301,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Finanse to aplikacja do wspólnego budżetu dla osób i rodzin. Jedno połączenie obejmuje wszystkie Twoje projekty budżetowe — możesz zapytać o bieżący albo wskazać inny po nazwie. Zapytaj, na co poszły pieniądze w danym miesiącu, jak wygląda podział na kategorie, czy mieścisz się w budżetach, jak zmieniało się saldo, ile możesz bezpiecznie wydać do końca miesiąca i jakie stałe płatności są przed Tobą — odpowiedzi pojawiają się jako czytelne karty, nie ściany tekstu. Możesz zapisać wydatek lub przychód, kilka naraz albo cały paragon podzielony na kategorie, ustawić płatność cykliczną i śledzić cele oszczędnościowe. Zmiany, usunięcia i paragony zawsze pokazują podgląd do zatwierdzenia, zanim cokolwiek się zmieni. Finanse zapisuje transakcje, które już się wydarzyły — nie przelewa pieniędzy, nie łączy się z bankiem i nie prosi o dane karty.\n\nFinanse is a shared budget app for individuals and families. One connection covers all of your budget projects — ask about the current one or name another. Ask where the money went in a given month, how it split across categories, whether you are inside your budgets, how your balance moved, how much is safe to spend until the month ends and which recurring payments are coming up — answers come back as readable cards rather than walls of text. You can record an expense or income, several at once, or a whole shop receipt split into categories, set up a recurring payment and track savings goals. Edits, deletions and receipts always show a preview you approve before anything changes. Finanse records transactions that already happened: it does not move money, connect to banks, or ask for card details.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Rafał Prokopiak",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://finanse.app/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.1.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:38.430Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a9d533d1bd08191af522be547ae1e97": {
       "id": "plugin_asdk_app_6a9d533d1bd08191af522be547ae1e97",
@@ -244873,7 +246344,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Realtime market intelligence for AI agents: what changed, who is affected, and what to watch next. One suite covering news, events, guidance, filing changes, sentiment, stakeholders, and alerts. Information-efficient responses with evidence for every result. First-class point-in-time safety for backtests. Pairs well with web search and a market-data API. All data is our own.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Ultralayer Limited",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://ultralayer.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "3.0.2",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:40.007Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a94849276e08191b2ba2fabc4aa46e7": {
       "id": "plugin_asdk_app_6a94849276e08191b2ba2fabc4aa46e7",
@@ -244888,7 +246387,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "iBody.pl is Poland's largest database of fitness venues — 8,100+ gyms, yoga and pilates studios, dance and martial-arts schools in 100+ cities, with weekly class schedules and prices collected and refreshed automatically. Ask for any activity in any Polish city — yoga in Warsaw, reformer pilates in Krakow, crossfit in Gdansk — and get matching clubs with addresses, prices and accepted sports cards (Multisport, Medicover and more). Then pull up any club's weekly class schedule and full price list. Every result links to the club's public profile on ibody.pl, where you can see exact dates, instructors and book a class online.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "JACEK FRANCISZEK JACKOWICZ",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Healthcare",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://ibody.pl/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:41.618Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abae3397bdc8191942eb5fcb120ec44": {
       "id": "plugin_asdk_app_6abae3397bdc8191942eb5fcb120ec44",
@@ -244903,7 +246430,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Cheap flights from any city, to one place or anywhere, with the cheapest days to fly. Fares are the cheapest Aviasales travellers found in the last 48 hours. The live price is on the booking page. Booking links are affiliate links (disclosure field). Prices are in the shopper's currency (currency field); US dollars unless another country is given. Every tool is read-only: no sign-in and nothing about the user is stored. There are no ads or paid placements. Built by Good Turn Studio. More at https://faredeals.pages.dev",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Sandeep Singh Rai",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://faredeals.pages.dev/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:43.188Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aa8433c99bc81918c439b571659a98f": {
       "id": "plugin_asdk_app_6aa8433c99bc81918c439b571659a98f",
@@ -244918,7 +246473,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "COooL provides real-time public transport information across France. It helps users find stops and routes, check upcoming departures, plan journeys, and identify disruptions or incidents affecting public transport services.\n\nUsers can interact with COooL directly through ChatGPT to get up-to-date information about their journey, check the status of a transport line, find upcoming departures from a stop, or understand disruptions affecting their route.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Tomsaas",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.getcoool.app/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:44.778Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab970ee4a5c8191a05f8770ab07be8f": {
       "id": "plugin_asdk_app_6ab970ee4a5c8191a05f8770ab07be8f",
@@ -244933,7 +246516,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Plan visits to the Disney and Universal parks supported by Parky. Find parks and rides, check recently observed posted waits and reported operating hours, and explore crowd forecasts with ranges and caveats. Results include source times and links to public Parky pages. Parky is independent of the park operators. This read-only plugin cannot book tickets or access a private Parky Pass.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Parky",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://parkypass.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:46.379Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ab60b0fab8c819182e767c9baf21702": {
       "id": "plugin_asdk_app_6ab60b0fab8c819182e767c9baf21702",
@@ -244948,7 +246559,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Déstaire is a curated guide to exceptional hotels and private stays, with editorial content. Ask for a place, a country or a kind of stay, and get the matching stays (with pricing), the destinations, and the travel articles, each linked to its page on destaire.com. Read-only; no account needed.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "RYAN CHANNING ZANARDI",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://destaire.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:47.993Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abafe064a3881919cb6bb2ac34854c8": {
       "id": "plugin_asdk_app_6abafe064a3881919cb6bb2ac34854c8",
@@ -244963,7 +246602,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Explore cruises with Gangwaze. Search upcoming sailings by destination, dates, cruise line, ship, cabin type and budget; compare selected sailings; and review available fare history and price drops. Look up ships, cabin categories and specific cabins, cruise-line profiles, dress codes, beverage packages, port guides, shore excursions and monthly climate averages. Results include source links and cruise information cards. Prices and coverage depend on available data. Booking, payment, cancellation and reservation changes are not exposed by the current tools.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Gangwaze",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://gangwaze.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:49.647Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aba4e2242d48191a7f4a65f2c5f6614": {
       "id": "plugin_asdk_app_6aba4e2242d48191a7f4a65f2c5f6614",
@@ -244978,7 +246645,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "RESTL is the reservation system from St. Pölten built for Austrian hospitality. Search participating venues by place, cuisine and date, see real free time slots and book right in the chat. The booking lands instantly in the venue's system and you receive a confirmation email with a cancellation link. Existing bookings can be looked up or cancelled with the booking code plus the email address used. No account needed. The app never sees guest records or other guests' data; where a venue requires a card guarantee, that step happens only in the browser on restl.at, never in the chat.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "ARQOS GmbH",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://restl.at/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:51.297Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abae3dab67081919c20154a65c332e1": {
       "id": "plugin_asdk_app_6abae3dab67081919c20154a65c332e1",
@@ -244993,7 +246688,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Spin up a full day out (morning, lunch, afternoon, dinner, evening) around the weather and what is open, in a city, near a location, or in a random city. Every tool is read-only: no sign-in and nothing about the user is stored. There are no ads or paid placements. Built by Good Turn Studio. More at https://spinmyday.pages.dev",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Sandeep Singh Rai",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://spinmyday.pages.dev/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:52.875Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abb3f076ed881918f0a587ef9debfd2": {
       "id": "plugin_asdk_app_6abb3f076ed881918f0a587ef9debfd2",
@@ -245008,7 +246731,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "ELA Map draws your birth chart onto the Earth. Every planet sits on four lines around the globe, and astrocartography reads a place by the lines that run near it. Ask ELA Map which cities your lines run through, or whether a place you are considering sits on one, and it answers from your birth date, time and place. The answer is the geography; the reading lives on ELA Map, where all your lines are drawn on an interactive globe with plain-language readings, line crossings and location reports. No account is created inside ChatGPT, and the birth details you give are not stored.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Spirit River Inc.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://elamap.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:54.570Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6aba40d39cc08191935e49b75512a649": {
       "id": "plugin_asdk_app_6aba40d39cc08191935e49b75512a649",
@@ -245023,7 +246774,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "DayPass helps you discover and book experiences at premium hotel pools, beach clubs, spas and cabanas worldwide — no overnight stay. Search live experiences by city or country with photos, ratings, prices (incl. child & kid), availability, amenities and guest reviews; each result links to the DayPass booking page. Booking and payment complete on DayPass Website (https://daypassapp.com).\n\nDayPass currently offers experiences across destinations in the Americas, Europe, the Middle East & Africa, and Asia Pacific.\nAmericas:\nAcapulco, Cabo San Lucas, Cancun, Costa Rica, Guadeloupe, Martinique, Nassau, Orlando, Playa del Carmen, Punta Cana, Puerto Vallarta, Saint Lucia, Sint Maarten, Turks and Caicos.\nEurope:\nAlbufeira, Antalya, Bodrum, Gregolimano, Ibiza, Istanbul, Mallorca, Marbella, Montenegro, Mykonos, Sicily, Tenerife, Val d’Isère, Vittel.\nMiddle East & Africa:\nAbu Dhabi, Casablanca, Djerba, Djibouti, Doha, Dubai, Fujairah, Marrakesh, Mauritius, Ras Al Khaimah, Riyadh, Tangier.\nAsia Pacific:\nBali, Bangkok, Bintan, Galle, Hua Hin, Koh Samui, Maldives, Moorea, Phuket, Singapore.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "DayPass",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://daypassapp.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:56.265Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6a503d52cae08191b2f6e13084a94642": {
       "id": "plugin_asdk_app_6a503d52cae08191b2f6e13084a94642",
@@ -245038,7 +246817,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Take the guesswork out of getting to Incheon Airport.\n\nGet personalized recommendations based on your departure point, flight schedule, who you’re traveling with, how much luggage you’re bringing, and what matters most for your trip, including when to leave and which transportation option best fits your needs.\n\nCompare airport buses, trains, taxis, Venti, and driving options, and see why each option is recommended. Depending on the option you choose, you can check the latest airport bus information through the linked operator’s website or book or request a taxi or Venti through Kakao T. If you’re driving to the airport, you can also check Incheon Airport parking information and book valet parking if needed.\n\nNote: Information may include AI-generated content and may differ from actual conditions due to traffic, schedules, parking availability, or service changes. Please check the latest airport bus information on the linked operator’s website, confirm taxi or Venti availability, and check the latest parking information before use.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "카카오모빌리티",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.kakaomobility.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "2.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:57.907Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abb5fc7d6c881919ae074521293042e": {
       "id": "plugin_asdk_app_6abb5fc7d6c881919ae074521293042e",
@@ -245053,7 +246860,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Hotely lets you search hotels worldwide right inside ChatGPT. Ask for a destination, dates and guests and get live, priced results with ratings, amenities and photos, then open full hotel details with every available room and rate. Booking is completed securely on hotely.travel via the Book on Hotely link. Read-only: the plugin never books, charges or changes reservations.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Hotely",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://hotely.travel/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:05:59.494Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abae64c19c48191a6c46f9e9a127dcd": {
       "id": "plugin_asdk_app_6abae64c19c48191a6c46f9e9a127dcd",
@@ -245068,7 +246903,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Football fixtures, results, form and league tables for the Premier League, Championship, La Liga, Bundesliga, Serie A and Ligue 1, current season (worked out from the date; 2026/27 now). Tables include official points deductions. Understands everyday club names (Spurs, Man Utd, Barca, PSG, Wolves, Nottm Forest, the Toon, Inter Milan), full spoken names and small typos (Liverpol, Nottingham Forrest). Clubs from other leagues that people often ask about (Celtic, Rangers, Ajax, Benfica, Inter Miami) get a 404 that says which league they play in. Every tool is read-only: no sign-in and nothing about the user is stored. There are no ads or paid placements. Built by Good Turn Studio. More at https://formguide.pages.dev",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Sandeep Singh Rai",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Entertainment",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://formguide.pages.dev/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:06:01.142Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abad6371a308191b85f18f71eaa7879": {
       "id": "plugin_asdk_app_6abad6371a308191b85f18f71eaa7879",
@@ -245083,7 +246946,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-14T04:04:10.037Z",
       "firstSeenAt": "2026-10-14T04:04:10.037Z",
-      "information": []
+      "detailDue": false,
+      "description": "Think of anything without telling me. Genie asks adaptive yes-or-no questions and tries to figure out what you're thinking of.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "MANUEL ECHEPARES VALDERRAMA",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Entertainment",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://genie-nuvora17.vercel.app/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-14T04:06:02.785Z",
+      "detailFailures": 0
     }
   },
   "scans": [
@@ -296466,9 +298357,9 @@
     "runId": "38509295992",
     "runAttempt": "1",
     "startedAt": "2026-10-14T04:02:31.477Z",
-    "updatedAt": "2026-10-14T04:04:10.047Z",
+    "updatedAt": "2026-10-14T04:06:18.867Z",
     "mode": "incremental",
-    "detailRequests": 0,
+    "detailRequests": 76,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
@@ -296478,11 +298369,11 @@
     "errors": 0,
     "stats": {
       "total": 4211,
-      "details": 4144,
+      "details": 4211,
       "translated": 4135,
       "missing": 32,
       "removed": 116,
-      "pendingDetails": 76,
+      "pendingDetails": 0,
       "pendingTranslations": 76
     }
   }
