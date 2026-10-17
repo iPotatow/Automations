@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-10-16T15:56:02.111Z",
-  "total": 4456,
-  "details": 4456,
-  "translated": 4424,
-  "missing": 17,
-  "removed": 162,
-  "pendingDetails": 0,
-  "pendingTranslations": 32,
+  "generatedAt": "2026-10-17T03:32:44.720Z",
+  "total": 4566,
+  "details": 4443,
+  "translated": 4392,
+  "missing": 32,
+  "removed": 175,
+  "pendingDetails": 142,
+  "pendingTranslations": 174,
   "lastRun": {
-    "runId": "38927183492",
+    "runId": "38999035341",
     "runAttempt": "1",
-    "startedAt": "2026-10-16T15:51:13.453Z",
-    "updatedAt": "2026-10-16T15:55:56.369Z",
-    "mode": "translate",
+    "startedAt": "2026-10-17T03:31:05.925Z",
+    "updatedAt": "2026-10-17T03:32:44.412Z",
+    "mode": "incremental",
     "detailRequests": 0,
-    "translationRequests": 68,
-    "translationAttempts": 50,
-    "translationLimit": 50,
-    "aiConfigured": true,
+    "translationRequests": 0,
+    "translationAttempts": 0,
+    "translationLimit": 250,
+    "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 8,
+    "errors": 0,
     "stats": {
-      "total": 4456,
-      "details": 4456,
-      "translated": 4424,
-      "missing": 17,
-      "removed": 162,
-      "pendingDetails": 0,
-      "pendingTranslations": 32
+      "total": 4566,
+      "details": 4443,
+      "translated": 4392,
+      "missing": 32,
+      "removed": 175,
+      "pendingDetails": 142,
+      "pendingTranslations": 174
     }
   },
   "lastScan": {
-    "id": "38846672078",
-    "at": "2026-10-16T03:42:44.196Z",
+    "id": "38999035341",
+    "at": "2026-10-17T03:32:44.398Z",
     "complete": true,
-    "seen": 4439,
-    "previous": 4353,
+    "seen": 4534,
+    "previous": 4456,
     "categories": [
       {
         "category": "featured",
@@ -60,12 +60,12 @@
       },
       {
         "category": "creativity",
-        "count": 264,
+        "count": 281,
         "status": "stable-observed"
       },
       {
         "category": "developer-tools",
-        "count": 356,
+        "count": 378,
         "status": "stable-observed"
       },
       {
@@ -75,17 +75,17 @@
       },
       {
         "category": "data-and-analytics",
-        "count": 343,
+        "count": 357,
         "status": "stable-observed"
       },
       {
         "category": "communication",
-        "count": 58,
+        "count": 63,
         "status": "stable-observed"
       },
       {
         "category": "education-and-research",
-        "count": 354,
+        "count": 368,
         "status": "stable-observed"
       },
       {
@@ -95,27 +95,27 @@
       },
       {
         "category": "security",
-        "count": 33,
+        "count": 37,
         "status": "stable-observed"
       },
       {
         "category": "finance",
-        "count": 557,
+        "count": 561,
         "status": "stable-observed"
       },
       {
         "category": "healthcare",
-        "count": 124,
+        "count": 130,
         "status": "stable-observed"
       },
       {
         "category": "travel",
-        "count": 463,
+        "count": 471,
         "status": "stable-observed"
       },
       {
         "category": "other",
-        "count": 580,
+        "count": 581,
         "status": "stable-observed"
       }
     ]
