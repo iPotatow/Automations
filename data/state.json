@@ -573,7 +573,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "管理 Render 资源",
       "legacySummaryOriginal": "Manage Render resources",
@@ -581,6 +581,11 @@
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
       "description": "Render helps users inspect services, deploys, logs, and metrics; create services and data stores; query Render Postgres databases; trigger deployments; and manage environment variables through ChatGPT.",
       "information": [
+        {
+          "label": "Capabilities",
+          "value": "Interactive, Write",
+          "links": []
+        },
         {
           "label": "Developer",
           "value": "Render",
@@ -600,12 +605,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.1",
+          "value": "1.0.2",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-11T04:45:45.639Z",
+      "detailCheckedAt": "2026-10-18T03:41:56.455Z",
       "translationAttemptRun": "37202584253:1",
       "translation": {
         "summary": "管理 Render 资源",
@@ -14752,7 +14757,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:59:07.231Z",
+      "detailCheckedAt": "2026-10-18T03:41:45.490Z",
       "translationAttemptRun": "38025747139:1",
       "translation": {
         "summary": "美国移民法研究",
@@ -50227,12 +50232,12 @@
         },
         {
           "label": "Version",
-          "value": "1.3.1",
+          "value": "1.3.3",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:59:09.106Z",
+      "detailCheckedAt": "2026-10-18T03:41:47.265Z",
       "translationAttemptRun": "38025747139:1",
       "translation": {
         "summary": "室内设计与建筑",
@@ -69605,7 +69610,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:59:10.770Z",
+      "detailCheckedAt": "2026-10-18T03:41:49.258Z",
       "translationAttemptRun": "38025747139:1",
       "translation": {
         "summary": "关键词研究与AI博客",
@@ -120266,7 +120271,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "扎实深入的古兰经研读",
       "legacySummaryOriginal": "Grounded, in-depth Quran study",
@@ -120275,6 +120280,11 @@
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
       "description": "Turn ChatGPT into your AI-powered Quran study companion — trace themes across all 114 surahs, compare how classical and modern scholars interpret the same verse, unpack the depth and precision behind the Quran's eloquence, and contextualize difficult passages with real, authentic tafsir commentary. All data sourced from quran.com, so every verse, scholarly opinion, interpretation, and linguistic detail the AI cites is verified — not guessed from training data.",
       "information": [
+        {
+          "label": "Capabilities",
+          "value": "Interactive, Search",
+          "links": []
+        },
         {
           "label": "Developer",
           "value": "quran.com",
@@ -120289,17 +120299,17 @@
           "label": "Website",
           "value": "",
           "links": [
-            "https://mcp.quran.ai/"
+            "https://quran.ai/"
           ]
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.1.25",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-11T05:46:13.986Z",
+      "detailCheckedAt": "2026-10-18T03:41:58.252Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "扎实深入地研习《古兰经》",
@@ -127980,7 +127990,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:59:12.530Z",
+      "detailCheckedAt": "2026-10-18T03:41:51.056Z",
       "translationAttemptRun": "38025747139:1",
       "translation": {
         "summary": "浏览并匹配Wayroc职位",
@@ -172724,7 +172734,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:59:14.156Z",
+      "detailCheckedAt": "2026-10-18T03:41:52.894Z",
       "translationAttemptRun": "38025747139:1",
       "translation": {
         "summary": "寻找租车服务",
@@ -223713,7 +223723,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:59:16.714Z",
+      "detailCheckedAt": "2026-10-18T03:41:54.640Z",
       "translationAttemptRun": "38025747139:1",
       "translation": {
         "summary": "查找并预订餐厅",
@@ -238135,7 +238145,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:57:57.697Z",
+      "detailCheckedAt": "2026-10-18T03:40:32.981Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -238194,7 +238204,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:57:59.377Z",
+      "detailCheckedAt": "2026-10-18T03:40:34.790Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -238252,7 +238262,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:01.413Z",
+      "detailCheckedAt": "2026-10-18T03:40:36.569Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -238310,7 +238320,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:03.054Z",
+      "detailCheckedAt": "2026-10-18T03:40:38.364Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -238368,7 +238378,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:04.758Z",
+      "detailCheckedAt": "2026-10-18T03:40:40.163Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -238426,7 +238436,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:06.444Z",
+      "detailCheckedAt": "2026-10-18T03:40:41.930Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -238484,7 +238494,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:08.173Z",
+      "detailCheckedAt": "2026-10-18T03:40:43.709Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -238542,7 +238552,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:09.844Z",
+      "detailCheckedAt": "2026-10-18T03:40:45.524Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -238600,7 +238610,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:11.532Z",
+      "detailCheckedAt": "2026-10-18T03:40:47.313Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -238658,7 +238668,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:13.205Z",
+      "detailCheckedAt": "2026-10-18T03:40:49.101Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -238716,7 +238726,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:15.136Z",
+      "detailCheckedAt": "2026-10-18T03:40:50.860Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -238774,7 +238784,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:16.795Z",
+      "detailCheckedAt": "2026-10-18T03:40:54.294Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -238832,7 +238842,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:18.616Z",
+      "detailCheckedAt": "2026-10-18T03:40:56.080Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -238890,7 +238900,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:20.299Z",
+      "detailCheckedAt": "2026-10-18T03:40:57.838Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -238948,7 +238958,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:21.986Z",
+      "detailCheckedAt": "2026-10-18T03:40:59.633Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -239006,7 +239016,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:23.727Z",
+      "detailCheckedAt": "2026-10-18T03:41:01.413Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -239064,7 +239074,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:26.432Z",
+      "detailCheckedAt": "2026-10-18T03:41:03.184Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -239122,7 +239132,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:28.208Z",
+      "detailCheckedAt": "2026-10-18T03:41:04.941Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -239180,7 +239190,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:30.074Z",
+      "detailCheckedAt": "2026-10-18T03:41:06.700Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -239238,7 +239248,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:32.017Z",
+      "detailCheckedAt": "2026-10-18T03:41:08.447Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -239296,7 +239306,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:33.677Z",
+      "detailCheckedAt": "2026-10-18T03:41:10.218Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -239354,7 +239364,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:35.342Z",
+      "detailCheckedAt": "2026-10-18T03:41:11.988Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -239412,7 +239422,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:37.057Z",
+      "detailCheckedAt": "2026-10-18T03:41:13.769Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -239470,7 +239480,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:38.732Z",
+      "detailCheckedAt": "2026-10-18T03:41:15.693Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -239528,7 +239538,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:40.406Z",
+      "detailCheckedAt": "2026-10-18T03:41:17.460Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -239586,7 +239596,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:42.250Z",
+      "detailCheckedAt": "2026-10-18T03:41:19.246Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -239644,7 +239654,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:43.953Z",
+      "detailCheckedAt": "2026-10-18T03:41:21.010Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -239702,7 +239712,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:46.139Z",
+      "detailCheckedAt": "2026-10-18T03:41:22.859Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -239765,7 +239775,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:48.038Z",
+      "detailCheckedAt": "2026-10-18T03:41:24.901Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -239823,7 +239833,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:49.695Z",
+      "detailCheckedAt": "2026-10-18T03:41:26.679Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -239881,7 +239891,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:51.338Z",
+      "detailCheckedAt": "2026-10-18T03:41:28.491Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -239939,7 +239949,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:53.023Z",
+      "detailCheckedAt": "2026-10-18T03:41:30.374Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -239997,7 +240007,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:54.702Z",
+      "detailCheckedAt": "2026-10-18T03:41:32.206Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -240055,7 +240065,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:56.406Z",
+      "detailCheckedAt": "2026-10-18T03:41:34.042Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -240113,7 +240123,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:58.249Z",
+      "detailCheckedAt": "2026-10-18T03:41:36.372Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -240171,7 +240181,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:58:59.901Z",
+      "detailCheckedAt": "2026-10-18T03:41:38.114Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -240229,7 +240239,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:59:01.622Z",
+      "detailCheckedAt": "2026-10-18T03:41:39.953Z",
       "detailFailures": 0,
       "translationAttemptRun": "38044451518:1",
       "translation": {
@@ -240287,7 +240297,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:59:03.919Z",
+      "detailCheckedAt": "2026-10-18T03:41:41.892Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -240345,7 +240355,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-10T04:59:05.585Z",
+      "detailCheckedAt": "2026-10-18T03:41:43.669Z",
       "detailFailures": 0,
       "translationAttemptRun": "38025747139:1",
       "translation": {
@@ -273214,7 +273224,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "Create interactive prototypes in your Agent-Native Design workspace. Browse saved designs, templates, design systems, and snapshots; start new designs, generate visual directions, and refine saved prototypes through chat. This connection works with designs in the connected Agent-Native workspace. It does not connect to local repositories, modify a running website, export files, or deploy an application.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Create interactive prototypes, Explore design directions, Apply workspace design systems",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "Builder.io",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://agent-native.com/apps/design/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:39:50.959Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ac0ae13b9948191a03845bd363388b7": {
       "id": "plugin_asdk_app_6ac0ae13b9948191a03845bd363388b7",
@@ -273229,7 +273272,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "Mondovo is a website design and creation tool for business owners, creators and agencies. Turn a description of your business into three distinct website designs, compare visual previews and choose the direction you prefer. Build a landing page or a business website without writing code.\n\nRefine your chosen design in plain language: change colors, typography, images, copy and page layout, or add new pages. Interactive cards show your designs, previews and progress in the conversation. When you are ready, ask Mondovo to publish the chosen website and share its live link. Your projects and revision history are saved in your Mondovo account.\n\nTo support work on your website, you can also browse saved Creative Studio images and videos, review social post drafts, check video project progress and view contacts collected by your website. A Mondovo account is required. Access is limited to the workspace and permissions you approve when connecting.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Design websites, Compare design previews, Refine website designs, Publish websites, Browse saved creative work, View website contacts",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "Mondovo",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://mondovo.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.6",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:39:53.230Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ad1d604b300819190060154d755c9b5": {
       "id": "plugin_asdk_app_6ad1d604b300819190060154d755c9b5",
@@ -273244,7 +273320,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "MakeViral turns your own photos into the AI video and photo trends people are posting right now: the knight cat, the hotel lobby walk, Halloween costumes, dance reels and more. Ask for a trend, see example clips and the photos each template needs, attach your photos, and get a finished vertical video or photo right in the chat.\n\nHave your own idea? MakeViral Create makes any AI image or video from your prompt with the image or video model you pick. Start from text or from your photos: start and end frames, reference photos, clips and sounds, and multi-shot videos. The finished image or video shows up in the chat.\n\nEverything uses the credits in your MakeViral account, and anything that fails gives its credits back. Only use photos of yourself or of people who agreed.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Find trend templates, Make trend videos and photos, Make AI images and videos, Check runs and credits",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "MakeViral",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Creativity",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.makeviral.ai/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.1.3",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:39:54.997Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abd9526fdb88191b16357b9f53cfeb5": {
       "id": "plugin_asdk_app_6abd9526fdb88191b16357b9f53cfeb5",
@@ -273259,7 +273368,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "CodeAgent Mobile lets you start, monitor, redirect and review long-running AI coding agents without leaving the conversation.\n\nConnect your CodeAgent account and ask for your sessions, send a task or a new instruction to an agent, answer the questions it asks, stop it, read the changes it made and open a pull request. Hand a session to your phone when you step away and keep supervising from the CodeAgent Mobile app.\n\nWorks with the coding agents you already link in your CodeAgent account. Switching a session to another agent always asks for your confirmation first.\n\nRequires a CodeAgent Mobile account with at least one paired session (local CLI, GitHub Codespace, CodeAgent Box or self-hosted server).",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Read, Write",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "CodeAgent Mobile",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.codeagent-mobile.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:39:56.761Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ac047bcba1481919919d2f1eeb33256": {
       "id": "plugin_asdk_app_6ac047bcba1481919919d2f1eeb33256",
@@ -273274,7 +273416,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "AgentWorld Explorer connects ChatGPT to a live, persistent digital civilization of 2,000+ autonomous AI agents that work jobs, trade, negotiate, and settle USDC on the Base blockchain.\n\nUse it to answer questions like: How many agents are live right now? What is the treasury balance and wealth distribution (Gini)? Who are the top agents by reputation? What open jobs are agents working? What is a specific agent's current credit standing? What companies are leading the Venture business-simulation game?\n\nThe plugin exposes 18 free, read-only tools: live economy telemetry, city statistics, the agent roster and profiles, job board browsing, crypto/AI news from the CCN wire, the SolvScore agent credit bureau (trust scores, credit limits, on-chain work attestations), agent liquidity checks, and Venture game market and leaderboard data.\n\nIntended users: AI-agent developers, crypto researchers, and anyone curious about the agent economy. All data is public on-chain telemetry. Limitations: strictly read-only (no agent creation or write actions); account setup happens separately on agentworld.me; Venture gameplay numbers (cash, revenue, score) are simulated units for the business-sim game, not currency.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Live agent economy telemetry, Agent rosters and profiles, Job market data, Agent credit files and solvency, Venture game stats, Crypto and AI news wire",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "AgentWorld",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Developer Tools",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://agentworld.me/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:39:58.592Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ac0c0d09dfc81919688101f83f0b0fc": {
       "id": "plugin_asdk_app_6ac0c0d09dfc81919688101f83f0b0fc",
@@ -273289,7 +273464,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "A read-only LinkedIn research tool by InboundOnSteroids. Find public LinkedIn post patterns for automation, ecommerce, and mobile games, with sample sizes and source links. Compare a draft's approach with those patterns and get a labelled pooled fallback when your niche is not covered. The research tool helps agency owners choose an angle before they post.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Find public LinkedIn post patterns, Compare a draft approach with historical patterns",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "Ivan Manfredi",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://inboundonsteroids.com/?utm_source=chatgpt_app&utm_medium=plugin&utm_campaign=linkedin_patterns"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "0.1.1",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:40:00.353Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abfc42024648191b6969b7171167c4e": {
       "id": "plugin_asdk_app_6abfc42024648191b6969b7171167c4e",
@@ -273304,7 +273512,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "Marvyn is a marketing analytics tool for businesses. It reads the marketing data you have connected to your Marvyn workspace and answers questions about it with numbers Marvyn has already calculated.\n\nWhat you can ask: how your marketing is doing overall; which ad campaigns and ads are working or wasting money (Meta, Google, LinkedIn, Snapchat and Reddit ads); where your website funnel loses people; whether your conversion tracking can be trusted; why a number changed; and what to fix first.\n\nData sources: ad accounts, website analytics (GA4), Google Search Console, Facebook and Instagram, and Shopify.\n\nReliability: every answer says how fresh the data is, which sources are missing, and which figures were withheld because there was not enough data behind them. Marvyn says \"not enough data\" rather than guessing.\n\nWithout an account: check whether AI crawlers can read any website (robots.txt rules for AI crawlers, llms.txt, sitemap and home page).\n\nWho it is for: founders, marketers and agencies who use Marvyn (marvyn.io). Connecting uses your existing Marvyn account, and available features follow your Marvyn plan.\n\nLimitations: read-only. Marvyn cannot change, pause, publish or spend anything, and reads only the one Marvyn workspace you connect.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Read",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "Eleven Square Labs",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.marvyn.io/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:40:02.168Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abfd990c3c8819184bbde832dc72250": {
       "id": "plugin_asdk_app_6abfd990c3c8819184bbde832dc72250",
@@ -273319,7 +273560,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "Isoligne gives ChatGPT verified, dated data about French companies, measured or published at the source.\n\n- Website analytics: the published Agent Readiness Score of a company website (how much of it an AI assistant can read and understand), axis by axis, with its date and method; what lowers it; and which buying questions none of its pages answer.\n- Sector benchmarks: how the published websites of a sector rank (insurance, wine, energy, higher education, training, e-commerce, software).\n- Price data: the exact price of a specific case (quantities, options, period), calculated line by line on the price grid a company publishes with Isoligne, with its source and date. A missing quantity is never guessed: the answer says which one to provide.\n\nRead-only, no account, no key. Only published data is served: a domain absent from the index has not been measured or published, which says nothing about its quality. Answers are in French.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Look up the published AI readability score of a company website, Explain what lowers a website's score, with measured evidence, Benchmark the published websites of a sector, Calculate an exact price on a company's published price grid",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "Isoligne",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Data & Analytics",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://isoligne.com/connecteur"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "0.2.2",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:40:04.030Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ac022f890688191a88696e5f6d8b53d": {
       "id": "plugin_asdk_app_6ac022f890688191a88696e5f6d8b53d",
@@ -273334,7 +273608,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "Manage the people and memberships behind your team’s group email lists. TellTell provides dedicated group email addresses for teams, schools, clubs, and organizations, so members can communicate from their usual email inboxes.\n\nConnect your TellTell Admin account to find and update people, see which groups they belong to, organize overlapping teams and groups, manage custom fields and tags, and preview roster imports or membership changes before applying them.\n\nYou choose the connected account and permissions. Bulk editing starts disabled and requires an Admin to enable it. Membership changes may send configured welcome emails, and some person or settings changes may trigger automatic-photo lookups.\n\nThis plugin manages your TellTell directory and groups. It does not read your Gmail or Outlook inbox, send standalone emails, manage billing, or grant account-user access.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Manage group email lists, Manage people and memberships, Preview roster changes",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "TellTell",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Communication",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://telltell.co/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.5",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:40:05.852Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abfa3d688e081919a21eb0f872b3488": {
       "id": "plugin_asdk_app_6abfa3d688e081919a21eb0f872b3488",
@@ -273349,7 +273656,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "Search Okay News reporting by topic, person, place or news desk. Read articles with bylines and publication dates, request a daily briefing using Lagos time, and explore related coverage. The interactive reader lets you open stories, browse desks and view published naira exchange-rate observations with recent history.\n\nAI explanations are separate from newsroom reporting. Related search matches do not establish an event chronology. Exchange-rate observations include their publication timestamps and may be stale.\n\nThe integration reads public content only. It cannot access unpublished drafts or private reports, publish articles, submit reports, vote, save profiles or register alerts.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Interactive, Read",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "Okay News",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.okaynews.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "0.1.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:40:07.790Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ac04ce1b5448191837e6fea806c0084": {
       "id": "plugin_asdk_app_6ac04ce1b5448191837e6fea806c0084",
@@ -273364,7 +273704,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "Paste a Chess.com or Lichess game link or PGN and review it on the actual RV Chess interactive board inside your conversation. Stockfish analyses the game in your browser; ChatGPT explains the turning points and a practical lesson from the supplied evidence. Study named openings such as French Defense using RV Chess’s guided opening lessons, or open existing play modes such as Drawfish. Click any move, explore a legal variation, compare candidate moves from one position, or ask what changes in a clearly labelled hypothetical setup. Selected-move verification checks the played move and alternatives at the same root. Ask for an explanation at your experience level, then inspect the continuation on the board. RV Chess provides engine evidence; ChatGPT provides the explanation. Whole-game scan grades remain provisional until checked. Reviews support at most 160 plies. The plugin does not control third-party chess accounts or read private messages.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Game review, Position analysis, Opening lessons, Chess play modes",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "RVChess",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://rvchess.com/review-chess"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "0.3.2",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:40:09.575Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ac0a6c2f23c8191be4dce21e257efb1": {
       "id": "plugin_asdk_app_6ac0a6c2f23c8191be4dce21e257efb1",
@@ -273379,7 +273752,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "Explore Pastor Mark Spitsbergen's writings and the TOT Bible with evidence from the current public Spitsbergen Library. Ask questions, compare themes, and prepare draft Bible studies or messages with brief quotations and links to the original passages. This read-only connection cannot access private Drive files, alter books, or review edits that have not entered the public index. Forthcoming editions are labeled. Generated answers are AI study assistance, not Pastor Mark speaking or approving a message.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Search the public library, Read source passages, Prepare source-based study drafts",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "muhligfamily.com",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://spitsbergenlibrary.com/study-companion/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:40:11.369Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ac151d1bf608191a6b6d161067daf75": {
       "id": "plugin_asdk_app_6ac151d1bf608191a6b6d161067daf75",
@@ -273394,7 +273800,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "Find public Body Insights feature explanations and published guides about sleep, recovery, HRV, stress, energy, and Apple Watch health tracking. Search sources in seven languages and get source links with each result. No connection to your app account or Apple Health data.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Search public guides, Read published sources",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "Justinas Jakunas",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://bodyinsightsapp.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.2",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:40:13.121Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ad1d7fb344c81919c05b4a277eab6e9": {
       "id": "plugin_asdk_app_6ad1d7fb344c81919c05b4a277eab6e9",
@@ -273409,7 +273848,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "Praktikal is an education platform for teachers and learners. Connect your Praktikal account to find and read accessible teaching materials, create and adapt lessons, build presentations, and practice with interactive questions in ChatGPT. The included workflow skill guides material searches, lesson authoring, and question practice, and loads specialized Praktikal playbooks when needed. Available tools and materials depend on your account permissions and the access granted during connection. A Praktikal account is required.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Praktikal Education",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://praktikal.app/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "0.1.6",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:40:14.937Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ac06dc5518881918c782b83a66e5124": {
       "id": "plugin_asdk_app_6ac06dc5518881918c782b83a66e5124",
@@ -273424,7 +273891,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "A real grand piano you can play right in the chat.\n\nAsk for any chord (C, Am7, Bbmaj7, F/A and more) or scale (major, minor, pentatonic, blues and the modes) and HitJam lights up the right keys, spelled the way a musician would write them. Press Play to hear it, tap the keys, or play along with your computer keyboard: every key shows the letter that plays it.\n\nLearning a song? HitJam teaches public-domain classics note by note: the next key glows and waits for you, with right hand, left hand and both hands to work up through.\n\nThe sound is a recorded concert grand, played on your own device. No account, no ads, and nothing you play is sent anywhere. Want the full instrument, other sounds or your MIDI keyboard? Open hitjam.io.\n\nPiano samples: Salamander Grand Piano V3 by Alexander Holm, licensed CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/).",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Interactive piano, Chords and scales, Song lessons",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "Chois Music, Inc.",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://hitjam.io/en/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:40:16.666Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abe2866c0b081919e231eb041e5f4bb": {
       "id": "plugin_asdk_app_6abe2866c0b081919e231eb041e5f4bb",
@@ -273439,7 +273939,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "DeducePuzzles gives you one fresh logic puzzle a day: a seating-arrangement or ordering board, verified to have exactly one answer. The boards follow the exam pattern of the reasoning puzzles in Indian bank and SSC exams.\n\nHow it works:\n- Ask for today's puzzle to see the people, the clues and the question.\n- Submit an arrangement. You hear whether it is right or wrong and how many attempts are left. A wrong answer does not say which clue it broke.\n- You get three attempts per conversation. The solution is shown only when the round ends, solved or out of attempts.\n- Ask for a hint and it names one clue number to re-read, never a person or a seat.\n\nLimits:\n- Today's board only.\n- Attempts are counted per conversation, not per person.\n- No sign-in, streak or leaderboard inside ChatGPT. Those live on deducepuzzles.com.\n- Reasoning puzzles only: no quant, English or general awareness.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Serves today's DeducePuzzles logic board: people, clues and the question, Checks an arrangement: right or wrong, with attempts left, Three attempts per conversation; solution shown only after the round ends, Hints name one clue number to re-read, never a person or seat, Links to deducepuzzles.com for streaks and the leaderboard",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "Launchship IT & Media Services Private Limited",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://deducepuzzles.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:40:18.400Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abffc3c199881919fa7f796f2768e59": {
       "id": "plugin_asdk_app_6abffc3c199881919fa7f796f2768e59",
@@ -273454,7 +273987,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "Learn how WhitelistVideo helps parents manage YouTube access and follow setup steps for a child's Android, iPhone or iPad, computer, Chromebook, or Android TV device. Search a small set of reviewed playback-help articles from our support knowledge base. This first release is read-only: it does not connect to your family account, check live protection, find channels, approve content, or change settings. Use the Parent app to create an account and manage your family.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Explain WhitelistVideo, Guide child-device setup, Find reviewed playback help",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "Stayboba",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://whitelist.video/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:40:20.174Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abf6d2fa92c81918c16066976627203": {
       "id": "plugin_asdk_app_6abf6d2fa92c81918c16066976627203",
@@ -273469,7 +274035,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "Level Up Your Knowledge. Turn anything into a game you can play right here in ChatGPT.\n\nAsk for a course on black holes, sourdough, or the fall of Rome, and start playing in about a minute. Already deep in a conversation? Turn it into a course and play what you just learned.\n\nPick who teaches you: your bestie, a professor, a storyteller, or a pirate. Or have it explained like you're five.\nQuick questions, instant feedback, hearts, combos, and stars. Five minutes and you're done.\nBrowse courses other curious people have made.\n\nNo sign-up to start. Connect your Tomo account to keep your streak and pick up where you left off in the app.\n\nCourses are written by AI, so you can have one on whatever you're into.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Play in ChatGPT, Build a course on anything, Turn a chat into a course, Pick your teacher, Keep your streak",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "Mohannad Ali",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Education & Research",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://heytomo.app/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:40:22.025Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ac0cbcf1a0c81919a68492edf449d71": {
       "id": "plugin_asdk_app_6ac0cbcf1a0c81919a68492edf449d71",
@@ -273484,7 +274083,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "Read-only: Glimps for ChatGPT cannot upload, change, approve, book, or pay invoices. Access follows your current Glimps role. Ask questions about invoices already in your Glimps account. Find invoices, understand processing blockers and approval status, inspect coding and document excerpts, and summarize invoice amounts by supplier or period. Connect your existing Glimps account and choose the administrations to share. Document evidence is returned as text excerpts, not PDF files or download links. Responses identify incomplete data when reported by Glimps.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Read",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "Glimps",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://useglimps.com/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "0.1.2",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:40:23.789Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ac064907be08191b8abf7b2a63b2359": {
       "id": "plugin_asdk_app_6ac064907be08191b8abf7b2a63b2359",
@@ -273499,7 +274131,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "Connect your Minhas Finanças account to view balances, income, expenses, cards, budgets, goals, loans, and notes. Compare periods, filter reports, project cash flow from recorded transactions, and access in-app help. Projections do not represent real-time bank balances or guarantee outcomes. With separate authorization, create supported records, including installment and recurring transactions. Limited edits, marking transactions as paid or received, and recording full invoice payments require review and confirmation. Budget management, including creation and individual deletion, requires new authorization and always requires review and confirmation; deleting a budget does not delete its transactions. Direct creation of other records requires an additional permission. The app does not move bank funds, trade investments, delete financial transactions, or export files. Requires an eligible Minhas Finanças account; usage limits apply.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Nimtech",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Finance",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://minhasfinancas.app.br/"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.0.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:40:25.631Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abe4178ec948191aab452c550611d61": {
       "id": "plugin_asdk_app_6abe4178ec948191aab452c550611d61",
@@ -273514,7 +274174,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "Find upcoming Three Peaks event dates and information, and browse medals and merchandise. Connect your account to view your bookings, payment history, available documents, registration and shop-order summaries, and support conversations. Get help with current policies, manage supported changes to existing bookings and contact customer support. You will be asked to confirm before a change is made or a message is sent. New bookings, extra places, rescheduling and payments are handled on the Three Peaks website. Keep passwords, card details, health information and children’s personal details out of chat; use the secure website forms.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Find event dates and information, Read my existing bookings and payments, Read available booking documents, Review policies and manage existing bookings, Read and reply to customer support",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "Three Peaks Challenge Limited",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.threepeakschallenge.uk/agentic-commerce"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "1.2.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:40:27.561Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6ad1bf73574881919bbabfb4cc04216a": {
       "id": "plugin_asdk_app_6ad1bf73574881919bbabfb4cc04216a",
@@ -273529,7 +274222,35 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "swissrailways helps you find and buy the right Swiss travel pass for your trip.\n\nWhether you want unlimited travel across Switzerland’s trains, boats, and public transport network, or a discount card for occasional journeys, the app guides you through the available Swiss Travel Pass products in ChatGPT.\n\nCompare Swiss Travel Pass, Swiss Travel Pass Flex, and Swiss Half Fare Card options based on your travel dates, itinerary, and traveler details. Configure tickets for one or multiple travelers, choose comfort class and duration, apply available discounts such as the Swiss Family Card, and review the total price in CHF, EUR, GBP, or USD.\n\nWhen you are ready to buy, swissrailways generates a secure checkout link from Switzerland Travel Centre. Payment is completed outside ChatGPT on Switzerland Travel Centre’s secure checkout page, so no card details are entered in ChatGPT.\n\nSwiss Travel Pass products are available only to travelers residing outside Switzerland.\n\nPowered by Switzerland Travel Centre.",
+      "information": [
+        {
+          "label": "Developer",
+          "value": "Switzerland Travel Centre",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://www.swissrailways.com/en"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "2.0.2",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:40:29.384Z",
+      "detailFailures": 0
     },
     "plugin_asdk_app_6abe0534b370819192c54b2d177356c1": {
       "id": "plugin_asdk_app_6abe0534b370819192c54b2d177356c1",
@@ -273544,7 +274265,40 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-18T03:39:46.093Z",
       "firstSeenAt": "2026-10-18T03:39:46.093Z",
-      "information": []
+      "detailDue": false,
+      "description": "XiaoHongShu RedNote Local Guide to China helps you explore China through local recommendations researched from Xiaohongshu, also known as RedNote or Little Red Book. Discover restaurants, cafes, bars, markets, shops, attractions and day trips matched to your location, interests and budget. Get Chinese place names, map links, practical tips and guides where available. Plan neighbourhood outings and request new research for places or topics we haven't covered yet. Recommendations use previously collected research; coverage and source dates are shown. By China Like a Local, published by Chiho.ai. An independent service not affiliated with Xiaohongshu.",
+      "information": [
+        {
+          "label": "Capabilities",
+          "value": "Discover places in China, Find China travel guides, Request later research, Track recommendation requests",
+          "links": []
+        },
+        {
+          "label": "Developer",
+          "value": "Chiho.ai",
+          "links": []
+        },
+        {
+          "label": "Category",
+          "value": "Travel",
+          "links": []
+        },
+        {
+          "label": "Website",
+          "value": "",
+          "links": [
+            "https://chinalikealocal.com/local-guide"
+          ]
+        },
+        {
+          "label": "Version",
+          "value": "0.1.0",
+          "links": []
+        }
+      ],
+      "extractionMethod": "rendered-description-metadata-match",
+      "detailCheckedAt": "2026-10-18T03:40:31.229Z",
+      "detailFailures": 0
     }
   },
   "scans": [
@@ -335914,9 +336668,9 @@
     "runId": "39094279837",
     "runAttempt": "1",
     "startedAt": "2026-10-18T03:38:04.831Z",
-    "updatedAt": "2026-10-18T03:39:46.109Z",
+    "updatedAt": "2026-10-18T03:41:59.890Z",
     "mode": "incremental",
-    "detailRequests": 0,
+    "detailRequests": 70,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
@@ -335926,11 +336680,11 @@
     "errors": 0,
     "stats": {
       "total": 4558,
-      "details": 4535,
+      "details": 4558,
       "translated": 4497,
       "missing": 3,
       "removed": 206,
-      "pendingDetails": 25,
+      "pendingDetails": 0,
       "pendingTranslations": 61
     }
   }
