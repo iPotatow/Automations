@@ -250617,7 +250617,7 @@
       "detailFailures": 0,
       "translationAttemptRun": "39813445048:1",
       "translationError": {
-        "at": "2026-10-21T16:25:45.930Z",
+        "at": "2026-10-22T16:28:27.187Z",
         "message": "Workers AI translation failed: Translation missing or mistranslating confirmation",
         "transient": true
       }
@@ -253560,9 +253560,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:57:34.264Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39634158780:1",
+      "translationAttemptRun": "39813445048:1",
       "translationError": {
-        "at": "2026-10-21T16:26:17.026Z",
+        "at": "2026-10-22T16:29:02.501Z",
         "message": "Workers AI translation failed: Translation missing or mistranslating positions",
         "transient": true
       }
@@ -254156,9 +254156,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:57:52.366Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39634158780:1",
+      "translationAttemptRun": "39813445048:1",
       "translationError": {
-        "at": "2026-10-21T16:26:43.500Z",
+        "at": "2026-10-22T16:29:03.478Z",
         "message": "Workers AI translation failed: Translation lost protected value 300",
         "transient": true
       }
@@ -254757,9 +254757,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:58:07.869Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39634158780:1",
+      "translationAttemptRun": "39813445048:1",
       "translationError": {
-        "at": "2026-10-21T16:27:17.021Z",
+        "at": "2026-10-22T16:29:34.271Z",
         "message": "Workers AI translation failed: Translation missing or mistranslating cost",
         "transient": true
       }
@@ -263043,10 +263043,10 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-16T03:44:42.710Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39634158780:1",
+      "translationAttemptRun": "39813445048:1",
       "translationError": {
-        "at": "2026-10-21T16:26:46.261Z",
-        "message": "Workers AI translation failed: Translation lost protected value 3",
+        "at": "2026-10-22T16:29:01.682Z",
+        "message": "Workers AI translation failed: Unexpected non-whitespace character after JSON at position 400 (line 1 column 401)",
         "transient": true
       }
     },
@@ -273313,7 +273313,7 @@
       "detailFailures": 0,
       "translationAttemptRun": "39813445048:1",
       "translationError": {
-        "at": "2026-10-21T16:26:14.818Z",
+        "at": "2026-10-22T16:28:27.183Z",
         "message": "Workers AI translation failed: Translation lost protected value 4",
         "transient": true
       }
@@ -275783,9 +275783,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:49:51.199Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39634158780:1",
+      "translationAttemptRun": "39813445048:1",
       "translationError": {
-        "at": "2026-10-21T16:27:22.382Z",
+        "at": "2026-10-22T16:29:59.014Z",
         "message": "Workers AI translation failed: Translation lost protected value 320",
         "transient": true
       }
@@ -277191,9 +277191,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:16.488Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39634158780:1",
+      "translationAttemptRun": "39813445048:1",
       "translationError": {
-        "at": "2026-10-21T16:26:47.931Z",
+        "at": "2026-10-22T16:29:35.492Z",
         "message": "Workers AI translation failed: Translation missing or mistranslating cost",
         "transient": true
       }
@@ -281138,11 +281138,20 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:09.185Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39634158780:1",
-      "translationError": {
-        "at": "2026-10-21T16:27:15.769Z",
-        "message": "Workers AI translation failed: Translation lost protected value 5",
-        "transient": true
+      "translationAttemptRun": "39813445048:1",
+      "translation": {
+        "summary": "单词游戏求解器与乱序单词重组工具",
+        "description": "LetterLab单词求解器是一款单词游戏辅助工具：它可以解乱序字母、填充填字游戏模式，并在5字母猜词游戏中缩小答案范围。该工具通过真实的英文词典（ENABLE单词列表，包含172,569个单词，已去除辱骂和粗俗用语）查询答案，因此所有结果均来自该列表中的合法单词。\n\n解乱序功能：输入你的字母（可用?或*表示空白瓷砖），即可查看能组成的单词，按长度分组显示并附有数量和瓷砖分数（标准字母分值，空白瓷砖得分为0）。可按精确长度、最小长度、必须使用所有字母、起始字母、结尾字母或包含字母进行筛选。使用所有字母组成的单词会特别标注。\n\n填字游戏与模式搜索：输入已知字母并用?表示单个未知字母（如C?T、_A_E_、??ANGE），或用*表示任意字母组合（如S*ING）。可添加必须包含或必须排除的字母。常见单词会优先列出，然后是较生僻的单词。\n\n5字母猜词游戏：输入你的猜测及绿色、黄色和灰色反馈（G、Y和-或彩色方块）。求解器会应用重复字母规则，统计并列出仍符合条件的单词，按预期信息量对下一步猜测进行排序，并显示平均和最坏情况下的剩余单词数量。支持硬模式及4至8字母变体。\n\n交互式卡片显示你的字母瓷砖、可按长度过滤的单词分组、模式搜索功能，以及点击变色的猜测网格，让你在游戏过程中实时重新求解。\n\n限制条件：仅支持ENABLE单词列表中的英文单词（不含专有名词、缩写或单字母单词，部分新单词可能缺失）；瓷砖分数仅计算字母基础分值，不包含棋盘加分；无法定义单词含义、通过语义解答谜题，也不知晓任何游戏的每日答案。",
+        "sourceHash": "e9c5e18ded7fa90e1088c131cc018a5014446a7c4a018c54f0c125c76e37f43a",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-22T16:29:19.142Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 41.78779602050781,
+          "total_tokens": 2401
+        }
       }
     },
     "plugin_asdk_app_6ac01cc225508191a0fdc90c955aa5f8": {
@@ -362640,30 +362649,44 @@
         "neurons": 36.8521842956543,
         "total_tokens": 2066
       }
+    },
+    "e9c5e18ded7fa90e1088c131cc018a5014446a7c4a018c54f0c125c76e37f43a": {
+      "summary": "单词游戏求解器与乱序单词重组工具",
+      "description": "LetterLab单词求解器是一款单词游戏辅助工具：它可以解乱序字母、填充填字游戏模式，并在5字母猜词游戏中缩小答案范围。该工具通过真实的英文词典（ENABLE单词列表，包含172,569个单词，已去除辱骂和粗俗用语）查询答案，因此所有结果均来自该列表中的合法单词。\n\n解乱序功能：输入你的字母（可用?或*表示空白瓷砖），即可查看能组成的单词，按长度分组显示并附有数量和瓷砖分数（标准字母分值，空白瓷砖得分为0）。可按精确长度、最小长度、必须使用所有字母、起始字母、结尾字母或包含字母进行筛选。使用所有字母组成的单词会特别标注。\n\n填字游戏与模式搜索：输入已知字母并用?表示单个未知字母（如C?T、_A_E_、??ANGE），或用*表示任意字母组合（如S*ING）。可添加必须包含或必须排除的字母。常见单词会优先列出，然后是较生僻的单词。\n\n5字母猜词游戏：输入你的猜测及绿色、黄色和灰色反馈（G、Y和-或彩色方块）。求解器会应用重复字母规则，统计并列出仍符合条件的单词，按预期信息量对下一步猜测进行排序，并显示平均和最坏情况下的剩余单词数量。支持硬模式及4至8字母变体。\n\n交互式卡片显示你的字母瓷砖、可按长度过滤的单词分组、模式搜索功能，以及点击变色的猜测网格，让你在游戏过程中实时重新求解。\n\n限制条件：仅支持ENABLE单词列表中的英文单词（不含专有名词、缩写或单字母单词，部分新单词可能缺失）；瓷砖分数仅计算字母基础分值，不包含棋盘加分；无法定义单词含义、通过语义解答谜题，也不知晓任何游戏的每日答案。",
+      "sourceHash": "e9c5e18ded7fa90e1088c131cc018a5014446a7c4a018c54f0c125c76e37f43a",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-22T16:29:19.142Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 41.78779602050781,
+        "total_tokens": 2401
+      }
     }
   },
   "lastRun": {
     "runId": "39813445048",
     "runAttempt": "1",
     "startedAt": "2026-10-22T16:23:01.417Z",
-    "updatedAt": "2026-10-22T16:28:20.229Z",
+    "updatedAt": "2026-10-22T16:29:59.545Z",
     "mode": "translate",
     "detailRequests": 0,
-    "translationRequests": 44,
-    "translationAttempts": 27,
+    "translationRequests": 63,
+    "translationAttempts": 34,
     "translationLimit": 50,
     "aiConfigured": true,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 6,
+    "errors": 14,
     "stats": {
       "total": 4808,
       "details": 4808,
-      "translated": 4793,
+      "translated": 4794,
       "missing": 40,
       "removed": 228,
       "pendingDetails": 0,
-      "pendingTranslations": 15
+      "pendingTranslations": 14
     }
   }
 }
