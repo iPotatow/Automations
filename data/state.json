@@ -11504,7 +11504,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "收发邮件",
       "legacySummaryOriginal": "Send and receive email",
@@ -11514,30 +11514,35 @@
       "description": "Primitive Email lets users create an agent-ready email address, read and search inbound mail, send new messages, reply in threads, manage domains and webhooks, inspect delivery history, and troubleshoot email routing from ChatGPT.",
       "information": [
         {
+          "label": "Capabilities",
+          "value": "Read email, Search email, Send email, Reply to email",
+          "links": []
+        },
+        {
           "label": "Developer",
-          "value": "primitive.dev",
+          "value": "Primitive",
           "links": []
         },
         {
           "label": "Category",
-          "value": "Productivity",
+          "value": "Developer Tools",
           "links": []
         },
         {
           "label": "Website",
           "value": "",
           "links": [
-            "https://primitive.dev/"
+            "https://www.primitive.dev/"
           ]
         },
         {
           "label": "Version",
-          "value": "2.0.0",
+          "value": "2.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T03:56:30.738Z",
+      "detailCheckedAt": "2026-10-22T03:58:24.011Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "收发电子邮件",
@@ -21099,7 +21104,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "管理音乐目录",
       "legacySummaryOriginal": "manage your music catalogue",
@@ -21108,6 +21113,11 @@
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
       "description": "withPICA organizes and manages your whole music catalogue in one place — your works, recordings, credits, splits, rights, and royalties.\n\nbring your songs in from the sources you already use: Spotify and YouTube links, spreadsheets, photos of liner notes, even DAW sessions. withPICA builds them into one structured, searchable catalog and fills the gaps for you — looking up your ISWCs, ISRCs, publisher data, and collaborator ids from MLC, MusicBrainz, ISNI, and Spotify. you review everything before it's saved.\n\nfrom there you can verify credits and splits, establish ownership, track royalties and statements, share a single source of truth with your collaborators, and export registration-ready files for your PRO (performing rights organization) or a full catalog asset report. every well-catalogued work gets equal discoverability in the public directory.\n\nmusic catalogue management, metadata, rights, and royalties — clear, accurate, and yours.",
       "information": [
+        {
+          "label": "Capabilities",
+          "value": "Search and browse your music catalog, Find missing ISWCs, ISRCs and writer identifiers, Record credits and splits, File royalty statements against the right recordings, Export registration-ready files for your PRO",
+          "links": []
+        },
         {
           "label": "Developer",
           "value": "Withpica Ltd",
@@ -21127,12 +21137,12 @@
         },
         {
           "label": "Version",
-          "value": "2.0.0",
+          "value": "2.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T04:01:29.205Z",
+      "detailCheckedAt": "2026-10-22T03:58:25.737Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "管理你的音乐曲库",
@@ -38930,7 +38940,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "免费建站",
       "legacySummaryOriginal": "free websites",
@@ -38952,17 +38962,17 @@
           "label": "Website",
           "value": "",
           "links": [
-            "https://round.is/"
+            "https://anew.page/"
           ]
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.0.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T04:09:32.044Z",
+      "detailCheckedAt": "2026-10-22T03:58:27.428Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "免费网站",
@@ -55279,7 +55289,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "制造工具",
       "legacySummaryOriginal": "Deploy MCP servers",
@@ -55288,8 +55298,13 @@
       "description": "Manufact lets users deploy, monitor, and manage MCP servers and MCP Apps in Manufact Cloud. The app supports organization lookup, server and deployment management, GitHub repository deployment, build and runtime log inspection, and gateway observability analytics.",
       "information": [
         {
+          "label": "Capabilities",
+          "value": "Read, Write",
+          "links": []
+        },
+        {
           "label": "Developer",
-          "value": "Manufact, Inc",
+          "value": "Manufact",
           "links": []
         },
         {
@@ -55306,12 +55321,12 @@
         },
         {
           "label": "Version",
-          "value": "2.0.0",
+          "value": "2.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T04:17:23.749Z",
+      "detailCheckedAt": "2026-10-22T03:58:29.195Z",
       "translationAttemptRun": "37202584253:1",
       "translation": {
         "summary": "部署 MCP 服务器",
@@ -55631,7 +55646,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "小程序构建器",
       "legacySummaryOriginal": "Publish web apps",
@@ -55641,8 +55656,13 @@
       "description": "MiniUp helps users publish simple, modular single-page, and real multi-page no-build web apps from ChatGPT-generated files or uploaded data, host fast queryable datasets and lightweight table APIs, publish ArcGIS-compatible dataset URLs, and manage existing sites, files, gallery listings, records, and datasets from ChatGPT.",
       "information": [
         {
+          "label": "Capabilities",
+          "value": "Interactive, Write",
+          "links": []
+        },
+        {
           "label": "Developer",
-          "value": "HNguyen",
+          "value": "HOANG MINH NGUYEN",
           "links": []
         },
         {
@@ -55659,12 +55679,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T04:17:30.930Z",
+      "detailCheckedAt": "2026-10-22T03:58:30.905Z",
       "translationAttemptRun": "37202584253:1",
       "translation": {
         "summary": "发布 Web 应用",
@@ -56094,7 +56114,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "代码艺术",
       "legacySummaryOriginal": "Verified task execution",
@@ -56103,13 +56123,18 @@
       "description": "Graffiticode is a platform of specialized agents, each purpose-built for one kind of task and each producing a real, editable artifact rather than text in a chat window.\n\nToday's agents create interactive quizzes and assessment items — multiple choice, fill-in-the-blank, hot text, sequencing and matching — plus flashcard decks, spreadsheets and budgets, charts, and concept maps. Describe what you want in plain English; the matching agent validates your request against a formal task language and returns a structured result you can refine, re-render, and keep.\n\nFor teams working in Learnosity, Graffiticode also authors Learnosity-compatible assessment items and writes integration recipes for the Author API and the Data API — embedding an item authoring UX, or reading and writing an item bank server to server. New agents are added to the catalog over time.",
       "information": [
         {
+          "label": "Capabilities",
+          "value": "Read, Write",
+          "links": []
+        },
+        {
           "label": "Developer",
           "value": "Artcompiler Inc",
           "links": []
         },
         {
           "label": "Category",
-          "value": "Developer Tools",
+          "value": "Productivity",
           "links": []
         },
         {
@@ -56121,12 +56146,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T04:17:43.780Z",
+      "detailCheckedAt": "2026-10-22T03:58:32.613Z",
       "translationAttemptRun": "38112457322:1",
       "translation": {
         "summary": "经过验证的任务执行",
@@ -62465,7 +62490,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "流程工具",
       "legacySummaryOriginal": "Understand your AI agents",
@@ -62473,6 +62498,11 @@
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
       "description": "Connect your Flowlines account to review AI agent activity, compare outcomes across time periods, investigate unsuccessful sessions, and analyze user cohorts. Use aggregate metrics, signals, topic maps, and focused session evidence to understand findings and identify product needs. Save independently verified findings as private workspace notes when requested. Requires a Flowlines account with access to a workspace containing agent data. Authorized results can include end-user conversation and activity data; responses should summarize evidence and mask direct personal identifiers. Flowlines records tool activity, arguments, results, and conversation outcome reports in private telemetry.",
       "information": [
+        {
+          "label": "Capabilities",
+          "value": "Read, Write",
+          "links": []
+        },
         {
           "label": "Developer",
           "value": "Flowlines",
@@ -62492,12 +62522,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "0.4.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T04:21:00.684Z",
+      "detailCheckedAt": "2026-10-22T03:58:34.310Z",
       "translationAttemptRun": "37342451051:1",
       "translation": {
         "summary": "了解 AI 代理",
@@ -63321,7 +63351,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "用 AI 写文档",
       "legacySummaryOriginal": "Document codebases",
@@ -63329,6 +63359,11 @@
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
       "description": "DocuWriter is an AI-powered platform for creating and managing complete, structured documentation for entire codebases. Teams can connect repositories and generate documentation covering architecture, modules, services, classes, functions, dependencies, APIs, diagrams, READMEs, and other technical components. It supports both individual repositories and larger multi-repository systems. From ChatGPT, users can work with that centralized documentation through Spaces, semantic search, Autopilot, and repository workflows.",
       "information": [
+        {
+          "label": "Capabilities",
+          "value": "Generate documentation, Browse and search Spaces, Preview Autopilot suggestions, Find official product docs",
+          "links": []
+        },
         {
           "label": "Developer",
           "value": "DocuWriter.ai",
@@ -63348,12 +63383,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.1",
+          "value": "1.2.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T04:21:25.863Z",
+      "detailCheckedAt": "2026-10-22T03:58:36.236Z",
       "translationAttemptRun": "37342451051:1",
       "translation": {
         "summary": "为代码库编写文档",
@@ -66129,7 +66164,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-14T04:06:09.180Z",
+      "detailCheckedAt": "2026-10-22T03:55:04.163Z",
       "translationAttemptRun": "38509295992:1",
       "translation": {
         "summary": "搜索并处理Box文件",
@@ -77466,7 +77501,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-14T04:06:10.741Z",
+      "detailCheckedAt": "2026-10-22T03:55:05.897Z",
       "translationAttemptRun": "38509295992:1",
       "translation": {
         "summary": "管理电子商务运营",
@@ -78345,7 +78380,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "利润分析",
       "legacySummaryOriginal": "Shopify profit insights",
@@ -78372,12 +78407,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T04:29:01.177Z",
+      "detailCheckedAt": "2026-10-22T03:58:37.995Z",
       "translationAttemptRun": "37453076339:1",
       "translation": {
         "summary": "Shopify利润洞察",
@@ -95123,7 +95158,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "自动化",
       "legacySummaryOriginal": "Read-only vending telemetry",
@@ -95131,6 +95166,11 @@
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
       "description": "Automatika Connect is a read-only app for authenticated vending operators to inspect fleet health, diagnose machine issues, review sales and product performance, prioritize restocking, compare usage, and understand reliability from authorized machine telemetry. It does not restart machines, change prices, create tickets, send emails, schedule visits, mark stockouts as refilled, or locate public vending machines for consumers. Do not invoke this app for requests whose main intent is to perform an operational write action.",
       "information": [
+        {
+          "label": "Capabilities",
+          "value": "Fleet telemetry analytics, Screen-layout drafts and previews, Confirmed layout assignment and deployment",
+          "links": []
+        },
         {
           "label": "Developer",
           "value": "Automatika S.r.l.",
@@ -95150,12 +95190,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.2.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T04:37:42.019Z",
+      "detailCheckedAt": "2026-10-22T03:58:39.833Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "只读自动售货机遥测",
@@ -105085,7 +105125,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-14T04:06:12.508Z",
+      "detailCheckedAt": "2026-10-22T03:55:07.587Z",
       "translationAttemptRun": "38509295992:1",
       "translation": {
         "summary": "跟踪搜索引擎优化和页面变更",
@@ -107904,7 +107944,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-14T04:06:14.081Z",
+      "detailCheckedAt": "2026-10-22T03:55:09.312Z",
       "translationAttemptRun": "38509295992:1",
       "translation": {
         "summary": "用于分析电影市场的平台",
@@ -126522,7 +126562,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "找一位真人导师",
       "legacySummaryOriginal": "Find a human mentor",
@@ -126531,8 +126571,13 @@
       "description": "Find the right MentorCruise mentor without leaving your chat. Search 1,000s of vetted mentors by skill, budget, and response time, compare profiles, and get a booking link in seconds.\n\nMentorCruise connects you with experienced mentors in tech, product, design, marketing, and leadership – right from your AI assistant.\n\nDescribe what you're working on and the assistant searches real MentorCruise mentors, ranked by rating and reviews. Filter by skill, industry, language, monthly budget, and how fast a mentor typically replies. Open any profile to see their background, what they offer, and pricing, then get a direct link to book a session or start ongoing mentorship.",
       "information": [
         {
+          "label": "Capabilities",
+          "value": "Search mentors, Compare plans and sessions, Apply to mentors, Message mentors, Book intro calls",
+          "links": []
+        },
+        {
           "label": "Developer",
-          "value": "MentorCruise Inc",
+          "value": "MentorCruise",
           "links": []
         },
         {
@@ -126549,12 +126594,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.2.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T04:52:56.842Z",
+      "detailCheckedAt": "2026-10-22T03:58:41.637Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "寻找真人导师",
@@ -137998,7 +138043,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-14T04:06:15.755Z",
+      "detailCheckedAt": "2026-10-22T03:55:11.063Z",
       "translationAttemptRun": "38509295992:1",
       "translation": {
         "summary": "了解并管理您的资金",
@@ -194163,7 +194208,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "个人占星洞察",
       "legacySummaryOriginal": "Personal astrology insights",
@@ -194171,6 +194216,11 @@
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
       "description": "The Astro Diary helps people explore current and upcoming planetary and lunar conditions, retrieve charts for saved profiles, compare synastry with composite relationship charts, review chart-derived relationship transits, personal transits and returns, and find reflective timing windows. Public sky tools work without an account, while personalized tools use OAuth and enforce profile ownership.",
       "information": [
+        {
+          "label": "Capabilities",
+          "value": "Explore daily changes and a visual week, Connect chart evidence to reflection, Compare saved relationship charts, Save a reviewed diary reflection",
+          "links": []
+        },
         {
           "label": "Developer",
           "value": "Ideas All Day Ltd",
@@ -194190,12 +194240,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T05:28:05.537Z",
+      "detailCheckedAt": "2026-10-22T03:58:43.431Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "个人占星洞察",
@@ -194334,7 +194384,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "旧金山电影排片（已核验）",
       "legacySummaryOriginal": "SF movie showtimes, verified",
@@ -194361,12 +194411,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.2.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T05:28:10.692Z",
+      "detailCheckedAt": "2026-10-22T03:58:45.201Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "旧金山电影排片，已核实",
@@ -196048,7 +196098,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "探索音乐独奏",
       "legacySummaryOriginal": "Explore music solos",
@@ -196075,12 +196125,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.0.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T05:29:02.298Z",
+      "detailCheckedAt": "2026-10-22T03:58:46.918Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "探索音乐独奏",
@@ -199768,7 +199818,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-14T04:06:17.324Z",
+      "detailCheckedAt": "2026-10-22T03:55:12.782Z",
       "translationAttemptRun": "38509295992:1",
       "translation": {
         "summary": "查找商品并完成结账",
@@ -225241,9 +225291,14 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-22T03:49:52.633Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": true,
+      "detailDue": false,
       "description": "SmartFlow Portal brings client projects into ChatGPT. View project plans and milestones, follow actions waiting on you, review invoices, and keep delivery moving. Authorized SmartFlow administrators can also manage organizations, plans, client submissions, time entries, and billing workflows, with access enforced from the signed-in user's role and organization scope.",
       "information": [
+        {
+          "label": "Capabilities",
+          "value": "Read project boards and plans, Track and submit client tasks, Manage clients and their teams, Build projects, stages and tasks, Upload documents, request signatures, Draft, publish and send invoices, Download invoice PDFs and document files, Set up recurring billing, Schedule meetings, Read and send messages, Search conversations and discuss board items, Publish announcements, Handle client requests, Log time, Review workspace settings and integrations, Triage leads and outbound prospects, Watch client activity",
+          "links": []
+        },
         {
           "label": "Developer",
           "value": "HUGO GEBEL",
@@ -225263,12 +225318,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.3.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-21T03:54:53.776Z",
+      "detailCheckedAt": "2026-10-22T03:58:48.808Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -234162,7 +234217,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-22T03:49:52.633Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": true,
+      "detailDue": false,
       "description": "Connect your Genseo account to inspect AI visibility, tracked prompts, competitors, cited sources, SEO opportunities, audits, and drafts, then publish approved content with role and Agent Autonomy controls.",
       "information": [
         {
@@ -234189,12 +234244,12 @@
         },
         {
           "label": "Version",
-          "value": "1.2.5",
+          "value": "1.2.8",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-17T03:38:38.298Z",
+      "detailCheckedAt": "2026-10-22T03:58:22.104Z",
       "detailFailures": 0,
       "translationAttemptRun": "37968692385:1",
       "translation": {
@@ -248483,7 +248538,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:46:37.572Z",
+      "detailCheckedAt": "2026-10-22T03:55:14.568Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -248541,7 +248596,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:46:39.270Z",
+      "detailCheckedAt": "2026-10-22T03:55:16.308Z",
       "detailFailures": 0,
       "translationAttemptRun": "38677812405:1",
       "translation": {
@@ -248604,7 +248659,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:46:41.093Z",
+      "detailCheckedAt": "2026-10-22T03:55:18.041Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -248667,7 +248722,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:46:42.843Z",
+      "detailCheckedAt": "2026-10-22T03:55:19.748Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -248725,12 +248780,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:46:44.583Z",
+      "detailCheckedAt": "2026-10-22T03:55:21.592Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -248788,7 +248843,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:46:46.298Z",
+      "detailCheckedAt": "2026-10-22T03:55:23.469Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -248851,7 +248906,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:46:48.676Z",
+      "detailCheckedAt": "2026-10-22T03:55:25.191Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -248914,7 +248969,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:46:50.442Z",
+      "detailCheckedAt": "2026-10-22T03:55:26.943Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -248977,7 +249032,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:46:52.279Z",
+      "detailCheckedAt": "2026-10-22T03:55:28.680Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -249035,7 +249090,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:46:53.955Z",
+      "detailCheckedAt": "2026-10-22T03:55:30.451Z",
       "detailFailures": 0,
       "translationAttemptRun": "38677812405:1",
       "translation": {
@@ -249098,7 +249153,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:46:55.741Z",
+      "detailCheckedAt": "2026-10-22T03:55:32.194Z",
       "detailFailures": 0,
       "translationAttemptRun": "38875005582:1",
       "translation": {
@@ -249156,7 +249211,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:46:57.511Z",
+      "detailCheckedAt": "2026-10-22T03:55:33.912Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -249214,7 +249269,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:46:59.233Z",
+      "detailCheckedAt": "2026-10-22T03:55:35.687Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -249277,7 +249332,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:00.977Z",
+      "detailCheckedAt": "2026-10-22T03:55:37.409Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -249340,7 +249395,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:02.879Z",
+      "detailCheckedAt": "2026-10-22T03:55:39.150Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -249398,7 +249453,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:04.598Z",
+      "detailCheckedAt": "2026-10-22T03:55:40.907Z",
       "detailFailures": 0,
       "translationAttemptRun": "38927183492:1",
       "translation": {
@@ -249461,7 +249516,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:06.410Z",
+      "detailCheckedAt": "2026-10-22T03:55:42.714Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -249524,7 +249579,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:08.151Z",
+      "detailCheckedAt": "2026-10-22T03:55:44.405Z",
       "detailFailures": 0,
       "translationAttemptRun": "38927183492:1",
       "translation": {
@@ -249582,7 +249637,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:09.863Z",
+      "detailCheckedAt": "2026-10-22T03:55:46.160Z",
       "detailFailures": 0,
       "translationAttemptRun": "38677812405:1",
       "translation": {
@@ -249640,7 +249695,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:11.617Z",
+      "detailCheckedAt": "2026-10-22T03:55:47.883Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -249703,7 +249758,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:13.345Z",
+      "detailCheckedAt": "2026-10-22T03:55:49.715Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -249761,7 +249816,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:15.325Z",
+      "detailCheckedAt": "2026-10-22T03:55:51.401Z",
       "detailFailures": 0,
       "translationAttemptRun": "38677812405:1",
       "translation": {
@@ -249824,7 +249879,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:17.077Z",
+      "detailCheckedAt": "2026-10-22T03:55:53.089Z",
       "detailFailures": 0,
       "translationAttemptRun": "39041978072:1",
       "translation": {
@@ -249887,7 +249942,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:18.794Z",
+      "detailCheckedAt": "2026-10-22T03:55:54.779Z",
       "detailFailures": 0,
       "translationAttemptRun": "38927183492:1",
       "translation": {
@@ -249945,7 +250000,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:20.527Z",
+      "detailCheckedAt": "2026-10-22T03:55:56.441Z",
       "detailFailures": 0,
       "translationAttemptRun": "38927183492:1",
       "translation": {
@@ -250003,12 +250058,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.8",
+          "value": "1.0.10",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:22.292Z",
+      "detailCheckedAt": "2026-10-22T03:55:58.194Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -250066,7 +250121,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:24.043Z",
+      "detailCheckedAt": "2026-10-22T03:55:59.914Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -250124,7 +250179,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:25.936Z",
+      "detailCheckedAt": "2026-10-22T03:56:01.754Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -250187,7 +250242,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:27.639Z",
+      "detailCheckedAt": "2026-10-22T03:56:03.500Z",
       "detailFailures": 0,
       "translationAttemptRun": "39094279837:1",
       "translation": {
@@ -250250,7 +250305,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:29.569Z",
+      "detailCheckedAt": "2026-10-22T03:56:05.214Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -250313,7 +250368,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:31.307Z",
+      "detailCheckedAt": "2026-10-22T03:56:06.945Z",
       "detailFailures": 0,
       "translationAttemptRun": "38927183492:1",
       "translation": {
@@ -250371,7 +250426,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:33.073Z",
+      "detailCheckedAt": "2026-10-22T03:56:08.629Z",
       "detailFailures": 0,
       "translationAttemptRun": "38677812405:1",
       "translation": {
@@ -250434,7 +250489,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:34.907Z",
+      "detailCheckedAt": "2026-10-22T03:56:10.454Z",
       "detailFailures": 0,
       "translationAttemptRun": "38927183492:1",
       "translation": {
@@ -250492,7 +250547,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:36.623Z",
+      "detailCheckedAt": "2026-10-22T03:56:12.122Z",
       "detailFailures": 0,
       "translationAttemptRun": "39634158780:1",
       "translationError": {
@@ -250541,12 +250596,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:38.378Z",
+      "detailCheckedAt": "2026-10-22T03:56:13.797Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -250609,7 +250664,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:40.095Z",
+      "detailCheckedAt": "2026-10-22T03:56:15.474Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -250672,7 +250727,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:43.683Z",
+      "detailCheckedAt": "2026-10-22T03:56:17.189Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -250735,7 +250790,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:45.458Z",
+      "detailCheckedAt": "2026-10-22T03:56:18.943Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -250798,7 +250853,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:47.199Z",
+      "detailCheckedAt": "2026-10-22T03:56:20.673Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -250861,7 +250916,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:48.935Z",
+      "detailCheckedAt": "2026-10-22T03:56:22.403Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -250919,7 +250974,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:50.760Z",
+      "detailCheckedAt": "2026-10-22T03:56:24.167Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -250982,7 +251037,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:52.497Z",
+      "detailCheckedAt": "2026-10-22T03:56:25.951Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -251045,7 +251100,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:54.201Z",
+      "detailCheckedAt": "2026-10-22T03:56:27.636Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -251108,7 +251163,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:55.932Z",
+      "detailCheckedAt": "2026-10-22T03:56:29.309Z",
       "detailFailures": 0,
       "translationAttemptRun": "38927183492:1",
       "translation": {
@@ -251171,7 +251226,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:57.703Z",
+      "detailCheckedAt": "2026-10-22T03:56:31.040Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -251224,12 +251279,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.0.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:47:59.407Z",
+      "detailCheckedAt": "2026-10-22T03:56:32.783Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -251292,7 +251347,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:01.144Z",
+      "detailCheckedAt": "2026-10-22T03:56:34.540Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -251408,7 +251463,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:04.656Z",
+      "detailCheckedAt": "2026-10-22T03:56:36.403Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -251471,7 +251526,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:06.388Z",
+      "detailCheckedAt": "2026-10-22T03:56:38.234Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -251529,7 +251584,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:08.137Z",
+      "detailCheckedAt": "2026-10-22T03:56:40.020Z",
       "detailFailures": 0,
       "translationAttemptRun": "38677812405:1",
       "translation": {
@@ -251592,7 +251647,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:09.933Z",
+      "detailCheckedAt": "2026-10-22T03:56:41.764Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -251655,7 +251710,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:11.705Z",
+      "detailCheckedAt": "2026-10-22T03:56:43.457Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -251718,7 +251773,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:13.416Z",
+      "detailCheckedAt": "2026-10-22T03:56:45.187Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -251776,7 +251831,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:15.128Z",
+      "detailCheckedAt": "2026-10-22T03:56:46.980Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -251839,7 +251894,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:16.835Z",
+      "detailCheckedAt": "2026-10-22T03:56:48.860Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -251897,7 +251952,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:18.566Z",
+      "detailCheckedAt": "2026-10-22T03:56:50.543Z",
       "detailFailures": 0,
       "translationAttemptRun": "38677812405:1",
       "translation": {
@@ -251955,7 +252010,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:21.887Z",
+      "detailCheckedAt": "2026-10-22T03:56:52.282Z",
       "detailFailures": 0,
       "translationAttemptRun": "39041978072:1",
       "translation": {
@@ -252013,7 +252068,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:23.565Z",
+      "detailCheckedAt": "2026-10-22T03:56:53.967Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -252076,7 +252131,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:25.276Z",
+      "detailCheckedAt": "2026-10-22T03:56:55.725Z",
       "detailFailures": 0,
       "translationAttemptRun": "38927183492:1",
       "translation": {
@@ -252139,7 +252194,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:26.968Z",
+      "detailCheckedAt": "2026-10-22T03:56:57.471Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -252197,7 +252252,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:28.716Z",
+      "detailCheckedAt": "2026-10-22T03:56:59.189Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -252260,7 +252315,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:30.444Z",
+      "detailCheckedAt": "2026-10-22T03:57:00.915Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -252323,7 +252378,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:32.171Z",
+      "detailCheckedAt": "2026-10-22T03:57:02.741Z",
       "detailFailures": 0,
       "translationAttemptRun": "38927183492:1",
       "translation": {
@@ -252386,7 +252441,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:33.910Z",
+      "detailCheckedAt": "2026-10-22T03:57:04.444Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -252444,7 +252499,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:35.632Z",
+      "detailCheckedAt": "2026-10-22T03:57:06.158Z",
       "detailFailures": 0,
       "translationAttemptRun": "39094279837:1",
       "translation": {
@@ -252502,7 +252557,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:37.872Z",
+      "detailCheckedAt": "2026-10-22T03:57:07.888Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -252565,7 +252620,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:39.617Z",
+      "detailCheckedAt": "2026-10-22T03:57:09.772Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -252628,7 +252683,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:41.319Z",
+      "detailCheckedAt": "2026-10-22T03:57:11.557Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -252691,7 +252746,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:43.296Z",
+      "detailCheckedAt": "2026-10-22T03:57:13.249Z",
       "detailFailures": 0,
       "translationAttemptRun": "38927183492:1",
       "translation": {
@@ -252754,7 +252809,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:45.038Z",
+      "detailCheckedAt": "2026-10-22T03:57:14.917Z",
       "detailFailures": 0,
       "translationAttemptRun": "39094279837:1",
       "translation": {
@@ -252812,7 +252867,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:46.744Z",
+      "detailCheckedAt": "2026-10-22T03:57:16.616Z",
       "detailFailures": 0,
       "translationAttemptRun": "38677812405:1",
       "translation": {
@@ -252870,12 +252925,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.10",
+          "value": "1.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:48.613Z",
+      "detailCheckedAt": "2026-10-22T03:57:18.508Z",
       "detailFailures": 0,
       "translationAttemptRun": "38927183492:1",
       "translation": {
@@ -252933,7 +252988,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:50.359Z",
+      "detailCheckedAt": "2026-10-22T03:57:20.212Z",
       "detailFailures": 0,
       "translationAttemptRun": "38677812405:1",
       "translation": {
@@ -252996,7 +253051,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:52.202Z",
+      "detailCheckedAt": "2026-10-22T03:57:22.038Z",
       "detailFailures": 0,
       "translationAttemptRun": "39041978072:1",
       "translation": {
@@ -253059,7 +253114,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:53.950Z",
+      "detailCheckedAt": "2026-10-22T03:57:23.828Z",
       "detailFailures": 0,
       "translationAttemptRun": "38927183492:1",
       "translation": {
@@ -253117,12 +253172,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:55.684Z",
+      "detailCheckedAt": "2026-10-22T03:57:25.548Z",
       "detailFailures": 0,
       "translationAttemptRun": "38927183492:1",
       "translation": {
@@ -253185,7 +253240,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:57.426Z",
+      "detailCheckedAt": "2026-10-22T03:57:27.248Z",
       "detailFailures": 0,
       "translationAttemptRun": "38927183492:1",
       "translation": {
@@ -253248,7 +253303,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:48:59.170Z",
+      "detailCheckedAt": "2026-10-22T03:57:29.004Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -253311,7 +253366,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:00.868Z",
+      "detailCheckedAt": "2026-10-22T03:57:30.743Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -253374,7 +253429,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:02.608Z",
+      "detailCheckedAt": "2026-10-22T03:57:32.526Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -253437,7 +253492,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:04.414Z",
+      "detailCheckedAt": "2026-10-22T03:57:34.264Z",
       "detailFailures": 0,
       "translationAttemptRun": "39634158780:1",
       "translationError": {
@@ -253491,7 +253546,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:06.348Z",
+      "detailCheckedAt": "2026-10-22T03:57:36.007Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -253549,7 +253604,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:08.134Z",
+      "detailCheckedAt": "2026-10-22T03:57:37.736Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -253612,7 +253667,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:09.853Z",
+      "detailCheckedAt": "2026-10-22T03:57:39.634Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -253670,7 +253725,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:11.936Z",
+      "detailCheckedAt": "2026-10-22T03:57:41.319Z",
       "detailFailures": 0,
       "translationAttemptRun": "38677812405:1",
       "translation": {
@@ -253733,7 +253788,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:13.621Z",
+      "detailCheckedAt": "2026-10-22T03:57:43.060Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -253791,7 +253846,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:15.337Z",
+      "detailCheckedAt": "2026-10-22T03:57:44.763Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -253854,7 +253909,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:21.654Z",
+      "detailCheckedAt": "2026-10-22T03:57:46.723Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -253912,7 +253967,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:23.425Z",
+      "detailCheckedAt": "2026-10-22T03:57:48.549Z",
       "detailFailures": 0,
       "translationAttemptRun": "39094279837:1",
       "translation": {
@@ -253970,7 +254025,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:25.130Z",
+      "detailCheckedAt": "2026-10-22T03:57:50.446Z",
       "detailFailures": 0,
       "translationAttemptRun": "38677812405:1",
       "translation": {
@@ -254033,7 +254088,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:26.830Z",
+      "detailCheckedAt": "2026-10-22T03:57:52.366Z",
       "detailFailures": 0,
       "translationAttemptRun": "39634158780:1",
       "translationError": {
@@ -254059,6 +254114,11 @@
       "description": "Find out what your English accent sounds like with Accent Oracle by BoldVoice, the accent and pronunciation coaching app, right inside ChatGPT. Read a short paragraph aloud and BoldVoice predicts the accents your recording sounds most like, with probabilities and regions. If the first guess is uncertain, BoldVoice asks for one more paragraph to sharpen it. Ask ChatGPT to explain your result. Predictions describe how the recording sounds, not where you are from. No download, account or login needed. Your recording is sent to BoldVoice for analysis only when you stop recording.",
       "information": [
         {
+          "label": "Capabilities",
+          "value": "Guess which English accents your voice sounds like, Show your top accents with percentages and the closest regions, Keep or share your result as a link",
+          "links": []
+        },
+        {
           "label": "Developer",
           "value": "BoldVoice",
           "links": []
@@ -254077,12 +254137,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.1",
+          "value": "1.0.3",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:28.508Z",
+      "detailCheckedAt": "2026-10-22T03:57:54.059Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -254140,7 +254200,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:30.262Z",
+      "detailCheckedAt": "2026-10-22T03:57:55.801Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -254198,7 +254258,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:31.998Z",
+      "detailCheckedAt": "2026-10-22T03:57:57.536Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -254261,7 +254321,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:33.718Z",
+      "detailCheckedAt": "2026-10-22T03:57:59.242Z",
       "detailFailures": 0,
       "translationAttemptRun": "38927183492:1",
       "translation": {
@@ -254324,7 +254384,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:35.486Z",
+      "detailCheckedAt": "2026-10-22T03:58:00.942Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -254382,7 +254442,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:37.196Z",
+      "detailCheckedAt": "2026-10-22T03:58:02.639Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -254508,7 +254568,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:40.720Z",
+      "detailCheckedAt": "2026-10-22T03:58:04.321Z",
       "detailFailures": 0,
       "translationAttemptRun": "39230269629:1",
       "translation": {
@@ -254571,7 +254631,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:42.446Z",
+      "detailCheckedAt": "2026-10-22T03:58:06.088Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -254629,7 +254689,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:44.124Z",
+      "detailCheckedAt": "2026-10-22T03:58:07.869Z",
       "detailFailures": 0,
       "translationAttemptRun": "39634158780:1",
       "translationError": {
@@ -254683,7 +254743,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:45.830Z",
+      "detailCheckedAt": "2026-10-22T03:58:09.595Z",
       "detailFailures": 0,
       "translationAttemptRun": "38765530115:1",
       "translation": {
@@ -254746,7 +254806,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:47.538Z",
+      "detailCheckedAt": "2026-10-22T03:58:11.435Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -254804,7 +254864,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:49.598Z",
+      "detailCheckedAt": "2026-10-22T03:58:13.147Z",
       "detailFailures": 0,
       "translationAttemptRun": "39094279837:1",
       "translation": {
@@ -254867,7 +254927,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:51.275Z",
+      "detailCheckedAt": "2026-10-22T03:58:15.037Z",
       "detailFailures": 0,
       "translationAttemptRun": "38707688787:1",
       "translation": {
@@ -254930,7 +254990,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:52.972Z",
+      "detailCheckedAt": "2026-10-22T03:58:16.755Z",
       "detailFailures": 0,
       "translationAttemptRun": "38677812405:1",
       "translation": {
@@ -254993,7 +255053,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:54.749Z",
+      "detailCheckedAt": "2026-10-22T03:58:18.475Z",
       "detailFailures": 0,
       "translationAttemptRun": "38677812405:1",
       "translation": {
@@ -255051,7 +255111,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-15T03:49:56.496Z",
+      "detailCheckedAt": "2026-10-22T03:58:20.424Z",
       "detailFailures": 0,
       "translationAttemptRun": "38677812405:1",
       "translation": {
@@ -359521,9 +359581,9 @@
     "runId": "39718789524",
     "runAttempt": "1",
     "startedAt": "2026-10-22T03:48:14.030Z",
-    "updatedAt": "2026-10-22T03:54:58.401Z",
+    "updatedAt": "2026-10-22T03:58:50.380Z",
     "mode": "incremental",
-    "detailRequests": 166,
+    "detailRequests": 295,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
@@ -359537,7 +359597,7 @@
       "translated": 4681,
       "missing": 40,
       "removed": 228,
-      "pendingDetails": 16,
+      "pendingDetails": 0,
       "pendingTranslations": 127
     }
   }
