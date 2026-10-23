@@ -292922,7 +292922,21 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:55:08.422Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39984648209:1"
+      "translationAttemptRun": "39984648209:1",
+      "translation": {
+        "summary": "寻找并保存手机壁纸",
+        "description": "One4Wall将原创手机壁纸目录带入ChatGPT。描述您想要的风格、主题或颜色，ChatGPT会以画廊形式展示匹配的壁纸。点击任意一张可查看大图、以原分辨率下载，或在one4wall.app上打开。\n\n您可以询问的内容包括：\n- 为我的手机寻找一张温馨的雨中城市壁纸\n- 展示给我粉色花朵壁纸\n- 我想要暗色系极简山景锁屏\n- 一些蓝色系且充满海洋元素的宁静画面\n\n所有壁纸均由One4Studio专为竖屏手机屏幕设计。每次画廊最多显示八张结果；更换关键词再次提问可查看更多。",
+        "sourceHash": "c323afc853d83af33ddb5b220a8d5eb8d0396431b75a7dee1e8384d81aaa2b10",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-23T16:16:56.040Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 31.158382415771484,
+          "total_tokens": 1813
+        }
+      }
     },
     "plugin_asdk_app_6ad8acf81ccc819193bc600c3a69f612": {
       "id": "plugin_asdk_app_6ad8acf81ccc819193bc600c3a69f612",
@@ -295014,7 +295028,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:56:23.101Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "39984648209:1",
+      "translation": {
+        "summary": "查找UI组件",
+        "description": "在Uniquel UI库中搜索组件和区块，然后获取你所选项目的源代码。需要Uniquel账户；全访问会员可获取高级区块。",
+        "sourceHash": "ceb7bddd05dfb8f226a14461c1efa1b1e2bf230c4bab811c909d72487aeeb4b8",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-23T16:17:01.064Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 25.195526123046875,
+          "total_tokens": 1513
+        }
+      }
     },
     "plugin_asdk_app_6ac688dabe3c81918acfeb3596564046": {
       "id": "plugin_asdk_app_6ac688dabe3c81918acfeb3596564046",
@@ -295698,7 +295727,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:56:47.689Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "39984648209:1",
+      "translation": {
+        "summary": "AI工具访问钱包",
+        "description": "BEON PASS是开发者和云工具的访问钱包。连接提供商账户一次，即可让ChatGPT跨代码仓库、数据库、部署、基础设施和其他连接服务读取资源并执行授权操作。BEON PASS可分离个人账户与组织账户，支持每个提供商多个账户，强制实施资源级权限、审批流程、临时访问及自动驾驶授权，且从不向ChatGPT暴露提供商凭证或密钥值。",
+        "sourceHash": "1690644d8aa54e14eaa9556abc30f59f98d28959a6de4e1743d40a409558106f",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-23T16:17:07.359Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 33.35944366455078,
+          "total_tokens": 1825
+        }
+      }
     },
     "plugin_asdk_app_6ac57efe45948191a436eff6957d531d": {
       "id": "plugin_asdk_app_6ac57efe45948191a436eff6957d531d",
@@ -297474,7 +297518,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:57:51.073Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "39984648209:1",
+      "translation": {
+        "summary": "与您的Google Ads数据对话",
+        "description": "通过Adzviser将Google Ads数据连接至ChatGPT。用自然语言提问以分析广告活动表现，跟踪广告支出并了解广告支出回报率。\n\n在日期范围之间对比广告活动、广告组、关键词和单个广告。探索展示次数、点击次数、每次点击费用、转化次数和转化价值等指标。将您的数据转化为清晰报告，发现表现趋势并识别广告优化机会。",
+        "sourceHash": "519855fdc242e7617dc23de8047d27c21873a928d26297811475eb4fffc61f70",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-23T16:17:09.107Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 31.012056350708008,
+          "total_tokens": 1759
+        }
+      }
     },
     "plugin_asdk_app_6ac5a98843f08191a1f8dc99f9cda5df": {
       "id": "plugin_asdk_app_6ac5a98843f08191a1f8dc99f9cda5df",
@@ -299026,7 +299085,21 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:58:44.532Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39984648209:1"
+      "translationAttemptRun": "39984648209:1",
+      "translation": {
+        "summary": "法医表面比对",
+        "description": "通过Verity的托管服务对比X3P表面扫描数据。检查似然比、命名参考样本、不确定性、适用性警告以及可重复的处理流程。在不将报告转换为匹配结论的情况下解释报告。",
+        "sourceHash": "1a4210834cd9593662f3dd1b91602b3365aba4c741dbba2b5d8dea4d9d34e682",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-23T16:16:54.732Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 24.400453567504883,
+          "total_tokens": 1492
+        }
+      }
     },
     "plugin_asdk_app_6abd5d1ff9348191b46339e85dd7b567": {
       "id": "plugin_asdk_app_6abd5d1ff9348191b46339e85dd7b567",
@@ -303039,7 +303112,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:01:11.317Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "39984648209:1",
+      "translation": {
+        "summary": "新员工租房搬迁服务",
+        "description": "帮助即将迁往达拉斯、休斯顿和奥斯汀的新员工比较不同社区，阅读经批准的搬迁问答和指南，并根据预算寻找公寓。雇主、具体办公地点及在办公室的天数将指导通勤讨论。起始租金为存储的参考信息，非实时可租状态。此只读连接无法预订看房、处理付款、提交申请或访问客户记录。",
+        "sourceHash": "d9341a4c2e750914bb6569db23ed568b18dfe41d3e6ef2f4cbee4c3aa711c017",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-23T16:17:04.556Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 27.425045013427734,
+          "total_tokens": 1615
+        }
+      }
     },
     "plugin_asdk_app_6ac8db3bf6b081919a03e607f1918ffc": {
       "id": "plugin_asdk_app_6ac8db3bf6b081919a03e607f1918ffc",
@@ -380050,17 +380138,101 @@
         "neurons": 20.080150604248047,
         "total_tokens": 1318
       }
+    },
+    "1a4210834cd9593662f3dd1b91602b3365aba4c741dbba2b5d8dea4d9d34e682": {
+      "summary": "法医表面比对",
+      "description": "通过Verity的托管服务对比X3P表面扫描数据。检查似然比、命名参考样本、不确定性、适用性警告以及可重复的处理流程。在不将报告转换为匹配结论的情况下解释报告。",
+      "sourceHash": "1a4210834cd9593662f3dd1b91602b3365aba4c741dbba2b5d8dea4d9d34e682",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-23T16:16:54.732Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 24.400453567504883,
+        "total_tokens": 1492
+      }
+    },
+    "c323afc853d83af33ddb5b220a8d5eb8d0396431b75a7dee1e8384d81aaa2b10": {
+      "summary": "寻找并保存手机壁纸",
+      "description": "One4Wall将原创手机壁纸目录带入ChatGPT。描述您想要的风格、主题或颜色，ChatGPT会以画廊形式展示匹配的壁纸。点击任意一张可查看大图、以原分辨率下载，或在one4wall.app上打开。\n\n您可以询问的内容包括：\n- 为我的手机寻找一张温馨的雨中城市壁纸\n- 展示给我粉色花朵壁纸\n- 我想要暗色系极简山景锁屏\n- 一些蓝色系且充满海洋元素的宁静画面\n\n所有壁纸均由One4Studio专为竖屏手机屏幕设计。每次画廊最多显示八张结果；更换关键词再次提问可查看更多。",
+      "sourceHash": "c323afc853d83af33ddb5b220a8d5eb8d0396431b75a7dee1e8384d81aaa2b10",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-23T16:16:56.040Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 31.158382415771484,
+        "total_tokens": 1813
+      }
+    },
+    "ceb7bddd05dfb8f226a14461c1efa1b1e2bf230c4bab811c909d72487aeeb4b8": {
+      "summary": "查找UI组件",
+      "description": "在Uniquel UI库中搜索组件和区块，然后获取你所选项目的源代码。需要Uniquel账户；全访问会员可获取高级区块。",
+      "sourceHash": "ceb7bddd05dfb8f226a14461c1efa1b1e2bf230c4bab811c909d72487aeeb4b8",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-23T16:17:01.064Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 25.195526123046875,
+        "total_tokens": 1513
+      }
+    },
+    "d9341a4c2e750914bb6569db23ed568b18dfe41d3e6ef2f4cbee4c3aa711c017": {
+      "summary": "新员工租房搬迁服务",
+      "description": "帮助即将迁往达拉斯、休斯顿和奥斯汀的新员工比较不同社区，阅读经批准的搬迁问答和指南，并根据预算寻找公寓。雇主、具体办公地点及在办公室的天数将指导通勤讨论。起始租金为存储的参考信息，非实时可租状态。此只读连接无法预订看房、处理付款、提交申请或访问客户记录。",
+      "sourceHash": "d9341a4c2e750914bb6569db23ed568b18dfe41d3e6ef2f4cbee4c3aa711c017",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-23T16:17:04.556Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 27.425045013427734,
+        "total_tokens": 1615
+      }
+    },
+    "1690644d8aa54e14eaa9556abc30f59f98d28959a6de4e1743d40a409558106f": {
+      "summary": "AI工具访问钱包",
+      "description": "BEON PASS是开发者和云工具的访问钱包。连接提供商账户一次，即可让ChatGPT跨代码仓库、数据库、部署、基础设施和其他连接服务读取资源并执行授权操作。BEON PASS可分离个人账户与组织账户，支持每个提供商多个账户，强制实施资源级权限、审批流程、临时访问及自动驾驶授权，且从不向ChatGPT暴露提供商凭证或密钥值。",
+      "sourceHash": "1690644d8aa54e14eaa9556abc30f59f98d28959a6de4e1743d40a409558106f",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-23T16:17:07.359Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 33.35944366455078,
+        "total_tokens": 1825
+      }
+    },
+    "519855fdc242e7617dc23de8047d27c21873a928d26297811475eb4fffc61f70": {
+      "summary": "与您的Google Ads数据对话",
+      "description": "通过Adzviser将Google Ads数据连接至ChatGPT。用自然语言提问以分析广告活动表现，跟踪广告支出并了解广告支出回报率。\n\n在日期范围之间对比广告活动、广告组、关键词和单个广告。探索展示次数、点击次数、每次点击费用、转化次数和转化价值等指标。将您的数据转化为清晰报告，发现表现趋势并识别广告优化机会。",
+      "sourceHash": "519855fdc242e7617dc23de8047d27c21873a928d26297811475eb4fffc61f70",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-23T16:17:09.107Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 31.012056350708008,
+        "total_tokens": 1759
+      }
     }
   },
   "lastRun": {
     "runId": "39984648209",
     "runAttempt": "1",
     "startedAt": "2026-10-23T16:11:49.201Z",
-    "updatedAt": "2026-10-23T16:16:49.795Z",
+    "updatedAt": "2026-10-23T16:17:09.374Z",
     "mode": "translate",
     "detailRequests": 0,
-    "translationRequests": 58,
-    "translationAttempts": 46,
+    "translationRequests": 62,
+    "translationAttempts": 50,
     "translationLimit": 50,
     "aiConfigured": true,
     "blocked": false,
@@ -380069,11 +380241,11 @@
     "stats": {
       "total": 5017,
       "details": 5017,
-      "translated": 4869,
+      "translated": 4875,
       "missing": 40,
       "removed": 266,
       "pendingDetails": 0,
-      "pendingTranslations": 148
+      "pendingTranslations": 142
     }
   }
 }
