@@ -340,7 +340,7 @@
       "information": [
         {
           "label": "Capabilities",
-          "value": "Web search, Web scraping, Structured data extraction, Developer research, Scientific paper research, Website crawling, Browser interaction, Website monitoring",
+          "value": "Web search, Page scraping, Site crawling, Structured extraction, Browser interaction, Change monitoring, Research",
           "links": []
         },
         {
@@ -362,12 +362,12 @@
         },
         {
           "label": "Version",
-          "value": "2.2.2",
+          "value": "2.8.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-16T03:46:27.324Z",
+      "detailCheckedAt": "2026-10-23T04:10:07.817Z",
       "translationAttemptRun": "38846672078:1",
       "translation": {
         "summary": "搜索并提取网页数据",
@@ -28459,13 +28459,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "追踪 Europacific 货运",
       "legacySummaryOriginal": "Track Europacific shipments",
       "lastSeenAt": "2026-10-23T03:54:39.485Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Track your Europacific Logistika shipment in seconds. Enter any reference — Position Folder (PF) number, container number, MBL or HBL number, transport order, or booking number — and get the current status, origin → destination route, vessel and carrier, ETA, and the latest milestone, shown in a clear status card. The app is read-only and returns shipment logistics only (no pricing or personal data).",
+      "description": "Track your Europacific Logistika shipment in seconds using ChatGPT.\n\nSimply type your tracking reference, such as:\n\n• PF / Position Folder (PF-000700-26)\n• Container number\n• MBL\n• HBL\n• Booking number\n• Transport order\n\nChatGPT returns:\n\n• Live shipment status\n• Origin and destination\n• ETA\n• Carrier and vessel\n• Container numbers\n• Latest shipment milestone\n\nNo login required. Read-only access to shipment tracking information.",
       "information": [
         {
           "label": "Developer",
@@ -28474,7 +28474,7 @@
         },
         {
           "label": "Category",
-          "value": "Productivity",
+          "value": "Business & Operations",
           "links": []
         },
         {
@@ -28486,12 +28486,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T04:05:20.174Z",
+      "detailCheckedAt": "2026-10-23T04:10:19.459Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "追踪 Europacific 货运",
@@ -32519,7 +32519,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "会议记忆与任务",
       "legacySummaryOriginal": "Meeting memory and tasks",
@@ -32528,8 +32528,13 @@
       "description": "Memova helps users work with their own meeting notes in ChatGPT and Codex. The app can search and summarize Memova notes and transcripts, review action items, inspect and run private automation tasks with guarded progress writes, and help users set up their own LLM Wiki-style knowledge base.",
       "information": [
         {
+          "label": "Capabilities",
+          "value": "Read, Write, Workflow",
+          "links": []
+        },
+        {
           "label": "Developer",
-          "value": "Memova LLC",
+          "value": "Memova",
           "links": []
         },
         {
@@ -32546,12 +32551,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.15.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T04:07:27.005Z",
+      "detailCheckedAt": "2026-10-23T04:10:21.288Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "会议记忆与任务",
@@ -50242,7 +50247,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "网站设计参考",
       "legacySummaryOriginal": "Website design references",
@@ -50269,12 +50274,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.0.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T04:14:51.095Z",
+      "detailCheckedAt": "2026-10-23T04:10:23.632Z",
       "translationAttemptRun": "37202584253:1",
       "translation": {
         "summary": "网站设计参考",
@@ -55472,7 +55477,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-16T03:46:29.073Z",
+      "detailCheckedAt": "2026-10-23T04:10:09.880Z",
       "translationAttemptRun": "38846672078:1",
       "translation": {
         "summary": "AI构建应用的安全云平台",
@@ -83922,7 +83927,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "VeraDial 工具",
       "legacySummaryOriginal": "Review calls and messages",
@@ -83930,6 +83935,11 @@
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
       "description": "Connect your VeraDial account to review calls, AI call outcomes, voicemail and call transcripts, text conversations, phone lines, contacts, receptionist settings, subscription status, and usage. Access is read-only and scoped to the signed-in account; audio recordings are never exposed.",
       "information": [
+        {
+          "label": "Capabilities",
+          "value": "Receptionist setup guidance, Call and voicemail summaries, Follow-up drafts",
+          "links": []
+        },
         {
           "label": "Developer",
           "value": "VeraDial Inc.",
@@ -83949,12 +83959,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T04:31:56.496Z",
+      "detailCheckedAt": "2026-10-23T04:10:25.509Z",
       "translationAttemptRun": "37453076339:1",
       "translation": {
         "summary": "查看通话和消息",
@@ -90792,7 +90802,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "建筑",
       "legacySummaryOriginal": "Job-site reports",
@@ -90819,12 +90829,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.0.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T04:35:31.994Z",
+      "detailCheckedAt": "2026-10-23T04:10:27.397Z",
       "translationAttemptRun": "37505287757:1",
       "translation": {
         "summary": "施工现场报告",
@@ -98137,7 +98147,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "社交媒体",
       "legacySummaryOriginal": "Create social content",
@@ -98147,7 +98157,7 @@
       "information": [
         {
           "label": "Developer",
-          "value": "HYVE Labs",
+          "value": "Waggle",
           "links": []
         },
         {
@@ -98159,17 +98169,17 @@
           "label": "Website",
           "value": "",
           "links": [
-            "https://socialbee.hyve-os.com/home"
+            "https://wisp.waggle.ae/"
           ]
         },
         {
           "label": "Version",
-          "value": "1.0.1",
+          "value": "1.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T04:39:12.531Z",
+      "detailCheckedAt": "2026-10-23T04:10:29.367Z",
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "创建社交内容",
@@ -120089,7 +120099,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-16T03:46:30.799Z",
+      "detailCheckedAt": "2026-10-23T04:10:11.846Z",
       "translationAttemptRun": "38846672078:1",
       "translation": {
         "summary": "判例法、法规、规章",
@@ -137040,7 +137050,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-16T03:46:32.668Z",
+      "detailCheckedAt": "2026-10-23T04:10:13.739Z",
       "translationAttemptRun": "38846672078:1",
       "translation": {
         "summary": "期权流动、GEX、筛选器",
@@ -150054,7 +150064,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "用 AI 分析你的财务",
       "legacySummaryOriginal": "Analyze your finances with AI",
@@ -150063,6 +150073,11 @@
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
       "description": "Per Diem lets you analyze your full financial life with AI. Connect your Per Diem account to ask questions about your net worth, account balances, holdings, transactions, budgets, current-year cash flow, and FIRE plan.\n\nUse it to answer questions like:\n\n“Can we afford a trip to Mexico next winter?”\n“When am I projected to reach financial independence?”\n\"How much can I spend per day to stay on budget this month?\"\n“Summarize my net worth and biggest holdings.”\n“Find recent transactions from Amazon or restaurants.”\n“How concentrated is my portfolio?”\n\nPer Diem provides read-only financial context from your connected accounts and planning data so ChatGPT can help you understand spending patterns, review budgets, inspect transactions, evaluate portfolio concentration, and reason about your path to financial independence. Per Diem does not move money, make trades, change your data, or provide legal, tax, accounting, or investment advice.",
       "information": [
+        {
+          "label": "Capabilities",
+          "value": "Financial summary, Transaction search, Budget versus actual spending, FIRE plan analysis, Saved FIRE scenario comparison, Annual spending history, Net-worth history",
+          "links": []
+        },
         {
           "label": "Developer",
           "value": "Per Diem LLC",
@@ -150082,12 +150097,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T05:05:10.496Z",
+      "detailCheckedAt": "2026-10-23T04:10:31.361Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "用 AI 分析你的财务状况",
@@ -177987,14 +178002,14 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "机票 + 集合点比价",
       "legacySummaryOriginal": "Flights + Meeting Point — comp",
       "legacyDescriptionSource": "Tripuck is a flight meta-search and trip-planning service. This connector\nlets you search live flight prices, explore a route's cheapest days of the\nmonth, browse popular destinations from any origin city, and open full\nsegment / baggage details for any result — all without leaving the chat.\nTripuck's signature feature is Meeting Point: given 2-5 travelers flying\nfrom different cities, it computes the cheapest and fairest common\ndestination, along with a per-person price breakdown and a fairness score.\nIt's ideal for coordinating trips where the group is spread across several\ncountries.\n\nEvery result deep-links back to tripuck.com for booking review and\ncheckout. The connector itself is read-only — it does not book, charge,\nmodify accounts, or hold any user payment information.\nSupported user languages: Turkish, English, Arabic, Azerbaijani, German,\nGeorgian, and Uzbek. The tool infers the user's language from the\nconversation and returns responses in that language, including right-to-\nleft layout for Arabic.",
       "lastSeenAt": "2026-10-23T03:54:39.485Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Tripuck is a flight meta-search and trip-planning service. This connector\nlets you search live flight prices, explore a route's cheapest days of the\nmonth, browse popular destinations from any origin city, and open full\nsegment / baggage details for any result — all without leaving the chat.\n\nTripuck's signature feature is **Meeting Point**: given 2-5 travelers flying\nfrom different cities, it computes the cheapest and fairest common\ndestination, along with a per-person price breakdown and a fairness score.\nIt's ideal for coordinating trips where the group is spread across several\ncountries.\n\nEvery result deep-links back to tripuck.com for booking review and\ncheckout. The connector itself is read-only — it does not book, charge,\nmodify accounts, or hold any user payment information.\n\nSupported user languages: Turkish, English, Arabic, Azerbaijani, German,\nGeorgian, and Uzbek. The tool infers the user's language from the\nconversation and returns responses in that language, including right-to-\nleft layout for Arabic.",
+      "description": "Tripuck turns ChatGPT into a complete travel-planning companion for flights, hotels and eSIM data plans — no tab-switching, no copy-pasting.\n\nSearch live flight prices between any two cities, scan a whole month of fares at a glance to find the cheapest day to fly, get inspired by the most popular destinations from your home airport, and open full segment, layover and baggage details for any flight that catches your eye.\n\nNeed a place to stay? Search real-time hotel availability and nightly prices for any city and dates, filter by star rating and guest-review score, and compare options side by side. Heading abroad? Compare prepaid travel eSIM data plans for your destination country by data amount, validity and price, so you land already connected.\n\nTripuck's signature feature is Meeting Point: tell it where 2-5 friends or colleagues are flying from, and it finds the cheapest and fairest city for everyone to meet — complete with a per-person price breakdown, a fairness score, and synchronized round-trip dates so the whole group travels together.\n\nEverything is read-only and privacy-first: Tripuck never asks for your name, email or payment details and never stores your chat. When you're ready to book or buy, a single tap opens the exact page on tripuck.com.\n\nAvailable in 7 languages — Turkish, English, Arabic, German, Azerbaijani, Georgian and Uzbek — with full right-to-left layout for Arabic.",
       "information": [
         {
           "label": "Developer",
@@ -178015,12 +178030,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T05:19:39.410Z",
+      "detailCheckedAt": "2026-10-23T04:10:33.271Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "航班 + 集合地点——比较",
@@ -192151,13 +192166,13 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "在 ChatGPT 里读短篇小说",
       "legacySummaryOriginal": "Read short fiction in ChatGPT",
       "lastSeenAt": "2026-10-23T03:54:39.485Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "FICTURN lets users browse and read short, finished fiction directly inside ChatGPT. The current library includes romantic suspense, uncanny horror, and near-future speculative fiction, presented in an inline reader with progress, Previous and Continue navigation, and a Library view. FICTURN serves fixed story text and does not generate or rewrite the prose on the fly.",
+      "description": "FICTURN, by Confluence of Minds, is a library of short, finished fiction made to be read directly inside ChatGPT. Discover a story by mood, genre or reading time — from five-minute romantic suspense and romance to eerie uncanny horror, mystery, near-future science fiction, AI thrillers and speculative fiction. Stories open in an inline reader with progress, Previous and Continue navigation. The prose is fixed and pre-authored: FICTURN does not generate or rewrite the canonical story on the fly.",
       "information": [
         {
           "label": "Developer",
@@ -192178,12 +192193,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.0.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T05:26:59.884Z",
+      "detailCheckedAt": "2026-10-23T04:10:35.174Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "在 ChatGPT 中阅读短篇小说",
@@ -199971,14 +199986,14 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": true,
+      "detailDue": false,
       "seeded": true,
       "legacySummary": "膳食计划、菜谱与采购",
       "legacySummaryOriginal": "Meal Plans, Recipes, Groceries",
       "legacyDescriptionSource": "Everything your favorite kitchen management app does, and more, inside ChatGPT. Pantry Persona remembers what's in your fridge, what your family can and can't eat, and which brands you prefer. It stores your recipes, plans your meals, builds your shopping lists, and tracks the nutrition behind it all, then keeps everything in sync as you cook and shop through the week Recipes — Save a recipe from a website, a cooking video, or a social post, or just create one in conversation. Search by ingredient, cuisine, or what you can make right now with what's on hand, and group your favorites into collections. Meal plans — Generate a full week of meals in one ask, or build it day by day. Plans respect your household's food preferences and eating rules automatically, and carry per-meal nutrition so you can see how the week shapes up. Shopping lists — Visual, interactive lists organized by store. One tap checks items off. Ask for a shopping list from your meal plan and it skips anything already in your pantry. Send it to Instacart when you're ready to buy. Cook Mode — Start cooking a recipe and get step-by-step guidance. When you're done, ingredients are",
       "lastSeenAt": "2026-10-23T03:54:39.485Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "description": "Everything your favorite kitchen management app does, and more, inside ChatGPT.\n\nPantry Persona remembers what's in your fridge, what your family can and can't eat, and which brands you prefer. It stores your recipes, plans your meals, builds your shopping lists, and tracks the nutrition behind it all, then keeps everything in sync as you cook and shop through the week\n\n**Recipes** — Save a recipe from a website, a cooking video, or a social post, or just create one in conversation. Search by ingredient, cuisine, or what you can make right now with what's on hand, and group your favorites into collections.\n\n**Meal plans** — Generate a full week of meals in one ask, or build it day by day. Plans respect your household's food preferences and eating rules automatically, and carry per-meal nutrition so you can see how the week shapes up.\n\n**Shopping lists** — Visual, interactive lists organized by store. One tap checks items off. Ask for a shopping list from your meal plan and it skips anything already in your pantry. Send it to Instacart when you're ready to buy.\n\n**Cook Mode** — Start cooking a recipe and get step-by-step guidance. When you're done, ingredients are deducted from your pantry and leftovers are tracked with expiration dates.\n\n**Nutrition** —  See calories and macros on every recipe and meal, set your own daily targets for each person, and check how today or the week is stacking up. Log what you actually ate, even a meal out, and it counts toward your totals.\n\n**Your kitchen, personalized** — Household profiles store each family member's food preferences, eating rules, favorite brands, and nutrition targets. Every suggestion, plan, and search filters through them so you don't have to repeat yourself. Invite other family members and everyone works from the same pantry, recipes, and shopping lists in real time.\n\nAlso tracks pantry expiration dates, predicts when you'll run low on staples, learns the brands and prices you buy, and turns grocery receipts into an up-to-date inventory and a clear picture of your spending.",
+      "description": "Your kitchen inside ChatGPT: recipes, a weekly meal plan, and a grocery list built from what's already at home.\n\nPantry Persona remembers what's in your fridge, what your family can and can't eat, and which brands you prefer, then keeps everything in sync as you cook and shop through the week.\n\nMeal plans: Generate a full week of meals in one ask, or build it day by day. Plans respect your household's food preferences and eating rules automatically and carry per-meal nutrition.\n\nRecipes: Save a recipe from a website, a cooking video, or a social post, or create one in conversation. Search by ingredient, cuisine, or what you can make right now with what's on hand, and group favorites into collections.\n\nShopping lists: Visual, interactive lists organized by store. Ask for one from your meal plan and it skips anything already in your pantry; check items off with one tap and send it to Instacart when you're ready to buy.\n\nCook Mode: Start cooking a recipe and get step-by-step guidance. When you're done, ingredients are deducted from your pantry and leftovers are tracked with expiration dates.\n\nHousehold: Profiles store each family member's food preferences, eating rules, favorite brands, and nutrition targets, and every suggestion, plan, and search filters through them. Invite family members and everyone works from the same pantry, recipes, and shopping lists in real time.\n\nNutrition: See calories and macros on every recipe and meal, set daily targets for each person, and check how today or the week is stacking up. Log what you actually ate, even a meal out, and it counts toward your totals.\n\nReceipts and staples: Pantry Persona tracks expiration dates, predicts when you'll run low on staples, and learns the brands and prices you buy. Grocery receipts become an up-to-date inventory and a clear picture of your spending.\n\nA guided setup gets a new kitchen planned and shopped in a few questions.",
       "information": [
         {
           "label": "Developer",
@@ -199987,7 +200002,7 @@
         },
         {
           "label": "Category",
-          "value": "Other",
+          "value": "Productivity",
           "links": []
         },
         {
@@ -199999,12 +200014,12 @@
         },
         {
           "label": "Version",
-          "value": "2.1.0",
+          "value": "2.2.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T05:30:58.134Z",
+      "detailCheckedAt": "2026-10-23T04:10:37.144Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "膳食计划、食谱与采购",
@@ -220408,9 +220423,14 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-23T03:54:39.485Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "detailDue": true,
+      "detailDue": false,
       "description": "Postiz helps users manage social media publishing from ChatGPT. Users can list connected channels and groups, inspect platform requirements, upload or generate media, create drafts or scheduled posts, update provider settings, and review upcoming posts.",
       "information": [
+        {
+          "label": "Capabilities",
+          "value": "Create draft, scheduled, and immediate social posts, List connected social channels and customer groups, Check platform rules and post settings, Upload media from a URL or device, Generate images and videos for posts, Turn YouTube videos into short captioned clips, Review upcoming and published posts, Update settings of unpublished posts",
+          "links": []
+        },
         {
           "label": "Developer",
           "value": "Postiz",
@@ -220418,7 +220438,7 @@
         },
         {
           "label": "Category",
-          "value": "Productivity",
+          "value": "Communication",
           "links": []
         },
         {
@@ -220430,12 +220450,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "2.0.19",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T05:39:58.215Z",
+      "detailCheckedAt": "2026-10-23T04:10:39.049Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "安排社交帖子",
@@ -223365,7 +223385,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-23T03:54:39.485Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "detailDue": true,
+      "detailDue": false,
       "description": "Explore city experiences and build travel itineraries using catalog information from YourHolidayGPT. This submission uses a separate research-only MCP endpoint with four read-only tools: city discovery, experience search, product details and itinerary source data. It returns descriptions, durations, ratings and available travel conditions without checkout, purchase links, affiliate redirects, eSIM offers or owner access. Catalog information may be incomplete or outdated. Separately, our website operates affiliate travel referrals and direct eSIM sales; those commercial flows are not exposed by this submitted endpoint.",
       "information": [
         {
@@ -223382,17 +223402,17 @@
           "label": "Website",
           "value": "",
           "links": [
-            "https://yourholidaygpt.com/"
+            "https://koalastrip.com/"
           ]
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.0.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T05:41:33.548Z",
+      "detailCheckedAt": "2026-10-23T04:10:41.058Z",
       "translationAttemptRun": "37134929786",
       "translation": {
         "summary": "发现旅行体验",
@@ -226502,7 +226522,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-16T03:46:21.998Z",
+      "detailCheckedAt": "2026-10-23T04:10:02.060Z",
       "detailFailures": 0,
       "translationAttemptRun": "37418628815:1",
       "translation": {
@@ -229214,12 +229234,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.2",
+          "value": "1.0.3",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-16T03:46:23.768Z",
+      "detailCheckedAt": "2026-10-23T04:10:04.093Z",
       "detailFailures": 0,
       "translationAttemptRun": "37730784095:1",
       "translation": {
@@ -230901,7 +230921,7 @@
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-16T03:46:25.553Z",
+      "detailCheckedAt": "2026-10-23T04:10:05.916Z",
       "detailFailures": 0,
       "translationAttemptRun": "37730784095:1",
       "translation": {
@@ -271627,7 +271647,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-23T03:54:39.485Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": true,
+      "detailDue": false,
       "description": "Opens an interactive rate search form with live, anonymous mortgage pricing from Reliant Home Funding, Inc. (NMLS #292473). Compare fixed and ARM options, APR, points and monthly payment. No name, email or phone is collected.",
       "information": [
         {
@@ -271654,12 +271674,12 @@
         },
         {
           "label": "Version",
-          "value": "1.0.0",
+          "value": "1.1.0",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-17T03:35:11.295Z",
+      "detailCheckedAt": "2026-10-23T04:10:15.608Z",
       "detailFailures": 0,
       "translationAttemptRun": "38999035341:1",
       "translation": {
@@ -276202,7 +276222,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-23T03:54:39.485Z",
       "firstSeenAt": "2026-10-19T03:49:35.241Z",
-      "detailDue": true,
+      "detailDue": false,
       "description": "Find saved receipts and purchased items. Inspect receipts, correct fields you specify, mark receipts reviewed, organize collections, upload receipts, and export selected records. Receipt processing uses AI to automatically flag potentially HSA/FSA-eligible expenses and suggest tax categories for your review. You can change these labels. Flags do not verify reimbursement eligibility, tax deductibility or your plan's coverage. Work alongside your ChatGPT conversation or expand into the receipt workspace. Requires an existing Tracklified account and separate authorization for workspace changes. Totals stay separated by currency. This connection does not verify plan-specific eligibility, compare insurance coverage, prepare or submit reimbursement claims, make purchases, or delete receipts. Do not provide plan documents or payment credentials for unsupported requests.",
       "information": [
         {
@@ -276229,12 +276249,12 @@
         },
         {
           "label": "Version",
-          "value": "2.0.0",
+          "value": "2.0.1",
           "links": []
         }
       ],
       "extractionMethod": "rendered-description-metadata-match",
-      "detailCheckedAt": "2026-10-19T03:50:03.420Z",
+      "detailCheckedAt": "2026-10-23T04:10:17.595Z",
       "detailFailures": 0,
       "translationAttemptRun": "39196340485:1",
       "translation": {
@@ -376466,9 +376486,9 @@
     "runId": "39897283558",
     "runAttempt": "1",
     "startedAt": "2026-10-23T03:52:52.848Z",
-    "updatedAt": "2026-10-23T04:09:55.701Z",
+    "updatedAt": "2026-10-23T04:10:42.703Z",
     "mode": "incremental",
-    "detailRequests": 470,
+    "detailRequests": 491,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
@@ -376482,7 +376502,7 @@
       "translated": 4741,
       "missing": 40,
       "removed": 266,
-      "pendingDetails": 14,
+      "pendingDetails": 0,
       "pendingTranslations": 276
     }
   }
