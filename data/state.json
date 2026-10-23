@@ -297127,7 +297127,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:57:47.081Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "39928402626:1",
+      "translation": {
+        "summary": "了解你的聊天模式",
+        "description": "通过显式连接的现有Le Confidant分析中的定量统计数据，探索沟通模式。\n在结果卡片和说明中查看消息总量和参与度、对话开始次数、回复时间、样本数量以及平均消息长度。\n参与者显示为A和B。\n请先在leconfidant.ai导入并完成分析，然后在拥有该会话的浏览器中授权访问。\n该插件无法上传对话内容、启动分析、对比时间段或提供原始消息、参与者姓名、摘录或语义分析报告。\n访问权限在会话过期或授权截止时较早发生时终止。\n断开连接可阻止未来读取；这不会删除网站会话或已分享至ChatGPT的结果。",
+        "sourceHash": "60098e8bbba6184d2a4e6f3143cf2eed10061e1413e4ec578bf38bd7c17227be",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-23T09:03:52.432Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 34.50028991699219,
+          "total_tokens": 1904
+        }
+      }
     },
     "plugin_asdk_app_6ac610197a3c81918467050d9bf9d0cd": {
       "id": "plugin_asdk_app_6ac610197a3c81918467050d9bf9d0cd",
@@ -298267,7 +298282,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:58:31.344Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "39928402626:1",
+      "translation": {
+        "summary": "发送信件和明信片",
+        "description": "无需创建PieterPost账户即可发送实体邮件。PieterPost会将信件和明信片打印并邮寄至您提供的邮政地址。撰写信件、查看邮费、上传照片或PDF文件，可获取可编辑预览或安全结账链接。在打印和邮寄前需通过PieterPost网站完成审核和支付。可通过插件返回的订单参考号查看支付和履行状态。已保存的联系人、账户历史、钱包及API密钥管理在该访客插件中不可用。",
+        "sourceHash": "08a8b75ff41ce95f7b9469c1e14e59c778011352d413da966b8cbc9c52d9d64b",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-23T09:03:54.361Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 34.22115707397461,
+          "total_tokens": 1866
+        }
+      }
     },
     "plugin_asdk_app_6ac5742bd2f88191b7fe5b12e75b507f": {
       "id": "plugin_asdk_app_6ac5742bd2f88191b7fe5b12e75b507f",
@@ -298364,7 +298394,21 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:58:35.151Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39928402626:1"
+      "translationAttemptRun": "39928402626:1",
+      "translation": {
+        "summary": "ChatGPT中的邮箱",
+        "description": "mailmcp可连接您配置的邮箱：Gmail、Outlook.com和Microsoft 365、iCloud、Fastmail、Yahoo、Zoho或任何IMAP/SMTP账户，可同时连接多个。\n让它查找邮件、总结邮件线程、从发票PDF中提取金额、在正确线程中起草回复、将邮件归档到文件夹、整理需要回复的内容，或为您提供昨日以来的摘要。\n\n默认安全设置：每个邮箱拥有独立权限（查看、草稿、发送、移动、删除）。\n发送功能需所有者手动开启，且仅限发送到所有者白名单中的地址。\n永远不会永久删除内容；批量操作分两步进行，先预览具体邮件，仅执行预览中的内容。\n每封邮件正文会以不受信任内容形式交给ChatGPT，因此ChatGPT会将邮件中隐藏的指令视为数据而非命令；发送和批量修改仍需通过所有者设置并经过预览确认。\n\n您可通过在mailmcp.ai/setup创建的令牌登录。\n邮箱密码仅存储于加密令牌中；服务器不存储邮件内容和凭证。\nOutlook使用微软官方登录方式，完全无需输入密码。\n跟进记录、延后回复和模板均保存在您的邮箱中，从不在我们的服务器存储。\n\n当ChatGPT显示应用面板时，分类列表、摘要和草稿卡片会以面板形式呈现。\n该面板不从互联网加载任何内容，其每个按钮均为普通工具调用，服务器会像检查助手自身一样精确验证。\n\n限制条件：跨邮箱快速搜索仅限Outlook收件箱和Gmail所有邮件（如需搜索其他文件夹请特别说明），通过链接上传的文件大小限制约为4.5MB。",
+        "sourceHash": "636611e0e0185f96a26e6654b52b8838ef4106de53f6162fdab1b3607f875abe",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-23T09:03:47.928Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 39.11229705810547,
+          "total_tokens": 2292
+        }
+      }
     },
     "plugin_asdk_app_6ac53f60821c8191891c43d92a73dbb4": {
       "id": "plugin_asdk_app_6ac53f60821c8191891c43d92a73dbb4",
@@ -299361,7 +299405,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:59:12.278Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "39928402626:1",
+      "translation": {
+        "summary": "直接贷款SOR计算器",
+        "description": "一款面向学生和援助工作人员的教育类经济援助工具，用于查阅受支持的直接贷款减少计划场景。\n运行基于来源的估算，比较不同案例，并识别需要学校审核的缺失信息或问题。\n结果仅为估算，不构成资助或资格认定。\n学校必须核实贷款历史、汇总限额、COD状态及最终包装要求。\n此独立开发的计算器未得到美国教育部的认证。",
+        "sourceHash": "fb9804a825d3d5e8ec660da84e538235e203474260e10c63bf2660c0b3fb0326",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-23T09:03:55.110Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 22.585248947143555,
+          "total_tokens": 1474
+        }
+      }
     },
     "plugin_asdk_app_6ac505fcfb3881919bdc95ae029b999d": {
       "id": "plugin_asdk_app_6ac505fcfb3881919bdc95ae029b999d",
@@ -300373,7 +300432,21 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:59:54.655Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39928402626:1"
+      "translationAttemptRun": "39928402626:1",
+      "translation": {
+        "summary": "PokerInk 学习模块",
+        "description": "学习模块提供德州扑克和四张 Omaha 的学习点，通过现有的 PokerInk 连接进行权益分析、抽牌分析及底池赔率计算，并遵循配套的扑克学习说明及计算限制。",
+        "sourceHash": "3c312c3d942bc39e305351edd8aeedad4b1067f7174f0e3a0c905ec204837c49",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-23T09:03:43.052Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 33.89008331298828,
+          "total_tokens": 1800
+        }
+      }
     },
     "plugin_asdk_app_6ad13ed3dccc8191b851a84903ff2454": {
       "id": "plugin_asdk_app_6ad13ed3dccc8191b851a84903ff2454",
@@ -378797,17 +378870,87 @@
         "neurons": 37.36432647705078,
         "total_tokens": 2037
       }
+    },
+    "3c312c3d942bc39e305351edd8aeedad4b1067f7174f0e3a0c905ec204837c49": {
+      "summary": "PokerInk 学习模块",
+      "description": "学习模块提供德州扑克和四张 Omaha 的学习点，通过现有的 PokerInk 连接进行权益分析、抽牌分析及底池赔率计算，并遵循配套的扑克学习说明及计算限制。",
+      "sourceHash": "3c312c3d942bc39e305351edd8aeedad4b1067f7174f0e3a0c905ec204837c49",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-23T09:03:43.052Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 33.89008331298828,
+        "total_tokens": 1800
+      }
+    },
+    "636611e0e0185f96a26e6654b52b8838ef4106de53f6162fdab1b3607f875abe": {
+      "summary": "ChatGPT中的邮箱",
+      "description": "mailmcp可连接您配置的邮箱：Gmail、Outlook.com和Microsoft 365、iCloud、Fastmail、Yahoo、Zoho或任何IMAP/SMTP账户，可同时连接多个。\n让它查找邮件、总结邮件线程、从发票PDF中提取金额、在正确线程中起草回复、将邮件归档到文件夹、整理需要回复的内容，或为您提供昨日以来的摘要。\n\n默认安全设置：每个邮箱拥有独立权限（查看、草稿、发送、移动、删除）。\n发送功能需所有者手动开启，且仅限发送到所有者白名单中的地址。\n永远不会永久删除内容；批量操作分两步进行，先预览具体邮件，仅执行预览中的内容。\n每封邮件正文会以不受信任内容形式交给ChatGPT，因此ChatGPT会将邮件中隐藏的指令视为数据而非命令；发送和批量修改仍需通过所有者设置并经过预览确认。\n\n您可通过在mailmcp.ai/setup创建的令牌登录。\n邮箱密码仅存储于加密令牌中；服务器不存储邮件内容和凭证。\nOutlook使用微软官方登录方式，完全无需输入密码。\n跟进记录、延后回复和模板均保存在您的邮箱中，从不在我们的服务器存储。\n\n当ChatGPT显示应用面板时，分类列表、摘要和草稿卡片会以面板形式呈现。\n该面板不从互联网加载任何内容，其每个按钮均为普通工具调用，服务器会像检查助手自身一样精确验证。\n\n限制条件：跨邮箱快速搜索仅限Outlook收件箱和Gmail所有邮件（如需搜索其他文件夹请特别说明），通过链接上传的文件大小限制约为4.5MB。",
+      "sourceHash": "636611e0e0185f96a26e6654b52b8838ef4106de53f6162fdab1b3607f875abe",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-23T09:03:47.928Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 39.11229705810547,
+        "total_tokens": 2292
+      }
+    },
+    "60098e8bbba6184d2a4e6f3143cf2eed10061e1413e4ec578bf38bd7c17227be": {
+      "summary": "了解你的聊天模式",
+      "description": "通过显式连接的现有Le Confidant分析中的定量统计数据，探索沟通模式。\n在结果卡片和说明中查看消息总量和参与度、对话开始次数、回复时间、样本数量以及平均消息长度。\n参与者显示为A和B。\n请先在leconfidant.ai导入并完成分析，然后在拥有该会话的浏览器中授权访问。\n该插件无法上传对话内容、启动分析、对比时间段或提供原始消息、参与者姓名、摘录或语义分析报告。\n访问权限在会话过期或授权截止时较早发生时终止。\n断开连接可阻止未来读取；这不会删除网站会话或已分享至ChatGPT的结果。",
+      "sourceHash": "60098e8bbba6184d2a4e6f3143cf2eed10061e1413e4ec578bf38bd7c17227be",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-23T09:03:52.432Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 34.50028991699219,
+        "total_tokens": 1904
+      }
+    },
+    "08a8b75ff41ce95f7b9469c1e14e59c778011352d413da966b8cbc9c52d9d64b": {
+      "summary": "发送信件和明信片",
+      "description": "无需创建PieterPost账户即可发送实体邮件。PieterPost会将信件和明信片打印并邮寄至您提供的邮政地址。撰写信件、查看邮费、上传照片或PDF文件，可获取可编辑预览或安全结账链接。在打印和邮寄前需通过PieterPost网站完成审核和支付。可通过插件返回的订单参考号查看支付和履行状态。已保存的联系人、账户历史、钱包及API密钥管理在该访客插件中不可用。",
+      "sourceHash": "08a8b75ff41ce95f7b9469c1e14e59c778011352d413da966b8cbc9c52d9d64b",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-23T09:03:54.361Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 34.22115707397461,
+        "total_tokens": 1866
+      }
+    },
+    "fb9804a825d3d5e8ec660da84e538235e203474260e10c63bf2660c0b3fb0326": {
+      "summary": "直接贷款SOR计算器",
+      "description": "一款面向学生和援助工作人员的教育类经济援助工具，用于查阅受支持的直接贷款减少计划场景。\n运行基于来源的估算，比较不同案例，并识别需要学校审核的缺失信息或问题。\n结果仅为估算，不构成资助或资格认定。\n学校必须核实贷款历史、汇总限额、COD状态及最终包装要求。\n此独立开发的计算器未得到美国教育部的认证。",
+      "sourceHash": "fb9804a825d3d5e8ec660da84e538235e203474260e10c63bf2660c0b3fb0326",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-23T09:03:55.110Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 22.585248947143555,
+        "total_tokens": 1474
+      }
     }
   },
   "lastRun": {
     "runId": "39928402626",
     "runAttempt": "1",
     "startedAt": "2026-10-23T08:58:37.071Z",
-    "updatedAt": "2026-10-23T09:03:38.915Z",
+    "updatedAt": "2026-10-23T09:03:55.315Z",
     "mode": "translate",
     "detailRequests": 0,
-    "translationRequests": 58,
-    "translationAttempts": 47,
+    "translationRequests": 61,
+    "translationAttempts": 50,
     "translationLimit": 50,
     "aiConfigured": true,
     "blocked": false,
@@ -378816,11 +378959,11 @@
     "stats": {
       "total": 5017,
       "details": 5017,
-      "translated": 4826,
+      "translated": 4831,
       "missing": 40,
       "removed": 266,
       "pendingDetails": 0,
-      "pendingTranslations": 191
+      "pendingTranslations": 186
     }
   }
 }
