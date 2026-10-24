@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T16:17:14.795Z",
+  "generatedAt": "2026-10-24T03:47:49.118Z",
   "total": 5017,
   "details": 5017,
   "translated": 4875,
@@ -8,19 +8,19 @@
   "pendingDetails": 0,
   "pendingTranslations": 142,
   "lastRun": {
-    "runId": "39984648209",
+    "runId": "40059674338",
     "runAttempt": "1",
-    "startedAt": "2026-10-23T16:11:49.201Z",
-    "updatedAt": "2026-10-23T16:17:09.374Z",
-    "mode": "translate",
+    "startedAt": "2026-10-24T03:47:08.340Z",
+    "updatedAt": "2026-10-24T03:47:48.731Z",
+    "mode": "incremental",
     "detailRequests": 0,
-    "translationRequests": 62,
-    "translationAttempts": 50,
-    "translationLimit": 50,
-    "aiConfigured": true,
-    "blocked": false,
+    "translationRequests": 0,
+    "translationAttempts": 0,
+    "translationLimit": 250,
+    "aiConfigured": false,
+    "blocked": true,
     "aiBlocked": false,
-    "errors": 6,
+    "errors": 1,
     "stats": {
       "total": 5017,
       "details": 5017,
@@ -32,92 +32,11 @@
     }
   },
   "lastScan": {
-    "id": "39897283558",
-    "at": "2026-10-23T03:54:39.485Z",
-    "complete": true,
-    "seen": 4977,
-    "previous": 4808,
-    "categories": [
-      {
-        "category": "featured",
-        "count": 50,
-        "status": "stable-observed"
-      },
-      {
-        "category": "new-and-noteworthy",
-        "count": 15,
-        "status": "stable-observed"
-      },
-      {
-        "category": "small-business",
-        "count": 16,
-        "status": "stable-observed"
-      },
-      {
-        "category": "productivity",
-        "count": 620,
-        "status": "stable-observed"
-      },
-      {
-        "category": "creativity",
-        "count": 368,
-        "status": "stable-observed"
-      },
-      {
-        "category": "developer-tools",
-        "count": 423,
-        "status": "stable-observed"
-      },
-      {
-        "category": "business-and-operations",
-        "count": 666,
-        "status": "stable-observed"
-      },
-      {
-        "category": "data-and-analytics",
-        "count": 430,
-        "status": "stable-observed"
-      },
-      {
-        "category": "communication",
-        "count": 84,
-        "status": "stable-observed"
-      },
-      {
-        "category": "education-and-research",
-        "count": 459,
-        "status": "stable-observed"
-      },
-      {
-        "category": "scientific-research",
-        "count": 21,
-        "status": "stable-observed"
-      },
-      {
-        "category": "security",
-        "count": 44,
-        "status": "stable-observed"
-      },
-      {
-        "category": "finance",
-        "count": 571,
-        "status": "stable-observed"
-      },
-      {
-        "category": "healthcare",
-        "count": 159,
-        "status": "stable-observed"
-      },
-      {
-        "category": "travel",
-        "count": 543,
-        "status": "stable-observed"
-      },
-      {
-        "category": "other",
-        "count": 588,
-        "status": "stable-observed"
-      }
-    ]
+    "id": "40059674338",
+    "at": "2026-10-24T03:47:48.729Z",
+    "complete": false,
+    "seen": 0,
+    "previous": 5017,
+    "categories": []
   }
 }
