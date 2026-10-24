@@ -293188,7 +293188,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:55:16.067Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "任意地点的海报地图",
+        "description": "PrintMap 通过一句话生成可编辑的海报地图。输入任何城市、城镇、山脉或国家，选择一种风格（25种可选——极简、复古、航海、蓝图、卫星、地形等），指定纸张尺寸和标题，PrintMap 即在聊天中显示实时预览的实景地图。地图数据来源于 OpenStreetMap，因此道路、河流和海岸线都准确无误，而非虚构的。\n\n点击一下即可打开 printm.app 编辑器，所有内容已预先配置：调整颜色、添加标记、路线或 GPX 轨迹，然后下载高分辨率 PNG、矢量 SVG 或 PDF、可3D打印的地形模型或旋转视频。\n\n非常适合婚礼和纪念日礼物、家乡和旅行海报，以及徒步或跑步路线纪念品。",
+        "sourceHash": "4ea08e0f59033154f00b3780805f6c145101f687aab33e350cfcb97ce85a4d65",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:38:24.701Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 27.29567527770996,
+          "total_tokens": 1710
+        }
+      }
     },
     "plugin_asdk_app_6ac2a775e2588191b3f0c4c27b1553a5": {
       "id": "plugin_asdk_app_6ac2a775e2588191b3f0c4c27b1553a5",
@@ -293546,7 +293561,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:55:27.250Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "创建Minecraft建筑",
+        "description": "BlockGPT帮助Minecraft玩家通过文本描述或公开可访问的HTTPS图片链接创建结构。\n生成城堡、建筑、雕像和其他设计，选择50到300之间的尺寸，并选取预设方块调色板或支持的自定义方块列表。\n可下载为.schem、.litematic或旧版.schematic文件，用于兼容的Minecraft工具。\n\n将BlockGPT账户连接至查看剩余建筑额度、列出保存的建筑并查看生成进度。\n完成结果包含BlockGPT上的建筑链接和结构图下载链接。\n图像输入决定形状；文本无法修改。\n\n需要BlockGPT账户。\n该插件生成可下载的建筑文件；无法连接Minecraft服务器或在运行中的世界中放置方块。\n不支持直接聊天附件传输、.nbt导出及现有建筑转换。",
+        "sourceHash": "dac0fdc9724e05f6726d4e9ad4313936d2b4cbda4b1f57ac6854c882c0e4a508",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:37:44.659Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 31.861438751220703,
+          "total_tokens": 1870
+        }
+      }
     },
     "plugin_asdk_app_6ad25e50de2081918cbe02abad5fc560": {
       "id": "plugin_asdk_app_6ad25e50de2081918cbe02abad5fc560",
@@ -294353,7 +294383,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:55:53.887Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "创建和管理直播流",
+        "description": "在YouTube、X、LinkedIn或Twitch等30多个平台安排、直播和管理直播流——直接通过ChatGPT操作。让Restream成为您工作流程的原生组件，作为AI驱动的流媒体代理，通过更少的点击即可实现多平台直播。",
+        "sourceHash": "de0679a7845aff33221486a5c768018877236fa48882b402083f867a750622fe",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:38:00.213Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 26.788633346557617,
+          "total_tokens": 1578
+        }
+      }
     },
     "plugin_asdk_app_6ad7c8be93ac81919fd821bd4d650f90": {
       "id": "plugin_asdk_app_6ad7c8be93ac81919fd821bd4d650f90",
@@ -294628,7 +294673,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:56:03.250Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "AI构建，Alpy增添风味",
+        "description": "工作原理\n\n通过Alpy的可定制设计系统和用户界面、用户体验及网页设计技能，利用AI构建应用程序和网站。\n您连接的Alpy库会将设计规范、React和Vue组件以及网站样式带入ChatGPT和Codex，以指导一致且独特的界面设计。\n\n从一个想法、参考或现有界面开始。\nAI助手将帮助您明确目标、受众、内容和限制条件。\n在开始构建前确认需求说明和视觉方向，随后通过Alpy的设计指导审查并优化结果。\n\n还能实现哪些操作？\n\n打造精美的网站和应用程序\n使用Alpy创建精美的网站或应用程序。\n明确需求说明和视觉方向后，构建响应式预览版本。\n\n构建设计系统\n使用Alpy库中的规范和组件为该应用程序构建一致的设计系统。\n\n优化现有设计\n在保留核心功能的前提下，使用Alpy改进用户界面、用户体验、排版、可用性和可访问性。\n\n包含内容\n\n用户界面技能\n通过下方技能部分列出的界面设计技能，打造清晰的布局、可读的排版、平衡的间距以及一致的视觉细节。\n\n用户体验技能\n\n— 以用户为中心\n— 可用性\n— 一致性\n— 上下文适配\n— 层级关系\n— 导航与定位\n— 简洁性\n— 认知负荷\n— 用户控制\n— 反馈与闭环\n— 错误预防与恢复\n— 可读性与可扫描性\n\n网站风格\n\n— 学术风\n— 装饰艺术风\n— 包豪斯\n— 便当格栅\n— 大字排版\n— 赛博朋克\n— 扁平化设计\n— 破坏美学\n— 奢华风\n— 现代暗黑\n— 单色系\n— 新粗野主义\n— 新拟态\n— 视差效果\n— 活泼几何\n— 怀旧风\n— SaaS风格\n— 手绘风格\n— 瑞士风格\n— 终端界面\n— 蒸汽波\n\n审计\n\n— 可访问性\n— 设计系统\n— 响应式行为",
+        "sourceHash": "5fc20720941601806e3ee49ba531e19a04ab2f436f832d4c7cdba077fa2e82b6",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:38:07.738Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 2,
+          "neurons": 73.18653869628906,
+          "total_tokens": 4143
+        }
+      }
     },
     "plugin_asdk_app_6ac652932c9081919aa663763d7d13f4": {
       "id": "plugin_asdk_app_6ac652932c9081919aa663763d7d13f4",
@@ -295412,7 +295472,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:56:28.752Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "代理会话和消息",
+        "description": "ChatGPT中的代理中继功能可将聊天与工作区的编码代理双向连接。接续代理未完成的工作：打开共享代理会话，搜索代理分享的对话记录，逐页阅读并为下一条消息附加带引用的限定摘要。接收代理消息：当其他代理发送中继消息时，ChatGPT会通过摘要唤醒，阅读完整消息后为你生成备注，并在需要时作出回复。可选择哪些代理能唤醒聊天、暂停消息传递，并在中继收件箱中查看所有中继对话。对话记录和消息均被视为不可信数据。",
+        "sourceHash": "a2c398bb94f34177a29c58b8b912337b353d9f14a29457b6c292ca2a4bb93673",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:38:18.278Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 34.826263427734375,
+          "total_tokens": 1913
+        }
+      }
     },
     "plugin_asdk_app_6acd6818fa888191bc938f9babbaf5ff": {
       "id": "plugin_asdk_app_6acd6818fa888191bc938f9babbaf5ff",
@@ -296486,7 +296561,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:57:03.169Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "AI搜索可见性洞察",
+        "description": "查看AI搜索引擎如何提及和引用您的品牌、与竞争对手的对比情况，以及下一步应发布的内容。\n连接您的ThriveStack账户，以自然语言询问关于品牌AI可见性、引用、竞争对手和推荐的问题。\n仅限访问您自己ThriveStack账户中的品牌数据。\n每个工具仅读取您的数据，保存内容推荐的操作仅在您主动请求时才会发生。\n需要ThriveStack Citedby账户。",
+        "sourceHash": "5cc274c0aabe633d3fba222404bd21d1bd4a122f00b5f1432be0ae86689a37a9",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:38:18.124Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 27.68840980529785,
+          "total_tokens": 1644
+        }
+      }
     },
     "plugin_asdk_app_6ac67fc9925481918c4ec65a0f42c134": {
       "id": "plugin_asdk_app_6ac67fc9925481918c4ec65a0f42c134",
@@ -298029,7 +298119,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:57:54.689Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "Etsy关键词与店铺研究",
+        "description": "在ChatGPT中使用eRank研究买家在Etsy上的搜索内容，以及商品列表和店铺的对比情况。可查找单个关键词的统计数据或一次比较最多20个关键词，发现相关搜索词，查看某个关键词对应的商品列表，通过市场、国家和时间段探索Trend Buzz关键词趋势。您还可以查阅在eRank中保存的关键词列表。\n\n对于与您的eRank账户连接的Etsy店铺，您可以查看当前店铺的资料和销售排名，浏览带有eRank清单审计评分的商品列表，分析商品的标签，并查看您跟踪的竞品店铺的近期销售情况。您还可以通过店铺的准确名称查询任意Etsy店铺的公开简介和活跃商品列表。\n\neRank还提供学习资料、新闻、产品更新信息，以及您账户的套餐和剩余使用量信息。\n\n您可访问的内容取决于您的eRank账户类型。部分数据和每日搜索额度会根据套餐不同而有所差异，当数据在您的套餐中不可用或达到每日限额时，结果会明确提示。其他店铺的信息仅限公开的Etsy数据和eRank研究数据，不会包含其私人订单、客户或账户详情。\n\n当您发起请求时，插件可更改eRank中已连接店铺的激活状态。该插件不会创建、编辑、发布或删除Etsy商品列表，也不会修改Etsy店铺设置。",
+        "sourceHash": "8eeb9bb3fcb69e87e49ec7145cf7e12a311ab489de0e533e92a29983546c123f",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:38:28.504Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 32.70642852783203,
+          "total_tokens": 2008
+        }
+      }
     },
     "plugin_asdk_app_6ac00d27dda08191bafe1523e367ea60": {
       "id": "plugin_asdk_app_6ac00d27dda08191bafe1523e367ea60",
@@ -300308,7 +300413,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:59:09.621Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "制定更有效的市场调研计划",
+        "description": "通过将业务问题与管理决策、可操作的洞察、证据需求、广泛方法、目标人群和主要推论限制相连接，指导学习者完成早期阶段的市场调研规划。该教练会根据用户情况调整节奏，并标记常见的设计问题，例如过早选择方法、缺乏支持的因果主张以及超出抽样框架的过度推广。此初始版本仅为只读规划工具，不收集调研数据、不撰写完整的问卷工具、不执行分析或进行外部更改。",
+        "sourceHash": "c08c429913b2ed504455b15382ea1e08a271d568234f687cfe150a771eb8c3b0",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:37:33.899Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 25.53394889831543,
+          "total_tokens": 1575
+        }
+      }
     },
     "plugin_asdk_app_6ac5658b32908191b846907bb1ef577d": {
       "id": "plugin_asdk_app_6ac5658b32908191b846907bb1ef577d",
@@ -301374,7 +301494,21 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:59:44.667Z",
       "detailFailures": 0,
-      "translationAttemptRun": "40078392174:1"
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "搜索与整理论文",
+        "description": "Paperguide是一个人工智能原生平台，专为科研和证据综合设计。在200多万篇学术论文中进行搜索，探索科学文献，从已保存的研究PDF中阅读全文，并在Paperguide工作区中整理参考文献。\n\n发现研究成果。从PubMed、arXiv、OpenAlex和Semantic Scholar搜索论文和预印本。通过自然语言查找相关研究，按发表年份、引用次数、开放获取可用性或PDF可用性筛选结果，并通过DOI或PubMed编号检索论文详情。通过源文链接探索科学发现、比较研究并规划文献综述。\n\n阅读并整理论文。通过DOI或PDF链接保存研究论文，从已保存的参考文献中获取可用的全文内容，并就其方法、结果和结论提出问题。在已附加的PDF文件中搜索内容，创建或重命名文件夹，并在不同研究项目间整理参考文献。\n\n支持系统综述。访问现有综述，识别缺少PDF的论文，附加可用的全文文档，并跟踪PDF处理进度，以支持Paperguide内的筛选和证据提取。\n\n专为进行文献搜索、证据综合和系统综述的学生、博士研究人员、学者、临床医生和研究团队设计。需要Paperguide账户。部分研究和全文操作会使用Paperguide AI积分；全文访问取决于文档可用性和账户权限。文献筛选和提取在Paperguide内进行。",
+        "sourceHash": "7a76d3592cbd5743fb579a058b9043a8da841ea9fc58f3511097c2c6e5626708",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:37:46.476Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 32.1135368347168,
+          "total_tokens": 1986
+        }
+      }
     },
     "plugin_asdk_app_6acb72a0c7d081918d9b7851b8f4705d": {
       "id": "plugin_asdk_app_6acb72a0c7d081918d9b7851b8f4705d",
@@ -301596,7 +301730,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:59:56.566Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "由SCAMPER驱动",
+        "description": "让普通事物以富有成效的方式「不听话」！\n由Brian Housand创建的The Remix Lab，帮助有天赋和需要进阶学习的教育者将物品、概念、故事、日常流程和课堂挑战转化为富有玩乐性且具有智力价值的Remix Briefs（再创作简报）。\n探索精选的SCAMPER启发式改造方案，设计令人意外的创作前提，打造小型学生作品，并进行后果压力测试。\nThe Remix Lab提供现成的课堂启动脚本、提前完成者深度挑战，以及根植于资优教育和深度与复杂性的拓展内容。\n它是一款创造性思维合作伙伴，而非七步工作表生成器。\n其远程工具为只读模式；不会存储Remix Briefs、访问学生档案或处理支付事务。",
+        "sourceHash": "086f7c06c4c019828331f55ed7aeb6897c91428edbaf3eebcd84916720f1d77b",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:38:03.380Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 31.46941375732422,
+          "total_tokens": 1802
+        }
+      }
     },
     "plugin_asdk_app_6acd4ec585008191b2a493b5307413a7": {
       "id": "plugin_asdk_app_6acd4ec585008191b2a493b5307413a7",
@@ -304644,7 +304793,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:01:34.092Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "预订您的海滩俱乐部",
+        "description": "只需简单询问，即可规划海滩或泳池的一天。通过地点、日期、团体规模和设施，或通过场所名称，在法国里维埃拉、意大利、西班牙、希腊、摩洛哥、迪拜、墨西哥等地区搜索海滩俱乐部、私人海滩和泳池日卡。实时查看阳光躺椅、小屋和套餐的可用性及具体日期的准确价格，阅读用户评价，并在决定前查看场所的真实取消政策。准备就绪后，MySunbed将创建预订并返回安全的Stripe支付链接。部分场所要求全额预付款，其他场所则只需支付定金，剩余费用在场地支付。无需账户；所有支付均通过Stripe的托管页面完成，不在聊天界面内进行。",
+        "sourceHash": "a3f95324fa268fcad4e81b36465de9dae4426ea116dca381437ab8a632a5ba04",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:38:26.597Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 31.508310317993164,
+          "total_tokens": 1816
+        }
+      }
     },
     "plugin_asdk_app_6ac963b68dc08191b8b1d398f00c65db": {
       "id": "plugin_asdk_app_6ac963b68dc08191b8b1d398f00c65db",
@@ -304992,7 +305156,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:01:45.659Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "规划并预订真实旅行",
+        "description": "Adónde将对话转化为真实的旅行。说出目的地和时间，它会根据可预订的旅游项目、景点、餐饮和住宿，按合理顺序安排每一天，行程安排诚实可靠，尊重开放日和旅游运行时间。请求酒店、航班或旅游项目，获取实时价格；每个结果会直接打开Adónde应用或网页中的具体酒店、票价或旅游项目，完成预订。请求某个地标附近的住宿，对比往返航班价格，或查找特定日期实际运行的项目。连接Adónde账户，或通过邮件开始并保留行程，使用登录链接。在ChatGPT内部不会进行任何预订或支付：结账为外部流程，位于getadonde.com。",
+        "sourceHash": "7ebc3232c9c2d6e524c5e79c414f54374916a42f879157516e997d17503df793",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:37:53.742Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 33.92233657836914,
+          "total_tokens": 1902
+        }
+      }
     },
     "plugin_asdk_app_6ac21d90c48c8191a9526e0f5ed114da": {
       "id": "plugin_asdk_app_6ac21d90c48c8191a9526e0f5ed114da",
@@ -305230,7 +305409,21 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:01:54.328Z",
       "detailFailures": 0,
-      "translationAttemptRun": "40078392174:1"
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "查找全球旅行eSIM套餐",
+        "description": "搜索、比较并发现覆盖190多个国家的国际旅行eSIM数据套餐。查看本地、区域和全球移动网络覆盖，比较数据配额，并获取即时连接详情，实现无缝全球旅行。",
+        "sourceHash": "0e42ecb46954fa9895e3cc346809578b957add872e67041f6dfc7b91b74e6acf",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:37:33.338Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 28.31972312927246,
+          "total_tokens": 1624
+        }
+      }
     },
     "plugin_asdk_app_6ac4dc5d26888191815cc20d4c7e8198": {
       "id": "plugin_asdk_app_6ac4dc5d26888191815cc20d4c7e8198",
@@ -305820,7 +306013,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:02:13.986Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "八字与紫微斗数命盘解读",
+        "description": "Birth Oracle 将命定的八字与紫微斗数命盘计算与对话式解读相结合。探索您的出生盘、重要命盘模式、时间与预测，对比两种系统的洞察，并查看解读背后的逻辑。",
+        "sourceHash": "3c1efcee29b53ee1224c9db20adc50365db1458a116e8cf57871f465d0f9e3c3",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:37:52.264Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 25.316593170166016,
+          "total_tokens": 1528
+        }
+      }
     },
     "plugin_asdk_app_6ac961cef13c81918534c0a040639aeb": {
       "id": "plugin_asdk_app_6ac961cef13c81918534c0a040639aeb",
@@ -306216,7 +306424,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:02:26.947Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "文字与谎言派对游戏",
+        "description": "与3至20位朋友围绕一台设备玩《冒名顶替者》这款文字谎言与推理派对游戏。\n\n告诉ChatGPT参与人数，它会打开一张游戏卡：选择玩家、冒名顶替者、类别和语言，然后传递设备，让每位玩家私下查看自己的角色。平民玩家会获得一个秘密单词；冒名顶替者仅获得相关线索并需要进行谎言欺骗。轮流说出与秘密单词相关的单个词汇，进行讨论并投票找出谁是冒名顶替者。\n\n秘密单词、线索和角色仅在游戏卡中显示，因此ChatGPT不会在对话中透露它们。包含饮食、名人、品牌和科技互联网等类别，以及更多类别的示例，支持32种语言。每局游戏结束后可以使用新单词重新比赛，或与朋友分享游戏结果。",
+        "sourceHash": "96825adbbe0381c5e8e8d617a25c1130e98d6932cb07590d7bd6e3d90e698877",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:38:14.165Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 33.410194396972656,
+          "total_tokens": 1931
+        }
+      }
     },
     "plugin_asdk_app_6ad4ee456d6c81918932a33516fab7e5": {
       "id": "plugin_asdk_app_6ad4ee456d6c81918932a33516fab7e5",
@@ -306312,7 +306535,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:02:30.718Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "发现品牌的声音",
+        "description": "描述您的空间和想要的氛围，获取建议的声效形象，并聆听来自Tonada精选音乐库的匹配样例。聆听无需Tonada账户。",
+        "sourceHash": "02f672ad643d2f8edffdcb4ed4430df6767ce560ef61381c7e8036d49f997dc4",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:37:39.724Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 25.334026336669922,
+          "total_tokens": 1515
+        }
+      }
     },
     "plugin_asdk_app_6ac3fa958b7c81919d9915ae7af07da1": {
       "id": "plugin_asdk_app_6ac3fa958b7c81919d9915ae7af07da1",
@@ -306423,7 +306661,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:02:34.511Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "接住坠落的朋友",
+        "description": "在泰迪山游玩《泰迪下落》（Teddy Drop），这是首款街机游戏。\n接住坠落的朋友，避开博吉·鲍勃，收集奖励苹果。\n原创艺术作品、配音和音乐。\n您的最佳成绩将在有存储空间的地方被记录。",
+        "sourceHash": "a69da8bc37e08c9ce19964213345fb90d9b34bbbdbbd2f5473e54f08d56bdc85",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:37:44.833Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 20.016712188720703,
+          "total_tokens": 1349
+        }
+      }
     },
     "plugin_asdk_app_6ac5245f7d0c8191891a39c7d7dd32ca": {
       "id": "plugin_asdk_app_6ac5245f7d0c8191891a39c7d7dd32ca",
@@ -306655,7 +306908,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:02:41.877Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "占星与塔罗解读",
+        "description": "AstroZaza将占星术与塔罗牌结合她自身的知识库和精确的占星计算。探索您的星盘，分析关系与行星相位，或进行塔罗牌解读。她将星象模式转化为个性化解读，并在需要时公开其数据来源和计算依据。",
+        "sourceHash": "0bc64f1a9978e40360cdeecec15b2f51e8ba4f39c0d367b8e8c505eb688c3cfe",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:38:21.306Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 22.284889221191406,
+          "total_tokens": 1437
+        }
+      }
     },
     "plugin_asdk_app_6ad1d98a1d448191885b20d8ee0975bf": {
       "id": "plugin_asdk_app_6ad1d98a1d448191885b20d8ee0975bf",
@@ -306703,7 +306971,22 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:02:43.758Z",
-      "detailFailures": 0
+      "detailFailures": 0,
+      "translationAttemptRun": "40078392174:1",
+      "translation": {
+        "summary": "找到您下一期播客",
+        "description": "找到符合您收听需求的播客\n浏览推荐内容和独立节目，查看集数内容，或通过选择截图携带您的播客列表\n在导入前审查匹配结果\n\n保存播客、用您偏好的收听模式订阅，或将选定集数添加至Flow\n您始终掌握控制权：库内容变更需要明确请求或确认\n\n查阅RelayPlay使用手册\n通过独立可选权限，查看最后一次同步的Flow和保存的时刻\n选择某个时刻进行讨论，或对照公开来源核查其书籍、音乐、应用、网站及其他发现\n识别与研究可能出错；不确定的匹配项会特别标注\n\n公共搜索和帮助功能无需共享您的播客库\n应用操作和共享的Flow/时刻需要兼容的RelayPlay 1.6应用及连接\n这些视图显示最后一次同步状态\n时刻音频不会上传\n远程播放控制和定时播放功能不可用",
+        "sourceHash": "8bc31c5a8c073804bbdffd4bdce1083039d1303cdfa189beecaa237be43f820e",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T08:38:08.881Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 27.43441390991211,
+          "total_tokens": 1740
+        }
+      }
     }
   },
   "scans": [
@@ -382276,17 +382559,283 @@
         "neurons": 32.63480758666992,
         "total_tokens": 1836
       }
+    },
+    "0e42ecb46954fa9895e3cc346809578b957add872e67041f6dfc7b91b74e6acf": {
+      "summary": "查找全球旅行eSIM套餐",
+      "description": "搜索、比较并发现覆盖190多个国家的国际旅行eSIM数据套餐。查看本地、区域和全球移动网络覆盖，比较数据配额，并获取即时连接详情，实现无缝全球旅行。",
+      "sourceHash": "0e42ecb46954fa9895e3cc346809578b957add872e67041f6dfc7b91b74e6acf",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:37:33.338Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 28.31972312927246,
+        "total_tokens": 1624
+      }
+    },
+    "c08c429913b2ed504455b15382ea1e08a271d568234f687cfe150a771eb8c3b0": {
+      "summary": "制定更有效的市场调研计划",
+      "description": "通过将业务问题与管理决策、可操作的洞察、证据需求、广泛方法、目标人群和主要推论限制相连接，指导学习者完成早期阶段的市场调研规划。该教练会根据用户情况调整节奏，并标记常见的设计问题，例如过早选择方法、缺乏支持的因果主张以及超出抽样框架的过度推广。此初始版本仅为只读规划工具，不收集调研数据、不撰写完整的问卷工具、不执行分析或进行外部更改。",
+      "sourceHash": "c08c429913b2ed504455b15382ea1e08a271d568234f687cfe150a771eb8c3b0",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:37:33.899Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 25.53394889831543,
+        "total_tokens": 1575
+      }
+    },
+    "02f672ad643d2f8edffdcb4ed4430df6767ce560ef61381c7e8036d49f997dc4": {
+      "summary": "发现品牌的声音",
+      "description": "描述您的空间和想要的氛围，获取建议的声效形象，并聆听来自Tonada精选音乐库的匹配样例。聆听无需Tonada账户。",
+      "sourceHash": "02f672ad643d2f8edffdcb4ed4430df6767ce560ef61381c7e8036d49f997dc4",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:37:39.724Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 25.334026336669922,
+        "total_tokens": 1515
+      }
+    },
+    "dac0fdc9724e05f6726d4e9ad4313936d2b4cbda4b1f57ac6854c882c0e4a508": {
+      "summary": "创建Minecraft建筑",
+      "description": "BlockGPT帮助Minecraft玩家通过文本描述或公开可访问的HTTPS图片链接创建结构。\n生成城堡、建筑、雕像和其他设计，选择50到300之间的尺寸，并选取预设方块调色板或支持的自定义方块列表。\n可下载为.schem、.litematic或旧版.schematic文件，用于兼容的Minecraft工具。\n\n将BlockGPT账户连接至查看剩余建筑额度、列出保存的建筑并查看生成进度。\n完成结果包含BlockGPT上的建筑链接和结构图下载链接。\n图像输入决定形状；文本无法修改。\n\n需要BlockGPT账户。\n该插件生成可下载的建筑文件；无法连接Minecraft服务器或在运行中的世界中放置方块。\n不支持直接聊天附件传输、.nbt导出及现有建筑转换。",
+      "sourceHash": "dac0fdc9724e05f6726d4e9ad4313936d2b4cbda4b1f57ac6854c882c0e4a508",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:37:44.659Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 31.861438751220703,
+        "total_tokens": 1870
+      }
+    },
+    "a69da8bc37e08c9ce19964213345fb90d9b34bbbdbbd2f5473e54f08d56bdc85": {
+      "summary": "接住坠落的朋友",
+      "description": "在泰迪山游玩《泰迪下落》（Teddy Drop），这是首款街机游戏。\n接住坠落的朋友，避开博吉·鲍勃，收集奖励苹果。\n原创艺术作品、配音和音乐。\n您的最佳成绩将在有存储空间的地方被记录。",
+      "sourceHash": "a69da8bc37e08c9ce19964213345fb90d9b34bbbdbbd2f5473e54f08d56bdc85",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:37:44.833Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 20.016712188720703,
+        "total_tokens": 1349
+      }
+    },
+    "7a76d3592cbd5743fb579a058b9043a8da841ea9fc58f3511097c2c6e5626708": {
+      "summary": "搜索与整理论文",
+      "description": "Paperguide是一个人工智能原生平台，专为科研和证据综合设计。在200多万篇学术论文中进行搜索，探索科学文献，从已保存的研究PDF中阅读全文，并在Paperguide工作区中整理参考文献。\n\n发现研究成果。从PubMed、arXiv、OpenAlex和Semantic Scholar搜索论文和预印本。通过自然语言查找相关研究，按发表年份、引用次数、开放获取可用性或PDF可用性筛选结果，并通过DOI或PubMed编号检索论文详情。通过源文链接探索科学发现、比较研究并规划文献综述。\n\n阅读并整理论文。通过DOI或PDF链接保存研究论文，从已保存的参考文献中获取可用的全文内容，并就其方法、结果和结论提出问题。在已附加的PDF文件中搜索内容，创建或重命名文件夹，并在不同研究项目间整理参考文献。\n\n支持系统综述。访问现有综述，识别缺少PDF的论文，附加可用的全文文档，并跟踪PDF处理进度，以支持Paperguide内的筛选和证据提取。\n\n专为进行文献搜索、证据综合和系统综述的学生、博士研究人员、学者、临床医生和研究团队设计。需要Paperguide账户。部分研究和全文操作会使用Paperguide AI积分；全文访问取决于文档可用性和账户权限。文献筛选和提取在Paperguide内进行。",
+      "sourceHash": "7a76d3592cbd5743fb579a058b9043a8da841ea9fc58f3511097c2c6e5626708",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:37:46.476Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 32.1135368347168,
+        "total_tokens": 1986
+      }
+    },
+    "3c1efcee29b53ee1224c9db20adc50365db1458a116e8cf57871f465d0f9e3c3": {
+      "summary": "八字与紫微斗数命盘解读",
+      "description": "Birth Oracle 将命定的八字与紫微斗数命盘计算与对话式解读相结合。探索您的出生盘、重要命盘模式、时间与预测，对比两种系统的洞察，并查看解读背后的逻辑。",
+      "sourceHash": "3c1efcee29b53ee1224c9db20adc50365db1458a116e8cf57871f465d0f9e3c3",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:37:52.264Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 25.316593170166016,
+        "total_tokens": 1528
+      }
+    },
+    "7ebc3232c9c2d6e524c5e79c414f54374916a42f879157516e997d17503df793": {
+      "summary": "规划并预订真实旅行",
+      "description": "Adónde将对话转化为真实的旅行。说出目的地和时间，它会根据可预订的旅游项目、景点、餐饮和住宿，按合理顺序安排每一天，行程安排诚实可靠，尊重开放日和旅游运行时间。请求酒店、航班或旅游项目，获取实时价格；每个结果会直接打开Adónde应用或网页中的具体酒店、票价或旅游项目，完成预订。请求某个地标附近的住宿，对比往返航班价格，或查找特定日期实际运行的项目。连接Adónde账户，或通过邮件开始并保留行程，使用登录链接。在ChatGPT内部不会进行任何预订或支付：结账为外部流程，位于getadonde.com。",
+      "sourceHash": "7ebc3232c9c2d6e524c5e79c414f54374916a42f879157516e997d17503df793",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:37:53.742Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 33.92233657836914,
+        "total_tokens": 1902
+      }
+    },
+    "de0679a7845aff33221486a5c768018877236fa48882b402083f867a750622fe": {
+      "summary": "创建和管理直播流",
+      "description": "在YouTube、X、LinkedIn或Twitch等30多个平台安排、直播和管理直播流——直接通过ChatGPT操作。让Restream成为您工作流程的原生组件，作为AI驱动的流媒体代理，通过更少的点击即可实现多平台直播。",
+      "sourceHash": "de0679a7845aff33221486a5c768018877236fa48882b402083f867a750622fe",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:38:00.213Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 26.788633346557617,
+        "total_tokens": 1578
+      }
+    },
+    "086f7c06c4c019828331f55ed7aeb6897c91428edbaf3eebcd84916720f1d77b": {
+      "summary": "由SCAMPER驱动",
+      "description": "让普通事物以富有成效的方式「不听话」！\n由Brian Housand创建的The Remix Lab，帮助有天赋和需要进阶学习的教育者将物品、概念、故事、日常流程和课堂挑战转化为富有玩乐性且具有智力价值的Remix Briefs（再创作简报）。\n探索精选的SCAMPER启发式改造方案，设计令人意外的创作前提，打造小型学生作品，并进行后果压力测试。\nThe Remix Lab提供现成的课堂启动脚本、提前完成者深度挑战，以及根植于资优教育和深度与复杂性的拓展内容。\n它是一款创造性思维合作伙伴，而非七步工作表生成器。\n其远程工具为只读模式；不会存储Remix Briefs、访问学生档案或处理支付事务。",
+      "sourceHash": "086f7c06c4c019828331f55ed7aeb6897c91428edbaf3eebcd84916720f1d77b",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:38:03.380Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 31.46941375732422,
+        "total_tokens": 1802
+      }
+    },
+    "5fc20720941601806e3ee49ba531e19a04ab2f436f832d4c7cdba077fa2e82b6": {
+      "summary": "AI构建，Alpy增添风味",
+      "description": "工作原理\n\n通过Alpy的可定制设计系统和用户界面、用户体验及网页设计技能，利用AI构建应用程序和网站。\n您连接的Alpy库会将设计规范、React和Vue组件以及网站样式带入ChatGPT和Codex，以指导一致且独特的界面设计。\n\n从一个想法、参考或现有界面开始。\nAI助手将帮助您明确目标、受众、内容和限制条件。\n在开始构建前确认需求说明和视觉方向，随后通过Alpy的设计指导审查并优化结果。\n\n还能实现哪些操作？\n\n打造精美的网站和应用程序\n使用Alpy创建精美的网站或应用程序。\n明确需求说明和视觉方向后，构建响应式预览版本。\n\n构建设计系统\n使用Alpy库中的规范和组件为该应用程序构建一致的设计系统。\n\n优化现有设计\n在保留核心功能的前提下，使用Alpy改进用户界面、用户体验、排版、可用性和可访问性。\n\n包含内容\n\n用户界面技能\n通过下方技能部分列出的界面设计技能，打造清晰的布局、可读的排版、平衡的间距以及一致的视觉细节。\n\n用户体验技能\n\n— 以用户为中心\n— 可用性\n— 一致性\n— 上下文适配\n— 层级关系\n— 导航与定位\n— 简洁性\n— 认知负荷\n— 用户控制\n— 反馈与闭环\n— 错误预防与恢复\n— 可读性与可扫描性\n\n网站风格\n\n— 学术风\n— 装饰艺术风\n— 包豪斯\n— 便当格栅\n— 大字排版\n— 赛博朋克\n— 扁平化设计\n— 破坏美学\n— 奢华风\n— 现代暗黑\n— 单色系\n— 新粗野主义\n— 新拟态\n— 视差效果\n— 活泼几何\n— 怀旧风\n— SaaS风格\n— 手绘风格\n— 瑞士风格\n— 终端界面\n— 蒸汽波\n\n审计\n\n— 可访问性\n— 设计系统\n— 响应式行为",
+      "sourceHash": "5fc20720941601806e3ee49ba531e19a04ab2f436f832d4c7cdba077fa2e82b6",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:38:07.738Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 2,
+        "neurons": 73.18653869628906,
+        "total_tokens": 4143
+      }
+    },
+    "8bc31c5a8c073804bbdffd4bdce1083039d1303cdfa189beecaa237be43f820e": {
+      "summary": "找到您下一期播客",
+      "description": "找到符合您收听需求的播客\n浏览推荐内容和独立节目，查看集数内容，或通过选择截图携带您的播客列表\n在导入前审查匹配结果\n\n保存播客、用您偏好的收听模式订阅，或将选定集数添加至Flow\n您始终掌握控制权：库内容变更需要明确请求或确认\n\n查阅RelayPlay使用手册\n通过独立可选权限，查看最后一次同步的Flow和保存的时刻\n选择某个时刻进行讨论，或对照公开来源核查其书籍、音乐、应用、网站及其他发现\n识别与研究可能出错；不确定的匹配项会特别标注\n\n公共搜索和帮助功能无需共享您的播客库\n应用操作和共享的Flow/时刻需要兼容的RelayPlay 1.6应用及连接\n这些视图显示最后一次同步状态\n时刻音频不会上传\n远程播放控制和定时播放功能不可用",
+      "sourceHash": "8bc31c5a8c073804bbdffd4bdce1083039d1303cdfa189beecaa237be43f820e",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:38:08.881Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 27.43441390991211,
+        "total_tokens": 1740
+      }
+    },
+    "96825adbbe0381c5e8e8d617a25c1130e98d6932cb07590d7bd6e3d90e698877": {
+      "summary": "文字与谎言派对游戏",
+      "description": "与3至20位朋友围绕一台设备玩《冒名顶替者》这款文字谎言与推理派对游戏。\n\n告诉ChatGPT参与人数，它会打开一张游戏卡：选择玩家、冒名顶替者、类别和语言，然后传递设备，让每位玩家私下查看自己的角色。平民玩家会获得一个秘密单词；冒名顶替者仅获得相关线索并需要进行谎言欺骗。轮流说出与秘密单词相关的单个词汇，进行讨论并投票找出谁是冒名顶替者。\n\n秘密单词、线索和角色仅在游戏卡中显示，因此ChatGPT不会在对话中透露它们。包含饮食、名人、品牌和科技互联网等类别，以及更多类别的示例，支持32种语言。每局游戏结束后可以使用新单词重新比赛，或与朋友分享游戏结果。",
+      "sourceHash": "96825adbbe0381c5e8e8d617a25c1130e98d6932cb07590d7bd6e3d90e698877",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:38:14.165Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 33.410194396972656,
+        "total_tokens": 1931
+      }
+    },
+    "5cc274c0aabe633d3fba222404bd21d1bd4a122f00b5f1432be0ae86689a37a9": {
+      "summary": "AI搜索可见性洞察",
+      "description": "查看AI搜索引擎如何提及和引用您的品牌、与竞争对手的对比情况，以及下一步应发布的内容。\n连接您的ThriveStack账户，以自然语言询问关于品牌AI可见性、引用、竞争对手和推荐的问题。\n仅限访问您自己ThriveStack账户中的品牌数据。\n每个工具仅读取您的数据，保存内容推荐的操作仅在您主动请求时才会发生。\n需要ThriveStack Citedby账户。",
+      "sourceHash": "5cc274c0aabe633d3fba222404bd21d1bd4a122f00b5f1432be0ae86689a37a9",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:38:18.124Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 27.68840980529785,
+        "total_tokens": 1644
+      }
+    },
+    "a2c398bb94f34177a29c58b8b912337b353d9f14a29457b6c292ca2a4bb93673": {
+      "summary": "代理会话和消息",
+      "description": "ChatGPT中的代理中继功能可将聊天与工作区的编码代理双向连接。接续代理未完成的工作：打开共享代理会话，搜索代理分享的对话记录，逐页阅读并为下一条消息附加带引用的限定摘要。接收代理消息：当其他代理发送中继消息时，ChatGPT会通过摘要唤醒，阅读完整消息后为你生成备注，并在需要时作出回复。可选择哪些代理能唤醒聊天、暂停消息传递，并在中继收件箱中查看所有中继对话。对话记录和消息均被视为不可信数据。",
+      "sourceHash": "a2c398bb94f34177a29c58b8b912337b353d9f14a29457b6c292ca2a4bb93673",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:38:18.278Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 34.826263427734375,
+        "total_tokens": 1913
+      }
+    },
+    "0bc64f1a9978e40360cdeecec15b2f51e8ba4f39c0d367b8e8c505eb688c3cfe": {
+      "summary": "占星与塔罗解读",
+      "description": "AstroZaza将占星术与塔罗牌结合她自身的知识库和精确的占星计算。探索您的星盘，分析关系与行星相位，或进行塔罗牌解读。她将星象模式转化为个性化解读，并在需要时公开其数据来源和计算依据。",
+      "sourceHash": "0bc64f1a9978e40360cdeecec15b2f51e8ba4f39c0d367b8e8c505eb688c3cfe",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:38:21.306Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 22.284889221191406,
+        "total_tokens": 1437
+      }
+    },
+    "4ea08e0f59033154f00b3780805f6c145101f687aab33e350cfcb97ce85a4d65": {
+      "summary": "任意地点的海报地图",
+      "description": "PrintMap 通过一句话生成可编辑的海报地图。输入任何城市、城镇、山脉或国家，选择一种风格（25种可选——极简、复古、航海、蓝图、卫星、地形等），指定纸张尺寸和标题，PrintMap 即在聊天中显示实时预览的实景地图。地图数据来源于 OpenStreetMap，因此道路、河流和海岸线都准确无误，而非虚构的。\n\n点击一下即可打开 printm.app 编辑器，所有内容已预先配置：调整颜色、添加标记、路线或 GPX 轨迹，然后下载高分辨率 PNG、矢量 SVG 或 PDF、可3D打印的地形模型或旋转视频。\n\n非常适合婚礼和纪念日礼物、家乡和旅行海报，以及徒步或跑步路线纪念品。",
+      "sourceHash": "4ea08e0f59033154f00b3780805f6c145101f687aab33e350cfcb97ce85a4d65",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:38:24.701Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 27.29567527770996,
+        "total_tokens": 1710
+      }
+    },
+    "a3f95324fa268fcad4e81b36465de9dae4426ea116dca381437ab8a632a5ba04": {
+      "summary": "预订您的海滩俱乐部",
+      "description": "只需简单询问，即可规划海滩或泳池的一天。通过地点、日期、团体规模和设施，或通过场所名称，在法国里维埃拉、意大利、西班牙、希腊、摩洛哥、迪拜、墨西哥等地区搜索海滩俱乐部、私人海滩和泳池日卡。实时查看阳光躺椅、小屋和套餐的可用性及具体日期的准确价格，阅读用户评价，并在决定前查看场所的真实取消政策。准备就绪后，MySunbed将创建预订并返回安全的Stripe支付链接。部分场所要求全额预付款，其他场所则只需支付定金，剩余费用在场地支付。无需账户；所有支付均通过Stripe的托管页面完成，不在聊天界面内进行。",
+      "sourceHash": "a3f95324fa268fcad4e81b36465de9dae4426ea116dca381437ab8a632a5ba04",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:38:26.597Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 31.508310317993164,
+        "total_tokens": 1816
+      }
+    },
+    "8eeb9bb3fcb69e87e49ec7145cf7e12a311ab489de0e533e92a29983546c123f": {
+      "summary": "Etsy关键词与店铺研究",
+      "description": "在ChatGPT中使用eRank研究买家在Etsy上的搜索内容，以及商品列表和店铺的对比情况。可查找单个关键词的统计数据或一次比较最多20个关键词，发现相关搜索词，查看某个关键词对应的商品列表，通过市场、国家和时间段探索Trend Buzz关键词趋势。您还可以查阅在eRank中保存的关键词列表。\n\n对于与您的eRank账户连接的Etsy店铺，您可以查看当前店铺的资料和销售排名，浏览带有eRank清单审计评分的商品列表，分析商品的标签，并查看您跟踪的竞品店铺的近期销售情况。您还可以通过店铺的准确名称查询任意Etsy店铺的公开简介和活跃商品列表。\n\neRank还提供学习资料、新闻、产品更新信息，以及您账户的套餐和剩余使用量信息。\n\n您可访问的内容取决于您的eRank账户类型。部分数据和每日搜索额度会根据套餐不同而有所差异，当数据在您的套餐中不可用或达到每日限额时，结果会明确提示。其他店铺的信息仅限公开的Etsy数据和eRank研究数据，不会包含其私人订单、客户或账户详情。\n\n当您发起请求时，插件可更改eRank中已连接店铺的激活状态。该插件不会创建、编辑、发布或删除Etsy商品列表，也不会修改Etsy店铺设置。",
+      "sourceHash": "8eeb9bb3fcb69e87e49ec7145cf7e12a311ab489de0e533e92a29983546c123f",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T08:38:28.504Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 32.70642852783203,
+        "total_tokens": 2008
+      }
     }
   },
   "lastRun": {
     "runId": "40078392174",
     "runAttempt": "1",
     "startedAt": "2026-10-24T08:32:26.074Z",
-    "updatedAt": "2026-10-24T08:37:25.838Z",
+    "updatedAt": "2026-10-24T08:38:28.735Z",
     "mode": "translate",
     "detailRequests": 0,
-    "translationRequests": 44,
-    "translationAttempts": 33,
+    "translationRequests": 65,
+    "translationAttempts": 50,
     "translationLimit": 50,
     "aiConfigured": true,
     "blocked": false,
@@ -382295,11 +382844,11 @@
     "stats": {
       "total": 5017,
       "details": 5017,
-      "translated": 4946,
+      "translated": 4965,
       "missing": 40,
       "removed": 266,
       "pendingDetails": 0,
-      "pendingTranslations": 71
+      "pendingTranslations": 52
     }
   }
 }
