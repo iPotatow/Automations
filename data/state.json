@@ -250711,9 +250711,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:56:12.122Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39813445048:1",
+      "translationAttemptRun": "40105570984:1",
       "translationError": {
-        "at": "2026-10-22T16:28:27.187Z",
+        "at": "2026-10-24T15:14:09.351Z",
         "message": "Workers AI translation failed: Translation missing or mistranslating confirmation",
         "transient": true
       }
@@ -253657,9 +253657,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:57:34.264Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39813445048:1",
+      "translationAttemptRun": "40105570984:1",
       "translationError": {
-        "at": "2026-10-22T16:29:02.501Z",
+        "at": "2026-10-24T15:14:37.948Z",
         "message": "Workers AI translation failed: Translation missing or mistranslating positions",
         "transient": true
       }
@@ -254253,9 +254253,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:57:52.366Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39813445048:1",
+      "translationAttemptRun": "40105570984:1",
       "translationError": {
-        "at": "2026-10-22T16:29:03.478Z",
+        "at": "2026-10-24T15:14:39.969Z",
         "message": "Workers AI translation failed: Translation lost protected value 300",
         "transient": true
       }
@@ -254854,9 +254854,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:58:07.869Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39813445048:1",
+      "translationAttemptRun": "40105570984:1",
       "translationError": {
-        "at": "2026-10-22T16:29:34.271Z",
+        "at": "2026-10-24T15:15:10.898Z",
         "message": "Workers AI translation failed: Translation missing or mistranslating cost",
         "transient": true
       }
@@ -263141,10 +263141,10 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:08:19.794Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39813445048:1",
+      "translationAttemptRun": "40105570984:1",
       "translationError": {
-        "at": "2026-10-22T16:29:01.682Z",
-        "message": "Workers AI translation failed: Unexpected non-whitespace character after JSON at position 400 (line 1 column 401)",
+        "at": "2026-10-24T15:14:45.852Z",
+        "message": "Workers AI translation failed: Translation lost protected value 3",
         "transient": true
       }
     },
@@ -268966,10 +268966,10 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:56.419Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39813445048:1",
+      "translationAttemptRun": "40105570984:1",
       "translationError": {
-        "at": "2026-10-22T16:28:20.229Z",
-        "message": "Workers AI translation failed: Translation missing or mistranslating positions",
+        "at": "2026-10-24T15:14:06.914Z",
+        "message": "Workers AI translation failed: Expected ',' or ']' after array element in JSON at position 342 (line 1 column 343)",
         "transient": true
       }
     },
@@ -273410,9 +273410,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:56.268Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39813445048:1",
+      "translationAttemptRun": "40105570984:1",
       "translationError": {
-        "at": "2026-10-22T16:28:27.183Z",
+        "at": "2026-10-24T15:14:13.177Z",
         "message": "Workers AI translation failed: Translation lost protected value 4",
         "transient": true
       }
@@ -275882,9 +275882,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:49:51.199Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39813445048:1",
+      "translationAttemptRun": "40105570984:1",
       "translationError": {
-        "at": "2026-10-22T16:29:59.014Z",
+        "at": "2026-10-24T15:15:18.295Z",
         "message": "Workers AI translation failed: Translation lost protected value 320",
         "transient": true
       }
@@ -277290,9 +277290,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:16.488Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39813445048:1",
+      "translationAttemptRun": "40105570984:1",
       "translationError": {
-        "at": "2026-10-22T16:29:35.492Z",
+        "at": "2026-10-24T15:15:08.616Z",
         "message": "Workers AI translation failed: Translation missing or mistranslating cost",
         "transient": true
       }
@@ -292751,7 +292751,21 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:55:00.475Z",
       "detailFailures": 0,
-      "translationAttemptRun": "40105570984:1"
+      "translationAttemptRun": "40105570984:1",
+      "translation": {
+        "summary": "为你的人物打造漫画",
+        "description": "PersonalizedComics能将你照片中的人物变成短篇漫画的主角。上传每人照片（最多四张），说明会发生什么以及用途，插件会撰写并绘制完整的两页故事：首先展示角色设定，你可以确认每个人是否看起来像自己，如果不满意可重新绘制；接着生成封面、两页正文和封底。完成的漫画会在对话内的阅读器中打开，你的短篇漫画会保存在PersonalizedComics账户中，方便随时调取。\n\n适用于生日、纪念日、母亲节父亲节、退休礼物、给朋友的惊喜，或单纯娱乐。可选择漫画风格，如图文小说、漫画、水彩、黑色电影或经典美式漫画，或让插件自动选择。\n\n如需将漫画制作成印刷书籍，插件会打开PersonalizedComics网站并载入已保存的角色，印刷漫画书将在此网站完成订购。\n\n注意事项：需使用PersonalizedComics账户登录（支持谷歌账号，或邮箱加密码）。制作短篇漫画约需三分钟。每人每天可创作五部短篇漫画。已完成漫画的页面不会重新绘制；如需讲述不同故事，请新建漫画。仅可使用同意出现在漫画中的人员照片。漫画内容适合大众观众。",
+        "sourceHash": "17914843f6d833537a9f617046e2046ecfabd94e2d797625dda7d4acaa683cef",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T15:13:40.708Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 32.6408576965332,
+          "total_tokens": 2005
+        }
+      }
     },
     "plugin_asdk_app_6ac4d9a4b16c81919b4d9ffec195ba1e": {
       "id": "plugin_asdk_app_6ac4d9a4b16c81919b4d9ffec195ba1e",
@@ -301684,11 +301698,20 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:59:40.743Z",
       "detailFailures": 0,
-      "translationAttemptRun": "39897283558:1",
-      "translationError": {
-        "at": "2026-10-23T04:13:46.152Z",
-        "message": "Workers AI translation failed: Translation missing or mistranslating confirmation",
-        "transient": true
+      "translationAttemptRun": "40105570984:1",
+      "translation": {
+        "summary": "用WordAI掌握英语词汇",
+        "description": "询问任何英文单词或短语：WordAI会解释该词，并直接链接到该单词、您的单词书或WordAI应用中的闪卡复习。\n在获得您的授权后，它会读取您的WordAI单词书和学习进度，以个性化学习列表和复习内容，并在您明确要求时保存单词、创建、编辑和删除单词书。\n已删除的书籍和移除的单词将在WordAI的垃圾箱中保留7天，可恢复。\n它还可以为您准备一份私人草稿列表供先期复习。\n默认关闭搜索历史记录。\n登录和批准在WordAI独立页面进行；您可以在WordAI应用中随时断开连接。\n需要WordAI账户。",
+        "sourceHash": "e7d28a4c5802efe9ce418acea9dab15e1340edc6a733d9d69001f616cffe9d2b",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T15:15:17.434Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 31.084388732910156,
+          "total_tokens": 1797
+        }
       }
     },
     "plugin_asdk_app_6ac688ce50748191b5a19a4d85351e3e": {
@@ -306651,7 +306674,21 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:02:19.532Z",
       "detailFailures": 0,
-      "translationAttemptRun": "40105570984:1"
+      "translationAttemptRun": "40105570984:1",
+      "translation": {
+        "summary": "占星术、历法、预测",
+        "description": "通过出生日期、时间和地点获取Planets360的吠陀占星计算：出生星盘和行星位置、每日历法、行星运行、维姆绍塔里分季时间线、月蚀日期、五禽分析、月相预测及匹配度分析。编辑说明引用了公开的Planets360文章。仅用于信息参考和精神指导，不构成专业医疗、法律、财务或安全建议。",
+        "sourceHash": "320a473be44dc8398956bfeecaebc900ee0a449696b3559fcf59c868b53e650c",
+        "status": "translated",
+        "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+        "translatedAt": "2026-10-24T15:13:35.342Z",
+        "qualityVersion": 2,
+        "usage": {
+          "requests": 1,
+          "neurons": 26.058542251586914,
+          "total_tokens": 1599
+        }
+      }
     },
     "plugin_asdk_app_6ac4f9cbeb708191be25e9cc8edf17ee": {
       "id": "plugin_asdk_app_6ac4f9cbeb708191be25e9cc8edf17ee",
@@ -383738,30 +383775,72 @@
         "neurons": 33.84632873535156,
         "total_tokens": 1975
       }
+    },
+    "320a473be44dc8398956bfeecaebc900ee0a449696b3559fcf59c868b53e650c": {
+      "summary": "占星术、历法、预测",
+      "description": "通过出生日期、时间和地点获取Planets360的吠陀占星计算：出生星盘和行星位置、每日历法、行星运行、维姆绍塔里分季时间线、月蚀日期、五禽分析、月相预测及匹配度分析。编辑说明引用了公开的Planets360文章。仅用于信息参考和精神指导，不构成专业医疗、法律、财务或安全建议。",
+      "sourceHash": "320a473be44dc8398956bfeecaebc900ee0a449696b3559fcf59c868b53e650c",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T15:13:35.342Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 26.058542251586914,
+        "total_tokens": 1599
+      }
+    },
+    "17914843f6d833537a9f617046e2046ecfabd94e2d797625dda7d4acaa683cef": {
+      "summary": "为你的人物打造漫画",
+      "description": "PersonalizedComics能将你照片中的人物变成短篇漫画的主角。上传每人照片（最多四张），说明会发生什么以及用途，插件会撰写并绘制完整的两页故事：首先展示角色设定，你可以确认每个人是否看起来像自己，如果不满意可重新绘制；接着生成封面、两页正文和封底。完成的漫画会在对话内的阅读器中打开，你的短篇漫画会保存在PersonalizedComics账户中，方便随时调取。\n\n适用于生日、纪念日、母亲节父亲节、退休礼物、给朋友的惊喜，或单纯娱乐。可选择漫画风格，如图文小说、漫画、水彩、黑色电影或经典美式漫画，或让插件自动选择。\n\n如需将漫画制作成印刷书籍，插件会打开PersonalizedComics网站并载入已保存的角色，印刷漫画书将在此网站完成订购。\n\n注意事项：需使用PersonalizedComics账户登录（支持谷歌账号，或邮箱加密码）。制作短篇漫画约需三分钟。每人每天可创作五部短篇漫画。已完成漫画的页面不会重新绘制；如需讲述不同故事，请新建漫画。仅可使用同意出现在漫画中的人员照片。漫画内容适合大众观众。",
+      "sourceHash": "17914843f6d833537a9f617046e2046ecfabd94e2d797625dda7d4acaa683cef",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T15:13:40.708Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 32.6408576965332,
+        "total_tokens": 2005
+      }
+    },
+    "e7d28a4c5802efe9ce418acea9dab15e1340edc6a733d9d69001f616cffe9d2b": {
+      "summary": "用WordAI掌握英语词汇",
+      "description": "询问任何英文单词或短语：WordAI会解释该词，并直接链接到该单词、您的单词书或WordAI应用中的闪卡复习。\n在获得您的授权后，它会读取您的WordAI单词书和学习进度，以个性化学习列表和复习内容，并在您明确要求时保存单词、创建、编辑和删除单词书。\n已删除的书籍和移除的单词将在WordAI的垃圾箱中保留7天，可恢复。\n它还可以为您准备一份私人草稿列表供先期复习。\n默认关闭搜索历史记录。\n登录和批准在WordAI独立页面进行；您可以在WordAI应用中随时断开连接。\n需要WordAI账户。",
+      "sourceHash": "e7d28a4c5802efe9ce418acea9dab15e1340edc6a733d9d69001f616cffe9d2b",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-24T15:15:17.434Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 31.084388732910156,
+        "total_tokens": 1797
+      }
     }
   },
   "lastRun": {
     "runId": "40105570984",
     "runAttempt": "1",
     "startedAt": "2026-10-24T15:08:35.031Z",
-    "updatedAt": "2026-10-24T15:13:34.895Z",
+    "updatedAt": "2026-10-24T15:15:18.710Z",
     "mode": "translate",
     "detailRequests": 0,
-    "translationRequests": 56,
-    "translationAttempts": 40,
+    "translationRequests": 84,
+    "translationAttempts": 50,
     "translationLimit": 50,
     "aiConfigured": true,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 7,
+    "errors": 16,
     "stats": {
       "total": 5017,
       "details": 5017,
-      "translated": 4996,
+      "translated": 4999,
       "missing": 40,
       "removed": 266,
       "pendingDetails": 0,
-      "pendingTranslations": 21
+      "pendingTranslations": 18
     }
   }
 }
