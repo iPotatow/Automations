@@ -229239,8 +229239,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -229283,7 +229283,12 @@
           "total_tokens": 1505
         }
       },
-      "lastMissingAt": "2026-10-13T06:01:17.120Z"
+      "lastMissingAt": "2026-10-13T06:01:17.120Z",
+      "detailNextAttemptAt": "2026-10-26T05:04:31.996Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:31.996Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6abd427fd64c819199071ae93001843d": {
       "id": "plugin_asdk_app_6abd427fd64c819199071ae93001843d",
@@ -229356,8 +229361,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -229399,6 +229404,11 @@
           "neurons": 28.056596755981445,
           "total_tokens": 1623
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:34.380Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:34.380Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa02132f74c8191a3df331aee3b67ce": {
@@ -229414,8 +229424,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -229457,6 +229467,11 @@
           "neurons": 38.865657806396484,
           "total_tokens": 2166
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:36.699Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:36.699Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab37421dc3c81919b639807e58724d7": {
@@ -229472,8 +229487,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -229515,6 +229530,11 @@
           "neurons": 35.943870544433594,
           "total_tokens": 2082
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:39.125Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:39.125Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aaccb41c63c819188242281417a8565": {
@@ -229530,8 +229550,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -229573,6 +229593,11 @@
           "neurons": 30.728059768676758,
           "total_tokens": 1910
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:41.582Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:41.582Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a99cfc321cc8191bfd2b9c36c380067": {
@@ -229646,8 +229671,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -229689,6 +229714,11 @@
           "neurons": 31.34455108642578,
           "total_tokens": 1775
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:44.461Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:44.461Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa86795f1188191b8e6dcd28e908281": {
@@ -229704,8 +229734,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -229747,6 +229777,11 @@
           "neurons": 33.063350677490234,
           "total_tokens": 1856
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:46.887Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:46.887Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a96acbac9388191b2bd896b13208855": {
@@ -229762,8 +229797,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -229805,6 +229840,11 @@
           "neurons": 31.554317474365234,
           "total_tokens": 1798
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:49.219Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:49.219Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_69de47395048819196b47688a3222079": {
@@ -229820,8 +229860,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -229863,6 +229903,11 @@
           "neurons": 22.70311737060547,
           "total_tokens": 1438
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:51.597Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:51.597Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab3980fb1488191a9b26b3f59efd90b": {
@@ -229878,8 +229923,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -229921,6 +229966,11 @@
           "neurons": 36.39174270629883,
           "total_tokens": 2095
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:53.944Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:53.944Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab3988e93408191a28cc89301266a0d": {
@@ -229936,8 +229986,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -229979,6 +230029,11 @@
           "neurons": 24.151437759399414,
           "total_tokens": 1522
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:56.208Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:56.208Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a712070f6c0819183a7429ba381a683": {
@@ -229994,8 +230049,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -230037,6 +230092,11 @@
           "neurons": 34.79069137573242,
           "total_tokens": 1855
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:58.664Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:58.664Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa196d5c8488191a3de00c74c9534ac": {
@@ -230053,7 +230113,7 @@
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
       "detailDue": true,
-      "detailFailures": 0,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -230095,6 +230155,11 @@
           "neurons": 61.12813377380371,
           "total_tokens": 3682
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:01.066Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:01.066Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab2757102e08191887f75cc506c2333": {
@@ -230110,8 +230175,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -230153,6 +230218,11 @@
           "neurons": 38.001094818115234,
           "total_tokens": 2007
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:03.431Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:03.431Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab1cda19ea88191ad5786c255aa9b50": {
@@ -230168,8 +230238,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -230211,6 +230281,11 @@
           "neurons": 30.861343383789062,
           "total_tokens": 1732
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:05.724Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:05.724Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa1d6da5a88819187e23f9913146b3d": {
@@ -230226,8 +230301,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -230269,6 +230344,11 @@
           "neurons": 34.19981384277344,
           "total_tokens": 1962
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:08.065Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:08.065Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab22d5a94288191977c4f1233984454": {
@@ -230284,8 +230364,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -230327,6 +230407,11 @@
           "neurons": 22.51125717163086,
           "total_tokens": 1458
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:10.936Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:10.936Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a26d97bd46081918642a70d07cf07d4": {
@@ -230343,7 +230428,7 @@
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
       "detailDue": true,
-      "detailFailures": 0,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -230385,6 +230470,11 @@
           "neurons": 38.25983428955078,
           "total_tokens": 2035
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:13.275Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:13.275Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab41ca8ad9c8191aff1e36e5b9c73d4": {
@@ -230400,8 +230490,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -230443,6 +230533,11 @@
           "neurons": 29.33700942993164,
           "total_tokens": 1721
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:16.125Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:16.125Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab23ce72a9c8191b8e8db68f0ad1b8c": {
@@ -230458,8 +230553,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -230501,6 +230596,11 @@
           "neurons": 24.02764129638672,
           "total_tokens": 1512
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:18.470Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:18.470Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab4809bed448191931f063b35677d15": {
@@ -230516,8 +230616,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -230559,6 +230659,11 @@
           "neurons": 25.760671615600586,
           "total_tokens": 1529
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:20.897Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:20.897Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab488d2d8348191aeca63f9d46fadaf": {
@@ -230574,8 +230679,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -230617,6 +230722,11 @@
           "neurons": 22.084609985351562,
           "total_tokens": 1444
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:23.242Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:23.242Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab3a3a7e17c8191ab7d27015958c2a4": {
@@ -230633,7 +230743,7 @@
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
       "detailDue": true,
-      "detailFailures": 0,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -230675,6 +230785,11 @@
           "neurons": 28.203990936279297,
           "total_tokens": 1694
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:25.589Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:25.589Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab2c96a7ac08191a195159255244579": {
@@ -230690,8 +230805,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -230733,6 +230848,11 @@
           "neurons": 29.801010131835938,
           "total_tokens": 1676
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:28.093Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:28.093Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab2815f10ac8191a09931f6fab7aa6e": {
@@ -230748,8 +230868,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -230791,6 +230911,11 @@
           "neurons": 24.71445083618164,
           "total_tokens": 1504
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:30.893Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:30.893Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_69b58bc3d5088191813aa1ec093f6c4f": {
@@ -230806,8 +230931,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -230849,6 +230974,11 @@
           "neurons": 22.6984920501709,
           "total_tokens": 1437
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:33.273Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:33.273Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab4bf4ccaa0819187c5c982efe133b1": {
@@ -230864,8 +230994,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -230907,6 +231037,11 @@
           "neurons": 26.9148006439209,
           "total_tokens": 1650
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:35.646Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:35.646Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a6d1e32a7a88191ace9fb95ba92e762": {
@@ -230922,8 +231057,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -230965,6 +231100,11 @@
           "neurons": 23.52320671081543,
           "total_tokens": 1470
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:38.506Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:38.506Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab9f74baee0819183f0a726857cab76": {
@@ -231038,8 +231178,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -231082,7 +231222,12 @@
           "total_tokens": 1834
         }
       },
-      "lastMissingAt": "2026-10-20T04:01:04.376Z"
+      "lastMissingAt": "2026-10-20T04:01:04.376Z",
+      "detailNextAttemptAt": "2026-10-26T05:05:40.895Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:40.895Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6ab27e02b6f88191b72a053e0e319834": {
       "id": "plugin_asdk_app_6ab27e02b6f88191b72a053e0e319834",
@@ -231097,8 +231242,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -231140,6 +231285,11 @@
           "neurons": 23.98412322998047,
           "total_tokens": 1497
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:43.326Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:43.326Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab424f09510819184c67efe86fa44e6": {
@@ -231155,8 +231305,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -231198,6 +231348,11 @@
           "neurons": 24.269542694091797,
           "total_tokens": 1514
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:45.728Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:45.728Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab40feba8808191bf42d1c47dc87854": {
@@ -231213,8 +231368,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -231256,6 +231411,11 @@
           "neurons": 28.890562057495117,
           "total_tokens": 1658
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:48.111Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:48.111Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab3c380d3e081918389d336512c914a": {
@@ -231271,8 +231431,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -231314,6 +231474,11 @@
           "neurons": 30.664737701416016,
           "total_tokens": 1846
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:50.452Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:50.452Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab47661db0c8191999dbb61d7cdb990": {
@@ -231329,8 +231494,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -231372,6 +231537,11 @@
           "neurons": 32.72575759887695,
           "total_tokens": 2001
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:52.843Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:52.843Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a3cf95646208191bbbe827d9b44d0f2": {
@@ -231387,8 +231557,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -231430,6 +231600,11 @@
           "neurons": 30.305089950561523,
           "total_tokens": 1785
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:55.719Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:55.719Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a8aef1e122c8191891dbc5c74ffadaf": {
@@ -231445,8 +231620,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -231488,6 +231663,11 @@
           "neurons": 28.200550079345703,
           "total_tokens": 1615
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:05:58.143Z",
+      "detailError": {
+        "at": "2026-10-26T04:05:58.143Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab3e501aef88191a5eca0ed900fe6ca": {
@@ -231504,7 +231684,7 @@
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
       "detailDue": true,
-      "detailFailures": 0,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -231546,6 +231726,11 @@
           "neurons": 28.77210235595703,
           "total_tokens": 1733
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:00.495Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:00.495Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a801ee38924819188767f77d6d131ff": {
@@ -231561,8 +231746,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -231604,6 +231789,11 @@
           "neurons": 27.849321365356445,
           "total_tokens": 1785
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:02.891Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:02.891Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aabe0d607c881919db39cd41af5406d": {
@@ -231619,8 +231809,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -231662,6 +231852,11 @@
           "neurons": 24.36808204650879,
           "total_tokens": 1485
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:05.740Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:05.740Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a7db3c930808191b645d0c6534c2c3a": {
@@ -231677,8 +231872,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -231720,6 +231915,11 @@
           "neurons": 27.000295639038086,
           "total_tokens": 1607
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:08.599Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:08.599Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a18225de2a48191999422743f9a3019": {
@@ -231735,8 +231935,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -231778,6 +231978,11 @@
           "neurons": 25.520549774169922,
           "total_tokens": 1628
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:11.438Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:11.438Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab13f1a7e5c819194ba96bf24362fdd": {
@@ -231793,8 +231998,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -231836,6 +232041,11 @@
           "neurons": 30.31671142578125,
           "total_tokens": 1849
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:13.837Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:13.837Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aac4fa4c6948191a3351ef68a5cb888": {
@@ -231851,8 +232061,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -231894,6 +232104,11 @@
           "neurons": 30.79920768737793,
           "total_tokens": 1808
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:16.211Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:16.211Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab41e63e49c8191ba7b72342fa3b701": {
@@ -231909,8 +232124,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -231952,6 +232167,11 @@
           "neurons": 24.412668228149414,
           "total_tokens": 1517
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:18.595Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:18.595Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a392c6f607081919c2316c958269023": {
@@ -231967,8 +232187,8 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-08T05:09:44.142Z",
-      "detailDue": false,
-      "detailFailures": 0,
+      "detailDue": true,
+      "detailFailures": 1,
       "information": [
         {
           "label": "Developer",
@@ -232011,6 +232231,11 @@
           "neurons": 29.141948699951172,
           "total_tokens": 1690
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:20.962Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:20.962Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a4a5a256fa08191b1820f9421173ae9": {
@@ -232085,7 +232310,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Addness helps teams and AI agents work from the same goal tree. Use it to read current goals, comments, deliverables, and activity, then turn plans into concrete subgoals, update progress, and keep execution context in one shared workspace.",
       "information": [
         {
@@ -232113,7 +232338,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:37:31.222Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "AI原生团队协作空间",
@@ -232128,6 +232353,11 @@
           "neurons": 22.982013702392578,
           "total_tokens": 1448
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:23.308Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:23.308Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd8b5b65d48191ae6b239ffeb041b8": {
@@ -232143,7 +232373,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Create video ads from a product brief and reference media. Review generated footage, adjust shots, captions, music and calls to action, then export a finished take through Creatify. A Creatify account and available credits are required for generation and shipping.",
       "information": [
         {
@@ -232176,7 +232406,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:37:32.837Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "创建和编辑视频广告",
@@ -232191,6 +232421,11 @@
           "neurons": 23.366207122802734,
           "total_tokens": 1464
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:26.129Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:26.129Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe6dddc78c81919511608d0c2ce608": {
@@ -232206,7 +232441,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Find PNG icons for websites, apps and presentations. Search every category, compare previews, collect a matching set in Icon Tray, and export selected files. Every connected account can use up to 20 fixed icons per category. Existing library entitlements include the full collection. Custom icon generation is not included.",
       "information": [
         {
@@ -232239,7 +232474,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:37:34.484Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "为您的设计寻找图标",
@@ -232254,6 +232489,11 @@
           "neurons": 31.0191707611084,
           "total_tokens": 1727
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:28.515Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:28.515Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abff570e7f081919dfd795a76d4eec8": {
@@ -232269,7 +232509,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "RiffAds makes UGC-style video ads. Pick an AI actor, give it a script, and get a finished talking actor video for your product. It also makes images, short videos, voice-overs and music for the same campaign. Attach a product photo or a clip in the chat to use it. Edit what you make too: add captions, remove a background, trim, resize, change the voice or put text on it. Every result is saved to your RiffAds workspace library with a permanent link, and a player shows it right in the chat. Open the RiffAds Studio from the sidebar or beside a chat to browse everything you made, pick a file to use, choose an actor, a voice and the settings, and follow running jobs. RiffAds asks you before it starts any work and never posts anything to a social network.",
       "information": [
         {
@@ -232302,7 +232542,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:37:36.121Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "AI演员的视频广告",
@@ -232317,6 +232557,11 @@
           "neurons": 30.118682861328125,
           "total_tokens": 1795
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:30.915Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:30.915Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf74ad828881918cbd6011bdc96850": {
@@ -232332,7 +232577,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Create and edit 3D names from your conversation. Choose fonts, colors, thickness and bases for name signs, keychains, pet tags, cake toppers and two-name flip designs. Refine the interactive preview, then connect a NameSTL account to save and reopen designs. Export STL and 3MF files when your connected account has export access. NameSTL explains account access limits when a download is unavailable. File preparation uses a WebGL-capable browser; set the final print size in your slicer. NameSTL creates model files for you to print yourself.",
       "information": [
         {
@@ -232365,7 +232610,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:37:37.737Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "为3D打印设计名称",
@@ -232380,6 +232625,11 @@
           "neurons": 28.636093139648438,
           "total_tokens": 1698
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:33.762Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:33.762Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe43ed57dc81919cf4e59c37c1c690": {
@@ -232395,7 +232645,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Create and edit images, generate videos and voiceovers, analyse media, and assemble video cuts using your connected Ad Army workspace.\n\nFor creators, marketers, and agencies, Ad Army brings creative generation and review into the conversation. Explore product image variations, turn a still image into a video, analyse existing footage, or assemble a shorter cut. Find available models and supported settings, check credit estimates, and save notes and results to Playground boards for continued work in Ad Army.\n\nConnect an Ad Army account and choose the workspace and permissions the assistant may use. Generations, analysis, and renders use that workspace's existing credits. Approve a total workflow budget before paid work; per-operation limits also apply. Available models, settings, and processing times vary. Importing or uploading external assets requires an additional permission. Review generated content before using or publishing it.",
       "information": [
         {
@@ -232428,7 +232678,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:37:39.370Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "创建图像、视频和广告",
@@ -232443,6 +232693,11 @@
           "neurons": 28.27276611328125,
           "total_tokens": 1748
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:36.126Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:36.126Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd9462d6b48191ab5129ad2317744b": {
@@ -269666,7 +269921,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "RankZero measures how visible a brand is in AI search: how often AI assistants and AI search engines mention it when they answer the questions its customers ask, how it ranks against competitors, and which websites those answers cite. This plugin connects to your RankZero account so you can analyze that data in a conversation. Ask for a brand's visibility percentage and rank over the last 24 hours, 7, 30 or 90 days, see which competitors are mentioned alongside it, review recent AI answers to your tracked prompts, list the most-cited sources, and query the brand's connected Google Analytics 4 and Google Search Console data. The plugin only reads data and only sees the brands your RankZero account owns or shares through its organization. A RankZero account is required.",
       "information": [
         {
@@ -269699,7 +269954,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:09.851Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "AI搜索可见性洞察",
@@ -269714,6 +269969,11 @@
           "neurons": 26.94361686706543,
           "total_tokens": 1673
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:37.306Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:37.306Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abffa47a734819196515adc0ee91212": {
@@ -269762,7 +270022,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:11.456Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "AI可见性与SEO",
@@ -269777,6 +270037,11 @@
           "neurons": 34.92243194580078,
           "total_tokens": 2040
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:40.196Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:40.196Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfd5de7dcc8191806cb0d66c184ef6": {
@@ -269792,7 +270057,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Use MentionedOn's deterministic tools to score supplied discovery signals, prioritize visibility improvements, and summarize dated scan captures without claiming live inclusion.",
       "information": [
         {
@@ -269820,7 +270085,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:13.147Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "评估AI发现就绪状态",
@@ -269835,6 +270100,11 @@
           "neurons": 23.71234130859375,
           "total_tokens": 1455
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:43.022Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:43.022Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf2d62ffa48191bc953fd21e012727": {
@@ -269850,7 +270120,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Hercules Real Estate Data is a property research tool for real estate investors. It answers questions about properties, owners and investors in the United States, using public records and licensed property data, in plain language inside ChatGPT.\n\nUse it to search property records nationwide, look up who owns a property, see who is behind an LLC, find NYC pre-foreclosures and distressed properties, and find active real estate investors and lenders in any market. It is built for investors, acquisitions teams, wholesalers, lenders and agents.\n\nWhat you can do\n- Property search and property records, anywhere in the United States: filter by city, county, zip code, property type, equity, absentee owners, vacant properties and more.\n- Owner lookup: the owner of record, owner type, mailing address, how long they have owned it, and whether the property is owner-occupied or absentee-owned.\n- Property details: estimated value and equity, mortgage and lender, last sale date, beds, baths, square footage and building details.\n- NYC pre-foreclosure and foreclosure data: lis pendens filings by borough, foreclosure stage, equity, filing age and recently added cases.\n- LLC owner lookup: find the officers, managers and registered agent behind an LLC or company that owns property, from public business filings.\n- Active investors: see who is buying in an area, including cash buyers, portfolio owners and corporate buyers, grouped by owner with recent purchase counts.\n- Investor and lender firm search: hard money lenders, private lenders, note buyers, fix-and-flip investors, real estate funds and wholesalers, with business phone numbers, business emails and websites.\n\nBefore a large search runs, you see how many records match and get suggestions for narrowing it. Nothing runs until you confirm.\n\nWhat it does not do\n- It does not provide personal phone numbers or personal email addresses.\n- It covers properties in the United States only.\n- A Hercules account is required.\n\nTry asking\n- \"Find absentee-owned single-family homes in Tampa with at least 40% equity.\"\n- \"Show me NYC pre-foreclosures in Brooklyn added in the last 30 days.\"\n- \"Who owns 123 Main Street in Austin, Texas?\"\n- \"Who is behind Lennar Homes, LLC in Florida?\"\n- \"Who is buying multifamily properties in Miami?\"\n- \"Find hard money lenders in Phoenix.\"\n\nResults are provided for research and may be incomplete or out of date. Verify before relying on them. See the privacy policy and terms for details.",
       "information": [
         {
@@ -269883,7 +270153,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:14.759Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "房产所有者与法拍房",
@@ -269898,6 +270168,11 @@
           "neurons": 45.53085708618164,
           "total_tokens": 2657
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:45.349Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:45.349Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad0a4765acc8191a6745747f9159eec": {
@@ -269946,7 +270221,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:16.489Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39094279837:1",
       "translation": {
         "summary": "向您的业务数据提问",
@@ -269961,6 +270236,11 @@
           "neurons": 33.69905471801758,
           "total_tokens": 1809
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:48.234Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:48.234Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfe1b5e1248191afbf291a97d35fb9": {
@@ -269976,7 +270256,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Framework by NewForm helps marketing teams analyze advertising creative. Request an Ad Atlas for the brand associated with your verified company email, subject to company and shared capacity limits. After confirmation and privacy acceptance, Framework processes public ad-library data into a creative map, format mix, coverage notes and findings. Explore saved reports in an interactive view where supported, with a text summary elsewhere. Connect an existing Framework account to compare advertising performance and review creative tests within its current access permissions. Report reads reuse saved analysis. Ad launching, budget changes, Drive access and report refreshes are unavailable.",
       "information": [
         {
@@ -270009,7 +270289,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:18.138Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "分析创意证据",
@@ -270024,6 +270304,11 @@
           "neurons": 33.20078659057617,
           "total_tokens": 1841
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:50.580Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:50.580Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfe56cd8a48191bf0cb5e01c03f188": {
@@ -270039,7 +270324,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Compare monthly sunlight data and calculate annual solar energy potential using NASA POWER historical averages. Choose a location, adjust system size and losses, and compare the seasons. Results are a rough horizontal-sunlight baseline; roof angle, local shading and actual meter output are not modelled. No inverter account is connected.",
       "information": [
         {
@@ -270072,7 +270357,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:19.765Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "季节性太阳能估算",
@@ -270087,6 +270372,11 @@
           "neurons": 19.652082443237305,
           "total_tokens": 1354
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:52.924Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:52.924Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa442da68e08191a8f4a1c30bf40860": {
@@ -270102,7 +270392,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Jet Tracker brings Brazilian business aviation data into ChatGPT. Ask about any Brazilian-registered aircraft and get the official registry record (RAB/ANAC), the owner set with the company record from the Receita Federal, airworthiness validity, tracked flight activity (ADS-B/FR24), overnight base, market listings and certified maintenance shops (ANAC RBAC 145), with US (FAA) and worldwide (GAMA) context.\n\nBuilt for aircraft brokers, maintenance shops, lessors and analysts: find who owns a tail, list aircraft by model, state or owner city, see which aircraft landed at an airport, and follow registry changes.\n\nEvery number carries a source and an as-of date. A registry change is never called a sale, missing tracking is never called \"does not fly\", and personal tax IDs are never returned.",
       "information": [
         {
@@ -270130,7 +270420,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:21.388Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "查找巴西飞机所有者",
@@ -270145,6 +270435,11 @@
           "neurons": 30.605449676513672,
           "total_tokens": 1822
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:55.320Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:55.320Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad2055ac8288191b8cd4cfa5b57f1db": {
@@ -270160,7 +270455,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Home finds homes for sale and to rent across the United Kingdom from home.co.uk, right in the conversation. Describe what you want in your own words: a town, city or postcode, buying or renting, your budget, how many bedrooms, new build or not, newest or lowest price first, and what you want in the home itself, such as a garden, off-road parking, a quiet street, period features, open-plan living, a home office or no onward chain. Home shows the matching houses and flats as photo cards and a map, with asking price or rent, bedrooms, tenure, the date each one was added, how long it has been on the market, whether it has been reduced or gone under offer, and the listing's own words for each feature you asked about.\n\nOpen any result for the full picture in chat: every photo, the complete description, the agent, key facts and, where the published address can be matched to a property, checks from Homedata such as the EPC energy rating, council tax band, flood and other environmental risks, broadband, nearby schools and recorded crime. Keep a shortlist and compare two to four homes side by side. See which homes are within a walk, cycle or drive of a station, office, school or postcode, and put up to six viewings in the quickest driving order for the day. Ask what an area is like for schools, broadband, recorded crime and local house price growth, see recent sold prices and typical rents nearby, find local estate and letting agents, and estimate stamp duty or monthly mortgage repayments from your own figures.\n\nHome also brings five workflows: what can I afford, turning a monthly budget and deposit into a price and the homes at it; prepare for a viewing, with a checklist and questions for the agent built from the home's own details; plan a viewing day, with the order, the driving between stops and what to ask at each; shortlist and compare, ranking homes against what matters to you, commute included; and buying costs, setting out stamp duty, deposit, loan and monthly repayments together.\n\nIt is for anyone house hunting: first-time buyers, movers, renters and families comparing places to live. Searching, viewing property details, comparing homes and using the planning and calculator tools need no account.\n\nLimitations: Home does not value homes or forecast prices, list a home, contact agents for you, or decide mortgage eligibility. Calculator results are estimates, not tax or financial advice, and stamp duty covers England and Northern Ireland. Commute and driving times are typical estimates, not timetables or live traffic. Availability and status are snapshots from the time of the search.",
       "information": [
         {
@@ -270193,7 +270488,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:23.273Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39094279837:1",
       "translation": {
         "summary": "英国房产出售和租赁",
@@ -270208,6 +270503,11 @@
           "neurons": 43.25532531738281,
           "total_tokens": 2573
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:57.687Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:57.687Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6acfb07e92fc8191a133f26cfd746298": {
@@ -270223,7 +270523,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Perigon helps analysts and researchers search, filter and analyze global news data. Search articles and stories by sentiment, journalist, publisher location, company, topic, language and date. Combine filters to find precise coverage, compare trends and produce briefings with source citations.\n\nCreate monitors that track matching news and extract structured fields for analysis. Example requests:\n• Create a monitor for AI startups raising a Series A. Extract funding value, industry, funding type and status.\n• Create a monitor for mentions of my brand in Perigon news coverage, with a sentiment breakdown.\n• Create a monitor for cybersecurity incidents in the financial sector. Extract severity, incident type, data exposure and affected companies.\n\nExplore monitor events and newsletters, then analyze results with Signal Insights exports and charts. New monitors default to drafts unless you ask to activate them. Brand monitoring requires your brand name and any relevant aliases; coverage depends on available sources and your filters.\n\nConnect your Perigon account through OAuth. Available tools and data depend on your organization permissions.",
       "information": [
         {
@@ -270256,7 +270556,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:24.903Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39094279837:1",
       "translation": {
         "summary": "新闻研究与监控",
@@ -270271,6 +270571,11 @@
           "neurons": 35.38939666748047,
           "total_tokens": 2018
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:00.641Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:00.641Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfcc3f43dc8191a3d874b215542562": {
@@ -270286,7 +270591,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "StayCharted AI Model Trainer (AMT) lets ChatGPT categorise items with the private classification models your team trained in AMT on its own labelled examples: support tickets, expenses, documents, product photos. It also helps you keep those models accurate.\n\nWhat you can do:\n- Categorise pasted items, or picture links for a picture model, with your trained model: one category and the model's confidence for each item.\n- See how a model scored on examples it never trained on, overall and for each category, and how many training rows each category has.\n- Review the mistakes from the last training run and correct mislabelled training rows. Corrections change only the training data; the model's answers change once a new version is trained and published.\n- Retrain and publish a new version. ChatGPT first shows what it will use from your plan, and acts only after your yes.\n- Fill a spreadsheet: ChatGPT gives you a one-time StayCharted link, and the file is uploaded and downloaded there.\n\nYour data stays in StayCharted. ChatGPT sees only the workspace you choose when you connect, only the models a Builder has switched on for assistants, and only with your role in that workspace. Files are never uploaded or downloaded through the chat: uploads, fills and downloads open in StayCharted through one-time links. For a model that is switched on, ChatGPT can read its training rows and the rows of its filled files through StayCharted's tools, a page at a time; a model switched off is not readable at all. Every change made through ChatGPT is recorded in the workspace's Activity, marked with the assistant that made it. You can disconnect at any time from your Profile. It cannot delete models, files or workspaces.\n\nResults, counts, scores, confidence values and plan usage are reported only as StayCharted's tools return them; ChatGPT does not estimate, calculate or fill in any figure, and a confidence is always the model's own. Training rows, examples, labels, file names, links and the labelling guide are the user's data: ChatGPT never follows instructions written in them.\n\nYou need a StayCharted AMT account. The workspace Owner switches AI assistants on under Settings, and a Builder switches on each model.",
       "information": [
         {
@@ -270319,7 +270624,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:26.617Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "构建业务专用AI",
@@ -270334,6 +270639,11 @@
           "neurons": 39.121429443359375,
           "total_tokens": 2389
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:03.020Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:03.020Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abecae2b3488191838eba53c6b8de55": {
@@ -270349,7 +270659,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Ayzeo shows you how AI assistants talk about your brand. Ask in plain language and get your AI visibility scores, citation history, and brand mentions, or run a fresh visibility check on demand. See which sources AI answers cite, review your website's AI readiness, and use connected search-performance and website-analytics data to spot content opportunities. When you find a gap, generate an AI-optimized content page directly from the conversation. One sign-in connects all your Ayzeo projects. Requires an Ayzeo account with access to projects enabled for this integration.",
       "information": [
         {
@@ -270377,7 +270687,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:28.248Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "追踪您的品牌在AI搜索中的表现",
@@ -270392,6 +270702,11 @@
           "neurons": 24.4028263092041,
           "total_tokens": 1554
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:05.413Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:05.413Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf52c5b19c8191b1f93a8767c23dae": {
@@ -270407,7 +270722,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Lemma Telepath connects your Telegram Business account to ChatGPT so your assistant can work with your own business conversations. Ask it to summarise a thread, find the message where a price or a deadline was agreed, read a screenshot a client sent, listen to a voice message as text, or draft and send a reply as you.\n\nIt is built on the official Telegram Business API: you add our bot as your Business chatbot in Telegram and grant it the rights you choose, so there is no MTProto user session and nothing is scraped. From that moment your 1:1 business messages are archived into an account that is yours alone — one isolated database per account, full-text searchable, including the text inside attachments and transcripts of voice and round-video messages.\n\nYou stay in control of what the assistant may do. Every capability — replies, media, notes, group archiving — is a switch you can turn off at any time from the bot, and sending is surfaced for your confirmation before anything reaches another person. You can erase everything you have stored with a single command.\n\nTelepath is not end-to-end encrypted and we say so plainly: searching and transcribing require our servers to read your messages. Data is encrypted at rest with full-disk encryption, each account is physically isolated, and voice transcription is opt-in, disclosing the processor it uses before you turn it on. If you need a guarantee that no operator can ever read your data, the same connector can be self-hosted on your own machine.",
       "information": [
         {
@@ -270435,7 +270750,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:29.869Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "你的Telegram，融入ChatGPT",
@@ -270450,6 +270765,11 @@
           "neurons": 37.567691802978516,
           "total_tokens": 2176
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:07.806Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:07.806Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad0e76aef588191b2cab35f06c94c5c": {
@@ -270465,7 +270785,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Send personalized email campaigns from Gmail, manage contacts and templates, and review campaign activity and analytics. Prepare each campaign with a preview and confirm before sending.",
       "information": [
         {
@@ -270498,7 +270818,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:31.506Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39094279837:1",
       "translation": {
         "summary": "通过Gmail发送群发邮件",
@@ -270513,6 +270833,11 @@
           "neurons": 20.317663192749023,
           "total_tokens": 1347
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:10.163Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:10.163Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abeafd359a081919cd592a1bea7943b": {
@@ -270528,7 +270853,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Kadenzo is a social media scheduler. Connect your Kadenzo account and ChatGPT can plan and schedule posts to the accounts you have linked in Kadenzo (Instagram, Facebook, TikTok, LinkedIn, X, Threads, Bluesky, Pinterest, YouTube, Mastodon and Telegram), with per-platform text, threads and media links.\n\nAsk it to draft a post and schedule it for Tuesday at 9am, check whether a post fits each network's limits before it goes out, move or cancel something in your queue, see how your recent posts performed, find your best times to post from your own engagement history, or catch up on who is mentioning your brand.\n\nKadenzo always schedules for a future time and never publishes instantly, and ChatGPT asks you to confirm before anything is scheduled, changed or cancelled. You need a Kadenzo account with at least one social account connected. You can disconnect ChatGPT at any time under Settings → API keys in Kadenzo.",
       "information": [
         {
@@ -270561,7 +270886,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:33.154Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "安排社交媒体发布",
@@ -270576,6 +270901,11 @@
           "neurons": 30.408964157104492,
           "total_tokens": 1841
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:13.010Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:13.010Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac032a975e88191a019e7ba7025a814": {
@@ -270591,7 +270921,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Search and read conversations across your connected Missive accounts, find contacts and team inboxes, draft and send messages, and organize conversations with labels. You can also view and manage connected calendar events. Access follows your Missive account permissions, organization settings, and granted OAuth scopes.",
       "information": [
         {
@@ -270624,7 +270954,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:34.823Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "使用Missive消息",
@@ -270639,6 +270969,11 @@
           "neurons": 21.73906898498535,
           "total_tokens": 1414
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:15.342Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:15.342Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf876aba488191a3c65c4b5d9fe6fc": {
@@ -270654,7 +270989,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Send and manage business SMS from your DataFlows account, in plain language.\n\nFeatures\n• Send SMS to up to 10 numbers at once, from your own sender ID or number\n• Send campaigns to your DataFlows contact groups\n• Preview before you send: recipients, SMS parts, credits needed, and warnings for emoji, long messages, a missing opt-out line or blocked words\n• Schedule messages for later, see what is scheduled, and cancel anything before it sends\n• Check the delivery status of every message you sent\n• Read replies from the people you messaged\n• Campaign results: delivered, failed with the reason, and pending\n• Usage summary: messages sent, credits used, delivery rate and top senders\n• Your credit balance and available senders at a glance\n\nBuilt-in safeguards\n• Every send is confirmed with you before it goes out\n• A group send must match the recipient count you previewed\n• The same sender ID registration, opt-out and blocklist rules as the DataFlows dashboard\n\nPrivacy\nThe connection only sees messages sent through it, not messages from your DataFlows dashboard or other integrations. It shows contact group names and sizes, never the contacts themselves.\n\nRequires a DataFlows account (sms.dataflows.com.au).",
       "information": [
         {
@@ -270687,7 +271022,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:36.593Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "短信、活动与日程安排",
@@ -270702,6 +271037,11 @@
           "neurons": 31.562026977539062,
           "total_tokens": 1945
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:17.708Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:17.708Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfce382a748191a1f62aac1e9ba7cf": {
@@ -270750,7 +271090,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:38.217Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "土耳其法律与源分析",
@@ -270765,6 +271105,11 @@
           "neurons": 42.701683044433594,
           "total_tokens": 2498
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:20.093Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:20.093Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac08d92a78c81918791f46027a4f7f5": {
@@ -270780,7 +271125,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Connect your TCFCAN account to access authorized practice records and diagnose personalized learning priorities based on your learning history. Review mistakes with ChatGPT anytime to understand grammar, translations, and even the French cultural context behind them. You can also create listening or reading practice calendars, subscribe to them directly in your calendar app, and review each day according to plan.",
       "information": [
         {
@@ -270813,7 +271158,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:39.931Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "实践洞察与规划",
@@ -270828,6 +271173,11 @@
           "neurons": 28.212764739990234,
           "total_tokens": 1640
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:23.006Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:23.006Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfc81b3c808191afe55e2a55a76f97": {
@@ -270843,7 +271193,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Help families in Tokyo find and compare after-school childcare facilities using published facility data from gakudosagashi.jp. Search by area or school pickup and compare published fees, hours, holiday care, Saturday care, subsidies, and facility features. Availability and eligibility are not guaranteed; users should confirm details with the facility.",
       "information": [
         {
@@ -270871,7 +271221,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:41.585Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "寻找东京托儿服务",
@@ -270886,6 +271236,11 @@
           "neurons": 20.988346099853516,
           "total_tokens": 1397
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:25.650Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:25.650Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfdcb1fb748191ad5c8bd0cf287b78": {
@@ -270901,7 +271256,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "RateMyVSO gives ChatGPT the VA's own rulebooks and real Board of Veterans' Appeals data, so answers to VA disability questions come from sources a veteran can check.\n\nWhen you ask a VA disability question, ChatGPT looks it up on RateMyVSO and gets the VA rating rules for a condition (38 CFR Part 4) in plain English, the parts of the M21-1 claims manual VA raters use, Board of Veterans' Appeals data (how appeals were decided, why service connection was denied, the evidence named in granted decisions, and which conditions veterans claimed as secondary), and RateMyVSO's guides on claims, secondary conditions, nexus letters, C&P exams, TDIU, SMC, the PACT Act, effective dates and appeals. Every answer links to the RateMyVSO page each fact came from.\n\nSign in once with Google or Apple; a RateMyVSO account is made for you.\n\nRateMyVSO is information, not legal, medical or claim advice. It never files or plans a claim, and it is not part of the VA.",
       "information": [
         {
@@ -270934,7 +271289,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:43.191Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "VA伤残参考",
@@ -270949,6 +271304,11 @@
           "neurons": 42.338714599609375,
           "total_tokens": 2263
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:28.036Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:28.036Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac01d9f31088191a2fdcb70c994b45a": {
@@ -270964,7 +271324,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Discover learning coverage across six destinations and five healthcare professions. Physicians can explore curated registration pathways for Germany, Italy, and France and use an interactive checklist to focus on a next step. MedicinaHub Pathways provides educational planning only. It does not verify credentials, determine eligibility, provide legal or clinical advice, represent regulators, or promise licensing or exam outcomes.",
       "information": [
         {
@@ -270997,7 +271357,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:44.815Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "全球医疗路径",
@@ -271012,6 +271372,11 @@
           "neurons": 27.586669921875,
           "total_tokens": 1622
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:30.411Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:30.411Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfcb657c188191bab1597d91f2a58d": {
@@ -271027,7 +271392,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Practice Arabic using your LingoBab course. Connect your account for practice based on your assigned Arabic course, level, lesson position, and competence progress. The integration has read-only access and cannot change your official learning progress.",
       "information": [
         {
@@ -271060,7 +271425,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:46.441Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "练习你的阿拉伯语",
@@ -271075,6 +271440,11 @@
           "neurons": 18.884519577026367,
           "total_tokens": 1311
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:32.884Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:32.884Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfbc23a25c8191b7fdc6372f370131": {
@@ -271090,7 +271460,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Laya is a study companion for the UPSC Civil Services Mains examination. Connect your Laya account and work on your preparation inside ChatGPT.\n\nSave answers you write, or draft with ChatGPT, to your Mains Notes with the bricks an examiner looks for, a revision card and your value additions. Laya shows you exactly what it will save and waits for your yes before saving an answer.\n\nAsk ChatGPT to evaluate an answer against the bricks you saved for that question, and record the evaluation in Laya when you choose to.\n\nRevise with recall drills on your own answers, and record how well you recalled each brick.\n\nPlan your study days. Laya proposes a schedule from your own answers, your syllabus coverage and your exam date, and applies it only after you agree.\n\nRead Laya's Foundation Course notes for the GS papers in the conversation, with figures in a reading card. Laya keeps your place, so you can carry on later in ChatGPT or in the Laya app.\n\nSearch Laya's published UPSC Mains questions with Laya's model answers, the Foundation Course notes and Mains GS Threads, with links back to getlaya.in.\n\nPractise answering aloud or in writing and review a scorecard in the conversation.\n\nLaya is for aspirants preparing General Studies and an Optional subject for UPSC Mains. Search and the opening part of each Foundation Course topic work before you sign in. Connect a Laya account to use your own notes, save reading progress and manage your study schedule.\n\nLaya reads and changes only the connected account. It asks for confirmation before saving an answer, recording an evaluation or changing your schedule. Reading position saves as you continue. Answers you remove go to Laya's Trash, where you can restore them for 30 days.",
       "information": [
         {
@@ -271123,7 +271493,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:48.118Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "UPSC Civil Services Exam prep",
@@ -271138,6 +271508,11 @@
           "neurons": 59.82613563537598,
           "total_tokens": 3652
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:35.258Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:35.258Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfe3ae9c748191ae35821646fe32fa": {
@@ -271153,7 +271528,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Search the Stoic classics by topic or look up a passage by reference. Retrieve exact excerpts, named translations, whole letters and chapters, and surrounding context. Follow edition-specific links to read more in The Stoic Library. Search results are candidates for your assistant to evaluate; the tools do not generate philosophical advice or authenticate quotations absent from the indexed corpus.",
       "information": [
         {
@@ -271186,7 +271561,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:49.755Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "查找并阅读斯多葛学派典籍",
@@ -271201,6 +271576,11 @@
           "neurons": 28.805660247802734,
           "total_tokens": 1662
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:37.658Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:37.658Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf672936a481918537532062d8132b": {
@@ -271216,7 +271596,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Read source-based Bible passages, explore biblical vocabulary and choose existing reading plans in all 17 Bible Expert app locales, including simplified and traditional Chinese. Study in ChatGPT, then download Bible Expert to read in chapter context and track reading progress. Editions disclose their rights, available books and missing verse text. No account is needed. ChatGPT studies are not imported into app notes.",
       "information": [
         {
@@ -271249,7 +271629,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:51.406Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "圣经经文、术语与计划",
@@ -271264,6 +271644,11 @@
           "neurons": 25.530155181884766,
           "total_tokens": 1563
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:40.048Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:40.048Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abeca8a331481919fe8263f6a3ed3da": {
@@ -271279,7 +271664,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "HonestDog helps people in Germany get a dog responsibly. Ask about a breed and see HonestDog's breeding-health grade (S–E) with its rationale, the breed's known hereditary diseases, and the health tests the breed club requires breeders to run. Search HonestDog's directory of approved breeders by breed and German state or city, or find shelter dogs currently up for adoption. Results appear as cards, each linking to the full page on honestdog.de, where you contact the breeder or shelter directly.\n\nHonestDog connects buyers and adopters with breeders and shelters; it never sells dogs and never transacts. For breeds with breeding-related health problems (Qualzucht), HonestDog deliberately lists no breeders and instead explains why and points to healthier alternatives or adoption.\n\nAll tools are read-only and return only data that is already public on honestdog.de. No account or sign-in is needed.",
       "information": [
         {
@@ -271312,7 +271697,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:53.121Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "经过审核的犬种繁育者与领养",
@@ -271327,6 +271712,11 @@
           "neurons": 30.454143524169922,
           "total_tokens": 1834
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:42.412Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:42.412Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac58d76e5e881918e255ae7f5ec3e86": {
@@ -271342,7 +271732,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Run exploratory research and evaluate concepts with AI-generated participants in your Synthetic Users workspace. Find projects, define audiences and studies, work with images and context documents, follow study progress, inspect interviews and insights, and download available exports.\n\nConnect an existing Synthetic Users account and choose a workspace. Access follows your workspace permissions and available entitlements. Synthetic user generation and interview runs require explicit confirmation. Create or regenerate reports when you need them. Available study types and features depend on the workspace. Interactive panels are available on hosts that support MCP Apps, with conversation or browser fallbacks where supported.\n\nSynthetic participants are AI simulations, not human research participants. Findings can inform hypotheses and research planning; they do not establish what real people will think or do.",
       "information": [
         {
@@ -271375,7 +271765,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:54.808Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "通过合成用户进行研究",
@@ -271390,6 +271780,11 @@
           "neurons": 36.83048629760742,
           "total_tokens": 2011
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:44.774Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:44.774Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abff14b0c588191a9b0fa9e82fdc142": {
@@ -271405,7 +271800,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Explore public incident counts and records, country profiles, and aggregate internet measurement coverage. Results identify a source, retrieval time, available dates, and coverage limits. An incident record or count alone does not prove current censorship. This plugin cannot test your own connection, inspect underlying incident evidence, send messages, manage accounts, or move money.",
       "information": [
         {
@@ -271438,7 +271833,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:56.513Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "公共审查研究",
@@ -271453,6 +271848,11 @@
           "neurons": 24.10602378845215,
           "total_tokens": 1501
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:47.153Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:47.153Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe9a3cdf3c819191d8d505466917f1": {
@@ -271501,7 +271901,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:58.162Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "随时核查任何引用",
@@ -271516,6 +271916,11 @@
           "neurons": 41.675621032714844,
           "total_tokens": 2455
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:49.566Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:49.566Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad26251e37c81919e2aa956a914bfb1": {
@@ -271531,7 +271936,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Pre-Med Coach is a planner from International Medical Aid for pre-med and other pre-health students: future doctors, physician assistants, dentists, nurses, therapists and more, from high school through gap years.\n\nInside ChatGPT you can:\n- Open a visual dashboard with your profile, hours by category, next priorities, upcoming MCAT dates and saved tasks.\n- Set up or edit your profile with a short form, or by answering questions in chat.\n- Log clinical, shadowing, service, research and leadership hours.\n- Calculate an MCAT total and percentile from the official AAMC table, and a credit-weighted overall and science GPA.\n- Save dated tasks and see curated MCAT registration and score dates.\n- Explore ways to gain clinical experience, including International Medical Aid's supervised clinical internships abroad that match your career path.\n\nYour plan is saved to your Pre-Med Coach account, which you sign in to with your email, so it is also available at coach.medicalaid.org. Pre-Med Coach is planning support only. It does not give admissions or medical advice, it does not verify hours, and MCAT percentiles are not admission probabilities. Always confirm requirements and deadlines with schools and application services.\n\nPre-Med Coach is built by International Medical Aid, which offers supervised clinical internships abroad for pre-health students. Learn more at https://medicalaid.org.",
       "information": [
         {
@@ -271564,7 +271969,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:59.786Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39094279837:1",
       "translation": {
         "summary": "规划你的预科医学路径",
@@ -271579,6 +271984,11 @@
           "neurons": 33.41743087768555,
           "total_tokens": 2022
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:51.955Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:51.955Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf1aa2c6a0819190e085c4e13201ac": {
@@ -271594,7 +272004,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Screenata manages security compliance and audit preparation for startups. Track audit-cycle readiness for SOC 2 Type I and Type II, HIPAA, ISO 27001 and ISO 42001, investigate failing security checks and collect evidence linked to the relevant tests. Review a proposed fix before applying it, then re-run the check to verify the result. Draft security policies from your recorded answers and open direct browser links to review controls, tests, policies, risks and evidence. After signing in to Screenata and selecting a workspace, assess selected cloud accounts, identity services, code repositories and a local repository. New users create their account in the browser. Cloud checks run on Screenata servers with account-specific consent; provider credentials stay out of chat and tool arguments, and repository source stays local. Fix availability depends on the check and permissions, policies need human approval, and baseline scores are separate from audit readiness. Your auditor issues the report or certification.",
       "information": [
         {
@@ -271627,7 +272037,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:01.438Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "SOC 2、HIPAA及ISO合规性准备",
@@ -271642,6 +272052,11 @@
           "neurons": 36.990447998046875,
           "total_tokens": 2040
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:54.783Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:54.783Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfb96a8634819198453ac640a5b22d": {
@@ -271657,7 +272072,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Ask whether an AI agent, MCP server, coding assistant or AI product is safe to use, and get a straight verdict from Greenlit Books, with the setup steps that make it safer and a link to the full review. Each verdict comes from reading the product's own code, docs and settings, and says which version it read and when. There are more than 800 of them, covering coding assistants, automation tools and hundreds of MCP servers.\n\nIt also checks statements about AI agents against a ledger of 564 claims, each sorted by what it rests on (a published result, the book's argument, a method you can run, or the author's own account) and each with a citation. Where a claim rests on an outside source, the result says what that source does and does not establish.\n\nAsk it how or why about working with AI agents and it answers from Greenlit's books: it finds the passage in the free first chapters, the concept pages, the glossary and the claim ledger that bears on your question, quotes it with a link to the exact section, and points you to the page where the rest of the topic is. And when you want to go deeper, it finds the right practical book on working with AI, with a free first chapter to read.\n\nRead-only. No account and no sign-in. Nothing you ask is stored beyond short-lived request logs.",
       "information": [
         {
@@ -271690,7 +272105,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:03.072Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "AI代理安全评估",
@@ -271705,6 +272120,11 @@
           "neurons": 33.00465774536133,
           "total_tokens": 2011
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:57.149Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:57.149Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfd6483d1c81919c2f92c63590a6f9": {
@@ -271720,7 +272140,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Use RegSentry to perform a bounded authorized static inspection, grade supplied consent evidence, and retrieve deterministic remediation playbooks without certifying legal compliance.",
       "information": [
         {
@@ -271748,7 +272168,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:04.729Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "审查跟踪同意",
@@ -271763,6 +272183,11 @@
           "neurons": 25.723674774169922,
           "total_tokens": 1521
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:02:59.535Z",
+      "detailError": {
+        "at": "2026-10-26T04:02:59.535Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfbc9d1e6c8191a756470fc47aad6d": {
@@ -271778,7 +272203,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Inspect monitored domains, DMARC statistics and sending sources, SPF records and lookup chains, and DKIM selectors. Enable, update, or disable hosted DMARC using your authorized DMARCwise organization.",
       "information": [
         {
@@ -271811,7 +272236,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:06.329Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "监控电子邮件认证",
@@ -271826,6 +272251,11 @@
           "neurons": 26.958436965942383,
           "total_tokens": 1570
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:01.852Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:01.852Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abcf2d5e61c8191910db8726d38e07b": {
@@ -271841,7 +272271,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Search ETFs covered by ETFtracker on ASX and TMX, compare fund snapshots, inspect holdings and holdings overlap, and retrieve monthly returns, fund size, net flows and historical distributions. ChatGPT can create charts from the returned data. Correlation uses matching reported one-month returns for two ETFs. Results disclose reporting periods, units and coverage. Public tools require no account. Price-history charts, personal portfolios and trading are not supported.",
       "information": [
         {
@@ -271874,7 +272304,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:08.047Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "澳大利亚ETF研究",
@@ -271889,6 +272319,11 @@
           "neurons": 24.826507568359375,
           "total_tokens": 1545
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:04.251Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:04.251Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd5ccb15d48191a50f8fc678fd3732": {
@@ -271904,7 +272339,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "StockPortfolio.pro gives ChatGPT read-only research on US-listed public companies, built from the filings those companies submit to the SEC.\n\nAsk about a company's revenue, profit, margins, earnings per share, share count, cash flow, debt or stock-based compensation and get the reported history back, with each value carrying the fiscal period it belongs to and the filing it came from. Search SEC filings by form type and date, read the section of a filing that answers a question, compare two to five companies on the same metrics, or see the arithmetic behind a period-over-period change, including how much of an earnings-per-share move came from net income and how much from share count.\n\nEvery figure is reported data with a source. A value a company did not report is returned as missing with a note explaining why, never estimated. Derived figures are labelled with the metrics they were derived from. Companies whose fiscal years end on different dates are flagged rather than blended into a single comparison.\n\nUse it for equity and credit research, checking what a company actually disclosed, preparing for an earnings date, building comparables, and tracing a number back to the filing that states it.\n\nLimitations: US-listed companies only. The plugin is read-only, with no trading, no brokerage access and no portfolio or account changes. Nothing it returns is investment advice or a recommendation. Filing text is returned as excerpts rather than whole documents. Data follows the SEC filing calendar rather than real time, so a document filed today may take until the next index refresh to appear.",
       "information": [
         {
@@ -271937,7 +272372,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:09.675Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "SEC文件和财务信息",
@@ -271953,7 +272388,12 @@
           "total_tokens": 1992
         }
       },
-      "lastMissingAt": "2026-10-20T04:01:04.376Z"
+      "lastMissingAt": "2026-10-20T04:01:04.376Z",
+      "detailNextAttemptAt": "2026-10-26T05:03:06.583Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:06.583Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6abfdef07140819196dab5c80bab4ab5": {
       "id": "plugin_asdk_app_6abfdef07140819196dab5c80bab4ab5",
@@ -272064,7 +272504,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:12.921Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "在GoFans上通过内容获利",
@@ -272079,6 +272519,11 @@
           "neurons": 25.084415435791016,
           "total_tokens": 1584
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:08.915Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:08.915Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad0fd1314948191b41de9bb8450769a": {
@@ -272222,7 +272667,7 @@
       "missingCount": 1,
       "lastSeenAt": "2026-10-23T03:54:39.485Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Dinzo is a personal finance app for people in Brazil. It brings together bank accounts and credit cards connected through Brazil's Open Finance, manual entries, credit card bills, goals, recurring expenses and investments.\n\nWith the Dinzo plugin, ChatGPT can answer questions about the user's own Dinzo data, such as how much they spent on a category, which credit card bills are open and when they are due, or what their balance will be at the end of the month. With the read and write permission, ChatGPT can also create, edit, categorize and delete entries in the user's Dinzo account, always after the user confirms.\n\nDinzo never moves money: it does not make payments, transfers or investments, it never sees bank passwords, and it cannot connect banks. Recording a bill payment only marks it in the user's Dinzo records.\n\nRequires an existing Dinzo account. Dinzo's app and data are in Portuguese; ChatGPT answers in the user's language.",
       "information": [
         {
@@ -272255,7 +272700,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:17.898Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "面向巴西的个人财务管理",
@@ -272271,7 +272716,12 @@
           "total_tokens": 2013
         }
       },
-      "lastMissingAt": "2026-10-26T03:51:22.235Z"
+      "lastMissingAt": "2026-10-26T03:51:22.235Z",
+      "detailNextAttemptAt": "2026-10-26T05:03:11.871Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:11.871Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6ab21ae706008191be31398b9349d879": {
       "id": "plugin_asdk_app_6ab21ae706008191be31398b9349d879",
@@ -272286,7 +272736,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "akta.pro provides private company data, news and signals for AI agents like ChatGPT to find and enrich companies, monitor company events, and track developments across industries and market themes.\n\n1. Find companies with filters: Build company lists, market maps, target accounts and peer sets using industry, location, ownership, funding, investors, revenue, valuation and more.\n2. Enrich companies and build profiles: Access data on 20M+ companies across 74 structured fields, covering firmographics, management, products, funding, transactions, revenue, valuation, technology and more.\n3. Monitor company news, signals and events: Monitor 20M+ companies across 77 event types including funding, M&A, partnerships, product launches, executive changes, hiring, layoffs, litigation and other material activity.\n4. Monitor industry and topic news, signals and events: Surface activity and trends across 30,000+ sub-sectors, or any theme, technology or market topic described in plain language, including funding, M&A, product activity, leadership moves and other events.\n5. Analyze alternative signals: Track headcount, web traffic, job posts, social posts, employee reviews and product reviews, all linked to the same company ID.\n\nRequires an akta.pro account.",
       "information": [
         {
@@ -272314,7 +272764,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:19.678Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "私营公司数据与信号",
@@ -272329,6 +272779,11 @@
           "neurons": 33.496639251708984,
           "total_tokens": 2000
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:14.256Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:14.256Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6acf724813b48191b030c0363c9ff4a6": {
@@ -272344,7 +272799,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Yield Clarity tracks your investments, cash, pensions, property and spending, and forecasts when you could reach financial independence.\n\nConnect your Yield Clarity account to ask about your plan in ChatGPT:\n\n- Net worth, holdings and planned spending, in your plan's currency\n- Your projected financial independence date, retirement outlook and year-by-year forecast\n- What-ifs, such as saving more each month, retiring on a different date, a different return or a one-off cost, compared with your current plan. Nothing is saved.\n- Monte Carlo simulations: the chance of reaching financial independence by your target date and of your money lasting through retirement\n- Portfolio history and the effect of your saved decisions\n\nThe connection is read-only: ChatGPT can't add, change or delete anything in your Yield Clarity account. Figures come from Yield Clarity's own calculations, so they match the app. Forecasts are estimates based on your own assumptions, not financial advice.\n\nRequires a Yield Clarity account with AI assistant access. You can disconnect at any time in Yield Clarity under Settings, AI assistants.",
       "information": [
         {
@@ -272377,7 +272832,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:21.310Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "你的财务计划在聊天中",
@@ -272393,7 +272848,12 @@
           "total_tokens": 1896
         }
       },
-      "lastMissingAt": "2026-10-20T04:01:04.376Z"
+      "lastMissingAt": "2026-10-20T04:01:04.376Z",
+      "detailNextAttemptAt": "2026-10-26T05:03:17.118Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:17.118Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6ac0c23bf90881919a274d83d6902ddc": {
       "id": "plugin_asdk_app_6ac0c23bf90881919a274d83d6902ddc",
@@ -272472,7 +272932,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Research public SEC records with Earnings Feed. Look up a company by ticker or CIK; list recent filings by filer and form type; find filings by company name or ticker; inspect a filing's metadata and document list; and review disclosed insider transactions. Results include filing accessions and links to SEC sources and Earnings Feed.\n\nFiling search matches filer company names or tickers, not the text inside filings. Filing detail returns metadata and document names, not document text or quoted passages. Ownership filings can have different filers and issuers. Insider acquisition and disposition filters include awards, gifts and other transaction types, not just open-market purchases and sales. Results reflect the records available when requested.\n\nConnect an existing Earnings Feed account through OAuth. Requests use that account's API allowance. This plugin provides research information and does not execute trades, manage subscriptions or create filing alerts.",
       "information": [
         {
@@ -272505,7 +272965,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:24.609Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "SEC文件和内部数据",
@@ -272520,6 +272980,11 @@
           "neurons": 34.68824005126953,
           "total_tokens": 1967
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:19.631Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:19.631Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf54b5b0ac8191a6bf0bf6b0e47ae9": {
@@ -272535,7 +273000,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Kryptos brings your crypto portfolio, transaction history, tax figures and accounting ledger into ChatGPT, across 5,000+ exchanges, wallets and blockchains.\n\nAsk what you hold and what it is worth, search your transaction history by asset, wallet, label or date, review DeFi positions and NFT collections, and look at the ledger detail behind any trade.\n\nKryptos also finds the data problems that make crypto tax wrong — missing prices, missing cost basis, sells with no matching purchase, balances that disagree with the ledger, wallets you never connected — and lets you fix them in the same conversation: recategorise a transaction, correct a price, merge a transfer that detection missed, or add a trade that never made it into an export.\n\nFinance teams can map transactions to a chart of accounts, apply categorisation rules, generate double-entry journals and push them to Xero, QuickBooks or Softledger.\n\nYou sign in to Kryptos with OAuth and grant access to one workspace. Kryptos never asks for exchange API keys or wallet private keys in the conversation. It reads and records only — no tool can send, swap, withdraw, deposit or trade any asset.\n\nRequires a Kryptos account.",
       "information": [
         {
@@ -272568,7 +273033,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:26.225Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "加密货币组合、税务及账簿",
@@ -272583,6 +273048,11 @@
           "neurons": 32.023773193359375,
           "total_tokens": 1961
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:22.026Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:22.026Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad174ee0e748191be8ab712b568ab9a": {
@@ -272598,7 +273068,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Modern Collections is a collection agency for unpaid business-to-business invoices. When a customer won't pay, is past due, or has gone quiet on an overdue invoice, send it to collections from ChatGPT or Codex and we recover the B2B debt for you: we email and call the business that owes you, handle disputes, and pay out what we collect.\n\nWith this plugin you can:\n- Place an overdue or unpaid invoice for collection and attach the invoice and supporting documents.\n- See where each account stands: every email and call, why outreach is paused, disputes, payment promises and payments.\n- Answer disputes and evidence requests, record a payment the debtor made to you directly, update debtor contacts, or recall a placement.\n- Check amounts collected, fees, payouts (remittances) and monthly statements.\n\nAnything that contacts a debtor, records money or changes an account asks for confirmation first. You need a Modern Collections creditor account; placing invoices requires a verified account with a signed agreement. Business debts only: consumer debt is not accepted.",
       "information": [
         {
@@ -272631,7 +273101,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:27.851Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "收取未支付的B2B发票",
@@ -272647,7 +273117,12 @@
           "total_tokens": 1916
         }
       },
-      "lastMissingAt": "2026-10-20T04:01:04.376Z"
+      "lastMissingAt": "2026-10-20T04:01:04.376Z",
+      "detailNextAttemptAt": "2026-10-26T05:03:24.374Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:24.374Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6ac03294d61c8191a16764ef941cf798": {
       "id": "plugin_asdk_app_6ac03294d61c8191a16764ef941cf798",
@@ -272662,7 +273137,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Zone2AI estimates your Zone 2 heart rate range, the easy aerobic intensity that builds endurance, using the same method as the Zone2AI app. Give your age, and your resting heart rate if you know it; a max heart rate you have actually measured makes it more precise. You get the range in beats per minute, a plain line on how it was estimated, and the talk test to check it in your next session. It works for running, cycling and walking, for people aged 16 to 90 who train for general fitness. No sign-in is needed.\n\nIf you mention a heart condition, chest pain, heart-rate medication or pregnancy, ChatGPT tells Zone2AI only that, so it can decline to give a range; nothing is stored. In those cases Zone2AI gives no range and suggests asking your clinician instead.\n\nLimitations: the range is an estimate for general fitness, not medical advice. Zone2AI covers Zone 2 only, not other heart-rate zones, workout plans or medical questions. The result card includes a link to the Zone2AI app and one to its website.",
       "information": [
         {
@@ -272695,7 +273170,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:29.561Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "您的真实Zone 2心率",
@@ -272710,6 +273185,11 @@
           "neurons": 37.36207580566406,
           "total_tokens": 2098
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:27.295Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:27.295Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac096e64b888191b03d57982429c36e": {
@@ -272725,7 +273205,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Research reviewed supplement ingredient evidence, safety context, studied formulations, and current tracked product formulations. The plugin distinguishes ingredient-level evidence from finished-product efficacy and does not provide personalized diagnosis, treatment, or dosage recommendations.",
       "information": [
         {
@@ -272758,7 +273238,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:31.263Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "补充剂证据研究",
@@ -272773,6 +273253,11 @@
           "neurons": 27.734180450439453,
           "total_tokens": 1598
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:29.625Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:29.625Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac01e6c4d148191bb01fb1389beb701": {
@@ -272788,7 +273273,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Connect an existing Zolt account to review nutrition, adaptive TDEE, weight, hydration, workouts, and consent-gated wearable summaries; get food suggestions based on remaining targets; and prepare account changes that require a separate explicit confirmation before execution. Zolt handles sensitive health and wellness information and is intended for users age 13 and older. It is a consumer wellness service, not medical advice, diagnosis, treatment, or emergency support.",
       "information": [
         {
@@ -272821,7 +273306,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:32.953Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "营养与自适应TDEE",
@@ -272836,6 +273321,11 @@
           "neurons": 31.657480239868164,
           "total_tokens": 1770
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:31.948Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:31.948Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab7656cc794819182df857a29078be3": {
@@ -272851,7 +273341,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Ovari helps people understand perimenopause with clear, evidence-informed information about symptoms, menstrual cycles, sleep, mood and wellbeing. Ask questions naturally in Dutch or English. Ovari searches its dedicated perimenopause knowledge base to find relevant information and articles. Ovari provides educational health information and does not replace individual medical advice, diagnosis or treatment.",
       "information": [
         {
@@ -272879,7 +273369,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:34.671Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "围绝经期洞察",
@@ -272894,6 +273384,11 @@
           "neurons": 23.75882339477539,
           "total_tokens": 1493
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:34.284Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:34.284Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd1cefcb8c8191be9e37d1a9dfdea3": {
@@ -272909,7 +273404,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Kalori is a nutrition catalog for Japanese convenience stores and restaurant chains. It covers 380+ chains (Seven-Eleven, Lawson, FamilyMart, Saizeriya, Sukiya, McDonald's Japan and more) and returns calories and protein, fat, and carbohydrates for their items. Data is refreshed nightly from official chain sources, and every item carries a nutritionSource marker: official means the chain publishes the value, partial means published values completed with AI estimates, and estimated means every value is AI-estimated.\n\nA linked Kalori account is required. Personal-record features are available according to the linked account's existing access, and usage limits apply. The plugin does not offer purchases or subscription management.\n\nMain workflows: (1) find something to eat at a specific chain under a nutrition constraint, for example high-protein and under 500 kcal at Seven-Eleven; (2) look up several dishes in one call when planning a meal or a shopping list; (3) compose a meal from catalog items and render it as a meal-plan card whose totals are computed server-side from catalog values, so the numbers shown are not model estimates; (4) log what was eaten and see the day's remaining budget.\n\nSearch terms, filters, and result counts are retained as the linked account's search history to improve catalog coverage; each call also records the IP address and user-agent in private operational logs that are deleted automatically after about seven days. The tools accept no precise location, chat transcripts, or third-party account identifiers, and personal records are only ever reached through the user's own linked account.",
       "information": [
         {
@@ -272942,7 +273437,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:36.330Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "日本连锁餐饮营养信息",
@@ -272957,6 +273452,11 @@
           "neurons": 36.753292083740234,
           "total_tokens": 2162
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:36.720Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:36.720Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd7ddbc5dc81919536a6fc28d347d8": {
@@ -272972,7 +273472,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Discover wellness and fitness sessions and venues with ATHLO. Search by location, date, time and category, including yoga, Pilates, martial arts, gym access and heat-based wellness. Compare returned schedules, locations, prices and catalog availability, and inspect session and venue details. Follow result links to the ATHLO app to check booking eligibility and complete your booking. This plugin provides read-only discovery, booking and payments must be completed in the ATHLO app.",
       "information": [
         {
@@ -273000,7 +273500,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:37.987Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "找到适合您的健康生活方式",
@@ -273015,6 +273515,11 @@
           "neurons": 25.475727081298828,
           "total_tokens": 1568
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:39.049Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:39.049Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab70fd430b48191bdc6b213acfae55c": {
@@ -273058,7 +273563,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:39.746Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "比较日本的酒店",
@@ -273073,6 +273578,11 @@
           "neurons": 31.754478454589844,
           "total_tokens": 1886
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:41.340Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:41.340Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfaf3b4b408191814ae04a4dbf70a7": {
@@ -273088,7 +273598,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Train Price Tracker gives ChatGPT access to independently monitored Eurostar fare data for journeys between London, Paris, Brussels, Amsterdam, and Cologne. Use it to find the cheapest dates for a route, compare fares across a range of travel dates, view recent price history for a specific departure, generate a Eurostar booking link after choosing a journey, or record an email-alert request. Alert requests require an email address and are not active until the address is confirmed unless the MCP connection is already linked to that TrainPriceTracker account. The app does not buy tickets or take payment.",
       "information": [
         {
@@ -273121,7 +273631,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:41.399Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "追踪欧洲之星票价与日期",
@@ -273136,6 +273646,11 @@
           "neurons": 25.926565170288086,
           "total_tokens": 1604
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:44.171Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:44.171Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac03f7a68748191afe21bb433c9c3c2": {
@@ -273184,7 +273699,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:43.234Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "比较航班和票价",
@@ -273199,6 +273714,11 @@
           "neurons": 33.743873596191406,
           "total_tokens": 1869
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:46.546Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:46.546Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfa2ec494c8191bc7c45dc4ef1fa78": {
@@ -273214,7 +273734,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Find guided walks and excursions in LalaGo's public catalog. Compare descriptions, duration, published starting prices and schedule information, with links to lalago.ru. Catalog content is primarily in Russian. Prices retain their currency and per-person or per-group basis; dates can be unavailable or require confirmation. To book, open an excursion on LalaGo and continue to the supplier's website. The plugin does not reserve places or accept payments.",
       "information": [
         {
@@ -273247,7 +273767,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:44.923Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "景点导览搜索与价格",
@@ -273262,6 +273782,11 @@
           "neurons": 27.974658966064453,
           "total_tokens": 1650
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:48.795Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:48.795Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abff408f7cc8191802380f162f80343": {
@@ -273277,7 +273802,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "HPRG Hotel Concierge helps guests explore participating Hôtels Paris Rive Gauche hotels in Paris, compare hotel information, find nearby places, check room availability and pricing, review Paris weather, and calculate travel distance from selected hotels. Guests can follow hotel booking links to complete a reservation. With explicit consent, the plugin can send guest contact details and stay preferences to the selected hotel, create a contact and conversation, and return a tracked booking link. The hotel team may be notified and configured hotel integrations may receive the contact details. This does not reserve a room, hold availability, or take payment. Repeating a contact submission creates a new contact and conversation. The plugin is provided with authorization from Hôtels Paris Rive Gauche and operated by Quinta, HPRG's travel technology provider.",
       "information": [
         {
@@ -273310,7 +273835,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:46.510Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "规划HPRG酒店入住",
@@ -273325,6 +273850,11 @@
           "neurons": 28.37047576904297,
           "total_tokens": 1730
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:51.149Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:51.149Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf2778c5e881919a4a1ca47b2be69a": {
@@ -273340,7 +273870,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Find tours, activities, and hotels for your trip. Browse experiences with images, ratings, starting prices, options, and direct links. Search hotels for your dates and occupancy with point-in-time supplier rates, room details, and ratings, or check dated activity times and prices. Over The Planet is read-only: it never books, charges, or reserves inventory.",
       "information": [
         {
@@ -273373,7 +273903,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:48.106Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "发现独特的旅行体验",
@@ -273388,6 +273918,11 @@
           "neurons": 23.193675994873047,
           "total_tokens": 1477
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:53.581Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:53.581Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac07352084c81918c96bc07751889ef": {
@@ -273403,7 +273938,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Travelmart의 뉴질랜드·호주 투어, 실시간 항공권과 호텔 검색, 여행사 추천, 전체 여행 총견적, 맞춤여행 견적, 예약과 결제 기능을 ChatGPT에서 사용합니다.",
       "information": [
         {
@@ -273436,7 +273971,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:49.753Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "航空、酒店、旅游搜索及预订",
@@ -273451,6 +273986,11 @@
           "neurons": 29.921249389648438,
           "total_tokens": 1702
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:55.898Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:55.898Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab66ab6c1a081919236ce850e33b053": {
@@ -273466,7 +274006,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Find and pre-book a guaranteed parking space for football, rugby, NFL, international matches and concerts at major UK stadiums, including Tottenham Hotspur Stadium, Wembley Stadium, Ashton Gate, Bath Rugby's Recreation Ground, Selhurst Park and the Principality Stadium.\n\nAsk for a fixture, team, artist or venue and see upcoming events with live availability, the price for each vehicle type (car, 4x4, van or minibus), the booking fee, car park opening time, address, what3words and walking time to the ground. Tap Book to finish on matchdayparking.com or concertparking.co.uk, where you add your vehicle registration and pay securely.\n\nAll car parks are operated by Stadi Tech UK Ltd. The app only reads public availability and never asks for your name, contact details, registration or payment information in ChatGPT.",
       "information": [
         {
@@ -273494,7 +274034,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:51.382Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "查找并预订体育场停车位",
@@ -273509,6 +274049,11 @@
           "neurons": 32.29543685913086,
           "total_tokens": 1880
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:03:58.202Z",
+      "detailError": {
+        "at": "2026-10-26T04:03:58.202Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe48fcaee08191a2303cf4e642f3e7": {
@@ -273524,7 +274069,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Préparez votre week-end rugby. Consultez les matchs, horaires, chaînes par pays, résultats, compositions et classements disponibles sur lerugby.com. Trouvez un club en France par commune, nom ou code postal. Les informations sont datées et accompagnées de liens vers leur fiche. Sans compte ni inscription.",
       "information": [
         {
@@ -273557,7 +274102,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:53.024Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "比赛、电视转播和橄榄球俱乐部",
@@ -273572,6 +274117,11 @@
           "neurons": 25.040660858154297,
           "total_tokens": 1541
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:00.565Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:00.565Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf8a8152188191b0b9f3de2dd9916f": {
@@ -273587,7 +274137,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Bring Santa Claus into ChatGPT for Christmas stories, music, jokes, games and festive activities.\n\nSTORIES AND NEWS: Play one of 15 Christmas stories, hear the latest North Pole news, or find Santa on the tracker.\n\nMUSIC: Sing Santa's songs, play carols, start karaoke or watch Santa's Musical.\n\nCHRISTMAS FUN: Hear jokes and facts, try a silly workout or yoga, meditate, beatbox, whistle, or make Santa burp, fart, meow and woof.\n\nSANTA'S WORLD: Meet the reindeer, generate an elf name, explore the present picker, get festive fashion or movie suggestions, and make mince pies with Santa.\n\nCOUNTDOWN: Ask for sleeps, days or weeks until Christmas, or hear the local time and date.\n\nVideo is available for supported content and can be turned off in the player. The plugin never uses your microphone.",
       "information": [
         {
@@ -273620,7 +274170,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:54.621Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "与圣诞老人共度圣诞",
@@ -273635,6 +274185,11 @@
           "neurons": 38.97344207763672,
           "total_tokens": 2139
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:02.987Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:02.987Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac0498128448191bd05a5a36cb43d1f": {
@@ -273650,7 +274205,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Ten puzzle games in one place, right inside ChatGPT.\n\nWORD GAMES: Riddle Challenge with 43 riddles and hints, Word Link where five clues share a hidden link, and Theme Connect, a word chain of animals, foods or celebrities.\n\nBOARD GAMES: Tic Tac Toe and Join 4 against the computer on easy, medium or hard. Type your move in the chat or tap the board.\n\nPUZZLES: 250 Sudokus with a puzzle of the day, and Marble Solitaire.\n\nQUICK THINKING: Math Dash, Math Chain and Memory Match.\n\nSTARS AND RANKS: Earn stars for wins, solved riddles and links, sudokus and high scores, and climb twenty ranks from Cipher Novice to Puzzle Sovereign.",
       "information": [
         {
@@ -273683,12 +274238,17 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:56.268Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "40206412107:1",
       "translationError": {
         "at": "2026-10-25T15:24:30.535Z",
         "message": "Workers AI translation failed: Translation lost protected value 4",
         "transient": true
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:05.414Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:05.414Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac1384413f48191aabef837420e5da2": {
@@ -273704,7 +274264,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Use conservative classical Panchanga rules to screen candidate dates for griha pravesh, vivah, vehicle purchase, property registration and mundan. Results show the passing factors and an indicative daytime window. Outbound links carry campaign tags identifying ChatGPT as the source.",
       "information": [
         {
@@ -273737,7 +274297,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:57.877Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "择吉日",
@@ -273752,6 +274312,11 @@
           "neurons": 27.62994956970215,
           "total_tokens": 1609
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:08.275Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:08.275Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac1231ba18881918a0f5899f079afa8": {
@@ -273767,7 +274332,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Step into a candlelit tavern and make time for a little play. Enjoy classic solitaire, discover your favorite theme, and turn a quiet moment into a small victory.",
       "information": [
         {
@@ -273800,7 +274365,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:59.525Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "温馨的克隆代克纸牌游戏",
@@ -273815,6 +274380,11 @@
           "neurons": 22.047374725341797,
           "total_tokens": 1408
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:10.624Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:10.624Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abec1b3e6548191a8b0f258b69b808b": {
@@ -273830,7 +274400,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Disclaimer: this plugin is a prank plugin for entertainment purposes only.\nFart Sounds is a fart sound machine for ChatGPT. Just ask ChatGPT for a fart and enjoy all sorts of botty burps. We have Wet farts, Silent farts and funny farts galore.\n\nWHAT FART SOUNDS DOES:\nPlays fart sounds, fart songs and Mr Farts cartoons on request.\nPlays a joke fart for your friends. Just ask what sort of fart does Bob (friend's name) make.\nRuns fart countdowns: ask for a fart in 10 seconds and surprise your friends!\n\nTHE FART SOUNDS PLAYER:\nThe Fart Sounds player opens right inside your chat with a big fart button you can press. Tap it for a different fart every time.\n\nLIST OF FARTS:\nTry asking for one of these...\nLong and Crispy, Long and Windy, Cheek Wobbling, Long, Long and Squeaky, Lovely, Smelly, Quick, Quick and Squelchy, Tiny, Small, Deep, Cheeky, Relaxed, Engine Starting, Muffled, Rotten, Engine Rumbler, Trumpet, Wet and Squeaky, Wet, Very Squelchy, Bath, Springy, Guilty, Funny, Pooey, Gassy, Short and Gassy, Very Gassy, Quick Toilet, Silent, Ketchup, Squeaky Balloon, Pushing Hard, Difficult, Very Uncomfortable, Squeaky, Triumphant, 100 farts in a row.\n\nFART MUSIC:\nPlay Mr Farts first Album!\n1. Farting Round The House\n2. Reggae Farts\n3. Metal Farts\n4. Techno Farts\n5. Rock Farts\n6. Disco Farts\n7. Jazz Farts\n8. 8 D Farts (stereo farts from all directions, best with headphones)\nPlus Mr Farts cartoons!\n\nEXTREME FARTS:\nBeethoven, Happy Birthday, Fart Machine Gun, Sir Farts A Lot, Robot, Fly Swatter, Fart Gun, Can't Stop, Toilet, Froggy, Sleeping, Thunderous, Wet and Sassy, Wet and Grumpy, Tight and Fruity, Pants Ripper, Bowel Destroyer.\n\nANIMAL FARTS:\nUnicorn, dinosaur, shark, ghost, alien, dragon, cat, owl, bee, elephant, kangaroo, sheep, fox, goat, dog, lion, whale, dolphin, tiger, hyena, pig, cow, donkey, chicken, duck, goose, horse and fish.\n\nSEASONAL PACKS:\nChristmas farts from Santa, plus Easter, Halloween and Valentine's Day farts.\n\nNo account or sign-in needed. Fart weather is a joke, not a real forecast, and the plugin never uses your microphone.\n\nWith a great fart app comes great responsibility!",
       "information": [
         {
@@ -273863,7 +274433,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:36:01.146Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "放屁声、歌曲与乐趣",
@@ -273878,6 +274448,11 @@
           "neurons": 67.11233520507812,
           "total_tokens": 4104
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:13.041Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:13.041Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abee61c0fb08191abaf4d35e315fcac": {
@@ -273893,7 +274468,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Halloween Events Near Me helps you find real Halloween and fall events in a city or town in the US, Canada, the UK and Ireland, from the listings on halloween-events-near-me.com.\n\nAsk for things like haunted houses this weekend, pumpkin patches and corn mazes, trick-or-treat and other kid-friendly events, free events, Halloween parties, or what's on near an event you already found. Results show as cards with the event's dates, town, distance, price and a scare rating for haunted attractions. Each card links to the full listing with a map, the organizer's website and more events nearby. You can also ask for the full details of one event: address, schedule, ages, parking, food and tips.\n\nWho it's for: anyone planning Halloween outings, from families looking for trick-or-treat events to people looking for the scariest haunt in town.\n\nLimitations: dates are checked against each event's own website, but organizers can change them, so check with the organizer before you go. Events whose dates for this season aren't confirmed yet are labeled. The app lists events; it doesn't sell tickets or take bookings, and it only covers the US, Canada, the UK and Ireland.",
       "information": [
         {
@@ -273926,7 +274501,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:36:02.769Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "查找本地万圣节活动",
@@ -273941,6 +274516,11 @@
           "neurons": 35.05358123779297,
           "total_tokens": 2046
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:15.329Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:15.329Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf893a6d4c819185f64c29f665cd1b": {
@@ -273956,7 +274536,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Hear what animals really sound like, right inside ChatGPT.\n\nANIMAL SOUNDS: Over 240 real animal sounds, from the African wild dog, albatross and alpaca to the yak and zebra. Ask for any animal by name.\n\nFACTS: Fun facts, science facts, speed, height, weight, food and life span for every animal.\n\nLOOPS AND AMBIENT: 3-minute animal loops and ambient habitat soundscapes.\n\nAMAZING ANIMALS: Animal documentaries with video.\n\nDINOSAURS: 36 dinosaur and prehistoric sounds, including the T-Rex, woolly mammoth and saber tooth tiger, plus narrated dinosaur tours.\n\nANIMAL TOURS: Narrated tours of Africa, America, Asia, Australia, Brazil, the desert, Europe, the farm, the ice, the ocean, the rainforest and the savannah.\n\nANIMAL SONGS: 41 animal songs and music videos by Hugo FM, including the Disco Penguin Song and Reggae Frog.\n\nAUTO PLAY: 20 animal sounds in a row.\n\nThe plugin never uses your microphone.",
       "information": [
         {
@@ -273989,7 +274569,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:36:04.535Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "真实的动物声音和事实",
@@ -274004,6 +274584,11 @@
           "neurons": 61.75328063964844,
           "total_tokens": 3588
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:17.651Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:17.651Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac00c5f5f688191abed385b670eb078": {
@@ -274019,7 +274604,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Search published PartyPlace venues by neighborhood, group size, date, and event needs. Compare venue cards and open a venue page to make a request or booking on PartyPlace. Search does not create a booking, collect payment, or require a PartyPlace account.",
       "information": [
         {
@@ -274052,7 +274637,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:36:06.294Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "寻找纽约市活动场地",
@@ -274067,6 +274652,11 @@
           "neurons": 21.324398040771484,
           "total_tokens": 1397
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:20.504Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:20.504Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac00776099881918d3bbb76db459bc1": {
@@ -274082,7 +274672,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Should I Fish answers one question: should you fish a spot today or tomorrow? Ask about a town on the Virginia-to-Florida coast and it returns a Go, Maybe, or Skip verdict with its score, the best bite window for the day and why, high and low tide times from the nearest NOAA tide station, wind, moon phase, sunrise, and any active National Weather Service marine alert, called out first when one is in effect. It's built for recreational inshore and surf anglers, and for anyone at a coastal town wondering whether the morning is worth getting up for, across 136 towns on the Atlantic and Gulf coasts from Virginia through Florida. The plugin answers for today and tomorrow only. It does not forecast further ahead, identify species, say what's biting, or cover water outside Virginia-to-Florida. Tide predictions come from NOAA tide stations and marine alerts from the National Weather Service. The verdict is a model built from tide movement, solunar timing, barometric pressure trend, light, and wind: a guide for planning, not a guarantee of a catch, and not for navigation.",
       "information": [
         {
@@ -274115,7 +274705,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:36:07.918Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "潮汐与钓鱼时间",
@@ -274130,6 +274720,11 @@
           "neurons": 33.859134674072266,
           "total_tokens": 1961
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:22.740Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:22.740Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfc6ba3bcc8191a8fc8644a3e3b654": {
@@ -274145,7 +274740,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "A personal tarot reading in ChatGPT, with you in the picture. Hunch turns your selfie into tarot art and creates a one-card reading around your question, your relationships or your next chapter.\n\nYour face. Your question. A new way to see yourself.\n\nMeet yourself in the cards\nYour selfie becomes part of the artwork. See yourself through tarot symbolism, then explore what your card could mean for the moment you are in.\n\nFind a question worth asking\n• Card of the day — what deserves your attention today?\n• Love tarot — what do you need to understand about this connection?\n• Career tarot — what could help you take your next step?\n• Personal growth — what are you ready to leave behind or begin?\n\nEach experience includes\n• Personalised AI tarot art created from your selfie\n• A one-card tarot reading shaped by your question or theme\n• Your card’s name, meaning and interpretation in the chat\n• An optional handoff to the Hunch chat in WhatsApp, Telegram or iMessage, with a code for the same card\n\nMake it personal\nUpload a selfie and share what is on your mind. Hunch asks you to confirm your name, date of birth and artwork preference, using details already available in the conversation when possible. Once your card is ready, the artwork and full reading arrive together in ChatGPT.\n\nCome back with a new question, a new perspective or simply a little curiosity. Ask for your daily tarot card whenever you want a moment to check in with yourself.\n\nTry asking\n“Turn my selfie into my tarot card of the day.”\n“What should I do with the person I can’t stop thinking about?”\n“Should I take the new job offer?”\n\nNo Hunch account is needed. Your confirmed details and selfie are sent to Hunch to create your card. Cards are created on request. Daily Tarot can help set up a daily card task when your ChatGPT chat supports scheduled tasks, Hunch tools and access to your approved selfie. Choose a time and time zone; generation remains subject to availability and usage limits. Multi-card spreads are not included. To receive your card in a messenger, open its button and send the prefilled message, or press Start in Telegram.\n\nFor entertainment and self-reflection, not guaranteed predictions or medical, legal or financial advice.",
       "information": [
         {
@@ -274178,7 +274773,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:36:09.610Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "自拍塔罗，爱情与是/否解读",
@@ -274193,6 +274788,11 @@
           "neurons": 71.98735046386719,
           "total_tokens": 4152
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:25.088Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:25.088Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe5a029bac8191837e40f7a8f7f6de": {
@@ -274208,7 +274808,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Ask about dramas, cast, actors, episodes, and catalogue publication changes. MyDramaDB uses its published catalogue and approved paraphrased episode evidence, identifies gaps, and respects your viewing progress. Detailed story answers depend on the evidence available for that episode. Subtitle dialogue and transcripts are not provided. Platform links do not establish streaming availability in your country.",
       "information": [
         {
@@ -274241,7 +274841,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:36:11.232Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "剧集答案附有来源",
@@ -274256,6 +274856,11 @@
           "neurons": 22.258207321166992,
           "total_tokens": 1448
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:27.458Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:27.458Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe121045b88191872a5a9c2b5121c2": {
@@ -274271,7 +274876,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Playlistable is an AI playlist generator for Spotify and Apple Music. Describe a mood, a night, or a job to be done, and it builds a playlist in your own library — not a copy of a list you already have.\n\nIn ChatGPT you can:\n\n- Generate a playlist from a mood.\n- Search songs or artists on the connected catalog, then save a playlist from the tracks you picked.\n- List, open, refine, edit, or delete playlists you already created.\n\nSign in with Spotify or Apple Music through Playlistable OAuth. Playlists land in Your Library on the connected service. The same product is on the web at https://app.playlistable.io and at https://playlistable.io.\n\nWe do not sell a music catalog. We write playlists into the account you connect.",
       "information": [
         {
@@ -274304,7 +274909,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:36:12.978Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "AI播放列表，支持Spotify/Apple Music",
@@ -274319,6 +274924,11 @@
           "neurons": 29.193531036376953,
           "total_tokens": 1785
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:04:29.731Z",
+      "detailError": {
+        "at": "2026-10-26T04:04:29.731Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfca91bf7c819189dc71eeb2a67a53": {
@@ -390841,23 +391451,23 @@
     "runId": "40265897781",
     "runAttempt": "1",
     "startedAt": "2026-10-26T03:49:29.089Z",
-    "updatedAt": "2026-10-26T04:01:31.437Z",
+    "updatedAt": "2026-10-26T04:06:36.227Z",
     "mode": "incremental",
-    "detailRequests": 230,
+    "detailRequests": 352,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
     "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 230,
+    "errors": 352,
     "stats": {
       "total": 5174,
       "details": 4992,
       "translated": 4805,
       "missing": 46,
       "removed": 291,
-      "pendingDetails": 398,
+      "pendingDetails": 509,
       "pendingTranslations": 369
     }
   }
