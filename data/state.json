@@ -232713,7 +232713,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Turn any text into natural speech and get an MP3 link you can play or download.\n\nChoose from 2,253 voices in 149 languages and regional accents, or ask FreeTTS to suggest three voices for your language and purpose, from audiobooks and lessons to ads and podcasts.\n\nRecord a dialogue with a different voice for each speaker, build timed tracks with exact pauses, beeps and dings for presenters, actors, teachers and video voiceovers, and turn an audio link into text.\n\nSome features, such as HD voices, dialogue, timed tracks and transcription, work once you connect your FreeTTS account.",
       "information": [
         {
@@ -232746,7 +232746,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:37:41.037Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "文本转语音，支持149种语言",
@@ -232761,6 +232761,11 @@
           "neurons": 33.30548858642578,
           "total_tokens": 1886
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:41.685Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:41.685Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac528aa3b788191aa56369e42c67a07": {
@@ -232776,7 +232781,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "MapPoster turns the places in your life into a map poster: a personal gift for someone you love, or wall art for your own home.\n\nTell ChatGPT the occasion and the place, and MapPoster designs the poster right in the chat. Make a map of the street where you met as an anniversary or Valentine's gift, or of the venue where a couple got married as a wedding gift. Give friends a housewarming gift of their first home with a heart on their new street, or give someone who is moving away a map of their hometown. You can also map the city of a honeymoon or a road trip, or a baby's birthplace in soft pastels for the nursery.\n\nEvery poster is a map of a real place: a city, neighborhood, street address or landmark, in one of 50+ styles. Add your own title, names, a date, coordinates or a short message in 14 fonts, a heart or marker on the exact spot and a driving route on the map. Make it a heart-shaped, round or hexagon map, or add a gallery mat. One poster can also hold up to three places, each with its own map and label: where you met, got engaged and got married, or two cities for a long-distance couple.\n\nYou see a preview of the poster in the conversation and can try other styles and move the map right there. Screen-size designs in 15 of the styles can be downloaded as a PNG (up to 1080 px, with a small watermark). Every design opens in the MapPoster editor at mapposter.xyz to fine-tune it, and posters in the drawn map styles can be ordered there as a printed poster (from A4), a framed print or a canvas, up to 18x24 in, plus square sizes, shipped to you or straight to the person it's for.\n\nWhat you can ask for:\n- Map wall art for a living room, home office, dorm or nursery\n- Styles from minimalist black and white and vintage-style to blueprint, dark, neon, pastel and rose gold\n- Sizes for prints, square frames, Instagram and phone or desktop wallpapers\n\nLimits: up to three places per poster; a poster with several places is rectangular, with the markers and route on its first map. Routes are driving routes. The chat preview leaves out street names; the classic city map styles show them in the editor. Prints ship to 20 countries, including the US, Canada, the UK, much of Europe, Australia and Japan.\n\nStreet maps are drawn from OpenStreetMap data. MapPoster needs no account and doesn't store your posters or your conversation.",
       "information": [
         {
@@ -232809,7 +232814,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:37:42.692Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "地图海报礼品和墙艺",
@@ -232824,6 +232829,11 @@
           "neurons": 46.86819076538086,
           "total_tokens": 2717
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:44.628Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:44.628Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac1864f175481919d6b35b31fec47f8": {
@@ -232839,7 +232849,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Make and improve browser games with your coding agent, then bring them to PlayDrop. Upload your game and its complete listing, playtest a private draft, and publish the version you tested to a shareable PlayDrop link.\n\nOpen Your games from the sidebar and compare Live and Draft beside your conversation. Use PlayDrop review feedback to improve your game and listing for distribution. Discovery eligibility depends on the game review; placement is not guaranteed.\n\nYour source code stays in your own project. Games created in PlayDrop Studio open on the PlayDrop website. Local development uses the PlayDrop Dev page in a compatible browser.\n\nA PlayDrop account is required.",
       "information": [
         {
@@ -232872,7 +232882,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:37:44.431Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "构建、测试并分享游戏",
@@ -232887,6 +232897,11 @@
           "neurons": 29.33914566040039,
           "total_tokens": 1755
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:46.894Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:46.894Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abea8e4abb4819195c4c75bbd98448b": {
@@ -232902,7 +232917,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Create social slideshows and product videos using your Doublespeed templates and media. Browse sample folders, pinned templates, and brand knowledge, then save editable drafts and share review links. Scoped to the Doublespeed products your account can access.",
       "information": [
         {
@@ -232935,7 +232950,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:37:46.130Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "创建幻灯片和视频",
@@ -232950,6 +232965,11 @@
           "neurons": 25.80419158935547,
           "total_tokens": 1544
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:49.835Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:49.835Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa17e078aa08191987ebd6acc4cab74": {
@@ -232965,7 +232985,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Create and refine interactive story drafts in Tikita. Connect your account to edit characters, episodes, variables, example dialogue, lorebook entries and image links in stories you own. Review edits and save them in Tikita Studio; publishing is a separate step.",
       "information": [
         {
@@ -232993,7 +233013,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:37:47.751Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37921318699:1",
       "translation": {
         "summary": "创建Tikita故事草稿",
@@ -233008,6 +233028,11 @@
           "neurons": 25.16884422302246,
           "total_tokens": 1524
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:52.206Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:52.206Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a79d492060481919fb188c452851097": {
@@ -233023,7 +233048,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Vivideo helps users create AI videos from text or images, build presenter videos, estimate generation credits, and view videos saved in their Vivideo account through ChatGPT.",
       "information": [
         {
@@ -233051,7 +233076,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:37:49.371Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "创建和管理AI视频",
@@ -233066,6 +233091,11 @@
           "neurons": 25.90842056274414,
           "total_tokens": 1533
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:54.662Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:54.662Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe189ddecc819181fbc41f165c201c": {
@@ -233081,7 +233111,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Blink turns a description into a working app, with a database, sign-in, a backend and hosting, and publishes it to a live link. You do it all from this conversation.\n\nWhat you can do:\n• Build an app by describing it: a client portal, a booking site, an internal dashboard, a landing page or a mobile app.\n• Change it by asking: \"add a dark mode toggle\" or \"let clients approve deliverables\".\n• Answer Blink's questions right in the chat when it needs a decision, like which kind of app or which look.\n• See the finished app right in the chat, with a screenshot and what changed, then publish it to a live URL.\n• Look inside any project: list your projects, read the source at any saved version, compare two versions, query the database, and read backend logs when something fails.\n• Restore an earlier version if a change went wrong.\n\nHow it works: connecting is a normal sign-in, and you choose which Blink workspace to grant. Code changes always go through Blink's agent, so your app's source and its saved versions stay in step. You can disconnect at any time from Blink Settings, Access Tokens, Connected apps.",
       "information": [
         {
@@ -233114,7 +233144,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:37:55.275Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "构建网站和移动应用",
@@ -233129,6 +233159,11 @@
           "neurons": 32.311683654785156,
           "total_tokens": 1945
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:57.055Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:57.055Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac05d3702848191be96a9eff2f2eddf": {
@@ -233144,7 +233179,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Describe your token and get a complete tokenomics model: allocation buckets with token amounts, vesting (TGE unlock, cliff, linear), a month-by-month circulating-supply schedule rendered as a chart, FDV and initial market cap at a launch price, and warnings where the design deviates from what buyers and exchanges expect. Presets for DeFi, gaming, meme, infrastructure and DAO tokens, or pass custom buckets.\n\nTools:\n• design_tokenomics — Build a full allocation + vesting model with a 48-month circulating-supply schedule, FDV / initial market cap and sanity warnings.\n• vesting_schedule — Month-by-month unlock table for one allocation given TGE unlock %, cliff and linear vesting months.\n\nTargets questions like: “tokenomics template”; “token allocation calculator”; “token vesting schedule calculator”; “tokenomics design”; “token distribution model”; “token unlock schedule”.\n\nDocumentation: https://tokenos.ai/mcp/tokenomics-designer\n\nOutputs are informational — on-chain reads, deterministic calculators and heuristic scans — not financial, legal or security advice. TokenOS is non-custodial and never holds keys or funds; anything you launch, deploy or sign happens from your own wallet.",
       "information": [
         {
@@ -233177,7 +233212,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:37:56.917Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38025747139:1",
       "translation": {
         "summary": "分配与锁定期设计",
@@ -233192,6 +233227,11 @@
           "neurons": 33.871585845947266,
           "total_tokens": 2014
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:06:59.319Z",
+      "detailError": {
+        "at": "2026-10-26T04:06:59.319Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac05bbc65ec81919be681e84b10b116": {
@@ -233207,7 +233247,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Look up any Solana wallet address to see its SOL balance, every SPL and Token-2022 holding with live USD values, and recent activity. Paste a token mint to get supply, price, market cap, mint/freeze authority status, top-holder concentration and a plain-English risk read. Paste a transaction signature to get it explained. Read-only: nothing to connect or sign.\n\nTools:\n• inspect_wallet — Return SOL balance, all token holdings with USD values, total tracked value and the 10 most recent transactions for a Solana wallet address.\n• check_token — Return supply, price, market cap, mint/freeze authority status, metadata mutability, top-20 holders with concentration, and a heuristic rug-risk score for a token mint.\n• explain_transaction — Decode a transaction signature: status, fee, programs invoked, SOL and token balance changes, and the last log lines.\n\nTargets questions like: “check solana wallet”; “solana wallet balance”; “what tokens does this wallet hold”; “is this token a rug”; “solana token holders”; “solana transaction explained”.\n\nDocumentation: https://tokenos.ai/mcp/wallet-inspector\n\nOutputs are informational — on-chain reads, deterministic calculators and heuristic scans — not financial, legal or security advice. TokenOS is non-custodial and never holds keys or funds; anything you launch, deploy or sign happens from your own wallet.",
       "information": [
         {
@@ -233240,7 +233280,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:37:58.549Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38025747139:1",
       "translation": {
         "summary": "钱包、代币、风险检查",
@@ -233255,6 +233295,11 @@
           "neurons": 35.6126823425293,
           "total_tokens": 2111
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:01.778Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:01.778Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd51b0891c81918954286cdd388fa3": {
@@ -233270,7 +233315,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "EmpirioLabs AI connects ChatGPT to your EmpirioLabs account, so you can use its catalog of more than 180 AI models from a conversation.\n\nWhat you can do:\n- Chat with text and multimodal models, create embeddings, rerank documents, and get yes/no or multiple-choice answers from decision models.\n- Generate and edit images, and create video, speech, music, sound effects and 3D assets.\n- Transcribe audio and analyze images.\n- Search the web and get grounded answers with their sources.\n- Run agent tasks, submit batch jobs, follow generation jobs, and review your account usage.\n\nWho it is for: developers and creators who use EmpirioLabs and want its models inside ChatGPT.\n\nLimitations: an EmpirioLabs account is required, and each request runs on that account. Longer generations return a job that the app checks until the result is ready. Account settings and API keys are managed in the EmpirioLabs dashboard.",
       "information": [
         {
@@ -233298,7 +233343,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:00.155Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "运行180+种AI模型作为工具",
@@ -233313,6 +233358,11 @@
           "neurons": 37.465476989746094,
           "total_tokens": 2098
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:04.120Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:04.120Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abadab6e7d881919e7491d52c7846e8": {
@@ -233328,7 +233378,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Explore MCP Extensions through an interactive CAD parts library in ChatGPT and Codex. Browse sample parts, inspect CAD files, and try sidebar apps, file viewers, composer mentions, forms, settings, citations, and deep links. Available features depend on host support.",
       "information": [
         {
@@ -233361,7 +233411,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:01.828Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "探索插件扩展功能",
@@ -233376,6 +233426,11 @@
           "neurons": 25.66568946838379,
           "total_tokens": 1542
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:06.982Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:06.982Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac19ea1f9488191a0a16ee661f57e60": {
@@ -233391,7 +233446,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Vibecode turns a conversation into a real, native iPhone app.\n\nDescribe what you want to make, like a calorie tracker, a habit app or a simple game, and ChatGPT turns it into a build brief for Vibecode. You can follow the build right in the chat, including Vibecode's agent testing the app on an iPhone simulator. When it's done, the finished app runs on a live simulator inside ChatGPT, so you can tap through it before you go anywhere else.\n\nWhen you're ready to keep going, open the project in Vibecode on the web, scan a QR code to open it in the Vibecode iPhone app, or start publishing it to the App Store from Vibecode.\n\nAsk for changes to an app you've built, like a new screen, a different color or a fix, and Vibecode's agent makes them and tests them, right in the chat. Ask to see your Vibecode apps at any time to pick up an app you've already built.\n\nConnect your Vibecode account when ChatGPT asks; every app you build lives in that account.",
       "information": [
         {
@@ -233424,7 +233479,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:03.464Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "构建iPhone和网页应用",
@@ -233439,6 +233494,11 @@
           "neurons": 41.4375114440918,
           "total_tokens": 2247
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:09.308Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:09.308Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a866f07fc108191af4acee29c25b378": {
@@ -233454,7 +233514,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Build apps and integrations for smart locks, access control systems, thermostats, and other connected devices with Seam. Give your coding assistant access to Seam's documentation, device catalog, API references, and project setup workflows.\n\nAsk which devices Seam supports, compare capabilities by managing system, look up API parameters, and get implementation guidance for Access Grants, PIN codes, mobile keys, and device integrations. The plugin searches relevant references and retrieves full guides and API definitions to help your assistant write code using Seam.\n\nThe public plugin works without an account or API key and provides reference content and setup guidance. Its setup workflow explains how to connect a project to a Seam workspace and authorize the separate authenticated MCP connection. Live workspace access and device operations require that additional connection and appropriate permissions.",
       "information": [
         {
@@ -233482,7 +233542,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:05.060Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37921318699:1",
       "translation": {
         "summary": "自动化智能设备",
@@ -233497,6 +233557,11 @@
           "neurons": 27.688053131103516,
           "total_tokens": 1711
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:11.656Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:11.656Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac05dd7a5d88191a8ffe686556b9a3b": {
@@ -233512,7 +233577,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Heuristic security scan of Solidity and Solana (Anchor / native Rust) contracts: reentrancy patterns, missing access control, tx.origin, delegatecall, weak randomness, unchecked calls, missing signer / owner / PDA bump checks, unchecked arithmetic and more — each with line numbers, severity and a fix, plus an overall letter grade. Read-only: the code you paste is analysed in memory and never stored.\n\nTools:\n• quick_audit — Static heuristic scan of a Solidity or Solana (Anchor / Rust) contract: findings with severity, line numbers and fixes, plus a letter grade.\n\nTargets questions like: “audit my solidity contract”; “smart contract security checker”; “is this contract safe”; “solidity vulnerability scanner”; “anchor program audit”; “reentrancy check”.\n\nDocumentation: https://tokenos.ai/mcp/contract-audit\n\nOutputs are informational — on-chain reads, deterministic calculators and heuristic scans — not financial, legal or security advice. TokenOS is non-custodial and never holds keys or funds; anything you launch, deploy or sign happens from your own wallet.",
       "information": [
         {
@@ -233545,7 +233610,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:06.651Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "扫描 Solidity 和 Anchor 代码",
@@ -233560,6 +233625,11 @@
           "neurons": 36.01573181152344,
           "total_tokens": 2064
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:14.554Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:14.554Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf1f14e5c881919015134a52f60ee4": {
@@ -233575,7 +233645,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "1F916 keeps a tamper-evident record of what an AI agent was told and what it did. Before acting, the assistant records the instruction and the action it is about to take. Afterwards it adds the result to the same record. It can also seal a memory, so a later session can check whether it changed.\n\nEach record is chained into a public log. Every few minutes the registry signs a stamp over the whole log, independent witnesses countersign the stamps, and copies are sent to Bitcoin (OpenTimestamps) and Base. A record altered afterwards would no longer match the published stamps, and anyone can check that with the inclusion and consistency proofs this app returns.\n\nBy default only fingerprints (SHA-256) are public. The text stays with you, or is stored encrypted to your key.\n\nThis app moves no money and calls nothing outside the 1F916 registry. Reading needs no sign-in. Writing asks you to sign in once: register the assistant as an agent with its own 1F916 handle, or connect one that already exists.",
       "information": [
         {
@@ -233608,7 +233678,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:08.389Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "记录AI代理接收到的指令内容",
@@ -233623,6 +233693,11 @@
           "neurons": 31.686416625976562,
           "total_tokens": 1916
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:17.356Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:17.356Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe89f7f5d88191b9422522bb8562a4": {
@@ -233638,7 +233713,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Graphify helps developers explore authorized indexed repositories, trace call paths and dependencies, assess static change impact, find linked tests, and retain workspace-specific engineering knowledge through ChatGPT.",
       "information": [
         {
@@ -233666,7 +233741,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:10.122Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "代码库的知识图谱",
@@ -233681,6 +233756,11 @@
           "neurons": 22.734420776367188,
           "total_tokens": 1428
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:19.670Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:19.670Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac05d84bac48191adc95e92fcb1b6a8": {
@@ -233696,7 +233776,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Tell it the token name, ticker, chain and goal and get a complete launch plan: network and platform costs in SOL or ETH, what to prepare (logo, socials, wallet), the launch steps, a pre-flight checklist, the mistakes that sink launches, and a link to the TokenOS launch documentation. Compare Pump.fun, pons on Robinhood Chain and plain SPL mints, or estimate the total launch cost.\n\nTools:\n• plan_token_launch — Produce a step-by-step launch plan for a token: costs, preparation, launch steps, checklist, pitfalls and a link to the launch documentation.\n• compare_launch_platforms — Compare Pump.fun (Solana), pons (Robinhood Chain) and a plain SPL mint: wallet, cost, bonding curve and graduation, speed, audience.\n• token_launch_costs — Estimate the total cost to launch a token on Solana or Robinhood Chain, including an optional initial buy.\n\nTargets questions like: “how to create a solana token”; “how to launch a token on solana”; “launch token on pump.fun”; “token launch checklist”; “token launch guide”; “pump.fun launch cost”.\n\nDocumentation: https://tokenos.ai/mcp/token-launch-planner\n\nOutputs are informational — on-chain reads, deterministic calculators and heuristic scans — not financial, legal or security advice. TokenOS is non-custodial and never holds keys or funds; anything you launch, deploy or sign happens from your own wallet.",
       "information": [
         {
@@ -233729,7 +233809,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:11.737Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38025747139:1",
       "translation": {
         "summary": "规划Solana代币发行",
@@ -233744,6 +233824,11 @@
           "neurons": 33.933841705322266,
           "total_tokens": 2061
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:22.541Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:22.541Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac05c7c76888191822b2dcfcd574a06": {
@@ -233759,7 +233844,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Ask for gas fees right now and get every supported chain side by side: base fee, slow / standard / fast priority tiers, the USD cost of a transfer, ERC-20 transfer, swap, NFT mint and contract deployment, trend and congestion, and which chain is cheapest at this moment. Estimate any transaction from gas or compute units, or rank chains by deployment cost for a given bytecode size. Live from public RPCs, read-only.\n\nTools:\n• gas_now — Current fees on Ethereum, Base, Arbitrum, Robinhood Chain and Solana: base fee, slow/standard/fast tiers, USD cost per transaction type, trend and the cheapest chain.\n• estimate_tx_cost — Cost of one transaction on a chain at a speed tier, by transaction type (transfer, erc20_transfer, swap, nft_mint, deploy) or explicit gas / compute units.\n• cheapest_chain_to_deploy — Rank Ethereum, Base, Arbitrum, Robinhood Chain and Solana by the cost of deploying a contract or program of a given bytecode size.\n\nTargets questions like: “ethereum gas fees now”; “gas price today”; “base gas fee”; “arbitrum gas fees”; “solana priority fee”; “cheapest chain to deploy smart contract”.\n\nDocumentation: https://tokenos.ai/mcp/gas-tracker\n\nOutputs are informational — on-chain reads, deterministic calculators and heuristic scans — not financial, legal or security advice. TokenOS is non-custodial and never holds keys or funds; anything you launch, deploy or sign happens from your own wallet.",
       "information": [
         {
@@ -233792,7 +233877,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:13.442Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38158285893:1",
       "translation": {
         "summary": "五大链的实时费用",
@@ -233807,6 +233892,11 @@
           "neurons": 37.44875717163086,
           "total_tokens": 2195
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:24.891Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:24.891Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac3f2cb2b608191b91136b4cf737358": {
@@ -233822,7 +233912,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Makes your agent fluent in incident.io: responding to and investigating incidents, working with on-call schedules and escalations, and authoring the operational content — runbooks, skills, and plugins — that incident.io investigations draw on. Bundles the official incident.io MCP server.",
       "information": [
         {
@@ -233855,7 +233945,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:15.308Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "在您的代理中使用incident.io",
@@ -233870,6 +233960,11 @@
           "neurons": 21.978242874145508,
           "total_tokens": 1421
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:27.250Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:27.250Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac05ce87ebc8191b85353abc012c937": {
@@ -233885,7 +233980,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Turn an idea into a buildable dApp spec: detected features (NFT mint, token page, staking, swap, DAO, marketplace, game, dashboard, AI agent…), pages, components, data model, wallet and contract integrations for Solana, Base, Robinhood Chain, Ethereum or Arbitrum, the recommended model and a credit estimate. One link opens the TokenOS Development Workspace with the prompt pre-filled — build, preview, deploy and host without leaving the browser.\n\nTools:\n• plan_dapp — Turn the user's app idea into a spec (features, pages, components, data model, Web3 integrations, stack, steps, credit estimate) with a pre-filled TokenOS IDE link. Only call with the user's own description — if the request is vague (e.g. “build an app”), ask the user what the app should do and for whom first; never invent an idea.\n• recommend_models — Pick the best, balanced and cheapest frontier models from the live TokenOS roster for a build task, with price multipliers.\n• tokenos_capabilities — Reference: supported chains, deployment targets, hosting, token launch, agents, payments and credits.\n\nTargets questions like: “build a dapp with ai”; “generate solana app”; “ai web3 app builder”; “create nft minting website”; “build dao website”; “no code dapp builder”.\n\nDocumentation: https://tokenos.ai/mcp/dapp-builder\n\nOutputs are informational — on-chain reads, deterministic calculators and heuristic scans — not financial, legal or security advice. TokenOS is non-custodial and never holds keys or funds; anything you launch, deploy or sign happens from your own wallet.",
       "information": [
         {
@@ -233918,7 +234013,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:17.054Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38025747139:1",
       "translation": {
         "summary": "将创意转化为可构建的dApp规范",
@@ -233933,6 +234028,11 @@
           "neurons": 40.72639465332031,
           "total_tokens": 2328
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:29.583Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:29.583Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab5367bb03081918cc4f618a2e4d21c": {
@@ -233948,7 +234048,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Connect your ActiveLayer account to review recent spam checks, inspect submitted fields, verdicts, overall scores and feedback, and see your plan allowance and usage. Detection details can include submitted messages, sender names and email addresses, website URLs, and IP addresses. Internal detection signals, weights, and scoring breakdowns are not returned. Test a sample message with the detector, correct a false positive or false negative, or create a project for a WordPress site or custom application and follow its setup instructions. Feedback replaces any earlier feedback for the selected detection. API keys are generated in your ActiveLayer dashboard and copied directly into your site configuration, never into chat. An ActiveLayer account is required. Demo checks send the supplied fields to ActiveLayer's detection service, are limited to 30 per account per hour, and do not use your account's check allowance or appear in its detection history. A demo result does not verify that your website integration is installed or working.",
       "information": [
         {
@@ -233976,7 +234076,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:18.663Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "用于表单的垃圾信息防护",
@@ -233991,6 +234091,11 @@
           "neurons": 30.811420440673828,
           "total_tokens": 1833
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:31.929Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:31.929Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac4f28bdf8c81918d5932fe22e7d8e2": {
@@ -234006,7 +234111,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Open your Rill recordings beside chat, inspect a moment and captured diagnostics when available, and draft reports with timestamp links. You can also request recorded browser tasks on public websites using your Rill run credits. A connected Rill account is required.",
       "information": [
         {
@@ -234039,7 +234144,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:20.285Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "回放、审查、报告错误",
@@ -234054,6 +234159,11 @@
           "neurons": 26.53558349609375,
           "total_tokens": 1568
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:34.302Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:34.302Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfe09f9cdc8191ae2c139c893d501f": {
@@ -234069,7 +234179,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Accessibility Repair loads a public web page in a real browser and runs automated WCAG 2.2 A and AA checks: axe-core, IBM Equal Access, and checks for keyboard focus, dialogs, overlays and age gates, ARIA references, zoom, reflow and text spacing. Each failure comes back with its WCAG criterion, the number of instances, the evidence, the fix, and the guard: what breaks if the fix is applied without care. Results are automated test results for one page at desktop width. They are not a compliance determination.",
       "information": [
         {
@@ -234102,7 +234212,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:21.923Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "发现并修复WCAG问题",
@@ -234117,6 +234227,11 @@
           "neurons": 28.589847564697266,
           "total_tokens": 1688
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:36.658Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:36.658Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a85ce4e2e20819185c9bc88d5d99503": {
@@ -234132,7 +234247,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Pi Security helps users investigate security findings, review threat-model, Code Gatekeeper, and software-dependency posture, retrieve remediation and secure-development guidance, and take confirmed actions such as starting reviews, importing reports, updating issue state, and creating remediation pull requests.",
       "information": [
         {
@@ -234160,7 +234275,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:23.580Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37921318699:1",
       "translation": {
         "summary": "调查安全发现",
@@ -234175,6 +234290,11 @@
           "neurons": 25.616718292236328,
           "total_tokens": 1537
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:39.019Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:39.019Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd5b9f16fc81918e91c8545e859b1a": {
@@ -234254,7 +234374,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Uptimely is an uptime monitoring and incident management platform. The Uptimely plugin lets ChatGPT work across your projects: read a project overview, list and open monitors along with their status history and targets, list and open incidents, list alerts, list maintenance windows, see who is currently on call, list status pages, and list telemetry services. With write access enabled it can also create a monitor, run an on-demand monitor probe, declare an incident, change incident or alert state, save a postmortem, and create an alert.\n\nYou connect by signing in to your existing Uptimely account over OAuth 2.1 with PKCE, granting a subset of thirteen granular scopes at the consent screen; project API keys work for non-interactive clients. Every call names the project it acts on — there is no ambient current project — and access is checked against your real Uptimely membership, so one connection cannot reach a project you are not a member of. All seven write tools stay inert until a project owner turns on Allow AI write operations, which is off by default, because some of them page real people or change what a public status page shows. Connected assistants can be reviewed and revoked at any time from Connected AI apps in your user settings.\n\nTwenty tools over Streamable HTTP: thirteen read-only and seven write. The six tools that dispatch outside Uptimely are marked as such in their metadata. The plugin processes no payments, generates no images, video, or audio, and serves no ads.",
       "information": [
         {
@@ -234282,7 +234402,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:26.954Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "可用性监控与事件管理",
@@ -234297,6 +234417,11 @@
           "neurons": 33.09062576293945,
           "total_tokens": 2024
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:41.372Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:41.372Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab4efdf6b2081918af783da376edf18": {
@@ -234312,7 +234437,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Sonar helps app developers research keywords, audit store listings, and understand competitors on the iOS App Store and Google Play. Look up apps, compare keyword difficulty and popularity estimates, and analyze reviews. Connect an existing Sonar account to inspect tracked rankings, discover keyword gaps, manage tracking and alerts, and create screenshot layouts for review in Sonar.\n\nPublic lookups have limited anonymous access. Account features depend on the connected account's existing permissions and entitlements. Popularity and revenue figures are estimates, and historical rankings are available only where tracking data exists. Workspace changes are performed only through the corresponding write tools. Sonar does not publish app listings to either store.",
       "information": [
         {
@@ -234340,7 +234465,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:28.583Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "应用商店优化",
@@ -234355,6 +234480,11 @@
           "neurons": 24.689313888549805,
           "total_tokens": 1588
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:43.789Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:43.789Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd288f01208191b91aa127d643cad4": {
@@ -234370,7 +234500,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Beste builds and runs websites. Connect your Beste account to create a new site from a short brief, or to work on one you already have, without leaving the conversation.\n\nWhat you can do:\n- Start a site: describe the business in a sentence or two and watch the site being built, page by page, in a live preview next to the chat. You get three finished pages, a live link and a link to edit them.\n- See every change: the live preview shows the draft exactly as it will look once published, updates the moment something changes, and opens any page in Beste Studio in one click.\n- Edit a site: change headlines and copy, add or remove sections and pages, set the navbar and footer, and adjust animations.\n- Go multilingual: add a language and translate pages in place.\n- Write blog posts, manage products and forms, and set SEO titles and descriptions.\n- Measure: put GA4 or Meta pixel events on the links that matter, as a funnel.\n- Review: list what still reads like demo content before you share the site.\n\nEvery change is saved as a draft. Nothing goes live until you ask for it to be published.\n\nYou need a Beste account. Images can be generated with AI credits from your Beste account.",
       "information": [
         {
@@ -234403,7 +234533,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:30.200Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "构建和编辑网站",
@@ -234418,6 +234548,11 @@
           "neurons": 27.542083740234375,
           "total_tokens": 1808
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:46.120Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:46.120Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac036b9c85c8191b99021c5935ec581": {
@@ -234433,7 +234568,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Pethost is a small cloud for personal projects: one dedicated machine that runs your Docker Compose projects. Say \"deploy this\" and it is live, with HTTPS, backups and logs. The skill says when Pethost is the answer and how to deploy; the Pethost MCP server does the work and looks after what already runs there: logs, domains, secrets, rollbacks, files and shell commands. It signs in by OAuth: you approve the agent in your browser.",
       "information": [
         {
@@ -234466,7 +234601,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:31.840Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "部署并托管您的项目",
@@ -234481,6 +234616,11 @@
           "neurons": 24.537532806396484,
           "total_tokens": 1544
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:48.518Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:48.518Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab3db3d20bc8191883c0ca13563ad23": {
@@ -234496,7 +234636,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Add a feature idea or task in the Cherry Notes iOS app (Android coming soon) and it is waiting for your AI agent before you are back at your desk. Connect ChatGPT to Cherry Notes and it can show your list, pick an item to work on, and mark it done when finished.\n\nYour agent can read, pick, and complete items. Creating and editing stays in the app on your phone, so the list is always yours.",
       "information": [
         {
@@ -234524,7 +234664,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:33.448Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37921318699:1",
       "translation": {
         "summary": "待办事项AI助手",
@@ -234539,6 +234679,11 @@
           "neurons": 25.552448272705078,
           "total_tokens": 1579
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:50.868Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:50.868Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a6319975aa88191b9d07c955b85c35a": {
@@ -234554,7 +234699,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "AdsAgent helps advertising operators inspect Meta performance, manage reusable launch templates, prepare campaign changes, and execute explicitly confirmed Meta advertising actions through ChatGPT. OAuth connects to the operator's own AdsAgent workspace; advertising delivery changes require explicit confirmation, and workspace templates and settings can be edited directly at the user's request. AdsAgent never asks for health, payment-card, government-ID, or biometric data.",
       "information": [
         {
@@ -234582,7 +234727,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:35.073Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "安全管理Meta广告",
@@ -234597,6 +234742,11 @@
           "neurons": 34.349342346191406,
           "total_tokens": 1849
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:53.677Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:53.677Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a974423e52081918e9fc544de367f1c": {
@@ -234612,7 +234762,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Atlas is your AI contract agent. Unlimited e-sign is free, with no credit card required.\n\nDraft an agreement in the conversation, or share a PDF or DOCX, and Atlas turns it into a signable document: it detects signature lines, dates, and fields, and works out who signs what. You get a review link, click Send, and signers get a clean signing page on any device with no account needed.\n\nAsk things like \"send this MSA to sarah@acme.com for signature,\" \"who still hasn't signed?\", \"remind them,\" or \"pull the payment terms from the signed contract.\" Repeat sends run from saved templates in one message.\n\nAtlas is review-first: it prepares everything and a human approves before any signature request goes out. Every signed document includes a completion certificate and a full audit trail.",
       "information": [
         {
@@ -234640,7 +234790,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:36.683Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37921318699:1",
       "translation": {
         "summary": "在聊天中发送和签署合同",
@@ -234655,6 +234805,11 @@
           "neurons": 32.109859466552734,
           "total_tokens": 1879
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:56.006Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:56.006Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd30084f3c8191970f2cf6fbab7189": {
@@ -234733,7 +234888,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Intentwise AI Gateway is the intelligence layer between your commerce data and your AI assistant. Built on the Intentwise Commerce Observability Platform, it unifies advertising, retail, inventory, and competitive signals across Amazon, Walmart, Criteo, Meta, TikTok, Google, and other marketplaces into one connected, AI-ready foundation — the ground truth for both people and AI agents to act on\n\nAsk deep business questions in plain English and get accurate, domain-specific answers. A structured semantic layer, enriched with your own taxonomies and brand context, interprets commerce signals correctly and reduces hallucinations, so responses reflect the real structure and language of your business. No SQL, no waiting on dashboards. Diagnose what's driving performance, compare periods, spot trends, break results down by campaign, product, or marketplace, and build custom reports on demand.\n\nAI Gateway also turns visibility into controlled execution — discovering audiences and targets and building campaigns, always with your confirmation before anything changes. As the platform grows, the Gateway continues to expand across intelligence, automation, and agent-driven workflows.\n\nRead capabilities retrieve and analyze your data; write capabilities act only after you approve.",
       "information": [
         {
@@ -234761,7 +234916,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:39.996Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37921318699:1",
       "translation": {
         "summary": "分析、管理广告和零售",
@@ -234776,6 +234931,11 @@
           "neurons": 30.03805160522461,
           "total_tokens": 1867
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:07:58.324Z",
+      "detailError": {
+        "at": "2026-10-26T04:07:58.324Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa13b5f64d0819196fc40d7a6d81a43": {
@@ -234791,7 +234951,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Statable is privacy-friendly web analytics. This plugin points ChatGPT at your own numbers, so \"how did the pricing page do last week\" becomes a real query against your site instead of a guess.\n\nRead what the dashboard draws: visitors over time, top pages, sources, countries, custom events, goal completions, funnel reports and who is on the site right now. Break the numbers down and filter them the same way the dashboard does.\n\nIt also sets sites up. Add a website and get its tracking snippet, create and edit goals and funnels, adjust tracking settings and site filters. It cannot alter or delete the analytics themselves, and there is no delete tool of any kind.\n\nSign in once through your browser. Nothing to paste, no key to create, no configuration beyond the server address. Statable collects no cookies, needs no analytics consent banner, and hosts the data in the EU.",
       "information": [
         {
@@ -234819,7 +234979,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:41.646Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37921318699:1",
       "translation": {
         "summary": "阅读并设置网络分析",
@@ -234834,6 +234994,11 @@
           "neurons": 32.33622741699219,
           "total_tokens": 1900
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:08:00.674Z",
+      "detailError": {
+        "at": "2026-10-26T04:08:00.674Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab4551bcf788191a24d65b7927d145f": {
@@ -234849,7 +235014,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "AfAMax provides free, non-binding calculations for German residential real estate. Estimate building depreciation (AfA), remaining useful life, annual and monthly depreciation, indicative tax effects, or allocate a purchase price between land and building using the German BMF methodology. Inputs are validated, tools are read-only and idempotent, and results include assumptions, limitations, attribution, and a disclaimer. Operated by Rundum Immo UG in Heidelberg, Germany. For informational planning only; not a substitute for tax, legal, or professional appraisal advice.",
       "information": [
         {
@@ -234877,7 +235042,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:43.339Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37921318699:1",
       "translation": {
         "summary": "德国房产计算",
@@ -234892,6 +235057,11 @@
           "neurons": 31.71214485168457,
           "total_tokens": 1793
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:08:03.025Z",
+      "detailError": {
+        "at": "2026-10-26T04:08:03.025Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfd82b49808191a95e1490c8b4afaa": {
@@ -234907,7 +235077,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "GetMint shows you how AI models talk about your brand. Ask about a domain or topic you track and get your visibility score against competitors, a share-of-voice leaderboard, how models describe your brand, and the exact sources they cite. Then act on it in the same conversation: research a content brief, edit the outline, and generate the article. Requires a GetMint account.",
       "information": [
         {
@@ -234935,7 +235105,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:45.003Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "追踪您的品牌在AI答案中的表现",
@@ -234950,6 +235120,11 @@
           "neurons": 30.305442810058594,
           "total_tokens": 1718
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:08:05.369Z",
+      "detailError": {
+        "at": "2026-10-26T04:08:05.369Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf096e940481919f87c14a9aee2e24": {
@@ -234965,7 +235140,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Autelica is a sports video analysis app. It measures human movement from ordinary phone videos: how fast you ran, how far you went, your knee and hip angles and your left-right balance, with a 3D replay of the motion.\n\nAttach a video of your sprint, jump, cut or swing and ask how fast you were. Autelica measures the whole motion, not a few frames: top speed, distance, knee and hip angles and left-right balance, with a 3D view you can orbit. One video gives an estimate, clearly labelled. Two to four videos of the same moment, filmed at the same time from different sides, give a measurement: Autelica lines up the clips, works out where each camera was from the athlete's own body and rebuilds every joint in 3D. While it processes, the card shows your place in the queue; when it's done, ChatGPT explains what the numbers mean and what to work on.\n\nNo video yet? Open an example: a real athlete filmed by three drones or three tripod cameras, rebuilt as a photoreal replay you can freeze and fly around, with its measured numbers. Or ask how to film: Autelica gives a setup for the number of phones you have.\n\nBeat the sprint is a game built on the same motion: tap on each footstrike to race a real athlete's captured run, then send a friend a link to race your ghost.\n\nEach result carries a grade that says how well the cameras agreed, and nothing about the athlete is generated. No account needed. Numbers are measurements from video with stated accuracy, not medical advice.",
       "information": [
         {
@@ -234998,7 +235173,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:46.745Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "以3D方式测量您的动作",
@@ -235013,6 +235188,11 @@
           "neurons": 32.82038497924805,
           "total_tokens": 2055
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:08:07.690Z",
+      "detailError": {
+        "at": "2026-10-26T04:08:07.690Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd20a1eea08191bf6f02b5461ad3f5": {
@@ -235092,7 +235272,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "ExplorationMaps helps mineral exploration teams search public mineral-claim registries and create shareable claim, investor and infrastructure maps. Select a specific project by exact claim numbers, add company website branding and verified project facts, and show nearby claims separately on a chosen basemap with a locator inset and project callout.\n\nPublic registry searches and map previews require no account. Preview links are unlisted and expire after 30 days. Registry information is not a substitute for official title records, legal surveys or professional technical review.",
       "information": [
         {
@@ -235120,7 +235300,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:49.989Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37921318699:1",
       "translation": {
         "summary": "地图与矿产勘探权搜索",
@@ -235135,6 +235315,11 @@
           "neurons": 28.477195739746094,
           "total_tokens": 1686
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:08:10.073Z",
+      "detailError": {
+        "at": "2026-10-26T04:08:10.073Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd101a8358819189ff5cfd10b600e2": {
@@ -235150,7 +235335,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Football Charts answers questions about football leagues with data: league tables, results with half-time scores, upcoming fixtures, when teams score and concede (goals by 15-minute period), team profiles, and Monte Carlo season projections (title, top-four and relegation chances). It covers 93 leagues in 42 countries, from the Premier League to lower divisions that few sources cover (Spain's Segunda RFEF groups, the Czech third tier, the English National League, Nordic, Baltic and Asian second tiers) plus women's top divisions. Data is updated daily.\n\nRead-only; no account needed. Statistics and a baseline model only: no odds, no betting advice, no player-level data. Limitations: fixtures appear once they are within a few days of kick-off; historical seasons before the previous one need an API key from football-charts.com/developers.",
       "information": [
         {
@@ -235183,7 +235368,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:51.659Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "93个足球联赛的统计数据",
@@ -235198,6 +235383,11 @@
           "neurons": 30.500152587890625,
           "total_tokens": 1816
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:08:12.406Z",
+      "detailError": {
+        "at": "2026-10-26T04:08:12.406Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd741d819481918aba420a975bc576": {
@@ -235213,7 +235403,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Site analytics, short links and SEO/AEO optimization for marketing teams.\n\nAttri joins your Google Search Console data to what visitors do on your site, then ranks what to fix first by the visits each change could move: pages with a click-through gap, pages close to page one, pages competing for the same query, and sudden drops.\n\nAsk what to fix this week, why a page lost traffic, or which campaigns and short links drive signups and bookings. Attri answers from your own workspace data and can plan findings or create tracked short links when you allow it.\n\nConnect with your Attri account and choose which workspaces and permissions to share.",
       "information": [
         {
@@ -235246,7 +235436,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:53.356Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "网站分析、链接、SEO/AEO",
@@ -235261,6 +235451,11 @@
           "neurons": 32.63042068481445,
           "total_tokens": 1863
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:08:14.670Z",
+      "detailError": {
+        "at": "2026-10-26T04:08:14.670Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac31e16fb6881919510d9cb1ea39463": {
@@ -235276,7 +235471,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "ASOScan is an ASO skill and plugin for ChatGPT: App Store Optimization (ASO) software for iOS and Android apps, built and run by one app developer. Use ASO with ChatGPT: connect your ASOScan account and ask about your own apps in plain words.\n\nWhat it does:\n- App store ranking and Google Play store ASO. ASOScan reads your ASO score and its recommendations and tells you what to fix first, like an app store optimization checklist for your own listing.\n- App keywords. App store keyword research with search volume and difficulty, keyword opportunities you could rank for, and tracking for the ones you pick.\n- App store rank tracker. See where you rank for each tracked keyword and how the rank moved day by day, so you can see why your app is not showing in search.\n- App store category ranking. See your app's chart position in its category over time.\n- ASO audit. Check your app title and subtitle, keywords and description, see what changed over time, and draft listing text for other languages.\n- App competitor analysis. Add a competitor by its store link and see the keywords it ranks for, its category rank and its rating history.\n- App review analysis. See sentiment, top topics, bugs and feature requests, and get AI drafts of review replies. A reply goes to the store only after you approve the exact text, and only for apps connected to App Store Connect or Google Play Console.\n\nWhy teams use it: one set of app store optimization tools for the whole ASO job on both stores, with your real numbers right in the chat. Good ASO improves organic rankings, and ASOScan helps you rank better. It does not promise a rank.\n\nWhat it does not do: it does not publish listing text to the stores, and it has no download or revenue data. Drafts stay in your ASOScan account.\n\nYou need an ASOScan account to see your own numbers. Without an account, the built-in skills still answer general ASO questions.",
       "information": [
         {
@@ -235309,7 +235504,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:55.001Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "应用商店排名与关键词",
@@ -235324,6 +235519,11 @@
           "neurons": 37.6527099609375,
           "total_tokens": 2295
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:08:17.122Z",
+      "detailError": {
+        "at": "2026-10-26T04:08:17.122Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac2add6ecc48191bcbe116adf15f5b9": {
@@ -235339,7 +235539,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Autobound is a B2B data and analytics service for sales research: it searches and analyzes live buying signals to find companies and contacts to sell to, and shows why to reach out now.\n\nAsk things like \"Which fintech companies raised money in the last 30 days and are hiring sales leaders?\" or \"What changed at snowflake.com this month?\" and get answers backed by fresh, sourced events, not guesses.\n\nWhat's inside:\n- 35 signal types and 900+ subtypes: news (funding, acquisitions, launches, leadership hires), job changes and promotions, hiring trends and velocity, SEC 8-K/10-K/10-Q filings, earnings calls, patents, federal contract awards, Product Hunt launches, podcasts, LinkedIn, Reddit, YouTube and more.\n- Buyer intent on 37,000+ B2B topics, at the contact level (daily) and the company level (weekly).\n- Company and contact lookups by domain, email or LinkedIn URL, with firmographics.\n- Filters for industry, employee count, revenue, seniority, department and date.\n- Email verification.\n\nEvery signal links to its source. Sign in with your Autobound account; there are no API keys to paste.",
       "information": [
         {
@@ -235372,7 +235572,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:56.639Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "B2B销售信号与意图",
@@ -235387,6 +235587,11 @@
           "neurons": 35.1441764831543,
           "total_tokens": 2060
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:08:19.636Z",
+      "detailError": {
+        "at": "2026-10-26T04:08:19.636Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a8b9898e6cc8191a78cae50dd724007": {
@@ -235402,7 +235607,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "GrowByData Compass helps teams track share of voice, search rankings, and visibility across both traditional search engines and AI search platforms like ChatGPT, Google AI Mode, AI Overviews, and Perplexity.\nCommon tasks include monitoring keyword rankings and position history over time, comparing share of voice against competitors, and identifying keyword gaps where competitors rank but a domain doesn't. Users also track how their brand is mentioned and cited within AI-generated search answers, including sentiment, and analyze SERP feature ownership such as featured snippets and above-the-fold placements. On the advertising side, it supports monitoring competitor text ads, shopping ads, and ad placements within AI search results.\nExample prompts a user might type:\n \"How is our domain ranking for our top 20 keywords this month?\"\n \"Show me our share of voice versus our top 3 competitors over the last quarter.\"\n \"Are we being mentioned in ChatGPT or AI Overviews for our category, and what's the sentiment?\"\n \"What keywords are our competitors ranking for that we're missing?\"",
       "information": [
         {
@@ -235430,7 +235635,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:38:58.438Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38337694087:1",
       "translation": {
         "summary": "SEO 与 AI 搜索洞察",
@@ -235441,6 +235646,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-25T15:20:28.015Z",
         "translatedAt": "2026-10-25T15:20:28.015Z"
+      },
+      "detailNextAttemptAt": "2026-10-26T05:08:35.606Z",
+      "detailError": {
+        "at": "2026-10-26T04:08:35.606Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf3cf2cc348191add64681d2d468ed": {
@@ -235456,7 +235666,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "MAIA is the geospatial research engine for questions about places in the United States, in any field. Ask in plain language and MAIA's agent researches it and builds the answer as a project with a map and a table: which places or properties match your criteria, who owns them, what is near them, how many there are in an area, or a list of them with contacts or other details MAIA researches for each row. Data can include parcels, owners, zoning, buildings, contacts, businesses and points of interest, schools, roads and land use, and MAIA's agent can find and add suitable public map layers. Through this plugin you can start a project for a county, send follow-up requests, answer MAIA's questions and approve larger steps during a run, check progress, review your projects' layers and views, and save notes and reusable skills that MAIA uses in later projects. Each answer links to the full map and table in MAIA.",
       "information": [
         {
@@ -235489,7 +235699,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:00.114Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "地理空间研究引擎",
@@ -235504,6 +235714,11 @@
           "neurons": 28.996810913085938,
           "total_tokens": 1776
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:08:38.047Z",
+      "detailError": {
+        "at": "2026-10-26T04:08:38.047Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac0eac8f6e48191bdaf19d94e572a88": {
@@ -235519,7 +235734,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Ciro is a sell-out analytics platform for consumer brands that sell through retail chains. It brings together the sales and stock data each chain shares with its suppliers, links the chain's product and store codes to the brand's own catalog, and keeps that data current.\n\nCiro for ChatGPT answers questions with that data for the Ciro organization you connect:\n- Sales and units by retail chain, banner, brand, category, product, store, region or time, including comparisons with last year or last month.\n- Stock, out-of-stocks and stock coverage by product and store.\n- Purchase suggestions to reach your target days of inventory.\n- Your saved Ciro dashboards, over their own date range or another one.\n- Data freshness: the last day with sales and the last stock report for each chain, and the state of each integration.\n\nIt's read-only: it can't change data, settings or users in Ciro. You approve each connection for one Ciro organization, and your access is checked again on every request.\n\nCiro is built for key account managers, sales teams and demand planners at consumer brands, mainly in Latin America. You need a Ciro account with access to an organization. Answers reflect the retail chains your organization has connected, and data usually arrives one day late.",
       "information": [
         {
@@ -235552,7 +235767,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:01.851Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "销售与库存分析",
@@ -235567,6 +235782,11 @@
           "neurons": 31.88800048828125,
           "total_tokens": 1954
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:08:40.989Z",
+      "detailError": {
+        "at": "2026-10-26T04:08:40.989Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac4370294108191bd78786b8081ccf6": {
@@ -235582,7 +235802,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Fit File Forge connects ChatGPT to your endurance training. Ask how a session went and get a detailed analysis from your real data: pacing and splits, heart rate and power, climbing, time in zones and a chart of the whole session. Ask whether your fitness is building, how fatigued you are, or what time is realistic for your next 5K, half or marathon. Describe a workout in plain words (\"6 × 800 m at 5K pace on Thursday\") and Fit File Forge builds a valid structured Garmin workout, shows it, and sends it to your watch only when you ask.\n\nFor runners, cyclists, swimmers and triathletes who train with a Garmin watch and use Fit File Forge (fitfileforge.com). You sign in with your Fit File Forge account; activity data needs Garmin Connect linked in Fit File Forge with activity sharing on.\n\nWhat it never shares: GPS locations or routes, original activity files, or health data such as sleep or HRV (Fit File Forge doesn't collect it). You choose what ChatGPT may see and do when you connect, and you can disconnect at any time. Training information only, not medical advice.",
       "information": [
         {
@@ -235615,7 +235835,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:03.460Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "您的训练，深度分析",
@@ -235630,6 +235850,11 @@
           "neurons": 35.78853225708008,
           "total_tokens": 2054
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:08:43.322Z",
+      "detailError": {
+        "at": "2026-10-26T04:08:43.322Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf73fe85308191bea218c54956add3": {
@@ -235645,7 +235870,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Orgvue is the organizational design and workforce planning platform used by enterprises to model, cost and reshape their organizations. Connect OpenAI to Orgvue to explore workforce data, organizational structures, and planning scenarios.\n\nIn plain, natural language, ask questions about your workforce data: spans and layers, headcount by function, cost of a proposed structure, the gap between your current and future-state organization, or anything else you might want to know.\n\nAsk workforce modelling questions and see the changes happening directly in Orgvue. You’ll get trusted answers grounded in your Orgvue data. See the impact of a scenario before you commit, draft the narrative for a restructure paper, or quickly pull the numbers you need for a board meeting.\n\nAccess follows your existing Orgvue permissions. OpenAI sees only the workspaces and datasets you're already entitled to, and only when you ask.\n\nOrgvue remains the trusted source of workforce data and organizational scenarios, while OpenAI provides a conversational way to interact with them.\n\nWhat you can do:\n- Query datasets and properties across your Orgvue workspaces\n- Summarize org structures - reporting lines, spans, layers, vacancies\n- Ask the agent workforce modelling questions and instantly visualise the impact of changes in Orgvue\n- Pull metrics and aggregations for reports, papers and presentations\n- Explain what a dataset contains before you dig into it",
       "information": [
         {
@@ -235673,7 +235898,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:05.160Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "探索Orgvue人力资源数据",
@@ -235688,6 +235913,11 @@
           "neurons": 35.89703369140625,
           "total_tokens": 2111
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:08:45.706Z",
+      "detailError": {
+        "at": "2026-10-26T04:08:45.706Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd19a808f08191937a67695d43cefb": {
@@ -235703,7 +235933,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Connect Fospha's daily, full-funnel measurement into ChatGPT, so you can use natural language to understand the impact of every channel across everywhere you sell without dashboards or manual reports.",
       "information": [
         {
@@ -235736,7 +235966,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:06.804Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "通过数据提问、解答并采取行动。",
@@ -235751,6 +235981,11 @@
           "neurons": 23.413284301757812,
           "total_tokens": 1463
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:08:48.594Z",
+      "detailError": {
+        "at": "2026-10-26T04:08:48.594Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab0e0a944648191a24130a4a65a1311": {
@@ -235766,7 +236001,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "DataForSEO MCP server is a useful solution for on-demand SEO automation. Fetch SEO and marketing data from DataForSEO APIs without leaving chat; look up keyword search volume, ranking difficulty scores, and related keyword ideas; pull live Google SERP results for any query; review backlinks, referring domains, competitor profiles, and more.",
       "information": [
         {
@@ -235794,7 +236029,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:08.430Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37921318699:1",
       "translation": {
         "summary": "获取SEO、GEO及营销数据",
@@ -235809,6 +236044,11 @@
           "neurons": 22.718055725097656,
           "total_tokens": 1458
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:08:50.971Z",
+      "detailError": {
+        "at": "2026-10-26T04:08:50.971Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfe9dfc5348191982ae0f71ce97e5e": {
@@ -235824,7 +236064,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Tell ChatGPT what data you need. Jsonify builds a pipeline to collect it, check it and keep it up to date.\n\nTrack competitor prices, restaurant menus, property listings, job openings or news across your chosen sources. Collect once or on a schedule, with structured results you can query, compare and export. When a source changes, Jsonify can diagnose and repair the pipeline.\n\nWork with your data right inside ChatGPT. Ask questions, explore datasets and dashboards, inspect where results came from, or describe what you want to collect next. Your pipelines keep running between conversations.\n\nRequires a Jsonify account. Your plan’s usage limits apply.",
       "information": [
         {
@@ -235857,7 +236097,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:10.149Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "可靠的网络数据，重复使用",
@@ -235872,6 +236112,11 @@
           "neurons": 28.966096878051758,
           "total_tokens": 1747
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:09:09.403Z",
+      "detailError": {
+        "at": "2026-10-26T04:09:09.403Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab4c8a6236081918724d00fa85a54b9": {
@@ -235887,7 +236132,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Explore your Korzaro shop results in ChatGPT: sales, marketing, open findings, published briefings, SEO, mailing, reviews, competitors, social media and customer cohorts. Korzaro returns aggregate summaries for the one project and data areas approved by its owner. It cannot change the shop, campaigns or data.",
       "information": [
         {
@@ -235915,7 +236160,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:11.772Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "探索您的店铺成果",
@@ -235930,6 +236175,11 @@
           "neurons": 25.381338119506836,
           "total_tokens": 1542
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:09:12.296Z",
+      "detailError": {
+        "at": "2026-10-26T04:09:12.296Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac3596981c48191a219a3f24a838a91": {
@@ -235945,7 +236195,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Connect ChatGPT to your Avoma workspace and get meeting intelligence, including call transcripts, AI-generated notes, scorecard results, and usage analytics. Ask ChatGPT about stalled deals, review rep scorecards, track quota attainment, or walk into your next call with full account history.\n\nRead capabilities:\n- Meeting transcripts, structured notes, and AI summaries\n- Scorecard evaluations and team usage / engagement metrics\n- CRM deal stages, CRM associations, meeting outcomes, meeting types, and team listings\n\nWrite capabilities:\n- Update meeting outcomes\n- Set meeting privacy — private, organization, public, or team-scoped\n- Assign meeting types / purposes\n\nYou can use the Avoma connector to:\n\n- Review calls and action items:\n \"Summarise my calls from last week and list open action items\"\n- Check team scorecards:\n \"Show me scorecard results for the sales team this month and identify the three coaching areas with the lowest average scores.\"\n- Find meetings by deal stage:\n \"Find all meetings linked to Closed Won deals over $50,000 that closed in Q2 2026 and summarize the common buying signals.\"\n- Update meeting outcomes:\n \"Set the outcome of my demo call with Acme Corp from June 15 to Qualified\"\n- Manage meeting privacy:\n \"Make all onboarding calls for the Globex account from the past 30 days visible only to the Customer Success team.\"\n- Create a playbook:\n \"Analyze win/loss calls for Enterprise deals over $100,000 that closed in the last two quarters and create a coaching playbook with examples of effective discovery questions, objection handling, and closing techniques.\"\n\nAccess is controlled by your Avoma permissions and OAuth 2.1 credentials. No meeting data is stored by ChatGPT.",
       "information": [
         {
@@ -235978,7 +236228,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:13.387Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38337694087:1",
       "translation": {
         "summary": "获取会议洞察",
@@ -235989,6 +236239,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-25T15:20:28.015Z",
         "translatedAt": "2026-10-25T15:20:28.015Z"
+      },
+      "detailNextAttemptAt": "2026-10-26T05:09:14.669Z",
+      "detailError": {
+        "at": "2026-10-26T04:09:14.669Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab4c053d6208191924f1791499f7666": {
@@ -236004,7 +236259,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Find published news about Mataró, upcoming local events, and recent information on trains, traffic, public notices, weather, and air quality. News and event results link to Mataró.fm, where their sources are listed. Live information includes observation times and may not cover every disruption.",
       "information": [
         {
@@ -236032,7 +236287,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:15.164Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "马塔罗新闻与活动",
@@ -236047,6 +236302,11 @@
           "neurons": 27.460973739624023,
           "total_tokens": 1606
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:09:17.117Z",
+      "detailError": {
+        "at": "2026-10-26T04:09:17.117Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfdd5efad48191be08b5b8c69982fd": {
@@ -236062,7 +236322,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Sophie Tutor opens an interactive AP Calculus lesson next to the chat. Each lesson moves one step at a time: an animation shows the idea, a short text explains it, and multiple-choice questions check understanding. A wrong answer explains the mistake and lets the student try again; a right answer shows why it is right. At the end, the student sees a short summary and a score.\n\nLessons cover AP Calculus AB and BC topics: limits and continuity, average and instantaneous rates of change, derivatives from the definition, the product rule, the chain rule, higher derivatives, L’Hôpital’s rule, optimization, u-substitution, definite integrals on a calculator, differential equations from word problems, and area in polar coordinates.\n\nIt is for high-school students who take AP Calculus, and for anyone who wants to review a calculus topic visually. Sophie Tutor only opens a lesson when one matches the topic; for other topics, ChatGPT helps as usual. It needs no account and collects no personal information.",
       "information": [
         {
@@ -236095,7 +236355,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:16.793Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "AP微积分可视化课程",
@@ -236110,6 +236370,11 @@
           "neurons": 32.527496337890625,
           "total_tokens": 1919
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:09:19.500Z",
+      "detailError": {
+        "at": "2026-10-26T04:09:19.500Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac369a633548191ae524762e927332e": {
@@ -236125,7 +236390,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Meet Christ and your family in Christ. The Living Bread is a Christian community. With this plugin, ChatGPT reads Scripture word for word from a stored public domain Bible, never generated; finds the verses the house pairs with what you carry, grief, fear, anxiety, loneliness, gratitude; answers honest questions about Jesus, forgiveness, suffering and how to begin, from Scripture; finds real churches and gatherings near any city, from Seattle to Lagos to Madrid, with service times when known; shows the Tables where real people are talking and praying right now, the prayers believers have left at places near you, the gospel in the house's own words, and the doors of the Christian heritage: denominations, saints, sacred sites, the people and places of the Bible. Signed in, it reads only for you: the prayers real people have prayed over you by name, in their own voices, with the door to hear each one; the prayers you gave and how they are going; what you said yes to; your family circles and next gatherings. This plugin is read only. It never prays in your name, never records or sends anything, and never writes to your account; every act of prayer and reply happens in the app itself, by your own hand. Everything points to Jesus Christ.",
       "information": [
         {
@@ -236158,7 +236423,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:18.656Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "经文、祈祷、教会",
@@ -236173,6 +236438,11 @@
           "neurons": 33.666446685791016,
           "total_tokens": 1992
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:09:22.340Z",
+      "detailError": {
+        "at": "2026-10-26T04:09:22.340Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a72b208d4cc8191b504c94b9c13f62c": {
@@ -236188,7 +236458,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "SBH News가 공개 발행한 최신 기사와 속보를 읽고, 키워드로 기사를 검색하거나 기사 상세 내용과 운영 테마를 확인할 수 있습니다. 모든 결과에는 원문 링크가 포함되며 비공개 초안 조회, 콘텐츠 작성·수정·삭제, 발행 또는 메시지 전송은 지원하지 않습니다.",
       "information": [
         {
@@ -236216,7 +236486,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:20.304Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "SBH News 最新文章和快讯",
@@ -236231,6 +236501,11 @@
           "neurons": 25.655847549438477,
           "total_tokens": 1579
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:09:24.675Z",
+      "detailError": {
+        "at": "2026-10-26T04:09:24.675Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac18d49b0448191be6803e75d3627df": {
@@ -236246,7 +236521,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "CollegeFill prepares and validates privacy-scoped Master Profile JSON for manual import into the CollegeFill Chrome extension. It supports only five public sections: Academic, Test Scores, Courses & Grades, Activities & Extracurriculars, and Honors / Awards. It can report supported limits and run data-readiness checks for supported Common App and University of California application pages. The MCP is stateless and requires no CollegeFill account or OAuth connection. It does not access browser storage, log in to or control an application website, navigate, save, or submit an application. Users manually import the returned JSON into CollegeFill and review all data and page-specific checks before filling or saving any page.",
       "information": [
         {
@@ -236279,7 +236554,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:21.911Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "整理大学个人资料数据",
@@ -236294,6 +236569,11 @@
           "neurons": 23.311426162719727,
           "total_tokens": 1536
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:09:27.566Z",
+      "detailError": {
+        "at": "2026-10-26T04:09:27.566Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac0e91fbf4c8191b8ec88226f2f793d": {
@@ -236309,7 +236589,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Practise English with existing grammar and vocabulary exercises inside ChatGPT. Find a topic and CEFR level, then complete gap-fill questions, sentence transformations or click-to-edit corrections. Get instant marking, hints, explanations and a final score with mistake review. Results stay in the current player; account progress is not saved. Dictation and audio practice are available on the website rather than through this plugin.",
       "information": [
         {
@@ -236342,7 +236622,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:23.503Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "互动式英语练习",
@@ -236357,6 +236637,11 @@
           "neurons": 32.89117431640625,
           "total_tokens": 1802
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:09:29.860Z",
+      "detailError": {
+        "at": "2026-10-26T04:09:29.860Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abc763ba6248191ab2e3ca54540b629": {
@@ -236372,7 +236657,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Bring your Parrot Spanish level, streak, and vocabulary into ChatGPT, and save words you learn back to Parrot.\n\nParrot is a Spanish learning app. Once you connect your Parrot account, ChatGPT can see your Parrot level and the matching CEFR level, your day streak, and the Spanish words you are learning and already know. It uses them to pitch explanations, conversations, and quizzes at your level and around your own words.\n\nWhen you ask, ChatGPT can save new Spanish words to your Parrot dictionary as learning or known, and count a real practice session toward your Parrot streak.\n\nWho it's for: Parrot learners who want to practice Spanish in ChatGPT with the same level and vocabulary they use in the app.\n\nLimitations: requires a Parrot account. Spanish only. ChatGPT cannot change your Parrot level, and it never sees your email, password, payment details, or listening history. You can disconnect at any time in Parrot under Settings, Connected Apps.",
       "information": [
         {
@@ -236405,7 +236690,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:25.164Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "在您的水平上练习西班牙语",
@@ -236420,6 +236705,11 @@
           "neurons": 40.96544647216797,
           "total_tokens": 2212
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:09:32.184Z",
+      "detailError": {
+        "at": "2026-10-26T04:09:32.184Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd0782846c8191b149fcf810876a55": {
@@ -236435,7 +236725,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Explore named structures in an interactive 3D anatomy atlas. Search anatomical names and identifiers, choose from detailed male, complete male, standard male, female, embryo and cell models, and open focused views with orbit, zoom, isolation, layers and cross-sections. Students, educators and curious learners can inspect individual organs and compare structures. Model coverage varies, and some reference models are partial. Atlas provides general anatomy education; it does not access patient records, interpret medical scans, diagnose conditions or recommend treatment. No Atlas account is required.",
       "information": [
         {
@@ -236468,7 +236758,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:26.799Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "探索三维人体解剖结构",
@@ -236483,6 +236773,11 @@
           "neurons": 41.93779754638672,
           "total_tokens": 2126
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:09:34.593Z",
+      "detailError": {
+        "at": "2026-10-26T04:09:34.593Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf3af7591081918aca9347ff41783d": {
@@ -236498,7 +236793,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Practice case and job interviews out loud with a realistic AI interviewer, right in ChatGPT.\n\nAsk for a mock interview and Soreno picks a case for your target role, or search the case bank by firm, industry or topic (market sizing, profitability, M&A and more). Tap Start and talk it through by voice: the interviewer leads like a McKinsey, BCG or Bain interviewer, shares exhibits on screen when it's time and pushes on your math and structure. Behavioral, fit and finance technical rounds work the same way.\n\nWhen you finish, Soreno scores you against an interviewer rubric and shows strengths, what to improve and concrete next steps, and ChatGPT can coach you on it. Your interviews and feedback stay in your Soreno account at app.soreno.ai.",
       "information": [
         {
@@ -236531,7 +236826,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:28.400Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "案例与职位模拟面试",
@@ -236546,6 +236841,11 @@
           "neurons": 29.515708923339844,
           "total_tokens": 1782
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:07.081Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:07.081Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac38bcc12808191ba97dc82192aa3f2": {
@@ -236561,7 +236861,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "World War Watcher tracks the Iran–US war and its effects on shipping, energy, cloud infrastructure and connectivity. Ask what happened on a given day or over a period, what a source reported and how credible it is, how intense the war is now and how that has changed, where US crude and the Strategic Petroleum Reserve stand, whether Gulf cloud regions and Red Sea and Hormuz cables are affected, or how many interceptors and missiles each side holds.\n\nEvery answer comes from World War Watcher's human-curated record: daily dispatches, a dated timeline of over 1,400 events with their sources, a registry of graded sources, and live feeds. Each result carries a link to the page it came from, so claims can be checked.\n\nLimitations: it covers the Iran–US war only; it reads public data and changes nothing; the escalation score measures current intensity and is not a forecast; stockpile counts are curated estimates with a confidence grade and an assessment date; it gives no trading advice and does not predict strikes. Data is licensed CC BY-NC 4.0.",
       "information": [
         {
@@ -236594,7 +236894,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:30.060Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "引用伊朗-美国战争简报",
@@ -236609,6 +236909,11 @@
           "neurons": 29.924331665039062,
           "total_tokens": 1848
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:09.455Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:09.455Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf39b76e808191bbd5eb09b0bd2d33": {
@@ -236624,7 +236929,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Practice your medical school, residency or health-program interview out loud with a realistic AI interviewer, right in ChatGPT.\n\nAsk for a mock interview and Confetto picks a question for your program (MMI ethics, personal, policy, teamwork and more), or choose one from the question bank. Tap Start and answer by voice: the interviewer asks natural follow-ups like a real admissions panel. When you finish, Confetto scores your answer against an admissions rubric and shows what went well, what to improve and a full breakdown, and ChatGPT can coach you on it.\n\nWorks for medical school (MD/DO, MMI and traditional), residency (including CaRMS), PA, dental, vet, nursing, pharmacy, PT and OT programs. Your interviews and feedback stay in your Confetto account at app.confetto.ai.",
       "information": [
         {
@@ -236657,7 +236962,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:31.677Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "医学专业模拟面试",
@@ -236672,6 +236977,11 @@
           "neurons": 34.24392318725586,
           "total_tokens": 1938
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:11.900Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:11.900Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac03f714d38819192dad65944b63b8a": {
@@ -236687,7 +236997,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Find sports and music lessons with TeachMe.To. Search by skill, city or postal code, learner age and experience, lesson length, budget, and dates. Compare coaches using public teaching information and reviews, and explore current lesson times. Open the lesson finder from ChatGPT or use it during your conversation. No TeachMe.To account is needed to browse. This plugin does not book, reserve, charge, message coaches, or manage accounts. Parents and guardians can search for lessons for their children. Availability can change and browsing does not confirm a lesson.",
       "information": [
         {
@@ -236720,7 +237030,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:33.516Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "找到您附近的下一位教练",
@@ -236735,6 +237045,11 @@
           "neurons": 29.435787200927734,
           "total_tokens": 1720
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:14.255Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:14.255Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe86572b788191ab3bbb650f163a93": {
@@ -236750,7 +237065,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Turn classroom content into ready-to-print materials with editable exports. Diffit helps K-12 teachers create and recreate worksheets, activities, slides, and lessons with classroom-ready formatting, properly formatted math graphics and mathematical notation, and consistent quality grounded in research-backed pedagogy.\n\nUse Diffit when you need a printable student worksheet, readable equations, well-formatted mathematical graphics, or an editable classroom resource. Start from a topic, standard, passage, article, questions, or existing material. Preserve the learning goal and rigor while adapting grade level, reading level, language, or scaffolds to make learning accessible.\n\nTry \"this worksheet's formatting is wrong; recreate it as a printable activity,\" \"make this math worksheet with properly formatted fractions and graphics,\" \"turn these questions into an editable student handout,\" or \"create slides for mitosis.\"\n\nFor elementary, middle school, and high school teachers. Available formats and adaptations depend on the connected Diffit tools. Recreating a resource from supplied content does not imply direct editing of every existing file type.",
       "information": [
         {
@@ -236778,7 +237093,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:35.151Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "适用于K-12的可打印材料",
@@ -236793,6 +237108,11 @@
           "neurons": 31.134075164794922,
           "total_tokens": 1886
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:17.091Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:17.091Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac11a7d87588191b586f23b757df123": {
@@ -236808,7 +237128,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "View proteins, DNA, AlphaFold predictions and small molecules in interactive 3D, right in the chat. Ask for a structure by name or ID, rotate and zoom it, switch between cartoon, stick and surface views, and color by chain, secondary structure or AlphaFold confidence. Get structure facts such as experimental method, resolution, chains, ligands and helix and sheet ranges from the Protein Data Bank, AlphaFold DB and PubChem. Open any view on molviewer.bio for measurements, sharing and export. MolViewer only visualizes public structures: it never gives synthesis routes, doses or acquisition advice.",
       "information": [
         {
@@ -236841,7 +237161,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:36.786Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "交互式3D分子",
@@ -236856,6 +237176,11 @@
           "neurons": 27.679397583007812,
           "total_tokens": 1670
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:19.482Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:19.482Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac4a164a96c8191b4fb472df66344a1": {
@@ -236871,7 +237196,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Growby brings its pregnancy and early-childhood guides into ChatGPT. Ask what typically happens in any week of pregnancy — with a size card showing how big your baby is now and this week's tips — time contractions, count your baby's kicks, time breastfeeds or do a guided kegel session right in the chat, tick off your hospital bag checklist, check CDC's developmental milestones for your child's age, work out how far along you are (including from an IVF transfer date) from your last period or due date, see what's typical for a child from newborn to five years, or search Growby's library for topics like sleep, feeding and teething. Every answer comes with short articles and the public-health sources they are based on (CDC, NICHD, Office on Women's Health, MedlinePlus), in 30+ languages. Growby is for general information only and is not medical advice — always talk to your doctor, midwife or pediatrician about your own health or your child's.",
       "information": [
         {
@@ -236904,7 +237229,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:38.607Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "孕期与育儿指南",
@@ -236919,6 +237244,11 @@
           "neurons": 32.974300384521484,
           "total_tokens": 1915
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:22.348Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:22.348Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abdcb3d2970819186a0c7a25c953c4b": {
@@ -236934,7 +237264,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Biohub ESM helps you understand proteins from a name, sequence, or file: explore mutation landscapes, interpret what ESMC sees, predict and view all-atom structures, and discover related proteins. It chooses the right ESM workflow, preserves confidence and provenance, and presents results automatically. It also supports MSA-guided and modified-complex workflows, and private or large-scale compute routing. Supported protein sequences use the Biohub MCP viewer. Complexes and exact prediction files use a separate molecular viewer when available, with an agent-generated static rendering as a last resort where local rendering tools are available. Managed inference requires a Biohub API key and may incur usage charges. Predictions support research hypotheses, not experimental conclusions.",
       "information": [
         {
@@ -236967,7 +237297,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:40.222Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "通过ESM理解蛋白质",
@@ -236982,6 +237312,11 @@
           "neurons": 36.63732147216797,
           "total_tokens": 1986
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:24.783Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:24.783Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd1d9ed5f481918b7d80cbca1d6031": {
@@ -236997,7 +237332,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Guardio helps you check suspicious links and understand your online protection from ChatGPT and Codex. Check a website before opening it, or check links extracted from a suspicious message without sending the message body to Guardio.\n\nConnect your Guardio account to review protection setup, scan activity, recent data leaks, linked-service counts, and security recommendations. You can also check whether an email address or phone number appears in known data breaches. Results describe known exposure; they do not reveal leaked passwords.\n\nWhen you ask, Guardio can guide setup of its protection in a supported browser and receive your feedback about these tools. Setup depends on browser support and available permissions. Account features depend on your access and plan.\n\nGuardio records each link check on your account, and a dangerous result appears in your account activity. A link result reports known threats at the time of the check. It is not a guarantee that a site or an entire message is safe. The plugin does not scan local executable files or provide continuous browser protection merely by being connected.",
       "information": [
         {
@@ -237030,7 +237365,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:41.903Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "检查链接和数据泄露",
@@ -237045,6 +237380,11 @@
           "neurons": 32.71686553955078,
           "total_tokens": 1932
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:27.134Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:27.134Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a71c671d11c81919ef641cb86818156": {
@@ -237060,7 +237400,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Explore Accuquote life insurance options such as Term Life, Simplified Issue Term Life, Final Expense through a simple conversation. The app collects your basic details and then connects you with licensed professionals from Accuquote who will follow up with the user about insurance options. The app does not provide quotes, recommend coverage, underwrite, determine eligibility, bind coverage, or process payments.",
       "information": [
         {
@@ -237088,7 +237428,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:43.585Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "查找人寿保险选项",
@@ -237103,6 +237443,11 @@
           "neurons": 22.628530502319336,
           "total_tokens": 1461
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:29.523Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:29.523Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd0f663c248191880a8ba9c99bd0a1": {
@@ -237151,7 +237496,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:45.231Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "迪拜房产注册数据",
@@ -237167,7 +237512,12 @@
           "total_tokens": 2076
         }
       },
-      "lastMissingAt": "2026-10-23T03:54:39.485Z"
+      "lastMissingAt": "2026-10-23T03:54:39.485Z",
+      "detailNextAttemptAt": "2026-10-26T05:10:32.416Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:32.416Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6ab3ca7ccf4481918ae50ceccc889e56": {
       "id": "plugin_asdk_app_6ab3ca7ccf4481918ae50ceccc889e56",
@@ -237182,7 +237532,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "SPACInsider gives ChatGPT read-only access to SPACInsider's SPAC database: the current SPAC universe with IPO terms, trust values, deadlines and redemption data; point-in-time historical snapshots of the market on any past date; sponsor, underwriter, advisor and investor relationships; IPO, de-SPAC, PIPE, private placement, serial sponsor and 13F league tables; corporate actions such as extension and completion votes and liquidations; lockup and earnout terms; terminated deals; and SEC 13F filings and holdings. Typical workflows: count or screen SPACs by IPO date, status or deal terms; compare the market today with a past date; look up one SPAC's profile, participants and history; rank underwriters, advisors or investors over a date window; and aggregate trust, proceeds or redemption statistics. Every tool queries SPACInsider's own database and returns structured data; nothing is written, sent or fetched from the public internet. A SPACInsider account with MCP access is required.",
       "information": [
         {
@@ -237210,7 +237560,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:46.860Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "SPAC及反向并购市场数据",
@@ -237225,6 +237575,11 @@
           "neurons": 32.20235061645508,
           "total_tokens": 1899
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:34.848Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:34.848Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab284cdc7d48191b7b7e92e67f43039": {
@@ -237240,7 +237595,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Momentum brings Polish private equity data into ChatGPT: the companies, who owns and backs them, their financials, competitors, trading peers multiples.\n\nDescribe the companies you want in a sentence, such as \"Polish software companies with an EBITDA margin above 20%\", and get the list with revenue, margins and ownership. Ask for any company's financials, its closest competitors, its market's operating benchmarks, or a valuation from listed comparables. Find investors active in your company's industry and who advised their last deals.\n\nBuilt for private equity, M&A advisers, corporate development and lenders.",
       "information": [
         {
@@ -237268,7 +237623,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:48.485Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "波兰私募股权数据",
@@ -237284,7 +237639,12 @@
           "total_tokens": 1738
         }
       },
-      "lastMissingAt": "2026-10-18T03:39:46.093Z"
+      "lastMissingAt": "2026-10-18T03:39:46.093Z",
+      "detailNextAttemptAt": "2026-10-26T05:10:37.326Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:37.326Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6ab3c92aa6c88191a11af64b6a40bb62": {
       "id": "plugin_asdk_app_6ab3c92aa6c88191a11af64b6a40bb62",
@@ -237299,7 +237659,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Retrieve current market prices and historical OHLCV data for supported forex pairs, cryptocurrencies and US equities. Check trading hours, market opening status and holiday calendars in the same conversation. Connect your SiftingIO account through a read-only authorization; there is no need to paste an API key into ChatGPT. Data is retrieved on request, not streamed continuously. Available markets, historical depth and request limits depend on your SiftingIO plan. SiftingIO provides market data, not investment advice, and cannot place trades, transfer funds or change your account settings.",
       "information": [
         {
@@ -237327,7 +237687,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:50.118Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "探索市场数据",
@@ -237342,6 +237702,11 @@
           "neurons": 28.746843338012695,
           "total_tokens": 1694
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:39.702Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:39.702Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac01e0b47d481919091d7a5aca857ad": {
@@ -237357,7 +237722,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Turn your next trading idea into a strategy you can test and improve. Describe your rules in plain English, create custom Python strategies, and run historical backtests with Premiss from your conversation.\n\nExplore supported crypto, stock, and ETF markets. Build your own indicators, entry and exit rules, and risk controls using the same strategy engine as the Premiss app. See the trades behind the numbers, understand drawdowns, and compare completed results with a matched buy-and-hold baseline.\n\nKeep your code, strategies, and research notes together in your private Premiss workspace. Revisit an idea, change the rules, and run it again.\n\nA Premiss account is required. Available history and timeframes vary by market. Historical results do not predict future returns.",
       "information": [
         {
@@ -237390,7 +237755,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:51.775Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "构建并回测交易策略",
@@ -237405,6 +237770,11 @@
           "neurons": 28.59684181213379,
           "total_tokens": 1751
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:42.562Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:42.562Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe2e2df63c819197b1a6c3a85e6eb0": {
@@ -237420,7 +237790,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Essentio is invoicing software for small businesses. Connect your Essentio Business to find Clients and Products, draft an Invoice, Proforma Invoice, Quote or Credit Note, check the totals Essentio computes, then issue it and email it to your Client. Record the payments your Clients made, and read a month's Reported VAT and Income from Essentio's own reports to see what is done and what is still open. The plugin acts only for the Business you choose when you connect, with the Role you hold there. It never files a VAT return, sends anything to a tax authority or moves money.",
       "information": [
         {
@@ -237453,7 +237823,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:53.400Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "通过聊天发送发票和增值税",
@@ -237468,6 +237838,11 @@
           "neurons": 22.076663970947266,
           "total_tokens": 1487
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:45.497Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:45.497Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a6b503925b0819188bd4b6519d60f1a": {
@@ -237483,7 +237858,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Mirabello Immigration answers citizenship and residency-by-investment questions from Mirabello Consultancy's own verified, source-cited data covering 190+ countries. Its origin-aware planner takes the citizenship you already hold plus your goal, and returns ranked routes showing the honest mobility gain over your current passport, indicative cost, timeline and eligibility, each with its source and last-verified date. You can also compare programmes side by side, estimate the total cost for a family, check which programmes are open to your nationality, and request a consultation with a specialist. Information only, not legal, tax, financial or immigration advice; figures are indicative and should be verified against official sources.",
       "information": [
         {
@@ -237511,7 +237886,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:55.051Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "规划公民身份和居留权",
@@ -237526,6 +237901,11 @@
           "neurons": 32.123260498046875,
           "total_tokens": 1826
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:47.857Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:47.857Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd95f89a84819197ac3091c46646d7": {
@@ -237541,7 +237921,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Distilla brings financial analysis and fundamental equity research to your AI assistant. Look up public-company fundamentals (financial statement line items and ratios), analyst consensus estimates, earnings dates, earnings filings and call transcripts, daily stock prices, and valuation multiples such as P/E and EV/EBITDA. See explanations for significant stock price moves, compare competitive peers by sector and product category, and run qualitative stock screens on business drivers or earnings-call commentary across selected companies or regions. Search Distilla's Public Library of research documents and investing podcasts, with source details. A Distilla account is required. Screen requests create jobs that may take time to complete; other research calls also count against account usage.",
       "information": [
         {
@@ -237574,7 +237954,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:56.828Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "财务与股权研究",
@@ -237589,6 +237969,11 @@
           "neurons": 25.763282775878906,
           "total_tokens": 1619
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:50.271Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:50.271Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a9e1e1996c881919d7eaa6a878d5da9": {
@@ -237604,7 +237989,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Bring evidence-backed investment research into ChatGPT. Ask about markets, valuations, investments or portfolio trade-offs and get decision-ready insights grounded in CXProWealth research, quantitative models and historical evidence. See opportunities, risks and what could change the view.",
       "information": [
         {
@@ -237632,7 +238017,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:39:58.496Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "投资洞察",
@@ -237647,6 +238032,11 @@
           "neurons": 27.02780532836914,
           "total_tokens": 1585
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:52.669Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:52.669Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd0fee216c819191349465958a49d5": {
@@ -237662,7 +238052,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Briefcase is bookkeeping and month-end automation for accountants, connected to Xero, QuickBooks and Briefcase Ledger. This plugin connects your assistant to your Briefcase workspace so it can review bills and receipts awaiting approval, explain Autopilot decisions, submit documents, manage expense claims, run prepayments, accruals and depreciation, read profit and loss, balance sheet and aged reports, and raise sales invoices and manual journals on Briefcase Ledger for your clients. The assistant acts as you, on the clients you choose, with your permissions.",
       "information": [
         {
@@ -237695,7 +238085,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:00.247Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "原生AI会计与分类账",
@@ -237710,6 +238100,11 @@
           "neurons": 26.47321319580078,
           "total_tokens": 1616
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:55.016Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:55.016Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe1119a4fc8191a973c64a5e8f11f1": {
@@ -237725,7 +238120,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Accountable is AI bookkeeping for startups and the founders who run more than one company: books kept by AI and closed every day. With this plugin, ChatGPT reads and keeps those books for you.\n\nWhat you can do:\n- Ask how a company is doing: cash, net burn, runway and revenue, from the live books.\n- Pull a profit and loss, balance sheet, cash flow or trial balance for any months or exact days, on a cash or accrual basis, and ask why a number changed.\n- See which transactions still need a category, categorize them the way the company already does, and save a rule so a vendor never asks again.\n- Read bills, invoices and who owes what, and check how this month's close is going.\n- Post a journal entry, comment on a record, label an alert or save a planning scenario.\n\nHow changes work: every change is previewed first and changes nothing until you confirm it. Each change is logged with your name and ChatGPT's, follows your role in that company (a viewer can read but not change), and can be undone. Closed months stay closed.\n\nWho it is for: founders and the finance people who work with them, on an Accountable account. Sign in with your Accountable account and choose which companies ChatGPT may open, and whether it may only read.\n\nLimitations: it never moves money. It records payments that already happened but cannot pay a bill, send a transfer or file taxes. Sending invoices, closing a month, imports and settings stay in Accountable's app.",
       "information": [
         {
@@ -237758,7 +238153,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:01.975Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "初创企业的AI记账",
@@ -237773,6 +238168,11 @@
           "neurons": 37.70642852783203,
           "total_tokens": 2206
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:57.365Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:57.365Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abed7c438a481919d1338b2b5bee550": {
@@ -237788,7 +238188,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Octagon AI gives investment professionals cited research on public companies and prediction markets, directly in the conversation.\n\nUse it to:\n- Analyze 10-K, 10-Q, 8-K, S-1, and proxy filings, including risk factors, MD&A, segments, and footnotes\n- Extract guidance, management commentary, and analyst Q&A from earnings call transcripts\n- Retrieve income statements, balance sheets, cash flows, growth rates, ratios, and market caps\n- Get stock quotes, price performance, analyst estimates, price targets, and ratings\n- Research prediction-market events, their price drivers, and price history\n\nAnswers cite their sources so you can verify every figure.\n\nOctagon AI is a research tool. It does not place trades or bets, move money, or provide personalized investment advice. An Octagon account is required; you sign in the first time you connect.",
       "information": [
         {
@@ -237821,7 +238221,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:03.629Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "股票与预测市场数据",
@@ -237836,6 +238236,11 @@
           "neurons": 29.96192169189453,
           "total_tokens": 1817
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:10:59.760Z",
+      "detailError": {
+        "at": "2026-10-26T04:10:59.760Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_69cbe10967a48191b7cc2ab3ddd1b4b4": {
@@ -237851,7 +238256,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "UK later-life care: types of care, typical costs, council and NHS funding, arranging care, help for unpaid carers, and ways to pay, from trusted sources. Not medical or medication advice. Does not pick a named carer, browse vacancies, or recommend financial products.",
       "information": [
         {
@@ -237879,7 +238284,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:05.242Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "英国老年护理顾问",
@@ -237894,6 +238299,11 @@
           "neurons": 27.62994956970215,
           "total_tokens": 1609
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:11:02.130Z",
+      "detailError": {
+        "at": "2026-10-26T04:11:02.130Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab49f62cc448191b99ae68b04ed02c1": {
@@ -237909,7 +238319,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Foodzilla is the nutrition platform dietitians, nutritionists and health coaches use to plan, track and run their practice. This plugin puts that work in the conversation.\n\nAsk ChatGPT for a recipe and it is written, costed for macros and saved to your library. Ask for a week of meals to a calorie and macro target and you get a template ready to review and assign. Add a food to your own database from a label or a link. Draft an intake form, set your booking hours, publish a post to your clients, or check where your subscription stands.\n\nYour clients can connect too, if you let them. A client asks their own assistant to log a meal, water, a workout, their sleep or their weight, and to read the plan for the day. Everything they log lands in their diary, where their coach already looks.\n\nYour client data is not reachable from your connection. A coach connection cannot see a client list, a client's diary, their notes or their record, and it cannot message anyone. It works on the coach's own material only: recipes, foods, meal plan templates, collections, forms, booking hours, content, the store and the subscription. A client connection reaches that one client's own record and nobody else's, and cannot change the plan or the targets their coach set for them. Names and email addresses never go into our server logs.\n\nYou need a Foodzilla account. Foodzilla Autopilot is included with the Professional plan and above. Client access is a switch the coach controls, for one client or for everyone.",
       "information": [
         {
@@ -237937,7 +238347,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:06.868Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37921318699:1",
       "translation": {
         "summary": "规划膳食，管理您的实践",
@@ -237952,6 +238362,11 @@
           "neurons": 37.427528381347656,
           "total_tokens": 2196
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:11:04.612Z",
+      "detailError": {
+        "at": "2026-10-26T04:11:04.612Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac5087166fc8191b84fa6bad17d1492": {
@@ -237967,7 +238382,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "BEACON lets you talk to a specific private aircraft. Each aircraft's owner decides what BEACON may say about it, and nothing else is shared.\n\nAsk about a tail number to see what public record says about it (the FAA registration, the airframe and engines, registry history) and the facts its owner approved, such as type, year and passenger seats.\n\nPlanning a trip? Ask what a route would cost, for example Teterboro to Miami. BEACON works out the flight time from the owner's own numbers and gives an approximate total, including positioning from where the aircraft is parked when the owner charges for it. It is never a quote: the booking contact confirms the price.\n\nReady to go ahead? BEACON can send your trip request, or a buyer's inquiry, straight to the person the owner named. You confirm by email first, and nothing is sent until you do.\n\nBEACON never books a flight, holds an aircraft or takes payment. Any flight is arranged and operated by a certificated operator. No asking price is ever published.",
       "information": [
         {
@@ -238000,7 +238415,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:08.520Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "私人飞机租赁与销售",
@@ -238015,6 +238430,11 @@
           "neurons": 31.29214096069336,
           "total_tokens": 1909
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:11:07.015Z",
+      "detailError": {
+        "at": "2026-10-26T04:11:07.015Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac0a05d68c08191bbc97962184a32de": {
@@ -238030,7 +238450,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Live answers about passenger trains in 12 countries: where a train is now, how late it is, which stops it has left, what is leaving a station and from which platform, service alerts, and how punctual a train has been. Every answer carries a link to the same train or station on the live map. Read-only and account-free: it cannot book, cancel or pay for a ticket. Data handling: https://trainsonmap.com/privacy",
       "information": [
         {
@@ -238058,7 +238478,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:10.314Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "实时火车地图与延误信息",
@@ -238073,6 +238493,11 @@
           "neurons": 24.736982345581055,
           "total_tokens": 1548
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:11:09.409Z",
+      "detailError": {
+        "at": "2026-10-26T04:11:09.409Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac08a5b7d7881918510ed0ff6266adb": {
@@ -238088,7 +238513,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Planning to fly a drone in Thailand? Enter your drone (model or weight), whether it has a camera, where you will fly and why. DroneClear Thailand tells you what you need — CAAT and NBTC registration, the 1,000,000 THB third-party insurance and the main flight rules — each with its source, and which registration or insurance service fits, with a link to droneclearthailand.com. Info only, not legal advice; no personal data is collected in ChatGPT. Antworten auch auf Deutsch.",
       "information": [
         {
@@ -238121,7 +238546,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:11.931Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "泰国无人机法规检查",
@@ -238136,6 +238561,11 @@
           "neurons": 32.7270622253418,
           "total_tokens": 1828
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:11:12.285Z",
+      "detailError": {
+        "at": "2026-10-26T04:11:12.285Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd708f54f0819187d7d86e131a57c1": {
@@ -238151,7 +238581,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Find golf courses near a town, transit station, address or US ZIP, then build a shortlist for your next golf trip. Filter by public or private access, hole count and published tee yardage or slope. Explore course details, scorecards, architects, golf equipment and recently checked deals with links to Stymie.\n\nStymie reads public directory data without an account. Course cards help you compare picks and open the original pages. Coverage varies by country and course. Distances are straight-line estimates; confirm access, seasonal opening and availability directly with each course. Stymie does not book tee times, process payments, enroll you in alerts or access private account data. Equipment offer links may earn Stymie a commission at no extra cost to you.",
       "information": [
         {
@@ -238184,7 +238614,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:13.545Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "寻找高尔夫球场。规划您的比赛。",
@@ -238199,6 +238629,11 @@
           "neurons": 30.051212310791016,
           "total_tokens": 1786
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:11:15.195Z",
+      "detailError": {
+        "at": "2026-10-26T04:11:15.195Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac3e127a21c819198d8367561cc7737": {
@@ -238214,7 +238649,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Find and compare rental cars for a trip to Albania with Cria.al, a marketplace of local rental companies. Tell ChatGPT where and when you need a car, and it searches live availability at Tirana International Airport, Kukës International Airport and cities across the country, including Tirana, Durrës, Vlorë, Sarandë, Shkodër, Berat, Gjirokastër and Korçë.\n\nCompare whole-trip prices for your exact dates, with the extras you ask for included: full or partial insurance, a child seat, unlimited kilometres, or permission to drive into Montenegro, Kosovo, North Macedonia, Greece, Croatia, Bosnia and Herzegovina or Serbia. Narrow the search by automatic or manual gearbox, car type (from small city cars to SUVs, 4x4s and vans), fuel, number of seats, budget, or cars without a security deposit, and plan one-way rentals between two locations.\n\nFor any car, see its specs, photos, deposit, pickup and return locations with delivery fees, the rental company's opening hours and rating, the minimum rental days, the minimum driver age, how long cancellation stays free, the payment methods accepted at pickup and the price of each extra. When you have chosen, you get a link to book that car on cria.al with your trip filled in.\n\nSearch works without signing in. The tools read public listings and do not reserve cars, take payments, manage existing reservations or access account information. Availability and the final price are confirmed at checkout on cria.al, and the rental company then accepts or declines the request.",
       "information": [
         {
@@ -238247,7 +238682,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:15.202Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "在阿尔巴尼亚寻找租车服务",
@@ -238262,6 +238697,11 @@
           "neurons": 45.023101806640625,
           "total_tokens": 2441
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:11:17.584Z",
+      "detailError": {
+        "at": "2026-10-26T04:11:17.584Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac0b8553fb08191b2f78ab6c5a62773": {
@@ -238277,7 +238717,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "ate turns the food you eat into a sticker collection. Send a photo of a meal to ChatGPT and ask ate to save it: ChatGPT names the dish, and ate files it in your collection with its cuisine and the country it comes from. Next time you open the ate app on Android, the dish has been cut out of the photo as a sticker and placed in your collection and on your food map.\n\nYou can also ask about what you have eaten: what you had in a city or on a trip, how many cuisines you have tried, or when you last had a dish.\n\nWhat ate does in ChatGPT:\n- Saves a food photo you share to your ate collection, with the date and place you mention.\n- Shows a card with the photo, the dish, its cuisine and country, and a button to open the app.\n- Answers questions about your collection.\n\nate only keeps photos of real food. A photo that is not a meal, or shows a whole table of dishes, is not saved, and ChatGPT tells you why. ate never sees the rest of your conversation.\n\nYou need an ate account: get the app on Google Play and sign in with the same account when you connect.",
       "information": [
         {
@@ -238310,7 +238750,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:16.913Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38044451518:1",
       "translation": {
         "summary": "将食物照片保存为贴纸",
@@ -238325,6 +238765,11 @@
           "neurons": 33.07461929321289,
           "total_tokens": 1987
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:11:20.447Z",
+      "detailError": {
+        "at": "2026-10-26T04:11:20.447Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aab0ed15cc08191804ee043798de205": {
@@ -238368,7 +238813,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:18.644Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37921318699:1",
       "translation": {
         "summary": "搜索并规划青年旅社旅行",
@@ -238383,6 +238828,11 @@
           "neurons": 21.40491485595703,
           "total_tokens": 1420
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:11:23.313Z",
+      "detailError": {
+        "at": "2026-10-26T04:11:23.313Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe85151c708191a081622cf72ff880": {
@@ -238398,7 +238848,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Search active GdeNaPlaninu properties and accommodation units by destination, type, amenities, indicative price and dates. Explore interactive listing cards, photos and videos. Prepare an inquiry with your first name, last name, email, phone and message, review it and send it to the owner only after explicit confirmation. Inquiries do not create reservations or take payments. Confirm prices and availability directly with the owner.",
       "information": [
         {
@@ -238426,7 +238876,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:20.265Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "寻找山地住宿",
@@ -238441,6 +238891,11 @@
           "neurons": 30.06354331970215,
           "total_tokens": 1716
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:11:25.702Z",
+      "detailError": {
+        "at": "2026-10-26T04:11:25.702Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab5d70ff7ac819185f653366dce7e67": {
@@ -238456,7 +238911,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Use GetRide in ChatGPT to get synthetic demo ride quotes and check synthetic demo ride status. This initial ChatGPT integration demonstrates GetRide’s transportation experience in ChatGPT. It does not yet expose the broader GetRide rider, driver, service-seeker, booking, payment, bidding, or account-management features, and it does not access production ride data.",
       "information": [
         {
@@ -238484,7 +238939,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:21.940Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "获取乘车报价和状态",
@@ -238499,6 +238954,11 @@
           "neurons": 23.338699340820312,
           "total_tokens": 1486
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:11:28.070Z",
+      "detailError": {
+        "at": "2026-10-26T04:11:28.070Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abdfd8efb70819196e53b93cdc11a05": {
@@ -238514,7 +238974,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Ask to see a classic and Storieta shows it: comic pages you can turn, scenes painted from the opening chapters, and portraits of the people in the story.\n\nIt covers public-domain novels and plays such as Frankenstein, Dracula, Pride and Prejudice, Wuthering Heights, and Romeo and Juliet. Each comic opens with its first pages here, and every result links to the book on storieta.com.\n\nStorieta shows art it has already published. It doesn't draw on request, and it doesn't carry modern or copyrighted books.",
       "information": [
         {
@@ -238547,7 +239007,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:23.558Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "用图像阅读经典文学",
@@ -238562,6 +239022,11 @@
           "neurons": 36.15790557861328,
           "total_tokens": 1955
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:11:30.462Z",
+      "detailError": {
+        "at": "2026-10-26T04:11:30.462Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfdc298c20819192a2d44302a6e7a8": {
@@ -238577,7 +239042,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Find cinema showtimes across Japan without checking each cinema's website separately. Search by movie, area, cinema, date, start time, finish time, and screening features such as IMAX, Dolby Cinema, English audio, and English subtitles.\n\nEigakan Guide supports Japanese and English. Results include movie posters, cinemas, screening times in Japan Standard Time, and links to the matching listings on Eigakan Guide. Use Show more to load additional screenings with the same conditions.\n\nAn Eigakan Guide account is not required. The plugin searches collected schedules, not live seat availability, and cannot reserve seats or purchase tickets. Schedules can change; confirm the details on the cinema's official website before booking. Coverage is limited to supported cinemas and published schedules. English audio is marked only for eligible subtitled screenings of movies whose original English audio has been confirmed. English subtitles are a separate screening feature.",
       "information": [
         {
@@ -238605,7 +239070,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:25.217Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "日本电影院排片信息",
@@ -238620,6 +239085,11 @@
           "neurons": 33.32612228393555,
           "total_tokens": 1924
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:11:33.339Z",
+      "detailError": {
+        "at": "2026-10-26T04:11:33.339Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abec942f59c81919fd25221b4f33a61": {
@@ -238635,7 +239105,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Trovr helps music fans discover live entertainment in the New York metro area. Find concerts, jazz shows and DJ nights by date, genre, neighborhood, venue, budget or mood. Listen to artist music previews, explore artist details, and compare event cards with venue information, dates and links to third-party ticket sellers. Coverage includes New York City, Long Island, Westchester, northern New Jersey and southwest Connecticut. Trovr does not sell tickets or process purchases.",
       "information": [
         {
@@ -238663,7 +239133,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:26.914Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "纽约市演出及音乐试听",
@@ -238678,6 +239148,11 @@
           "neurons": 22.838294982910156,
           "total_tokens": 1484
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:11:35.691Z",
+      "detailError": {
+        "at": "2026-10-26T04:11:35.691Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a6656e3cd448191926a99bb4b4291f1": {
@@ -238693,7 +239168,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Use your own CardShow saves, follows, alerts, private show plans, attendance, and optional connected HobbyWise Hunt List to decide which card shows fit your goals and arrive prepared. Find public shows and shops, compare seller-declared show coverage, review your personal activity, and make exact CardShow updates only after you confirm them. Seller declarations are planning leads, not inventory or availability guarantees.",
       "information": [
         {
@@ -238721,7 +239196,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:28.585Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37887275480:1",
       "translation": {
         "summary": "规划你的卡展之旅",
@@ -238736,6 +239211,11 @@
           "neurons": 25.476558685302734,
           "total_tokens": 1557
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:11:38.583Z",
+      "detailError": {
+        "at": "2026-10-26T04:11:38.583Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfe45dfb988191be296277b3a95ddf": {
@@ -238751,7 +239231,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-09T05:12:31.229Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "WhatsTheID connects your assistant to its database of DJ set tracklists from YouTube. Ask what was played in a set, which track is playing at a given moment of a video, which sets a track has been played in, or what a channel has uploaded recently. Answers come from WhatsTheID's public tracklists, with links to the full tracklist and to the exact moment on YouTube.\n\nEvery track is labelled so you know how far to trust it: identified or still an unknown ID, and whether it comes from the uploader's own tracklist or YouTube's music detection, from listener comments, or from WhatsTheID's audio recognition. Estimated times are marked as estimates. If a set is not on WhatsTheID yet, the assistant says so and gives a link to add it; it never guesses a tracklist.\n\nTools:\n- Search DJ sets: find sets by DJ, event, festival, club, channel or genre.\n- Get set tracklist: the full tracklist of one set from its YouTube link.\n- Find track at timestamp: the track playing at a moment like 42:10, with the previous and next tracks.\n- Search tracks: find a track and the sets it was played in.\n- Latest sets from a channel: a channel's newest sets with tracklists.\n\nRead-only, with no account needed. Each answer is small (one tracklist or up to ten results) and links back to whatstheid.com.",
       "information": [
         {
@@ -238784,7 +239264,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:40:30.298Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37968692385:1",
       "translation": {
         "summary": "从YouTube获取DJ混音曲目列表",
@@ -238799,6 +239279,11 @@
           "neurons": 35.380859375,
           "total_tokens": 2100
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:11:40.965Z",
+      "detailError": {
+        "at": "2026-10-26T04:11:40.965Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab2e4c024788191899608e79b0f99ee": {
@@ -391451,23 +391936,23 @@
     "runId": "40265897781",
     "runAttempt": "1",
     "startedAt": "2026-10-26T03:49:29.089Z",
-    "updatedAt": "2026-10-26T04:06:36.227Z",
+    "updatedAt": "2026-10-26T04:11:41.067Z",
     "mode": "incremental",
-    "detailRequests": 352,
+    "detailRequests": 449,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
     "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 352,
+    "errors": 449,
     "stats": {
       "total": 5174,
       "details": 4992,
       "translated": 4805,
       "missing": 46,
       "removed": 291,
-      "pendingDetails": 509,
+      "pendingDetails": 604,
       "pendingTranslations": 369
     }
   }
