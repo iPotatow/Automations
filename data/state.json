@@ -40065,7 +40065,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "在爱尔兰找毕业生工作",
       "legacySummaryOriginal": "Find graduate jobs in Ireland",
@@ -40109,8 +40109,13 @@
         "reviewedAt": "2026-10-25T15:20:27.920Z",
         "translatedAt": "2026-10-25T15:20:27.920Z"
       },
-      "detailFailures": 0,
-      "lastMissingAt": "2026-10-13T06:01:17.120Z"
+      "detailFailures": 1,
+      "lastMissingAt": "2026-10-13T06:01:17.120Z",
+      "detailNextAttemptAt": "2026-10-26T04:59:36.030Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:36.030Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a50c534586c81918ee275283d28f4f4": {
       "id": "plugin_asdk_app_6a50c534586c81918ee275283d28f4f4",
@@ -218622,7 +218627,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查日本装修估价",
       "legacySummaryOriginal": "Check Japan reform estimates",
@@ -218666,7 +218671,13 @@
         "reviewedAt": "2026-10-25T15:20:27.924Z",
         "translatedAt": "2026-10-25T15:20:27.924Z"
       },
-      "lastMissingAt": "2026-10-10T04:57:53.084Z"
+      "lastMissingAt": "2026-10-10T04:57:53.084Z",
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:59:33.622Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:33.622Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a83873578e481919bd787b146af7e31": {
       "id": "plugin_asdk_app_6a83873578e481919bd787b146af7e31",
@@ -266502,7 +266513,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Lara Translate brings professional-grade, context-aware translation directly into OpenAI.\n\nUse Lara to translate text between supported languages, detect source languages, and work with translation memories and glossaries from your Lara Translate account. The app supports translation styles, contextual instructions, terminology control, adaptive memories, privacy options, HTML and XLIFF content, and Lara Think reasoning for higher-quality translation decisions.\n\nIt is designed for users and teams who need reliable multilingual output, consistent terminology, reusable translation assets, and translation workflows that can be automated from inside OpenAI.",
       "information": [
         {
@@ -266530,7 +266541,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:32:49.569Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "专业人工智能翻译",
@@ -266545,6 +266556,11 @@
           "neurons": 28.95933723449707,
           "total_tokens": 1712
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T04:59:38.357Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:38.357Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab6620658f48191aefbd2fbf0b2d52c": {
@@ -266560,7 +266576,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "TrackGleam helps musicians, producers, podcasters and AI-music creators finish songs for release. Share a track or its numbers and get a plain-English read of what is holding it back - loudness versus streaming level, clipping, muddy low mids, harsh highs, stereo problems - with practical targets for Spotify, Apple Music, YouTube and TikTok. When a tool can do the job, the plugin gives you a TrackGleam link that opens with a suggested starting style: free automatic mastering with WAV and MP3 downloads, a vocal-over-a-beat mixer, a Spotify Canvas maker, a music visualizer for Reels, TikTok and Shorts, a cover art maker and release-check tools. TrackGleam processes your audio in your own browser; your song is not uploaded. The plugin does not master or export files inside ChatGPT.",
       "information": [
         {
@@ -266588,7 +266604,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:32:51.428Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "掌控并发布你的歌曲",
@@ -266603,6 +266619,11 @@
           "neurons": 28.072250366210938,
           "total_tokens": 1727
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T04:59:40.701Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:40.701Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf5bd2134c8191aa7eeb70cb93644f": {
@@ -266618,7 +266639,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Create App Store and Google Play screenshots for your app. Describe what the app does and AppScreenshotStudio designs a full set of store screenshots at the exact sizes Apple and Google require. Refine the set by describing the change: shorter headlines, a new colour palette, a different layout, a tilted device, or one background stretched across several screenshots. When it looks right, export the PNGs, ready to upload to App Store Connect or Google Play Console.",
       "information": [
         {
@@ -266651,7 +266672,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:32:53.067Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "创建应用商店截图",
@@ -266666,6 +266687,11 @@
           "neurons": 34.16103744506836,
           "total_tokens": 1853
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T04:59:43.042Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:43.042Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf8a5cad4c8191b11f94979ee7d36f": {
@@ -266681,7 +266707,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "SlidesAI is an AI presentation maker for creating work, business and school presentations. Turn an idea, your notes or an uploaded document into a polished presentation without leaving ChatGPT.\n\nWhat you can make:\n• Pitch decks for startups, products and fundraising\n• Simple, clear lessons for teachers and students\n• Reports, team updates and project plans\n• Flowcharts, process maps and other complex diagrams\n• Data slides with charts and tables\n• Branded decks created from a PPTX you've imported into SlidesAI\n\nEvery slide stays editable. Fine-tune text, layout and design in the SlidesAI editor, then export your presentation to PowerPoint (PPTX), Google Slides or PDF.\n\nSlidesAI designs the slides, saves them to your account and gives you a link to open the deck in the SlidesAI editor.",
       "information": [
         {
@@ -266714,7 +266740,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:32:54.762Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "创建演示文稿幻灯片",
@@ -266729,6 +266755,11 @@
           "neurons": 35.20441436767578,
           "total_tokens": 1978
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T04:59:45.443Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:45.443Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf1f0a86d4819181b7f2cfd9ebfbb8": {
@@ -266744,7 +266775,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "CutPro finds the best moments of a long video and turns them into short, captioned vertical clips ready for TikTok, Reels and Shorts.\n\nPaste a YouTube, Twitch, Kick or TikTok link and CutPro clips the video, ranks the clips by how engaging they are, applies your saved templates, renders the final MP4s and posts them to the accounts you connected on cut.pro, now or on a schedule. ChatGPT always asks before starting a job or publishing anything.\n\nIt also follows your favorite channels: CutPro clips a live stream while it airs, every 10 minutes, so the best moments are ready before the broadcast ends. And it transcribes audio and video into timed captions in SRT, VTT or plain text.\n\nEverything happens in your own CutPro workspace, the same one you use on cut.pro.",
       "information": [
         {
@@ -266777,7 +266808,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:32:56.392Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "AI剪辑长视频",
@@ -266792,6 +266823,11 @@
           "neurons": 29.179656982421875,
           "total_tokens": 1782
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T04:59:47.808Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:47.808Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac05978bc548191a20935c3984a02eb": {
@@ -266807,7 +266843,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Generate images, video, voiceover and music from text prompts and reference files, using the generation models available in your varg.ai account. Find a voice preset and generate speech, browse and render published video templates, or render your own multi-scene video with captions and voiceover.\n\nVideo and render jobs run in the background: you can check their status and view the result when they finish. Generated and uploaded files are saved to your varg.ai library, and you can check your credit balance, spend and job history. Generations use credits from your varg.ai account.",
       "information": [
         {
@@ -266840,7 +266876,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:32:58.092Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "AI广告、图像、视频和音乐",
@@ -266855,6 +266891,11 @@
           "neurons": 26.63127899169922,
           "total_tokens": 1639
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T04:59:50.748Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:50.748Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a91e85f31c881918c744505e58cc458": {
@@ -266870,7 +266911,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "UlazAI Media helps users choose a supported image model, prepare a private 1K image request, create it from a recurring sponsored allowance, and retrieve the completed private file.",
       "information": [
         {
@@ -266898,7 +266939,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:32:59.751Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "生成私有AI图像",
@@ -266913,6 +266954,11 @@
           "neurons": 31.2766056060791,
           "total_tokens": 1710
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T04:59:53.092Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:53.092Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf5968aeac8191a0b899ac5a326dde": {
@@ -266961,7 +267007,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:01.352Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "在您的照片上预览服装",
@@ -266976,6 +267022,11 @@
           "neurons": 26.617759704589844,
           "total_tokens": 1569
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T04:59:55.921Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:55.921Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf5a1409e481919bcfc36e0d9813d3": {
@@ -266991,7 +267042,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Create 15-second videos from a brief or up to four selected still images. Preview settings and confirm generation, track progress, adjust captions, opening text, end cards, visual look and music, and download finished MP4s. For creators preparing short video content. Requires a connected Shorts Generator account with video-generation access.",
       "information": [
         {
@@ -267024,7 +267075,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:02.979Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "创建并完成短视频",
@@ -267039,6 +267090,11 @@
           "neurons": 21.91646385192871,
           "total_tokens": 1430
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T04:59:58.788Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:58.788Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa37cb6ef8c81918b76fe6033e487f5": {
@@ -267054,7 +267110,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Create images, video, voiceover and edits with guided presets and your own media. Browse a visual preset gallery, filter by image or video, and open a preset to see examples, estimated cost and the questions it needs answered.\n\nCustom widgets keep the workflow inside ChatGPT: fill in text fields, choose options, and select reference images from your NOLGIA library. Search and filter your saved assets in a visual grid, then reuse a logo, product photo or clip in your next creation.\n\nRemake a clip you already have with Miroge. Keep its movement and give it a new subject, swap one person or product for another, or move the whole scene into a new world, then compare the remake with your original.\n\nTurn one steady take into every camera angle with Multicam. See which angles your clip can have before anything is made, render only the ones you pick, in sync over the original sound, and get a highlight edit that cuts between them.\n\nChoose a preset for a YouTube thumbnail, product demo, logo reveal, animation and more, or describe a task directly. Generate supported media, check video job progress, retrieve finished files, and organize assets with projects and tags. Cut short vertical clips from a longer video, make a 3D model from product photos, or edit one image step by step and go back to any earlier version. Some multi-shot productions return a brief for NOLGIA Agent and, where supported, a single preview scene rather than a completed production.\n\nA NOLGIA account is required. Browsing presets and your library is free; generation uses NOLGIA credits.",
       "information": [
         {
@@ -267082,7 +267138,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:04.708Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "创建图像、视频和音频",
@@ -267097,6 +267153,11 @@
           "neurons": 33.131656646728516,
           "total_tokens": 2072
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:01.714Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:01.714Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac057b730048191bdd9101e7af9c262": {
@@ -267112,7 +267173,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "PrintNexus Toolbox brings 3D printing tools into ChatGPT for makers and 3D printing enthusiasts.\n\nWith Lithophane Maker, turn an image into a flat lithophane: a thin 3D printed plate that reveals the image when light shines through it. Set the width in millimeters, inspect the model in an interactive 3D preview, and compare lit and backlit views. Download your model as an STL or 3MF file.\n\nThe current release supports flat lithophanes printed in one color. More 3D printing tools are planned for future updates.",
       "information": [
         {
@@ -267145,7 +267206,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:06.356Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "面向ChatGPT的3D打印工具",
@@ -267160,6 +267221,11 @@
           "neurons": 32.15100860595703,
           "total_tokens": 1832
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:04.108Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:04.108Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf98ef18d08191a4fd0e854ba32ba4": {
@@ -267175,7 +267241,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "HyeAn searches the connected user's image and game-asset library from a natural-language description. Empty libraries use clearly labeled shared demo samples. Users can inspect their account plan, quota, and index status.",
       "information": [
         {
@@ -267208,7 +267274,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:07.972Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "搜索图像素材",
@@ -267223,6 +267289,11 @@
           "neurons": 30.999605178833008,
           "total_tokens": 1706
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:06.524Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:06.524Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa8e2aca74081918f43f8397b75c2e6": {
@@ -267238,7 +267309,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Generate images, audio, and video directly with Segmind. Turn your ideas into high-quality creative content using a range of generative AI models, all from one place. Whether you’re creating visuals, producing audio, or experimenting with video, Segmind makes it easy to go from a simple prompt to a finished result.",
       "information": [
         {
@@ -267266,7 +267337,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:09.606Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "生成图像、音频和视频",
@@ -267281,6 +267352,11 @@
           "neurons": 25.198490142822266,
           "total_tokens": 1536
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:08.899Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:08.899Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf9bc87c54819195fe8b47622dc33e": {
@@ -267296,7 +267372,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Komprimiere ein hochgeladenes PNG-, JPG-, WebP- oder AVIF-Bild für E-Mail, Website oder Messenger. Das Plugin verarbeitet die Datei während des Aufrufs, gibt das optimierte Bild und die Größenänderung zurück. Qualität und Ausgabeformat können gewählt werden. Dateien bis 8 MB; das Ergebnis wird nicht dauerhaft bei Alpenmarketing gespeichert.",
       "information": [
         {
@@ -267329,7 +267405,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:11.270Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "让图片文件更小",
@@ -267344,6 +267420,11 @@
           "neurons": 26.813888549804688,
           "total_tokens": 1617
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:11.272Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:11.272Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abeac48aec881918d79b743e1f50426": {
@@ -267359,7 +267440,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Turn a design into real stickers without leaving the conversation. Find the right sticker type, choose size, material and quantity, and see the price from stickers.com. Share or generate an image and it is attached to your order automatically, with a check that it will print sharply at the size you picked. When you're ready, check out securely on stickers.com.",
       "information": [
         {
@@ -267392,7 +267473,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:12.943Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "定制贴纸和标签",
@@ -267407,6 +267488,11 @@
           "neurons": 22.248958587646484,
           "total_tokens": 1446
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:13.656Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:13.656Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf9c73ae848191aff4c0dd4eeb5f55": {
@@ -267422,7 +267508,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Erzeuge einen echten QR-Code als PNG für eine Webadresse, Text, E-Mail-Adresse, Telefonnummer, SMS oder WhatsApp. Das Bild wird direkt im Chat erzeugt und kann für Flyer, Speisekarten oder Einladungen verwendet werden. Vor dem Druck mit mehreren Geräten testen.",
       "information": [
         {
@@ -267455,7 +267541,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:14.560Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "创建PNG格式的二维码",
@@ -267470,6 +267556,11 @@
           "neurons": 25.736957550048828,
           "total_tokens": 1563
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:15.979Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:15.979Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abbbb8acf54819199238a1c97b5ed2c": {
@@ -267485,7 +267576,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Identify fonts from screenshots and images with WhatFontIs. Compare matching fonts, preview uppercase letters, lowercase letters and numbers, and open font information pages. Results include available source and license-category information. Matches are suggestions, not a guarantee of the original font.",
       "information": [
         {
@@ -267513,7 +267604,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:16.440Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "通过图片识别字体",
@@ -267528,6 +267619,11 @@
           "neurons": 21.443571090698242,
           "total_tokens": 1406
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:18.327Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:18.327Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac4ed001d5c81918f6023c403630e67": {
@@ -267543,7 +267639,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Misar.Blog lets you write, publish and grow a blog from ChatGPT. Draft and edit articles, publish now or schedule for later, organise posts into series, research topics, generate SEO-friendly titles and cover images, and review comments, reactions, newsletter subscribers and traffic.\n\nIt is built for writers, creators and teams who publish on Misar.Blog. A Misar.Blog account is required, and the plugin only changes articles owned by the signed-in account.",
       "information": [
         {
@@ -267576,7 +267672,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:18.092Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "撰写并发布博客文章",
@@ -267591,6 +267687,11 @@
           "neurons": 26.890609741210938,
           "total_tokens": 1628
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:21.200Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:21.200Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfea5baae4819188aad3faed036a2b": {
@@ -267606,7 +267707,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "A developer troubleshooting tool for technical video metadata on Mac. Analyze pasted ffprobe JSON or MediaInfo JSON/Text reports to identify codec, resolution, HDR transfer characteristics and subtitle track types. Explain likely decoding and subtitle compatibility issues with evidence, sources and next diagnostic steps. Includes Stoic 1.2 release notes; decoder diagnostics remain pinned to verified Stoic 1.1 engine rules. Metadata analysis cannot verify the active decoder, measure performance, inspect pixels or guarantee compatibility. The plugin does not open movies, access your Mac or control playback. No sign-in is required.",
       "information": [
         {
@@ -267639,7 +267740,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:19.786Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "诊断Mac视频播放问题",
@@ -267654,6 +267755,11 @@
           "neurons": 28.70629119873047,
           "total_tokens": 1702
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:23.580Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:23.580Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6acd465c1d148191832781c3c8ab4d99": {
@@ -267669,7 +267775,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Executor gives ChatGPT a place to build and run apps and use the tools in your Executor workspace. Discover available app tools, read their instructions, run multi-step tasks, and create apps with persistent data.\n\nConnect an Executor account to use apps and services you have authorized. Available capabilities depend on your workspace, connected accounts, and permissions. Actions can change data in Executor or connected services. When an action requires approval, review the requested action and approve it before continuing.\n\nThis plugin uses dynamic tool discovery and JavaScript execution to coordinate operations across apps. It does not directly access files on your computer.",
       "information": [
         {
@@ -267702,7 +267808,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:21.394Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "通过AI构建和运行应用",
@@ -267717,6 +267823,11 @@
           "neurons": 26.804046630859375,
           "total_tokens": 1654
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:26.405Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:26.405Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abffbacd8ac819182b43af7ca245cf1": {
@@ -267732,7 +267843,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "SJ lets you build websites, web apps, games, landing pages, dashboards, and interactive experiences from natural-language instructions. Create projects, generate and edit code, preview your work, and deploy projects to the web through SJ.",
       "information": [
         {
@@ -267760,7 +267871,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:23.045Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "构建应用、网站及游戏",
@@ -267775,6 +267886,11 @@
           "neurons": 20.83953094482422,
           "total_tokens": 1376
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:28.752Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:28.752Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6acd1aa56f948191ab40d2bdb1fd5050": {
@@ -267790,7 +267906,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Create or edit mobile app source in ChatGPT Work's cloud coding workspace, compile it on Revyl cloud runners, verify the exact build on devices, run tests, and launch exploration agents to populate Atlas. The bundled launcher exposes the full pinned Revyl CLI; source workflows require shell, filesystem, network, and repository access. Connected MCP tools embed Atlas and existing device viewers when available. Requires Revyl authentication and app access. Builds, tests, devices, exploration, and remote app creation require explicit authorization; browsing does not provision resources.",
       "information": [
         {
@@ -267823,7 +267939,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:24.696Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "构建、测试并映射应用程序",
@@ -267838,6 +267954,11 @@
           "neurons": 28.43284797668457,
           "total_tokens": 1682
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:31.082Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:31.082Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abecba304048191a28846e93b6eb419": {
@@ -267853,7 +267974,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Wever Brief connects agent operators and developers to two read-only tools: the public Wever Labs daily operator brief and an operator brief builder. Read the current daily brief covering service observations and queue priorities, or supply your own service health and queue observations and have a structured brief assembled from them. The builder works only from the observations you supply. It does not poll services or access private records.",
       "information": [
         {
@@ -267886,7 +268007,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:26.550Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "为操作员提供的每日简报",
@@ -267901,6 +268022,11 @@
           "neurons": 28.706884384155273,
           "total_tokens": 1663
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:33.455Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:33.455Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf01947e2081919d1093c06468ed3d": {
@@ -267916,7 +268042,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Create website and simple App projects from a brief, inspect source files, make revision-checked edits, and open previews in your Goalmatic workspace. Draft previews can be accessible to anyone with the link; unpublished does not mean private. Publish an exact project version after approving it on Goalmatic, then check deployment status.\n\nA Goalmatic account and connection are required. You choose the workspaces and permissions to grant. This plugin supports project source and publishing; it does not send messages, process payments, install Apps, list Apps in the Goalmatic App Store, or execute arbitrary platform operations. Stored quality results do not replace testing your project.",
       "information": [
         {
@@ -267949,7 +268075,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:28.184Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "构建网站和简单应用",
@@ -267964,6 +268090,11 @@
           "neurons": 27.02661895751953,
           "total_tokens": 1663
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:35.847Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:35.847Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac780328d808191b66a771bceaea1f2": {
@@ -267979,7 +268110,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Nobl9 is the reliability platform, built on service level objectives (SLOs) and error budgets. It tells you whether the services your customers depend on are working, how much room you have before they notice a problem, and what to fix first. With this app, you can ask ChatGPT those questions in plain words and get answers from your own live Nobl9 data, in the same conversation where you do the rest of your work.\n\nAsk things like: Which of my services are closest to burning their error budget this month? What reliability target should the payments API have, given how it has behaved? Which alerts fired this week and which ones mattered? Set up a target for this service, and show me before you change anything.\n\nWhat you get: a straight answer on service health in one question; the story behind an alert, with the data that fired it; reliability targets built from how your services behave for users, with the error budget tracked against real monitoring data; alerts that page when a budget is burning fast and stay quiet when it drifts slowly; a status update you can paste into a channel, written from the numbers.\n\nNobl9 works from the monitoring tools your team already runs, including Prometheus, Datadog, Dynatrace, New Relic, Amazon CloudWatch, Google Cloud Monitoring, Splunk and others, so there is nothing new to instrument and the answers match your dashboards.\n\nWhat it can do: read your services, SLOs, error budgets, alerts and connected data sources; run a query against a connected data source; and draft, validate or apply an SLO or alert policy when you ask.\n\nHow it stays safe: you sign in with your own Nobl9 account, and ChatGPT sees only what you can see. Asking questions never changes anything. When you ask it to set up or change a target or an alert, it drafts the change, validates it against your organization, and shows you the full definition.\n\nRequires a Nobl9 account. Documentation: docs.nobl9.com/tools-and-utilities/mcp-server",
       "information": [
         {
@@ -268012,7 +268143,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:29.802Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "服务可靠性，尽在聊天中",
@@ -268027,6 +268158,11 @@
           "neurons": 38.3786506652832,
           "total_tokens": 2329
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:38.157Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:38.157Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd682abcbc8191b992c346a4afe819": {
@@ -268042,7 +268178,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Discover the right TanStack libraries, build new apps, add features to existing projects, debug issues and plan migrations. Includes introductions for every library in the current official catalog, plus public documentation tools. Use TanStack Intent for deeper guidance matched to installed package versions. Local Codex and connected build hosts can create, run and test apps. ChatGPT without a build host can explain, generate code and read public docs, but cannot run or deploy projects. Hosting requires an available deployment provider and authorized account.",
       "information": [
         {
@@ -268075,7 +268211,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:31.480Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "构建于TanStack堆栈之上",
@@ -268090,6 +268226,11 @@
           "neurons": 31.147829055786133,
           "total_tokens": 1766
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:40.560Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:40.560Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe841a58448191a199652eb556b6e0": {
@@ -268105,7 +268246,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "AppTail helps iOS developers decide what to build, where to launch, and how to improve App Store visibility. Research niches across storefronts, compare competing apps and their ratings, explore keyword popularity and search results, and turn listing and review evidence into practical ASO recommendations. Works for pre-launch ideas as well as existing apps. Connect your AppTail account with OAuth. Data access and tracking limits depend on your plan. Public app data and competitor estimates are distinct from measured App Store Connect analytics for your connected apps. Competitor downloads and revenue, when available, are rolling 30-day estimates. AppTail does not expose a standalone numeric keyword difficulty score, cover Google Play research, or publish listing metadata. Recommendations are based on available data and do not guarantee rankings or downloads.",
       "information": [
         {
@@ -268138,7 +268279,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:33.202Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "iOS市场调研与ASO",
@@ -268153,6 +268294,11 @@
           "neurons": 38.638572692871094,
           "total_tokens": 2061
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:42.934Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:42.934Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac4b7c301d881919201e306c6bd435f": {
@@ -268168,7 +268314,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "With the nunu.ai plugin, you can automate your QA testing. Author test cases in natural language and run them end to end on real Android and iOS devices, Windows VMs, and Browsers. Automatically inspect past runs, review bugs, and update test cases. Create complete test plans and run them on every new build or on a schedule.",
       "information": [
         {
@@ -268196,7 +268342,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:34.825Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "AI 驱动的软件测试",
@@ -268207,6 +268353,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-17T14:44:25.669Z",
         "translatedAt": "2026-10-17T14:44:25.669Z"
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:45.261Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:45.261Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf82d8eda081919e55aac35e66d0c0": {
@@ -268222,7 +268373,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Relvato monitors websites in a real browser: sign-ups, logins, checkout, payments, page speed, search visibility and security. It runs its monitors on a schedule and again every time the site changes, and it works on any website, going deepest on WordPress and WooCommerce.\n\nThis plugin brings your Relvato account into ChatGPT. Sign in once, then ask in plain words:\n- \"Which of my sites needs attention right now?\"\n- \"Why did checkout fail last night, and how do I fix it?\"\n- \"How fast is my shop for real visitors, and what slows it down?\"\n- \"Add my product pages to the visual monitor and run it.\"\n\nWhat ChatGPT can do with it:\n- Set up: add a site, walk you through proving it's yours (the WordPress plugin or a DNS record), and pick monitors for your goals.\n- Configure: schedules, re-runs after WordPress updates, the pages the visual monitor compares, checkout details, and custom monitors Relvato's AI writes from a plain-language goal.\n- Read: health and uptime, real-visitor and lab Core Web Vitals, each run's findings with screenshots, WordPress updates and the activity log.\n- Act: run monitors now, get the brief for fixing a failure, and on WordPress apply the one fix a run proposes or update a vulnerable plugin, with automatic undo if anything breaks.\n- Review: when you confirm a change is intended, accept a new screenshot or page structure, or ignore a finding. Every such decision can be undone.\n\nYou stay in control. Tools that change your site are marked so ChatGPT asks you first. ChatGPT works within your Relvato account's limits, can't skip proving a site is yours, and can't approve file-integrity, script or DNS changes, change who receives your alerts, see secrets, delete data or touch billing. Those stay in the Relvato dashboard.\n\nSign-in uses your Relvato account, and you can disconnect ChatGPT at any time under MCP connector → Connected assistants.",
       "information": [
         {
@@ -268255,7 +268406,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:36.578Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "监控并修复您的网站",
@@ -268270,6 +268421,11 @@
           "neurons": 43.46876907348633,
           "total_tokens": 2485
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:48.256Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:48.256Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe4899cbb081918c17cf28290df7b8": {
@@ -268285,7 +268441,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "VoiceLab is an AI voice platform for text-to-speech, speech-to-text, dubbing, meeting notetaking, and voice agents. Turn text into natural speech, transcribe and summarize meetings, localize audio with dubbing, and connect voice tools to agents via MCP.",
       "information": [
         {
@@ -268318,7 +268474,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:38.194Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "一站式语音AI平台",
@@ -268333,6 +268489,11 @@
           "neurons": 24.48179817199707,
           "total_tokens": 1504
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:50.857Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:50.857Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf6d8bef248191afa00da3f723b781": {
@@ -268348,7 +268509,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Edit existing web apps from ChatGPT. Connect a GitHub repository and ronda starts an isolated copy of the app with a running dev server and a live preview link. ChatGPT reads the code, makes small changes, checks the build output and shows you the result in the preview. Changes ChatGPT makes directly stay in the sandbox until you ask for a pull request. Changes made by ronda's hosted agent are pushed to a working branch in your repository (its name starts with ronda/session-), never to your default branch. Use it to change page copy, fix layout bugs, adjust styles or update components without setting up a local environment. ronda works with repositories you connect through your own GitHub account and only acts on projects in your ronda workspace. Limitations: the app must be able to run as a web project in a single container, setup can take a minute or two, and scripts run in the sandbox have time and output limits.",
       "information": [
         {
@@ -268381,7 +268542,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:39.821Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "通过聊天编辑你的网页应用",
@@ -268396,6 +268557,11 @@
           "neurons": 23.19735336303711,
           "total_tokens": 1584
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:53.209Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:53.209Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf159c9ad8819181a517ea256eb366": {
@@ -268475,7 +268641,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "RealMarket Site Check helps developers and website maintainers diagnose public website configuration and prioritize technical fixes. Give it a website address to receive findings from public DNS records, pages and scripts.\n\n- Email and site security: check SPF, DKIM and DMARC records, mail servers, HTTPS and security headers.\n- Web app security: inspect public JavaScript for exposed API keys and public source maps, and check security headers, deployment freshness and error monitoring.\n- Shopify storefront diagnostics: check social login, wishlist, the share of sold-out products and storefronts in several countries. This check requires a Shopify store.\n\nEach report includes a verdict, findings and suggested next steps. Email reports are in Portuguese; web app and storefront reports support Portuguese and Spanish. No account is needed. Checks only read public information: they never log in, submit forms or access private areas. A firewall can block a check, and the results are not a comprehensive security audit.",
       "information": [
         {
@@ -268508,7 +268674,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:43.143Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39094279837:1",
       "translation": {
         "summary": "检查网站邮箱和安全性",
@@ -268523,6 +268689,11 @@
           "neurons": 30.402442932128906,
           "total_tokens": 1834
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:55.625Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:55.625Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe1b7542dc81919433d2cbbc3f1ac4": {
@@ -268538,7 +268709,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "HTML and CSS playground with thirteen labs: Grid, Flexbox, Columns, Grid Lanes, border, border-radius, color-mix, box-shadow, datalist, details, Popover, text-box and text-wrap. Search by name or purpose, filter by category, adjust native controls, inspect reusable code and continue with the same settings on BaselineLab. Local changes are shared with the model only when requested. Experimental features show current-environment support notices; rendering does not establish support in other browsers.",
       "information": [
         {
@@ -268571,7 +268742,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:44.762Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "HTML和CSS探索平台",
@@ -268586,6 +268757,11 @@
           "neurons": 27.259035110473633,
           "total_tokens": 1635
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:00:58.565Z",
+      "detailError": {
+        "at": "2026-10-26T04:00:58.565Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf2f857c3c8191817ac3af7ff6e68a": {
@@ -268634,7 +268810,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:46.435Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "代理人的语音AI推理",
@@ -268649,6 +268825,11 @@
           "neurons": 33.3372688293457,
           "total_tokens": 1932
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:01.486Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:01.486Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe87836128819190a0f5a2ea32a8ef": {
@@ -268664,7 +268845,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "camelRun is camelAI's hosted runtime for AI agents. Connect your camelRun account to create agents from a plain-language description, give them built-in tools such as web search, run them and read their replies, and deploy agent.yaml manifests that keep an agent's configuration as a reusable, versioned definition. Agents are durable: each keeps its history until you delete it, can wake itself on a schedule, and can stop to ask you a question or for an approval, which you answer from the conversation.\n\nIt is for developers and teams who build agents for their products or their own work and want to try, adjust and manage them without leaving the conversation.\n\nThe plugin acts only on the camelRun account you sign in with, and only on its agents, definitions and schedules. Runs use your account's credit. It does not manage billing, API tokens or provider keys; do those in the camelRun console. Tool servers that need secrets are best deployed with the camelrun CLI, which reads them from its environment, so credentials never pass through the conversation. Deleting an agent or definition cannot be undone, so you are asked to confirm first.",
       "information": [
         {
@@ -268697,7 +268878,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:48.049Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "构建并运行AI代理",
@@ -268712,6 +268893,11 @@
           "neurons": 35.05796813964844,
           "total_tokens": 2019
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:04.457Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:04.457Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfd3655ea881918489f0bb660d12bc": {
@@ -268727,7 +268913,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "HelpTester brings its browser-based hardware tests and developer tools into ChatGPT.\n\nInteractive hardware tests that run directly in the chat:\n- Keyboard Tester: on-screen keyboard that lights up every key you press, finds dead, stuck or ghosting keys\n- Mouse Polling Rate Tester: measures your mouse's polling rate in Hz\n- Gamepad / Controller Tester: buttons, triggers, sticks and vibration (experimental inside ChatGPT)\n- Microphone Tester: live level meter, device selection, test recording (asks for microphone permission)\n- MIDI Device Tester: shows incoming notes from MIDI keyboards and controllers (Chrome/Edge)\n- Touchscreen Tester: draw, precision, multitouch, gesture and latency tests\n- Speaker Tester: left/right channel, frequency sweep and test tones\n\nNetwork checks:\n- IP Address & Network Check: your public IP, country, city, ISP plus latency and connectivity tests\n- Internet Speed Test: download, upload, ping and jitter\n\nDeveloper tools:\n- JSON Formatter & Validator\n- Base64 Encoder / Decoder\n- QR Code Generator (text, URL, email, phone, Wi-Fi, vCard)\n- DNS Checker (A, AAAA, MX, TXT, NS, CNAME, SOA)\n- AI Unicode Remover (strips invisible characters from AI-generated text)\n\nTests that need the full browser (webcam, dead pixel, CPU/GPU stress test, favicon checker/generator, tag checker, song key finder) open on helptester.com.\n\nAll tests use standard browser APIs and run client-side. No AI is used for the tests themselves, nothing is recorded or uploaded unless you explicitly save a result.",
       "information": [
         {
@@ -268760,7 +268946,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:49.705Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "硬件与开发者测试",
@@ -268775,6 +268961,11 @@
           "neurons": 41.20746994018555,
           "total_tokens": 2337
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:06.827Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:06.827Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfff383c648191bb00da1eda7a5370": {
@@ -268790,7 +268981,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "This read-only tool compares one exact published @voidly/pay-mcp release with the Node version and MCP transport you declare. The result can show a declared requirements match, a mismatch, or unknown. It cannot inspect your computer, launch a connector, access a Voidpay account, check service or payment readiness, create a checkout link, or move money.",
       "information": [
         {
@@ -268823,7 +269014,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:51.479Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "检查Voidpay MCP要求",
@@ -268838,6 +269029,11 @@
           "neurons": 24.95196533203125,
           "total_tokens": 1533
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:09.214Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:09.214Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa933e8d34c819191dc6066fb1b5589": {
@@ -268853,7 +269049,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Focus on the real cost of keeping a domain: its annual renewal price. Compare selected registrars, with initial registration prices shown separately and supported multi-year estimates. Your assistant suggests names and checks availability and premium status. Preserve source dates, partial coverage and unknown results. Renewal rates can change; purchases and exact premium prices remain at the registrar. Optional Cloudflare Radar data measures DNS popularity, not Google search competition. The native form collects seed names and an optional project brief; your current assistant generates and checks suggestions. The website form prepares a request to copy into a connected assistant. Website subscription authentication is not implemented.",
       "information": [
         {
@@ -268881,7 +269077,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:53.105Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "比较域名续费价格",
@@ -268896,6 +269092,11 @@
           "neurons": 34.48914337158203,
           "total_tokens": 1896
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:11.641Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:11.641Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aad5ef1fadc81919260bddebb06a407": {
@@ -268911,7 +269112,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Zernio connects ChatGPT to the social media accounts you have already linked in your Zernio workspace: Instagram, TikTok, YouTube, X, LinkedIn, Facebook, Threads, Pinterest, Reddit, Bluesky, Google Business Profile, Telegram, Snapchat, Discord and Slack.\n\nAsk ChatGPT to schedule a post for a specific time, publish immediately, edit or cancel something that has not gone out yet, retry a failed post, or check a draft against each platform's rules (character limits, required media or title) before it is scheduled. Review what is scheduled, drafted, published or failed, and pull performance numbers: impressions, reach, likes, comments, shares, saves and views for one post or across your accounts, plus the best times to post based on your own history.\n\nEvery action is limited to your own Zernio account. Publishing tools always ask for the exact accounts to use, and anything that goes live immediately is confirmed with you first. Sign in with your existing Zernio account to get started.",
       "information": [
         {
@@ -268939,7 +269140,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:54.750Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "安排社交媒体发布",
@@ -268954,6 +269155,11 @@
           "neurons": 30.019315719604492,
           "total_tokens": 1835
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:14.040Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:14.040Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a694dbe3be481918c07b45c1452a1cc": {
@@ -268969,7 +269175,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Jusratio connects ChatGPT to Brazilian case law and legislation. Search 42+ million deduplicated decisions from 99 Brazilian courts and public authorities, alongside consolidated legislation structured article by article. Results are ranked by legal authority and linked to their original sources.\n\nUse Jusratio to find relevant and binding precedents, validate legal arguments, identify contrary authorities, compare court positions, review legal documents, and draft well-grounded legal analyses, opinions, briefs, and other legal work with verifiable citations.\n\nCreate a free Jusratio account, no credit card required, to get started. Usage limits and available features depend on your plan.",
       "information": [
         {
@@ -268997,12 +269203,17 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:56.419Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "40206412107:1",
       "translationError": {
         "at": "2026-10-25T15:24:12.673Z",
         "message": "Workers AI translation failed: Translation missing or mistranslating positions",
         "transient": true
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:16.403Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:16.403Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a87785314348191bc6b215a013e56c3": {
@@ -269018,7 +269229,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Trainual is where growing companies run the operating side of the business — how work should be done, and how it is actually going.\n\nThis plugin provides read access to your Trainual account so answers are grounded in your company’s own documented practice and current operating context rather than generic advice.\n\nFrom the Training suite: search documented processes, policies, and role expectations. See what training has been assigned and who has completed it. Look up what a role is responsible for and which tools a team uses.\n\nFrom the Operations suite: pull goals and progress against them, scorecard metrics and trends, meeting records and action items, and recurring team updates.\n\nTogether that means you can ask how something is supposed to work and how it is actually going in the same conversation — the connection Trainual is built around.\n\nCommon uses include onboarding support, answering \"how do we do this here\" without interrupting a colleague, preparing for a meeting or a one-on-one, checking training completion across a team, and drafting content that stays consistent with documented process.\n\nAccess follows Trainual’s existing permission model. Users only reach content their Trainual account already permits, and the plugin never modifies data.",
       "information": [
         {
@@ -269046,7 +269257,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:58.074Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "了解公司运作方式",
@@ -269061,6 +269272,11 @@
           "neurons": 32.17887496948242,
           "total_tokens": 1961
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:19.288Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:19.288Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a4000b637448191adffbd1caf6dd878": {
@@ -269076,7 +269292,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Signal Pulse scans a business by name and website and reports whether AI assistants can find, describe, and recommend it accurately. It returns a Signal Strength rating (Strong, Weak, Low, or No Signal), a 0-100 score, a schema markup scan, and a per-platform summary of AI mentions. Built by Signal & Structure AI, an independent AI-discoverability consultancy, not affiliated with or endorsed by OpenAI. Free, one check per email, full report emailed to the requester.",
       "information": [
         {
@@ -269104,7 +269320,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:59.713Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "免费AI可发现性检测",
@@ -269119,6 +269335,11 @@
           "neurons": 21.961048126220703,
           "total_tokens": 1462
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:21.676Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:21.676Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a871daa5048819192a521a52e5513a9": {
@@ -269134,7 +269355,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Search Brazilian court cases, view details and docket updates, and request document downloads within the user's authenticated workspace.",
       "information": [
         {
@@ -269162,7 +269383,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:01.382Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "实时法院案件搜索",
@@ -269177,6 +269398,11 @@
           "neurons": 21.734207153320312,
           "total_tokens": 1385
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:24.055Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:24.055Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a9facd4ab6481919a2b14c37ab017cd": {
@@ -269251,7 +269477,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "AfterShip Post-Purchase for ChatGPT makes shipment and returns operations as easy as having a conversation. Connect your AfterShip data and simply chat to search shipments, review delivery status and tracking timelines, spot exceptions, look up specific orders, or review return and RMA details including refund progress, shipping status, returned items, and outcomes. Then act on what you find: with your confirmation, ChatGPT can correct shipment records, re-track stalled shipment, mark a final delivery status, and move returns through approval, receiving, and resolution — always scoped to your organization and your own AfterShip role.",
       "information": [
         {
@@ -269279,7 +269505,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:04.824Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "管理物流和退货",
@@ -269294,6 +269520,11 @@
           "neurons": 25.55813980102539,
           "total_tokens": 1597
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:26.454Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:26.454Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac6105b8e908191b05acdeef0b43b99": {
@@ -269309,7 +269540,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Orgvue is the organizational design and workforce planning platform used by enterprises to model, cost and reshape their organizations. Connect OpenAI to Orgvue to explore workforce data, organizational structures, and planning scenarios.\n\nIn plain, natural language, ask questions about your workforce data: spans and layers, headcount by function, cost of a proposed structure, the gap between your current and future-state organization, or anything else you might want to know.\n\nAsk workforce modelling questions and see the changes happening directly in Orgvue. You’ll get trusted answers grounded in your Orgvue data. See the impact of a scenario before you commit, draft the narrative for a restructure paper, or quickly pull the numbers you need for a board meeting.\n\nAccess follows your existing Orgvue permissions. OpenAI sees only the workspaces and datasets you're already entitled to, and only when you ask.\n\nOrgvue remains the trusted source of workforce data and organizational scenarios, while OpenAI provides a conversational way to interact with them.\n\nWhat you can do:\n- Query datasets and properties across your Orgvue workspaces\n- Summarize org structures - reporting lines, spans, layers, vacancies\n- Ask the agent workforce modelling questions and instantly visualise the impact of changes in Orgvue\n- Pull metrics and aggregations for reports, papers and presentations\n- Explain what a dataset contains before you dig into it",
       "information": [
         {
@@ -269337,7 +269568,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:06.530Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "探索Orgvue员工数据",
@@ -269352,6 +269583,11 @@
           "neurons": 40.1025505065918,
           "total_tokens": 2249
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:28.880Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:28.880Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad2247465dc8191b75d8267fc3c168f": {
@@ -269367,7 +269603,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-17T03:32:44.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Docteur Bet brings football statistics into ChatGPT. Ask about a match, a title race or a team's form, and get probabilities computed by a published Dixon-Coles model (Dixon & Coles, 1997), recalculated after every round, for 21 competitions: the Premier League, LaLiga, Serie A, Bundesliga and Ligue 1, three second divisions, other European leagues, the Champions League and the Europa League.\n\nWhat you can ask:\n• a match's chances: home win, draw, away win, number of goals, both teams scoring and the most likely exact scores, with expected goals and each team's attack and defence strength;\n• a league's season projection: each team's chances of winning the title, finishing in the European places or being relegated, and its projected points, from tens of thousands of simulated seasons;\n• a power ranking: which teams are stronger or weaker than their league position suggests;\n• upcoming fixtures of a competition with their probabilities.\n\nTeam nicknames are understood (\"PSG\", \"Man City\", \"Barça\"). Every answer names the model, the calculation date and links to the source page. Read-only, no account needed, no personal data.",
       "information": [
         {
@@ -269395,7 +269631,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:08.183Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39094279837:1",
       "translation": {
         "summary": "足球比赛胜率",
@@ -269410,6 +269646,11 @@
           "neurons": 28.1339111328125,
           "total_tokens": 1813
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:01:31.340Z",
+      "detailError": {
+        "at": "2026-10-26T04:01:31.340Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abec60109288191a197f59c3397f271": {
@@ -310011,6 +310252,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:56:33.748Z",
+      "detailError": {
+        "at": "2026-10-26T03:56:33.748Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac84a803ae08191844e4ca7fa9fc5b3": {
@@ -310026,6 +310274,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:56:36.085Z",
+      "detailError": {
+        "at": "2026-10-26T03:56:36.085Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6abe442850188191b2c2834b52a40c44": {
@@ -310041,6 +310296,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:56:38.460Z",
+      "detailError": {
+        "at": "2026-10-26T03:56:38.460Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac5962962f88191880556e78e894259": {
@@ -310056,6 +310318,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:56:40.735Z",
+      "detailError": {
+        "at": "2026-10-26T03:56:40.735Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6acc5dc1e7548191b191808d0abf5125": {
@@ -310071,6 +310340,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:56:43.120Z",
+      "detailError": {
+        "at": "2026-10-26T03:56:43.120Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6abef7474f7c81918c45bffdf006e148": {
@@ -310086,6 +310362,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:56:45.465Z",
+      "detailError": {
+        "at": "2026-10-26T03:56:45.465Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad4984f5f4c8191bb037a164533a81c": {
@@ -310101,6 +310384,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:56:47.798Z",
+      "detailError": {
+        "at": "2026-10-26T03:56:47.798Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac6b946f14481918ccbff187e6ff536": {
@@ -310116,6 +310406,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:56:50.128Z",
+      "detailError": {
+        "at": "2026-10-26T03:56:50.128Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac6c24843ec81919098e7f44c4bbf6b": {
@@ -310131,6 +310428,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:56:52.423Z",
+      "detailError": {
+        "at": "2026-10-26T03:56:52.423Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac92502d2148191bb8bda9f9a54ddde": {
@@ -310146,6 +310450,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:56:54.753Z",
+      "detailError": {
+        "at": "2026-10-26T03:56:54.753Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad2374316b88191869a1369f9a3f011": {
@@ -310161,6 +310472,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:56:57.120Z",
+      "detailError": {
+        "at": "2026-10-26T03:56:57.120Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac934fb51888191956d65c5f1fe95de": {
@@ -310176,6 +310494,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:56:59.974Z",
+      "detailError": {
+        "at": "2026-10-26T03:56:59.974Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6abef538e41c8191aec034b885f9742e": {
@@ -310191,6 +310516,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:02.319Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:02.319Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad19131b23481918cfc9a501198c37c": {
@@ -310206,6 +310538,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:04.641Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:04.641Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac794601db88191935e5573df973821": {
@@ -310221,6 +310560,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:07.084Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:07.084Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad8c174a60c8191a4b88da93bd431bc": {
@@ -310236,6 +310582,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:10.440Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:10.440Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac4d53eff8c8191a7fb278341ca0f1d": {
@@ -310251,6 +310604,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:12.786Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:12.786Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac94598ccf88191a2d0f07ba3bb92c0": {
@@ -310266,6 +310626,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:15.145Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:15.145Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac9343e733c8191b52a7c48308b7992": {
@@ -310281,6 +310648,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:17.505Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:17.505Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac4716cb7388191ac60d3264997dfee": {
@@ -310296,6 +310670,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:19.829Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:19.829Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac7600721288191a699e00a9023ba6d": {
@@ -310311,6 +310692,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:22.136Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:22.136Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a703a690370819194f6e23ab7cd6df8": {
@@ -310326,6 +310714,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:25.078Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:25.078Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_696880c7e5a481919191a9a8b23f6a61": {
@@ -310341,6 +310736,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:27.952Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:27.952Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ab957ec996481919ed6e51194f03454": {
@@ -310356,6 +310758,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:30.826Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:30.826Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6abe3d7728b48191a3fe52d6aa39a016": {
@@ -310371,6 +310780,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:34.654Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:34.654Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac8610834848191be960df8ac34a0b5": {
@@ -310386,6 +310802,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:38.019Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:38.019Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ada797563908191b8f7f3fd83159ff7": {
@@ -310401,6 +310824,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:40.345Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:40.345Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_69612510d5288191b6a4174252337e93": {
@@ -310416,6 +310846,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:43.222Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:43.222Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac7beccf3008191b63cfe9bf685c0a2": {
@@ -310431,6 +310868,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:46.128Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:46.128Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6abc311470cc81919b1f1cc1105d7f11": {
@@ -310446,6 +310890,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:48.494Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:48.494Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6abcd1b1ff0c81919e05f2b3f994f102": {
@@ -310461,6 +310912,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:53.165Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:53.165Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac753a200bc819193eb700f5055c734": {
@@ -310476,6 +310934,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:56.004Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:56.004Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ace3caa6e8481919fe70c964a6801cf": {
@@ -310491,6 +310956,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:57:58.346Z",
+      "detailError": {
+        "at": "2026-10-26T03:57:58.346Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac969c867008191bab61843ca7c985c": {
@@ -310506,6 +310978,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:00.712Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:00.712Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac712083f208191bbc5b0e92b4a6981": {
@@ -310521,6 +311000,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:03.067Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:03.067Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac014b3c0188191814246299209ac8e": {
@@ -310536,6 +311022,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:05.401Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:05.401Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6accba6b029c81919b38970799451d53": {
@@ -310551,6 +311044,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:07.853Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:07.853Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac9556bddd88191945eac5d215336db": {
@@ -310566,6 +311066,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:10.266Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:10.266Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad664f9789081918cf6e89ce556e8d6": {
@@ -310581,6 +311088,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:12.587Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:12.587Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac6123ce8f8819189218696990e9848": {
@@ -310596,6 +311110,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:14.913Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:14.913Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6acb73125f288191b3a9952ab26eaf5e": {
@@ -310611,6 +311132,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:17.769Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:17.769Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad1ec08adb08191a96e0467dd2f3415": {
@@ -310626,6 +311154,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:19.993Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:19.993Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad88cf43b048191a20e62dbb384691a": {
@@ -310641,6 +311176,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:22.317Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:22.317Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac6b4598398819188aad1e6eabb2086": {
@@ -310656,6 +311198,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:25.263Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:25.263Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac63f2639d48191a353700b6f1dc21d": {
@@ -310671,6 +311220,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:27.551Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:27.551Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad9bf8ed69481918df687f2d3d2ff1e": {
@@ -310686,6 +311242,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:29.893Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:29.893Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad9bd7b6fac81919c5c9f58e56201e3": {
@@ -310701,6 +311264,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:32.226Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:32.226Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac7f57808ac81919c50e881682a4def": {
@@ -310716,6 +311286,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:35.051Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:35.051Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac60fb2ef4481918f991aeab0b58698": {
@@ -310731,6 +311308,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:37.376Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:37.376Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad33d3695188191a47aefc6052da11a": {
@@ -310746,6 +311330,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:39.644Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:39.644Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6adb558b778c8191bab580d57aa24005": {
@@ -310761,6 +311352,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:42.027Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:42.027Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_699d871f7dfc819192b74090657868fb": {
@@ -310776,6 +311374,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:44.361Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:44.361Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a9b3697697c8191a047ca62d35cb526": {
@@ -310791,6 +311396,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:46.664Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:46.664Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6abdacc02aec81919d791ee6a97bf6e5": {
@@ -310806,6 +311418,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:49.037Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:49.037Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6aba9b267ba48191864d2468929303a4": {
@@ -310821,6 +311440,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:51.890Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:51.890Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac6ba566be481919dc9737581a07932": {
@@ -310836,6 +311462,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:54.193Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:54.193Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac80356356c819196b2138ca0bd2c37": {
@@ -310851,6 +311484,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:56.554Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:56.554Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6acbc2c84bb8819193e2c18f981c82d7": {
@@ -310866,6 +311506,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:58:58.960Z",
+      "detailError": {
+        "at": "2026-10-26T03:58:58.960Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad81d9cf9ec819184ce79b133db5d75": {
@@ -310881,6 +311528,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:59:01.327Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:01.327Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ada49ea97348191972d453fa80948fe": {
@@ -310896,6 +311550,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:59:04.279Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:04.279Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad8aaae6cbc8191b9b1dad69f643593": {
@@ -310911,6 +311572,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:59:06.507Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:06.507Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ace1dc2f578819187b43dd52fb5ce71": {
@@ -310926,6 +311594,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:59:08.909Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:08.909Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac8a6faf25c81919fe5efc5d9c36c71": {
@@ -310941,6 +311616,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:59:11.288Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:11.288Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac6e5ad459c8191abe11deec93a82ac": {
@@ -310956,6 +311638,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:59:13.661Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:13.661Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac2adb148d88191a5f9baaf56aef707": {
@@ -310971,6 +311660,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:59:16.151Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:16.151Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac793cd4a208191b7ea848c27ca62d2": {
@@ -310986,6 +311682,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:59:18.496Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:18.496Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad5650d7b9c81919804d69c8e24cf02": {
@@ -311001,6 +311704,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:59:20.762Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:20.762Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac784905700819182339334cdd30ae1": {
@@ -311016,6 +311726,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:59:23.129Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:23.129Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac4794ff5f08191be326458beeafc87": {
@@ -311031,6 +311748,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:59:25.507Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:25.507Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad4ae91107c81919345d990f4f7f04e": {
@@ -311046,6 +311770,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:59:27.863Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:27.863Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac6f954e35c8191a17b12679da2962f": {
@@ -311061,6 +311792,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-26T03:51:22.235Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T04:59:30.743Z",
+      "detailError": {
+        "at": "2026-10-26T03:59:30.743Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     }
   },
@@ -390103,23 +390841,23 @@
     "runId": "40265897781",
     "runAttempt": "1",
     "startedAt": "2026-10-26T03:49:29.089Z",
-    "updatedAt": "2026-10-26T03:56:27.887Z",
+    "updatedAt": "2026-10-26T04:01:31.437Z",
     "mode": "incremental",
-    "detailRequests": 111,
+    "detailRequests": 230,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
     "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 111,
+    "errors": 230,
     "stats": {
       "total": 5174,
       "details": 4992,
       "translated": 4805,
       "missing": 46,
       "removed": 291,
-      "pendingDetails": 352,
+      "pendingDetails": 398,
       "pendingTranslations": 369
     }
   }
