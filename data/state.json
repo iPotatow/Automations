@@ -244235,17 +244235,17 @@
       "detailFailures": 1,
       "translationAttemptRun": "40373775641:1",
       "translation": {
-        "summary": "通过班级代码进行英语练习",
-        "description": "Class Key通过六位字符的班级代码获取教师准备的英语课程设置。学习者可确认课程名称和版本后，使用返回的场景、AI角色、可选英语等级和反馈设置在ChatGPT中进行练习。该工具不会获取学生的身份信息、答题内容或聊天记录，仅记录使用次数并执行请求限制。教师登录和应用内报告功能尚未上线；使用代码CKTEST可访问公开的示例课程。",
-        "sourceHash": "9ff5ea39d34c6f6d1d034fd536083b826a4c72389f03432aad3e18f6dda16209",
+        "summary": "老师将提示通过一个代码发送给学生",
+        "description": "Class Key通过六位课程代码获取教师准备的英语课程设置。学习者可以确认课程标题和版本，然后使用返回的情景、AI角色、可选的英语级别和反馈设置，在ChatGPT中进行练习。该工具不会接收学生身份、答案或聊天记录。它会记录使用次数并执行请求限制。教师登录和配套网站上的应用内报告功能尚未启用；使用代码CKTEST可访问公开的示例课程。",
+        "sourceHash": "b75ee3aab3347b99c3c6dea2ca8537cbbd1c5f69f5c2b9e1e2b114edbdcdfa12",
         "status": "translated",
         "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-        "translatedAt": "2026-10-12T05:03:40.557Z",
+        "translatedAt": "2026-10-26T18:05:25.825Z",
         "qualityVersion": 2,
         "usage": {
           "requests": 1,
-          "neurons": 27.99043083190918,
-          "total_tokens": 1659
+          "neurons": 32.6946907043457,
+          "total_tokens": 1821
         }
       },
       "detailNextAttemptAt": "2026-10-26T05:23:41.963Z",
@@ -245399,19 +245399,19 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:53:38.558Z",
       "detailFailures": 1,
-      "translationAttemptRun": "38354216619:1",
+      "translationAttemptRun": "40373775641:1",
       "translation": {
-        "summary": "Google Analytics 4分析洞察",
-        "description": "通过五个只读工具探索在TalkToData中选择的Google Analytics 4属性。可询问流量、获取来源、页面、设备和七天摘要。该插件按需获取授权数据，无法修改您的分析属性。",
-        "sourceHash": "0e513bc5ed9e44313a151487bd52caaefa554d3c5f661eb7860a5acc05d0ebbd",
+        "summary": "实时只读GA4洞察",
+        "description": "通过TalkToData中选择的Google Analytics 4属性，使用五个只读工具进行探索。可查询流量、获取来源、页面、设备以及七天摘要。该插件按需获取授权数据，无法修改您的分析属性。",
+        "sourceHash": "738f632ccb80ffb6f7ddddf18fd6505fa85d6b7f4bcb09382d9e260257a3c946",
         "status": "translated",
         "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-        "translatedAt": "2026-10-13T06:07:08.021Z",
+        "translatedAt": "2026-10-26T18:05:36.515Z",
         "qualityVersion": 2,
         "usage": {
           "requests": 1,
-          "neurons": 22.791812896728516,
-          "total_tokens": 1446
+          "neurons": 26.84958267211914,
+          "total_tokens": 1580
         }
       },
       "detailNextAttemptAt": "2026-10-26T05:23:46.650Z",
@@ -250819,17 +250819,17 @@
       "detailFailures": 1,
       "translationAttemptRun": "40373775641:1",
       "translation": {
-        "summary": "随时随地尽享俱乐部体验",
-        "description": "DayPass助您发现并预订全球高端酒店泳池、海滩俱乐部、水疗中心和吊床体验——无需住宿。\n按城市或国家搜索实时体验项目，查看照片、评分、价格（含儿童及幼儿）、可用性、设施及用户评价；每个搜索结果均链接至DayPass预订页面。\n预订和支付均在DayPass官网完成（https://daypassapp.com）\n\nDayPass目前覆盖美洲、欧洲、中东及非洲、亚太地区的体验项目。\n美洲：\n阿卡普尔科、卡博圣卢卡斯、坎昆、哥斯达黎加、瓜德罗普、马提尼克、拿骚、奥兰多、普拉亚德尔卡曼、蓬塔卡纳、巴亚尔塔港、圣卢西亚、辛特马尔滕、特克斯和凯科斯群岛。\n欧洲：\n阿尔布费拉、安塔利亚、博德鲁姆、格雷戈利马诺、伊比萨岛、伊斯坦布尔、马略卡岛、马拉加、黑山、米科诺斯岛、西西里岛、特内里费岛、瓦勒德拉伊斯、维特尔。\n中东及非洲：\n阿布扎比、卡萨布兰卡、杰尔巴、吉布提、多哈、迪拜、富查伊拉、马拉喀什、毛里求斯、拉斯海马、利雅得、丹吉尔。\n亚太地区：\n巴厘岛、曼谷、宾坦岛、加勒、华欣、沙美岛、马尔代夫、莫珀拉、普吉岛、新加坡。",
-        "sourceHash": "67d9d5525d59d59de7a5b9b5e1d41d12a11e61f70c860d268488cf8e347b6d3d",
+        "summary": "酒店泳池、水疗中心、海滩俱乐部",
+        "description": "DayPass助您发现并预订全球高端酒店泳池、海滩俱乐部、水疗中心和别墅的体验项目——无需过夜住宿。通过城市或国家搜索实时体验项目，查看包含照片、评分、价格（含儿童及儿童）、可用性、设施和用户评价的详情，每个结果均链接至DayPass预订页面。预订和支付均在DayPass官网完成（https://daypassapp.com）\n\nDayPass目前在美洲、欧洲、中东及非洲、亚太地区提供体验项目。美洲：阿卡普尔科、卡波圣卢卡斯、坎昆、哥斯达黎加、瓜德罗普、马提尼克、拿骚、奥兰多、普拉亚德尔卡曼、蓬塔卡纳、巴亚尔塔港、圣卢西亚、辛特马尔滕、特克斯和凯科斯群岛。欧洲：阿尔布费拉、安塔利亚、博德鲁姆、格雷戈里马诺、伊比萨岛、伊斯坦布尔、马略卡岛、马拉加、黑山、米科诺斯岛、西西里岛、特内里费岛、瓦尔德赛尔、维特尔。中东及非洲：阿布扎比、卡萨布兰卡、杰尔巴、吉布提、多哈、迪拜、富查伊拉、马拉喀什、毛里求斯、拉斯海马、利雅得、丹吉尔。亚太地区：巴厘岛、曼谷、宾坦岛、加勒、华欣、苏梅岛、马尔代夫、莫珀斯、普吉岛、新加坡。",
+        "sourceHash": "ee5ac8d23b6e209800b49d448130abc38ed4e8800fb00d4be139605cc3e12e32",
         "status": "translated",
         "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-        "translatedAt": "2026-10-14T09:12:11.584Z",
+        "translatedAt": "2026-10-26T18:05:30.699Z",
         "qualityVersion": 2,
         "usage": {
           "requests": 1,
-          "neurons": 38.427268981933594,
-          "total_tokens": 2183
+          "neurons": 43.291255950927734,
+          "total_tokens": 2346
         }
       },
       "detailNextAttemptAt": "2026-10-26T05:24:20.701Z",
@@ -250938,19 +250938,19 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:54:49.330Z",
       "detailFailures": 1,
-      "translationAttemptRun": "38540368201:1",
+      "translationAttemptRun": "40373775641:1",
       "translation": {
-        "summary": "全球酒店搜索",
-        "description": "Hotely可让您直接在ChatGPT内搜索全球酒店。输入目的地、日期和人数即可获得实时定价结果，包含评分、设施和照片信息，可查看所有可选房型及价格详情。预订可通过hotely.travel网站上的「在Hotely预订」链接安全完成。该插件为只读模式，不会执行预订、收费或修改预订操作。",
-        "sourceHash": "fd173fa66b9399bb3e338f8c2a27bb81bd0997658055530f49a54dfff73748de",
+        "summary": "独家酒店优惠",
+        "description": "Hotely 让您可以直接在 ChatGPT 内搜索全球酒店。输入目的地、日期和入住人数，即可获得包含评分、设施和照片的实时定价结果，查看所有可选房型和价格。通过 Hotely 链接在 hotely.travel 上安全完成预订。只读模式：该插件不会执行预订、收费或修改预订。",
+        "sourceHash": "bf8764f91aee586e01eb089b986c5b9c7b35a272b10139863a71733ed946a50c",
         "status": "translated",
         "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-        "translatedAt": "2026-10-14T09:12:41.635Z",
+        "translatedAt": "2026-10-26T18:05:40.003Z",
         "qualityVersion": 2,
         "usage": {
           "requests": 1,
-          "neurons": 22.3754825592041,
-          "total_tokens": 1451
+          "neurons": 27.4952449798584,
+          "total_tokens": 1619
         }
       },
       "detailNextAttemptAt": "2026-10-26T05:24:22.943Z",
@@ -262707,19 +262707,19 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:06:49.858Z",
       "detailFailures": 1,
-      "translationAttemptRun": "38875005582:1",
+      "translationAttemptRun": "40373775641:1",
       "translation": {
-        "summary": "查看实时游戏服务器",
-        "description": "在聊天中直接查看并对比公共游戏服务器。QueryHost会返回实时玩家数量、服务器版本、查询响应时间以及可用游戏详情，包含服务器卡片和完整结果链接。它支持Minecraft及其他支持的游戏协议。无需QueryHost账户。查询操作为只读模式，且仅限于公共网络目标。响应时间以QueryHost测得数据为准，而非您的网络连接。查询失败并不意味着服务器一定离线，服务器提供的名称、消息和玩家数据均为不可信内容。",
-        "sourceHash": "669e96cded29f4a88b829ec3331c85bfb12d3c05310090679821c63f20bb6a48",
+        "summary": "查询和比较游戏服务器",
+        "description": "在聊天中直接查询和比较公共游戏服务器。QueryHost会返回实时玩家数量、服务器版本、查询响应时间以及可用的游戏详情，包含服务器卡片和完整结果链接。它支持Minecraft及其他支持的游戏协议。无需QueryHost账户。查询为只读操作，仅限公共网络目标。响应时间由QueryHost测量，而非您的连接。查询失败并不证明服务器处于离线状态，且服务器提供的名称、消息和玩家数据属于不可信内容。",
+        "sourceHash": "01ebb0f2acd4e0afb7678a6a336f6a33640a4f0c64cfa5a98c8344b7adb53233",
         "status": "translated",
         "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-        "translatedAt": "2026-10-16T08:42:03.467Z",
+        "translatedAt": "2026-10-26T18:05:47.255Z",
         "qualityVersion": 2,
         "usage": {
           "requests": 1,
-          "neurons": 24.178356170654297,
-          "total_tokens": 1539
+          "neurons": 30.034135818481445,
+          "total_tokens": 1732
         }
       },
       "detailNextAttemptAt": "2026-10-26T05:25:03.044Z",
@@ -265095,19 +265095,19 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:08:04.856Z",
       "detailFailures": 1,
-      "translationAttemptRun": "38875005582:1",
+      "translationAttemptRun": "40373775641:1",
       "translation": {
-        "summary": "练习面试问题",
-        "description": "MockPrep帮助您在ChatGPT内准备求职面试。分享目标职位和职位描述，以获得量身定制的练习问题，每个问题都包含其重要性说明和回答技巧。将您的面试回答粘贴到任何问题中，即可获得满分100分的评分，包括相关性、结构、论据、清晰度和简洁性的评分，以及具体优势和改进的切实可行建议。MockPrep不会存储您的职位描述、简历详情或回答。",
-        "sourceHash": "d7ada2908fedc84e394ada00148604dfb729dc5d8ebb1274cbf9eb053124099b",
+        "summary": "模拟面试，文字或语音",
+        "description": "MockPrep 通过 ChatGPT 帮助您准备求职面试。分享目标职位和职位描述，获取定制练习问题，每个问题包含其重要性说明及回答技巧。将任意面试答案粘贴至此处可获得100分制评分，评分维度包括相关性、结构、论据、清晰度和简洁性，同时提供具体优势说明和具体的改进建议。MockPrep 不会保存您的职位描述、简历信息或回答内容。",
+        "sourceHash": "eeb3d2add09978fdfa5ffc837aaecf50e8774516c1eabe6d61f122abff699d8e",
         "status": "translated",
         "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-        "translatedAt": "2026-10-16T08:41:13.754Z",
+        "translatedAt": "2026-10-26T18:05:40.962Z",
         "qualityVersion": 2,
         "usage": {
           "requests": 1,
-          "neurons": 27.308837890625,
-          "total_tokens": 1629
+          "neurons": 27.017963409423828,
+          "total_tokens": 1622
         }
       },
       "detailNextAttemptAt": "2026-10-26T05:25:05.400Z",
@@ -265953,19 +265953,19 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:08:31.019Z",
       "detailFailures": 1,
-      "translationAttemptRun": "38875005582:1",
+      "translationAttemptRun": "40373775641:1",
       "translation": {
-        "summary": "探索天主教讲道",
-        "description": "通过主题、圣经经文、日期或堂区查找天主教讲道。比较不同观点并准备讨论笔记，附有源页面链接。用您的语言提问：ChatGPT会搜索主要为波兰语的档案库，并用您的语言解释结果。还可探索每日读经、祈祷文及公开的堂区信息。覆盖范围仅限于参与的教堂。文本记录可能包含错误；部分文本由AI编辑或摘要。翻译和评论内容与原始文本有所区分。仅提供公开的、已隐去隐私信息的内容；无需登录或记录控制。",
-        "sourceHash": "d3154056b56b465278705b8a58ee78d07b7f2f2a6833e235c6c593c0e76db0b6",
+        "summary": "寻找并比较讲道",
+        "description": "通过主题、圣经经文、日期或堂区查找天主教讲道。比较不同观点并准备讨论笔记，附带来源页面链接。用您的语言提问：ChatGPT搜索主要为波兰语的档案，并用您的语言解释结果。还可探索每日读经、祈祷文及公开堂区信息。覆盖范围仅限于参与的教堂。文本可能包含错误；部分文本由AI编辑或摘要。翻译和评论与原文本区分开来。仅提供公开的、已隐去隐私信息的内容；无需登录或录制控制。",
+        "sourceHash": "682b58aa78feb7bed540d93974c9ebc63f6e6837fb6132b9bf71911c34bd6d53",
         "status": "translated",
         "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-        "translatedAt": "2026-10-16T08:42:08.561Z",
+        "translatedAt": "2026-10-26T18:05:52.746Z",
         "qualityVersion": 2,
         "usage": {
           "requests": 1,
-          "neurons": 36.086639404296875,
-          "total_tokens": 1934
+          "neurons": 34.14087677001953,
+          "total_tokens": 1871
         }
       },
       "detailNextAttemptAt": "2026-10-26T05:25:07.940Z",
@@ -293368,19 +293368,19 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:44.451Z",
       "detailFailures": 1,
-      "translationAttemptRun": "39718789524:1",
+      "translationAttemptRun": "40373775641:1",
       "translation": {
-        "summary": "查找澳大利亚课程",
-        "description": "通过One U Education的课程目录搜索并对比澳大利亚课程。按地点、资格等级、学习时长、估算学费及英语要求筛选，并提供境内和境外学生选项。查看课程及教育机构详情，部分课程可探索相关技能职业和技能评估信息。课程费用和可用性为估算值，需以机构确认为准。",
-        "sourceHash": "c61dafaddc1addffa2146a4e4e1e7a6dda1b5881821a8246b5b5b7e95e62aa9e",
+        "summary": "澳大利亚课程与移民",
+        "description": "通过One U Education的课程目录搜索和比较澳大利亚课程。按地点、资格级别、学习时长、预估学费和英语要求筛选，支持境内和境外学生选项。查看课程和教育机构详情，并可探索相关技能职业及技能评估信息（如适用）。课程费用和可用性为预估信息，需以机构实际确认为准。",
+        "sourceHash": "3268ad10440348cc68e66b2b36167e69a9c8717206751ba0a6066f67ccb45e7c",
         "status": "translated",
         "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-        "translatedAt": "2026-10-22T04:02:29.788Z",
+        "translatedAt": "2026-10-26T18:05:36.055Z",
         "qualityVersion": 2,
         "usage": {
           "requests": 1,
-          "neurons": 27.181245803833008,
-          "total_tokens": 1607
+          "neurons": 20.908069610595703,
+          "total_tokens": 1402
         }
       },
       "detailNextAttemptAt": "2026-10-26T05:24:13.091Z",
@@ -395749,17 +395749,129 @@
         "neurons": 33.91344451904297,
         "total_tokens": 2269
       }
+    },
+    "b75ee3aab3347b99c3c6dea2ca8537cbbd1c5f69f5c2b9e1e2b114edbdcdfa12": {
+      "summary": "老师将提示通过一个代码发送给学生",
+      "description": "Class Key通过六位课程代码获取教师准备的英语课程设置。学习者可以确认课程标题和版本，然后使用返回的情景、AI角色、可选的英语级别和反馈设置，在ChatGPT中进行练习。该工具不会接收学生身份、答案或聊天记录。它会记录使用次数并执行请求限制。教师登录和配套网站上的应用内报告功能尚未启用；使用代码CKTEST可访问公开的示例课程。",
+      "sourceHash": "b75ee3aab3347b99c3c6dea2ca8537cbbd1c5f69f5c2b9e1e2b114edbdcdfa12",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-26T18:05:25.825Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 32.6946907043457,
+        "total_tokens": 1821
+      }
+    },
+    "ee5ac8d23b6e209800b49d448130abc38ed4e8800fb00d4be139605cc3e12e32": {
+      "summary": "酒店泳池、水疗中心、海滩俱乐部",
+      "description": "DayPass助您发现并预订全球高端酒店泳池、海滩俱乐部、水疗中心和别墅的体验项目——无需过夜住宿。通过城市或国家搜索实时体验项目，查看包含照片、评分、价格（含儿童及儿童）、可用性、设施和用户评价的详情，每个结果均链接至DayPass预订页面。预订和支付均在DayPass官网完成（https://daypassapp.com）\n\nDayPass目前在美洲、欧洲、中东及非洲、亚太地区提供体验项目。美洲：阿卡普尔科、卡波圣卢卡斯、坎昆、哥斯达黎加、瓜德罗普、马提尼克、拿骚、奥兰多、普拉亚德尔卡曼、蓬塔卡纳、巴亚尔塔港、圣卢西亚、辛特马尔滕、特克斯和凯科斯群岛。欧洲：阿尔布费拉、安塔利亚、博德鲁姆、格雷戈里马诺、伊比萨岛、伊斯坦布尔、马略卡岛、马拉加、黑山、米科诺斯岛、西西里岛、特内里费岛、瓦尔德赛尔、维特尔。中东及非洲：阿布扎比、卡萨布兰卡、杰尔巴、吉布提、多哈、迪拜、富查伊拉、马拉喀什、毛里求斯、拉斯海马、利雅得、丹吉尔。亚太地区：巴厘岛、曼谷、宾坦岛、加勒、华欣、苏梅岛、马尔代夫、莫珀斯、普吉岛、新加坡。",
+      "sourceHash": "ee5ac8d23b6e209800b49d448130abc38ed4e8800fb00d4be139605cc3e12e32",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-26T18:05:30.699Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 43.291255950927734,
+        "total_tokens": 2346
+      }
+    },
+    "3268ad10440348cc68e66b2b36167e69a9c8717206751ba0a6066f67ccb45e7c": {
+      "summary": "澳大利亚课程与移民",
+      "description": "通过One U Education的课程目录搜索和比较澳大利亚课程。按地点、资格级别、学习时长、预估学费和英语要求筛选，支持境内和境外学生选项。查看课程和教育机构详情，并可探索相关技能职业及技能评估信息（如适用）。课程费用和可用性为预估信息，需以机构实际确认为准。",
+      "sourceHash": "3268ad10440348cc68e66b2b36167e69a9c8717206751ba0a6066f67ccb45e7c",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-26T18:05:36.055Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 20.908069610595703,
+        "total_tokens": 1402
+      }
+    },
+    "738f632ccb80ffb6f7ddddf18fd6505fa85d6b7f4bcb09382d9e260257a3c946": {
+      "summary": "实时只读GA4洞察",
+      "description": "通过TalkToData中选择的Google Analytics 4属性，使用五个只读工具进行探索。可查询流量、获取来源、页面、设备以及七天摘要。该插件按需获取授权数据，无法修改您的分析属性。",
+      "sourceHash": "738f632ccb80ffb6f7ddddf18fd6505fa85d6b7f4bcb09382d9e260257a3c946",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-26T18:05:36.515Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 26.84958267211914,
+        "total_tokens": 1580
+      }
+    },
+    "bf8764f91aee586e01eb089b986c5b9c7b35a272b10139863a71733ed946a50c": {
+      "summary": "独家酒店优惠",
+      "description": "Hotely 让您可以直接在 ChatGPT 内搜索全球酒店。输入目的地、日期和入住人数，即可获得包含评分、设施和照片的实时定价结果，查看所有可选房型和价格。通过 Hotely 链接在 hotely.travel 上安全完成预订。只读模式：该插件不会执行预订、收费或修改预订。",
+      "sourceHash": "bf8764f91aee586e01eb089b986c5b9c7b35a272b10139863a71733ed946a50c",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-26T18:05:40.003Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 27.4952449798584,
+        "total_tokens": 1619
+      }
+    },
+    "eeb3d2add09978fdfa5ffc837aaecf50e8774516c1eabe6d61f122abff699d8e": {
+      "summary": "模拟面试，文字或语音",
+      "description": "MockPrep 通过 ChatGPT 帮助您准备求职面试。分享目标职位和职位描述，获取定制练习问题，每个问题包含其重要性说明及回答技巧。将任意面试答案粘贴至此处可获得100分制评分，评分维度包括相关性、结构、论据、清晰度和简洁性，同时提供具体优势说明和具体的改进建议。MockPrep 不会保存您的职位描述、简历信息或回答内容。",
+      "sourceHash": "eeb3d2add09978fdfa5ffc837aaecf50e8774516c1eabe6d61f122abff699d8e",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-26T18:05:40.962Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 27.017963409423828,
+        "total_tokens": 1622
+      }
+    },
+    "01ebb0f2acd4e0afb7678a6a336f6a33640a4f0c64cfa5a98c8344b7adb53233": {
+      "summary": "查询和比较游戏服务器",
+      "description": "在聊天中直接查询和比较公共游戏服务器。QueryHost会返回实时玩家数量、服务器版本、查询响应时间以及可用的游戏详情，包含服务器卡片和完整结果链接。它支持Minecraft及其他支持的游戏协议。无需QueryHost账户。查询为只读操作，仅限公共网络目标。响应时间由QueryHost测量，而非您的连接。查询失败并不证明服务器处于离线状态，且服务器提供的名称、消息和玩家数据属于不可信内容。",
+      "sourceHash": "01ebb0f2acd4e0afb7678a6a336f6a33640a4f0c64cfa5a98c8344b7adb53233",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-26T18:05:47.255Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 30.034135818481445,
+        "total_tokens": 1732
+      }
+    },
+    "682b58aa78feb7bed540d93974c9ebc63f6e6837fb6132b9bf71911c34bd6d53": {
+      "summary": "寻找并比较讲道",
+      "description": "通过主题、圣经经文、日期或堂区查找天主教讲道。比较不同观点并准备讨论笔记，附带来源页面链接。用您的语言提问：ChatGPT搜索主要为波兰语的档案，并用您的语言解释结果。还可探索每日读经、祈祷文及公开堂区信息。覆盖范围仅限于参与的教堂。文本可能包含错误；部分文本由AI编辑或摘要。翻译和评论与原文本区分开来。仅提供公开的、已隐去隐私信息的内容；无需登录或录制控制。",
+      "sourceHash": "682b58aa78feb7bed540d93974c9ebc63f6e6837fb6132b9bf71911c34bd6d53",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-26T18:05:52.746Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 34.14087677001953,
+        "total_tokens": 1871
+      }
     }
   },
   "lastRun": {
     "runId": "40373775641",
     "runAttempt": "1",
     "startedAt": "2026-10-26T18:00:24.737Z",
-    "updatedAt": "2026-10-26T18:05:25.393Z",
+    "updatedAt": "2026-10-26T18:05:53.037Z",
     "mode": "translate",
     "detailRequests": 0,
-    "translationRequests": 54,
-    "translationAttempts": 44,
+    "translationRequests": 60,
+    "translationAttempts": 50,
     "translationLimit": 50,
     "aiConfigured": true,
     "blocked": false,
@@ -395768,11 +395880,11 @@
     "stats": {
       "total": 5174,
       "details": 4992,
-      "translated": 4937,
+      "translated": 4945,
       "missing": 46,
       "removed": 291,
       "pendingDetails": 756,
-      "pendingTranslations": 237
+      "pendingTranslations": 229
     }
   }
 }
