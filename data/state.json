@@ -82,7 +82,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "处理 PR、Issue、CI 并管理发布流程",
       "legacySummaryOriginal": "Triage PRs, issues, CI, and publish flows",
@@ -133,7 +133,12 @@
         "reviewedAt": "2026-10-25T15:20:28.008Z",
         "translatedAt": "2026-10-25T15:20:28.008Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:17:35.221Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:35.221Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_connector_1p_6bcb5879c73c819196abc70016166099": {
       "id": "plugin_connector_1p_6bcb5879c73c819196abc70016166099",
@@ -147,7 +152,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "整理 Outlook 收件箱",
       "legacySummaryOriginal": "Triage Outlook inboxes",
@@ -198,7 +203,12 @@
         "reviewedAt": "2026-10-25T15:20:27.998Z",
         "translatedAt": "2026-10-25T15:20:27.998Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:17:37.598Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:37.598Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69d3e5ee6a708191baa733f7b8931995": {
       "id": "plugin_asdk_app_69d3e5ee6a708191baa733f7b8931995",
@@ -212,7 +222,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "管理并查询数据库",
       "legacySummaryOriginal": "Manage and query databases",
@@ -263,7 +273,12 @@
         "reviewedAt": "2026-10-25T15:20:27.993Z",
         "translatedAt": "2026-10-25T15:20:27.993Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:17:40.449Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:40.449Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69a8f78087e081919e52cacacf00ff36": {
       "id": "plugin_asdk_app_69a8f78087e081919e52cacacf00ff36",
@@ -321,7 +336,12 @@
         "reviewedAt": "2026-10-25T15:20:28.009Z",
         "translatedAt": "2026-10-25T15:20:28.009Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:17:42.814Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:42.814Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a314a73f8ac819195b0d55e36b9c609": {
       "id": "plugin_asdk_app_6a314a73f8ac819195b0d55e36b9c609",
@@ -404,7 +424,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "创建、审核与编辑设计作品",
       "legacySummaryOriginal": "Create, review, edit designs",
@@ -448,7 +468,12 @@
         "reviewedAt": "2026-10-25T15:20:27.992Z",
         "translatedAt": "2026-10-25T15:20:27.992Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:17:45.191Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:45.191Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69ea4ed2cf7c8191b742ef3622479ddd": {
       "id": "plugin_asdk_app_69ea4ed2cf7c8191b742ef3622479ddd",
@@ -462,7 +487,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "面向 AI 智能体的网页搜索",
       "legacySummaryOriginal": "Web search for AI agents",
@@ -506,7 +531,12 @@
         "reviewedAt": "2026-10-25T15:20:28.004Z",
         "translatedAt": "2026-10-25T15:20:28.004Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:17:47.491Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:47.491Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a244fb509e481918985fee76373b0f9": {
       "id": "plugin_asdk_app_6a244fb509e481918985fee76373b0f9",
@@ -520,7 +550,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "AI WordPress 工具",
       "legacySummaryOriginal": "AI WordPress tools",
@@ -564,7 +594,12 @@
         "reviewedAt": "2026-10-25T15:20:28.014Z",
         "translatedAt": "2026-10-25T15:20:28.014Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:17:49.928Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:49.928Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a624c56bfe081918f7544f7d58f6faf": {
       "id": "plugin_asdk_app_6a624c56bfe081918f7544f7d58f6faf",
@@ -709,7 +744,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "读取并管理 Slack",
       "legacySummaryOriginal": "Read and manage Slack",
@@ -758,7 +793,12 @@
         "reviewedAt": "2026-10-25T15:20:28.008Z",
         "translatedAt": "2026-10-25T15:20:28.008Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:17:52.220Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:52.220Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698": {
       "id": "plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698",
@@ -774,7 +814,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "创建并管理你的店铺",
       "legacySummaryOriginal": "Create and manage your store",
@@ -818,7 +858,12 @@
         "reviewedAt": "2026-10-25T15:20:27.992Z",
         "translatedAt": "2026-10-25T15:20:27.992Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:17:54.613Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:54.613Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14": {
       "id": "plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14",
@@ -833,7 +878,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "把 HubSpot 数据洞察变成行动",
       "legacySummaryOriginal": "Insights to action in HubSpot",
@@ -877,7 +922,12 @@
         "reviewedAt": "2026-10-25T15:20:27.992Z",
         "translatedAt": "2026-10-25T15:20:27.992Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:17:56.997Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:56.997Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_connector_690a90ec05c881918afb6a55dc9bbaa1": {
       "id": "plugin_connector_690a90ec05c881918afb6a55dc9bbaa1",
@@ -954,7 +1004,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "连接 350+ 数据源",
       "legacySummaryOriginal": "Connect 350+ data sources",
@@ -998,7 +1048,12 @@
         "reviewedAt": "2026-10-25T15:20:27.992Z",
         "translatedAt": "2026-10-25T15:20:27.992Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:17:59.349Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:59.349Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69fb9378663481919a68e8a2109644e5": {
       "id": "plugin_asdk_app_69fb9378663481919a68e8a2109644e5",
@@ -1012,7 +1067,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "面向 AI 的网页搜索",
       "legacySummaryOriginal": "Web search for AI",
@@ -1056,7 +1111,12 @@
         "reviewedAt": "2026-10-25T15:20:28.015Z",
         "translatedAt": "2026-10-25T15:20:28.015Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:02.357Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:02.357Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a502589384081919c5decf93496c9d1": {
       "id": "plugin_asdk_app_6a502589384081919c5decf93496c9d1",
@@ -1070,7 +1130,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "构建并部署应用",
       "legacySummaryOriginal": "Build and deploy apps",
@@ -1114,7 +1174,12 @@
         "reviewedAt": "2026-10-25T15:20:28.011Z",
         "translatedAt": "2026-10-25T15:20:28.011Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:04.607Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:04.607Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69bc11db874881918718abaca20b68ce": {
       "id": "plugin_asdk_app_69bc11db874881918718abaca20b68ce",
@@ -1127,7 +1192,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "分析全球市场",
       "legacySummaryOriginal": "Analyze global markets",
@@ -1171,7 +1236,12 @@
         "reviewedAt": "2026-10-25T15:20:27.993Z",
         "translatedAt": "2026-10-25T15:20:27.993Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:06.973Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:06.973Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69dd11f3e50c8191b1ca48d03cf7e2ad": {
       "id": "plugin_asdk_app_69dd11f3e50c8191b1ca48d03cf7e2ad",
@@ -1185,7 +1255,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "助力在 YouTube、Instagram 与 TikTok 上成长",
       "legacySummaryOriginal": "Grow on YouTube, IG & TikTok",
@@ -1229,7 +1299,12 @@
         "reviewedAt": "2026-10-25T15:20:28.005Z",
         "translatedAt": "2026-10-25T15:20:28.005Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:09.282Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:09.282Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69d73fc8aa5c8191bec1583760b130c7": {
       "id": "plugin_asdk_app_69d73fc8aa5c8191bec1583760b130c7",
@@ -1243,7 +1318,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "分析并定时发布帖子",
       "legacySummaryOriginal": "Analyze and schedule posts",
@@ -1287,7 +1362,12 @@
         "reviewedAt": "2026-10-25T15:20:28.015Z",
         "translatedAt": "2026-10-25T15:20:28.015Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:11.635Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:11.635Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_connector_690aabb71bf481918b8d5b614ed3fd4c": {
       "id": "plugin_connector_690aabb71bf481918b8d5b614ed3fd4c",
@@ -1300,7 +1380,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "管理项目、任务与 CRM",
       "legacySummaryOriginal": "Manage projects, tasks & CRM",
@@ -1344,7 +1424,12 @@
         "reviewedAt": "2026-10-25T15:20:27.999Z",
         "translatedAt": "2026-10-25T15:20:27.999Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:13.944Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:13.944Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_697761cab6f48191b5ed345919a3ce8b": {
       "id": "plugin_asdk_app_697761cab6f48191b5ed345919a3ce8b",
@@ -1358,7 +1443,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "添加你的会议上下文",
       "legacySummaryOriginal": "Add your meeting context",
@@ -1402,7 +1487,12 @@
         "reviewedAt": "2026-10-25T15:20:28.012Z",
         "translatedAt": "2026-10-25T15:20:28.012Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:16.291Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:16.291Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69df87e6e6748191aca3ebded268f03b": {
       "id": "plugin_asdk_app_69df87e6e6748191aca3ebded268f03b",
@@ -1415,7 +1505,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "一站式每日计划工具",
       "legacySummaryOriginal": "All in one daily planner",
@@ -1459,7 +1549,12 @@
         "reviewedAt": "2026-10-25T15:20:28.004Z",
         "translatedAt": "2026-10-25T15:20:28.004Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:18.630Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:18.630Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a5ae9736be0819199d06d61ac171080": {
       "id": "plugin_asdk_app_6a5ae9736be0819199d06d61ac171080",
@@ -1473,7 +1568,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查询你的会议笔记",
       "legacySummaryOriginal": "Ask about your meeting notes",
@@ -1517,7 +1612,12 @@
         "reviewedAt": "2026-10-25T15:20:28.015Z",
         "translatedAt": "2026-10-25T15:20:28.015Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:20.962Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:20.962Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69d88b99c5c481918e8da9225737e1e9": {
       "id": "plugin_asdk_app_69d88b99c5c481918e8da9225737e1e9",
@@ -1599,7 +1699,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "管理 Outlook 日程",
       "legacySummaryOriginal": "Manage Outlook schedules",
@@ -1650,7 +1750,12 @@
         "reviewedAt": "2026-10-25T15:20:27.993Z",
         "translatedAt": "2026-10-25T15:20:27.993Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:23.214Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:23.214Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69461dc91ee48191ae4a14eb9bde1c21": {
       "id": "plugin_asdk_app_69461dc91ee48191ae4a14eb9bde1c21",
@@ -1664,7 +1769,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "创建、投放并分析广告",
       "legacySummaryOriginal": "Create, launch & analyze ads",
@@ -1709,7 +1814,12 @@
         "reviewedAt": "2026-10-25T15:20:28.003Z",
         "translatedAt": "2026-10-25T15:20:28.003Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:25.601Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:25.601Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_694421e60cc88191a1e5bb4aa79950e4": {
       "id": "plugin_asdk_app_694421e60cc88191a1e5bb4aa79950e4",
@@ -1723,7 +1833,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "获取营销洞察",
       "legacySummaryOriginal": "Get insights on your marketing",
@@ -1768,7 +1878,12 @@
         "reviewedAt": "2026-10-25T15:20:28.007Z",
         "translatedAt": "2026-10-25T15:20:28.007Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:27.947Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:27.947Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6943b73823548191a9f9216c6790c453": {
       "id": "plugin_asdk_app_6943b73823548191a9f9216c6790c453",
@@ -1782,7 +1897,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "计划与提醒事项",
       "legacySummaryOriginal": "Planner & Reminders",
@@ -1827,7 +1942,12 @@
         "reviewedAt": "2026-10-25T15:20:28.008Z",
         "translatedAt": "2026-10-25T15:20:28.008Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:30.295Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:30.295Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_connector_1p_dca009ae2c848191ae14df3a47c5e7fd": {
       "id": "plugin_connector_1p_dca009ae2c848191ae14df3a47c5e7fd",
@@ -1840,7 +1960,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "总结 SharePoint 内容",
       "legacySummaryOriginal": "Summarize SharePoint content",
@@ -1891,7 +2011,12 @@
         "reviewedAt": "2026-10-25T15:20:28.011Z",
         "translatedAt": "2026-10-25T15:20:28.011Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:32.670Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:32.670Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69a21e4058dc8191a6220fa911310d7b": {
       "id": "plugin_asdk_app_69a21e4058dc8191a6220fa911310d7b",
@@ -1905,7 +2030,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "最佳邮件加日历助手",
       "legacySummaryOriginal": "Best email+calendar assistant",
@@ -1950,7 +2075,12 @@
         "reviewedAt": "2026-10-25T15:20:28.007Z",
         "translatedAt": "2026-10-25T15:20:28.007Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:36.078Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:36.078Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69616780bd208191b4fb44ba44f72b61": {
       "id": "plugin_asdk_app_69616780bd208191b4fb44ba44f72b61",
@@ -1964,7 +2094,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "把对话变成行动项",
       "legacySummaryOriginal": "Turn chats into actions",
@@ -2015,7 +2145,12 @@
         "reviewedAt": "2026-10-25T15:20:27.998Z",
         "translatedAt": "2026-10-25T15:20:27.998Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:38.887Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:38.887Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_693ca6ce2db08191bb52d66743c65184": {
       "id": "plugin_asdk_app_693ca6ce2db08191bb52d66743c65184",
@@ -2028,7 +2163,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "为 ChatGPT 添加结构化数据",
       "legacySummaryOriginal": "Add structured data to ChatGPT",
@@ -2073,7 +2208,12 @@
         "reviewedAt": "2026-10-25T15:20:27.999Z",
         "translatedAt": "2026-10-25T15:20:27.999Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:41.252Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:41.252Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_connector_6912075cb358819187346bcafb601db8": {
       "id": "plugin_connector_6912075cb358819187346bcafb601db8",
@@ -7074,7 +7214,12 @@
         "reviewedAt": "2026-10-25T15:20:27.923Z",
         "translatedAt": "2026-10-25T15:20:27.923Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:43.579Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:43.579Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_694e289261b08191b244259e30ce0836": {
       "id": "plugin_asdk_app_694e289261b08191b244259e30ce0836",
@@ -7419,7 +7564,12 @@
         "reviewedAt": "2026-10-25T15:20:27.991Z",
         "translatedAt": "2026-10-25T15:20:27.991Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:45.926Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:45.926Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_699f3c9f85788191874d8a0a43d5bca3": {
       "id": "plugin_asdk_app_699f3c9f85788191874d8a0a43d5bca3",
@@ -8637,7 +8787,12 @@
         "reviewedAt": "2026-10-25T15:20:27.930Z",
         "translatedAt": "2026-10-25T15:20:27.930Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:48.242Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:48.242Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a6a109fe5ac8191a5329c53684f11e8": {
       "id": "plugin_asdk_app_6a6a109fe5ac8191a5329c53684f11e8",
@@ -8991,7 +9146,12 @@
         "reviewedAt": "2026-10-25T15:20:27.987Z",
         "translatedAt": "2026-10-25T15:20:27.987Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:50.475Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:50.475Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_699dc623e5488191955863d8c4a7ad19": {
       "id": "plugin_asdk_app_699dc623e5488191955863d8c4a7ad19",
@@ -9163,7 +9323,12 @@
         "reviewedAt": "2026-10-25T15:20:27.916Z",
         "translatedAt": "2026-10-25T15:20:27.916Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:53.334Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:53.334Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69aa229aaca8819193b7dec8750221c9": {
       "id": "plugin_asdk_app_69aa229aaca8819193b7dec8750221c9",
@@ -12435,7 +12600,12 @@
         "reviewedAt": "2026-10-25T15:20:27.976Z",
         "translatedAt": "2026-10-25T15:20:27.976Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:55.701Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:55.701Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a270c13971481919912d877b5b32fc6": {
       "id": "plugin_asdk_app_6a270c13971481919912d877b5b32fc6",
@@ -20382,7 +20552,12 @@
         "reviewedAt": "2026-10-25T15:20:27.866Z",
         "translatedAt": "2026-10-25T15:20:27.866Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:18:58.040Z",
+      "detailError": {
+        "at": "2026-10-26T04:18:58.040Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a64dbf73b2081919451bd855439099c": {
       "id": "plugin_asdk_app_6a64dbf73b2081919451bd855439099c",
@@ -20497,7 +20672,12 @@
         "reviewedAt": "2026-10-25T15:20:27.859Z",
         "translatedAt": "2026-10-25T15:20:27.859Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:12.429Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:12.429Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69457256862081919686f32b07ac4699": {
       "id": "plugin_asdk_app_69457256862081919686f32b07ac4699",
@@ -20953,7 +21133,12 @@
         "reviewedAt": "2026-10-25T15:20:27.942Z",
         "translatedAt": "2026-10-25T15:20:27.942Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:14.816Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:14.816Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a47a7d270ec81919cf225b009c734b0": {
       "id": "plugin_asdk_app_6a47a7d270ec81919cf225b009c734b0",
@@ -24347,7 +24532,12 @@
         "reviewedAt": "2026-10-25T15:20:27.940Z",
         "translatedAt": "2026-10-25T15:20:27.940Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:17.184Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:17.184Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a54cbce3f9081918c3ff9f5b12c206c": {
       "id": "plugin_asdk_app_6a54cbce3f9081918c3ff9f5b12c206c",
@@ -26704,7 +26894,12 @@
         "reviewedAt": "2026-10-25T15:20:27.807Z",
         "translatedAt": "2026-10-25T15:20:27.807Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:19.608Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:19.608Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a315470ce608191b84918b58a3bbfb5": {
       "id": "plugin_asdk_app_6a315470ce608191b84918b58a3bbfb5",
@@ -29052,7 +29247,12 @@
         "reviewedAt": "2026-10-25T15:20:27.987Z",
         "translatedAt": "2026-10-25T15:20:27.987Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:22.054Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:22.054Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a43c6c6e10c8191a2970373c77ec0de": {
       "id": "plugin_asdk_app_6a43c6c6e10c8191a2970373c77ec0de",
@@ -29225,7 +29425,12 @@
         "reviewedAt": "2026-10-25T15:20:27.991Z",
         "translatedAt": "2026-10-25T15:20:27.991Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:24.422Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:24.422Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a845baf5fb88191a0ddd23a38550254": {
       "id": "plugin_asdk_app_6a845baf5fb88191a0ddd23a38550254",
@@ -29796,7 +30001,12 @@
         "reviewedAt": "2026-10-25T15:20:27.950Z",
         "translatedAt": "2026-10-25T15:20:27.950Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:26.776Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:26.776Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69d5925bcec48191bf76d70c7c3a97b5": {
       "id": "plugin_asdk_app_69d5925bcec48191bf76d70c7c3a97b5",
@@ -31054,7 +31264,12 @@
         "reviewedAt": "2026-10-25T15:20:27.953Z",
         "translatedAt": "2026-10-25T15:20:27.953Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:29.103Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:29.103Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7380d05fac8191b6082b0a30b278fc": {
       "id": "plugin_asdk_app_6a7380d05fac8191b6082b0a30b278fc",
@@ -32369,7 +32584,12 @@
         "reviewedAt": "2026-10-25T15:20:27.846Z",
         "translatedAt": "2026-10-25T15:20:27.846Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:31.457Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:31.457Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a95b4984de08191aa2aea2a3aef1dce": {
       "id": "plugin_asdk_app_6a95b4984de08191aa2aea2a3aef1dce",
@@ -33348,7 +33568,12 @@
         "reviewedAt": "2026-10-25T15:20:27.853Z",
         "translatedAt": "2026-10-25T15:20:27.853Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:33.811Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:33.811Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a3aee29d9c48191885b42ba1f89a108": {
       "id": "plugin_asdk_app_6a3aee29d9c48191885b42ba1f89a108",
@@ -34157,7 +34382,12 @@
         "reviewedAt": "2026-10-25T15:20:27.949Z",
         "translatedAt": "2026-10-25T15:20:27.949Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:36.174Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:36.174Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a32e6bb349c8191858ce2ca77104214": {
       "id": "plugin_asdk_app_6a32e6bb349c8191858ce2ca77104214",
@@ -36182,7 +36412,12 @@
         "reviewedAt": "2026-10-25T15:20:27.951Z",
         "translatedAt": "2026-10-25T15:20:27.951Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:38.569Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:38.569Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a83149af7a4819182bacb9834d67563": {
       "id": "plugin_asdk_app_6a83149af7a4819182bacb9834d67563",
@@ -38310,7 +38545,12 @@
         "reviewedAt": "2026-10-25T15:20:27.973Z",
         "translatedAt": "2026-10-25T15:20:27.973Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:40.967Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:40.967Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a395be8b6a481919a19f451c8553530": {
       "id": "plugin_asdk_app_6a395be8b6a481919a19f451c8553530",
@@ -40837,7 +41077,12 @@
         "reviewedAt": "2026-10-25T15:20:27.853Z",
         "translatedAt": "2026-10-25T15:20:27.853Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:43.337Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:43.337Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69fdb9081018819193707354f21b366e": {
       "id": "plugin_asdk_app_69fdb9081018819193707354f21b366e",
@@ -40895,8 +41140,13 @@
         "reviewedAt": "2026-10-25T15:20:27.946Z",
         "translatedAt": "2026-10-25T15:20:27.946Z"
       },
-      "detailFailures": 0,
-      "lastMissingAt": "2026-10-14T04:04:10.037Z"
+      "detailFailures": 1,
+      "lastMissingAt": "2026-10-14T04:04:10.037Z",
+      "detailNextAttemptAt": "2026-10-26T05:19:45.677Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:45.677Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_698f531bfb808191933a0dedad26a8c7": {
       "id": "plugin_asdk_app_698f531bfb808191933a0dedad26a8c7",
@@ -41836,7 +42086,12 @@
           "total_tokens": 1321
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:48.498Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:48.498Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_699d522f170c81919c824678c7c03732": {
       "id": "plugin_asdk_app_699d522f170c81919c824678c7c03732",
@@ -44402,7 +44657,12 @@
         "reviewedAt": "2026-10-25T15:20:27.926Z",
         "translatedAt": "2026-10-25T15:20:27.926Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:50.931Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:50.931Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a72258e6f18819183e5c4d8a56b78d9": {
       "id": "plugin_asdk_app_6a72258e6f18819183e5c4d8a56b78d9",
@@ -44694,7 +44954,12 @@
         "reviewedAt": "2026-10-25T15:20:27.851Z",
         "translatedAt": "2026-10-25T15:20:27.851Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:53.263Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:53.263Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a1f03a5003481919a9dc301fed29ac4": {
       "id": "plugin_asdk_app_6a1f03a5003481919a9dc301fed29ac4",
@@ -45207,7 +45472,12 @@
         "reviewedAt": "2026-10-25T15:20:27.985Z",
         "translatedAt": "2026-10-25T15:20:27.985Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:55.641Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:55.641Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a28acadcc2c81919bc0fd34b245d094": {
       "id": "plugin_asdk_app_6a28acadcc2c81919bc0fd34b245d094",
@@ -45323,7 +45593,12 @@
         "reviewedAt": "2026-10-25T15:20:27.883Z",
         "translatedAt": "2026-10-25T15:20:27.883Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:19:58.093Z",
+      "detailError": {
+        "at": "2026-10-26T04:19:58.093Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69f3198aec808191876254ae5bd50cf1": {
       "id": "plugin_asdk_app_69f3198aec808191876254ae5bd50cf1",
@@ -46930,7 +47205,12 @@
         "reviewedAt": "2026-10-25T15:20:27.968Z",
         "translatedAt": "2026-10-25T15:20:27.968Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:00.491Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:00.491Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a20a8fd8acc819193b3864e24f7793d": {
       "id": "plugin_asdk_app_6a20a8fd8acc819193b3864e24f7793d",
@@ -48260,7 +48540,12 @@
         "reviewedAt": "2026-10-25T15:20:27.988Z",
         "translatedAt": "2026-10-25T15:20:27.988Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:03.613Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:03.613Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a83664aaba881919b22679bcc2f862a": {
       "id": "plugin_asdk_app_6a83664aaba881919b22679bcc2f862a",
@@ -50606,7 +50891,12 @@
         "reviewedAt": "2026-10-25T15:20:27.951Z",
         "translatedAt": "2026-10-25T15:20:27.951Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:06.470Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:06.470Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69494bc0260481919dcbef67b7160608": {
       "id": "plugin_asdk_app_69494bc0260481919dcbef67b7160608",
@@ -50837,7 +51127,12 @@
         "reviewedAt": "2026-10-25T15:20:28.009Z",
         "translatedAt": "2026-10-25T15:20:28.009Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:08.924Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:08.924Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_693a0a79ffe48191901173077edcf914": {
       "id": "plugin_asdk_app_693a0a79ffe48191901173077edcf914",
@@ -54983,7 +55278,12 @@
         "reviewedAt": "2026-10-25T15:20:27.880Z",
         "translatedAt": "2026-10-25T15:20:27.880Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:11.934Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:11.934Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a61e9d605448191a80c63f018b41a32": {
       "id": "plugin_asdk_app_6a61e9d605448191a80c63f018b41a32",
@@ -56107,7 +56407,12 @@
         "reviewedAt": "2026-10-25T15:20:27.830Z",
         "translatedAt": "2026-10-25T15:20:27.830Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:14.350Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:14.350Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a79de2b746881918127ddf42127ddc4": {
       "id": "plugin_asdk_app_6a79de2b746881918127ddf42127ddc4",
@@ -56461,7 +56766,12 @@
         "reviewedAt": "2026-10-25T15:20:27.917Z",
         "translatedAt": "2026-10-25T15:20:27.917Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:16.736Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:16.736Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a2b771cfb288191a4e53af3b66c7ebc": {
       "id": "plugin_asdk_app_6a2b771cfb288191a4e53af3b66c7ebc",
@@ -59783,7 +60093,12 @@
         "reviewedAt": "2026-10-25T15:20:27.986Z",
         "translatedAt": "2026-10-25T15:20:27.986Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:19.100Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:19.100Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a4e20e5277c8191a2df23e41800024e": {
       "id": "plugin_asdk_app_6a4e20e5277c8191a2df23e41800024e",
@@ -59841,7 +60156,12 @@
         "reviewedAt": "2026-10-25T15:20:27.889Z",
         "translatedAt": "2026-10-25T15:20:27.889Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:21.446Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:21.446Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69f4d20e0ff08191886df271b4ef5e41": {
       "id": "plugin_asdk_app_69f4d20e0ff08191886df271b4ef5e41",
@@ -60929,7 +61249,12 @@
         "reviewedAt": "2026-10-25T15:20:27.993Z",
         "translatedAt": "2026-10-25T15:20:27.993Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:24.333Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:24.333Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a94a662697881919b8eb7c81a4a8716": {
       "id": "plugin_asdk_app_6a94a662697881919b8eb7c81a4a8716",
@@ -62426,7 +62751,12 @@
         "reviewedAt": "2026-10-25T15:20:27.977Z",
         "translatedAt": "2026-10-25T15:20:27.977Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:27.204Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:27.204Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aa10c1a74c48191bd03e5237a024445": {
       "id": "plugin_asdk_app_6aa10c1a74c48191bd03e5237a024445",
@@ -67650,7 +67980,12 @@
         "reviewedAt": "2026-10-25T15:20:27.983Z",
         "translatedAt": "2026-10-25T15:20:27.983Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:29.587Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:29.587Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a6a4c69950c8191b9ae80cbe1ab5e00": {
       "id": "plugin_asdk_app_6a6a4c69950c8191b9ae80cbe1ab5e00",
@@ -70301,7 +70636,12 @@
         "reviewedAt": "2026-10-25T15:20:27.883Z",
         "translatedAt": "2026-10-25T15:20:27.883Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:31.946Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:31.946Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a4656c688748191be4c5247fb0d5dfc": {
       "id": "plugin_asdk_app_6a4656c688748191be4c5247fb0d5dfc",
@@ -72497,7 +72837,12 @@
         "reviewedAt": "2026-10-25T15:20:27.833Z",
         "translatedAt": "2026-10-25T15:20:27.833Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:34.850Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:34.850Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a0783e216e48191957d34a5381e3b06": {
       "id": "plugin_asdk_app_6a0783e216e48191957d34a5381e3b06",
@@ -74729,7 +75074,12 @@
         "reviewedAt": "2026-10-25T15:20:27.928Z",
         "translatedAt": "2026-10-25T15:20:27.928Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:37.184Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:37.184Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a48eadcdc448191927ae71963bdcd2f": {
       "id": "plugin_asdk_app_6a48eadcdc448191927ae71963bdcd2f",
@@ -79952,7 +80302,12 @@
         "reviewedAt": "2026-10-25T15:20:27.890Z",
         "translatedAt": "2026-10-25T15:20:27.890Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:39.414Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:39.414Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69e1fe1aff308191a3c3838f72809fe0": {
       "id": "plugin_asdk_app_69e1fe1aff308191a3c3838f72809fe0",
@@ -80123,7 +80478,12 @@
         "reviewedAt": "2026-10-25T15:20:27.902Z",
         "translatedAt": "2026-10-25T15:20:27.902Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:43.225Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:43.225Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a3a5a6b3690819184360c132a630e03": {
       "id": "plugin_asdk_app_6a3a5a6b3690819184360c132a630e03",
@@ -81267,7 +81627,12 @@
         "reviewedAt": "2026-10-25T15:20:27.845Z",
         "translatedAt": "2026-10-25T15:20:27.845Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:46.130Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:46.130Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a0bd21a7f888191a2c78cb2056f0ce8": {
       "id": "plugin_asdk_app_6a0bd21a7f888191a2c78cb2056f0ce8",
@@ -81554,7 +81919,12 @@
         "reviewedAt": "2026-10-25T15:20:27.959Z",
         "translatedAt": "2026-10-25T15:20:27.959Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:49.077Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:49.077Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a69ee35a5808191bc7d060091cb9e4d": {
       "id": "plugin_asdk_app_6a69ee35a5808191bc7d060091cb9e4d",
@@ -81965,7 +82335,12 @@
         "reviewedAt": "2026-10-25T15:20:27.979Z",
         "translatedAt": "2026-10-25T15:20:27.979Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:51.478Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:51.478Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a2708b98248819188dd31f3c904b00c": {
       "id": "plugin_asdk_app_6a2708b98248819188dd31f3c904b00c",
@@ -84208,7 +84583,12 @@
         "reviewedAt": "2026-10-25T15:20:27.951Z",
         "translatedAt": "2026-10-25T15:20:27.951Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:53.815Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:53.815Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a3e93300218819184f841f1310838d6": {
       "id": "plugin_asdk_app_6a3e93300218819184f841f1310838d6",
@@ -85115,7 +85495,12 @@
         "reviewedAt": "2026-10-25T15:20:27.836Z",
         "translatedAt": "2026-10-25T15:20:27.836Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:56.234Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:56.234Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a764168f2848191903981b0acf509fc": {
       "id": "plugin_asdk_app_6a764168f2848191903981b0acf509fc",
@@ -85571,7 +85956,12 @@
         "reviewedAt": "2026-10-25T15:20:27.874Z",
         "translatedAt": "2026-10-25T15:20:27.874Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:20:59.085Z",
+      "detailError": {
+        "at": "2026-10-26T04:20:59.085Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a43eac512e88191a2321ef1c1387af1": {
       "id": "plugin_asdk_app_6a43eac512e88191a2321ef1c1387af1",
@@ -85685,7 +86075,12 @@
         "reviewedAt": "2026-10-25T15:20:27.985Z",
         "translatedAt": "2026-10-25T15:20:27.985Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:01.433Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:01.433Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7e6d2b2834819187023eba680e405f": {
       "id": "plugin_asdk_app_6a7e6d2b2834819187023eba680e405f",
@@ -94173,7 +94568,12 @@
         "reviewedAt": "2026-10-25T15:20:27.904Z",
         "translatedAt": "2026-10-25T15:20:27.904Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:03.842Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:03.842Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a98163f30548191864ee5e6188b09f6": {
       "id": "plugin_asdk_app_6a98163f30548191864ee5e6188b09f6",
@@ -96144,7 +96544,12 @@
         "reviewedAt": "2026-10-25T15:20:27.977Z",
         "translatedAt": "2026-10-25T15:20:27.977Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:06.236Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:06.236Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a563c8d0e6081919ccce1303865155d": {
       "id": "plugin_asdk_app_6a563c8d0e6081919ccce1303865155d",
@@ -97180,7 +97585,12 @@
         "reviewedAt": "2026-10-25T15:20:27.940Z",
         "translatedAt": "2026-10-25T15:20:27.940Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:08.601Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:08.601Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a754e3ed8b48191aa0e6761af6cd872": {
       "id": "plugin_asdk_app_6a754e3ed8b48191aa0e6761af6cd872",
@@ -100412,7 +100822,12 @@
         "reviewedAt": "2026-10-25T15:20:27.866Z",
         "translatedAt": "2026-10-25T15:20:27.866Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:10.993Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:10.993Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69cdd011ebf481919fa1698d7b9530e1": {
       "id": "plugin_asdk_app_69cdd011ebf481919fa1698d7b9530e1",
@@ -104757,7 +105172,12 @@
         "reviewedAt": "2026-10-25T15:20:27.934Z",
         "translatedAt": "2026-10-25T15:20:27.934Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:13.995Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:13.995Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a2d50ea97c88191b602860a847f8603": {
       "id": "plugin_asdk_app_6a2d50ea97c88191b602860a847f8603",
@@ -107528,7 +107948,12 @@
         "reviewedAt": "2026-10-25T15:20:27.816Z",
         "translatedAt": "2026-10-25T15:20:27.816Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:16.878Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:16.878Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_696cfe921f98819195e54b7c46666164": {
       "id": "plugin_asdk_app_696cfe921f98819195e54b7c46666164",
@@ -107699,7 +108124,12 @@
         "reviewedAt": "2026-10-25T15:20:27.916Z",
         "translatedAt": "2026-10-25T15:20:27.916Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:19.298Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:19.298Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69a21510293c8191bdd3a807d501c389": {
       "id": "plugin_asdk_app_69a21510293c8191bdd3a807d501c389",
@@ -109155,7 +109585,12 @@
         "reviewedAt": "2026-10-25T15:20:27.872Z",
         "translatedAt": "2026-10-25T15:20:27.872Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:21.659Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:21.659Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a5c0b47f55c8191a0dd3096012dfce0": {
       "id": "plugin_asdk_app_6a5c0b47f55c8191a0dd3096012dfce0",
@@ -112484,7 +112919,12 @@
         "reviewedAt": "2026-10-25T15:20:27.965Z",
         "translatedAt": "2026-10-25T15:20:27.965Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:24.117Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:24.117Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aaa619fe26c8191a788c9c65a605a25": {
       "id": "plugin_asdk_app_6aaa619fe26c8191a788c9c65a605a25",
@@ -112770,7 +113210,12 @@
         "reviewedAt": "2026-10-25T15:20:27.940Z",
         "translatedAt": "2026-10-25T15:20:27.940Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:26.586Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:26.586Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a96ade70330819198edc2a61281bf31": {
       "id": "plugin_asdk_app_6a96ade70330819198edc2a61281bf31",
@@ -113516,7 +113961,12 @@
         "reviewedAt": "2026-10-25T15:20:27.978Z",
         "translatedAt": "2026-10-25T15:20:27.978Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:28.957Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:28.957Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7f1ff4342c8191bf89c83a28b80a2d": {
       "id": "plugin_asdk_app_6a7f1ff4342c8191bf89c83a28b80a2d",
@@ -113744,7 +114194,12 @@
         "reviewedAt": "2026-10-25T15:20:27.841Z",
         "translatedAt": "2026-10-25T15:20:27.841Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:31.321Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:31.321Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8fd15c22f081919893ff04eeef8dc9": {
       "id": "plugin_asdk_app_6a8fd15c22f081919893ff04eeef8dc9",
@@ -114371,7 +114826,12 @@
         "reviewedAt": "2026-10-25T15:20:27.944Z",
         "translatedAt": "2026-10-25T15:20:27.944Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:33.828Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:33.828Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a5548420f6c8191a4b9ef2f3946d251": {
       "id": "plugin_asdk_app_6a5548420f6c8191a4b9ef2f3946d251",
@@ -115916,7 +116376,12 @@
         "reviewedAt": "2026-10-25T15:20:27.934Z",
         "translatedAt": "2026-10-25T15:20:27.934Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:36.810Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:36.810Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aa8da67e0c88191a6c3baebe145836a": {
       "id": "plugin_asdk_app_6aa8da67e0c88191a6c3baebe145836a",
@@ -117419,7 +117884,12 @@
         "reviewedAt": "2026-10-25T15:20:27.951Z",
         "translatedAt": "2026-10-25T15:20:27.951Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:39.150Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:39.150Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a313a923fc4819181da310cc03c4166": {
       "id": "plugin_asdk_app_6a313a923fc4819181da310cc03c4166",
@@ -119098,7 +119568,12 @@
         "reviewedAt": "2026-10-25T15:20:27.899Z",
         "translatedAt": "2026-10-25T15:20:27.899Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:41.487Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:41.487Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6943e6f4a928819195962de16fb9ffe4": {
       "id": "plugin_asdk_app_6943e6f4a928819195962de16fb9ffe4",
@@ -119223,7 +119698,12 @@
         "reviewedAt": "2026-10-25T15:20:27.911Z",
         "translatedAt": "2026-10-25T15:20:27.911Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:43.810Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:43.810Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a0bcefe6dbc8191acf88ce22e2eef3a": {
       "id": "plugin_asdk_app_6a0bcefe6dbc8191acf88ce22e2eef3a",
@@ -123469,7 +123949,12 @@
         "reviewedAt": "2026-10-25T15:20:27.986Z",
         "translatedAt": "2026-10-25T15:20:27.986Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:46.719Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:46.719Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69443c60fa6481919e4ecf30e6b382f0": {
       "id": "plugin_asdk_app_69443c60fa6481919e4ecf30e6b382f0",
@@ -128410,7 +128895,12 @@
         "reviewedAt": "2026-10-25T15:20:27.941Z",
         "translatedAt": "2026-10-25T15:20:27.941Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-26T05:21:49.172Z",
+      "detailError": {
+        "at": "2026-10-26T04:21:49.172Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8bb34e5f5c81918949f4d68b6778e4": {
       "id": "plugin_asdk_app_6a8bb34e5f5c81918949f4d68b6778e4",
@@ -242010,7 +242500,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-11T04:45:14.560Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Create media from ChatGPT with the credits in your QynTro account.\n\n• Images from FLUX, GPT Image, Nano Banana and Stability AI models\n• Image editing with an instruction, including placing a logo or product from a second image\n• Video from text, or from a picture you just made; video editing\n• UGC spokesperson ads from one photo, lip-sync, and music videos cut to a song\n• Original music tracks up to two minutes\n• Voiceovers in many voices and languages\n• Talking avatars: a studio presenter or your own photo speaking a script\n• PowerPoint decks (.pptx) from a topic\n• Textured 3D models (GLB) from a photo or a description\n\nEverything you make is saved to your QynTro library. Sign in with your QynTro account; each generation uses credits from your existing balance, and every reply says what it cost. Tools that bring a real face to life ask you to confirm you have the right to use that face and voice.",
       "information": [
         {
@@ -242038,7 +242528,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:50:24.891Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38112457322:1",
       "translation": {
         "summary": "创建图像、视频和音乐",
@@ -242053,6 +242543,11 @@
           "neurons": 38.8052978515625,
           "total_tokens": 2125
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:17:18.137Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:18.137Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aacfff7b32881919dd687b0a5b33da3": {
@@ -242068,7 +242563,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-11T04:45:14.560Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "imotesa.bg is an independent instrument for inspecting Bulgarian properties, their observed asking-price history, and local market context. It creates canonical links for requested property filters. Prices are observed asking prices, not transaction prices.",
       "information": [
         {
@@ -242096,7 +242591,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:50:26.744Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38112457322:1",
       "translation": {
         "summary": "探索保加利亚房地产",
@@ -242111,6 +242606,11 @@
           "neurons": 23.978431701660156,
           "total_tokens": 1479
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:17:20.518Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:20.518Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aaeb4ec80748191a04b419589144fed": {
@@ -242126,7 +242626,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-11T04:45:14.560Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Search and read the Shamela Arabic and Islamic book corpus from ChatGPT. The server resolves named books, authors, editions and categories, runs layered retrieval, and returns bounded original-source evidence with direct Shamela citations. Follow-up tools can search within explicit source or date constraints and open one or several source pages for context. Shamela is public and read-only, requires no user account, and does not call an AI model. Bounded retrieval does not prove completeness, consensus, attribution, hadith authenticity or scholarly correctness.",
       "information": [
         {
@@ -242154,7 +242654,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:50:28.461Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38112457322:1",
       "translation": {
         "summary": "搜索Shamela图书馆",
@@ -242169,6 +242669,11 @@
           "neurons": 25.959766387939453,
           "total_tokens": 1600
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:17:22.983Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:22.983Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa2dcd27f1c8191892ae03329233372": {
@@ -242184,7 +242689,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-11T04:45:14.560Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "ZeniFlow is a personal finance app for tracking money across wallets. Through ChatGPT a user can log income and expenses in plain language, add a whole list of them at once, correct or delete an entry they got wrong, and move money between their own wallets as a proper double-entry transfer. It also answers questions about where the money went: totals by category, spending trends, monthly and yearly reports, how each budget is tracking, upcoming subscriptions, progress toward saving goals, and who owes what in the user's debt book. Wallets are created in the ZeniFlow app rather than here, so the user always sets the opening balance themselves.",
       "information": [
         {
@@ -242212,7 +242717,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:50:30.259Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38112457322:1",
       "translation": {
         "summary": "跟踪支出与预算",
@@ -242227,6 +242732,11 @@
           "neurons": 30.876522064208984,
           "total_tokens": 1780
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:17:25.350Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:25.350Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab916d6ce988191a30d06597e1751ff": {
@@ -242242,7 +242752,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-11T04:45:14.560Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Plan and share your next trip with your partner, family or friends in a single place.",
       "information": [
         {
@@ -242270,7 +242780,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:50:32.240Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38112457322:1",
       "translation": {
         "summary": "通过Atlas规划您的旅行。",
@@ -242285,6 +242795,11 @@
           "neurons": 19.856748580932617,
           "total_tokens": 1320
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:17:27.584Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:27.584Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab7792009d48191a87bf29b6b09c49d": {
@@ -242300,7 +242815,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-11T04:45:14.560Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Search live and scheduled UK rail services, inspect calling points and available formations, and check a train’s latest reported progress. Compare bounded journey options with up to three changes and create interactive route maps, static snapshots and service-progress images.\n\nTrainBrain uses Realtime Trains data. Running information may change or be unavailable. Locations reflect actual timing reports and are not GPS. Journey searches are not exhaustive and do not verify official minimum interchange times. TrainBrain does not sell tickets or guarantee connections.",
       "information": [
         {
@@ -242328,7 +242843,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:50:33.958Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38112457322:1",
       "translation": {
         "summary": "探索英国火车和路线",
@@ -242343,6 +242858,11 @@
           "neurons": 26.0816650390625,
           "total_tokens": 1604
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:17:30.011Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:30.011Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aad4a054af881918a54736b652cdeab": {
@@ -242358,7 +242878,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-11T04:45:14.560Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "MiqatAir helps Muslim travellers plan prayer during commercial flights. Provide a flight number and departure date to receive an in-flight prayer plan calculated by MiqatAir. If more than one route matches, choose the departure and arrival airports. Flight information is obtained from the valid MiqatAir cache or AeroDataBox Direct. Prayer times calculated by MiqatAir.\n\nAccess requires a MiqatAir account approved manually. Request access through our support page before connecting; a ChatGPT account alone does not grant access. Access is free and subject to capacity. Limits: 3 searches per minute and 20 per day per user, including repeated searches.\n\nThe separate MiqatAir application provides airport or on-board prayer guidance, recommended Qibla timing when available, and reminders in the selected language when enabled and permitted by the device. The ChatGPT tool itself does not send notifications, make bookings or take payments.\n\nFlight trajectories and prayer plans are estimates. Check the flight, departure date and time zone, follow crew safety instructions, and consult qualified religious guidance when needed. MiqatAir calculates the prayer plan; AeroDataBox Direct is the flight-data provider.",
       "information": [
         {
@@ -242386,7 +242906,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:50:35.621Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38112457322:1",
       "translation": {
         "summary": "在航班上安排祈祷",
@@ -242401,6 +242921,11 @@
           "neurons": 30.506319046020508,
           "total_tokens": 1890
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:17:32.356Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:32.356Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a9085a7d7448191b787e8363a98a0fd": {
@@ -278142,7 +278667,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-19T03:49:35.241Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Jemma answers nurse pay questions with real math. Ask what you'll take home at your hourly rate, what a travel contract is worth after tax, whether a 1099 or locums rate beats a staff job, what you'd need to earn to move cities, or what nurses with your credential earn in your state. Every figure comes from Jemma's calculators, using 2026 federal and state tax tables, and pay benchmarks come from the Bureau of Labor Statistics, always labeled. Where enough nurses have verified their pay on Jemma, you see Jemma's median too, and where they haven't, you see how close that group is to the 30 nurses Jemma needs to publish it. No account needed, and Jemma never asks for your license number or your salary inside ChatGPT. Estimates, not tax advice.",
       "information": [
         {
@@ -278175,7 +278700,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:50:01.635Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39196340485:1",
       "translation": {
         "summary": "护士薪资与实际到手收入计算",
@@ -278190,6 +278715,11 @@
           "neurons": 29.361438751220703,
           "total_tokens": 1771
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:16:51.037Z",
+      "detailError": {
+        "at": "2026-10-26T04:16:51.037Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac019744a708191af5ff4877d234a71": {
@@ -278332,7 +278862,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-19T03:49:35.241Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "MoveSurge is a real-time market news tape for US equities and cross-asset macro that measures what each event did to the price. For eligible headlines it records the instrument price immediately before the headline was published, one minute after and ten minutes after, plus volume against its usual level for that window, so each move is tied to the event that caused it.\n\nWith this plugin you can:\n- Ask why something suddenly moved. MoveSurge detects abnormal moves in oil, index futures, currencies and stocks, investigates them, and publishes the cause it found with the evidence, a confidence level and how the move followed through.\n- Check earnings: EPS and revenue against the consensus estimate, beat or miss, guidance direction and the stock's measured reaction to the release, plus who reports next.\n- Check economic data: CPI, payrolls, PMIs and central-bank decisions with actual, forecast and previous, the surprise, and what markets did in the minutes after the print, plus the releases scheduled ahead.\n- Follow President Trump's Truth Social posts as they cross the tape, with the measured reaction where a post moved an instrument.\n- Search the tape by topic or ticker, rank the events with the largest measured moves in a window, or pull a ticker's recent catalysts with the price path on each.\n- Read explainer articles in full with their sources.\n\nThe coverage_stats tool reports live counts of events, measured reactions and tickers covered, so the figures can be checked.\n\nRead-only: the tools do not write, trade or place orders, and the results are not investment advice.",
       "information": [
         {
@@ -278365,7 +278895,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:50:07.381Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39196340485:1",
       "translation": {
         "summary": "揭示市场波动及其原因",
@@ -278381,7 +278911,12 @@
           "total_tokens": 2114
         }
       },
-      "lastMissingAt": "2026-10-20T04:01:04.376Z"
+      "lastMissingAt": "2026-10-20T04:01:04.376Z",
+      "detailNextAttemptAt": "2026-10-26T05:16:53.512Z",
+      "detailError": {
+        "at": "2026-10-26T04:16:53.512Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6abdd48a4f508191b1a541d4922a9cc4": {
       "id": "plugin_asdk_app_6abdd48a4f508191b1a541d4922a9cc4",
@@ -278460,7 +278995,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-19T03:49:35.241Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "MLS Colombia answers two common questions about the Colombian property market inside ChatGPT with no account needed.\n\nHow much is my house worth?\nTell ChatGPT the municipality or city, whether it is a house (casa) or an apartment (apartamento) and the built area in square meters (plus the lot for a house). You get an indicative sale range in Colombian pesos (low, mid and high), an approximate US dollar figure at the dated TRM exchange rate, a confidence label (alta, media or baja) and, when available, the expected monthly rent. It is an informal estimate: useful to orient yourself before talking to an advisor, not a substitute for a certified commercial appraisal.\n\nReal estate agencies in your city\nAsk for inmobiliarias in Bogotá, Medellín, Cali or any other city and get some public directory entries from MLS Colombia, each with a link to its profile. Entries are public and are not endorsements; each firm can claim and confirm its profile.\n\nHow it works\nThe plugin is read-only: it does not post, send messages or change anything. It does not ask for your name, email or phone, and it does not store your queries. Answers appear as a card in the conversation and as plain text, so they work on any screen. If you want to continue, you can ask an advisor for a valuation; that step happens outside ChatGPT, at mlscolombia.co/valorar, and you decide whether to leave your details.\n\nWhat it does not do\nIt does not value land or fincas, does not issue a certified appraisal and does not give legal, tax or financial advice.\n\nExamples: \"How much is my 120 m2 house in Rionegro worth?\", \"Estimate a 70 m2 apartment in Medellín\", \"Real estate agencies in Bogotá\", \"Inmobiliarias in Cartagena\".\n\nSupport: https://mlscolombia.co/soporte/",
       "information": [
         {
@@ -278493,7 +279028,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:50:10.789Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39196340485:1",
       "translation": {
         "summary": "房产估值与中介查询",
@@ -278508,6 +279043,11 @@
           "neurons": 41.27458572387695,
           "total_tokens": 2413
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:16:55.942Z",
+      "detailError": {
+        "at": "2026-10-26T04:16:55.942Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf90fe8da48191b8349be27d5707ef": {
@@ -278523,7 +279063,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-19T03:49:35.241Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "PepScribe Half-Life shows how much of a medication or supplement remains in the body over time from its elimination half-life. Give the half-life in hours (from the product's published information) and, if you like, the dose and the time between doses. It draws the levels over time, tells you how long until about 97% is cleared (five half-lives), how much is left after a day and after a week, and for repeated doses how levels build up and when they reach steady state.\n\nThe result is a card with a curve that draws in, half-life markers after the last dose, a steady-state band for repeated doses, and a scrubber you can drag or step with the arrow keys to read any moment.\n\nPepScribe Half-Life uses a simplified one-compartment model for education; real levels vary with the person, the formulation and absorption. It does not suggest a dose, a dosing interval, or when it is safe to take something else. The numbers you enter are used to draw the chart and are not stored.",
       "information": [
         {
@@ -278556,7 +279096,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:50:12.804Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39196340485:1",
       "translation": {
         "summary": "药物半衰期随时间的变化",
@@ -278571,6 +279111,11 @@
           "neurons": 30.070186614990234,
           "total_tokens": 1846
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:16:58.303Z",
+      "detailError": {
+        "at": "2026-10-26T04:16:58.303Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aba026862608191b268ef2016e94493": {
@@ -278586,7 +279131,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-19T03:49:35.241Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "AI Calorie Counter by BodyPal is a free AI calorie counter and calorie tracker for ChatGPT. Type what you ate or share a photo of your meal and get the calories, protein, carbs and fat in seconds.\n\nDescribe your food in your own words: by weight (\"150 g chicken breast\"), by count (\"2 eggs, a banana\") or by portion (\"a bowl of rice, a tablespoon of olive oil\"). ChatGPT identifies the foods and amounts, and BodyPal looks each one up in its food calorie database (USDA data and product labels).\n\nYou get a clear nutrition card: total calories and macros, fiber, sugar and salt, plus a line for every food with its photo, weight and calories. Add your daily calorie goal and the card shows how many calories you have left today, which helps with weight loss, a calorie deficit or muscle gain.\n\nUse it as a macro and calorie tracker for one meal, a recipe or a whole day, in 19 languages, with no account and no sign-in. Values are estimates for information only and are not medical advice.",
       "information": [
         {
@@ -278614,7 +279159,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:50:14.522Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39196340485:1",
       "translation": {
         "summary": "追踪卡路里和宏量营养素",
@@ -278629,6 +279174,11 @@
           "neurons": 38.95328140258789,
           "total_tokens": 2157
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:17:00.783Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:00.783Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf9164df78819183d095c3c789963a": {
@@ -278644,7 +279194,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-19T03:49:35.241Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "PepScribe Pharmacy Check helps you judge whether an online pharmacy, telehealth service or website selling prescription or compounded medication looks safe to buy from. Answer what you know about the seller: whether it requires a prescription, whether a licensed clinician reviews you, which pharmacy fills the order and whether its license checks out, and the common warning signs such as a research use only label or shipping from outside the US. It scores the answers against the FDA's BeSafeRx signs of a safe online pharmacy and returns a verdict, the warning signs and what to verify.\n\nThe card shows the verdict and score, each sign with yes, no or not sure controls you can change to update the check, and links to the FDA BeSafeRx guide, NABP Safe Pharmacy, your state board of pharmacy and the LegitScript certification check.\n\nPepScribe Pharmacy Check never names, ranks or recommends sellers, and it cannot confirm a license itself; always verify it on the official sites. Your answers are used to compute the check and are not stored.",
       "information": [
         {
@@ -278677,7 +279227,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:50:16.127Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39196340485:1",
       "translation": {
         "summary": "在线药店安全检查",
@@ -278692,6 +279242,11 @@
           "neurons": 29.03214454650879,
           "total_tokens": 1806
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:17:03.203Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:03.203Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfa12deec88191b27f09dcec2efc57": {
@@ -278707,7 +279262,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-19T03:49:35.241Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Donde Onde Where (DOW) publishes monthly-updated Hot Lists of the best-ranked independent restaurants and bars across Portugal and Spain, plus the UK. This plugin puts that index into ChatGPT, so recommendations come from venues that are actually tracked and profiled, each with a link to its full page.\n\nAsk about a city and you get its neighbourhoods, with venue counts and how active each one is. Ask about a neighbourhood and you get its Hot List. The Hot Score is DOW's own momentum measure: it reacts to recent review activity, rating baseline and how complete a venue's profile is. It shows who is gaining attention now, not who is already famous. Ask about a venue by name and you get DOW's verdict: what to book it for, its signature dishes, what it suits, its rating, review count and average spend.\n\nTwo further tools cover what is new and what is being noticed. One returns the venues that most recently crossed DOW's editorial threshold in a city. The other reports whether a named venue appears in DOW's own AI-citation probes across several assistants, and states the sample size.\n\nThe index is maintained, not scraped once: venue data is collected through the month and the Hot Lists are republished as one edition on the 1st of each month. New venues are added as they qualify. Chains, cafes and bakeries are excluded on purpose. Coverage is specific cities and neighbourhoods, not whole countries, and it grows; ask for the current list.\n\nEverything is read-only. There is no account, no sign-in and no advertising. It returns public venue information only, with no personal data and no individual reviewer identities.\n\nDonde Onde Where is a publication of booteek AI Limited.",
       "information": [
         {
@@ -278740,7 +279295,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:50:17.819Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39196340485:1",
       "translation": {
         "summary": "独立餐厅和酒吧",
@@ -278755,6 +279310,11 @@
           "neurons": 42.53009796142578,
           "total_tokens": 2405
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:17:06.122Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:06.122Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab68d6e8c188191b7291dfe322ce6af": {
@@ -278770,7 +279330,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-19T03:49:35.241Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "GoTickets helps users discover live events, compare ticket listings by all-in price, seat quality, section, accessibility, and delivery attributes, read published policies, and continue to checkout through a direct GoTickets URL.",
       "information": [
         {
@@ -278798,7 +279358,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:50:19.452Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39196340485:1",
       "translation": {
         "summary": "查找活动和门票",
@@ -278813,6 +279373,11 @@
           "neurons": 27.45528221130371,
           "total_tokens": 1588
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:17:09.078Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:09.078Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abff66b69b881919b98576bdf56b314": {
@@ -278828,7 +279393,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-19T03:49:35.241Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Live player counts and trends for Roblox games, right in ChatGPT. Ask how many people are playing any Roblox game and see its player chart for the last 7 days. Find the most played Roblox games right now, or the top games in a genre like simulator, obby, tycoon or roleplay. Spot established games that are growing fastest this week, and compare up to six games on one chart over 7 to 90 days. Made for Roblox developers researching genres and competitors, and for players curious about what is popular. Every game links to its page on CCUCheck and on Roblox. CCUCheck is independent and not affiliated with Roblox Corporation.",
       "information": [
         {
@@ -278861,7 +279426,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:50:21.223Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39196340485:1",
       "translation": {
         "summary": "Roblox玩家数量与趋势",
@@ -278876,6 +279441,11 @@
           "neurons": 35.97422790527344,
           "total_tokens": 1960
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:17:12.409Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:12.409Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abcaa96dec4819199d32ac58d9de8b7": {
@@ -278891,7 +279461,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-19T03:49:35.241Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "TodoWeekend is an independent guide to things to do on the weekend in Madrid, Barcelona, Lisboa, Paris, Berlin, London, Miami, Santiago de Chile and Tokyo. Ask what is on this weekend, today or tomorrow, or for concerts, exhibitions, theatre, family plans or free events. You get up to 12 curated listings as cards, with the date, venue, price when known, and a link to the TodoWeekend page. Ask for details on any listing to see the full description, address, map point and the seller's own ticket link.\n\nLimits: TodoWeekend covers only the nine cities above. Listings are suitable for ages 13 and up, and nightlife and alcohol-led events are left out. Every answer shows the date the city's data was last updated, and a notice appears when it is more than seven days old, so check the event page before you go. TodoWeekend does not sell tickets and does not need an account. The plugin only reads public listings.",
       "information": [
         {
@@ -278924,7 +279494,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:50:23.189Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39196340485:1",
       "translation": {
         "summary": "九个城市周末活动",
@@ -278939,6 +279509,11 @@
           "neurons": 31.963178634643555,
           "total_tokens": 1892
         }
+      },
+      "detailNextAttemptAt": "2026-10-26T05:17:15.285Z",
+      "detailError": {
+        "at": "2026-10-26T04:17:15.285Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a96df3b92448191a66b169bb76b2b1c": {
@@ -392501,23 +393076,23 @@
     "runId": "40265897781",
     "runAttempt": "1",
     "startedAt": "2026-10-26T03:49:29.089Z",
-    "updatedAt": "2026-10-26T04:16:45.136Z",
+    "updatedAt": "2026-10-26T04:21:49.229Z",
     "mode": "incremental",
-    "detailRequests": 562,
+    "detailRequests": 677,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
     "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 562,
+    "errors": 677,
     "stats": {
       "total": 5174,
       "details": 4992,
       "translated": 4805,
       "missing": 46,
       "removed": 291,
-      "pendingDetails": 712,
+      "pendingDetails": 756,
       "pendingTranslations": 369
     }
   }
