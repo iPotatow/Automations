@@ -270496,7 +270496,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:56:18.943Z",
       "detailFailures": 2,
-      "translationAttemptRun": "38765530115:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "创建品牌短链接",
         "description": "在urlme.link或品牌自定义域名上创建短链接，选择自定义别名，添加私有描述，并安排过期时间。查看最近的链接，包括目标地址、状态、重定向次数、最后活动、设备分布和来源分布。更新私有描述，暂停或恢复重定向，永久过期链接，识别关联的工作区，并查看计划使用情况、限额、API密钥数量和自定义域名数量。URLMe会为连接的工作区授予OAuth访问权限，并强制实施计划、域名、配额和目标安全性控制。更广泛的URLMe平台还提供可搜索的工作区历史记录、DNS和HTTPS域名设置、批量创建、私有标签和过滤、UTM参数、目标地址更新、删除、可下载的二维码、CSV导出、支持幂等重试的REST API自动化操作、按集成创建和撤销API密钥，以及订阅管理。这些更广泛的功能可通过网页控制台或REST API使用，而非当前的聊天工具。",
@@ -270515,6 +270515,11 @@
       "detailError": {
         "at": "2026-10-27T07:11:07.401Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:48:49.013Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6ac7dcbb4174819181716730dc268de0": {
@@ -271378,6 +271383,11 @@
       "detailError": {
         "at": "2026-10-27T07:11:09.702Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:45:15.683Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6ac4e041744c8191a1329e62b1442b1a": {
@@ -277929,7 +277939,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:04:12.818Z",
       "detailFailures": 1,
-      "translationAttemptRun": "38765530115:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "多站点路线优化器",
         "description": "RouteXK为司机、快递员、销售代表以及需要跑腿的人士规划多站点路线。输入起点和需要访问的地点（顺序不限）；RouteXK会找出最优路径，在聊天界面中展示总距离和包含停靠时间的预估时长。\n\n可实现的功能：\n- 单条路线最多优化25个站点，可从任意位置出发，最终停靠在指定地点、最后一个站点或返回起点\n- 支持完整地址或地名输入；地址信息简略时可补充城市信息\n- 无需重新输入站点即可在RouteXK官网或移动应用查看规划路线，实现逐步导航\n\n使用限制：仅支持驾车路线规划。\n无法识别的地址会返回列表供您确认。\nChatGPT中不支持时间窗口、车辆容量及多司机路线功能。",
@@ -277948,6 +277958,11 @@
       "detailError": {
         "at": "2026-10-27T07:11:38.115Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:48:49.974Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6ac4e3029eb08191b2e77bab8f4fbd63": {
@@ -278181,7 +278196,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:04:21.857Z",
       "detailFailures": 2,
-      "translationAttemptRun": "38765530115:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "每日照片猜谜游戏",
         "description": "Show & Tell 是一款你与 ChatGPT 一起玩的每日照片游戏。\n每天所有用户都会获得相同的秘密单词，但只有您能看到：它被隐藏在「按住以显示」按钮背后，因此 ChatGPT 永远不会看到。\n用现实世界的照片展示它：您的杯子、您的狗、您窗户透进的光。\n每张照片后，ChatGPT 会做出一次猜测，并被告知接近程度：冰冷、温暖、火热、燃烧或正确。\n用尽可能少的尝试次数解开谜题。\n\n- 每日六次尝试机会。\n包含字母、数字或屏幕的照片视为犯规，不计入次数。\n- 卡关了？\n可购买提示：类别、长度或首字母。\n- 保持每日连续打卡，并分享您的分数网格，但不得泄露答案。\n\n根据您所在的位置，每日午夜解锁新单词。\n无需注册即可使用。",
@@ -283285,7 +283300,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:08:36.961Z",
       "detailFailures": 2,
-      "translationAttemptRun": "38927183492:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "根据研究资料逐段生成科学论文草案",
         "description": "面向会员的写作辅助服务，通过对话形式根据自然科学/医学研究主题、研究计划书及进展资料，构建论文框架并生成草案。会区分研究处于计划阶段还是实施阶段，并在未获取结果或信息不足的情况下进行确认。从引言部分开始逐步推进至各章节，稿件将按段落逐次生成，并在每个段落等待用户确认后进行修改\n\n仅需选择插件并上传研究资料即可开始。若未指定语言，将确认使用日语或英语，若已指定则尊重用户选择。适用于现有稿件修改，以及从研究计划整理论文所需信息的场景。生成的文本、参考文献、数据及研究主张均需用户确认，本服务不提供诊断或治疗功能\n\n使用写作辅助功能需连接拥有有效使用权的SciDraft会员账户。在添加ChatGPT/Codex插件后，请使用与注册时相同的登录方式及会员账户进行连接。会员账户可与ChatGPT注册账户不同，但仅登录行为不会授予使用权，且该权限与SciGrant使用权相互独立\n\n会员服务器负责认证、产品权限确认及已保存的写作流程分发，接收流程的ChatGPT/Codex将据此提供写作支持。不会将研究资料/稿件/对话文本作为MCP工具的输入接收，资料需作为对话附件上传。本服务不处理论文投稿或支付相关事务\n\n若无法确认有效使用权，则无法获取写作流程。系统不提供删除已获取内容或历史聊天记录的功能",
@@ -283304,6 +283319,11 @@
       "detailError": {
         "at": "2026-10-27T07:12:01.863Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:50:35.135Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6abef87b1a9481918927a0cdda77aac1": {
@@ -311020,6 +311040,11 @@
       "detailError": {
         "at": "2026-10-27T07:10:48.425Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:45:15.744Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6ac1a26fc44881919c89e4905883e0f7": {
@@ -318943,7 +318968,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:57:47.081Z",
       "detailFailures": 1,
-      "translationAttemptRun": "39928402626:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "了解你的聊天模式",
         "description": "通过显式连接的现有Le Confidant分析中的定量统计数据，探索沟通模式。\n在结果卡片和说明中查看消息总量和参与度、对话开始次数、回复时间、样本数量以及平均消息长度。\n参与者显示为A和B。\n请先在leconfidant.ai导入并完成分析，然后在拥有该会话的浏览器中授权访问。\n该插件无法上传对话内容、启动分析、对比时间段或提供原始消息、参与者姓名、摘录或语义分析报告。\n访问权限在会话过期或授权截止时较早发生时终止。\n断开连接可阻止未来读取；这不会删除网站会话或已分享至ChatGPT的结果。",
@@ -318962,6 +318987,11 @@
       "detailError": {
         "at": "2026-10-27T07:11:12.594Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:47:02.613Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6ac610197a3c81918467050d9bf9d0cd": {
@@ -320412,7 +320442,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:58:33.262Z",
       "detailFailures": 1,
-      "translationAttemptRun": "39984648209:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "两个代理人的共享房间",
         "description": "Wittle Rooms 是一个供两个 AI 代理使用的聊天室。您的代理可以创建一个带有目标的房间（例如与朋友商定晚餐时间），并分享邀请链接。对方代理需经其拥有者批准后方可加入。两个代理在房间内互相发送消息、达成一致结果，您或对方均可导出共享对话记录。\n\n每个代理仅使用其拥有者提供的工具和权限，并且仅分享对话所需内容。来自另一代理的信息仅被视为信息，而非指令。在支持 ChatGPT Work 的聊天中，您的代理在创建或加入房间后会自动开启监听，新消息到达时会自动回复；每间房间的回复次数有限制，您可随时停止监听。\n\n房间不会在房间外进行预订、支付或联系任何人员。房间会接受24小时内的新消息。共享对话记录会持续存储直至用户主动删除，且不采用端到端加密。",
@@ -320431,6 +320461,11 @@
       "detailError": {
         "at": "2026-10-27T07:11:14.966Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:47:02.755Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6ac5586e930c8191bb9422874431dd3e": {
@@ -322262,7 +322297,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:59:31.329Z",
       "detailFailures": 2,
-      "translationAttemptRun": "39984648209:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "AI学习路径",
         "description": "Clew是ChatGPT中的学习工作区。从您已掌握的知识和想学习的内容开始。ChatGPT会将这些背景信息转化为相关主题和先修知识的路径，让您清晰了解下一步该学习什么，以及达成目标前还有哪些内容需要掌握。\n\n通过ChatGPT探索并讨论您的学习图谱，检查主题和学习资源，并让AI帮助扩展或优化学习路径。AI会生成修改建议；您可在应用前进行审核。已接受的修改将生成可逆快照。\n\n通过GitHub或Clew账户登录，可在Clew的基础设施上保存私有工作区。GitHub登录仅请求获取个人资料和电子邮件访问权限；不会创建仓库或读取其内容。开源的Clew桌面项目可在GitHub上单独获取。",
@@ -322281,6 +322316,11 @@
       "detailError": {
         "at": "2026-10-27T07:11:19.649Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:47:00.974Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6ac784d8ff3881918bd75f517a9b00b6": {
@@ -324331,7 +324371,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:00:39.217Z",
       "detailFailures": 2,
-      "translationAttemptRun": "40059674338:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "著名酒店，经过研究",
         "description": "Hotel Please 是一本记录全球著名酒店的图册，涵盖豪华酒店、精品设计酒店、度假村和历史遗产酒店。每家酒店都单独进行研究和介绍，且没有任何酒店可以付费加入或获取奖章。\n\n询问住宿地点时，ChatGPT 会根据我们的资料提供城市、国家或社区的酒店推荐，按奖章等级排序，并说明每家酒店的特色。可按氛围（设计、豪华、遗产、健康、度假、本地、社交、经典）、是否有泳池/健身房/水疗中心、米其林钥匙等级或价格进行筛选。询问某家酒店时，ChatGPT 会展示其完整资料：房间、泳池和水疗中心、餐厅和酒吧、历史背景、周边环境、获得的荣誉以及典型每晚价格。\n\n每家酒店均链接至 hotelplease.app 的简介页面，若您安装了 Hotel Please 应用程序将直接打开，并附有预订链接。部分预订链接会为 Hotel Please 产生佣金，但不会增加您的任何成本；佣金不会影响酒店的入选资格或评分。\n\n该插件为只读模式，无需账户即可使用。每次请求仅接收地点、酒店和筛选条件信息，不会保存您的对话内容。",
@@ -325334,7 +325374,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:01:09.406Z",
       "detailFailures": 2,
-      "translationAttemptRun": "39984648209:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "与您的AI一起规划儿童活动",
         "description": "Sidequest帮助家长规划儿童活动。\n连接您的Sidequest账户后，可以询问已保存的Sidequest、团队成员年龄和偏好（不会涉及过敏或健康信息）、家庭回忆、Sidequest日历以及当地的儿童友好活动。\n在获得您的明确同意后，它可以添加日历条目、标记Sidequest为完成，或根据简短请求创建新的活动。\n所有操作均在您登录的家长账户下进行，仅访问您自己的家庭数据。\n分享、邀请和删除操作均在Sidequest应用内完成。",
@@ -325353,6 +325393,11 @@
       "detailError": {
         "at": "2026-10-27T07:11:31.153Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:48:47.978Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6ac6b101a9e481919dba406bcd3b9ad8": {
@@ -417837,16 +417882,16 @@
     "runId": "40481054924",
     "runAttempt": "1",
     "startedAt": "2026-10-27T09:29:15.354Z",
-    "updatedAt": "2026-10-27T09:45:11.606Z",
+    "updatedAt": "2026-10-27T09:50:35.136Z",
     "mode": "translate",
     "detailRequests": 0,
-    "translationRequests": 253,
-    "translationAttempts": 17,
+    "translationRequests": 388,
+    "translationAttempts": 26,
     "translationLimit": 50,
     "aiConfigured": true,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 15,
+    "errors": 24,
     "stats": {
       "total": 5242,
       "details": 4957,
