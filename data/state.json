@@ -34756,8 +34756,13 @@
         "reviewedAt": "2026-10-26T18:00:23.541Z",
         "translatedAt": "2026-10-26T18:00:23.541Z"
       },
-      "detailFailures": 0,
-      "lastMissingAt": "2026-10-15T03:46:32.398Z"
+      "detailFailures": 1,
+      "lastMissingAt": "2026-10-15T03:46:32.398Z",
+      "detailNextAttemptAt": "2026-10-27T05:26:05.494Z",
+      "detailError": {
+        "at": "2026-10-27T04:26:05.494Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8bf1514eb8819189449527cb5f696c": {
       "id": "plugin_asdk_app_6a8bf1514eb8819189449527cb5f696c",
@@ -39970,7 +39975,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "搜索案件数据",
       "legacySummaryOriginal": "Search your matter data",
@@ -40015,8 +40020,13 @@
         "reviewedAt": "2026-10-26T18:00:23.693Z",
         "translatedAt": "2026-10-26T18:00:23.693Z"
       },
-      "detailFailures": 0,
-      "lastMissingAt": "2026-10-13T06:01:17.120Z"
+      "detailFailures": 1,
+      "lastMissingAt": "2026-10-13T06:01:17.120Z",
+      "detailNextAttemptAt": "2026-10-27T05:26:08.079Z",
+      "detailError": {
+        "at": "2026-10-27T04:26:08.079Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a9a1a97d8f48191b5b93c767622b065": {
       "id": "plugin_asdk_app_6a9a1a97d8f48191b5b93c767622b065",
@@ -40475,11 +40485,11 @@
         "reviewedAt": "2026-10-26T18:00:23.689Z",
         "translatedAt": "2026-10-26T18:00:23.689Z"
       },
-      "detailFailures": 1,
+      "detailFailures": 2,
       "lastMissingAt": "2026-10-13T06:01:17.120Z",
-      "detailNextAttemptAt": "2026-10-26T04:59:36.030Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:10.335Z",
       "detailError": {
-        "at": "2026-10-26T03:59:36.030Z",
+        "at": "2026-10-27T04:26:10.335Z",
         "message": "No usable official description reference"
       }
     },
@@ -113825,7 +113835,13 @@
         "reviewedAt": "2026-10-26T18:00:23.610Z",
         "translatedAt": "2026-10-26T18:00:23.610Z"
       },
-      "lastMissingAt": "2026-10-11T04:45:14.560Z"
+      "lastMissingAt": "2026-10-11T04:45:14.560Z",
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:26:00.985Z",
+      "detailError": {
+        "at": "2026-10-27T04:26:00.985Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7c655fd030819191f30ed593d292d9": {
       "id": "plugin_asdk_app_6a7c655fd030819191f30ed593d292d9",
@@ -219980,10 +219996,10 @@
         "translatedAt": "2026-10-26T18:00:23.694Z"
       },
       "lastMissingAt": "2026-10-10T04:57:53.084Z",
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-26T04:59:33.622Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-27T06:26:03.249Z",
       "detailError": {
-        "at": "2026-10-26T03:59:33.622Z",
+        "at": "2026-10-27T04:26:03.249Z",
         "message": "No usable official description reference"
       }
     },
@@ -268988,7 +269004,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:32:49.569Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "专业人工智能翻译",
@@ -269004,9 +269020,9 @@
           "total_tokens": 1712
         }
       },
-      "detailNextAttemptAt": "2026-10-26T04:59:38.357Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:12.814Z",
       "detailError": {
-        "at": "2026-10-26T03:59:38.357Z",
+        "at": "2026-10-27T04:26:12.814Z",
         "message": "No usable official description reference"
       }
     },
@@ -269051,7 +269067,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:32:51.428Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "掌控并发布你的歌曲",
@@ -269067,9 +269083,9 @@
           "total_tokens": 1727
         }
       },
-      "detailNextAttemptAt": "2026-10-26T04:59:40.701Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:15.770Z",
       "detailError": {
-        "at": "2026-10-26T03:59:40.701Z",
+        "at": "2026-10-27T04:26:15.770Z",
         "message": "No usable official description reference"
       }
     },
@@ -269119,7 +269135,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:32:53.067Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "创建应用商店截图",
@@ -269135,9 +269151,9 @@
           "total_tokens": 1853
         }
       },
-      "detailNextAttemptAt": "2026-10-26T04:59:43.042Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:18.065Z",
       "detailError": {
-        "at": "2026-10-26T03:59:43.042Z",
+        "at": "2026-10-27T04:26:18.065Z",
         "message": "No usable official description reference"
       }
     },
@@ -269187,7 +269203,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:32:54.762Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "创建演示文稿幻灯片",
@@ -269203,9 +269219,9 @@
           "total_tokens": 1978
         }
       },
-      "detailNextAttemptAt": "2026-10-26T04:59:45.443Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:20.323Z",
       "detailError": {
-        "at": "2026-10-26T03:59:45.443Z",
+        "at": "2026-10-27T04:26:20.323Z",
         "message": "No usable official description reference"
       }
     },
@@ -269255,7 +269271,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:32:56.392Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "AI剪辑长视频",
@@ -269271,9 +269287,9 @@
           "total_tokens": 1782
         }
       },
-      "detailNextAttemptAt": "2026-10-26T04:59:47.808Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:22.719Z",
       "detailError": {
-        "at": "2026-10-26T03:59:47.808Z",
+        "at": "2026-10-27T04:26:22.719Z",
         "message": "No usable official description reference"
       }
     },
@@ -269323,7 +269339,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:32:58.092Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "AI广告、图像、视频和音乐",
@@ -269339,9 +269355,9 @@
           "total_tokens": 1639
         }
       },
-      "detailNextAttemptAt": "2026-10-26T04:59:50.748Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:25.570Z",
       "detailError": {
-        "at": "2026-10-26T03:59:50.748Z",
+        "at": "2026-10-27T04:26:25.570Z",
         "message": "No usable official description reference"
       }
     },
@@ -269386,7 +269402,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:32:59.751Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "生成私有AI图像",
@@ -269402,9 +269418,9 @@
           "total_tokens": 1710
         }
       },
-      "detailNextAttemptAt": "2026-10-26T04:59:53.092Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:27.841Z",
       "detailError": {
-        "at": "2026-10-26T03:59:53.092Z",
+        "at": "2026-10-27T04:26:27.841Z",
         "message": "No usable official description reference"
       }
     },
@@ -269454,7 +269470,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:01.352Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "在您的照片上预览服装",
@@ -269470,9 +269486,9 @@
           "total_tokens": 1569
         }
       },
-      "detailNextAttemptAt": "2026-10-26T04:59:55.921Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:30.052Z",
       "detailError": {
-        "at": "2026-10-26T03:59:55.921Z",
+        "at": "2026-10-27T04:26:30.052Z",
         "message": "No usable official description reference"
       }
     },
@@ -269522,7 +269538,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:02.979Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "创建并完成短视频",
@@ -269538,9 +269554,9 @@
           "total_tokens": 1430
         }
       },
-      "detailNextAttemptAt": "2026-10-26T04:59:58.788Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:32.428Z",
       "detailError": {
-        "at": "2026-10-26T03:59:58.788Z",
+        "at": "2026-10-27T04:26:32.428Z",
         "message": "No usable official description reference"
       }
     },
@@ -269585,7 +269601,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:04.708Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "创建图像、视频和音频",
@@ -269601,9 +269617,9 @@
           "total_tokens": 2072
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:01.714Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:34.731Z",
       "detailError": {
-        "at": "2026-10-26T04:00:01.714Z",
+        "at": "2026-10-27T04:26:34.731Z",
         "message": "No usable official description reference"
       }
     },
@@ -269653,7 +269669,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:06.356Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "面向ChatGPT的3D打印工具",
@@ -269669,9 +269685,9 @@
           "total_tokens": 1832
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:04.108Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:37.017Z",
       "detailError": {
-        "at": "2026-10-26T04:00:04.108Z",
+        "at": "2026-10-27T04:26:37.017Z",
         "message": "No usable official description reference"
       }
     },
@@ -269721,7 +269737,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:07.972Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "搜索图像素材",
@@ -269737,9 +269753,9 @@
           "total_tokens": 1706
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:06.524Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:39.434Z",
       "detailError": {
-        "at": "2026-10-26T04:00:06.524Z",
+        "at": "2026-10-27T04:26:39.434Z",
         "message": "No usable official description reference"
       }
     },
@@ -269784,7 +269800,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:09.606Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "生成图像、音频和视频",
@@ -269800,9 +269816,9 @@
           "total_tokens": 1536
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:08.899Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:41.800Z",
       "detailError": {
-        "at": "2026-10-26T04:00:08.899Z",
+        "at": "2026-10-27T04:26:41.800Z",
         "message": "No usable official description reference"
       }
     },
@@ -269852,7 +269868,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:11.270Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "让图片文件更小",
@@ -269868,9 +269884,9 @@
           "total_tokens": 1617
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:11.272Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:44.151Z",
       "detailError": {
-        "at": "2026-10-26T04:00:11.272Z",
+        "at": "2026-10-27T04:26:44.151Z",
         "message": "No usable official description reference"
       }
     },
@@ -269920,7 +269936,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:12.943Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "定制贴纸和标签",
@@ -269936,9 +269952,9 @@
           "total_tokens": 1446
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:13.656Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:46.991Z",
       "detailError": {
-        "at": "2026-10-26T04:00:13.656Z",
+        "at": "2026-10-27T04:26:46.991Z",
         "message": "No usable official description reference"
       }
     },
@@ -269988,7 +270004,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:14.560Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "创建PNG格式的二维码",
@@ -270004,9 +270020,9 @@
           "total_tokens": 1563
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:15.979Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:49.382Z",
       "detailError": {
-        "at": "2026-10-26T04:00:15.979Z",
+        "at": "2026-10-27T04:26:49.382Z",
         "message": "No usable official description reference"
       }
     },
@@ -270051,7 +270067,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:16.440Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "通过图片识别字体",
@@ -270067,9 +270083,9 @@
           "total_tokens": 1406
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:18.327Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:52.220Z",
       "detailError": {
-        "at": "2026-10-26T04:00:18.327Z",
+        "at": "2026-10-27T04:26:52.220Z",
         "message": "No usable official description reference"
       }
     },
@@ -270119,7 +270135,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:18.092Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "撰写并发布博客文章",
@@ -270135,9 +270151,9 @@
           "total_tokens": 1628
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:21.200Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:55.159Z",
       "detailError": {
-        "at": "2026-10-26T04:00:21.200Z",
+        "at": "2026-10-27T04:26:55.159Z",
         "message": "No usable official description reference"
       }
     },
@@ -270187,7 +270203,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:19.786Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "诊断Mac视频播放问题",
@@ -270203,9 +270219,9 @@
           "total_tokens": 1702
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:23.580Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:57.435Z",
       "detailError": {
-        "at": "2026-10-26T04:00:23.580Z",
+        "at": "2026-10-27T04:26:57.435Z",
         "message": "No usable official description reference"
       }
     },
@@ -270255,7 +270271,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:21.394Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "通过AI构建和运行应用",
@@ -270271,9 +270287,9 @@
           "total_tokens": 1654
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:26.405Z",
+      "detailNextAttemptAt": "2026-10-27T06:26:59.809Z",
       "detailError": {
-        "at": "2026-10-26T04:00:26.405Z",
+        "at": "2026-10-27T04:26:59.809Z",
         "message": "No usable official description reference"
       }
     },
@@ -270318,7 +270334,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:23.045Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "构建应用、网站及游戏",
@@ -270334,9 +270350,9 @@
           "total_tokens": 1376
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:28.752Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:02.212Z",
       "detailError": {
-        "at": "2026-10-26T04:00:28.752Z",
+        "at": "2026-10-27T04:27:02.212Z",
         "message": "No usable official description reference"
       }
     },
@@ -270386,7 +270402,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:24.696Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "构建、测试并映射应用程序",
@@ -270402,9 +270418,9 @@
           "total_tokens": 1682
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:31.082Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:04.579Z",
       "detailError": {
-        "at": "2026-10-26T04:00:31.082Z",
+        "at": "2026-10-27T04:27:04.579Z",
         "message": "No usable official description reference"
       }
     },
@@ -270454,7 +270470,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:26.550Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "为操作员提供的每日简报",
@@ -270470,9 +270486,9 @@
           "total_tokens": 1663
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:33.455Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:07.484Z",
       "detailError": {
-        "at": "2026-10-26T04:00:33.455Z",
+        "at": "2026-10-27T04:27:07.484Z",
         "message": "No usable official description reference"
       }
     },
@@ -270522,7 +270538,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:28.184Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "构建网站和简单应用",
@@ -270538,9 +270554,9 @@
           "total_tokens": 1663
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:35.847Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:09.851Z",
       "detailError": {
-        "at": "2026-10-26T04:00:35.847Z",
+        "at": "2026-10-27T04:27:09.851Z",
         "message": "No usable official description reference"
       }
     },
@@ -270590,7 +270606,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:29.802Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "服务可靠性，尽在聊天中",
@@ -270606,9 +270622,9 @@
           "total_tokens": 2329
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:38.157Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:12.242Z",
       "detailError": {
-        "at": "2026-10-26T04:00:38.157Z",
+        "at": "2026-10-27T04:27:12.242Z",
         "message": "No usable official description reference"
       }
     },
@@ -270658,7 +270674,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:31.480Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "构建于TanStack堆栈之上",
@@ -270674,9 +270690,9 @@
           "total_tokens": 1766
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:40.560Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:14.632Z",
       "detailError": {
-        "at": "2026-10-26T04:00:40.560Z",
+        "at": "2026-10-27T04:27:14.632Z",
         "message": "No usable official description reference"
       }
     },
@@ -270726,7 +270742,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:33.202Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "iOS市场调研与ASO",
@@ -270742,9 +270758,9 @@
           "total_tokens": 2061
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:42.934Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:17.541Z",
       "detailError": {
-        "at": "2026-10-26T04:00:42.934Z",
+        "at": "2026-10-27T04:27:17.541Z",
         "message": "No usable official description reference"
       }
     },
@@ -270789,7 +270805,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:34.825Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "AI 驱动的软件测试",
@@ -270801,9 +270817,9 @@
         "reviewedAt": "2026-10-17T14:44:25.669Z",
         "translatedAt": "2026-10-17T14:44:25.669Z"
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:45.261Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:20.428Z",
       "detailError": {
-        "at": "2026-10-26T04:00:45.261Z",
+        "at": "2026-10-27T04:27:20.428Z",
         "message": "No usable official description reference"
       }
     },
@@ -270853,7 +270869,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:36.578Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "监控并修复您的网站",
@@ -270869,9 +270885,9 @@
           "total_tokens": 2485
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:48.256Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:22.682Z",
       "detailError": {
-        "at": "2026-10-26T04:00:48.256Z",
+        "at": "2026-10-27T04:27:22.682Z",
         "message": "No usable official description reference"
       }
     },
@@ -270921,7 +270937,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:38.194Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "一站式语音AI平台",
@@ -270937,9 +270953,9 @@
           "total_tokens": 1504
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:50.857Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:25.050Z",
       "detailError": {
-        "at": "2026-10-26T04:00:50.857Z",
+        "at": "2026-10-27T04:27:25.050Z",
         "message": "No usable official description reference"
       }
     },
@@ -270989,7 +271005,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:39.821Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "通过聊天编辑你的网页应用",
@@ -271005,9 +271021,9 @@
           "total_tokens": 1584
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:53.209Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:27.348Z",
       "detailError": {
-        "at": "2026-10-26T04:00:53.209Z",
+        "at": "2026-10-27T04:27:27.348Z",
         "message": "No usable official description reference"
       }
     },
@@ -271121,7 +271137,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:43.143Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39094279837:1",
       "translation": {
         "summary": "检查网站邮箱和安全性",
@@ -271137,9 +271153,9 @@
           "total_tokens": 1834
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:55.625Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:29.731Z",
       "detailError": {
-        "at": "2026-10-26T04:00:55.625Z",
+        "at": "2026-10-27T04:27:29.731Z",
         "message": "No usable official description reference"
       }
     },
@@ -271189,7 +271205,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:44.762Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "HTML和CSS探索平台",
@@ -271205,9 +271221,9 @@
           "total_tokens": 1635
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:00:58.565Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:32.088Z",
       "detailError": {
-        "at": "2026-10-26T04:00:58.565Z",
+        "at": "2026-10-27T04:27:32.088Z",
         "message": "No usable official description reference"
       }
     },
@@ -271257,7 +271273,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:46.435Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "代理人的语音AI推理",
@@ -271273,9 +271289,9 @@
           "total_tokens": 1932
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:01.486Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:34.331Z",
       "detailError": {
-        "at": "2026-10-26T04:01:01.486Z",
+        "at": "2026-10-27T04:27:34.331Z",
         "message": "No usable official description reference"
       }
     },
@@ -271325,7 +271341,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:48.049Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "构建并运行AI代理",
@@ -271341,9 +271357,9 @@
           "total_tokens": 2019
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:04.457Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:36.640Z",
       "detailError": {
-        "at": "2026-10-26T04:01:04.457Z",
+        "at": "2026-10-27T04:27:36.640Z",
         "message": "No usable official description reference"
       }
     },
@@ -271393,7 +271409,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:49.705Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "硬件与开发者测试",
@@ -271409,9 +271425,9 @@
           "total_tokens": 2337
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:06.827Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:39.600Z",
       "detailError": {
-        "at": "2026-10-26T04:01:06.827Z",
+        "at": "2026-10-27T04:27:39.600Z",
         "message": "No usable official description reference"
       }
     },
@@ -271461,7 +271477,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:51.479Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "检查Voidpay MCP要求",
@@ -271477,9 +271493,9 @@
           "total_tokens": 1533
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:09.214Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:42.501Z",
       "detailError": {
-        "at": "2026-10-26T04:01:09.214Z",
+        "at": "2026-10-27T04:27:42.501Z",
         "message": "No usable official description reference"
       },
       "lastMissingAt": "2026-10-27T04:14:00.356Z"
@@ -271525,7 +271541,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:53.105Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "比较域名续费价格",
@@ -271541,9 +271557,9 @@
           "total_tokens": 1896
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:11.641Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:44.868Z",
       "detailError": {
-        "at": "2026-10-26T04:01:11.641Z",
+        "at": "2026-10-27T04:27:44.868Z",
         "message": "No usable official description reference"
       }
     },
@@ -271588,7 +271604,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:54.750Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "安排社交媒体发布",
@@ -271604,9 +271620,9 @@
           "total_tokens": 1835
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:14.040Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:47.152Z",
       "detailError": {
-        "at": "2026-10-26T04:01:14.040Z",
+        "at": "2026-10-27T04:27:47.152Z",
         "message": "No usable official description reference"
       }
     },
@@ -271651,16 +271667,16 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:56.419Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40206412107:1",
       "translationError": {
         "at": "2026-10-25T15:24:12.673Z",
         "message": "Workers AI translation failed: Translation missing or mistranslating positions",
         "transient": true
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:16.403Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:49.512Z",
       "detailError": {
-        "at": "2026-10-26T04:01:16.403Z",
+        "at": "2026-10-27T04:27:49.512Z",
         "message": "No usable official description reference"
       }
     },
@@ -271705,7 +271721,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:58.074Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "了解公司运作方式",
@@ -271721,9 +271737,9 @@
           "total_tokens": 1961
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:19.288Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:51.817Z",
       "detailError": {
-        "at": "2026-10-26T04:01:19.288Z",
+        "at": "2026-10-27T04:27:51.817Z",
         "message": "No usable official description reference"
       }
     },
@@ -271768,7 +271784,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:59.713Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "免费AI可发现性检测",
@@ -271784,9 +271800,9 @@
           "total_tokens": 1462
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:21.676Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:54.183Z",
       "detailError": {
-        "at": "2026-10-26T04:01:21.676Z",
+        "at": "2026-10-27T04:27:54.183Z",
         "message": "No usable official description reference"
       }
     },
@@ -271831,7 +271847,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:01.382Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "实时法院案件搜索",
@@ -271847,9 +271863,9 @@
           "total_tokens": 1385
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:24.055Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:56.683Z",
       "detailError": {
-        "at": "2026-10-26T04:01:24.055Z",
+        "at": "2026-10-27T04:27:56.683Z",
         "message": "No usable official description reference"
       }
     },
@@ -271953,7 +271969,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:04.824Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "管理物流和退货",
@@ -271969,9 +271985,9 @@
           "total_tokens": 1597
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:26.454Z",
+      "detailNextAttemptAt": "2026-10-27T06:27:59.030Z",
       "detailError": {
-        "at": "2026-10-26T04:01:26.454Z",
+        "at": "2026-10-27T04:27:59.030Z",
         "message": "No usable official description reference"
       }
     },
@@ -272016,7 +272032,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:06.530Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "探索Orgvue员工数据",
@@ -272032,9 +272048,9 @@
           "total_tokens": 2249
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:28.880Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:01.984Z",
       "detailError": {
-        "at": "2026-10-26T04:01:28.880Z",
+        "at": "2026-10-27T04:28:01.984Z",
         "message": "No usable official description reference"
       }
     },
@@ -272079,7 +272095,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:08.183Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39094279837:1",
       "translation": {
         "summary": "足球比赛胜率",
@@ -272095,9 +272111,9 @@
           "total_tokens": 1813
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:31.340Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:04.513Z",
       "detailError": {
-        "at": "2026-10-26T04:01:31.340Z",
+        "at": "2026-10-27T04:28:04.513Z",
         "message": "No usable official description reference"
       }
     },
@@ -272147,7 +272163,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:09.851Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "AI搜索可见性洞察",
@@ -272163,9 +272179,9 @@
           "total_tokens": 1673
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:37.306Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:07.399Z",
       "detailError": {
-        "at": "2026-10-26T04:01:37.306Z",
+        "at": "2026-10-27T04:28:07.399Z",
         "message": "No usable official description reference"
       }
     },
@@ -272215,7 +272231,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:11.456Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "AI可见性与SEO",
@@ -272231,9 +272247,9 @@
           "total_tokens": 2040
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:40.196Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:09.641Z",
       "detailError": {
-        "at": "2026-10-26T04:01:40.196Z",
+        "at": "2026-10-27T04:28:09.641Z",
         "message": "No usable official description reference"
       }
     },
@@ -272278,7 +272294,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:13.147Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "评估AI发现就绪状态",
@@ -272294,9 +272310,9 @@
           "total_tokens": 1455
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:43.022Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:11.896Z",
       "detailError": {
-        "at": "2026-10-26T04:01:43.022Z",
+        "at": "2026-10-27T04:28:11.896Z",
         "message": "No usable official description reference"
       }
     },
@@ -272346,7 +272362,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:14.759Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "房产所有者与法拍房",
@@ -272362,9 +272378,9 @@
           "total_tokens": 2657
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:45.349Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:14.129Z",
       "detailError": {
-        "at": "2026-10-26T04:01:45.349Z",
+        "at": "2026-10-27T04:28:14.129Z",
         "message": "No usable official description reference"
       }
     },
@@ -272414,7 +272430,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:16.489Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39094279837:1",
       "translation": {
         "summary": "向您的业务数据提问",
@@ -272430,9 +272446,9 @@
           "total_tokens": 1809
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:48.234Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:16.517Z",
       "detailError": {
-        "at": "2026-10-26T04:01:48.234Z",
+        "at": "2026-10-27T04:28:16.517Z",
         "message": "No usable official description reference"
       }
     },
@@ -272482,7 +272498,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:18.138Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "分析创意证据",
@@ -272498,9 +272514,9 @@
           "total_tokens": 1841
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:50.580Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:18.800Z",
       "detailError": {
-        "at": "2026-10-26T04:01:50.580Z",
+        "at": "2026-10-27T04:28:18.800Z",
         "message": "No usable official description reference"
       }
     },
@@ -272550,7 +272566,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:19.765Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "季节性太阳能估算",
@@ -272566,9 +272582,9 @@
           "total_tokens": 1354
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:52.924Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:21.227Z",
       "detailError": {
-        "at": "2026-10-26T04:01:52.924Z",
+        "at": "2026-10-27T04:28:21.227Z",
         "message": "No usable official description reference"
       }
     },
@@ -272613,7 +272629,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:21.388Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38999035341:1",
       "translation": {
         "summary": "查找巴西飞机所有者",
@@ -272629,9 +272645,9 @@
           "total_tokens": 1822
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:55.320Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:23.608Z",
       "detailError": {
-        "at": "2026-10-26T04:01:55.320Z",
+        "at": "2026-10-27T04:28:23.608Z",
         "message": "No usable official description reference"
       }
     },
@@ -272681,7 +272697,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:23.273Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39094279837:1",
       "translation": {
         "summary": "英国房产出售和租赁",
@@ -272697,9 +272713,9 @@
           "total_tokens": 2573
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:01:57.687Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:26.465Z",
       "detailError": {
-        "at": "2026-10-26T04:01:57.687Z",
+        "at": "2026-10-27T04:28:26.465Z",
         "message": "No usable official description reference"
       }
     },
@@ -272749,7 +272765,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:24.903Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39094279837:1",
       "translation": {
         "summary": "新闻研究与监控",
@@ -272765,9 +272781,9 @@
           "total_tokens": 2018
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:00.641Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:29.321Z",
       "detailError": {
-        "at": "2026-10-26T04:02:00.641Z",
+        "at": "2026-10-27T04:28:29.321Z",
         "message": "No usable official description reference"
       }
     },
@@ -272817,7 +272833,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:26.617Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "构建业务专用AI",
@@ -272833,9 +272849,9 @@
           "total_tokens": 2389
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:03.020Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:31.649Z",
       "detailError": {
-        "at": "2026-10-26T04:02:03.020Z",
+        "at": "2026-10-27T04:28:31.649Z",
         "message": "No usable official description reference"
       }
     },
@@ -272880,7 +272896,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:28.248Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "追踪您的品牌在AI搜索中的表现",
@@ -272896,9 +272912,9 @@
           "total_tokens": 1554
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:05.413Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:34.020Z",
       "detailError": {
-        "at": "2026-10-26T04:02:05.413Z",
+        "at": "2026-10-27T04:28:34.020Z",
         "message": "No usable official description reference"
       }
     },
@@ -272943,7 +272959,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:29.869Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "你的Telegram，融入ChatGPT",
@@ -272959,9 +272975,9 @@
           "total_tokens": 2176
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:07.806Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:36.272Z",
       "detailError": {
-        "at": "2026-10-26T04:02:07.806Z",
+        "at": "2026-10-27T04:28:36.272Z",
         "message": "No usable official description reference"
       }
     },
@@ -273011,7 +273027,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:31.506Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39094279837:1",
       "translation": {
         "summary": "通过Gmail发送群发邮件",
@@ -273027,9 +273043,9 @@
           "total_tokens": 1347
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:10.163Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:38.563Z",
       "detailError": {
-        "at": "2026-10-26T04:02:10.163Z",
+        "at": "2026-10-27T04:28:38.563Z",
         "message": "No usable official description reference"
       }
     },
@@ -273079,7 +273095,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:33.154Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "安排社交媒体发布",
@@ -273095,9 +273111,9 @@
           "total_tokens": 1841
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:13.010Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:40.862Z",
       "detailError": {
-        "at": "2026-10-26T04:02:13.010Z",
+        "at": "2026-10-27T04:28:40.862Z",
         "message": "No usable official description reference"
       }
     },
@@ -273147,7 +273163,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:34.823Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "使用Missive消息",
@@ -273163,9 +273179,9 @@
           "total_tokens": 1414
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:15.342Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:43.740Z",
       "detailError": {
-        "at": "2026-10-26T04:02:15.342Z",
+        "at": "2026-10-27T04:28:43.740Z",
         "message": "No usable official description reference"
       }
     },
@@ -273215,7 +273231,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:36.593Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "短信、活动与日程安排",
@@ -273231,9 +273247,9 @@
           "total_tokens": 1945
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:17.708Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:46.582Z",
       "detailError": {
-        "at": "2026-10-26T04:02:17.708Z",
+        "at": "2026-10-27T04:28:46.582Z",
         "message": "No usable official description reference"
       }
     },
@@ -273283,7 +273299,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:38.217Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "土耳其法律与源分析",
@@ -273299,9 +273315,9 @@
           "total_tokens": 2498
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:20.093Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:48.859Z",
       "detailError": {
-        "at": "2026-10-26T04:02:20.093Z",
+        "at": "2026-10-27T04:28:48.859Z",
         "message": "No usable official description reference"
       }
     },
@@ -273351,7 +273367,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:39.931Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "实践洞察与规划",
@@ -273367,9 +273383,9 @@
           "total_tokens": 1640
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:23.006Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:51.237Z",
       "detailError": {
-        "at": "2026-10-26T04:02:23.006Z",
+        "at": "2026-10-27T04:28:51.237Z",
         "message": "No usable official description reference"
       }
     },
@@ -273414,7 +273430,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:41.585Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "寻找东京托儿服务",
@@ -273430,9 +273446,9 @@
           "total_tokens": 1397
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:25.650Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:54.116Z",
       "detailError": {
-        "at": "2026-10-26T04:02:25.650Z",
+        "at": "2026-10-27T04:28:54.116Z",
         "message": "No usable official description reference"
       }
     },
@@ -273482,7 +273498,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:43.191Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "VA伤残参考",
@@ -273498,9 +273514,9 @@
           "total_tokens": 2263
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:28.036Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:56.450Z",
       "detailError": {
-        "at": "2026-10-26T04:02:28.036Z",
+        "at": "2026-10-27T04:28:56.450Z",
         "message": "No usable official description reference"
       }
     },
@@ -273550,7 +273566,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:44.815Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "全球医疗路径",
@@ -273566,9 +273582,9 @@
           "total_tokens": 1622
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:30.411Z",
+      "detailNextAttemptAt": "2026-10-27T06:28:58.727Z",
       "detailError": {
-        "at": "2026-10-26T04:02:30.411Z",
+        "at": "2026-10-27T04:28:58.727Z",
         "message": "No usable official description reference"
       }
     },
@@ -273618,7 +273634,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:46.441Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "练习你的阿拉伯语",
@@ -273634,9 +273650,9 @@
           "total_tokens": 1311
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:32.884Z",
+      "detailNextAttemptAt": "2026-10-27T06:29:01.139Z",
       "detailError": {
-        "at": "2026-10-26T04:02:32.884Z",
+        "at": "2026-10-27T04:29:01.139Z",
         "message": "No usable official description reference"
       }
     },
@@ -273686,7 +273702,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:48.118Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "UPSC Civil Services Exam prep",
@@ -273702,9 +273718,9 @@
           "total_tokens": 3652
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:35.258Z",
+      "detailNextAttemptAt": "2026-10-27T06:29:03.411Z",
       "detailError": {
-        "at": "2026-10-26T04:02:35.258Z",
+        "at": "2026-10-27T04:29:03.411Z",
         "message": "No usable official description reference"
       }
     },
@@ -273754,7 +273770,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:49.755Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "查找并阅读斯多葛学派典籍",
@@ -273770,9 +273786,9 @@
           "total_tokens": 1662
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:37.658Z",
+      "detailNextAttemptAt": "2026-10-27T06:29:05.778Z",
       "detailError": {
-        "at": "2026-10-26T04:02:37.658Z",
+        "at": "2026-10-27T04:29:05.778Z",
         "message": "No usable official description reference"
       }
     },
@@ -273822,7 +273838,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:51.406Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "圣经经文、术语与计划",
@@ -273838,9 +273854,9 @@
           "total_tokens": 1563
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:40.048Z",
+      "detailNextAttemptAt": "2026-10-27T06:29:08.012Z",
       "detailError": {
-        "at": "2026-10-26T04:02:40.048Z",
+        "at": "2026-10-27T04:29:08.012Z",
         "message": "No usable official description reference"
       }
     },
@@ -273890,7 +273906,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:53.121Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39016314719:1",
       "translation": {
         "summary": "经过审核的犬种繁育者与领养",
@@ -273906,9 +273922,9 @@
           "total_tokens": 1834
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:42.412Z",
+      "detailNextAttemptAt": "2026-10-27T06:29:10.363Z",
       "detailError": {
-        "at": "2026-10-26T04:02:42.412Z",
+        "at": "2026-10-27T04:29:10.363Z",
         "message": "No usable official description reference"
       }
     },
@@ -273958,7 +273974,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:54.808Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "通过合成用户进行研究",
@@ -273974,9 +273990,9 @@
           "total_tokens": 2011
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:44.774Z",
+      "detailNextAttemptAt": "2026-10-27T06:29:12.702Z",
       "detailError": {
-        "at": "2026-10-26T04:02:44.774Z",
+        "at": "2026-10-27T04:29:12.702Z",
         "message": "No usable official description reference"
       }
     },
@@ -274026,7 +274042,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:56.513Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "公共审查研究",
@@ -274042,9 +274058,9 @@
           "total_tokens": 1501
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:02:47.153Z",
+      "detailNextAttemptAt": "2026-10-27T06:29:15.652Z",
       "detailError": {
-        "at": "2026-10-26T04:02:47.153Z",
+        "at": "2026-10-27T04:29:15.652Z",
         "message": "No usable official description reference"
       }
     },
@@ -316246,6 +316262,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:24:16.710Z",
+      "detailError": {
+        "at": "2026-10-27T04:24:16.710Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac82ad7a1f08191bef857e6ebf88c79": {
@@ -316261,6 +316284,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:24:19.232Z",
+      "detailError": {
+        "at": "2026-10-27T04:24:19.232Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac4d151538481919750f04ac4712431": {
@@ -316276,6 +316306,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:24:21.601Z",
+      "detailError": {
+        "at": "2026-10-27T04:24:21.601Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac461906eec81918ab6000deb2d7367": {
@@ -316291,6 +316328,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:24:23.944Z",
+      "detailError": {
+        "at": "2026-10-27T04:24:23.944Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac8aa15763881918c2052016e78932f": {
@@ -316306,6 +316350,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:24:26.277Z",
+      "detailError": {
+        "at": "2026-10-27T04:24:26.277Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6addc890350c8191bae0b906038efef2": {
@@ -316321,6 +316372,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:24:28.536Z",
+      "detailError": {
+        "at": "2026-10-27T04:24:28.536Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad9418b36a881918ae85b458a9dad7d": {
@@ -316336,6 +316394,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:24:30.822Z",
+      "detailError": {
+        "at": "2026-10-27T04:24:30.822Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac0233b46d0819181f3cbf88e7e3d14": {
@@ -316351,6 +316416,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:24:33.101Z",
+      "detailError": {
+        "at": "2026-10-27T04:24:33.101Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6acb787799448191baa6d03b181d30bb": {
@@ -316366,6 +316438,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:24:35.401Z",
+      "detailError": {
+        "at": "2026-10-27T04:24:35.401Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac90c2d631881918702191570af3e96": {
@@ -316381,6 +316460,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:24:37.625Z",
+      "detailError": {
+        "at": "2026-10-27T04:24:37.625Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6adb9b1c56bc8191866293f3a7561288": {
@@ -316396,6 +316482,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:24:39.918Z",
+      "detailError": {
+        "at": "2026-10-27T04:24:39.918Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6abe60f306588191987d493830f5285c": {
@@ -316411,6 +316504,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:24:42.204Z",
+      "detailError": {
+        "at": "2026-10-27T04:24:42.204Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a87d1b96834819180dfa712494e6fe2": {
@@ -316426,6 +316526,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:24:45.030Z",
+      "detailError": {
+        "at": "2026-10-27T04:24:45.030Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6acd4168f6808191ba2603e618f4b466": {
@@ -316441,6 +316548,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:24:47.288Z",
+      "detailError": {
+        "at": "2026-10-27T04:24:47.288Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6981ec32565481919b1c5a1627b1e330": {
@@ -316456,6 +316570,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:24:50.184Z",
+      "detailError": {
+        "at": "2026-10-27T04:24:50.184Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_69e0ea302aac8191b85acaba38ecf92a": {
@@ -316471,6 +316592,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:24:52.774Z",
+      "detailError": {
+        "at": "2026-10-27T04:24:52.774Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_699436439a6881919f6ca95c18e7616e": {
@@ -316486,6 +316614,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:24:55.643Z",
+      "detailError": {
+        "at": "2026-10-27T04:24:55.643Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a91b00d22c88191b9087658d3469d3d": {
@@ -316501,6 +316636,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:24:57.971Z",
+      "detailError": {
+        "at": "2026-10-27T04:24:57.971Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6adb88fef3c8819180ff0847dfcb422f": {
@@ -316516,6 +316658,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:00.408Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:00.408Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6add1be5dc3c8191a26fd523a13c9570": {
@@ -316531,6 +316680,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:02.787Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:02.787Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac97509b3ac819181d44d72c9dfa299": {
@@ -316546,6 +316702,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:05.183Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:05.183Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6abb17191de48191bc015ca8139bcb30": {
@@ -316561,6 +316724,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:07.516Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:07.516Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac9e3b8cca48191880e0d0cc2552374": {
@@ -316576,6 +316746,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:09.767Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:09.767Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac4ff61166481918d85aa3740021c59": {
@@ -316591,6 +316768,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:12.158Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:12.158Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ada505551688191b6ee07202ead90d0": {
@@ -316606,6 +316790,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:14.516Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:14.516Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6add634eed0481919dbf3a1a5b6a26c8": {
@@ -316621,6 +316812,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:17.372Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:17.372Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6acc8bd9ad348191827abe07336ed33d": {
@@ -316636,6 +316834,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:19.590Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:19.590Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6adc0e6ba30c8191af12653280e087be": {
@@ -316651,6 +316856,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:22.122Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:22.122Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac51f471c148191be219bcd3eb3d45a": {
@@ -316666,6 +316878,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:24.468Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:24.468Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ade604abe5c819188ae32f5c6326b15": {
@@ -316681,6 +316900,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:26.804Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:26.804Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac66a9de2ec8191a5132e546fa9d284": {
@@ -316696,6 +316922,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:29.154Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:29.154Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac9401938b881918107b0dc0b17d54f": {
@@ -316711,6 +316944,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:31.477Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:31.477Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a8ca24aa1ec8191ad2d3a6d1ef42e73": {
@@ -316726,6 +316966,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:34.364Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:34.364Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6adb25d2ab7c81918ace3e33ef08ce5c": {
@@ -316741,6 +316988,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:36.720Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:36.720Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a8f8d79b7a08191814a3a3f525b390f": {
@@ -316756,6 +317010,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:39.104Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:39.104Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac2568170ec8191994a6f025edf2e7b": {
@@ -316771,6 +317032,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:41.442Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:41.442Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac64d4ab8ac81918351696d8ef401ef": {
@@ -316786,6 +317054,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:43.920Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:43.920Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac1a890d7248191930b9c3a3b1cb0a9": {
@@ -316801,6 +317076,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:46.274Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:46.274Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac96e011ed48191a93cd2b492deb3e1": {
@@ -316816,6 +317098,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:48.530Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:48.530Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac8d1e95d848191b327ea2bdbf9196d": {
@@ -316831,6 +317120,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:50.905Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:50.905Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6aca0c563444819183d167781e792171": {
@@ -316846,6 +317142,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:53.370Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:53.370Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac8d5f15cd8819193cd9fc2fd12f38f": {
@@ -316861,6 +317164,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:55.621Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:55.621Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6a4801d074a88191bdff2a7b57e0ca45": {
@@ -316876,6 +317186,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-27T04:14:00.356Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T05:25:58.629Z",
+      "detailError": {
+        "at": "2026-10-27T04:25:58.629Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     }
   },
@@ -399381,23 +399698,23 @@
     "runId": "40448357028",
     "runAttempt": "1",
     "startedAt": "2026-10-27T04:12:04.753Z",
-    "updatedAt": "2026-10-27T04:24:10.953Z",
+    "updatedAt": "2026-10-27T04:29:15.753Z",
     "mode": "incremental",
-    "detailRequests": 242,
+    "detailRequests": 365,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
     "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 242,
+    "errors": 365,
     "stats": {
       "total": 5242,
       "details": 4957,
       "translated": 4856,
       "missing": 30,
       "removed": 326,
-      "pendingDetails": 905,
+      "pendingDetails": 906,
       "pendingTranslations": 386
     }
   }
