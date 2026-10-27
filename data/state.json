@@ -1635,7 +1635,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "你的会议洞察",
       "legacySummaryOriginal": "Your meeting insights",
@@ -1690,7 +1690,12 @@
           "total_tokens": 1426
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T08:09:56.100Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:56.100Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d": {
       "id": "plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d",
@@ -9516,7 +9521,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找并分析文件",
       "legacySummaryOriginal": "Find and analyze your files",
@@ -9570,7 +9575,12 @@
           "total_tokens": 1551
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T08:09:58.427Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:58.427Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a49590bf6348191a16c0b87ca6b01b4": {
       "id": "plugin_asdk_app_6a49590bf6348191a16c0b87ca6b01b4",
@@ -37651,7 +37661,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "品牌资产库访问",
       "legacySummaryOriginal": "Brand asset library access",
@@ -37695,8 +37705,13 @@
         "reviewedAt": "2026-10-26T18:00:23.700Z",
         "translatedAt": "2026-10-26T18:00:23.700Z"
       },
-      "detailFailures": 0,
-      "lastMissingAt": "2026-10-23T03:54:39.485Z"
+      "detailFailures": 1,
+      "lastMissingAt": "2026-10-23T03:54:39.485Z",
+      "detailNextAttemptAt": "2026-10-27T08:09:23.340Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:23.340Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a796c2ded988191ab8fe02fcb36e98c": {
       "id": "plugin_asdk_app_6a796c2ded988191ab8fe02fcb36e98c",
@@ -48924,7 +48939,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "制作可分块打印的海报",
       "legacySummaryOriginal": "Make tiled posters",
@@ -48972,7 +48987,12 @@
           "total_tokens": 1686
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T08:09:50.954Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:50.954Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a610f58f8348191bf98761a288c1f03": {
       "id": "plugin_asdk_app_6a610f58f8348191bf98761a288c1f03",
@@ -59866,10 +59886,10 @@
           "total_tokens": 2096
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-26T05:24:05.958Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-27T09:10:36.379Z",
       "detailError": {
-        "at": "2026-10-26T04:24:05.958Z",
+        "at": "2026-10-27T07:10:36.379Z",
         "message": "No usable official description reference"
       }
     },
@@ -72243,7 +72263,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "找自由职业者",
       "legacySummaryOriginal": "Hire, apply, and manage work",
@@ -72297,7 +72317,12 @@
           "total_tokens": 1652
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T08:10:00.676Z",
+      "detailError": {
+        "at": "2026-10-27T07:10:00.676Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a4fb1116fe4819198f372bd1dc45baf": {
       "id": "plugin_asdk_app_6a4fb1116fe4819198f372bd1dc45baf",
@@ -96049,11 +96074,11 @@
           "total_tokens": 1329
         }
       },
-      "detailFailures": 1,
+      "detailFailures": 2,
       "lastMissingAt": "2026-10-23T03:54:39.485Z",
-      "detailNextAttemptAt": "2026-10-26T05:24:08.386Z",
+      "detailNextAttemptAt": "2026-10-27T09:10:38.643Z",
       "detailError": {
-        "at": "2026-10-26T04:24:08.386Z",
+        "at": "2026-10-27T07:10:38.643Z",
         "message": "No usable official description reference"
       }
     },
@@ -110811,7 +110836,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "专利分析",
       "legacySummaryOriginal": "Search patents and literature",
@@ -110846,7 +110871,7 @@
       "detailCheckedAt": "2026-10-20T04:03:12.641Z",
       "translationAttemptRun": "39397692733:1",
       "lastMissingAt": "2026-10-06T05:29:42.497Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translation": {
         "summary": "专利与文献检索",
         "description": "Patlytics将概念级AI原生专利检索引入您的助手：基于语义而非关键词。用通俗易懂的描述说明一项发明，即可获得最相关的专利，查阅任意专利的权项，搜索科学文献，并调取贵司保存的专利，所有操作均通过结构化可预测的工具完成（而非黑箱）\n\n五个工具均为只读模式：语义专利检索（可关联参考专利）、专利查询（包含著录数据和完整权项）、非专利文献检索（通过OpenAlex）、以及贵司私有专利组合和保险库清单。语义搜索特性意味着更详细的描述（发明原理、解决的问题、组成部分）将获得更精准的结果\n\n现有Patlytics用户可访问：每位成员需使用个人账户登录（OAuth），结果范围限定于其所属组织。深度工作如自由实施意见、侵权无效比对表、专利撰写等需在Patlytics网页应用中完成，所有结果页均提供链接入口",
@@ -110860,6 +110885,11 @@
           "neurons": 32.10820007324219,
           "total_tokens": 1901
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:21.041Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:21.041Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a160e62327c81918919ee5f8f72537a": {
@@ -128580,7 +128610,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "探索科学研究",
       "legacySummaryOriginal": "Explore scientific research",
@@ -128634,7 +128664,12 @@
           "total_tokens": 1886
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T08:10:02.973Z",
+      "detailError": {
+        "at": "2026-10-27T07:10:02.973Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69c50381a40081919232f5027201beef": {
       "id": "plugin_asdk_app_69c50381a40081919232f5027201beef",
@@ -196523,7 +196558,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找并预订韩国餐厅",
       "legacySummaryOriginal": "Find & book Korean restaurants",
@@ -196571,7 +196606,12 @@
           "total_tokens": 2597
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T08:10:05.275Z",
+      "detailError": {
+        "at": "2026-10-27T07:10:05.275Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7e5701949c8191a90524c5e74ce963": {
       "id": "plugin_asdk_app_6a7e5701949c8191a90524c5e74ce963",
@@ -205269,7 +205309,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:15.398Z",
       "translationAttemptRun": "40300276517:1",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translation": {
         "summary": "自行抽取的塔罗牌",
         "description": "Evelyn Tarot将宁静、从容的塔罗体验融入ChatGPT。\n\n您可自行抽卡：Evelyn会询问您的姓名、年龄以及前来占卜的原因，翻开背面朝上的牌阵，等待您选择。\n\nEvelyn Tarot让您自行抽卡。她会询问您的姓名、年龄以及前来占卜的原因，翻开背面朝上的牌阵，等待您选择，随后才翻转牌面。14种占卜类型——爱情、您将嫁娶的人、对方对您的感受、事业、深入灵性占卜、未来一年展望等，每种都以长篇个人化解读形式呈现，支持您选择的语言。还提供免费的牌义解释、每周黄道运势、匹配度分析、月相、数秘术及天使数字。\n\n所有内容完全免费，无需创建账户，所有工具支持十种语言——英语、土耳其语、西班牙语、葡萄牙语、意大利语、阿拉伯语、法语、日语、印地语和印尼语。\n\n以上占卜仅供反思和娱乐用途。不构成医疗、法律或财务建议，不保证任何结果。",
@@ -205284,9 +205324,9 @@
           "total_tokens": 2071
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:03.094Z",
+      "detailNextAttemptAt": "2026-10-27T09:10:33.495Z",
       "detailError": {
-        "at": "2026-10-26T04:24:03.094Z",
+        "at": "2026-10-27T07:10:33.495Z",
         "message": "No usable official description reference"
       }
     },
@@ -242591,7 +242631,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-03T17:59:25.917Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Litera's Lito plugin brings your firm's collective knowledge and experience into ChatGPT. Ask questions in plain English and get cited answers drawn from your firm's experience data, without leaving the conversation.\n\n- Natural language search: ask questions like \"Show me M&A deals for banking clients in Japan\" and get results with entity links across matters, clients, people and experience records.\n- Tabular results: view paged, sortable tables from any search to quickly scan and compare results.\n- Matter profiles: pull up full matter details by drilling into a specific matter from your search results.\n- Client profiles: retrieve complete client profiles to understand relationship history and related experience.\n- People profiles: look up individuals to find their expertise, matter history and firm roles.\n- Marketing packet profiles: access full experience packets to support pitches, proposals and RFPs.\n- Conversational refinement: chain any of the above together with follow-up questions to narrow down exactly what you need.\n\nAll answers include citations and respect firm security permissions, ethical walls, and user entitlements, so professionals only see what they are authorised to access. Litera’s Lito helps lawyers and business professionals tap into firm knowledge with deterministic accuracy, Raising The Bar™ on a process that would otherwise require navigating multiple systems or relying on institutional memory.",
       "information": [
         {
@@ -242619,7 +242659,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:50.907Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "每个事项的智能助手",
@@ -242634,6 +242674,11 @@
           "neurons": 36.530242919921875,
           "total_tokens": 2097
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:10:07.638Z",
+      "detailError": {
+        "at": "2026-10-27T07:10:07.638Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a8ada2e49408191a0e9861b1dda442f": {
@@ -244242,7 +244287,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:08.451Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "管理消息和收件箱",
@@ -244253,6 +244298,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-26T18:00:23.557Z",
         "translatedAt": "2026-10-26T18:00:23.557Z"
+      },
+      "detailNextAttemptAt": "2026-10-27T08:10:26.569Z",
+      "detailError": {
+        "at": "2026-10-27T07:10:26.569Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a6c8bf65bb48191b9feebcf95155cef": {
@@ -244404,7 +244454,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:13.981Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "带进度的指导课程",
@@ -244420,9 +244470,9 @@
           "total_tokens": 1451
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:23:58.364Z",
+      "detailNextAttemptAt": "2026-10-27T09:10:28.842Z",
       "detailError": {
-        "at": "2026-10-26T04:23:58.364Z",
+        "at": "2026-10-27T07:10:28.842Z",
         "message": "No usable official description reference"
       }
     },
@@ -244738,7 +244788,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:25.113Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40265897781:1",
       "translation": {
         "summary": "构建交易策略",
@@ -244754,9 +244804,9 @@
           "total_tokens": 1497
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:00.750Z",
+      "detailNextAttemptAt": "2026-10-27T09:10:31.074Z",
       "detailError": {
-        "at": "2026-10-26T04:24:00.750Z",
+        "at": "2026-10-27T07:10:31.074Z",
         "message": "No usable official description reference"
       }
     },
@@ -246329,7 +246379,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:05:10.272Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "性能汽车数据与工具",
@@ -246345,9 +246395,9 @@
           "total_tokens": 1771
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:56.006Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:42.890Z",
       "detailError": {
-        "at": "2026-10-26T04:24:56.006Z",
+        "at": "2026-10-27T07:11:42.890Z",
         "message": "No usable official description reference"
       }
     },
@@ -246446,7 +246496,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:05:14.209Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "Amazon、Shopify 与 WooCommerce",
@@ -246462,9 +246512,9 @@
           "total_tokens": 3595
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:58.261Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:45.214Z",
       "detailError": {
-        "at": "2026-10-26T04:24:58.261Z",
+        "at": "2026-10-27T07:11:45.214Z",
         "message": "No usable official description reference"
       }
     },
@@ -246779,7 +246829,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:05:25.621Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37573889568:1",
       "translation": {
         "summary": "比较加密市场数据",
@@ -246790,6 +246840,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-26T18:00:23.797Z",
         "translatedAt": "2026-10-26T18:00:23.797Z"
+      },
+      "detailNextAttemptAt": "2026-10-27T08:11:47.460Z",
+      "detailError": {
+        "at": "2026-10-27T07:11:47.460Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa038baee1081919cbaecd905aec34e": {
@@ -247265,7 +247320,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:05:42.962Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "扫雷风格的TNT谜题",
@@ -247281,9 +247336,9 @@
           "total_tokens": 1816
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:25:00.740Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:49.857Z",
       "detailError": {
-        "at": "2026-10-26T04:25:00.740Z",
+        "at": "2026-10-27T07:11:49.857Z",
         "message": "No usable official description reference"
       }
     },
@@ -260490,7 +260545,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Project Plan 365 lets you work with Microsoft Project (MS Project) and MPP files directly in ChatGPT. Create and manage project plans and Gantt chart schedules, open and analyze existing Microsoft Project MPP files, and review tasks, milestones, dates, durations, resources, assignments, dependencies, progress, and critical paths. Update project schedules using natural language, then download the updated MPP file or open it in Project Plan 365. Simplify project planning and project management while keeping your plans compatible with the Microsoft Project MPP file format.",
       "information": [
         {
@@ -260518,7 +260573,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:18.115Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38205938574:1",
       "translation": {
         "summary": "管理Microsoft Project MPP文件",
@@ -260533,6 +260588,11 @@
           "neurons": 35.35714340209961,
           "total_tokens": 1916
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:25.721Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:25.721Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_connector_692de805e3ec8191834719067174a384": {
@@ -260671,7 +260731,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "AlterVision helps retail teams analyze visitor traffic, sales, conversion rates, and progress toward store and seller targets. Connect an existing account to find stores, compare daily performance, review sales competition standings, and investigate why visits did not become purchases through reason summaries and seller-recorded explanations. Non-conversion reports and sales competitions require AlterVez access.",
       "information": [
         {
@@ -260699,7 +260759,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:21.577Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38205938574:1",
       "translation": {
         "summary": "分析店铺表现",
@@ -260714,6 +260774,11 @@
           "neurons": 24.84666633605957,
           "total_tokens": 1527
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:27.972Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:27.972Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a90e9da4ad08191a201cbfc21b38e6e": {
@@ -260729,7 +260794,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Tassyir is the back office of e-commerce merchants in Algeria. Once a merchant connects their Tassyir business, ChatGPT can review sales (orders, confirmation and delivery rates, delivered revenue, ad spend, best sellers and top wilayas), work the order queue (list pending orders, confirm, cancel, schedule, assign and comment on them, dispatch confirmed orders to delivery and follow parcels until delivered or returned), manage the catalog (create and update products with sizes, colors and per-variant prices, categories and stock levels) and keep the books (record expenses and capital transactions). Every action runs with the merchant’s own Tassyir role permissions, on the one business they connected. Amounts are in Algerian dinars (DZD).",
       "information": [
         {
@@ -260757,7 +260822,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:23.277Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38205938574:1",
       "translation": {
         "summary": "管理订单、产品和销售",
@@ -260772,6 +260837,11 @@
           "neurons": 26.32024574279785,
           "total_tokens": 1650
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:30.281Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:30.281Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_69e144b6acc48191bd001a3d7c752c5c": {
@@ -260787,7 +260857,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Assembly helps users work with clients from ChatGPT. Users can find clients and companies, manage tasks, notes, files, messages, forms, contracts, invoices, subscriptions, products, prices, app connections, notifications, and related workspace activity and records through authenticated Assembly APIs.",
       "information": [
         {
@@ -260815,7 +260885,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:24.967Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38205938574:1",
       "translation": {
         "summary": "管理客户工作",
@@ -260830,6 +260900,11 @@
           "neurons": 19.861610412597656,
           "total_tokens": 1349
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:32.589Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:32.589Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a870f742ce88191b7bbc09f0d84b62f": {
@@ -260845,7 +260920,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Connect ChatGPT to your Hiver shared inboxes. Ask questions about the conversations your team handles in Gmail: search and read conversations, find the emails behind a Gmail thread, see who is on an inbox and which tags and SLA policies apply. Move work forward without leaving the chat: add internal notes visible only to your team, apply or remove tags, and save reply drafts for a teammate to review and send. Administrators can also pull inbox reports directly: conversation volume, response performance, SLA compliance, agent workload, CSAT, sentiment, and per-company support summaries. Every action uses your own Hiver account and permissions, so you only ever see the shared inboxes you are a member of, writes are attributed to you, and nothing is ever sent to a customer by the app itself.",
       "information": [
         {
@@ -260873,7 +260948,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:26.759Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38205938574:1",
       "translation": {
         "summary": "邮件分类与回复草稿",
@@ -260888,6 +260963,11 @@
           "neurons": 26.71096420288086,
           "total_tokens": 1673
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:34.860Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:34.860Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a971dee7028819187a366c7cb596599": {
@@ -260903,7 +260983,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Hyros tracks every ad click, lead, and sale, so you can see which campaigns, ads, and keywords actually produce revenue. This app brings that data into ChatGPT.\n\nAsk in plain language and get answers from your live Hyros account:\n\n• \"Which Meta campaigns had the best ROAS last month?\"\n• \"What were my best performing ads last month?\"\n• \"Where did last week's revenue actually come from?\"\n• \"Show me an overview of the last 7 days\"\n\nChatGPT can pull attribution reports, spend and ROAS by campaign or ad set, lead and customer journeys, revenue and LTV breakdowns, and call and booking data, then chart it, summarize it or drop it into the doc you're already writing.\n\nBuilt for media buyers, agencies, and growth teams who spend their days reconciling ad platform numbers against what actually hit the bank account.\n\nRequires an active Hyros account. You connect with your Hyros login, and ChatGPT only sees data that account already has access to.",
       "information": [
         {
@@ -260931,7 +261011,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:28.548Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38205938574:1",
       "translation": {
         "summary": "广告的AI优化",
@@ -260946,6 +261026,11 @@
           "neurons": 31.055694580078125,
           "total_tokens": 1897
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:37.225Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:37.225Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a96e832461c81919cb43fb6c718d03a": {
@@ -260961,7 +261046,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Qwikyo helps people in India discover local service providers and public work requests. Search by service and location, view task details and professional profiles, and browse supported service categories and locations. The plugin does not create bookings, process payments, sell items, send messages, or arrange transport.",
       "information": [
         {
@@ -260989,7 +261074,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:30.285Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38205938574:1",
       "translation": {
         "summary": "寻找本地服务提供商",
@@ -261005,7 +261090,12 @@
           "total_tokens": 1654
         }
       },
-      "lastMissingAt": "2026-10-13T06:01:17.120Z"
+      "lastMissingAt": "2026-10-13T06:01:17.120Z",
+      "detailNextAttemptAt": "2026-10-27T08:09:39.429Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:39.429Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6ab81f50a2b881918abe2865d47fb2a3": {
       "id": "plugin_asdk_app_6ab81f50a2b881918abe2865d47fb2a3",
@@ -261020,7 +261110,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Teach Me turns ChatGPT into a patient, adaptive teacher for learners, educators, and parents. It teaches topics step by step, prepares classroom-ready lesson briefs, adapts explanations when an age is supplied, and supports source-grounded learning from files, PDFs, books, webpages, videos, playlists, courses, recordings, curricula, and mixed sources that ChatGPT can inspect. It clearly states source-access limits, supports English and simplified Modern Standard Arabic, and asks permission before routine assessments. Teach Me creates no account, stores no learner state, and its read-only connector receives no learner messages or source contents.",
       "information": [
         {
@@ -261048,7 +261138,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:32.037Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38205938574:1",
       "translation": {
         "summary": "逐步学习指南",
@@ -261063,6 +261153,11 @@
           "neurons": 28.482887268066406,
           "total_tokens": 1704
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:41.698Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:41.698Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab6865a344481919ff4d2a9bb5d6e5d": {
@@ -261106,7 +261201,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:33.757Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "老师将提示通过一个代码发送给学生",
@@ -261122,9 +261217,9 @@
           "total_tokens": 1821
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:23:41.963Z",
+      "detailNextAttemptAt": "2026-10-27T09:09:44.039Z",
       "detailError": {
-        "at": "2026-10-26T04:23:41.963Z",
+        "at": "2026-10-27T07:09:44.039Z",
         "message": "No usable official description reference"
       }
     },
@@ -261141,7 +261236,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Performance Signal helps runners use ChatGPT to inspect their connected Strava training history, find specific activities, analyze run details and streams, compare mileage trends, and sync missing activity data into the app's private local store.",
       "information": [
         {
@@ -261169,7 +261264,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:35.505Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38205938574:1",
       "translation": {
         "summary": "分析Strava数据",
@@ -261184,6 +261279,11 @@
           "neurons": 25.671144485473633,
           "total_tokens": 1532
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:46.323Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:46.323Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab6f6b73064819196e16826f827a0f3": {
@@ -261199,7 +261299,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-12T05:00:42.528Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "CarGene answers questions about the history of Japanese cars from a curated database: which generations of a model were sold and when, their chassis codes, the engineers who developed them, how generations relate (successor, sibling, derivative), and sales figures by country and year. Each fact comes with the source it was taken from. Read-only, no account needed.",
       "information": [
         {
@@ -261227,7 +261327,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:37.189Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38205938574:1",
       "translation": {
         "summary": "查询日本汽车历史",
@@ -261242,6 +261342,11 @@
           "neurons": 21.69578742980957,
           "total_tokens": 1427
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:48.711Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:48.711Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab7ddd5d68c8191b78d6a0e3e74b20a": {
@@ -262273,7 +262378,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:53:38.558Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "实时只读GA4洞察",
@@ -262289,9 +262394,9 @@
           "total_tokens": 1580
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:23:46.650Z",
+      "detailNextAttemptAt": "2026-10-27T09:10:14.505Z",
       "detailError": {
-        "at": "2026-10-26T04:23:46.650Z",
+        "at": "2026-10-27T07:10:14.505Z",
         "message": "No usable official description reference"
       }
     },
@@ -262568,7 +262673,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:53:48.305Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "创建并学习记忆卡",
@@ -262584,9 +262689,9 @@
           "total_tokens": 1554
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:23:49.055Z",
+      "detailNextAttemptAt": "2026-10-27T09:10:16.758Z",
       "detailError": {
-        "at": "2026-10-26T04:23:49.055Z",
+        "at": "2026-10-27T07:10:16.758Z",
         "message": "No usable official description reference"
       }
     },
@@ -263212,7 +263317,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:09.064Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40265897781:1",
       "translation": {
         "summary": "SEC关键绩效指标和文件",
@@ -263228,9 +263333,9 @@
           "total_tokens": 1628
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:23:51.368Z",
+      "detailNextAttemptAt": "2026-10-27T09:10:19.135Z",
       "detailError": {
-        "at": "2026-10-26T04:23:51.368Z",
+        "at": "2026-10-27T07:10:19.135Z",
         "message": "No usable official description reference"
       }
     },
@@ -263333,7 +263438,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:12.701Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40265897781:1",
       "translation": {
         "summary": "FNMA + FHA + VA + 合规",
@@ -263349,9 +263454,9 @@
           "total_tokens": 2191
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:23:53.705Z",
+      "detailNextAttemptAt": "2026-10-27T09:10:21.441Z",
       "detailError": {
-        "at": "2026-10-26T04:23:53.705Z",
+        "at": "2026-10-27T07:10:21.441Z",
         "message": "No usable official description reference"
       }
     },
@@ -263744,7 +263849,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:25.703Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40265897781:1",
       "translation": {
         "summary": "公路旅行、签证及燃油",
@@ -263760,9 +263865,9 @@
           "total_tokens": 1511
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:23:56.067Z",
+      "detailNextAttemptAt": "2026-10-27T09:10:23.704Z",
       "detailError": {
-        "at": "2026-10-26T04:23:56.067Z",
+        "at": "2026-10-27T07:10:23.704Z",
         "message": "No usable official description reference"
       }
     },
@@ -265723,7 +265828,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:53:49.837Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38509295992:1",
       "translation": {
         "summary": "分析您的营销数据",
@@ -265738,6 +265843,11 @@
           "neurons": 25.595491409301758,
           "total_tokens": 1538
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:10:55.283Z",
+      "detailError": {
+        "at": "2026-10-27T07:10:55.283Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a9f1cf85ee0819187466e1aec1da69b": {
@@ -266640,7 +266750,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:54:17.785Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40265897781:1",
       "translation": {
         "summary": "您的加密货币研究台",
@@ -266656,9 +266766,9 @@
           "total_tokens": 1906
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:17.869Z",
+      "detailNextAttemptAt": "2026-10-27T09:10:57.641Z",
       "detailError": {
-        "at": "2026-10-26T04:24:17.869Z",
+        "at": "2026-10-27T07:10:57.641Z",
         "message": "No usable official description reference"
       }
     },
@@ -267691,7 +267801,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:54:45.934Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "酒店泳池、水疗中心、海滩俱乐部",
@@ -267707,9 +267817,9 @@
           "total_tokens": 2346
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:20.701Z",
+      "detailNextAttemptAt": "2026-10-27T09:10:59.886Z",
       "detailError": {
-        "at": "2026-10-26T04:24:20.701Z",
+        "at": "2026-10-27T07:10:59.886Z",
         "message": "No usable official description reference"
       }
     },
@@ -267812,7 +267922,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:54:49.330Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "独家酒店优惠",
@@ -267828,9 +267938,9 @@
           "total_tokens": 1619
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:22.943Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:02.775Z",
       "detailError": {
-        "at": "2026-10-26T04:24:22.943Z",
+        "at": "2026-10-27T07:11:02.775Z",
         "message": "No usable official description reference"
       }
     },
@@ -268602,7 +268712,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:55:32.194Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38875005582:1",
       "translation": {
         "summary": "构建本地3D场景",
@@ -268618,9 +268728,9 @@
           "total_tokens": 1695
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:25.372Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:05.010Z",
       "detailError": {
-        "at": "2026-10-26T04:24:25.372Z",
+        "at": "2026-10-27T07:11:05.010Z",
         "message": "No usable official description reference"
       }
     },
@@ -270245,7 +270355,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:56:18.943Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38765530115:1",
       "translation": {
         "summary": "创建品牌短链接",
@@ -270261,9 +270371,9 @@
           "total_tokens": 1732
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:27.770Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:07.401Z",
       "detailError": {
-        "at": "2026-10-26T04:24:27.770Z",
+        "at": "2026-10-27T07:11:07.401Z",
         "message": "No usable official description reference"
       }
     },
@@ -271108,7 +271218,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:56:41.764Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38765530115:1",
       "translation": {
         "summary": "关键矿物贸易情报",
@@ -271124,9 +271234,9 @@
           "total_tokens": 2019
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:30.010Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:09.702Z",
       "detailError": {
-        "at": "2026-10-26T04:24:30.010Z",
+        "at": "2026-10-27T07:11:09.702Z",
         "message": "No usable official description reference"
       }
     },
@@ -275232,7 +275342,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-15T03:46:32.398Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Pappers gives ChatGPT access to French legal and public data from more than a hundred official sources, updated daily.\n\n- Companies: search companies by name or criteria and read their profiles (SIREN, directors, beneficial owners, filings, annual accounts, ownership maps).\n- Compliance: screen individuals against politically exposed person (PEP) and international sanctions lists.\n- Legal: explore French case law and legislation, and get sourced legal research notes.\n- Real estate: query land-registry and property data (parcels, owners, sales, buildings, energy-performance certificates).\n- Politics: follow French and EU parliamentary activity (members of parliament, votes, amendments, bills) and local-government documents.\n\nDesigned for financial analysis, sales screening, investment and M&A, compliance and due diligence (KYC, KYB, AML), legal research, real estate, local-government monitoring, and public affairs, all from a single connector.\n\nLimitations: coverage is limited to French entities and French and EU public records. A Pappers account is required, and beneficial-owner data requires a legitimate-interest authorization. The plugin only reads data: it cannot file formalities, change registry records, or access private information such as bank accounts. Results are informational and are not legal, financial, or credit advice.",
       "information": [
         {
@@ -275265,7 +275375,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:40.706Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "企业，法律，房地产",
@@ -275280,6 +275390,11 @@
           "neurons": 43.09346389770508,
           "total_tokens": 2320
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:53.199Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:53.199Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac8b702b93881919b2db80e8146d184": {
@@ -275328,7 +275443,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:03:00.892Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40265897781:1",
       "translation": {
         "summary": "摩尔多瓦保险、贴花",
@@ -275344,9 +275459,9 @@
           "total_tokens": 2087
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:50.833Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:35.755Z",
       "detailError": {
-        "at": "2026-10-26T04:24:50.833Z",
+        "at": "2026-10-27T07:11:35.755Z",
         "message": "No usable official description reference"
       }
     },
@@ -277673,7 +277788,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:04:12.818Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38765530115:1",
       "translation": {
         "summary": "多站点路线优化器",
@@ -277688,6 +277803,11 @@
           "neurons": 31.45518684387207,
           "total_tokens": 1866
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:11:38.115Z",
+      "detailError": {
+        "at": "2026-10-27T07:11:38.115Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac4e3029eb08191b2e77bab8f4fbd63": {
@@ -277920,7 +278040,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:04:21.857Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38765530115:1",
       "translation": {
         "summary": "每日照片猜谜游戏",
@@ -277936,9 +278056,9 @@
           "total_tokens": 1869
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:53.164Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:40.471Z",
       "detailError": {
-        "at": "2026-10-26T04:24:53.164Z",
+        "at": "2026-10-27T07:11:40.471Z",
         "message": "No usable official description reference"
       }
     },
@@ -279583,7 +279703,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:06:49.858Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "查询和比较游戏服务器",
@@ -279599,9 +279719,9 @@
           "total_tokens": 1732
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:25:03.044Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:52.749Z",
       "detailError": {
-        "at": "2026-10-26T04:25:03.044Z",
+        "at": "2026-10-27T07:11:52.749Z",
         "message": "No usable official description reference"
       }
     },
@@ -280204,7 +280324,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:07:09.902Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39094279837:1",
       "translation": {
         "summary": "Exness API文档",
@@ -280219,6 +280339,11 @@
           "neurons": 26.872705459594727,
           "total_tokens": 1585
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:11:54.991Z",
+      "detailError": {
+        "at": "2026-10-27T07:11:54.991Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab66d0be0a88191aae620c3ad9576d1": {
@@ -281972,7 +282097,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:08:04.856Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "模拟面试，文字或语音",
@@ -281988,9 +282113,9 @@
           "total_tokens": 1622
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:25:05.400Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:57.238Z",
       "detailError": {
-        "at": "2026-10-26T04:25:05.400Z",
+        "at": "2026-10-27T07:11:57.238Z",
         "message": "No usable official description reference"
       }
     },
@@ -282830,7 +282955,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:08:31.019Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "寻找并比较讲道",
@@ -282846,9 +282971,9 @@
           "total_tokens": 1871
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:25:07.940Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:59.601Z",
       "detailError": {
-        "at": "2026-10-26T04:25:07.940Z",
+        "at": "2026-10-27T07:11:59.601Z",
         "message": "No usable official description reference"
       }
     },
@@ -283019,7 +283144,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:08:36.961Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "38927183492:1",
       "translation": {
         "summary": "根据研究资料逐段生成科学论文草案",
@@ -283035,9 +283160,9 @@
           "total_tokens": 2445
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:25:10.194Z",
+      "detailNextAttemptAt": "2026-10-27T09:12:01.863Z",
       "detailError": {
-        "at": "2026-10-26T04:25:10.194Z",
+        "at": "2026-10-27T07:12:01.863Z",
         "message": "No usable official description reference"
       }
     },
@@ -297925,7 +298050,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:29.094Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "代码的动态用户界面",
@@ -297941,9 +298066,9 @@
           "total_tokens": 1524
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:23:29.579Z",
+      "detailNextAttemptAt": "2026-10-27T09:07:08.719Z",
       "detailError": {
-        "at": "2026-10-26T04:23:29.579Z",
+        "at": "2026-10-27T07:07:08.719Z",
         "message": "No usable official description reference"
       }
     },
@@ -297960,7 +298085,7 @@
       "missingCount": 1,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "ColeWorld Reroute compares public, independently sanitized metadata you supply: configured, discovery and observed endpoint origins/paths, resource identifiers, scope names, and declared client-registration modes. The hosted reroute_check tool reports matches, mismatches and missing evidence without fetching those endpoints, signing in, changing accounts or repairing authentication. A match is not a successful sign-in; a mismatch can be legitimate. User-supplied live-check flags are attributed to the user, not treated as tests Reroute performed.\n\nSend only public, safe-to-share metadata. Never send secrets, tokens, authorization codes, state, PKCE values, private identifiers, raw sign-in URLs or logs. Validation is not automatic redaction; rejected input has already reached the service and its host. The service processes diagnostics in memory, does not save diagnostic reports, and keeps bounded transient source-IP/prefix counters for abuse prevention. Railway separately retains HTTP metadata for 90 days; no anonymous-use or zero-retention promise is made. Provider internal request-body handling remains unverified. Your client may retain requests and responses under its own policies.\n\nAn optional offline analyzer is bundled for explicitly requested local computation in a permitted Python 3.9+ environment. Remote tool use requires no Reroute account. No account access or configuration changes are provided. This independent tool is not an official OpenAI or ChatGPT feature.\n\n© 2026 Sophia Cole. ColeWorld Reroute™. The ™ notice is not a claim of trademark registration.",
       "information": [
         {
@@ -297988,7 +298113,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:30.794Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "对比登录路径元数据",
@@ -298004,7 +298129,12 @@
           "total_tokens": 2012
         }
       },
-      "lastMissingAt": "2026-10-27T04:14:00.356Z"
+      "lastMissingAt": "2026-10-27T04:14:00.356Z",
+      "detailNextAttemptAt": "2026-10-27T08:07:11.089Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:11.089Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6ad3c349541481918eb6d0ebd7fc03d9": {
       "id": "plugin_asdk_app_6ad3c349541481918eb6d0ebd7fc03d9",
@@ -298019,7 +298149,7 @@
       "missingCount": 1,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "PerfBee is a site crawler for SEO and web teams. This app lets ChatGPT work with the sites in your PerfBee account.\n\nWhat it can do:\n- List your sites, with each site's latest crawl, its schedule and the credits left this month.\n- Start a crawl of a site in your My Sites list, up to 500 pages, and follow its progress.\n- Read what a crawl found: broken links and resources with the page and the HTML element (XPath) they sit in, page SEO issues and AI readiness issues, each with a short fix.\n- Read the AI Search Readiness report: which AI crawlers robots.txt lets in, and the page issues that keep pages out of AI answers.\n- Compare a crawl with the previous one: new, gone and changed pages, new and fixed broken links.\n\nWho it is for: SEO specialists, marketers and developers who look after a website and use PerfBee to crawl it.\n\nLimitations:\n- You need a PerfBee account.\n- Crawls run only on sites you have added in PerfBee under My Sites. It cannot crawl other sites.\n- Starting a crawl uses your PerfBee account's crawl credits, the same as a crawl started in the PerfBee dashboard. Reading results does not.\n- When you connect, you choose whether ChatGPT may start crawls or only read.\n- It cannot add or remove sites, change schedules or delete anything.\n\nSetup, limits and data use: https://perfbee.com/mcp",
       "information": [
         {
@@ -298052,7 +298182,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:32.608Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "抓取网站，查找损坏链接",
@@ -298068,7 +298198,12 @@
           "total_tokens": 2166
         }
       },
-      "lastMissingAt": "2026-10-27T04:14:00.356Z"
+      "lastMissingAt": "2026-10-27T04:14:00.356Z",
+      "detailNextAttemptAt": "2026-10-27T08:07:14.051Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:14.051Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6ac14567c8c881918e900979a932b960": {
       "id": "plugin_asdk_app_6ac14567c8c881918e900979a932b960",
@@ -298083,7 +298218,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Connect your CyberLens AI account to review recent website and repository scans you own. Ask for recorded scores, scan dates, status, and test counts when available. The plugin provides scan summaries, not finding evidence or a current security guarantee. It reads saved scans and cannot start scans or change your account.",
       "information": [
         {
@@ -298116,7 +298251,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:34.438Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "查看您的安全扫描",
@@ -298131,6 +298266,11 @@
           "neurons": 21.766817092895508,
           "total_tokens": 1420
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:07:16.420Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:16.420Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac0dcc48580819181fe42a7ae045de6": {
@@ -298146,7 +298286,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "CoMavenAI AEO helps site owners and marketing and engineering teams inspect public websites, understand readiness findings, generate reviewable improvements, and verify changes. Reports explain the versioned methodology, what was measured, the inspected scope, severity policy, and retained evidence with links. Missing or limited provenance is labeled rather than invented. Reuse saved audits without another crawl. Generated remediation requires human review and never publishes website changes. Separately requested AI visibility checks measure sampled grounded API citations and brand mentions for specified questions. Readiness scores, evaluator confidence, and opportunity hypotheses do not establish personalized search rankings or guarantee visibility improvements. Public anonymous audit and run records are accessible by their IDs; do not submit confidential information. Public processing is rate-limited. Long operations currently use synchronous requests; resumable progress and report email delivery are not included in this release.",
       "information": [
         {
@@ -298179,7 +298319,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:36.225Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "基于证据的网站修复",
@@ -298194,6 +298334,11 @@
           "neurons": 30.18425750732422,
           "total_tokens": 1798
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:07:18.691Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:18.691Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac00ac098648191ae19551b2ca89618": {
@@ -298209,7 +298354,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Email Domain Doctor inspects the public email DNS setup of any domain. It validates MX records, checks SPF configuration and mechanism policies, parses DMARC policies and reporting addresses, and optionally inspects DKIM records when a selector is provided.",
       "information": [
         {
@@ -298242,7 +298387,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:37.933Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "检查电子邮件DNS设置",
@@ -298258,7 +298403,12 @@
           "total_tokens": 1624
         }
       },
-      "lastMissingAt": "2026-10-23T03:54:39.485Z"
+      "lastMissingAt": "2026-10-23T03:54:39.485Z",
+      "detailNextAttemptAt": "2026-10-27T08:07:21.084Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:21.084Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6abfcf6b316c8191a01c0ffcc6cc1e3e": {
       "id": "plugin_asdk_app_6abfcf6b316c8191a01c0ffcc6cc1e3e",
@@ -298337,7 +298487,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Search live remote frontend, backend, and Java jobs by stack, region, salary, and seniority. Salary stats and hiring companies included.",
       "information": [
         {
@@ -298365,7 +298515,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:41.369Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "寻找远程技术岗位",
@@ -298380,6 +298530,11 @@
           "neurons": 27.242788314819336,
           "total_tokens": 1570
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:07:23.464Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:23.464Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a14cb48a90081918ef75f9cd8bd6365": {
@@ -298395,7 +298550,7 @@
       "missingCount": 1,
       "lastSeenAt": "2026-10-26T03:51:22.235Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "InsightSignal is a private, multi-source-verified knowledge graph for B2B company and contact intelligence. Every data point in a user's workspace is verified by two or more independent sources (AI analysis with live web grounding, professional-network data, web search, and email/phone validators), carries a numeric confidence score, and links to the citation page where the value was verified.\n\nWith this plugin, ChatGPT can query the user's own verified data: search and filter companies and people, read company profiles with A-F quality grades and operational status, pull contact details with email deliverability and phone validity scores, summarize multi-source research reports with verdicts and evidence links, explore business relationships in the knowledge graph (competitors, partners, subsidiaries, key people), compare companies side-by-side, and track how verified data changed over time through immutable snapshots.\n\nUsers can also trigger actions with explicit confirmation: verify a new company through the multi-source pipeline, generate or refresh research reports, enrich contacts, re-score companies against a stated business intent (sales prospecting, competitor analysis, partner fit, investment screening), and push verified records to their connected CRM.\n\nAll data is strictly scoped to the signed-in user's InsightSignal account and organization. The plugin never exposes other users' data, and paid actions always present a cost estimate and require confirmation before executing.",
       "information": [
         {
@@ -298423,7 +298578,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:43.067Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "经过验证的公司情报",
@@ -298439,7 +298594,12 @@
           "total_tokens": 2255
         }
       },
-      "lastMissingAt": "2026-10-27T04:14:00.356Z"
+      "lastMissingAt": "2026-10-27T04:14:00.356Z",
+      "detailNextAttemptAt": "2026-10-27T08:07:25.849Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:25.849Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aa40a2537008191b7fae35c1db9e5c6": {
       "id": "plugin_asdk_app_6aa40a2537008191b7fae35c1db9e5c6",
@@ -298454,7 +298614,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "AIsa GTM helps users discover research capabilities, inspect their inputs, obtain cost estimates, and run authorized market, customer, creator, prospect, and website research through ChatGPT.",
       "information": [
         {
@@ -298482,7 +298642,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:44.817Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "研究市场和潜在客户",
@@ -298497,6 +298657,11 @@
           "neurons": 21.934722900390625,
           "total_tokens": 1406
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:07:28.131Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:28.131Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac0255b4e008191a0f9dd968c1a0ff6": {
@@ -298512,7 +298677,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "OneLence is a marketing analytics and growth workspace for small teams. It brings together your website journeys and conversions, ad platforms, search, AI search visibility and affiliate partners, and tells you what deserves attention, what to do about it and how sure it is, even when attribution is incomplete.\n\nAsk for today's priorities and which channels and partners to scale, hold or stop, with the reasons and evidence behind each Decision. See how AI search engines read your site, which search pages to improve first, which affiliates actually convert and which new partners are worth a look. Compare periods, check which bots and crawlers visit, or log a budget change and let OneLence watch what follows. In a codebase, the plugin installs OneLence tracking and verifies that events arrive.\n\nNothing changes without your confirmation, and OneLence never touches your ad accounts or moves money. Requires a OneLence account.",
       "information": [
         {
@@ -298545,7 +298710,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:46.503Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "营销与增长分析",
@@ -298560,6 +298725,11 @@
           "neurons": 29.263729095458984,
           "total_tokens": 1789
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:07:30.482Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:30.482Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac4da85538c8191a665f3dc9b967ac0": {
@@ -298575,7 +298745,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "StrengthLog helps you analyze the strength-training data you have logged in your StrengthLog account. Summarize workouts over a date range, inspect individual sessions and sets, review personal records, and retrieve logged body measurements. Filter workout history and summaries by exercise using English or Swedish exercise names. Sign in with your StrengthLog account to explore your own training history in conversation. The connection provides read-only access and cannot create, modify, or delete workouts or other account data.",
       "information": [
         {
@@ -298608,7 +298778,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:48.250Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "分析您的训练日志",
@@ -298623,6 +298793,11 @@
           "neurons": 31.3056583404541,
           "total_tokens": 1761
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:07:32.817Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:32.817Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad61362bd808191b63e7cad4bab48b3": {
@@ -298638,7 +298813,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Research organizations using official public agency APIs from SEC EDGAR, USAspending.gov, EPA ECHO, CFPB, FDA and NHTSA within their published access limits. The service brings SEC and USAspending identity candidates into one workflow, normalizes selected record fields, and labels sources, retrieval dates, record periods and match basis where supplied. Skills guide entity selection, distinguish annual obligations from life-of-award amounts, and qualify name-matched enforcement, complaint and recall records. Prepare sourced organization profiles, contracting histories and supplier background briefs. Coverage and availability vary; name matches may concern unrelated entities. Complaints do not establish wrongdoing and empty searches do not prove compliance. No risk scores or legal, eligibility or compliance determinations. No sign-in required. Not affiliated with or endorsed by any government agency or OpenAI.",
       "information": [
         {
@@ -298671,7 +298846,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:50.028Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "研究联邦记录",
@@ -298686,6 +298861,11 @@
           "neurons": 41.24470138549805,
           "total_tokens": 2155
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:07:35.181Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:35.181Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abeb2f16190819199cc1be0ed69e8d4": {
@@ -298734,7 +298914,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:51.782Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "地图数据，已准备好用于QGIS",
@@ -298750,9 +298930,9 @@
           "total_tokens": 2456
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:23:31.985Z",
+      "detailNextAttemptAt": "2026-10-27T09:07:37.604Z",
       "detailError": {
-        "at": "2026-10-26T04:23:31.985Z",
+        "at": "2026-10-27T07:07:37.604Z",
         "message": "No usable official description reference"
       }
     },
@@ -298769,7 +298949,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Test headlines, product claims, and other written marketing ideas with simulated consumers. Compare ratings and answers from A/B comparisons, rankings, and qualitative studies. Review existing studies, individual responses, study size limits, and remaining allowance. The consumers are AI-generated profiles; this app does not test images or videos.",
       "information": [
         {
@@ -298802,7 +298982,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:53.546Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "通过AI测试文案创意",
@@ -298817,6 +298997,11 @@
           "neurons": 24.905719757080078,
           "total_tokens": 1523
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:07:39.875Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:39.875Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a8c8f68838c81919132b95058a9c79e": {
@@ -298832,7 +299017,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "ActivTrak MCP connects ChatGPT to your workforce data, so you can just ask what you want to know instead of digging through dashboards or exporting spreadsheets.\n\nAsk things like \"which teams are closest to burnout this quarter\" or \"do we have capacity to take on the new product rollout\" and get a real answer, not a chart you have to interpret yourself.",
       "information": [
         {
@@ -298860,7 +299045,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:55.259Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "在ChatGPT中查看ActivTrak数据",
@@ -298875,6 +299060,11 @@
           "neurons": 23.368343353271484,
           "total_tokens": 1498
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:07:42.293Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:42.293Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfef23ddbc819181cf74e68bf22936": {
@@ -298890,7 +299080,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "PDFHost gives teams permanent PDF links, website embeds, QR codes, and document analytics. Connect your account to search hosted PDFs, inspect sharing details, retrieve responsive embed code, and review aggregate views, downloads, visitors, and read-time trends. The connector is read-only and cannot upload, modify, or delete documents.",
       "information": [
         {
@@ -298923,7 +299113,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:57.114Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "托管并分析PDF文件",
@@ -298938,6 +299128,11 @@
           "neurons": 30.348726272583008,
           "total_tokens": 1705
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:07:44.631Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:44.631Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac23b520d8c8191ab71c673d7decddf": {
@@ -298953,7 +299148,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Realtime Avatar (RTA) brings live, interactive AI avatar video conversations to ChatGPT. Talk by voice or text, choose a conversation topic, and control your session from a single view. Powered by realtimeavatar.ai.",
       "information": [
         {
@@ -298986,7 +299181,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:59.036Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "实时AI虚拟形象视频通话功能",
@@ -299001,6 +299196,11 @@
           "neurons": 26.791358947753906,
           "total_tokens": 1573
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:07:47.552Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:47.552Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac135168ed881919e5d0b09ccdc6c3d": {
@@ -299016,7 +299216,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "teem is customer support and feedback software for product teams. It gives a team one inbox for customer chat, a public board where customers request and vote on features, a changelog, and a help center. With this plugin, a team member can ask ChatGPT who is waiting for a reply, what customers ask for most, and what shipped, then have it draft replies, changelog entries and help articles from that data. Replies, status changes and publishing happen only after the team member approves them. When a request ships, teem emails every customer who voted for it.",
       "information": [
         {
@@ -299049,7 +299249,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:00.915Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "支持、反馈、更新日志",
@@ -299064,6 +299264,11 @@
           "neurons": 29.87630844116211,
           "total_tokens": 1737
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:07:49.955Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:49.955Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac10753370881918540799af4b9e5d7": {
@@ -299112,7 +299317,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:02.682Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "CISSP、CISM和CISA考试备考",
@@ -299128,9 +299333,9 @@
           "total_tokens": 2248
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:23:34.235Z",
+      "detailNextAttemptAt": "2026-10-27T09:07:52.228Z",
       "detailError": {
-        "at": "2026-10-26T04:23:34.235Z",
+        "at": "2026-10-27T07:07:52.228Z",
         "message": "No usable official description reference"
       }
     },
@@ -299147,7 +299352,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Zoek Nederlandse en Nederlandstalige EU-rechtspraak, lees bronpassages en controleer citaten. Maak met een gekoppeld account juridische memo’s, onderzoek contractclausules, toets argumenten en bewaar onderzoeksnotities in eigen dossiers. Documentverwerking en dossiergebruik vragen afzonderlijke toestemming. Een bronmatch bewijst geen juridische conclusie.",
       "information": [
         {
@@ -299180,7 +299385,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:04.352Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "司法裁决与引用段落",
@@ -299195,6 +299400,11 @@
           "neurons": 34.25163269042969,
           "total_tokens": 1867
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:07:54.615Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:54.615Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac165c0b6648191804b42b00eeb28e9": {
@@ -299210,7 +299420,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Find daycares, home childcare and before/after-school programs listed across Canada.\n\nAsk for childcare in a city, a province or near a postal code. Narrow by your child's age, licensed care, CWELCC or subsidy, a language spoken in care, or providers with an opening right now. Each result shows the ages served, licensing and current openings, with a link to the provider's page on FindChildcare.ca, where you can send an inquiry or join a waitlist.\n\nWhere nothing is listed yet, it tells you so and names the nearby cities that do have listings.\n\nChildcare providers can ask how to list their service and post openings.\n\nNo account needed. Covers Canada only.",
       "information": [
         {
@@ -299243,7 +299453,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:06.057Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "在加拿大各地寻找托儿服务",
@@ -299258,6 +299468,11 @@
           "neurons": 28.40936851501465,
           "total_tokens": 1744
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:07:56.967Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:56.967Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac0d94d7e4c81919e1f6d7ed340e843": {
@@ -299273,7 +299488,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Make a crossword puzzle, a word search, or a sudoku right in the chat, play it there, and print it with an answer key.\n\nCrossword maker: give it your vocabulary words and clues (or just the words, and a short clue is written for each) and GridSmith builds a real interlocking crossword grid with standard numbering and Across and Down clue lists. It searches many layouts to place as many answers as possible in a compact grid, strips accents and spaces from answers (ice cream becomes ICECREAM, shown as 3,5), and tells you plainly if an answer could not be connected. A crossword maker for teachers making weekly vocabulary worksheets, parents, and puzzle fans.\n\nWord search maker: easy puzzles run words right and down for young kids, medium adds diagonals, and hard hides words in all eight directions including backwards. Every word is checked to appear exactly once, so there are no confusing duplicates in the filler letters, and any word that cannot be hidden is named with the reason.\n\nSudoku generator with answers: easy, medium or hard 9x9 sudoku, each verified by a solver to have exactly one solution. Easy and medium puzzles can be solved with simple elimination; every hard puzzle (24 to 30 givens) needs a technique beyond singles.\n\nPlay in the chat: type into the crossword with Check, Reveal word and Reveal all; drag across words in the word search; enter digits and pencil notes in sudoku. Print: every puzzle downloads as a printable PDF worksheet with name and date lines and a separate answer key page, in Letter or A4. The PDF always matches the puzzle on screen, and the same seed reproduces the same puzzle, so you can reprint an identical copy.\n\nLimitations: crossword grids are open layouts with blank space around the words (not symmetric newspaper grids), crossword and word search grids use the letters A-Z only (accents are dropped, so words written only in Cyrillic or Greek cannot be placed), PDF titles and clues print in Latin alphabets including Polish, Czech and German, plus Greek and Cyrillic, but not Chinese, Japanese, Korean, Arabic or Hebrew, and sudoku is the classic 9x9 format.",
       "information": [
         {
@@ -299306,7 +299521,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:07.842Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "填字游戏、单词搜索、数独",
@@ -299321,6 +299536,11 @@
           "neurons": 39.188663482666016,
           "total_tokens": 2370
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:07:59.309Z",
+      "detailError": {
+        "at": "2026-10-27T07:07:59.309Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad3577bbfc88191b790bb8cb3352b22": {
@@ -299336,7 +299556,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "QuizOffice is an online platform where teachers create worksheets, quizzes and tests, assign them to their classes and follow the results.\n\nWith this plugin your AI assistant becomes your worksheet editor. Tell it what you need - subject, grade, number and type of questions - and it creates a draft worksheet in your own QuizOffice account. It can also edit your existing drafts, add or change questions, attach learning materials (for example a PDF the questions are based on) and use images from them.\n\nSupported question types: single choice, multiple choice, true/false, short text answer, essay (graded by the teacher), sorting, pairing, select from list, fill in the blanks, find the word, and flashcards. Mathematical formulas are supported with LaTeX.\n\nSafety by design: the assistant only ever creates drafts. Nothing is shown to students until you review and publish the worksheet in QuizOffice. You sign in with your QuizOffice account, and the assistant can only see and change your own worksheets, materials and images.",
       "information": [
         {
@@ -299369,7 +299589,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:09.559Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "为教师打造的AI练习册",
@@ -299384,6 +299604,11 @@
           "neurons": 28.518699645996094,
           "total_tokens": 1790
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:02.234Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:02.234Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfda9733888191b9190da9dfbdf4eb": {
@@ -299399,7 +299624,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Research legislation, case law, regulator decisions, procurement materials, and legal registers from authoritative Polish, Central European, and EU sources. AnyLawyer returns source identifiers, citations, official links, and bounded excerpts when available.\n\nSources include Polish, Czech, Hungarian, and Slovak legislation; indexed EU regulations and directives with CELEX and EUR-Lex citations; Polish Supreme Court, common-court, administrative-court, Constitutional Tribunal, and procurement-appeal rulings; UOKiK, UODO, and KNF materials; Polish tax and labour-inspector interpretations; procurement notices; and current or full KRS company-register extracts.\n\nAll tools are read-only. AnyLawyer does not create, change, file, or delete records in any register. Results are research material, not legal advice. Sign-in with an AnyLawyer account is required.",
       "information": [
         {
@@ -299432,7 +299657,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:11.270Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "研究法律来源",
@@ -299447,6 +299672,11 @@
           "neurons": 29.977455139160156,
           "total_tokens": 1798
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:04.596Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:04.596Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab87072e958819192661b4f84b568cb": {
@@ -299462,7 +299692,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "AristAI Thinker connects your teaching library to your AI. See how many papers, transcripts and other sources you have; find material on a topic; read cited excerpts; and compare your course goals with the material already in your library. Saved video links are listed separately from imported transcripts.\n\nSign in with your Thinker account and select a library you own. Every connection is limited to that library. Read-only access is the default. If you allow it, you can ask the AI to save a conversation summary and prepare profile suggestions for your review. Disconnect at any time in Thinker.\n\nSearch uses literal matching, so a zero result is a reason to investigate further, not proof that a topic is absent. AI recommendations depend on your teaching goals and the available sources.",
       "information": [
         {
@@ -299490,7 +299720,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:12.958Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "探索您的教学资料库",
@@ -299505,6 +299735,11 @@
           "neurons": 29.330963134765625,
           "total_tokens": 1770
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:06.918Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:06.918Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac1f6a2eeb88191a63f8349f21117c0": {
@@ -299520,7 +299755,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Connect your DAFi account to work with your own courses in ChatGPT. Find a course by asking in the chat, explore its content and key concepts, then request explanations or practice questions based on the available material.\n\nDAFi also provides access to quiz results, learning progress, and academic deadlines recorded in your account.\n\nThe integration retrieves data available to your DAFi account. Explanations, practice questions, and study plans generated by ChatGPT remain in the conversation and are not automatically saved to DAFi. A DAFi account is required, and available content depends on your account permissions.",
       "information": [
         {
@@ -299553,7 +299788,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:14.733Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "使用您的DAFi笔记进行学习",
@@ -299568,6 +299803,11 @@
           "neurons": 30.449045181274414,
           "total_tokens": 1777
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:09.265Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:09.265Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abea7ecd92c8191aef9be4b76dc9bb3": {
@@ -299583,7 +299823,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Build custom activities in Amplify Classroom and Desmos Classroom with help from ChatGPT. Describe the activity you want in ordinary words: what you're teaching and how students should work through it. CL for Desmos & Amplify plans the screens and components, writes the Computation Layer (CL) code for each one, and tells you how to test every step in the activity builder.\n\nIt draws on a curated, read-only knowledge base of CL patterns, conventions and known pitfalls, and reproduces CL from it exactly. Anything it composes beyond a verified pattern is labeled unverified, with what to check. It works for experienced CL authors (terse and peer-level) and for teachers new to CL (one step at a time).\n\nIt can help with multiple choice, numeric and math input with equivalence checking, tables, graphs, choice grids, feedback and hints, randomized practice, rounds and levels, timed phases, and progress tracking across screens.\n\nLimits: it can't see or change your Desmos or Amplify account; you paste the code into the activity builder yourself. Preview and test every activity before students use it.\n\nAn independent project by Aaron Veek. Not affiliated with, endorsed by or sponsored by Desmos, Amplify or OpenAI.",
       "information": [
         {
@@ -299616,7 +299856,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:16.405Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "自定义活动构建器帮助",
@@ -299631,6 +299871,11 @@
           "neurons": 33.90858459472656,
           "total_tokens": 2022
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:11.590Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:11.590Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad219e034188191871f2246ac3ee47b": {
@@ -299646,7 +299891,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Read a short original German Christian reflection with a Bible reference, contextual note, reflection question, practical action and original prayer. Choose hope, gratitude, courage or rest, or browse all seven readings. These seven readings repeat; this is not a full Bible, official church reading calendar, individual pastoral service or live AI generation. Bible translation text is not reproduced; source links lead to an external reading service. The first public edition contains seven repeating original reflections with AI assistance. Independent theological review is not claimed. No account profile, prayer journal, merchandise, subscription or additional model API is provided.",
       "information": [
         {
@@ -299679,7 +299924,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:18.095Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "每日圣经反思",
@@ -299694,6 +299939,11 @@
           "neurons": 29.6676082611084,
           "total_tokens": 1731
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:13.938Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:13.938Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf66b6999c81918a2059f1810edc7c": {
@@ -299709,7 +299959,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Sign in with a HanyuGuide account to get quizzed on random words from any HSK 2.0 or HSK 3.0 level, look up Chinese words, convert text to tone-mark pinyin, and inspect character stroke data, with definitions in your language. Each quiz links to HSK flashcard practice on HanyuGuide. The same account lets the assistant read your study context and personal lists. With separate permissions, add words in bulk, move or remove words, and create, rename, reorder, archive, or restore personal lists. These tools cannot change study progress, preferences, or billing.",
       "information": [
         {
@@ -299742,7 +299992,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:19.810Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "HSK测验与中文查询",
@@ -299757,6 +300007,11 @@
           "neurons": 25.934982299804688,
           "total_tokens": 1617
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:16.281Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:16.281Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac02eea72c88191b5d5055189e41db6": {
@@ -299805,7 +300060,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:21.600Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "搜索FDA、临床试验和PubMed",
@@ -299821,9 +300076,9 @@
           "total_tokens": 2209
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:23:37.142Z",
+      "detailNextAttemptAt": "2026-10-27T09:08:18.646Z",
       "detailError": {
-        "at": "2026-10-26T04:23:37.142Z",
+        "at": "2026-10-27T07:08:18.646Z",
         "message": "No usable official description reference"
       }
     },
@@ -299840,7 +300095,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Connect your CMC Markets CFD account to ChatGPT and ask questions about your portfolio, trading activity and the markets. View your positions, balances, watchlists and market data –  all from within ChatGPT.\n\nView your available live and demo CFD accounts, account balances, margin summaries, open positions, exposure, and unrealised profit or loss. Search for markets, retrieve product information, request real-time or delayed prices, analyse historical market data, and generate candlestick charts, directly in ChatGPT. \n\nThis integration is read-only. ChatGPT cannot place, amend or close trades, transfer funds, or make any changes to your CMC Markets account.\n\nCurrently only available for CFD accounts.\n\nInformation provided through this integration is for informational purposes only and should not be considered personal investment advice or a recommendation to trade. T&Cs apply. \n\n68% of retail investor accounts lose when money trading CFDs with this provider.",
       "information": [
         {
@@ -299868,7 +300123,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:23.298Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "与您的CMC账户聊天",
@@ -299883,6 +300138,11 @@
           "neurons": 31.312297821044922,
           "total_tokens": 1891
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:20.942Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:20.942Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad23ac508a881918b56bd5bac067f4b": {
@@ -299898,7 +300158,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Encontre cupons de desconto atualizados de lojas online brasileiras direto no chat. Busque por loja ou palavras-chave, ordene por relevância, maior desconto, mais recentes, prestes a vencer ou popularidade, e filtre por percentual ou valor fixo, desconto mínimo e vencimento em 3 ou 7 dias. Cada cupom traz o código (ou como ativá-lo na loja), o desconto, a validade, as regras e o link para a loja. Conexão pública, sem login e somente de leitura. Os cupons vêm de fontes públicas e as lojas podem encerrá-los antes do prazo; confirme sempre na página da loja. Os links podem levar à loja por link de afiliado do Offera.ai.",
       "information": [
         {
@@ -299926,7 +300186,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:24.968Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "巴西商店优惠券",
@@ -299941,6 +300201,11 @@
           "neurons": 28.258892059326172,
           "total_tokens": 1745
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:23.252Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:23.252Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfb9a265088191b873e6566b0ed60a": {
@@ -299956,7 +300221,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Sign agreements with BankID, straight from the chat. Write any agreement in the conversation, or upload a PDF, and Grunda prepares it for signing. You review it on grunda.co, add or confirm who should sign and press Send. Every party signs with BankID, the Swedish e-ID, and everyone receives the signed PDF with a signature page and a verification link. Ask in the chat who has signed. If you change the agreement in the conversation before it is sent, the same draft and link can be updated.\n\nOrganisation numbers in an agreement are checked against Statistics Sweden's business register (SCB), so you see whether each company is active before anyone signs.\n\nThe plugin can also:\n\n- Look up a Swedish company by its organisation number: registered name and address, whether it is active or in bankruptcy or liquidation, and whether it has F-skatt, is VAT registered (moms) and is an employer.\n- Create a Swedish invoice (faktura) as a PDF, with names, addresses and F-skatt filled in from SCB, VAT per line and reverse charge for EU customers.\n\nNo account is needed. A document prepared for signing is kept as a draft for seven days, and nothing is sent until you press Send on grunda.co. The invoice is not stored: it exists only inside its encrypted download link, which expires after 30 days. Personal identity numbers (personnummer) are never accepted in the chat; BankID identifies every signer on grunda.co.",
       "information": [
         {
@@ -299984,7 +300249,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:26.655Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "通过BankID签署协议",
@@ -299999,6 +300264,11 @@
           "neurons": 36.98321533203125,
           "total_tokens": 2167
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:25.510Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:25.510Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abf9b92429081918d72aeb25daf55d8": {
@@ -300014,7 +300284,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "InvoiceVista connects ChatGPT to your InvoiceVista account so you can review aggregate revenue, receivables, and quote-pipeline totals, plus your product catalog and current plan limits, for each business you own. Every figure returned is a computed count or total, never an individual invoice, payment, or customer record. OAuth sign-in keeps every read scoped to your own organization. Open the sidebar to browse businesses and aggregate summaries interactively. This connector cannot create or edit invoices.",
       "information": [
         {
@@ -300042,7 +300312,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:28.364Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "发票收入与账龄",
@@ -300057,6 +300327,11 @@
           "neurons": 27.563783645629883,
           "total_tokens": 1645
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:28.400Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:28.400Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac101e47a848191b3e4c78618f006da": {
@@ -300072,7 +300347,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "A self employment tax calculator and quarterly estimated tax planner for 2026. Tell QuarterWise 1099 Tax Planner your 1099 or freelance income, business expenses, and filing status, and it works through the IRS 2026 Form 1040-ES worksheets: self-employment tax on 92.35% of net profit (12.4% Social Security up to the 184,500 dollar wage base, 2.9% Medicare, and the 0.9% Additional Medicare Tax), the deductible half of SE tax, the 20% qualified business income (QBI) deduction, and federal income tax with the 2026 brackets and standard deduction.\n\nIt answers questions like \"I made 60k on 1099, how much do I owe\", \"how much should I pay in quarterly taxes\", and \"how much to set aside for taxes as a freelancer\". It handles a W-2 job plus a side gig (wages use up the Social Security wage base and paycheck withholding is subtracted), married couples where one or both spouses are self-employed, business losses, the child tax credit, and the new 2026 senior and charitable deductions.\n\nFor quarterly estimated taxes it compares 90% of your 2026 tax with 100% of your 2025 tax (110% if your 2025 AGI was over 150,000 dollars), applies the 1,000 dollar rule, and gives the amount for each due date: Apr 15, Jun 15, Sep 15, 2026 and Jan 15, 2027. Missed a payment? Add what you have paid and it shows what to pay now and at each remaining date.\n\nThe result appears as a card in the chat: a waterfall from income through deductions to tax, and four quarterly payment cards with dates, amounts, and status. Download a calendar file (.ics) with reminders before each due date and a printable PDF worksheet laid out like the IRS worksheet, with a payment record.\n\nGood for freelancers, independent contractors, gig workers (DoorDash, Uber, Instacart, Etsy), consultants, and anyone with 1099-NEC or 1099-K income.\n\nLimitations: estimates for planning only, not tax advice. Federal tax for tax year 2026 only; state income tax is not calculated (it tells you if your state has none). Capital gains rates, AMT, net investment income tax, the earned income credit, penalty amounts, and the annualized installment method are not included. Above the 2026 QBI threshold it applies the phase-in using W-2 wages your business paid, with property basis treated as zero. It does not file returns or make payments.",
       "information": [
         {
@@ -300105,7 +300380,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:30.048Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "1099税务及季度缴税",
@@ -300121,7 +300396,12 @@
           "total_tokens": 2738
         }
       },
-      "lastMissingAt": "2026-10-23T03:54:39.485Z"
+      "lastMissingAt": "2026-10-23T03:54:39.485Z",
+      "detailNextAttemptAt": "2026-10-27T08:08:30.734Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:30.734Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6ac1423098388191ac07bb1c7e92aad7": {
       "id": "plugin_asdk_app_6ac1423098388191ac07bb1c7e92aad7",
@@ -300200,7 +300480,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Explore accounts, cards, and other banking solutions. Compare options and check features easily, without having to navigate between pages.\n\nAsk, for example: \"Explain the online account with no fees,\" \"I need a card for traveling,\" or \"What features does this product have?\" You'll receive clear information without logging into your bank or sharing any personal data.",
       "information": [
         {
@@ -300228,7 +300508,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:33.589Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "CaixaBank为您提供的产品",
@@ -300243,6 +300523,11 @@
           "neurons": 26.96246910095215,
           "total_tokens": 1610
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:32.990Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:32.990Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab13dc8d71c81918cf9558564c43232": {
@@ -300381,7 +300666,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "The FINTRX MCP Server connects ChatGPT to FINTRX, giving you direct access to data on registered investment advisors, broker-dealers, wealth teams, and family offices.\n\n\nWith FINTRX connected, you can search and analyze intelligence across 850,000+ firm and contact records, including 45,000+ RIAs and broker-dealers and 4,500+ family offices. Identify key decision-makers, analyze ETF and portfolio holdings, uncover relationship signals, and build prospect lists — all through natural language.\n\n\nWhether you’re distributing funds, raising capital, recruiting advisors, or identifying M&A opportunities, use FINTRX data directly inside ChatGPT.",
       "information": [
         {
@@ -300409,7 +300694,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:38.864Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "FINTRX数据尽在掌握",
@@ -300424,6 +300709,11 @@
           "neurons": 30.789958953857422,
           "total_tokens": 1806
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:35.423Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:35.423Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac1a776f7188191a57f4904679f6aa3": {
@@ -300439,7 +300729,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Works out a daily protein range in grams from body weight and goal (maintain, weight loss or muscle gain) using ICMR-NIN and published sports-nutrition ranges, and builds a sample day from common Indian foods such as dal, paneer, curd, soya, eggs and chicken to reach it. Estimates only, not medical advice. Outbound links carry campaign tags identifying ChatGPT as the source.",
       "information": [
         {
@@ -300472,7 +300762,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:40.698Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "每日蛋白质摄入量",
@@ -300487,6 +300777,11 @@
           "neurons": 25.801700592041016,
           "total_tokens": 1577
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:38.303Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:38.303Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad2850812c081919876f536600259c4": {
@@ -300502,7 +300797,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Find out what common medical procedures typically cost in your state before you book. Ask about a colonoscopy, MRI, knee replacement, sleep study and more, and get a typical price range (low, median, high), what the price usually includes, and facilities near you that perform it, drawn from public hospital price transparency data and Medicare data. Results are estimates of typical allowed amounts, not quotes. Your actual price depends on your insurance, the facility and your plan's deductible and coinsurance. Facility lists show up to five places per request and do not include dollar prices. CostKits gives general information and estimates, not medical, legal, tax or financial advice. Do not enter names, member numbers or medical records.",
       "information": [
         {
@@ -300535,7 +300830,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:42.443Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "美国常见医疗程序费用",
@@ -300550,6 +300845,11 @@
           "neurons": 40.57318878173828,
           "total_tokens": 2116
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:40.516Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:40.516Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac194381dfc819198319b570754a1aa": {
@@ -300565,7 +300865,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Estimates maintenance calories with the Mifflin-St Jeor formula and an activity level, then a daily calorie target for a chosen weekly weight-loss pace with safety rails: never below 1,200 kcal for women or 1,500 kcal for men, and no faster than 1% of body weight a week. Also estimates how many weeks a weight goal takes at a daily calorie deficit. Estimates only, not medical advice. Outbound links carry campaign tags identifying ChatGPT as the source.",
       "information": [
         {
@@ -300598,7 +300898,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:44.190Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "每日卡路里目标",
@@ -300613,6 +300913,11 @@
           "neurons": 27.666353225708008,
           "total_tokens": 1656
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:42.814Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:42.814Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac1d5f6ff948191810918cb65f41a97": {
@@ -300628,7 +300933,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Use your Lion Lift workout history to plan runs, pool swims, bike rides, and lifts; review progress across sports; compare planned and completed sessions; and create training reports.",
       "information": [
         {
@@ -300661,7 +300966,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:45.945Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "AI辅助的健身计划",
@@ -300676,6 +300981,11 @@
           "neurons": 24.201833724975586,
           "total_tokens": 1477
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:45.239Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:45.239Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac1b165f6008191a4035c2635695f28": {
@@ -300691,7 +301001,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Estimates calories burned, distance and time for a step count from body weight and walking pace, using METs from the Compendium of Physical Activities. Also works out how many steps it takes to walk off a calorie amount or a common Indian food such as a roti, samosa, katori of rice or dal. Estimates only, not medical advice. Outbound links carry campaign tags identifying ChatGPT as the source.",
       "information": [
         {
@@ -300724,7 +301034,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:47.635Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "步数换算卡路里",
@@ -300739,6 +301049,11 @@
           "neurons": 32.4452018737793,
           "total_tokens": 1795
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:47.581Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:47.581Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac13bff3f98819195e4224659f8b616": {
@@ -300754,7 +301069,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Calculates adult BMI from height and weight and shows the category under the Asian-Indian consensus cutoffs, where overweight starts at 23 and obesity at 25, next to the international WHO categories. Also gives the weight range that sits in the normal band for a given height. Screening numbers only, not a diagnosis. Outbound links carry campaign tags identifying ChatGPT as the source.",
       "information": [
         {
@@ -300787,7 +301102,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:49.379Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "印度人BMI计算",
@@ -300802,6 +301117,11 @@
           "neurons": 23.81894302368164,
           "total_tokens": 1506
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:50.461Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:50.461Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa3bfab4e7c81919bbc89e8a58b66e6": {
@@ -300817,7 +301137,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Plan and review your cycling and running training with Boulie in ChatGPT.\n\nConnect your Boulie account to view your training plan and goals, prepare structured workouts with calculated targets, and save plan changes after you confirm them. Record completed-session reviews and keep your training plan and coaching record connected across conversations.\n\nBoulie supports daily workouts and longer-term training blocks around your goals and schedule. Your saved workouts are available in the Boulie app to follow.\n\nA Boulie account is required. Boulie provides fitness training guidance, not medical advice.",
       "information": [
         {
@@ -300845,7 +301165,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:51.091Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "规划并复盘训练",
@@ -300860,6 +301180,11 @@
           "neurons": 29.865398406982422,
           "total_tokens": 1757
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:52.843Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:52.843Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac1c1c64c7881918de7ff15d60064ae": {
@@ -300875,7 +301200,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Find furnished studios and serviced apartments from Smart Studios in Greater Noida West, near Noida Extension and accessible from Noida. Check suitable stay options, learn about facilities and policies, and continue to booking or request an enquiry.",
       "information": [
         {
@@ -300908,7 +301233,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:52.848Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "位于诺伊达西区的住宿选择",
@@ -300923,6 +301248,11 @@
           "neurons": 21.990219116210938,
           "total_tokens": 1418
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:55.079Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:55.079Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad27c27f15881918be7b2aad699b493": {
@@ -300938,7 +301268,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Extreme Wind helps kitesurfers, windsurfers, wingfoilers and surfers in Israel decide where and when to go: which beach has wind right now, and which day and spot will be best this week.\n\nIt answers from measured data and forecasts, not a web search, for spots along Israel's Mediterranean coast, the Sea of Galilee and Eilat:\n- Wind right now at a spot: average, gusts, lulls and direction from the spot's own meter, with when it was measured.\n- How the wind behaved over the last hours, in 10-minute steps.\n- Which day and hours look best: hour-by-hour wind forecasts up to 5 days from two models, plus a short written summary per spot.\n- Wave height, period and direction forecasts, and the latest buoy and beach readings.\n- Your saved home wind and wave spots.\n\nAnswers name the spot and link to it in the Extreme Wind app.\n\nSign in with your Extreme Wind account to connect. Access is read-only: the plugin cannot change your settings or alarms, and it never sees your email address or payment details. Disconnect at any time from Settings in Extreme Wind.\n\nCovers spots in Israel only. For your own use; please do not republish the data.",
       "information": [
         {
@@ -300971,7 +301301,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:54.565Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "海滩日的风浪指南",
@@ -300986,6 +301316,11 @@
           "neurons": 39.19921875,
           "total_tokens": 2199
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:08:57.329Z",
+      "detailError": {
+        "at": "2026-10-27T07:08:57.329Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad44f8f28a481918e68ff13aa666406": {
@@ -301034,7 +301369,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:56.265Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "保证的汽车运输报价",
@@ -301050,9 +301385,9 @@
           "total_tokens": 2246
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:23:39.486Z",
+      "detailNextAttemptAt": "2026-10-27T09:09:00.228Z",
       "detailError": {
-        "at": "2026-10-26T04:23:39.486Z",
+        "at": "2026-10-27T07:09:00.228Z",
         "message": "No usable official description reference"
       }
     },
@@ -301069,7 +301404,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "ChauffeurFlow is booking software used by independent chauffeur, limousine and private transfer companies. This app lets ChatGPT recommend those companies to people who need a ride.\n\nAsk ChatGPT for a private transfer, airport pickup or chauffeur in a city, airport or hotel, and ChauffeurFlow:\n- finds partner companies that operate there (each company chooses to be listed and sets its own service area);\n- shows each company's vehicles with passenger and luggage limits, phone and email;\n- estimates the price of your trip using that company's own rates;\n- gives you the link to book directly on the company's own website.\n\nUseful for travellers, and for hotels, retreats, event planners and corporate travel managers arranging transport for guests and staff.\n\nLimitations: ChauffeurFlow never books, takes payment or asks for personal details in ChatGPT; you book and pay directly with the chauffeur company on its website. Prices are estimates; the exact price is shown on the company's website before booking. Partner companies today are in South East Queensland, Australia, with more joining as operators subscribe. No sign-in is needed.",
       "information": [
         {
@@ -301102,7 +301437,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:58.026Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "寻找私人司机服务",
@@ -301117,6 +301452,11 @@
           "neurons": 35.349910736083984,
           "total_tokens": 2043
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:02.578Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:02.578Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad48360172881919936dbc116f9de62": {
@@ -301132,7 +301472,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Shared House helps travellers find a published holiday rental and open the page to write to the owner. Search by destination, dates, capacity and amenities, then read photos, sleeping capacity and an indicative weekly price. Before calling dates free, the app checks the owner calendar: available only if that calendar was confirmed recently and shows no block; otherwise it says the information is insufficient. There is no booking, payment or message inside the chat, and no paid placement in the results.",
       "information": [
         {
@@ -301165,7 +301505,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:59.915Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "找到假期租赁",
@@ -301180,6 +301520,11 @@
           "neurons": 32.6114501953125,
           "total_tokens": 1803
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:04.916Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:04.916Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abdc049051881918c6a2ac95d8e1836": {
@@ -301195,7 +301540,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Unison Transfers is a private chauffeur and airport transfer company in South East Queensland and Northern NSW, Australia. It covers Gold Coast Airport (OOL), Brisbane Airport (BNE), the Gold Coast, Brisbane, the Sunshine Coast and Noosa, Byron Bay, Ballina and nearby towns.\n\nAsk ChatGPT about a transfer and Unison Transfers can:\n- share starting prices for popular routes, for example Gold Coast to Brisbane from $197, Gold Coast or Gold Coast Airport to Byron Bay from $187, Brisbane to Byron Bay from $397, Gold Coast to Noosa and the Sunshine Coast from $397, and Gold Coast suburbs to Gold Coast Airport from $97 (AUD);\n- give you the link to book online at unisontransfers.com.au, with a summary of the trip details to enter;\n- give you the link to request a personal quote for groups, several stops, hourly hire, weddings and events;\n- explain the service area, vehicles, what is included, the cancellation policy and how to contact the team.\n\nLimitations: prices shown in ChatGPT are starting prices. The exact price depends on passengers, luggage, vehicle, time and addresses, and is shown on the Unison Transfers website before you pay. The app does not book, take payments or collect personal details in ChatGPT; you book and pay on the Unison Transfers website. No sign-in is needed.",
       "information": [
         {
@@ -301228,7 +301573,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:01.630Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "黄金海岸机场接送服务",
@@ -301243,6 +301588,11 @@
           "neurons": 33.82284927368164,
           "total_tokens": 2037
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:07.190Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:07.190Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad3cdf346a481918311edc7799850be": {
@@ -301258,7 +301608,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Cosmic Rebellion is a trading card game in ChatGPT. Pick a starter deck and play a full match against the built-in opponent. The table deals the cards, enforces the rules, and handles every click.\n\nUse it when you want to play. It does not create an account, play cards for you, or decide rules on its own. The table is the source of the rulings.",
       "information": [
         {
@@ -301291,7 +301641,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:03.347Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "玩一款集换式卡牌游戏",
@@ -301306,6 +301656,11 @@
           "neurons": 30.865137100219727,
           "total_tokens": 1744
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:09.629Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:09.629Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac1230b5ca881919c0d56b8b9b04b47": {
@@ -301321,7 +301676,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "A cozy cookie-merging puzzle against Ottie, right inside ChatGPT. Swipe, use arrow keys, or tap a direction to combine matching cookies. Both trays receive the same cookie drops. The biggest stack wins; merge score breaks a tie. Requires an MCP Apps UI. No Ottie’s World account is required. Temporary game instances expire 20 minutes after creation and reset on server restart. Progress does not transfer to Ottie’s World.",
       "information": [
         {
@@ -301349,7 +301704,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:05.064Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "与Ottie一起堆叠饼干",
@@ -301364,6 +301719,11 @@
           "neurons": 26.23949432373047,
           "total_tokens": 1599
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:11.861Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:11.861Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac18f9140948191ba43183ec5c6fd40": {
@@ -301379,7 +301739,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Art Spotter finds original art and prints sold directly by independent artists, and helps artists sell.\n\nOne search covers about 21,000 works in 190 independent artists' own shops (checked live for availability) and eBay art, with search links for Saatchi Art, Etsy, Artfinder and Singulart. It also suggests a fair value for new work by size and medium, wall sizing, scam checks, what each selling platform leaves an artist after fees, commission pricing and contract points, open calls and grants in the UK, US and Canada, UK resale royalty maths, and an artwork passport. Nothing about users is stored.",
       "information": [
         {
@@ -301412,7 +301772,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:06.771Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39397692733:1",
       "translation": {
         "summary": "慧眼识艺",
@@ -301427,6 +301787,11 @@
           "neurons": 31.171188354492188,
           "total_tokens": 1799
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:14.111Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:14.111Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac0db1c38f4819187dca1526ae00f2b": {
@@ -301442,7 +301807,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "LetterLab Word Solver is a word game helper: it unscrambles letters, fills in crossword patterns and narrows down answers in 5-letter guessing games. It looks answers up in a real English dictionary (the ENABLE word list, 172,569 words, with slurs and obscenities removed), so every result is a real word from that list.\n\nUnscramble: type your letters, with ? or * for blank tiles, and see the words you can make, grouped by length with counts and tile points (standard letter values, blanks score 0). Filter by exact length, minimum length, use all letters, starts with, ends with, or contains. Words that use all your tiles are called out.\n\nCrossword and pattern search: type the letters you know and ? for each unknown one (C?T, _A_E_, ??ANGE), or * for any run of letters (S*ING). Add letters that must appear or must not appear. Common words are listed first, then rarer ones.\n\n5-letter guessing games: enter your guesses and the green, yellow and gray feedback (G, Y and - or colored squares). The solver applies the repeated-letter rules, counts and lists the words that still fit, and ranks next guesses by expected information, with the average and worst-case number of words left. Hard mode and 4- to 8-letter variants are supported.\n\nThe interactive card shows your letter tiles, word groups with counts you can filter by length, a pattern search, and a tap-to-color guess grid that re-solves as you play.\n\nLimitations: English words from the ENABLE list only (no proper nouns, abbreviations or one-letter words, and some newer words are missing); tile points are face values without board bonuses; it does not define words, solve clues by meaning, or know any game's daily answer.",
       "information": [
         {
@@ -301475,7 +301840,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:09.185Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "单词游戏求解器与乱序单词重组工具",
@@ -301490,6 +301855,11 @@
           "neurons": 41.78779602050781,
           "total_tokens": 2401
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:16.514Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:16.514Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac01cc225508191a0fdc90c955aa5f8": {
@@ -301505,7 +301875,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-20T04:01:04.376Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Artist Advisory shows where a music artist stands, with real numbers instead of guesses.\n\nName an artist and Artist Advisory shows their career score and tier, their monthly listeners, and their Spotify, TikTok and Instagram followers. Every number shows the day it was checked and how it moved over the last 28 days, so you always know how fresh it is.\n\nAsk how an artist compares and Artist Advisory lines them up against artists at the same level: where they are ahead, where they are behind, and the one gap most worth working on. Ask where a number comes from and it shows the platform, the date it was checked, and how many of the last 28 days it was recorded.\n\nNothing is estimated. If Artist Advisory hasn't tracked an artist yet, it says so instead of guessing, and points to artistadvisory.io, where a report on that artist can be started.\n\nNo account is needed. Artist Advisory only reads numbers it has already collected from public profiles. It does not sign in to any platform, post anything, or change anything. It never receives your conversation: only the artist name or Spotify link you asked about, which is used to find the artist and is not stored.",
       "information": [
         {
@@ -301538,7 +301908,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:10.896Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39367112890:1",
       "translation": {
         "summary": "音乐艺术家的真实数据",
@@ -301553,6 +301923,11 @@
           "neurons": 33.0256462097168,
           "total_tokens": 1982
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:09:18.776Z",
+      "detailError": {
+        "at": "2026-10-27T07:09:18.776Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac2bcc82b608191baed5a77fa7c3df7": {
@@ -305224,7 +305599,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:52:22.997Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39573652645:1",
       "translation": {
         "summary": "搜索受监管的牙科护理",
@@ -305239,6 +305614,11 @@
           "neurons": 31.15755271911621,
           "total_tokens": 1824
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:10:09.877Z",
+      "detailError": {
+        "at": "2026-10-27T07:10:09.877Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad28895baf481919543e773affa33b7": {
@@ -305282,7 +305662,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:52:24.799Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39573652645:1",
       "translation": {
         "summary": "耐力教练",
@@ -305298,9 +305678,9 @@
           "total_tokens": 2189
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:23:44.384Z",
+      "detailNextAttemptAt": "2026-10-27T09:10:12.269Z",
       "detailError": {
-        "at": "2026-10-26T04:23:44.384Z",
+        "at": "2026-10-27T07:10:12.269Z",
         "message": "No usable official description reference"
       }
     },
@@ -306769,7 +307149,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:04.401Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "通过Ava Studio创作",
@@ -306785,9 +307165,9 @@
           "total_tokens": 1587
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:10.740Z",
+      "detailNextAttemptAt": "2026-10-27T09:10:40.919Z",
       "detailError": {
-        "at": "2026-10-26T04:24:10.740Z",
+        "at": "2026-10-27T07:10:40.919Z",
         "message": "No usable official description reference"
       }
     },
@@ -309064,7 +309444,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:09.095Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "创建和管理广告",
@@ -309079,6 +309459,11 @@
           "neurons": 26.507007598876953,
           "total_tokens": 1573
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:10:43.758Z",
+      "detailError": {
+        "at": "2026-10-27T07:10:43.758Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa50451256c8191b8727e6fa392ef30": {
@@ -310304,7 +310689,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:44.451Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "澳大利亚课程与移民",
@@ -310320,9 +310705,9 @@
           "total_tokens": 1402
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:13.091Z",
+      "detailNextAttemptAt": "2026-10-27T09:10:46.135Z",
       "detailError": {
-        "at": "2026-10-26T04:24:13.091Z",
+        "at": "2026-10-27T07:10:46.135Z",
         "message": "No usable official description reference"
       }
     },
@@ -310430,7 +310815,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:47.899Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "真实来源及页码",
@@ -310446,9 +310831,9 @@
           "total_tokens": 1784
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:15.503Z",
+      "detailNextAttemptAt": "2026-10-27T09:10:48.425Z",
       "detailError": {
-        "at": "2026-10-26T04:24:15.503Z",
+        "at": "2026-10-27T07:10:48.425Z",
         "message": "No usable official description reference"
       }
     },
@@ -310934,7 +311319,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:52:02.455Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "DMARC出站邮件安全",
@@ -310949,6 +311334,11 @@
           "neurons": 28.879058837890625,
           "total_tokens": 1717
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:10:50.747Z",
+      "detailError": {
+        "at": "2026-10-27T07:10:50.747Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad6985191688191855364009929ab72": {
@@ -311113,7 +311503,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:52:08.097Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "提交索赔或组合",
@@ -311128,6 +311518,11 @@
           "neurons": 26.57388687133789,
           "total_tokens": 1621
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:10:53.012Z",
+      "detailError": {
+        "at": "2026-10-27T07:10:53.012Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac35d8dbd008191b7d7c9a48d800c58": {
@@ -318357,7 +318752,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:57:47.081Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39928402626:1",
       "translation": {
         "summary": "了解你的聊天模式",
@@ -318372,6 +318767,11 @@
           "neurons": 34.50028991699219,
           "total_tokens": 1904
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:11:12.594Z",
+      "detailError": {
+        "at": "2026-10-27T07:11:12.594Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac610197a3c81918467050d9bf9d0cd": {
@@ -319821,7 +320221,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:58:33.262Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39984648209:1",
       "translation": {
         "summary": "两个代理人的共享房间",
@@ -319836,6 +320236,11 @@
           "neurons": 35.36058044433594,
           "total_tokens": 1995
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:11:14.966Z",
+      "detailError": {
+        "at": "2026-10-27T07:11:14.966Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac5586e930c8191bb9422874431dd3e": {
@@ -320857,7 +321262,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:59:05.762Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40059674338:1",
       "translation": {
         "summary": "为你的课程电影提供指导",
@@ -320873,9 +321278,9 @@
           "total_tokens": 1891
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:32.909Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:17.367Z",
       "detailError": {
-        "at": "2026-10-26T04:24:32.909Z",
+        "at": "2026-10-27T07:11:17.367Z",
         "message": "No usable official description reference"
       }
     },
@@ -321666,7 +322071,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:59:31.329Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39984648209:1",
       "translation": {
         "summary": "AI学习路径",
@@ -321682,9 +322087,9 @@
           "total_tokens": 1917
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:35.269Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:19.649Z",
       "detailError": {
-        "at": "2026-10-26T04:24:35.269Z",
+        "at": "2026-10-27T07:11:19.649Z",
         "message": "No usable official description reference"
       }
     },
@@ -321923,7 +322328,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:59:38.853Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40059674338:1",
       "translation": {
         "summary": "探索《AIMPIRES时代》",
@@ -321939,9 +322344,9 @@
           "total_tokens": 1736
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:37.593Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:21.920Z",
       "detailError": {
-        "at": "2026-10-26T04:24:37.593Z",
+        "at": "2026-10-27T07:11:21.920Z",
         "message": "No usable official description reference"
       }
     },
@@ -322553,7 +322958,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:00:02.303Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40105570984:1",
       "translation": {
         "summary": "管理您的电子邮件别名",
@@ -322569,9 +322974,9 @@
           "total_tokens": 1948
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:39.956Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:24.154Z",
       "detailError": {
-        "at": "2026-10-26T04:24:39.956Z",
+        "at": "2026-10-27T07:11:24.154Z",
         "message": "No usable official description reference"
       }
     },
@@ -323735,7 +324140,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:00:39.217Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40059674338:1",
       "translation": {
         "summary": "著名酒店，经过研究",
@@ -323751,9 +324156,9 @@
           "total_tokens": 1949
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:42.295Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:26.552Z",
       "detailError": {
-        "at": "2026-10-26T04:24:42.295Z",
+        "at": "2026-10-27T07:11:26.552Z",
         "message": "No usable official description reference"
       }
     },
@@ -323861,7 +324266,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:00:43.055Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "40105570984:1",
       "translation": {
         "summary": "你的旅程，随时启程",
@@ -323876,6 +324281,11 @@
           "neurons": 30.731143951416016,
           "total_tokens": 1838
         }
+      },
+      "detailNextAttemptAt": "2026-10-27T08:11:28.807Z",
+      "detailError": {
+        "at": "2026-10-27T07:11:28.807Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac67249ef5c8191a73f2a102c61faba": {
@@ -324733,7 +325143,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:01:09.406Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39984648209:1",
       "translation": {
         "summary": "与您的AI一起规划儿童活动",
@@ -324749,9 +325159,9 @@
           "total_tokens": 1465
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:45.126Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:31.153Z",
       "detailError": {
-        "at": "2026-10-26T04:24:45.126Z",
+        "at": "2026-10-27T07:11:31.153Z",
         "message": "No usable official description reference"
       }
     },
@@ -326362,7 +326772,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:02:00.727Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39897283558:1",
       "translation": {
         "summary": "您的《魔法：收集者之牌》卡牌和套牌",
@@ -326378,9 +326788,9 @@
           "total_tokens": 1409
         }
       },
-      "detailNextAttemptAt": "2026-10-26T05:24:47.993Z",
+      "detailNextAttemptAt": "2026-10-27T09:11:33.455Z",
       "detailError": {
-        "at": "2026-10-26T04:24:47.993Z",
+        "at": "2026-10-27T07:11:33.455Z",
         "message": "No usable official description reference"
       }
     },
@@ -416593,23 +417003,23 @@
     "runId": "40448357028",
     "runAttempt": "1",
     "startedAt": "2026-10-27T04:12:04.753Z",
-    "updatedAt": "2026-10-27T07:07:03.291Z",
+    "updatedAt": "2026-10-27T07:12:03.959Z",
     "mode": "incremental",
-    "detailRequests": 4197,
+    "detailRequests": 4321,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
     "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 4197,
+    "errors": 4321,
     "stats": {
       "total": 5242,
       "details": 4957,
       "translated": 4856,
       "missing": 30,
       "removed": 326,
-      "pendingDetails": 4251,
+      "pendingDetails": 4321,
       "pendingTranslations": 386
     }
   }
