@@ -189427,7 +189427,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "发现旅程，探索世界",
       "legacySummaryOriginal": "Find trips & explore the world",
@@ -189472,7 +189472,12 @@
         "reviewedAt": "2026-10-26T18:00:23.776Z",
         "translatedAt": "2026-10-26T18:00:23.776Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:36:44.401Z",
+      "detailError": {
+        "at": "2026-10-27T06:36:44.401Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_694916659c2c819190dd02fb6f388ff1": {
       "id": "plugin_asdk_app_694916659c2c819190dd02fb6f388ff1",
@@ -189485,7 +189490,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "规划多日旅行",
       "legacySummaryOriginal": "Plan multi-day trips",
@@ -189529,7 +189534,12 @@
         "reviewedAt": "2026-10-26T18:00:23.765Z",
         "translatedAt": "2026-10-26T18:00:23.765Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:36:47.220Z",
+      "detailError": {
+        "at": "2026-10-27T06:36:47.220Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69f8cf01dd8881919e6c8518af5451b7": {
       "id": "plugin_asdk_app_69f8cf01dd8881919e6c8518af5451b7",
@@ -189542,7 +189552,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找 Fattal 酒店",
       "legacySummaryOriginal": "Find Fattal hotels",
@@ -189586,7 +189596,12 @@
         "reviewedAt": "2026-10-26T18:00:23.680Z",
         "translatedAt": "2026-10-26T18:00:23.680Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:36:50.087Z",
+      "detailError": {
+        "at": "2026-10-27T06:36:50.087Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69d6b47031808191927687c981a80340": {
       "id": "plugin_asdk_app_69d6b47031808191927687c981a80340",
@@ -189647,10 +189662,10 @@
           "total_tokens": 1618
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-26T05:22:48.101Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-27T08:36:52.333Z",
       "detailError": {
-        "at": "2026-10-26T04:22:48.101Z",
+        "at": "2026-10-27T06:36:52.333Z",
         "message": "No usable official description reference"
       }
     },
@@ -189665,7 +189680,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找并探索 Barceló 酒店",
       "legacySummaryOriginal": "Find and explore Barceló hotel",
@@ -189710,7 +189725,12 @@
         "reviewedAt": "2026-10-26T18:00:23.561Z",
         "translatedAt": "2026-10-26T18:00:23.561Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:36:54.618Z",
+      "detailError": {
+        "at": "2026-10-27T06:36:54.618Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_699dacd9a5388191aa0751100382e0b7": {
       "id": "plugin_asdk_app_699dacd9a5388191aa0751100382e0b7",
@@ -189723,7 +189743,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找停车位",
       "legacySummaryOriginal": "Find parking spots",
@@ -189767,7 +189787,12 @@
         "reviewedAt": "2026-10-26T18:00:23.618Z",
         "translatedAt": "2026-10-26T18:00:23.618Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:36:57.005Z",
+      "detailError": {
+        "at": "2026-10-27T06:36:57.005Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a653e3994bc8191b4184e6dd8ab5325": {
       "id": "plugin_asdk_app_6a653e3994bc8191b4184e6dd8ab5325",
@@ -189780,7 +189805,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "探索日本的圣地",
       "legacySummaryOriginal": "Explore Japan's sacred places",
@@ -189824,7 +189849,12 @@
         "reviewedAt": "2026-10-26T18:00:23.689Z",
         "translatedAt": "2026-10-26T18:00:23.689Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:36:59.237Z",
+      "detailError": {
+        "at": "2026-10-27T06:36:59.237Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69fc5bf0562c8191b2c7dda4ff86d008": {
       "id": "plugin_asdk_app_69fc5bf0562c8191b2c7dda4ff86d008",
@@ -189837,7 +189867,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "预订全球酒店，享专属福利",
       "legacySummaryOriginal": "Book global hotels with perks",
@@ -189882,7 +189912,12 @@
         "reviewedAt": "2026-10-26T18:00:23.626Z",
         "translatedAt": "2026-10-26T18:00:23.626Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:01.475Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:01.475Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_696f6d0223e88191ac5b6a7a7a59f25c": {
       "id": "plugin_asdk_app_696f6d0223e88191ac5b6a7a7a59f25c",
@@ -189895,7 +189930,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找旅行信息",
       "legacySummaryOriginal": "Find travel information",
@@ -189939,7 +189974,12 @@
         "reviewedAt": "2026-10-26T18:00:23.706Z",
         "translatedAt": "2026-10-26T18:00:23.706Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:03.718Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:03.718Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a267785dec88191beaa991df099c13b": {
       "id": "plugin_asdk_app_6a267785dec88191beaa991df099c13b",
@@ -189952,7 +189992,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找机票和酒店",
       "legacySummaryOriginal": "Find flights and hotels",
@@ -189996,7 +190036,12 @@
         "reviewedAt": "2026-10-26T18:00:23.780Z",
         "translatedAt": "2026-10-26T18:00:23.780Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:05.996Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:05.996Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_697137a0cf948191adb3b190a5d9b995": {
       "id": "plugin_asdk_app_697137a0cf948191adb3b190a5d9b995",
@@ -190009,7 +190054,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找面向 18–35 岁的组团游",
       "legacySummaryOriginal": "Find group travel for 18-35s",
@@ -190053,7 +190098,12 @@
         "reviewedAt": "2026-10-26T18:00:23.675Z",
         "translatedAt": "2026-10-26T18:00:23.675Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:08.829Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:08.829Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69e1e8b721f48191805a28f7d9802668": {
       "id": "plugin_asdk_app_69e1e8b721f48191805a28f7d9802668",
@@ -190066,7 +190116,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找 Motel 6 住宿",
       "legacySummaryOriginal": "Find Motel 6 stays",
@@ -190110,7 +190160,12 @@
         "reviewedAt": "2026-10-26T18:00:23.724Z",
         "translatedAt": "2026-10-26T18:00:23.724Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:11.090Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:11.090Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a5297b02238819181fa2470d45d0bbd": {
       "id": "plugin_asdk_app_6a5297b02238819181fa2470d45d0bbd",
@@ -190123,7 +190178,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "规划徒步与渡轮路线",
       "legacySummaryOriginal": "Plan hikes & ferry routes",
@@ -190167,7 +190222,12 @@
         "reviewedAt": "2026-10-26T18:00:23.619Z",
         "translatedAt": "2026-10-26T18:00:23.619Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:13.352Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:13.352Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69a0553490f08191b4959d30ed802a1e": {
       "id": "plugin_asdk_app_69a0553490f08191b4959d30ed802a1e",
@@ -190180,7 +190240,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "实时酒店直订",
       "legacySummaryOriginal": "Real-time Direct Hotel Booking",
@@ -190225,7 +190285,12 @@
         "reviewedAt": "2026-10-26T18:00:23.530Z",
         "translatedAt": "2026-10-26T18:00:23.530Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:15.741Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:15.741Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a41093431408191ac6830ec302589e4": {
       "id": "plugin_asdk_app_6a41093431408191ac6830ec302589e4",
@@ -190238,7 +190303,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找城际车票",
       "legacySummaryOriginal": "Find intercity tickets",
@@ -190283,7 +190348,12 @@
         "reviewedAt": "2026-10-26T18:00:23.755Z",
         "translatedAt": "2026-10-26T18:00:23.755Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:18.553Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:18.553Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69ade93a0b7c819191854f5d10008462": {
       "id": "plugin_asdk_app_69ade93a0b7c819191854f5d10008462",
@@ -190296,7 +190366,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "预订伦敦机场接送",
       "legacySummaryOriginal": "Book London airport transfers",
@@ -190340,7 +190410,12 @@
         "reviewedAt": "2026-10-26T18:00:23.561Z",
         "translatedAt": "2026-10-26T18:00:23.561Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:20.940Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:20.940Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69a598b9c3a4819185d3171fd1677a72": {
       "id": "plugin_asdk_app_69a598b9c3a4819185d3171fd1677a72",
@@ -190353,7 +190428,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "餐饮、酒店与水疗体验",
       "legacySummaryOriginal": "Dining, hotel & spa experience",
@@ -190397,7 +190472,12 @@
         "reviewedAt": "2026-10-26T18:00:23.749Z",
         "translatedAt": "2026-10-26T18:00:23.749Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:23.203Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:23.203Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69aa22f66d8c819199e8cb196fed46ca": {
       "id": "plugin_asdk_app_69aa22f66d8c819199e8cb196fed46ca",
@@ -190410,7 +190490,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "预订巴亚尔塔港公寓",
       "legacySummaryOriginal": "Book a Puerto Vallarta Condo",
@@ -190454,7 +190534,12 @@
         "reviewedAt": "2026-10-26T18:00:23.527Z",
         "translatedAt": "2026-10-26T18:00:23.527Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:25.453Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:25.453Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69e8b07d4a1c8191ad57151bfd826840": {
       "id": "plugin_asdk_app_69e8b07d4a1c8191ad57151bfd826840",
@@ -190467,7 +190552,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找全球电动车充电桩",
       "legacySummaryOriginal": "Find EV chargers worldwide",
@@ -190511,7 +190596,12 @@
         "reviewedAt": "2026-10-26T18:00:23.646Z",
         "translatedAt": "2026-10-26T18:00:23.646Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:28.298Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:28.298Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a4c03e91a808191a13baf01a3c58f36": {
       "id": "plugin_asdk_app_6a4c03e91a808191a13baf01a3c58f36",
@@ -190524,7 +190614,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "比较并预订租车",
       "legacySummaryOriginal": "Compare and book rental cars",
@@ -190569,7 +190659,12 @@
         "reviewedAt": "2026-10-26T18:00:23.530Z",
         "translatedAt": "2026-10-26T18:00:23.530Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:30.611Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:30.611Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a516cba31e081919518bb6d2ee6fb44": {
       "id": "plugin_asdk_app_6a516cba31e081919518bb6d2ee6fb44",
@@ -190582,7 +190677,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "在 ChatGPT 中预订阿尔巴尼亚出租车",
       "legacySummaryOriginal": "Pre-book a taxi in ChatGPT",
@@ -190626,7 +190721,12 @@
         "reviewedAt": "2026-10-26T18:00:23.623Z",
         "translatedAt": "2026-10-26T18:00:23.623Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:32.862Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:32.862Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a01b173694081918b9aa255fad484e4": {
       "id": "plugin_asdk_app_6a01b173694081918b9aa255fad484e4",
@@ -190639,7 +190739,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "酒店信息与预订",
       "legacySummaryOriginal": "Hotel info and bookings",
@@ -190683,7 +190783,12 @@
         "reviewedAt": "2026-10-26T18:00:23.694Z",
         "translatedAt": "2026-10-26T18:00:23.694Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:35.127Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:35.127Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a06e24abdb48191a94eeebb062c72d7": {
       "id": "plugin_asdk_app_6a06e24abdb48191a94eeebb062c72d7",
@@ -190696,7 +190801,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找 Eurostars 酒店",
       "legacySummaryOriginal": "Find Eurostars hotels",
@@ -190740,7 +190845,12 @@
         "reviewedAt": "2026-10-26T18:00:23.576Z",
         "translatedAt": "2026-10-26T18:00:23.576Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:37.350Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:37.350Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a58991f72308191b1fe8eee22d6bc46": {
       "id": "plugin_asdk_app_6a58991f72308191b1fe8eee22d6bc46",
@@ -190753,7 +190863,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "规划旅行网络连接",
       "legacySummaryOriginal": "Plan travel connectivity",
@@ -190797,7 +190907,12 @@
         "reviewedAt": "2026-10-26T18:00:23.752Z",
         "translatedAt": "2026-10-26T18:00:23.752Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:39.699Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:39.699Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a1f2d275fa0819194b6cc4d73875969": {
       "id": "plugin_asdk_app_6a1f2d275fa0819194b6cc4d73875969",
@@ -190810,7 +190925,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找加勒比海滩度假优惠",
       "legacySummaryOriginal": "Find beach vacation deals",
@@ -190854,7 +190969,12 @@
         "reviewedAt": "2026-10-26T18:00:23.647Z",
         "translatedAt": "2026-10-26T18:00:23.647Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:41.987Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:41.987Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_699f271413c88191bcd187a1007f9fbf": {
       "id": "plugin_asdk_app_699f271413c88191bcd187a1007f9fbf",
@@ -190867,7 +190987,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找无臭虫酒店",
       "legacySummaryOriginal": "Find bed bug free hotels",
@@ -190911,7 +191031,12 @@
         "reviewedAt": "2026-10-26T18:00:23.629Z",
         "translatedAt": "2026-10-26T18:00:23.629Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:44.353Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:44.353Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a1edd377bd48191b0cb8d7f358c2e22": {
       "id": "plugin_asdk_app_6a1edd377bd48191b0cb8d7f358c2e22",
@@ -190924,7 +191049,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "租赁房车或拖挂车",
       "legacySummaryOriginal": "Rent a caravan or motorhome",
@@ -190968,7 +191093,12 @@
         "reviewedAt": "2026-10-26T18:00:23.641Z",
         "translatedAt": "2026-10-26T18:00:23.641Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:47.188Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:47.188Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69d529e949a081919959e2d6a1f34abe": {
       "id": "plugin_asdk_app_69d529e949a081919959e2d6a1f34abe",
@@ -190981,7 +191111,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "预订当地向导的导览",
       "legacySummaryOriginal": "Book tours with local guides",
@@ -191025,7 +191155,12 @@
         "reviewedAt": "2026-10-26T18:00:23.765Z",
         "translatedAt": "2026-10-26T18:00:23.765Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:49.547Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:49.547Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a3a6c07ca988191a1fb65d21bd1a2b3": {
       "id": "plugin_asdk_app_6a3a6c07ca988191a1fb65d21bd1a2b3",
@@ -191038,7 +191173,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找向导带领的探险之旅",
       "legacySummaryOriginal": "Find guided adventure trips",
@@ -191082,7 +191217,12 @@
         "reviewedAt": "2026-10-26T18:00:23.708Z",
         "translatedAt": "2026-10-26T18:00:23.708Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:51.910Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:51.910Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_694414c0413c8191bcebca4352224995": {
       "id": "plugin_asdk_app_694414c0413c8191bcebca4352224995",
@@ -191095,7 +191235,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找并比较巴士票",
       "legacySummaryOriginal": "Find and compare bus tickets",
@@ -191139,7 +191279,12 @@
         "reviewedAt": "2026-10-26T18:00:23.742Z",
         "translatedAt": "2026-10-26T18:00:23.742Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:54.118Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:54.118Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69d722ba3768819192200e6fe57a0eef": {
       "id": "plugin_asdk_app_69d722ba3768819192200e6fe57a0eef",
@@ -191152,7 +191297,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "发现热门假期",
       "legacySummaryOriginal": "Find Top Holidays",
@@ -191197,7 +191342,12 @@
         "reviewedAt": "2026-10-26T18:00:23.767Z",
         "translatedAt": "2026-10-26T18:00:23.767Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:56.365Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:56.365Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a32759f0a04819192e230c5b9f4a360": {
       "id": "plugin_asdk_app_6a32759f0a04819192e230c5b9f4a360",
@@ -191210,7 +191360,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "实时雪况报告与预报",
       "legacySummaryOriginal": "Live snow reports & forecasts",
@@ -191254,7 +191404,12 @@
         "reviewedAt": "2026-10-26T18:00:23.754Z",
         "translatedAt": "2026-10-26T18:00:23.754Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:37:59.225Z",
+      "detailError": {
+        "at": "2026-10-27T06:37:59.225Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69774b4c8e888191b409567d00e2152a": {
       "id": "plugin_asdk_app_69774b4c8e888191b409567d00e2152a",
@@ -191267,7 +191422,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找旅行 eSIM",
       "legacySummaryOriginal": "Find travel eSIMs",
@@ -191312,7 +191467,12 @@
         "reviewedAt": "2026-10-26T18:00:23.616Z",
         "translatedAt": "2026-10-26T18:00:23.616Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:01.515Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:01.515Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a25d41fb4848191b3ecb60b55b6d7b8": {
       "id": "plugin_asdk_app_6a25d41fb4848191b3ecb60b55b6d7b8",
@@ -191325,7 +191485,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "在日历上规划旅行",
       "legacySummaryOriginal": "Plan trips on a calendar",
@@ -191370,7 +191530,12 @@
         "reviewedAt": "2026-10-26T18:00:23.768Z",
         "translatedAt": "2026-10-26T18:00:23.768Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:03.873Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:03.873Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6967cdc847648191a549d9f6c6314ea5": {
       "id": "plugin_asdk_app_6967cdc847648191a549d9f6c6314ea5",
@@ -191383,7 +191548,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "地球上最好的滑雪租赁",
       "legacySummaryOriginal": "Best ski rental on earth",
@@ -191427,7 +191592,12 @@
         "reviewedAt": "2026-10-26T18:00:23.528Z",
         "translatedAt": "2026-10-26T18:00:23.528Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:06.096Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:06.096Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6977107a296c8191bcd9164998ba5a19": {
       "id": "plugin_asdk_app_6977107a296c8191bcd9164998ba5a19",
@@ -191440,7 +191610,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "酒店信息与预订",
       "legacySummaryOriginal": "Hotel info and bookings",
@@ -191484,7 +191654,12 @@
         "reviewedAt": "2026-10-26T18:00:23.695Z",
         "translatedAt": "2026-10-26T18:00:23.695Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:08.318Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:08.318Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69b48bd2ae9c8191a5bcdbfd5f122107": {
       "id": "plugin_asdk_app_69b48bd2ae9c8191a5bcdbfd5f122107",
@@ -191497,7 +191672,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "规划团体旅行",
       "legacySummaryOriginal": "Plan group trips",
@@ -191541,7 +191716,12 @@
         "reviewedAt": "2026-10-26T18:00:23.690Z",
         "translatedAt": "2026-10-26T18:00:23.690Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:10.533Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:10.533Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6982d8d8dcd08191b80d17b52e44b819": {
       "id": "plugin_asdk_app_6982d8d8dcd08191b80d17b52e44b819",
@@ -191554,7 +191734,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "看一看、感受一下、订下旅程",
       "legacySummaryOriginal": "Watch, feel, book your trip.",
@@ -191598,7 +191778,12 @@
         "reviewedAt": "2026-10-26T18:00:23.768Z",
         "translatedAt": "2026-10-26T18:00:23.768Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:12.759Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:12.759Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a64b484573081918d970f524136b630": {
       "id": "plugin_asdk_app_6a64b484573081918d970f524136b630",
@@ -191611,7 +191796,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "比较实时旅行价格",
       "legacySummaryOriginal": "Compare live travel prices",
@@ -191659,7 +191844,12 @@
           "total_tokens": 1944
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:15.156Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:15.156Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69cbfe8a08cc819189985005d12166e1": {
       "id": "plugin_asdk_app_69cbfe8a08cc819189985005d12166e1",
@@ -191672,7 +191862,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "保险、eSIM、签证与 VIP 服务",
       "legacySummaryOriginal": "Insurance, eSIM, Visas & VIP",
@@ -191716,7 +191906,12 @@
         "reviewedAt": "2026-10-26T18:00:23.640Z",
         "translatedAt": "2026-10-26T18:00:23.640Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:17.487Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:17.487Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69c271c5d3a08191af9526629563664b": {
       "id": "plugin_asdk_app_69c271c5d3a08191af9526629563664b",
@@ -191729,7 +191924,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找 OUIGO 车票",
       "legacySummaryOriginal": "Trouver billets OUIGO",
@@ -191774,7 +191969,12 @@
         "reviewedAt": "2026-10-26T18:00:23.731Z",
         "translatedAt": "2026-10-26T18:00:23.731Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:19.749Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:19.749Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a74803b0b6481919519f774a55c231f": {
       "id": "plugin_asdk_app_6a74803b0b6481919519f774a55c231f",
@@ -191787,7 +191987,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "精选度假别墅",
       "legacySummaryOriginal": "Handpicked Holiday Villas",
@@ -191831,7 +192031,12 @@
         "reviewedAt": "2026-10-26T18:00:23.700Z",
         "translatedAt": "2026-10-26T18:00:23.700Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:22.060Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:22.060Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a0b0cd873848191ab989ba0c21519d0": {
       "id": "plugin_asdk_app_6a0b0cd873848191ab989ba0c21519d0",
@@ -191910,7 +192115,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "预订酒店和邮轮",
       "legacySummaryOriginal": "Book hotels & cruises",
@@ -191954,7 +192159,12 @@
         "reviewedAt": "2026-10-26T18:00:23.785Z",
         "translatedAt": "2026-10-26T18:00:23.785Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:24.283Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:24.283Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69d7bea546dc81919b2bb363c94479e7": {
       "id": "plugin_asdk_app_69d7bea546dc81919b2bb363c94479e7",
@@ -191967,7 +192177,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找日间房",
       "legacySummaryOriginal": "Find daytime hotel rooms",
@@ -192012,7 +192222,12 @@
         "reviewedAt": "2026-10-26T18:00:23.663Z",
         "translatedAt": "2026-10-26T18:00:23.663Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:26.654Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:26.654Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a6a205edb1c8191a4c265e4996aa9b2": {
       "id": "plugin_asdk_app_6a6a205edb1c8191a4c265e4996aa9b2",
@@ -192025,7 +192240,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "实时巴士和火车时刻",
       "legacySummaryOriginal": "Live bus and train times",
@@ -192069,7 +192284,12 @@
         "reviewedAt": "2026-10-26T18:00:23.723Z",
         "translatedAt": "2026-10-26T18:00:23.723Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:28.877Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:28.877Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a5dd768024c8191ae301c9c3863dd9e": {
       "id": "plugin_asdk_app_6a5dd768024c8191ae301c9c3863dd9e",
@@ -192082,7 +192302,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "比较火车、巴士和航班",
       "legacySummaryOriginal": "Compare train, bus & flights",
@@ -192126,7 +192346,12 @@
         "reviewedAt": "2026-10-26T18:00:23.591Z",
         "translatedAt": "2026-10-26T18:00:23.591Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:31.156Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:31.156Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a5f824d0e9c8191a317dd7f8673a95d": {
       "id": "plugin_asdk_app_6a5f824d0e9c8191a317dd7f8673a95d",
@@ -192139,7 +192364,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "搜索并预订曼谷酒店",
       "legacySummaryOriginal": "Search and Book Bangkok Hotels",
@@ -192183,7 +192408,12 @@
         "reviewedAt": "2026-10-26T18:00:23.704Z",
         "translatedAt": "2026-10-26T18:00:23.704Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:33.621Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:33.621Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69fc65b367b08191b794105c2c6c98fc": {
       "id": "plugin_asdk_app_69fc65b367b08191b794105c2c6c98fc",
@@ -192255,7 +192485,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找私人飞机航班",
       "legacySummaryOriginal": "Find Private Jet Flights",
@@ -192299,7 +192529,12 @@
         "reviewedAt": "2026-10-26T18:00:23.700Z",
         "translatedAt": "2026-10-26T18:00:23.700Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:36.017Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:36.017Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69ccc0f4b2988191ae44deba4f1a41a9": {
       "id": "plugin_asdk_app_69ccc0f4b2988191ae44deba4f1a41a9",
@@ -192312,7 +192547,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "全球留学生的家",
       "legacySummaryOriginal": "Home for Global Students",
@@ -192356,7 +192591,12 @@
         "reviewedAt": "2026-10-26T18:00:23.770Z",
         "translatedAt": "2026-10-26T18:00:23.770Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:38.403Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:38.403Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69e8dc452c7081918cce73ac9c70c249": {
       "id": "plugin_asdk_app_69e8dc452c7081918cce73ac9c70c249",
@@ -192369,7 +192609,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "搜索度假住宿",
       "legacySummaryOriginal": "Recherche de séjours vacances",
@@ -192413,7 +192653,12 @@
         "reviewedAt": "2026-10-26T18:00:23.723Z",
         "translatedAt": "2026-10-26T18:00:23.723Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:41.189Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:41.189Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_695b59003a348191a3a0082cca1d88e6": {
       "id": "plugin_asdk_app_695b59003a348191a3a0082cca1d88e6",
@@ -192426,7 +192671,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找、购买并管理旅行 eSIM",
       "legacySummaryOriginal": "Find, buy, manage travel eSIMs",
@@ -192471,7 +192716,12 @@
         "reviewedAt": "2026-10-26T18:00:23.541Z",
         "translatedAt": "2026-10-26T18:00:23.541Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:44.009Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:44.009Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69edd634b04881918f20d1c9af1ca125": {
       "id": "plugin_asdk_app_69edd634b04881918f20d1c9af1ca125",
@@ -192546,7 +192796,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "巴西巴士票",
       "legacySummaryOriginal": "Bus tickets in Brazil",
@@ -192590,7 +192840,12 @@
         "reviewedAt": "2026-10-26T18:00:23.639Z",
         "translatedAt": "2026-10-26T18:00:23.640Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:46.858Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:46.858Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a23a60d6d488191bc49ed8fd8cfbcc7": {
       "id": "plugin_asdk_app_6a23a60d6d488191bc49ed8fd8cfbcc7",
@@ -192603,7 +192858,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "覆盖 200+ 国家的数据 eSIM",
       "legacySummaryOriginal": "200+ Countries data eSIMs",
@@ -192647,7 +192902,12 @@
         "reviewedAt": "2026-10-26T18:00:23.696Z",
         "translatedAt": "2026-10-26T18:00:23.696Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:49.150Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:49.150Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69825525bd288191971fc673abc1cec8": {
       "id": "plugin_asdk_app_69825525bd288191971fc673abc1cec8",
@@ -192660,7 +192920,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "全球机场接送",
       "legacySummaryOriginal": "Airport transfers worldwide",
@@ -192704,7 +192964,12 @@
         "reviewedAt": "2026-10-26T18:00:23.597Z",
         "translatedAt": "2026-10-26T18:00:23.597Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:51.549Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:51.549Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8fb168c9f48191b96b1e877626eab0": {
       "id": "plugin_asdk_app_6a8fb168c9f48191b96b1e877626eab0",
@@ -192717,7 +192982,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "精选空间与目的地",
       "legacySummaryOriginal": "Curated spaces and places",
@@ -192761,7 +193026,12 @@
         "reviewedAt": "2026-10-26T18:00:23.593Z",
         "translatedAt": "2026-10-26T18:00:23.593Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:53.765Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:53.765Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69cd1e0c101481918f5dc2e5607b3493": {
       "id": "plugin_asdk_app_69cd1e0c101481918f5dc2e5607b3493",
@@ -192774,7 +193044,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "机票、酒店与套餐",
       "legacySummaryOriginal": "Flights, Hotels & Packages",
@@ -192818,7 +193088,12 @@
         "reviewedAt": "2026-10-26T18:00:23.767Z",
         "translatedAt": "2026-10-26T18:00:23.767Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:56.629Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:56.629Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_695e5fef1eec8191b8facb29bf5b7d88": {
       "id": "plugin_asdk_app_695e5fef1eec8191b8facb29bf5b7d88",
@@ -192831,7 +193106,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "获取私人飞机包机报价",
       "legacySummaryOriginal": "Find private jet charter quote",
@@ -192876,7 +193151,12 @@
         "reviewedAt": "2026-10-26T18:00:23.720Z",
         "translatedAt": "2026-10-26T18:00:23.720Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:38:58.970Z",
+      "detailError": {
+        "at": "2026-10-27T06:38:58.970Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_696eb31edbe08191a63118bf145cb089": {
       "id": "plugin_asdk_app_696eb31edbe08191a63118bf145cb089",
@@ -192889,7 +193169,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "规划旅行移动网络",
       "legacySummaryOriginal": "Plan travel mobile internet",
@@ -192933,7 +193213,12 @@
         "reviewedAt": "2026-10-26T18:00:23.751Z",
         "translatedAt": "2026-10-26T18:00:23.751Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:01.214Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:01.214Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a0eac21e24881918187e9ab8361eec4": {
       "id": "plugin_asdk_app_6a0eac21e24881918187e9ab8361eec4",
@@ -192946,7 +193231,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "规划并分享拉斯维加斯之旅",
       "legacySummaryOriginal": "Plan and share Vegas trips",
@@ -192990,7 +193275,12 @@
         "reviewedAt": "2026-10-26T18:00:23.773Z",
         "translatedAt": "2026-10-26T18:00:23.773Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:03.512Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:03.512Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a563383fbd08191aa6559cd6a6eb6d9": {
       "id": "plugin_asdk_app_6a563383fbd08191aa6559cd6a6eb6d9",
@@ -193003,7 +193293,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "规划韩国旅行与行程路线",
       "legacySummaryOriginal": "Plan Korea trips & courses",
@@ -193047,7 +193337,12 @@
         "reviewedAt": "2026-10-26T18:00:23.768Z",
         "translatedAt": "2026-10-26T18:00:23.768Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:05.853Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:05.853Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a2674430fb48191a596b5e49ca54334": {
       "id": "plugin_asdk_app_6a2674430fb48191a596b5e49ca54334",
@@ -193060,7 +193355,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "导览、门票与活动",
       "legacySummaryOriginal": "Tours, Tickets & Activities",
@@ -193104,7 +193399,12 @@
         "reviewedAt": "2026-10-26T18:00:23.775Z",
         "translatedAt": "2026-10-26T18:00:23.775Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:08.184Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:08.184Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a21c47f63388191854912e01b5f5ad5": {
       "id": "plugin_asdk_app_6a21c47f63388191854912e01b5f5ad5",
@@ -193117,7 +193417,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "找到最佳场地",
       "legacySummaryOriginal": "Find the best venues.",
@@ -193161,7 +193461,12 @@
         "reviewedAt": "2026-10-26T18:00:23.744Z",
         "translatedAt": "2026-10-26T18:00:23.744Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:10.548Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:10.548Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a61258708f0819187068d757a0cf52b": {
       "id": "plugin_asdk_app_6a61258708f0819187068d757a0cf52b",
@@ -193236,7 +193541,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "商务航空情报",
       "legacySummaryOriginal": "Business aviation intelligence",
@@ -193280,7 +193585,12 @@
         "reviewedAt": "2026-10-26T18:00:23.550Z",
         "translatedAt": "2026-10-26T18:00:23.550Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:12.934Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:12.934Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69b136f1b59c81919f27b0d4ba2267f1": {
       "id": "plugin_asdk_app_69b136f1b59c81919f27b0d4ba2267f1",
@@ -193293,7 +193603,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "发现并预订船宿",
       "legacySummaryOriginal": "Discover & book liveaboards",
@@ -193330,7 +193640,12 @@
         "reviewedAt": "2026-10-26T18:00:23.750Z",
         "translatedAt": "2026-10-26T18:00:23.750Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:15.232Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:15.232Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6958034e721081919f9304af9bc30ba3": {
       "id": "plugin_asdk_app_6958034e721081919f9304af9bc30ba3",
@@ -193343,7 +193658,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "在全球查找并预订酒店",
       "legacySummaryOriginal": "Find and book hotels worldwide",
@@ -193387,7 +193702,12 @@
         "reviewedAt": "2026-10-26T18:00:23.724Z",
         "translatedAt": "2026-10-26T18:00:23.724Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:17.491Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:17.491Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7373c41e6c81919bdbafd2cf9aae36": {
       "id": "plugin_asdk_app_6a7373c41e6c81919bdbafd2cf9aae36",
@@ -193400,7 +193720,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "找到你的希腊海岛住宿",
       "legacySummaryOriginal": "Find your Greek island stay",
@@ -193444,7 +193764,12 @@
         "reviewedAt": "2026-10-26T18:00:23.723Z",
         "translatedAt": "2026-10-26T18:00:23.723Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:20.331Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:20.331Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69fa4b9f4f508191b9756c7df69a0624": {
       "id": "plugin_asdk_app_69fa4b9f4f508191b9756c7df69a0624",
@@ -193457,7 +193782,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查询帕尔马诺瓦 HR 酒店房态",
       "legacySummaryOriginal": "Find availability HR Palmanova",
@@ -193494,7 +193819,12 @@
         "reviewedAt": "2026-10-26T18:00:23.695Z",
         "translatedAt": "2026-10-26T18:00:23.695Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:22.729Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:22.729Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69c2eac29cb48191bc7130dc309935c3": {
       "id": "plugin_asdk_app_69c2eac29cb48191bc7130dc309935c3",
@@ -193507,7 +193837,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "更快地查找并预订球场",
       "legacySummaryOriginal": "Find And Book Courts Faster",
@@ -193552,7 +193882,12 @@
         "reviewedAt": "2026-10-26T18:00:23.570Z",
         "translatedAt": "2026-10-26T18:00:23.570Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:24.914Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:24.914Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69e37484f07481919c8031b8dd031d91": {
       "id": "plugin_asdk_app_69e37484f07481919c8031b8dd031d91",
@@ -193565,7 +193900,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "保存并优化旅行计划",
       "legacySummaryOriginal": "Save and refine travel plans",
@@ -193609,7 +193944,12 @@
         "reviewedAt": "2026-10-26T18:00:23.773Z",
         "translatedAt": "2026-10-26T18:00:23.773Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:27.247Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:27.247Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_698cab1901ec8191b56825a9e3bb69eb": {
       "id": "plugin_asdk_app_698cab1901ec8191b56825a9e3bb69eb",
@@ -193622,7 +193962,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找并预订酒店房间",
       "legacySummaryOriginal": "Find and book hotel rooms",
@@ -193666,7 +194006,12 @@
         "reviewedAt": "2026-10-26T18:00:23.713Z",
         "translatedAt": "2026-10-26T18:00:23.713Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:29.654Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:29.654Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a3d800bfea0819183aec5942057fe61": {
       "id": "plugin_asdk_app_6a3d800bfea0819183aec5942057fe61",
@@ -193679,7 +194024,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "乌克兰旅行与保险",
       "legacySummaryOriginal": "Ukraine travel & insurance",
@@ -193723,7 +194068,12 @@
         "reviewedAt": "2026-10-26T18:00:23.628Z",
         "translatedAt": "2026-10-26T18:00:23.628Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:31.856Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:31.856Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69d60e34d5188191b0c97f43f6fb2b01": {
       "id": "plugin_asdk_app_69d60e34d5188191b0c97f43f6fb2b01",
@@ -193736,7 +194086,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "发现导览和活动",
       "legacySummaryOriginal": "Discover tours and activities",
@@ -193780,7 +194130,12 @@
         "reviewedAt": "2026-10-26T18:00:23.699Z",
         "translatedAt": "2026-10-26T18:00:23.699Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:34.659Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:34.659Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7c19a5c0788191a8b0e8357dbc39a7": {
       "id": "plugin_asdk_app_6a7c19a5c0788191a8b0e8357dbc39a7",
@@ -193793,7 +194148,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "规划你的旅行",
       "legacySummaryOriginal": "Plan Your Trip",
@@ -193837,7 +194192,12 @@
         "reviewedAt": "2026-10-26T18:00:23.721Z",
         "translatedAt": "2026-10-26T18:00:23.721Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:36.992Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:36.992Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7303683cc48191b03414774c876c5a": {
       "id": "plugin_asdk_app_6a7303683cc48191b03414774c876c5a",
@@ -193850,7 +194210,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "你的拉斯维加斯靠谱攻略",
       "legacySummaryOriginal": "Your honest Las Vegas guide",
@@ -193894,7 +194254,12 @@
         "reviewedAt": "2026-10-26T18:00:23.773Z",
         "translatedAt": "2026-10-26T18:00:23.773Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:39.273Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:39.273Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a4c0a6c662c81919a0195f2b8eb819b": {
       "id": "plugin_asdk_app_6a4c0a6c662c81919a0195f2b8eb819b",
@@ -193907,7 +194272,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "实时地铁动态",
       "legacySummaryOriginal": "Real-time Metro Updates",
@@ -193951,7 +194316,12 @@
         "reviewedAt": "2026-10-26T18:00:23.722Z",
         "translatedAt": "2026-10-26T18:00:23.722Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:41.498Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:41.498Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a80734b4ef88191978143f47a179f5b": {
       "id": "plugin_asdk_app_6a80734b4ef88191978143f47a179f5b",
@@ -193964,7 +194334,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "阿尔巴尼亚包机与旅游价格",
       "legacySummaryOriginal": "Albania charter & tour prices",
@@ -194008,7 +194378,12 @@
         "reviewedAt": "2026-10-26T18:00:23.682Z",
         "translatedAt": "2026-10-26T18:00:23.682Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:43.853Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:43.853Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a930fda28148191a2f5a7e19daf258c": {
       "id": "plugin_asdk_app_6a930fda28148191a2f5a7e19daf258c",
@@ -194065,10 +194440,10 @@
         "reviewedAt": "2026-10-25T15:20:27.886Z",
         "translatedAt": "2026-10-25T15:20:27.886Z"
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-26T05:22:50.975Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-27T08:39:46.253Z",
       "detailError": {
-        "at": "2026-10-26T04:22:50.975Z",
+        "at": "2026-10-27T06:39:46.253Z",
         "message": "No usable official description reference"
       },
       "translationError": {
@@ -194088,7 +194463,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找旅行 eSIM 套餐",
       "legacySummaryOriginal": "Find travel eSIM plans",
@@ -194132,7 +194507,12 @@
         "reviewedAt": "2026-10-26T18:00:23.677Z",
         "translatedAt": "2026-10-26T18:00:23.677Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:49.129Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:49.129Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a883a1b6304819183119318c80ea3b4": {
       "id": "plugin_asdk_app_6a883a1b6304819183119318c80ea3b4",
@@ -194145,7 +194525,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "探索英国度假营地",
       "legacySummaryOriginal": "Explore UK holiday parks",
@@ -194189,7 +194569,12 @@
         "reviewedAt": "2026-10-26T18:00:23.694Z",
         "translatedAt": "2026-10-26T18:00:23.694Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:51.325Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:51.325Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a80877913308191bbd7ba0f4af2b4c8": {
       "id": "plugin_asdk_app_6a80877913308191bbd7ba0f4af2b4c8",
@@ -194202,7 +194587,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "PLAZA 酒店信息与预订",
       "legacySummaryOriginal": "PLAZA hotel info and booking",
@@ -194247,7 +194632,12 @@
         "reviewedAt": "2026-10-26T18:00:23.604Z",
         "translatedAt": "2026-10-26T18:00:23.604Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:53.644Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:53.644Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69fccc58e3088191a22cffe6fd5ad075": {
       "id": "plugin_asdk_app_69fccc58e3088191a22cffe6fd5ad075",
@@ -194260,7 +194650,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "认证住宿优惠",
       "legacySummaryOriginal": "Verified stay offers",
@@ -194305,7 +194695,12 @@
         "reviewedAt": "2026-10-26T18:00:23.582Z",
         "translatedAt": "2026-10-26T18:00:23.582Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:55.891Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:55.891Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a68d7b82c4c8191bf0cb464e6001d97": {
       "id": "plugin_asdk_app_6a68d7b82c4c8191bf0cb464e6001d97",
@@ -194318,7 +194713,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找组团游",
       "legacySummaryOriginal": "Find group trips",
@@ -194363,7 +194758,12 @@
         "reviewedAt": "2026-10-26T18:00:23.596Z",
         "translatedAt": "2026-10-26T18:00:23.596Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:39:58.184Z",
+      "detailError": {
+        "at": "2026-10-27T06:39:58.184Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a60dd4adc348191bf55396d33826e88": {
       "id": "plugin_asdk_app_6a60dd4adc348191bf55396d33826e88",
@@ -194376,7 +194776,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "保存并分享旅行计划",
       "legacySummaryOriginal": "Save and share trip plans",
@@ -194420,7 +194820,12 @@
         "reviewedAt": "2026-10-26T18:00:23.767Z",
         "translatedAt": "2026-10-26T18:00:23.767Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:00.428Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:00.428Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a5c9a91be788191b0cc9d4b7961ceb8": {
       "id": "plugin_asdk_app_6a5c9a91be788191b0cc9d4b7961ceb8",
@@ -194433,7 +194838,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "全球租车比价",
       "legacySummaryOriginal": "Compare car rentals worldwide",
@@ -194477,7 +194882,12 @@
         "reviewedAt": "2026-10-26T18:00:23.644Z",
         "translatedAt": "2026-10-26T18:00:23.644Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:02.819Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:02.819Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a81780cd2d08191896ba0a7759627a4": {
       "id": "plugin_asdk_app_6a81780cd2d08191896ba0a7759627a4",
@@ -194490,7 +194900,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查看现在哪些地方营业",
       "legacySummaryOriginal": "See what's open right now",
@@ -194534,7 +194944,12 @@
         "reviewedAt": "2026-10-26T18:00:23.601Z",
         "translatedAt": "2026-10-26T18:00:23.601Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:05.150Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:05.150Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69444a9938e88191962ce0bbcc7c3870": {
       "id": "plugin_asdk_app_69444a9938e88191962ce0bbcc7c3870",
@@ -194547,7 +194962,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "客房与酒店服务",
       "legacySummaryOriginal": "Rooms and hotel help",
@@ -194591,7 +195006,12 @@
         "reviewedAt": "2026-10-26T18:00:23.745Z",
         "translatedAt": "2026-10-26T18:00:23.745Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:07.528Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:07.528Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a6b14984cd08191aa17bfeca01a94bc": {
       "id": "plugin_asdk_app_6a6b14984cd08191aa17bfeca01a94bc",
@@ -194604,7 +195024,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找 eSIM 数据套餐",
       "legacySummaryOriginal": "Find eSIM data packages",
@@ -194648,7 +195068,12 @@
         "reviewedAt": "2026-10-26T18:00:23.615Z",
         "translatedAt": "2026-10-26T18:00:23.615Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:09.898Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:09.898Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69f3c652752081919a7cb5f23dd5ecad": {
       "id": "plugin_asdk_app_69f3c652752081919a7cb5f23dd5ecad",
@@ -194661,7 +195086,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找并预订 Grand 酒店",
       "legacySummaryOriginal": "Find and book Grand Hotels",
@@ -194705,7 +195130,12 @@
         "reviewedAt": "2026-10-26T18:00:23.763Z",
         "translatedAt": "2026-10-26T18:00:23.763Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:12.286Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:12.286Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69b2d36dd5cc8191b71dfd4693e15f3b": {
       "id": "plugin_asdk_app_69b2d36dd5cc8191b71dfd4693e15f3b",
@@ -194718,7 +195148,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "搜索美国巴士和火车行程",
       "legacySummaryOriginal": "Search US bus and train trips",
@@ -194762,7 +195192,12 @@
         "reviewedAt": "2026-10-26T18:00:23.775Z",
         "translatedAt": "2026-10-26T18:00:23.775Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:14.592Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:14.592Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a43e7c3b32c8191afc81bb532d69ab8": {
       "id": "plugin_asdk_app_6a43e7c3b32c8191afc81bb532d69ab8",
@@ -194775,7 +195210,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "曼谷公寓租赁助手",
       "legacySummaryOriginal": "Bangkok condo rentals Assistan",
@@ -194819,7 +195254,12 @@
         "reviewedAt": "2026-10-26T18:00:23.726Z",
         "translatedAt": "2026-10-26T18:00:23.726Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:16.912Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:16.912Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69bfb5defb8c8191afa28f7048eea579": {
       "id": "plugin_asdk_app_69bfb5defb8c8191afa28f7048eea579",
@@ -194832,7 +195272,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "旅行礼宾服务",
       "legacySummaryOriginal": "Concierge Services for Trips",
@@ -194877,7 +195317,12 @@
         "reviewedAt": "2026-10-26T18:00:23.547Z",
         "translatedAt": "2026-10-26T18:00:23.547Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:19.148Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:19.148Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69be6f6bf4b481918a2d44ce5d9a9ea9": {
       "id": "plugin_asdk_app_69be6f6bf4b481918a2d44ce5d9a9ea9",
@@ -194890,7 +195335,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找并预订现场体验活动",
       "legacySummaryOriginal": "Find & book live experiences",
@@ -194934,7 +195379,12 @@
         "reviewedAt": "2026-10-26T18:00:23.764Z",
         "translatedAt": "2026-10-26T18:00:23.764Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:22.070Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:22.070Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69b6be1b19348191b58aa6932bad1412": {
       "id": "plugin_asdk_app_69b6be1b19348191b58aa6932bad1412",
@@ -194947,7 +195397,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "你的旅行助手",
       "legacySummaryOriginal": "Your travel assistant",
@@ -194991,7 +195441,12 @@
         "reviewedAt": "2026-10-26T18:00:23.685Z",
         "translatedAt": "2026-10-26T18:00:23.685Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:24.274Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:24.274Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a4680c064b8819197ecc496f58d8097": {
       "id": "plugin_asdk_app_6a4680c064b8819197ecc496f58d8097",
@@ -195004,7 +195459,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找并预订豪华酒店",
       "legacySummaryOriginal": "Find & book luxury hotels",
@@ -195048,7 +195503,12 @@
         "reviewedAt": "2026-10-26T18:00:23.738Z",
         "translatedAt": "2026-10-26T18:00:23.738Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:26.492Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:26.492Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a6624ba17c881919b9fbc280773bb8f": {
       "id": "plugin_asdk_app_6a6624ba17c881919b9fbc280773bb8f",
@@ -195061,7 +195521,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "用 AI 更聪明地规划旅行",
       "legacySummaryOriginal": "Plan smarter trips with AI",
@@ -195105,7 +195565,12 @@
         "reviewedAt": "2026-10-26T18:00:23.780Z",
         "translatedAt": "2026-10-26T18:00:23.780Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:28.763Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:28.763Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a321b839b4081918f95971db3dc06ec": {
       "id": "plugin_asdk_app_6a321b839b4081918f95971db3dc06ec",
@@ -195118,7 +195583,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找并预订度假公园",
       "legacySummaryOriginal": "Find & book Holiday Parks",
@@ -195163,7 +195628,12 @@
         "reviewedAt": "2026-10-26T18:00:23.765Z",
         "translatedAt": "2026-10-26T18:00:23.765Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:31.006Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:31.006Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a18144985b8819192969ce2c2c01b57": {
       "id": "plugin_asdk_app_6a18144985b8819192969ce2c2c01b57",
@@ -195176,7 +195646,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "酒店信息与预订",
       "legacySummaryOriginal": "Hotel info and bookings",
@@ -195220,7 +195690,12 @@
         "reviewedAt": "2026-10-26T18:00:23.737Z",
         "translatedAt": "2026-10-26T18:00:23.737Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:33.246Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:33.246Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a5c7068518c8191b7dd711919c51a9f": {
       "id": "plugin_asdk_app_6a5c7068518c8191b7dd711919c51a9f",
@@ -195233,7 +195708,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "柏林带家具住房",
       "legacySummaryOriginal": "Furnished housing in Berlin",
@@ -195278,7 +195753,12 @@
         "reviewedAt": "2026-10-26T18:00:23.681Z",
         "translatedAt": "2026-10-26T18:00:23.681Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:35.451Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:35.451Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a61c7e71c948191bab9d249d1116458": {
       "id": "plugin_asdk_app_6a61c7e71c948191bab9d249d1116458",
@@ -195291,7 +195771,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "所有旅行，一处搞定",
       "legacySummaryOriginal": "All your trips in one place",
@@ -195335,7 +195815,12 @@
         "reviewedAt": "2026-10-26T18:00:23.767Z",
         "translatedAt": "2026-10-26T18:00:23.767Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:38.405Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:38.405Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a3eb1c694c48191a71f81680f21f486": {
       "id": "plugin_asdk_app_6a3eb1c694c48191a71f81680f21f486",
@@ -195348,7 +195833,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "从可信车主处租车",
       "legacySummaryOriginal": "Find cars from trusted hosts",
@@ -195392,7 +195877,12 @@
         "reviewedAt": "2026-10-26T18:00:23.612Z",
         "translatedAt": "2026-10-26T18:00:23.612Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:40.648Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:40.648Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69a6213ce4a8819198b21749008bc838": {
       "id": "plugin_asdk_app_69a6213ce4a8819198b21749008bc838",
@@ -195405,7 +195895,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "海滩小屋搜索与预订",
       "legacySummaryOriginal": "Beach hut search and booking",
@@ -195450,7 +195940,12 @@
         "reviewedAt": "2026-10-26T18:00:23.754Z",
         "translatedAt": "2026-10-26T18:00:23.754Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:42.962Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:42.962Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69a9503763a0819193b0d6e1544863cf": {
       "id": "plugin_asdk_app_69a9503763a0819193b0d6e1544863cf",
@@ -195463,7 +195958,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "酒店、徒步、活动、美食",
       "legacySummaryOriginal": "Hotels, hikes, events, food",
@@ -195508,7 +196003,12 @@
         "reviewedAt": "2026-10-26T18:00:23.596Z",
         "translatedAt": "2026-10-26T18:00:23.596Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:45.276Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:45.276Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7363eccc0081918443d90fde67b93c": {
       "id": "plugin_asdk_app_6a7363eccc0081918443d90fde67b93c",
@@ -195521,7 +196021,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "实测超级游艇动态",
       "legacySummaryOriginal": "Measured superyacht movement",
@@ -195565,7 +196065,12 @@
         "reviewedAt": "2026-10-26T18:00:23.766Z",
         "translatedAt": "2026-10-26T18:00:23.766Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:47.538Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:47.538Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a134fec78b0819187459a0ffc6b7e03": {
       "id": "plugin_asdk_app_6a134fec78b0819187459a0ffc6b7e03",
@@ -195578,7 +196083,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "交换房屋，花更少旅行",
       "legacySummaryOriginal": "Swap homes, travel for less",
@@ -195622,7 +196127,12 @@
         "reviewedAt": "2026-10-26T18:00:23.703Z",
         "translatedAt": "2026-10-26T18:00:23.703Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:49.794Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:49.794Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69ab179b3bcc819198d3041c504e206c": {
       "id": "plugin_asdk_app_69ab179b3bcc819198d3041c504e206c",
@@ -195635,7 +196145,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "酒店信息与实时价格",
       "legacySummaryOriginal": "Hotel Info and Live Rates",
@@ -195679,7 +196189,12 @@
         "reviewedAt": "2026-10-26T18:00:23.763Z",
         "translatedAt": "2026-10-26T18:00:23.763Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:52.009Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:52.009Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a9652bd634081918bf0661133df74f7": {
       "id": "plugin_asdk_app_6a9652bd634081918bf0661133df74f7",
@@ -195692,7 +196207,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "在苏黎世租车",
       "legacySummaryOriginal": "Rent a car in Zurich",
@@ -195737,7 +196252,12 @@
         "reviewedAt": "2026-10-26T18:00:23.671Z",
         "translatedAt": "2026-10-26T18:00:23.671Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:54.230Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:54.230Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a98926fdab081919b016b0bc29fd5f2": {
       "id": "plugin_asdk_app_6a98926fdab081919b016b0bc29fd5f2",
@@ -195750,7 +196270,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找酒店",
       "legacySummaryOriginal": "Find Hotels",
@@ -195794,7 +196314,12 @@
         "reviewedAt": "2026-10-26T18:00:23.734Z",
         "translatedAt": "2026-10-26T18:00:23.734Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:56.577Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:56.577Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a99bd594da4819190de08daa2368989": {
       "id": "plugin_asdk_app_6a99bd594da4819190de08daa2368989",
@@ -195807,7 +196332,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "航空知识与用例",
       "legacySummaryOriginal": "Aviation facts and use cases",
@@ -195851,7 +196376,12 @@
         "reviewedAt": "2026-10-26T18:00:23.528Z",
         "translatedAt": "2026-10-26T18:00:23.528Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:40:58.876Z",
+      "detailError": {
+        "at": "2026-10-27T06:40:58.876Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69f8b721487c819186183b2084d733b3": {
       "id": "plugin_asdk_app_69f8b721487c819186183b2084d733b3",
@@ -195864,7 +196394,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找佛罗伦萨酒店和导览",
       "legacySummaryOriginal": "Find Florence hotels and tours",
@@ -195908,7 +196438,12 @@
         "reviewedAt": "2026-10-26T18:00:23.600Z",
         "translatedAt": "2026-10-26T18:00:23.600Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:41:01.203Z",
+      "detailError": {
+        "at": "2026-10-27T06:41:01.203Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a77434eea1881918e59ba084442bbdb": {
       "id": "plugin_asdk_app_6a77434eea1881918e59ba084442bbdb",
@@ -195921,7 +196456,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "预订罗马尼亚酒店",
       "legacySummaryOriginal": "Book Hotels in Romania",
@@ -195965,7 +196500,12 @@
         "reviewedAt": "2026-10-26T18:00:23.611Z",
         "translatedAt": "2026-10-26T18:00:23.611Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:41:04.149Z",
+      "detailError": {
+        "at": "2026-10-27T06:41:04.149Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a9068c5f5a88191a863b3ba6816a12b": {
       "id": "plugin_asdk_app_6a9068c5f5a88191a863b3ba6816a12b",
@@ -196039,7 +196579,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "发现毛里求斯体验",
       "legacySummaryOriginal": "Find Mauritius experiences",
@@ -196083,7 +196623,12 @@
         "reviewedAt": "2026-10-26T18:00:23.550Z",
         "translatedAt": "2026-10-26T18:00:23.550Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:41:07.219Z",
+      "detailError": {
+        "at": "2026-10-27T06:41:07.219Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69abf7c33bc88191b2c8033ab41c2bb0": {
       "id": "plugin_asdk_app_69abf7c33bc88191b2c8033ab41c2bb0",
@@ -196096,7 +196641,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "阿尔卑斯滑雪场与雪况",
       "legacySummaryOriginal": "Ski resorts & snow in the Alps",
@@ -196141,7 +196686,12 @@
         "reviewedAt": "2026-10-26T18:00:23.738Z",
         "translatedAt": "2026-10-26T18:00:23.738Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:41:09.510Z",
+      "detailError": {
+        "at": "2026-10-27T06:41:09.510Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a804c772fe48191ba286c9421e2e13d": {
       "id": "plugin_asdk_app_6a804c772fe48191ba286c9421e2e13d",
@@ -196154,7 +196704,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "规划你的下一次飞行",
       "legacySummaryOriginal": "Plan your next flight.",
@@ -196198,7 +196748,12 @@
         "reviewedAt": "2026-10-26T18:00:23.732Z",
         "translatedAt": "2026-10-26T18:00:23.732Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:41:11.896Z",
+      "detailError": {
+        "at": "2026-10-27T06:41:11.896Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7857ebf7c48191938b9913983b4f5b": {
       "id": "plugin_asdk_app_6a7857ebf7c48191938b9913983b4f5b",
@@ -196211,7 +196766,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "172 个国家的签证信息",
       "legacySummaryOriginal": "Visa info for 172 countries",
@@ -196255,7 +196810,12 @@
         "reviewedAt": "2026-10-26T18:00:23.630Z",
         "translatedAt": "2026-10-26T18:00:23.630Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:41:14.219Z",
+      "detailError": {
+        "at": "2026-10-27T06:41:14.219Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a4cf1bf7b388191bab5eccca0fe3412": {
       "id": "plugin_asdk_app_6a4cf1bf7b388191bab5eccca0fe3412",
@@ -196268,7 +196828,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "AI 旅行规划师",
       "legacySummaryOriginal": "AI travel planner",
@@ -196312,7 +196872,12 @@
         "reviewedAt": "2026-10-26T18:00:23.768Z",
         "translatedAt": "2026-10-26T18:00:23.768Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:41:16.540Z",
+      "detailError": {
+        "at": "2026-10-27T06:41:16.540Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_697b9790a2c481918af9c72439f29974": {
       "id": "plugin_asdk_app_697b9790a2c481918af9c72439f29974",
@@ -196325,7 +196890,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "预订 SeaclubAlcudia 公寓",
       "legacySummaryOriginal": "Book SeaclubAlcudia apartments",
@@ -196369,7 +196934,12 @@
         "reviewedAt": "2026-10-26T18:00:23.748Z",
         "translatedAt": "2026-10-26T18:00:23.748Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:41:18.767Z",
+      "detailError": {
+        "at": "2026-10-27T06:41:18.767Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a9d6c8407688191a0080437b71b1314": {
       "id": "plugin_asdk_app_6a9d6c8407688191a0080437b71b1314",
@@ -196382,7 +196952,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找导览和活动",
       "legacySummaryOriginal": "Find tours and activities",
@@ -196426,7 +196996,12 @@
         "reviewedAt": "2026-10-26T18:00:23.563Z",
         "translatedAt": "2026-10-26T18:00:23.563Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:41:21.599Z",
+      "detailError": {
+        "at": "2026-10-27T06:41:21.599Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a3e6ff9a3c881918eb30084199a39ec": {
       "id": "plugin_asdk_app_6a3e6ff9a3c881918eb30084199a39ec",
@@ -196439,7 +197014,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "契合你行程的预订",
       "legacySummaryOriginal": "Bookings that fit your plan",
@@ -196484,7 +197059,12 @@
         "reviewedAt": "2026-10-26T18:00:23.695Z",
         "translatedAt": "2026-10-26T18:00:23.695Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:41:23.901Z",
+      "detailError": {
+        "at": "2026-10-27T06:41:23.901Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a73a975cdd08191b274cb56cef4ef95": {
       "id": "plugin_asdk_app_6a73a975cdd08191b274cb56cef4ef95",
@@ -196497,7 +197077,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "规划并管理团体旅行",
       "legacySummaryOriginal": "Plan and manage group trips",
@@ -196541,7 +197121,12 @@
         "reviewedAt": "2026-10-26T18:00:23.707Z",
         "translatedAt": "2026-10-26T18:00:23.707Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:41:26.212Z",
+      "detailError": {
+        "at": "2026-10-27T06:41:26.212Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7eccb6c5e081919b6f08b79d56dd17": {
       "id": "plugin_asdk_app_6a7eccb6c5e081919b6f08b79d56dd17",
@@ -196554,7 +197139,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "免费导览与当地活动",
       "legacySummaryOriginal": "Free tours & local activities",
@@ -196598,7 +197183,12 @@
         "reviewedAt": "2026-10-26T18:00:23.685Z",
         "translatedAt": "2026-10-26T18:00:23.685Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:41:28.676Z",
+      "detailError": {
+        "at": "2026-10-27T06:41:28.676Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a99683fabd08191b5e800d86059be61": {
       "id": "plugin_asdk_app_6a99683fabd08191b5e800d86059be61",
@@ -196611,7 +197201,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "规划极光观赏之旅",
       "legacySummaryOriginal": "Plan northern lights viewing",
@@ -196655,7 +197245,12 @@
         "reviewedAt": "2026-10-26T18:00:23.529Z",
         "translatedAt": "2026-10-26T18:00:23.529Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:41:30.962Z",
+      "detailError": {
+        "at": "2026-10-27T06:41:30.962Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8b1999d59081918258eb15474fcf6f": {
       "id": "plugin_asdk_app_6a8b1999d59081918258eb15474fcf6f",
@@ -196668,7 +197263,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "旅行报价与方案",
       "legacySummaryOriginal": "Cotiza viajes y propuestas",
@@ -196712,7 +197307,12 @@
         "reviewedAt": "2026-10-26T18:00:23.656Z",
         "translatedAt": "2026-10-26T18:00:23.656Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:41:33.262Z",
+      "detailError": {
+        "at": "2026-10-27T06:41:33.262Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a44b072a4c08191848bdf26849cc873": {
       "id": "plugin_asdk_app_6a44b072a4c08191848bdf26849cc873",
@@ -196725,7 +197325,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "比较旅行保险",
       "legacySummaryOriginal": "Compare travel insurance",
@@ -196769,7 +197369,12 @@
         "reviewedAt": "2026-10-26T18:00:23.775Z",
         "translatedAt": "2026-10-26T18:00:23.775Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:41:35.512Z",
+      "detailError": {
+        "at": "2026-10-27T06:41:35.512Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a4d274a6c5c81918a53014f6c3adf28": {
       "id": "plugin_asdk_app_6a4d274a6c5c81918a53014f6c3adf28",
@@ -196782,7 +197387,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "用加密货币购买旅行 eSIM",
       "legacySummaryOriginal": "Buy travel eSIMs with crypto",
@@ -196826,7 +197431,12 @@
         "reviewedAt": "2026-10-26T18:00:23.555Z",
         "translatedAt": "2026-10-26T18:00:23.555Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:41:37.812Z",
+      "detailError": {
+        "at": "2026-10-27T06:41:37.812Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a92ab4fdff48191b99587390e275a3e": {
       "id": "plugin_asdk_app_6a92ab4fdff48191b99587390e275a3e",
@@ -196839,7 +197449,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找酒店和机票",
       "legacySummaryOriginal": "Find hotels and flights",
@@ -196883,7 +197493,12 @@
         "reviewedAt": "2026-10-26T18:00:23.749Z",
         "translatedAt": "2026-10-26T18:00:23.749Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:41:40.122Z",
+      "detailError": {
+        "at": "2026-10-27T06:41:40.122Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69fc404b8f3c819193731d9ef5b48e82": {
       "id": "plugin_asdk_app_69fc404b8f3c819193731d9ef5b48e82",
@@ -196896,7 +197511,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "发现你的下一个爱好",
       "legacySummaryOriginal": "Discover your next hobby",
@@ -196940,7 +197555,12 @@
         "reviewedAt": "2026-10-26T18:00:23.685Z",
         "translatedAt": "2026-10-26T18:00:23.685Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:41:42.374Z",
+      "detailError": {
+        "at": "2026-10-27T06:41:42.374Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8579d315f88191a6ed463a361f98dc": {
       "id": "plugin_asdk_app_6a8579d315f88191a6ed463a361f98dc",
@@ -412958,23 +413578,23 @@
     "runId": "40448357028",
     "runAttempt": "1",
     "startedAt": "2026-10-27T04:12:04.753Z",
-    "updatedAt": "2026-10-27T06:36:39.338Z",
+    "updatedAt": "2026-10-27T06:41:42.464Z",
     "mode": "incremental",
-    "detailRequests": 3454,
+    "detailRequests": 3580,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
     "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 3454,
+    "errors": 3580,
     "stats": {
       "total": 5242,
       "details": 4957,
       "translated": 4856,
       "missing": 30,
       "removed": 326,
-      "pendingDetails": 3525,
+      "pendingDetails": 3649,
       "pendingTranslations": 386
     }
   }
