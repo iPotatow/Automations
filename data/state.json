@@ -166309,7 +166309,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "实时账单智能",
       "legacySummaryOriginal": "Live billing intelligence",
@@ -166354,7 +166354,12 @@
         "reviewedAt": "2026-10-26T18:00:23.788Z",
         "translatedAt": "2026-10-26T18:00:23.788Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:21:30.082Z",
+      "detailError": {
+        "at": "2026-10-27T06:21:30.082Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a82749917308191990c61d286c3b429": {
       "id": "plugin_asdk_app_6a82749917308191990c61d286c3b429",
@@ -166367,7 +166372,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "面向 AI 的金融数据",
       "legacySummaryOriginal": "Financial data for AI",
@@ -166411,7 +166416,12 @@
         "reviewedAt": "2026-10-26T18:00:23.805Z",
         "translatedAt": "2026-10-26T18:00:23.805Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:21:32.521Z",
+      "detailError": {
+        "at": "2026-10-27T06:21:32.521Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a3ed75340f481918077b38ed53f59d8": {
       "id": "plugin_asdk_app_6a3ed75340f481918077b38ed53f59d8",
@@ -166424,7 +166434,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "税务研究资料",
       "legacySummaryOriginal": "Tax research sources",
@@ -166468,7 +166478,12 @@
         "reviewedAt": "2026-10-26T18:00:23.808Z",
         "translatedAt": "2026-10-26T18:00:23.808Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:21:34.785Z",
+      "detailError": {
+        "at": "2026-10-27T06:21:34.785Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a0d7e6523848191aa2a5f9e69dec22a": {
       "id": "plugin_asdk_app_6a0d7e6523848191aa2a5f9e69dec22a",
@@ -166481,7 +166496,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "即时付款洞察",
       "legacySummaryOriginal": "Payment insights, instantly.",
@@ -166525,7 +166540,12 @@
         "reviewedAt": "2026-10-26T18:00:23.805Z",
         "translatedAt": "2026-10-26T18:00:23.805Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:21:37.224Z",
+      "detailError": {
+        "at": "2026-10-27T06:21:37.224Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a34e478dc388191a81772d12ef02776": {
       "id": "plugin_asdk_app_6a34e478dc388191a81772d12ef02776",
@@ -166538,7 +166558,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "宠物保险报价",
       "legacySummaryOriginal": "Pet insurance quotes",
@@ -166582,7 +166602,12 @@
         "reviewedAt": "2026-10-26T18:00:23.789Z",
         "translatedAt": "2026-10-26T18:00:23.789Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:21:40.176Z",
+      "detailError": {
+        "at": "2026-10-27T06:21:40.176Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a6aca6d7a308191997f80eb52d586f9": {
       "id": "plugin_asdk_app_6a6aca6d7a308191997f80eb52d586f9",
@@ -166595,7 +166620,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "记录租赁参与时长",
       "legacySummaryOriginal": "Log rental participation hours",
@@ -166639,7 +166664,12 @@
         "reviewedAt": "2026-10-26T18:00:23.796Z",
         "translatedAt": "2026-10-26T18:00:23.796Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:21:42.596Z",
+      "detailError": {
+        "at": "2026-10-27T06:21:42.596Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a54e5d1fbe881919eddaddb1b77f2e6": {
       "id": "plugin_asdk_app_6a54e5d1fbe881919eddaddb1b77f2e6",
@@ -166652,7 +166682,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查询公开信贷协议",
       "legacySummaryOriginal": "Query public credit agreements",
@@ -166696,7 +166726,12 @@
         "reviewedAt": "2026-10-26T18:00:23.795Z",
         "translatedAt": "2026-10-26T18:00:23.795Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:21:44.818Z",
+      "detailError": {
+        "at": "2026-10-27T06:21:44.818Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a2a70767b648191b5f0200bebd434ac": {
       "id": "plugin_asdk_app_6a2a70767b648191b5f0200bebd434ac",
@@ -166751,10 +166786,10 @@
           "total_tokens": 1644
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-26T05:22:25.620Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-27T08:21:47.713Z",
       "detailError": {
-        "at": "2026-10-26T04:22:25.620Z",
+        "at": "2026-10-27T06:21:47.713Z",
         "message": "No usable official description reference"
       }
     },
@@ -166769,7 +166804,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找最佳保险科技方案",
       "legacySummaryOriginal": "Find best InsurTech Solutions",
@@ -166813,7 +166848,12 @@
         "reviewedAt": "2026-10-26T18:00:23.541Z",
         "translatedAt": "2026-10-26T18:00:23.541Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:21:50.543Z",
+      "detailError": {
+        "at": "2026-10-27T06:21:50.543Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8fc5639bb88191a76a294a337dade2": {
       "id": "plugin_asdk_app_6a8fc5639bb88191a76a294a337dade2",
@@ -166826,7 +166866,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "金融与经济数据",
       "legacySummaryOriginal": "Financial and economic data",
@@ -166870,7 +166910,12 @@
         "reviewedAt": "2026-10-26T18:00:23.801Z",
         "translatedAt": "2026-10-26T18:00:23.801Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:21:53.426Z",
+      "detailError": {
+        "at": "2026-10-27T06:21:53.426Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a93ecdaa1b481919cdedd0f40f67961": {
       "id": "plugin_asdk_app_6a93ecdaa1b481919cdedd0f40f67961",
@@ -166883,7 +166928,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "外汇对冲比率与分析",
       "legacySummaryOriginal": "FX hedge ratios and analytics",
@@ -166927,7 +166972,12 @@
         "reviewedAt": "2026-10-26T18:00:23.808Z",
         "translatedAt": "2026-10-26T18:00:23.808Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:21:55.820Z",
+      "detailError": {
+        "at": "2026-10-27T06:21:55.820Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a21d188c1788191893deb2d369a4aed": {
       "id": "plugin_asdk_app_6a21d188c1788191893deb2d369a4aed",
@@ -166940,7 +166990,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "追踪净资产与现金流",
       "legacySummaryOriginal": "Track net worth and cash flow",
@@ -166984,7 +167034,12 @@
         "reviewedAt": "2026-10-26T18:00:23.530Z",
         "translatedAt": "2026-10-26T18:00:23.530Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:21:58.138Z",
+      "detailError": {
+        "at": "2026-10-27T06:21:58.138Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69b99bd669a481919598a5495d38a0f7": {
       "id": "plugin_asdk_app_69b99bd669a481919598a5495d38a0f7",
@@ -166997,7 +167052,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "在 ChatGPT 中管理你的财务",
       "legacySummaryOriginal": "Your finances in ChatGPT",
@@ -167041,7 +167096,12 @@
         "reviewedAt": "2026-10-26T18:00:23.548Z",
         "translatedAt": "2026-10-26T18:00:23.548Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:00.500Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:00.500Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7ec3b6436c819191db0b641cf721f6": {
       "id": "plugin_asdk_app_6a7ec3b6436c819191db0b641cf721f6",
@@ -167054,7 +167114,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "在对话中分摊团体支出",
       "legacySummaryOriginal": "Split group expenses in chat",
@@ -167098,7 +167158,12 @@
         "reviewedAt": "2026-10-26T18:00:23.792Z",
         "translatedAt": "2026-10-26T18:00:23.792Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:03.392Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:03.392Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6969904c19c081919b69a4354e619266": {
       "id": "plugin_asdk_app_6969904c19c081919b69a4354e619266",
@@ -167111,7 +167176,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "独立定价参考",
       "legacySummaryOriginal": "Independent Pricing Reference",
@@ -167156,7 +167221,12 @@
         "reviewedAt": "2026-10-26T18:00:23.800Z",
         "translatedAt": "2026-10-26T18:00:23.800Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:05.781Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:05.781Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a63adc4b1cc81919da70e038220f5eb": {
       "id": "plugin_asdk_app_6a63adc4b1cc81919da70e038220f5eb",
@@ -167169,7 +167239,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "惠誉信用情报",
       "legacySummaryOriginal": "Fitch credit intelligence",
@@ -167213,7 +167283,12 @@
         "reviewedAt": "2026-10-26T18:00:23.792Z",
         "translatedAt": "2026-10-26T18:00:23.792Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:08.013Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:08.013Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8f6d7d50d081918787990d4cab45ca": {
       "id": "plugin_asdk_app_6a8f6d7d50d081918787990d4cab45ca",
@@ -167226,7 +167301,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "SEC 申报知识图谱",
       "legacySummaryOriginal": "SEC filings knowledge graph",
@@ -167270,7 +167345,12 @@
         "reviewedAt": "2026-10-26T18:00:23.790Z",
         "translatedAt": "2026-10-26T18:00:23.790Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:10.395Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:10.395Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a759c48164c81918e5f7ae693e9cb07": {
       "id": "plugin_asdk_app_6a759c48164c81918e5f7ae693e9cb07",
@@ -167283,7 +167363,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "与付款数据交互",
       "legacySummaryOriginal": "Interact with payment data",
@@ -167327,7 +167407,12 @@
         "reviewedAt": "2026-10-26T18:00:23.793Z",
         "translatedAt": "2026-10-26T18:00:23.793Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:13.248Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:13.248Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a95f1295f7c819193d4e0f73131ae7b": {
       "id": "plugin_asdk_app_6a95f1295f7c819193d4e0f73131ae7b",
@@ -167340,7 +167425,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "管理财务运营",
       "legacySummaryOriginal": "Manage financial operations",
@@ -167384,7 +167469,12 @@
         "reviewedAt": "2026-10-26T18:00:23.797Z",
         "translatedAt": "2026-10-26T18:00:23.797Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:16.093Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:16.093Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a6b2569fa948191bcf8ca95a451d351": {
       "id": "plugin_asdk_app_6a6b2569fa948191bcf8ca95a451d351",
@@ -167397,7 +167487,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "与 Embat 对话",
       "legacySummaryOriginal": "Chat with Embat",
@@ -167441,7 +167531,12 @@
         "reviewedAt": "2026-10-26T18:00:23.797Z",
         "translatedAt": "2026-10-26T18:00:23.797Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:18.321Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:18.321Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69fbbad7130481918f59b8a36873edb2": {
       "id": "plugin_asdk_app_69fbbad7130481918f59b8a36873edb2",
@@ -167454,7 +167549,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "主题投资数据",
       "legacySummaryOriginal": "Thematic investing data",
@@ -167498,7 +167593,12 @@
         "reviewedAt": "2026-10-26T18:00:23.534Z",
         "translatedAt": "2026-10-26T18:00:23.534Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:21.173Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:21.173Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a3cdf9e34b881918505f1cd5e06dbd8": {
       "id": "plugin_asdk_app_6a3cdf9e34b881918505f1cd5e06dbd8",
@@ -167511,7 +167611,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "多资产模拟交易",
       "legacySummaryOriginal": "Multi-asset simulated trading",
@@ -167555,7 +167655,12 @@
         "reviewedAt": "2026-10-26T18:00:23.786Z",
         "translatedAt": "2026-10-26T18:00:23.786Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:23.472Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:23.472Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a9343158e5881918928f6204efe902f": {
       "id": "plugin_asdk_app_6a9343158e5881918928f6204efe902f",
@@ -167568,7 +167673,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "授权的个人与企业财务服务",
       "legacySummaryOriginal": "Finanças PF e PJ autorizadas",
@@ -167612,7 +167717,12 @@
         "reviewedAt": "2026-10-26T18:00:23.789Z",
         "translatedAt": "2026-10-26T18:00:23.789Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:25.843Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:25.843Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a78805811a4819183bf039fd4415524": {
       "id": "plugin_asdk_app_6a78805811a4819183bf039fd4415524",
@@ -167625,7 +167735,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "在 ChatGPT 中处理瑞典会计",
       "legacySummaryOriginal": "Swedish accounting in ChatGPT",
@@ -167674,7 +167784,12 @@
           "total_tokens": 2196
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:28.090Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:28.090Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a3400e6f6548191896791fc84c02b85": {
       "id": "plugin_asdk_app_6a3400e6f6548191896791fc84c02b85",
@@ -167687,7 +167802,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "咨询你的应收账款组合",
       "legacySummaryOriginal": "Ask your AR portfolio anything",
@@ -167731,7 +167846,12 @@
         "reviewedAt": "2026-10-26T18:00:23.797Z",
         "translatedAt": "2026-10-26T18:00:23.797Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:30.346Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:30.346Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aa9789071f4819194e9d6b32448a768": {
       "id": "plugin_asdk_app_6aa9789071f4819194e9d6b32448a768",
@@ -167744,7 +167864,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "研究税务问题",
       "legacySummaryOriginal": "Research tax questions",
@@ -167788,7 +167908,12 @@
         "reviewedAt": "2026-10-26T18:00:23.806Z",
         "translatedAt": "2026-10-26T18:00:23.806Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:32.689Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:32.689Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a84a2b67b2c81918fa5a978f052d64a": {
       "id": "plugin_asdk_app_6a84a2b67b2c81918fa5a978f052d64a",
@@ -167801,7 +167926,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "比利时年度账目",
       "legacySummaryOriginal": "Belgian Annual Accounts",
@@ -167845,7 +167970,12 @@
         "reviewedAt": "2026-10-26T18:00:23.810Z",
         "translatedAt": "2026-10-26T18:00:23.810Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:34.970Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:34.970Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a3268a565708191a510772ab46b09f4": {
       "id": "plugin_asdk_app_6a3268a565708191a510772ab46b09f4",
@@ -167858,7 +167988,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "非财务风险分析",
       "legacySummaryOriginal": "Extra-financial risk analysis",
@@ -167895,7 +168025,12 @@
         "reviewedAt": "2026-10-26T18:00:23.797Z",
         "translatedAt": "2026-10-26T18:00:23.797Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:37.451Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:37.451Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a836c713d00819193b936f0ea9abf1f": {
       "id": "plugin_asdk_app_6a836c713d00819193b936f0ea9abf1f",
@@ -167908,7 +168043,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "账户与市场数据访问",
       "legacySummaryOriginal": "Account & market data access",
@@ -167952,7 +168087,12 @@
         "reviewedAt": "2026-10-26T18:00:23.808Z",
         "translatedAt": "2026-10-26T18:00:23.808Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:39.711Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:39.711Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a750a14f2d08191944bf8cd02ce7c9d": {
       "id": "plugin_asdk_app_6a750a14f2d08191944bf8cd02ce7c9d",
@@ -167965,7 +168105,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "读市场，查组合",
       "legacySummaryOriginal": "Read markets, check portfolio",
@@ -168010,7 +168150,12 @@
         "reviewedAt": "2026-10-26T18:00:23.803Z",
         "translatedAt": "2026-10-26T18:00:23.803Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:42.090Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:42.090Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a02b48d1de881918c31e6339cba0db6": {
       "id": "plugin_asdk_app_6a02b48d1de881918c31e6339cba0db6",
@@ -168023,7 +168168,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "访问你的 Inkle 财务数据",
       "legacySummaryOriginal": "Access your Inkle finance data",
@@ -168067,7 +168212,12 @@
         "reviewedAt": "2026-10-26T18:00:23.789Z",
         "translatedAt": "2026-10-26T18:00:23.789Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:44.554Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:44.554Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aa751cb02ec8191bc9e22d48ba9789f": {
       "id": "plugin_asdk_app_6aa751cb02ec8191bc9e22d48ba9789f",
@@ -168080,7 +168230,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "探索链上数据",
       "legacySummaryOriginal": "Explore onchain data",
@@ -168124,7 +168274,12 @@
         "reviewedAt": "2026-10-26T18:00:23.796Z",
         "translatedAt": "2026-10-26T18:00:23.796Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:46.852Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:46.852Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a6b939d655c81918c6000c5ae60a461": {
       "id": "plugin_asdk_app_6a6b939d655c81918c6000c5ae60a461",
@@ -168137,7 +168292,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "追踪 B2B 发票与营收",
       "legacySummaryOriginal": "Track B2B invoices and revenue",
@@ -168182,7 +168337,12 @@
         "reviewedAt": "2026-10-26T18:00:23.797Z",
         "translatedAt": "2026-10-26T18:00:23.797Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:49.720Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:49.720Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69b45fd1db18819184ef8165b4b8badc": {
       "id": "plugin_asdk_app_69b45fd1db18819184ef8165b4b8badc",
@@ -168195,7 +168355,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "自然灾害风险评分",
       "legacySummaryOriginal": "Score natural catastrophe risk",
@@ -168239,7 +168399,12 @@
         "reviewedAt": "2026-10-26T18:00:23.809Z",
         "translatedAt": "2026-10-26T18:00:23.809Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:52.548Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:52.548Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7a2ca04a9c8191bbe0cbb69fce2c95": {
       "id": "plugin_asdk_app_6a7a2ca04a9c8191bbe0cbb69fce2c95",
@@ -168252,7 +168417,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "AI 算力市场数据",
       "legacySummaryOriginal": "AI compute market data",
@@ -168296,7 +168461,12 @@
         "reviewedAt": "2026-10-26T18:00:23.800Z",
         "translatedAt": "2026-10-26T18:00:23.800Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:54.942Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:54.942Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69ca0ccd449c8191b0c839836a75b5f0": {
       "id": "plugin_asdk_app_69ca0ccd449c8191b0c839836a75b5f0",
@@ -168309,7 +168479,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "金融 MCP 集成",
       "legacySummaryOriginal": "Financial MCP integration",
@@ -168353,7 +168523,12 @@
         "reviewedAt": "2026-10-26T18:00:23.797Z",
         "translatedAt": "2026-10-26T18:00:23.797Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:22:57.328Z",
+      "detailError": {
+        "at": "2026-10-27T06:22:57.328Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a92f0e4b59481919e4623c62221f5ff": {
       "id": "plugin_asdk_app_6a92f0e4b59481919e4623c62221f5ff",
@@ -168366,7 +168541,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "SPX 市场简报",
       "legacySummaryOriginal": "SPX Market briefs",
@@ -168410,7 +168585,12 @@
         "reviewedAt": "2026-10-26T18:00:23.805Z",
         "translatedAt": "2026-10-26T18:00:23.805Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:00.250Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:00.250Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8bf112e4ac8191b712aab274d63811": {
       "id": "plugin_asdk_app_6a8bf112e4ac8191b712aab274d63811",
@@ -168423,7 +168603,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "找到合适的信用卡",
       "legacySummaryOriginal": "Find the right credit card",
@@ -168467,7 +168647,12 @@
         "reviewedAt": "2026-10-26T18:00:23.792Z",
         "translatedAt": "2026-10-26T18:00:23.792Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:02.637Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:02.637Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a27f98ad7288191ba56292ee6ed8ca6": {
       "id": "plugin_asdk_app_6a27f98ad7288191ba56292ee6ed8ca6",
@@ -168480,7 +168665,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "读取 Donorbox 筹款数据",
       "legacySummaryOriginal": "Read Donorbox fundraising data",
@@ -168524,7 +168709,12 @@
         "reviewedAt": "2026-10-26T18:00:23.801Z",
         "translatedAt": "2026-10-26T18:00:23.801Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:05.072Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:05.072Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a9166b0615481919fc2f322a495c22a": {
       "id": "plugin_asdk_app_6a9166b0615481919fc2f322a495c22a",
@@ -168537,7 +168727,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "获得理想融资",
       "legacySummaryOriginal": "Get to your ideal financing",
@@ -168581,7 +168771,12 @@
         "reviewedAt": "2026-10-26T18:00:23.791Z",
         "translatedAt": "2026-10-26T18:00:23.791Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:07.421Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:07.421Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aaa96b337e8819185fefe6fdebb3993": {
       "id": "plugin_asdk_app_6aaa96b337e8819185fefe6fdebb3993",
@@ -168594,7 +168789,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "交易备忘与尽调",
       "legacySummaryOriginal": "Deal memos and diligence",
@@ -168638,7 +168833,12 @@
         "reviewedAt": "2026-10-26T18:00:23.788Z",
         "translatedAt": "2026-10-26T18:00:23.788Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:09.905Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:09.905Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69fe24533030819186a6624874f9e7e6": {
       "id": "plugin_asdk_app_69fe24533030819186a6624874f9e7e6",
@@ -168709,7 +168909,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "了解发薪日前可安全支出的金额",
       "legacySummaryOriginal": "Know What’s Safe Until Payday",
@@ -168753,7 +168953,12 @@
         "reviewedAt": "2026-10-26T18:00:23.809Z",
         "translatedAt": "2026-10-26T18:00:23.809Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:12.271Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:12.271Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a70c79464c881919d350bce52de05b7": {
       "id": "plugin_asdk_app_6a70c79464c881919d350bce52de05b7",
@@ -168766,7 +168971,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "基金管理的未来",
       "legacySummaryOriginal": "The future of fund admin",
@@ -168810,7 +169015,12 @@
         "reviewedAt": "2026-10-26T18:00:23.789Z",
         "translatedAt": "2026-10-26T18:00:23.789Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:14.624Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:14.624Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a9aada63a6c8191a4f43135ad107ea7": {
       "id": "plugin_asdk_app_6a9aada63a6c8191a4f43135ad107ea7",
@@ -168823,7 +169033,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找最佳利率",
       "legacySummaryOriginal": "Find the Best Rates",
@@ -168867,7 +169077,12 @@
         "reviewedAt": "2026-10-26T18:00:23.793Z",
         "translatedAt": "2026-10-26T18:00:23.793Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:16.903Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:16.903Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8c141fde0481918deb107e93d5bb2e": {
       "id": "plugin_asdk_app_6a8c141fde0481918deb107e93d5bb2e",
@@ -168880,7 +169095,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "研究瑞士税法",
       "legacySummaryOriginal": "Research Swiss tax law",
@@ -168924,7 +169139,12 @@
         "reviewedAt": "2026-10-26T18:00:23.795Z",
         "translatedAt": "2026-10-26T18:00:23.795Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:19.306Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:19.306Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69fc99c0a7488191ab6298f35a376d87": {
       "id": "plugin_asdk_app_69fc99c0a7488191ab6298f35a376d87",
@@ -168937,7 +169157,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "值得信赖的金融 API",
       "legacySummaryOriginal": "Financial API you can rely on.",
@@ -168981,7 +169201,12 @@
         "reviewedAt": "2026-10-26T18:00:23.810Z",
         "translatedAt": "2026-10-26T18:00:23.810Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:22.157Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:22.157Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6973331cf07c8191990ca9fa4ce087aa": {
       "id": "plugin_asdk_app_6973331cf07c8191990ca9fa4ce087aa",
@@ -168994,7 +169219,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "可视化金融数据",
       "legacySummaryOriginal": "Visualize financial data",
@@ -169038,7 +169263,12 @@
         "reviewedAt": "2026-10-26T18:00:23.809Z",
         "translatedAt": "2026-10-26T18:00:23.809Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:25.032Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:25.032Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aa03661b75081919cdbc461bf411a4e": {
       "id": "plugin_asdk_app_6aa03661b75081919cdbc461bf411a4e",
@@ -169051,7 +169281,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "挑选最佳里程卡",
       "legacySummaryOriginal": "Pick the best miles card",
@@ -169095,7 +169325,12 @@
         "reviewedAt": "2026-10-26T18:00:23.793Z",
         "translatedAt": "2026-10-26T18:00:23.793Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:27.412Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:27.412Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a9fee8ce4588191acea4720ab18c3dd": {
       "id": "plugin_asdk_app_6a9fee8ce4588191acea4720ab18c3dd",
@@ -169108,7 +169343,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "检查并验证付款",
       "legacySummaryOriginal": "Inspect and verify payments",
@@ -169152,7 +169387,12 @@
         "reviewedAt": "2026-10-26T18:00:23.801Z",
         "translatedAt": "2026-10-26T18:00:23.801Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:29.793Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:29.793Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a9df3499f3c81919afa02188ec34f69": {
       "id": "plugin_asdk_app_6a9df3499f3c81919afa02188ec34f69",
@@ -169165,7 +169405,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "巴西公司财务数据",
       "legacySummaryOriginal": "Brazilian company financials",
@@ -169209,7 +169449,12 @@
         "reviewedAt": "2026-10-26T18:00:23.796Z",
         "translatedAt": "2026-10-26T18:00:23.796Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:33.627Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:33.627Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a3cdfb4752881919706186aa2e413e1": {
       "id": "plugin_asdk_app_6a3cdfb4752881919706186aa2e413e1",
@@ -169222,7 +169467,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "监控持仓与市场",
       "legacySummaryOriginal": "Monitor positions and markets",
@@ -169266,7 +169511,12 @@
         "reviewedAt": "2026-10-26T18:00:23.788Z",
         "translatedAt": "2026-10-26T18:00:23.788Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:35.948Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:35.948Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8b989b7f9c8191916e1095e3e8a96c": {
       "id": "plugin_asdk_app_6a8b989b7f9c8191916e1095e3e8a96c",
@@ -169279,7 +169529,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找并记录收据",
       "legacySummaryOriginal": "Find and log receipts",
@@ -169324,7 +169574,12 @@
         "reviewedAt": "2026-10-26T18:00:23.793Z",
         "translatedAt": "2026-10-26T18:00:23.793Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:38.269Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:38.269Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69b4689c253c8191ad148046085ed8e1": {
       "id": "plugin_asdk_app_69b4689c253c8191ad148046085ed8e1",
@@ -169337,7 +169592,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "获取车险报价",
       "legacySummaryOriginal": "Get auto insurance quotes",
@@ -169381,7 +169636,12 @@
         "reviewedAt": "2026-10-26T18:00:23.789Z",
         "translatedAt": "2026-10-26T18:00:23.789Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:40.571Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:40.571Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_696bbc71ebc8819182c53f5cd825f6e6": {
       "id": "plugin_asdk_app_696bbc71ebc8819182c53f5cd825f6e6",
@@ -169394,7 +169654,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "与你的资金对话",
       "legacySummaryOriginal": "Talk to your money",
@@ -169438,7 +169698,12 @@
         "reviewedAt": "2026-10-26T18:00:23.804Z",
         "translatedAt": "2026-10-26T18:00:23.804Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:42.921Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:42.921Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69fe0111610c8191981d05dd6a349820": {
       "id": "plugin_asdk_app_69fe0111610c8191981d05dd6a349820",
@@ -169451,7 +169716,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "访问你的 OnePay 账户",
       "legacySummaryOriginal": "Access your OnePay accounts",
@@ -169495,7 +169760,12 @@
         "reviewedAt": "2026-10-26T18:00:23.804Z",
         "translatedAt": "2026-10-26T18:00:23.804Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:45.742Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:45.742Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a73566fc6a48191b2fc45a03e6dd822": {
       "id": "plugin_asdk_app_6a73566fc6a48191b2fc45a03e6dd822",
@@ -169508,7 +169778,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "订阅分析",
       "legacySummaryOriginal": "Subscription analytics",
@@ -169552,7 +169822,12 @@
         "reviewedAt": "2026-10-26T18:00:23.804Z",
         "translatedAt": "2026-10-26T18:00:23.804Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:48.615Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:48.615Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8595b7f75c8191abe945fad7ea8349": {
       "id": "plugin_asdk_app_6a8595b7f75c8191abe945fad7ea8349",
@@ -169565,7 +169840,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "比较汇款应用",
       "legacySummaryOriginal": "Compare money transfer apps",
@@ -169609,7 +169884,12 @@
         "reviewedAt": "2026-10-26T18:00:23.805Z",
         "translatedAt": "2026-10-26T18:00:23.805Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:50.875Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:50.875Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aafe16842708191acfb93d90c9474c3": {
       "id": "plugin_asdk_app_6aafe16842708191acfb93d90c9474c3",
@@ -169622,7 +169902,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "由 OneMoreDoor Capital 提供",
       "legacySummaryOriginal": "by OneMoreDoor Capital",
@@ -169666,7 +169946,12 @@
         "reviewedAt": "2026-10-26T18:00:23.804Z",
         "translatedAt": "2026-10-26T18:00:23.804Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:53.766Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:53.766Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8d45095be481919e982519da1f09aa": {
       "id": "plugin_asdk_app_6a8d45095be481919e982519da1f09aa",
@@ -169679,7 +169964,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "TKYB 公开信息",
       "legacySummaryOriginal": "Public TKYB Information",
@@ -169723,7 +170008,12 @@
         "reviewedAt": "2026-10-26T18:00:23.788Z",
         "translatedAt": "2026-10-26T18:00:23.788Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:55.987Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:55.987Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a903582749c81918a70aeef2acfadbd": {
       "id": "plugin_asdk_app_6a903582749c81918a70aeef2acfadbd",
@@ -169736,7 +170026,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "比较英国宽带套餐",
       "legacySummaryOriginal": "Compare UK broadband deals",
@@ -169780,7 +170070,12 @@
         "reviewedAt": "2026-10-26T18:00:23.791Z",
         "translatedAt": "2026-10-26T18:00:23.791Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:23:58.427Z",
+      "detailError": {
+        "at": "2026-10-27T06:23:58.427Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8cb0f329ec81919fd57d7a0bd7193f": {
       "id": "plugin_asdk_app_6a8cb0f329ec81919fd57d7a0bd7193f",
@@ -169793,7 +170088,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "扫描期权交易机会",
       "legacySummaryOriginal": "Scan for options trades",
@@ -169838,7 +170133,12 @@
         "reviewedAt": "2026-10-26T18:00:23.795Z",
         "translatedAt": "2026-10-26T18:00:23.795Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:00.665Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:00.665Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a610821de308191b4c3f33332c2e29e": {
       "id": "plugin_asdk_app_6a610821de308191b4c3f33332c2e29e",
@@ -169851,7 +170151,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "人寿与最终费用保险",
       "legacySummaryOriginal": "Life & Final Expense Insurance",
@@ -169895,7 +170195,12 @@
         "reviewedAt": "2026-10-26T18:00:23.808Z",
         "translatedAt": "2026-10-26T18:00:23.808Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:03.365Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:03.365Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a75bc378df0819193202cdc943a5fc5": {
       "id": "plugin_asdk_app_6a75bc378df0819193202cdc943a5fc5",
@@ -169908,7 +170213,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "简化租赁管理",
       "legacySummaryOriginal": "Gestion locative simplifiée",
@@ -169952,7 +170257,12 @@
         "reviewedAt": "2026-10-26T18:00:23.800Z",
         "translatedAt": "2026-10-26T18:00:23.800Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:05.745Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:05.745Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8eab08955c8191957c0fa3659e7531": {
       "id": "plugin_asdk_app_6a8eab08955c8191957c0fa3659e7531",
@@ -169965,7 +170275,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "银行产品与服务",
       "legacySummaryOriginal": "Banking Products and Services",
@@ -170009,7 +170319,12 @@
         "reviewedAt": "2026-10-26T18:00:23.788Z",
         "translatedAt": "2026-10-26T18:00:23.788Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:07.977Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:07.977Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a931a20f68c8191b2d8051f0ad43e6b": {
       "id": "plugin_asdk_app_6a931a20f68c8191b2d8051f0ad43e6b",
@@ -170022,7 +170337,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "探索你的 MONVELOP 预算",
       "legacySummaryOriginal": "Explore your MONVELOP budget",
@@ -170066,7 +170381,12 @@
         "reviewedAt": "2026-10-26T18:00:23.809Z",
         "translatedAt": "2026-10-26T18:00:23.809Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:10.210Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:10.210Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a986f31a74081918c7257f3052a4e29": {
       "id": "plugin_asdk_app_6a986f31a74081918c7257f3052a4e29",
@@ -170079,7 +170399,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "管理你的 Rydoo 费用",
       "legacySummaryOriginal": "Manage your Rydoo expenses",
@@ -170123,7 +170443,12 @@
         "reviewedAt": "2026-10-26T18:00:23.790Z",
         "translatedAt": "2026-10-26T18:00:23.790Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:12.580Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:12.580Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a2675ace6088191a87d1805eb9e6577": {
       "id": "plugin_asdk_app_6a2675ace6088191a87d1805eb9e6577",
@@ -170136,7 +170461,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "分析财务数据",
       "legacySummaryOriginal": "Analyse financial data",
@@ -170180,7 +170505,12 @@
         "reviewedAt": "2026-10-26T18:00:23.561Z",
         "translatedAt": "2026-10-26T18:00:23.561Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:15.040Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:15.040Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a292bc4ec908191a46e47e658e3836c": {
       "id": "plugin_asdk_app_6a292bc4ec908191a46e47e658e3836c",
@@ -170193,7 +170523,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "分析财务数据",
       "legacySummaryOriginal": "Analyse financial data",
@@ -170237,7 +170567,12 @@
         "reviewedAt": "2026-10-26T18:00:23.535Z",
         "translatedAt": "2026-10-26T18:00:23.535Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:17.349Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:17.349Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aa11e1e178c8191a6ab3726403a988b": {
       "id": "plugin_asdk_app_6aa11e1e178c8191a6ab3726403a988b",
@@ -170250,7 +170585,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "加密市场研究数据",
       "legacySummaryOriginal": "Crypto market research data",
@@ -170294,7 +170629,12 @@
         "reviewedAt": "2026-10-26T18:00:23.800Z",
         "translatedAt": "2026-10-26T18:00:23.800Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:20.203Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:20.203Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aa37e50d2548191875fdb36eac5804d": {
       "id": "plugin_asdk_app_6aa37e50d2548191875fdb36eac5804d",
@@ -170307,7 +170647,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "集换式卡牌与体育卡牌价格及投资回报",
       "legacySummaryOriginal": "TCG & sports card prices & ROI",
@@ -170351,7 +170691,12 @@
         "reviewedAt": "2026-10-26T18:00:23.795Z",
         "translatedAt": "2026-10-26T18:00:23.795Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:22.605Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:22.605Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a6bb87aadf08191860f8d9d81c473e8": {
       "id": "plugin_asdk_app_6a6bb87aadf08191860f8d9d81c473e8",
@@ -170412,10 +170757,10 @@
           "total_tokens": 1834
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-26T05:22:27.938Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-27T08:24:24.852Z",
       "detailError": {
-        "at": "2026-10-26T04:22:27.938Z",
+        "at": "2026-10-27T06:24:24.852Z",
         "message": "No usable official description reference"
       }
     },
@@ -170430,7 +170775,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "比较保险目录",
       "legacySummaryOriginal": "Compara catálogo de seguros",
@@ -170474,7 +170819,12 @@
         "reviewedAt": "2026-10-26T18:00:23.797Z",
         "translatedAt": "2026-10-26T18:00:23.797Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:27.754Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:27.754Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a60d2e30a1c81919287937eaff9aee9": {
       "id": "plugin_asdk_app_6a60d2e30a1c81919287937eaff9aee9",
@@ -170487,7 +170837,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "税改影响分析",
       "legacySummaryOriginal": "Impactos da Reforma Tributária",
@@ -170531,7 +170881,12 @@
         "reviewedAt": "2026-10-26T18:00:23.796Z",
         "translatedAt": "2026-10-26T18:00:23.796Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:30.557Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:30.557Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aa202d5642481918aa4380a5f3e4435": {
       "id": "plugin_asdk_app_6aa202d5642481918aa4380a5f3e4435",
@@ -170544,7 +170899,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "退货政策、优惠与价格",
       "legacySummaryOriginal": "Return policies, deals, prices",
@@ -170588,7 +170943,12 @@
         "reviewedAt": "2026-10-26T18:00:23.560Z",
         "translatedAt": "2026-10-26T18:00:23.560Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:32.867Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:32.867Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aa16fc95ec081918599260bfe21b1a3": {
       "id": "plugin_asdk_app_6aa16fc95ec081918599260bfe21b1a3",
@@ -170601,7 +170961,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "客户财务与简报",
       "legacySummaryOriginal": "Client finances and briefings",
@@ -170645,7 +171005,12 @@
         "reviewedAt": "2026-10-26T18:00:23.795Z",
         "translatedAt": "2026-10-26T18:00:23.795Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:35.210Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:35.210Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a60cd906a4c8191b54e01f4e15a94d8": {
       "id": "plugin_asdk_app_6a60cd906a4c8191b54e01f4e15a94d8",
@@ -170658,7 +171023,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "管理你的发票",
       "legacySummaryOriginal": "Manage your invoices",
@@ -170702,7 +171067,12 @@
         "reviewedAt": "2026-10-26T18:00:23.563Z",
         "translatedAt": "2026-10-26T18:00:23.563Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:37.721Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:37.721Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a9dfc83a9748191aa4d3f1efe1178af": {
       "id": "plugin_asdk_app_6a9dfc83a9748191aa4d3f1efe1178af",
@@ -170715,7 +171085,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "巴西 REIT 研究",
       "legacySummaryOriginal": "Brazilian REIT research",
@@ -170759,7 +171129,12 @@
         "reviewedAt": "2026-10-26T18:00:23.787Z",
         "translatedAt": "2026-10-26T18:00:23.787Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:40.000Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:40.000Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a506d95f91881919312f54e15bea507": {
       "id": "plugin_asdk_app_6a506d95f91881919312f54e15bea507",
@@ -170772,7 +171147,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "为宠物找保险",
       "legacySummaryOriginal": "Find insurance for pets",
@@ -170816,7 +171191,12 @@
         "reviewedAt": "2026-10-26T18:00:23.787Z",
         "translatedAt": "2026-10-26T18:00:23.787Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:42.350Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:42.350Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aa08d97ec648191a5acb6a8db55e486": {
       "id": "plugin_asdk_app_6aa08d97ec648191a5acb6a8db55e486",
@@ -170829,7 +171209,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "检查维修报价定价",
       "legacySummaryOriginal": "Check repair quote pricing",
@@ -170873,7 +171253,12 @@
         "reviewedAt": "2026-10-26T18:00:23.795Z",
         "translatedAt": "2026-10-26T18:00:23.795Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:44.784Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:44.784Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a74cd40f53c8191905b51d8706da78d": {
       "id": "plugin_asdk_app_6a74cd40f53c8191905b51d8706da78d",
@@ -170930,7 +171315,12 @@
         "reviewedAt": "2026-10-26T18:00:23.808Z",
         "translatedAt": "2026-10-26T18:00:23.808Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:47.123Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:47.123Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a182a19bddc81918ae3843061cb23e2": {
       "id": "plugin_asdk_app_6a182a19bddc81918ae3843061cb23e2",
@@ -170943,7 +171333,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "分析财务数据",
       "legacySummaryOriginal": "Analyze financial data",
@@ -170988,7 +171378,12 @@
         "reviewedAt": "2026-10-26T18:00:23.541Z",
         "translatedAt": "2026-10-26T18:00:23.541Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:49.990Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:49.990Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a9f623cba108191ba258ab4f62548fa": {
       "id": "plugin_asdk_app_6a9f623cba108191ba258ab4f62548fa",
@@ -171001,7 +171396,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "组合研究工具",
       "legacySummaryOriginal": "Portfolio research tools",
@@ -171045,7 +171440,12 @@
         "reviewedAt": "2026-10-26T18:00:23.547Z",
         "translatedAt": "2026-10-26T18:00:23.547Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:52.309Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:52.309Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a88e3d0a28c8191a17802d7c011799f": {
       "id": "plugin_asdk_app_6a88e3d0a28c8191a17802d7c011799f",
@@ -171058,7 +171458,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "租赁账簿与 REPS 时长",
       "legacySummaryOriginal": "Rental books and REPS hours",
@@ -171102,7 +171502,12 @@
         "reviewedAt": "2026-10-26T18:00:23.796Z",
         "translatedAt": "2026-10-26T18:00:23.796Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:54.535Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:54.535Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a9b1dc7ae788191b768ce27459a2a08": {
       "id": "plugin_asdk_app_6a9b1dc7ae788191b768ce27459a2a08",
@@ -171115,7 +171520,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "自动化销售税与增值税",
       "legacySummaryOriginal": "Automate sales tax and VAT",
@@ -171159,7 +171564,12 @@
         "reviewedAt": "2026-10-26T18:00:23.807Z",
         "translatedAt": "2026-10-26T18:00:23.807Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:24:57.377Z",
+      "detailError": {
+        "at": "2026-10-27T06:24:57.377Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69fb5be32bcc8191871c25122c3b7eac": {
       "id": "plugin_asdk_app_69fb5be32bcc8191871c25122c3b7eac",
@@ -171172,7 +171582,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "探索商业保险",
       "legacySummaryOriginal": "Explore Business Insurance",
@@ -171216,7 +171626,12 @@
         "reviewedAt": "2026-10-26T18:00:23.551Z",
         "translatedAt": "2026-10-26T18:00:23.551Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:00.228Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:00.228Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a84635f0e7c8191af1ccc4ecd178533": {
       "id": "plugin_asdk_app_6a84635f0e7c8191af1ccc4ecd178533",
@@ -171229,7 +171644,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "CMBS 与 CRE CLO 监控",
       "legacySummaryOriginal": "CMBS & CRE CLO Surveillance",
@@ -171273,7 +171688,12 @@
         "reviewedAt": "2026-10-26T18:00:23.793Z",
         "translatedAt": "2026-10-26T18:00:23.793Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:02.451Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:02.451Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7516bbda188191b7e254934348f88f": {
       "id": "plugin_asdk_app_6a7516bbda188191b7e254934348f88f",
@@ -171286,7 +171706,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查看你的 Wealthfront 账户",
       "legacySummaryOriginal": "View your Wealthfront accounts",
@@ -171330,7 +171750,12 @@
         "reviewedAt": "2026-10-26T18:00:23.538Z",
         "translatedAt": "2026-10-26T18:00:23.538Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:04.904Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:04.904Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6ab5e79c51a481918fbb356af1919641": {
       "id": "plugin_asdk_app_6ab5e79c51a481918fbb356af1919641",
@@ -171343,7 +171768,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "投资者与初创公司工具",
       "legacySummaryOriginal": "Investor and startup tools",
@@ -171387,7 +171812,12 @@
         "reviewedAt": "2026-10-26T18:00:23.536Z",
         "translatedAt": "2026-10-26T18:00:23.536Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:07.329Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:07.329Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a928f0f0e8c819188829a0017339128": {
       "id": "plugin_asdk_app_6a928f0f0e8c819188829a0017339128",
@@ -171400,7 +171830,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "免费加密反洗钱/KYT 筛查",
       "legacySummaryOriginal": "Free crypto AML/KYT screening",
@@ -171444,7 +171874,12 @@
         "reviewedAt": "2026-10-26T18:00:23.792Z",
         "translatedAt": "2026-10-26T18:00:23.792Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:09.624Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:09.624Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a64122eab2c8191ba139220db8963ef": {
       "id": "plugin_asdk_app_6a64122eab2c8191ba139220db8963ef",
@@ -171501,7 +171936,12 @@
         "reviewedAt": "2026-10-26T18:00:23.796Z",
         "translatedAt": "2026-10-26T18:00:23.796Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:11.975Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:11.975Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aaa82fdb2e88191a5125f887f2c29c7": {
       "id": "plugin_asdk_app_6aaa82fdb2e88191a5125f887f2c29c7",
@@ -171514,7 +171954,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "管理全球财务",
       "legacySummaryOriginal": "Manage global finance",
@@ -171558,7 +171998,12 @@
         "reviewedAt": "2026-10-26T18:00:23.809Z",
         "translatedAt": "2026-10-26T18:00:23.809Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:14.399Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:14.399Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aa4383e31188191aa3945ac7b9c5c79": {
       "id": "plugin_asdk_app_6aa4383e31188191aa3945ac7b9c5c79",
@@ -171571,7 +172016,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "追踪收据以提醒降价",
       "legacySummaryOriginal": "Track receipts for price drops",
@@ -171615,7 +172060,12 @@
         "reviewedAt": "2026-10-26T18:00:23.536Z",
         "translatedAt": "2026-10-26T18:00:23.536Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:17.209Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:17.209Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aab7288731081918553ebf3d4eb77fd": {
       "id": "plugin_asdk_app_6aab7288731081918553ebf3d4eb77fd",
@@ -171676,10 +172126,10 @@
           "total_tokens": 1546
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-26T05:22:30.287Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-27T08:25:19.580Z",
       "detailError": {
-        "at": "2026-10-26T04:22:30.287Z",
+        "at": "2026-10-27T06:25:19.580Z",
         "message": "No usable official description reference"
       }
     },
@@ -171694,7 +172144,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "搜索 SEC 申报文件",
       "legacySummaryOriginal": "Search SEC filings",
@@ -171738,7 +172188,12 @@
         "reviewedAt": "2026-10-26T18:00:23.810Z",
         "translatedAt": "2026-10-26T18:00:23.810Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:21.964Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:21.964Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a6df5b7dbec819186c138130ef46460": {
       "id": "plugin_asdk_app_6a6df5b7dbec819186c138130ef46460",
@@ -171751,7 +172206,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "管理你的财务",
       "legacySummaryOriginal": "Controle suas finanças",
@@ -171795,7 +172250,12 @@
         "reviewedAt": "2026-10-26T18:00:23.805Z",
         "translatedAt": "2026-10-26T18:00:23.805Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:24.194Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:24.194Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a620fee8fb081918a53bd0341a34664": {
       "id": "plugin_asdk_app_6a620fee8fb081918a53bd0341a34664",
@@ -171808,7 +172268,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "分析公开申报文件",
       "legacySummaryOriginal": "Analyze public filings",
@@ -171852,7 +172312,12 @@
         "reviewedAt": "2026-10-26T18:00:23.788Z",
         "translatedAt": "2026-10-26T18:00:23.788Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:26.468Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:26.468Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a96d1655e0c81918ddb1242c674b3c8": {
       "id": "plugin_asdk_app_6a96d1655e0c81918ddb1242c674b3c8",
@@ -171865,7 +172330,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "比较美国税务数据",
       "legacySummaryOriginal": "Compare U.S. tax data",
@@ -171909,7 +172374,12 @@
         "reviewedAt": "2026-10-26T18:00:23.809Z",
         "translatedAt": "2026-10-26T18:00:23.809Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:28.810Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:28.810Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aa3d8f77b608191b760aa5119fb20d3": {
       "id": "plugin_asdk_app_6aa3d8f77b608191b760aa5119fb20d3",
@@ -171922,7 +172392,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "估值与组合研究",
       "legacySummaryOriginal": "Valuation & Portfolio Research",
@@ -171966,7 +172436,12 @@
         "reviewedAt": "2026-10-26T18:00:23.549Z",
         "translatedAt": "2026-10-26T18:00:23.549Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:32.159Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:32.159Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aabc4b3a1488191905b08ff242a88d9": {
       "id": "plugin_asdk_app_6aabc4b3a1488191905b08ff242a88d9",
@@ -172027,10 +172502,10 @@
           "total_tokens": 1990
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-26T05:22:32.631Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-27T08:25:35.005Z",
       "detailError": {
-        "at": "2026-10-26T04:22:32.631Z",
+        "at": "2026-10-27T06:25:35.005Z",
         "message": "No usable official description reference"
       }
     },
@@ -172045,7 +172520,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "历史定投模拟器",
       "legacySummaryOriginal": "Historical DCA simulator",
@@ -172089,7 +172564,12 @@
         "reviewedAt": "2026-10-26T18:00:23.794Z",
         "translatedAt": "2026-10-26T18:00:23.794Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:37.895Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:37.895Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aac5610a1748191ae0e9190fd7563c0": {
       "id": "plugin_asdk_app_6aac5610a1748191ae0e9190fd7563c0",
@@ -172102,7 +172582,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "分析股票与趋势",
       "legacySummaryOriginal": "Analyze stocks and trends",
@@ -172146,7 +172626,12 @@
         "reviewedAt": "2026-10-26T18:00:23.810Z",
         "translatedAt": "2026-10-26T18:00:23.810Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:40.703Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:40.703Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a291ec4f5448191b427235947f0dd3d": {
       "id": "plugin_asdk_app_6a291ec4f5448191b427235947f0dd3d",
@@ -172217,7 +172702,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "借贷工作流与方案",
       "legacySummaryOriginal": "Lending workflow and offers",
@@ -172261,7 +172746,12 @@
         "reviewedAt": "2026-10-26T18:00:23.792Z",
         "translatedAt": "2026-10-26T18:00:23.792Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:43.333Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:43.333Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a9906f1027081918108471ed671995b": {
       "id": "plugin_asdk_app_6a9906f1027081918108471ed671995b",
@@ -172274,7 +172764,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "咨询你自己的组合",
       "legacySummaryOriginal": "Ask about your own portfolio",
@@ -172318,7 +172808,12 @@
         "reviewedAt": "2026-10-26T18:00:23.796Z",
         "translatedAt": "2026-10-26T18:00:23.796Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:46.172Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:46.172Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a9729e253648191aac16f7b62393c34": {
       "id": "plugin_asdk_app_6a9729e253648191aac16f7b62393c34",
@@ -172331,7 +172826,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "金融 AI 专家",
       "legacySummaryOriginal": "Savant for Finance AI",
@@ -172375,7 +172870,12 @@
         "reviewedAt": "2026-10-26T18:00:23.791Z",
         "translatedAt": "2026-10-26T18:00:23.791Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:48.568Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:48.568Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aa2aa06423c8191b50fc625fa694205": {
       "id": "plugin_asdk_app_6aa2aa06423c8191b50fc625fa694205",
@@ -172388,7 +172888,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "研究市场与持仓",
       "legacySummaryOriginal": "Research markets and holdings",
@@ -172432,7 +172932,12 @@
         "reviewedAt": "2026-10-26T18:00:23.803Z",
         "translatedAt": "2026-10-26T18:00:23.803Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:50.945Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:50.945Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aaa8e5defe08191a97a8cd52f28ea45": {
       "id": "plugin_asdk_app_6aaa8e5defe08191a97a8cd52f28ea45",
@@ -172445,7 +172950,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "追踪余额与销售",
       "legacySummaryOriginal": "Track balances and sales",
@@ -172490,7 +172995,12 @@
         "reviewedAt": "2026-10-26T18:00:23.808Z",
         "translatedAt": "2026-10-26T18:00:23.808Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T07:25:53.316Z",
+      "detailError": {
+        "at": "2026-10-27T06:25:53.316Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aad32861bd88191921eed2d2b9318f4": {
       "id": "plugin_asdk_app_6aad32861bd88191921eed2d2b9318f4",
@@ -172551,11 +173061,11 @@
           "total_tokens": 2015
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-26T05:22:35.497Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-27T08:26:31.145Z",
       "detailError": {
-        "at": "2026-10-26T04:22:35.497Z",
-        "message": "No usable official description reference"
+        "at": "2026-10-27T06:26:31.145Z",
+        "message": "Page not ready, HTTP 200, ChatGPT Plugins | Browse and add plugins to ChatGPT"
       }
     },
     "plugin_asdk_app_6aa9b40b7d1c8191b6dbaa860d8d1866": {
@@ -411203,23 +411713,23 @@
     "runId": "40448357028",
     "runAttempt": "1",
     "startedAt": "2026-10-27T04:12:04.753Z",
-    "updatedAt": "2026-10-27T06:21:24.517Z",
+    "updatedAt": "2026-10-27T06:26:31.217Z",
     "mode": "incremental",
-    "detailRequests": 3094,
+    "detailRequests": 3201,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
     "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 3094,
+    "errors": 3201,
     "stats": {
       "total": 5242,
       "details": 4957,
       "translated": 4856,
       "missing": 30,
       "removed": 326,
-      "pendingDetails": 3178,
+      "pendingDetails": 3278,
       "pendingTranslations": 386
     }
   }
