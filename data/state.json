@@ -107977,7 +107977,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "Scoutee 工具",
       "legacySummaryOriginal": "Find public tenders",
@@ -108021,7 +108021,12 @@
         "reviewedAt": "2026-10-26T18:00:23.748Z",
         "translatedAt": "2026-10-26T18:00:23.748Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:45:57.717Z",
+      "detailError": {
+        "at": "2026-10-27T05:45:57.717Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69dd66e263c48191bc366788af31855c": {
       "id": "plugin_asdk_app_69dd66e263c48191bc366788af31855c",
@@ -108092,7 +108097,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "Nuboo 工具",
       "legacySummaryOriginal": "Manage real estate sales",
@@ -108137,7 +108142,12 @@
         "reviewedAt": "2026-10-26T18:00:23.599Z",
         "translatedAt": "2026-10-26T18:00:23.599Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:00.603Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:00.603Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aa06c4c57508191afa23e90541b12f6": {
       "id": "plugin_asdk_app_6aa06c4c57508191afa23e90541b12f6",
@@ -108150,7 +108160,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "菜单工具",
       "legacySummaryOriginal": "Build FDA labels from recipes",
@@ -108194,7 +108204,12 @@
         "reviewedAt": "2026-10-26T18:00:23.554Z",
         "translatedAt": "2026-10-26T18:00:23.554Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:03.526Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:03.526Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a03a3be33648191aef497e780854dcd": {
       "id": "plugin_asdk_app_6a03a3be33648191aef497e780854dcd",
@@ -108370,10 +108385,10 @@
           "total_tokens": 1549
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-26T05:21:10.993Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-27T07:46:06.449Z",
       "detailError": {
-        "at": "2026-10-26T04:21:10.993Z",
+        "at": "2026-10-27T05:46:06.449Z",
         "message": "No usable official description reference"
       }
     },
@@ -108446,7 +108461,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "SEO 审计",
       "legacySummaryOriginal": "Audit sites and AI visibility",
@@ -108490,7 +108505,12 @@
         "reviewedAt": "2026-10-26T18:00:23.632Z",
         "translatedAt": "2026-10-26T18:00:23.632Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:09.336Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:09.336Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69f8dd9dc044819194166c2e5c799013": {
       "id": "plugin_asdk_app_69f8dd9dc044819194166c2e5c799013",
@@ -108503,7 +108523,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "中小企业工具",
       "legacySummaryOriginal": "Manage your business",
@@ -108547,7 +108567,12 @@
         "reviewedAt": "2026-10-26T18:00:23.591Z",
         "translatedAt": "2026-10-26T18:00:23.591Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:12.144Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:12.144Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69690af05a74819189e671dc6ef00e2f": {
       "id": "plugin_asdk_app_69690af05a74819189e671dc6ef00e2f",
@@ -108617,7 +108642,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "数据分析",
       "legacySummaryOriginal": "Generate business insights",
@@ -108662,7 +108687,12 @@
         "reviewedAt": "2026-10-26T18:00:23.663Z",
         "translatedAt": "2026-10-26T18:00:23.663Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:14.359Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:14.359Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a073d3730e08191b398175c801bc714": {
       "id": "plugin_asdk_app_6a073d3730e08191b398175c801bc714",
@@ -108699,7 +108729,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "广告工具",
       "legacySummaryOriginal": "Manage ads across 8 platforms",
@@ -108743,7 +108773,12 @@
         "reviewedAt": "2026-10-26T18:00:23.559Z",
         "translatedAt": "2026-10-26T18:00:23.559Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:16.776Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:16.776Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7cdfd4dbac81918c9bb8636b303498": {
       "id": "plugin_asdk_app_6a7cdfd4dbac81918c9bb8636b303498",
@@ -108929,7 +108964,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "大模型监控",
       "legacySummaryOriginal": "Track AI brand visibility",
@@ -108973,7 +109008,12 @@
         "reviewedAt": "2026-10-26T18:00:23.709Z",
         "translatedAt": "2026-10-26T18:00:23.709Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:19.144Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:19.144Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a0e2379604c819198f14c6787ca5e2b": {
       "id": "plugin_asdk_app_6a0e2379604c819198f14c6787ca5e2b",
@@ -109101,7 +109141,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "招标代理",
       "legacySummaryOriginal": "German & EU public tenders",
@@ -109145,7 +109185,12 @@
         "reviewedAt": "2026-10-26T18:00:23.540Z",
         "translatedAt": "2026-10-26T18:00:23.540Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:22.027Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:22.027Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69893af74b808191a27cf931802c3c37": {
       "id": "plugin_asdk_app_69893af74b808191a27cf931802c3c37",
@@ -109215,7 +109260,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "Slipa 工具",
       "legacySummaryOriginal": "Screen recording to demo video",
@@ -109259,7 +109304,12 @@
         "reviewedAt": "2026-10-26T18:00:23.753Z",
         "translatedAt": "2026-10-26T18:00:23.753Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:25.018Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:25.018Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7ae2565a148191802be85a9bf06ab2": {
       "id": "plugin_asdk_app_6a7ae2565a148191802be85a9bf06ab2",
@@ -109272,7 +109322,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "Postify 工具",
       "legacySummaryOriginal": "Draft and schedule posts",
@@ -109316,7 +109366,12 @@
         "reviewedAt": "2026-10-26T18:00:23.737Z",
         "translatedAt": "2026-10-26T18:00:23.737Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:27.319Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:27.319Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a14183a803c8191be1e856c6d568894": {
       "id": "plugin_asdk_app_6a14183a803c8191be1e856c6d568894",
@@ -109386,7 +109441,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "PPC 管理",
       "legacySummaryOriginal": "Manage and optimize PPC",
@@ -109430,7 +109485,12 @@
         "reviewedAt": "2026-10-26T18:00:23.730Z",
         "translatedAt": "2026-10-26T18:00:23.730Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:29.596Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:29.596Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a667faef58c8191a6b73a0cb0cf1bc6": {
       "id": "plugin_asdk_app_6a667faef58c8191a6b73a0cb0cf1bc6",
@@ -109501,7 +109561,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "营销洞察",
       "legacySummaryOriginal": "Query your marketing data",
@@ -109545,7 +109605,12 @@
         "reviewedAt": "2026-10-26T18:00:23.555Z",
         "translatedAt": "2026-10-26T18:00:23.555Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:31.908Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:31.908Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a34c510354c8191b8a065fa13230bb6": {
       "id": "plugin_asdk_app_6a34c510354c8191b8a065fa13230bb6",
@@ -109615,7 +109680,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "Unify 工具",
       "legacySummaryOriginal": "Find, enrich & sequence",
@@ -109659,7 +109724,12 @@
         "reviewedAt": "2026-10-26T18:00:23.771Z",
         "translatedAt": "2026-10-26T18:00:23.771Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:34.126Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:34.126Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_694b324e45ac8191aacfd79d8deb1043": {
       "id": "plugin_asdk_app_694b324e45ac8191aacfd79d8deb1043",
@@ -109781,7 +109851,7 @@
       ],
       "status": "missing",
       "missingCount": 1,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "资产追踪",
       "legacySummaryOriginal": "Manage your assets & inventory",
@@ -109825,8 +109895,13 @@
         "reviewedAt": "2026-10-26T18:00:23.688Z",
         "translatedAt": "2026-10-26T18:00:23.688Z"
       },
-      "detailFailures": 0,
-      "lastMissingAt": "2026-10-27T04:14:00.356Z"
+      "detailFailures": 1,
+      "lastMissingAt": "2026-10-27T04:14:00.356Z",
+      "detailNextAttemptAt": "2026-10-27T06:46:36.526Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:36.526Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a5e7a3d083081919006613d85fb4d0c": {
       "id": "plugin_asdk_app_6a5e7a3d083081919006613d85fb4d0c",
@@ -109890,7 +109965,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "Whatalo 工具",
       "legacySummaryOriginal": "Manage your Whatalo store",
@@ -109934,7 +110009,12 @@
         "reviewedAt": "2026-10-26T18:00:23.776Z",
         "translatedAt": "2026-10-26T18:00:23.776Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:38.870Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:38.870Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69fdd26fdcfc8191b38fe55815846708": {
       "id": "plugin_asdk_app_69fdd26fdcfc8191b38fe55815846708",
@@ -110216,7 +110296,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "时间追踪",
       "legacySummaryOriginal": "Record work, unlock insight",
@@ -110260,7 +110340,12 @@
         "reviewedAt": "2026-10-26T18:00:23.706Z",
         "translatedAt": "2026-10-26T18:00:23.706Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:41.082Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:41.082Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a59184994a88191af200cf54e62eb34": {
       "id": "plugin_asdk_app_6a59184994a88191af200cf54e62eb34",
@@ -110382,7 +110467,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "电子取证",
       "legacySummaryOriginal": "Search and analyze evidence",
@@ -110426,7 +110511,12 @@
         "reviewedAt": "2026-10-26T18:00:23.577Z",
         "translatedAt": "2026-10-26T18:00:23.577Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:43.924Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:43.924Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a44a9d050d081918636f82d3a5a5d4f": {
       "id": "plugin_asdk_app_6a44a9d050d081918636f82d3a5a5d4f",
@@ -110439,7 +110529,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "Noah 工具",
       "legacySummaryOriginal": "Research risk and trends",
@@ -110483,7 +110573,12 @@
         "reviewedAt": "2026-10-26T18:00:23.599Z",
         "translatedAt": "2026-10-26T18:00:23.599Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:46.275Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:46.275Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69788e70bfd48191a516b4bc2f0a104b": {
       "id": "plugin_asdk_app_69788e70bfd48191a516b4bc2f0a104b",
@@ -110598,7 +110693,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "气体冷却器工具",
       "legacySummaryOriginal": "Rate and select gas coolers",
@@ -110642,7 +110737,12 @@
         "reviewedAt": "2026-10-26T18:00:23.535Z",
         "translatedAt": "2026-10-26T18:00:23.535Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:48.511Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:48.511Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a3261b7cdfc81919a864e7a3c4a303d": {
       "id": "plugin_asdk_app_6a3261b7cdfc81919a864e7a3c4a303d",
@@ -110866,7 +110966,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "Goodword 工具",
       "legacySummaryOriginal": "Search and manage your network",
@@ -110910,7 +111010,12 @@
         "reviewedAt": "2026-10-26T18:00:23.580Z",
         "translatedAt": "2026-10-26T18:00:23.580Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:50.881Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:50.881Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aa4a9f42500819195c270ab28582cf5": {
       "id": "plugin_asdk_app_6aa4a9f42500819195c270ab28582cf5",
@@ -110923,7 +111028,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "法律 AI",
       "legacySummaryOriginal": "Legal intelligence from Harvey",
@@ -110967,7 +111072,12 @@
         "reviewedAt": "2026-10-26T18:00:23.582Z",
         "translatedAt": "2026-10-26T18:00:23.582Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:53.264Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:53.264Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a908cd7176081919717ffa210436393": {
       "id": "plugin_asdk_app_6a908cd7176081919717ffa210436393",
@@ -111038,7 +111148,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "CRM",
       "legacySummaryOriginal": "Manage Salesforce records",
@@ -111087,7 +111197,12 @@
         "reviewedAt": "2026-10-26T18:00:23.747Z",
         "translatedAt": "2026-10-26T18:00:23.747Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:55.623Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:55.623Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_connector_1p_e4d796f7afc48191bf6af2220a55fdd6": {
       "id": "plugin_connector_1p_e4d796f7afc48191bf6af2220a55fdd6",
@@ -111100,7 +111215,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "管理工具",
       "legacySummaryOriginal": "Manage ChatGPT workspaces for workspace owners or admins.",
@@ -111150,7 +111265,12 @@
         "reviewedAt": "2026-10-26T18:00:23.647Z",
         "translatedAt": "2026-10-26T18:00:23.647Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:46:57.885Z",
+      "detailError": {
+        "at": "2026-10-27T05:46:57.885Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_699caef2d680819188727b0ddbb349dd": {
       "id": "plugin_asdk_app_699caef2d680819188727b0ddbb349dd",
@@ -111163,7 +111283,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "分析你的产品数据",
       "legacySummaryOriginal": "Analyze your product data",
@@ -111208,7 +111328,12 @@
         "reviewedAt": "2026-10-26T18:00:23.524Z",
         "translatedAt": "2026-10-26T18:00:23.524Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:00.248Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:00.248Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69b9f38bfa248191877ad584f5608b92": {
       "id": "plugin_asdk_app_69b9f38bfa248191877ad584f5608b92",
@@ -111221,7 +111346,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "访问你的 Helium 10 数据",
       "legacySummaryOriginal": "Access your Helium 10 data",
@@ -111266,7 +111391,12 @@
         "reviewedAt": "2026-10-26T18:00:23.692Z",
         "translatedAt": "2026-10-26T18:00:23.692Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:02.489Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:02.489Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a3e889766b481919d6b2861e94a8afa": {
       "id": "plugin_asdk_app_6a3e889766b481919d6b2861e94a8afa",
@@ -111279,7 +111409,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "创建表单、分析回复",
       "legacySummaryOriginal": "Build forms, analyze responses",
@@ -111324,7 +111454,12 @@
         "reviewedAt": "2026-10-26T18:00:23.770Z",
         "translatedAt": "2026-10-26T18:00:23.770Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:04.879Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:04.879Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_connector_690e2dabf430819196f8b3701ec838ec": {
       "id": "plugin_connector_690e2dabf430819196f8b3701ec838ec",
@@ -111337,7 +111472,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "分析你的产品数据",
       "legacySummaryOriginal": "Analyze your product data",
@@ -111382,7 +111517,12 @@
         "reviewedAt": "2026-10-26T18:00:23.543Z",
         "translatedAt": "2026-10-26T18:00:23.543Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:07.269Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:07.269Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69a880b0d024819182db60f36cb48420": {
       "id": "plugin_asdk_app_69a880b0d024819182db60f36cb48420",
@@ -111395,7 +111535,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找并分析区块链数据",
       "legacySummaryOriginal": "Find & analyze blockchain data",
@@ -111440,7 +111580,12 @@
         "reviewedAt": "2026-10-26T18:00:23.536Z",
         "translatedAt": "2026-10-26T18:00:23.536Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:09.504Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:09.504Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69b2e9aed45c8191b254b207dfcc2bb4": {
       "id": "plugin_asdk_app_69b2e9aed45c8191b254b207dfcc2bb4",
@@ -111453,7 +111598,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查询并分析 Mixpanel",
       "legacySummaryOriginal": "Query and analyze Mixpanel",
@@ -111503,7 +111648,12 @@
         "reviewedAt": "2026-10-26T18:00:23.596Z",
         "translatedAt": "2026-10-26T18:00:23.596Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:11.733Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:11.733Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69a22803c8c481919da6f9b41bd93725": {
       "id": "plugin_asdk_app_69a22803c8c481919da6f9b41bd93725",
@@ -111516,7 +111666,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "你的品牌情报引擎",
       "legacySummaryOriginal": "Your brand intelligence engine",
@@ -111561,7 +111711,12 @@
         "reviewedAt": "2026-10-26T18:00:23.775Z",
         "translatedAt": "2026-10-26T18:00:23.775Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:14.060Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:14.060Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_698b10719a688191b53a37692efb6d81": {
       "id": "plugin_asdk_app_698b10719a688191b53a37692efb6d81",
@@ -111574,7 +111729,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "SEO 数据与关键词研究",
       "legacySummaryOriginal": "SEO data and keyword research",
@@ -111619,7 +111774,12 @@
         "reviewedAt": "2026-10-26T18:00:23.615Z",
         "translatedAt": "2026-10-26T18:00:23.615Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:16.364Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:16.364Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69a2327e44fc8191ace64618746edc84": {
       "id": "plugin_asdk_app_69a2327e44fc8191ace64618746edc84",
@@ -111632,7 +111792,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查询你的 SQL 数据库",
       "legacySummaryOriginal": "Query your SQL Database",
@@ -111676,7 +111836,12 @@
         "reviewedAt": "2026-10-26T18:00:23.541Z",
         "translatedAt": "2026-10-26T18:00:23.541Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:18.755Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:18.755Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a5937013728819186b9de76e1f68de1": {
       "id": "plugin_asdk_app_6a5937013728819186b9de76e1f68de1",
@@ -111689,7 +111854,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "暂无简介。",
       "legacySummaryOriginal": "[Deprecating soon!]",
@@ -111734,7 +111899,12 @@
         "reviewedAt": "2026-10-26T18:00:23.760Z",
         "translatedAt": "2026-10-26T18:00:23.760Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:21.589Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:21.589Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_connector_690a9430a270819196671dcb4c95898e": {
       "id": "plugin_connector_690a9430a270819196671dcb4c95898e",
@@ -111747,7 +111917,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "提问、运行分析",
       "legacySummaryOriginal": "Ask questions, run analyses",
@@ -111797,7 +111967,12 @@
         "reviewedAt": "2026-10-26T18:00:23.784Z",
         "translatedAt": "2026-10-26T18:00:23.784Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:23.937Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:23.937Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a4438da388081919a4222e44c6cd1bb": {
       "id": "plugin_asdk_app_6a4438da388081919a4222e44c6cd1bb",
@@ -111810,7 +111985,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "州初审法院研究",
       "legacySummaryOriginal": "State Trial Court Research",
@@ -111855,7 +112030,12 @@
         "reviewedAt": "2026-10-26T18:00:23.768Z",
         "translatedAt": "2026-10-26T18:00:23.768Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:26.227Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:26.227Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_698ccc7e538481918e43736065f8ca42": {
       "id": "plugin_asdk_app_698ccc7e538481918e43736065f8ca42",
@@ -111868,7 +112048,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "无需查询即可获得答案",
       "legacySummaryOriginal": "Get answers without queries",
@@ -111913,7 +112093,12 @@
         "reviewedAt": "2026-10-26T18:00:23.567Z",
         "translatedAt": "2026-10-26T18:00:23.567Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:28.512Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:28.512Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_696a54f1c91c81919002b9153ce0e336": {
       "id": "plugin_asdk_app_696a54f1c91c81919002b9153ce0e336",
@@ -111926,7 +112111,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "从你的数据中获得答案",
       "legacySummaryOriginal": "Get answers from your data",
@@ -111971,7 +112156,12 @@
         "reviewedAt": "2026-10-26T18:00:23.724Z",
         "translatedAt": "2026-10-26T18:00:23.724Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:30.789Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:30.789Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a736fa1def48191af5a8f0c9cf88d4f": {
       "id": "plugin_asdk_app_6a736fa1def48191af5a8f0c9cf88d4f",
@@ -111984,7 +112174,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "体育数据、赔率与对阵",
       "legacySummaryOriginal": "Sports stats, props, matchups",
@@ -112029,7 +112219,12 @@
         "reviewedAt": "2026-10-26T18:00:23.757Z",
         "translatedAt": "2026-10-26T18:00:23.757Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:33.257Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:33.257Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a4674940e1881918a0c756045d25d63": {
       "id": "plugin_asdk_app_6a4674940e1881918a0c756045d25d63",
@@ -112042,7 +112237,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "创建地图与 GIS 分析",
       "legacySummaryOriginal": "Create maps and GIS analysis",
@@ -112087,7 +112282,12 @@
         "reviewedAt": "2026-10-26T18:00:23.687Z",
         "translatedAt": "2026-10-26T18:00:23.687Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:36.159Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:36.159Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a14890167bc8191b77dea0507fb2af6": {
       "id": "plugin_asdk_app_6a14890167bc8191b77dea0507fb2af6",
@@ -112100,7 +112300,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "访问 Powerset Research 数据",
       "legacySummaryOriginal": "Access Powerset Research data",
@@ -112144,7 +112344,12 @@
         "reviewedAt": "2026-10-26T18:00:23.738Z",
         "translatedAt": "2026-10-26T18:00:23.738Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:38.403Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:38.403Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_695cdd7e863c819192b88beffc2033b6": {
       "id": "plugin_asdk_app_695cdd7e863c819192b88beffc2033b6",
@@ -112157,7 +112362,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "网页、应用、搜索与市场数据",
       "legacySummaryOriginal": "Web, app, search & market data",
@@ -112202,7 +112407,12 @@
         "reviewedAt": "2026-10-26T18:00:23.616Z",
         "translatedAt": "2026-10-26T18:00:23.616Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:40.859Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:40.859Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a5ed857b1588191828d1d78247e8ae7": {
       "id": "plugin_asdk_app_6a5ed857b1588191828d1d78247e8ae7",
@@ -112215,7 +112425,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "韩国水资源数据",
       "legacySummaryOriginal": "Korea water resources data",
@@ -112260,7 +112470,12 @@
         "reviewedAt": "2026-10-26T18:00:23.705Z",
         "translatedAt": "2026-10-26T18:00:23.705Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:43.098Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:43.098Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69fd59949b1081918028f77728680acc": {
       "id": "plugin_asdk_app_69fd59949b1081918028f77728680acc",
@@ -112273,7 +112488,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "为你的商店生成报告",
       "legacySummaryOriginal": "Run reports for your store",
@@ -112317,7 +112532,12 @@
         "reviewedAt": "2026-10-26T18:00:23.720Z",
         "translatedAt": "2026-10-26T18:00:23.720Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:45.554Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:45.554Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a10afd73e7c81919bf3abc516520edc": {
       "id": "plugin_asdk_app_6a10afd73e7c81919bf3abc516520edc",
@@ -112330,7 +112550,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "分析广告与销售数据",
       "legacySummaryOriginal": "Analyze ad and sales data",
@@ -112375,7 +112595,12 @@
         "reviewedAt": "2026-10-26T18:00:23.605Z",
         "translatedAt": "2026-10-26T18:00:23.605Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:47.849Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:47.849Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_699c97e791ac8191ac8156422cae82a4": {
       "id": "plugin_asdk_app_699c97e791ac8191ac8156422cae82a4",
@@ -112388,7 +112613,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "搜索卫星影像数据",
       "legacySummaryOriginal": "Search satellite imagery data",
@@ -112432,7 +112657,12 @@
         "reviewedAt": "2026-10-26T18:00:23.752Z",
         "translatedAt": "2026-10-26T18:00:23.752Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:50.142Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:50.142Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a53367747ac8191891c960a0f61b376": {
       "id": "plugin_asdk_app_6a53367747ac8191891c960a0f61b376",
@@ -112445,7 +112675,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "分析 Search Console 的 SEO",
       "legacySummaryOriginal": "Analyze Search Console SEO",
@@ -112489,7 +112719,12 @@
         "reviewedAt": "2026-10-26T18:00:23.690Z",
         "translatedAt": "2026-10-26T18:00:23.690Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:52.370Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:52.370Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a626bbfaf0481918ee0d2b6fa459d2b": {
       "id": "plugin_asdk_app_6a626bbfaf0481918ee0d2b6fa459d2b",
@@ -112502,7 +112737,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "发现提及、趋势与需求",
       "legacySummaryOriginal": "Find mentions, trends & demand",
@@ -112547,7 +112782,12 @@
         "reviewedAt": "2026-10-26T18:00:23.564Z",
         "translatedAt": "2026-10-26T18:00:23.564Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:55.309Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:55.309Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69f4ff416e948191b53586c77b559615": {
       "id": "plugin_asdk_app_69f4ff416e948191b53586c77b559615",
@@ -112560,7 +112800,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "分析 Ramp 经济数据",
       "legacySummaryOriginal": "Analyze Ramp economic data",
@@ -112605,7 +112845,12 @@
         "reviewedAt": "2026-10-26T18:00:23.609Z",
         "translatedAt": "2026-10-26T18:00:23.609Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:57.585Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:57.585Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69b2ece221cc8191b9e7c3e49ab0adf9": {
       "id": "plugin_asdk_app_69b2ece221cc8191b9e7c3e49ab0adf9",
@@ -112618,7 +112863,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "面向 LLM 的空间智能",
       "legacySummaryOriginal": "Spatial Intelligence for LLMs",
@@ -112663,7 +112908,12 @@
         "reviewedAt": "2026-10-26T18:00:23.550Z",
         "translatedAt": "2026-10-26T18:00:23.550Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:47:59.816Z",
+      "detailError": {
+        "at": "2026-10-27T05:47:59.816Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a50c0e094c88191ac7b55aec73bd267": {
       "id": "plugin_asdk_app_6a50c0e094c88191ac7b55aec73bd267",
@@ -112725,10 +112975,10 @@
           "total_tokens": 1968
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-26T05:21:13.995Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-27T07:48:02.661Z",
       "detailError": {
-        "at": "2026-10-26T04:21:13.995Z",
+        "at": "2026-10-27T05:48:02.661Z",
         "message": "No usable official description reference"
       }
     },
@@ -112743,7 +112993,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "社交媒体分析",
       "legacySummaryOriginal": "Social Media Analytics",
@@ -112788,7 +113038,12 @@
         "reviewedAt": "2026-10-26T18:00:23.722Z",
         "translatedAt": "2026-10-26T18:00:23.722Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:04.991Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:04.991Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_694e8b8715108191a49fe2db4398d9e2": {
       "id": "plugin_asdk_app_694e8b8715108191a49fe2db4398d9e2",
@@ -112801,7 +113056,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查询业务数据",
       "legacySummaryOriginal": "Query business data",
@@ -112845,7 +113100,12 @@
         "reviewedAt": "2026-10-26T18:00:23.600Z",
         "translatedAt": "2026-10-26T18:00:23.600Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:07.237Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:07.237Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a32f6911e788191a7826866848ba5c0": {
       "id": "plugin_asdk_app_6a32f6911e788191a7826866848ba5c0",
@@ -112858,7 +113118,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "分析你的产品数据",
       "legacySummaryOriginal": "Analyze your product data",
@@ -112902,7 +113162,12 @@
         "reviewedAt": "2026-10-26T18:00:23.550Z",
         "translatedAt": "2026-10-26T18:00:23.550Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:09.594Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:09.594Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a514c90130c8191bb9a04df335d5ac6": {
       "id": "plugin_asdk_app_6a514c90130c8191bb9a04df335d5ac6",
@@ -112915,7 +113180,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "面向情报的 AI Agent",
       "legacySummaryOriginal": "AI agents for intelligence",
@@ -112959,7 +113224,12 @@
         "reviewedAt": "2026-10-26T18:00:23.616Z",
         "translatedAt": "2026-10-26T18:00:23.616Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:11.870Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:11.870Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a204b2923fc8191bcbd87ec6dc9d382": {
       "id": "plugin_asdk_app_6a204b2923fc8191bcbd87ec6dc9d382",
@@ -112972,7 +113242,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "面向 AI 的企业上下文",
       "legacySummaryOriginal": "Enterprise Context for AI",
@@ -113017,7 +113287,12 @@
         "reviewedAt": "2026-10-26T18:00:23.549Z",
         "translatedAt": "2026-10-26T18:00:23.549Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:14.188Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:14.188Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a4d2371565481918bcf2890f2f29226": {
       "id": "plugin_asdk_app_6a4d2371565481918bcf2890f2f29226",
@@ -113030,7 +113305,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "巴西电商数据",
       "legacySummaryOriginal": "Brazil E-Commerce Data",
@@ -113074,7 +113349,12 @@
         "reviewedAt": "2026-10-26T18:00:23.587Z",
         "translatedAt": "2026-10-26T18:00:23.587Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:17.037Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:17.037Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a331a47b4e481918568c30498ea0a94": {
       "id": "plugin_asdk_app_6a331a47b4e481918568c30498ea0a94",
@@ -113087,7 +113367,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "分析你的作者销售数据",
       "legacySummaryOriginal": "Analyze your author sales data",
@@ -113131,7 +113411,12 @@
         "reviewedAt": "2026-10-26T18:00:23.529Z",
         "translatedAt": "2026-10-26T18:00:23.529Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:19.281Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:19.281Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a31190204b481919633d8e2f3dc18a6": {
       "id": "plugin_asdk_app_6a31190204b481919633d8e2f3dc18a6",
@@ -113144,7 +113429,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "收入与增长洞察",
       "legacySummaryOriginal": "Revenue and growth insights",
@@ -113189,7 +113474,12 @@
         "reviewedAt": "2026-10-26T18:00:23.568Z",
         "translatedAt": "2026-10-26T18:00:23.568Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:21.501Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:21.501Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69fb51f9519081919c1f3e44ea9a5a05": {
       "id": "plugin_asdk_app_69fb51f9519081919c1f3e44ea9a5a05",
@@ -113202,7 +113492,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "与 Agent 一起运行数据工作流",
       "legacySummaryOriginal": "Run data workflows with agents",
@@ -113252,7 +113542,12 @@
         "reviewedAt": "2026-10-26T18:00:23.665Z",
         "translatedAt": "2026-10-26T18:00:23.665Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:23.806Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:23.806Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69ef657024848191b86f94341d6b2570": {
       "id": "plugin_asdk_app_69ef657024848191b86f94341d6b2570",
@@ -113327,7 +113622,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "使用 Google Ads、Meta、TikTok",
       "legacySummaryOriginal": "Use Google Ads, Meta, TikTok",
@@ -113375,7 +113670,12 @@
           "total_tokens": 3985
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:26.108Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:26.108Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69ecca09a4f88191804893914eb08f1a": {
       "id": "plugin_asdk_app_69ecca09a4f88191804893914eb08f1a",
@@ -113388,7 +113688,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "连接你的电商数据",
       "legacySummaryOriginal": "Connect your ecommerce data",
@@ -113432,7 +113732,12 @@
         "reviewedAt": "2026-10-26T18:00:23.736Z",
         "translatedAt": "2026-10-26T18:00:23.736Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:28.485Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:28.485Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69bc499205fc81918be3bd546e10ad06": {
       "id": "plugin_asdk_app_69bc499205fc81918be3bd546e10ad06",
@@ -113445,7 +113750,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "按需餐厅分析",
       "legacySummaryOriginal": "Restaurant analytics on demand",
@@ -113489,7 +113794,12 @@
         "reviewedAt": "2026-10-26T18:00:23.621Z",
         "translatedAt": "2026-10-26T18:00:23.621Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:30.702Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:30.702Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69e5be7461d88191814dabaea57e77a1": {
       "id": "plugin_asdk_app_69e5be7461d88191814dabaea57e77a1",
@@ -113502,7 +113812,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "英国房产数据与洞察",
       "legacySummaryOriginal": "Property Data & Insights - UK",
@@ -113547,7 +113857,12 @@
         "reviewedAt": "2026-10-26T18:00:23.607Z",
         "translatedAt": "2026-10-26T18:00:23.607Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:33.139Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:33.139Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_699f16ca9088819197fdf3c876e03312": {
       "id": "plugin_asdk_app_699f16ca9088819197fdf3c876e03312",
@@ -113560,7 +113875,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "面向政府合同数据的统一 MCP",
       "legacySummaryOriginal": "A unified MCP for govcon data",
@@ -113605,7 +113920,12 @@
         "reviewedAt": "2026-10-26T18:00:23.761Z",
         "translatedAt": "2026-10-26T18:00:23.761Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:36.125Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:36.125Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a3ed08a777481919fe5c4b0c1bb9171": {
       "id": "plugin_asdk_app_6a3ed08a777481919fe5c4b0c1bb9171",
@@ -113618,7 +113938,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "分析客户旅程数据",
       "legacySummaryOriginal": "Analyze Customer Journey Data",
@@ -113663,7 +113983,12 @@
         "reviewedAt": "2026-10-26T18:00:23.562Z",
         "translatedAt": "2026-10-26T18:00:23.562Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:38.586Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:38.586Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69e78df330808191bc4f4dec232da97e": {
       "id": "plugin_asdk_app_69e78df330808191bc4f4dec232da97e",
@@ -113676,7 +114001,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "分析你的营销数据",
       "legacySummaryOriginal": "Analyze your marketing data",
@@ -113721,7 +114046,12 @@
         "reviewedAt": "2026-10-26T18:00:23.567Z",
         "translatedAt": "2026-10-26T18:00:23.567Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:40.840Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:40.840Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6946f8ed4fa081918b79d24c71ab1041": {
       "id": "plugin_asdk_app_6946f8ed4fa081918b79d24c71ab1041",
@@ -113734,7 +114064,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "网站分析与洞察",
       "legacySummaryOriginal": "Website analytics and insights",
@@ -113779,7 +114109,12 @@
         "reviewedAt": "2026-10-26T18:00:23.711Z",
         "translatedAt": "2026-10-26T18:00:23.711Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:43.640Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:43.640Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a547b24c764819181ca4fefaafce08c": {
       "id": "plugin_asdk_app_6a547b24c764819181ca4fefaafce08c",
@@ -113792,7 +114127,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "在社交媒体上追踪品牌提及",
       "legacySummaryOriginal": "Track brand mentions on social",
@@ -113836,7 +114171,12 @@
         "reviewedAt": "2026-10-26T18:00:23.760Z",
         "translatedAt": "2026-10-26T18:00:23.760Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:45.988Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:45.988Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a00b1da0cf48191866e8ccfdd514289": {
       "id": "plugin_asdk_app_6a00b1da0cf48191866e8ccfdd514289",
@@ -113849,7 +114189,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "搜索详细的规划数据",
       "legacySummaryOriginal": "Search detailed planning data",
@@ -113893,7 +114233,12 @@
         "reviewedAt": "2026-10-26T18:00:23.705Z",
         "translatedAt": "2026-10-26T18:00:23.705Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:48.329Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:48.329Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a67dedebdc481918874df3d348b4931": {
       "id": "plugin_asdk_app_6a67dedebdc481918874df3d348b4931",
@@ -113906,7 +114251,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "风险查询与风险分析",
       "legacySummaryOriginal": "Hazard Lookup & Risk Analysis",
@@ -113950,7 +114295,12 @@
         "reviewedAt": "2026-10-26T18:00:23.739Z",
         "translatedAt": "2026-10-26T18:00:23.739Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:50.754Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:50.754Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a6b7507acac8191bf58510fd71bf9d1": {
       "id": "plugin_asdk_app_6a6b7507acac8191bf58510fd71bf9d1",
@@ -113963,7 +114313,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "社会领域资助方研究",
       "legacySummaryOriginal": "Social sector funder research",
@@ -114008,7 +114358,12 @@
         "reviewedAt": "2026-10-26T18:00:23.703Z",
         "translatedAt": "2026-10-26T18:00:23.703Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:53.672Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:53.672Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a03a83c004c81919cfb2ddb5dc605f3": {
       "id": "plugin_asdk_app_6a03a83c004c81919cfb2ddb5dc605f3",
@@ -114021,7 +114376,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "处理营销数据",
       "legacySummaryOriginal": "Work with marketing data",
@@ -114066,7 +114421,12 @@
         "reviewedAt": "2026-10-26T18:00:23.696Z",
         "translatedAt": "2026-10-26T18:00:23.696Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:55.934Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:55.934Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a709e3aa59c81919cf58da3451d6bc2": {
       "id": "plugin_asdk_app_6a709e3aa59c81919cf58da3451d6bc2",
@@ -114079,7 +114439,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找个人与公司",
       "legacySummaryOriginal": "Look up people and companies",
@@ -114123,7 +114483,12 @@
         "reviewedAt": "2026-10-26T18:00:23.744Z",
         "translatedAt": "2026-10-26T18:00:23.744Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:48:58.185Z",
+      "detailError": {
+        "at": "2026-10-27T05:48:58.185Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69d9466015208191bd0299f399695968": {
       "id": "plugin_asdk_app_69d9466015208191bd0299f399695968",
@@ -114195,7 +114560,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "询问你的货运数据",
       "legacySummaryOriginal": "Ask your freight data",
@@ -114232,7 +114597,12 @@
         "reviewedAt": "2026-10-26T18:00:23.579Z",
         "translatedAt": "2026-10-26T18:00:23.579Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:01.188Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:01.188Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69de66a3ae6c8191a29deae81697d641": {
       "id": "plugin_asdk_app_69de66a3ae6c8191a29deae81697d641",
@@ -114245,7 +114615,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "营销数据聚合",
       "legacySummaryOriginal": "Marketing data aggregation",
@@ -114290,7 +114660,12 @@
         "reviewedAt": "2026-10-26T18:00:23.595Z",
         "translatedAt": "2026-10-26T18:00:23.595Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:03.442Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:03.442Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69a87595e18c81919121d76e18c959bd": {
       "id": "plugin_asdk_app_69a87595e18c81919121d76e18c959bd",
@@ -114303,7 +114678,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "搜索全球政策数据",
       "legacySummaryOriginal": "Search global policy data",
@@ -114347,7 +114722,12 @@
         "reviewedAt": "2026-10-26T18:00:23.737Z",
         "translatedAt": "2026-10-26T18:00:23.737Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:05.766Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:05.766Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a5610d5d034819186cb063a811800aa": {
       "id": "plugin_asdk_app_6a5610d5d034819186cb063a811800aa",
@@ -114360,7 +114740,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "询问你的营销数据",
       "legacySummaryOriginal": "Ask your marketing data",
@@ -114404,7 +114784,12 @@
         "reviewedAt": "2026-10-26T18:00:23.572Z",
         "translatedAt": "2026-10-26T18:00:23.572Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:08.135Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:08.135Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a79a24c9b0c819197d220e7b655c8b5": {
       "id": "plugin_asdk_app_6a79a24c9b0c819197d220e7b655c8b5",
@@ -114417,7 +114802,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "在各 LLM 中追踪你的品牌",
       "legacySummaryOriginal": "Track your brand across LLMs",
@@ -114461,7 +114846,12 @@
         "reviewedAt": "2026-10-26T18:00:23.733Z",
         "translatedAt": "2026-10-26T18:00:23.733Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:10.423Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:10.423Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a580170fa748191a74978c8467a9d6f": {
       "id": "plugin_asdk_app_6a580170fa748191a74978c8467a9d6f",
@@ -114474,7 +114864,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "询问你的 Realpage 数据",
       "legacySummaryOriginal": "Ask your Realpage data",
@@ -114518,7 +114908,12 @@
         "reviewedAt": "2026-10-26T18:00:23.742Z",
         "translatedAt": "2026-10-26T18:00:23.742Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:12.750Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:12.750Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a3eabbf663c819186dda21300243f8e": {
       "id": "plugin_asdk_app_6a3eabbf663c819186dda21300243f8e",
@@ -114597,7 +114992,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "探索多户住宅数据",
       "legacySummaryOriginal": "Explore Multifamily Data",
@@ -114642,7 +115037,12 @@
         "reviewedAt": "2026-10-26T18:00:23.530Z",
         "translatedAt": "2026-10-26T18:00:23.530Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:15.189Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:15.189Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7b7fbdd6248191a6d7fb66123c5a8f": {
       "id": "plugin_asdk_app_6a7b7fbdd6248191a6d7fb66123c5a8f",
@@ -114655,7 +115055,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "注重隐私的分析",
       "legacySummaryOriginal": "Privacy-first analytics",
@@ -114700,7 +115100,12 @@
         "reviewedAt": "2026-10-26T18:00:23.651Z",
         "translatedAt": "2026-10-26T18:00:23.651Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:17.488Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:17.488Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a2534eb69588191a6e1a9d3dbff642d": {
       "id": "plugin_asdk_app_6a2534eb69588191a6e1a9d3dbff642d",
@@ -114713,7 +115118,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "网站分析证据",
       "legacySummaryOriginal": "Website analytics evidence",
@@ -114757,7 +115162,12 @@
         "reviewedAt": "2026-10-26T18:00:23.705Z",
         "translatedAt": "2026-10-26T18:00:23.705Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:19.879Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:19.879Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a623ee04d488191a233bbb316dcd84d": {
       "id": "plugin_asdk_app_6a623ee04d488191a233bbb316dcd84d",
@@ -114770,7 +115180,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "与你的 Evidence 数据对话",
       "legacySummaryOriginal": "Chat with your Evidence data",
@@ -114814,7 +115224,12 @@
         "reviewedAt": "2026-10-26T18:00:23.678Z",
         "translatedAt": "2026-10-26T18:00:23.678Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:22.236Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:22.236Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a550573ca1481919b3bb28af7c8a2c7": {
       "id": "plugin_asdk_app_6a550573ca1481919b3bb28af7c8a2c7",
@@ -114827,7 +115242,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "在 AI 聊天中追踪你的品牌",
       "legacySummaryOriginal": "Track your brand in AI chats",
@@ -114871,7 +115286,12 @@
         "reviewedAt": "2026-10-26T18:00:23.762Z",
         "translatedAt": "2026-10-26T18:00:23.762Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:24.513Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:24.513Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a2824334d588191b362051e122252dc": {
       "id": "plugin_asdk_app_6a2824334d588191b362051e122252dc",
@@ -114884,7 +115304,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "飞机估值与研究",
       "legacySummaryOriginal": "Value and research aircraft",
@@ -114928,7 +115348,12 @@
         "reviewedAt": "2026-10-26T18:00:23.632Z",
         "translatedAt": "2026-10-26T18:00:23.632Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:26.779Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:26.779Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a08cc516b00819185f774d7e6c9205a": {
       "id": "plugin_asdk_app_6a08cc516b00819185f774d7e6c9205a",
@@ -114941,7 +115366,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "干旱分析",
       "legacySummaryOriginal": "Drought analysis",
@@ -114985,7 +115410,12 @@
         "reviewedAt": "2026-10-26T18:00:23.668Z",
         "translatedAt": "2026-10-26T18:00:23.668Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:29.086Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:29.086Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69b9dc048c288191955640d6adcd00b4": {
       "id": "plugin_asdk_app_69b9dc048c288191955640d6adcd00b4",
@@ -114998,7 +115428,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "搜索华盛顿特区政府合同",
       "legacySummaryOriginal": "Search DC government contracts",
@@ -115043,7 +115473,12 @@
         "reviewedAt": "2026-10-26T18:00:23.663Z",
         "translatedAt": "2026-10-26T18:00:23.663Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:31.442Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:31.442Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996": {
       "id": "plugin_asdk_app_6a56f1e03b308191bc570ccde08d3996",
@@ -115056,7 +115491,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "AI 原生技术图谱",
       "legacySummaryOriginal": "AI native technographics",
@@ -115100,7 +115535,12 @@
         "reviewedAt": "2026-10-26T18:00:23.784Z",
         "translatedAt": "2026-10-26T18:00:23.784Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:33.801Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:33.801Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69a6ce9775ac8191a7d4b9ea0cfa5e36": {
       "id": "plugin_asdk_app_69a6ce9775ac8191a7d4b9ea0cfa5e36",
@@ -115113,7 +115553,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "品牌的 AI 可见性 Agent",
       "legacySummaryOriginal": "Brand's AI visibility agent",
@@ -115158,7 +115598,12 @@
         "reviewedAt": "2026-10-26T18:00:23.543Z",
         "translatedAt": "2026-10-26T18:00:23.543Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:36.153Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:36.153Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a2792c624bc81919203ca37f2002068": {
       "id": "plugin_asdk_app_6a2792c624bc81919203ca37f2002068",
@@ -115171,7 +115616,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "分析你的问卷回复",
       "legacySummaryOriginal": "Analyze your survey responses",
@@ -115215,7 +115660,12 @@
         "reviewedAt": "2026-10-26T18:00:23.646Z",
         "translatedAt": "2026-10-26T18:00:23.646Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:39.020Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:39.020Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a2b5f32daec8191816385768400869f": {
       "id": "plugin_asdk_app_6a2b5f32daec8191816385768400869f",
@@ -115228,7 +115678,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "连接你的农场数据",
       "legacySummaryOriginal": "Connect to your farm data",
@@ -115272,7 +115722,12 @@
         "reviewedAt": "2026-10-26T18:00:23.777Z",
         "translatedAt": "2026-10-26T18:00:23.777Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:41.367Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:41.367Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a0b6f15203881919f5b90e74321fb24": {
       "id": "plugin_asdk_app_6a0b6f15203881919f5b90e74321fb24",
@@ -115285,7 +115740,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "连接客户情报",
       "legacySummaryOriginal": "Connect Customer Intelligence",
@@ -115330,7 +115785,12 @@
         "reviewedAt": "2026-10-26T18:00:23.676Z",
         "translatedAt": "2026-10-26T18:00:23.676Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:43.569Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:43.569Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a4a5924bbe08191adba09cf6018cd21": {
       "id": "plugin_asdk_app_6a4a5924bbe08191adba09cf6018cd21",
@@ -115343,7 +115803,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "受治理的 Azadea BI 洞察",
       "legacySummaryOriginal": "Governed Azadea BI insights",
@@ -115387,7 +115847,12 @@
         "reviewedAt": "2026-10-26T18:00:23.537Z",
         "translatedAt": "2026-10-26T18:00:23.537Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:45.798Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:45.798Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7c7752de408191a101b78e59fda025": {
       "id": "plugin_asdk_app_6a7c7752de408191a101b78e59fda025",
@@ -115400,7 +115865,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "实验与产品数据",
       "legacySummaryOriginal": "Experiment and product data",
@@ -115444,7 +115909,12 @@
         "reviewedAt": "2026-10-26T18:00:23.662Z",
         "translatedAt": "2026-10-26T18:00:23.662Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:48.130Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:48.130Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a60a8b378ec8191b43d237119f7fa0d": {
       "id": "plugin_asdk_app_6a60a8b378ec8191b43d237119f7fa0d",
@@ -115505,10 +115975,10 @@
           "total_tokens": 1537
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-26T05:21:16.878Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-27T07:49:50.429Z",
       "detailError": {
-        "at": "2026-10-26T04:21:16.878Z",
+        "at": "2026-10-27T05:49:50.429Z",
         "message": "No usable official description reference"
       }
     },
@@ -115523,7 +115993,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找英国法律住房数据",
       "legacySummaryOriginal": "Find UK legal housing data",
@@ -115567,7 +116037,12 @@
         "reviewedAt": "2026-10-26T18:00:23.743Z",
         "translatedAt": "2026-10-26T18:00:23.743Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:52.852Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:52.852Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a577b9a9b94819188c363160d99cefb": {
       "id": "plugin_asdk_app_6a577b9a9b94819188c363160d99cefb",
@@ -115580,7 +116055,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "管理数据管道",
       "legacySummaryOriginal": "Manage data pipelines",
@@ -115624,7 +116099,12 @@
         "reviewedAt": "2026-10-26T18:00:23.678Z",
         "translatedAt": "2026-10-26T18:00:23.678Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:49:55.148Z",
+      "detailError": {
+        "at": "2026-10-27T05:49:55.148Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69d61a063cac8191a0694067973607e1": {
       "id": "plugin_asdk_app_69d61a063cac8191a0694067973607e1",
@@ -115685,10 +116165,10 @@
           "total_tokens": 1451
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-26T05:21:19.298Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-27T07:49:58.154Z",
       "detailError": {
-        "at": "2026-10-26T04:21:19.298Z",
+        "at": "2026-10-27T05:49:58.154Z",
         "message": "No usable official description reference"
       }
     },
@@ -115703,7 +116183,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查询数据并构建洞察",
       "legacySummaryOriginal": "Query data and build insights",
@@ -115748,7 +116228,12 @@
         "reviewedAt": "2026-10-26T18:00:23.566Z",
         "translatedAt": "2026-10-26T18:00:23.566Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:00.500Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:00.500Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a722f577c248191ae60b6afb988342e": {
       "id": "plugin_asdk_app_6a722f577c248191ae60b6afb988342e",
@@ -115761,7 +116246,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "对话式网站分析",
       "legacySummaryOriginal": "Analítica web conversacional",
@@ -115805,7 +116290,12 @@
         "reviewedAt": "2026-10-26T18:00:23.749Z",
         "translatedAt": "2026-10-26T18:00:23.749Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:02.829Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:02.829Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8774407d4081919100aae8d18bba79": {
       "id": "plugin_asdk_app_6a8774407d4081919100aae8d18bba79",
@@ -115818,7 +116308,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "创作内容，赢得 AI 搜索",
       "legacySummaryOriginal": "Craft content. Win AI search",
@@ -115862,7 +116352,12 @@
         "reviewedAt": "2026-10-26T18:00:23.528Z",
         "translatedAt": "2026-10-26T18:00:23.528Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:05.068Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:05.068Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7634d6666c8191b3983771aab9f0d7": {
       "id": "plugin_asdk_app_6a7634d6666c8191b3983771aab9f0d7",
@@ -115875,7 +116370,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "全球商标数据",
       "legacySummaryOriginal": "Global trademark data",
@@ -115919,7 +116414,12 @@
         "reviewedAt": "2026-10-26T18:00:23.650Z",
         "translatedAt": "2026-10-26T18:00:23.650Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:07.357Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:07.357Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a63863d58c081918f626f59a683791e": {
       "id": "plugin_asdk_app_6a63863d58c081918f626f59a683791e",
@@ -115932,7 +116432,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找并分析美国房产",
       "legacySummaryOriginal": "Find and analyze US properties",
@@ -115976,7 +116476,12 @@
         "reviewedAt": "2026-10-26T18:00:23.583Z",
         "translatedAt": "2026-10-26T18:00:23.583Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:09.889Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:09.889Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a54bd377acc8191ab61241cccd56979": {
       "id": "plugin_asdk_app_6a54bd377acc8191ab61241cccd56979",
@@ -115989,7 +116494,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "评级宝可梦卡片价格",
       "legacySummaryOriginal": "Graded Pokémon card prices",
@@ -116037,7 +116542,12 @@
           "total_tokens": 1807
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:12.284Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:12.284Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a552795016c8191b525649af7df1a78": {
       "id": "plugin_asdk_app_6a552795016c8191b525649af7df1a78",
@@ -116050,7 +116560,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "了解你的用户",
       "legacySummaryOriginal": "Understand your users",
@@ -116095,7 +116605,12 @@
         "reviewedAt": "2026-10-26T18:00:23.543Z",
         "translatedAt": "2026-10-26T18:00:23.543Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:14.734Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:14.734Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a85a87c8ab881918ae0123f7314759e": {
       "id": "plugin_asdk_app_6a85a87c8ab881918ae0123f7314759e",
@@ -116169,7 +116684,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "与你的业务数据对话",
       "legacySummaryOriginal": "Chat with your business data",
@@ -116213,7 +116728,12 @@
         "reviewedAt": "2026-10-26T18:00:23.633Z",
         "translatedAt": "2026-10-26T18:00:23.633Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:16.968Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:16.968Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7f1d4e9f388191ab1e0f00bf041b2b": {
       "id": "plugin_asdk_app_6a7f1d4e9f388191ab1e0f00bf041b2b",
@@ -116226,7 +116746,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找并分析创作者",
       "legacySummaryOriginal": "Find and analyze creators",
@@ -116271,7 +116791,12 @@
         "reviewedAt": "2026-10-26T18:00:23.586Z",
         "translatedAt": "2026-10-26T18:00:23.586Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:19.224Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:19.224Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a79cfc7d22081918410284c05c5cdeb": {
       "id": "plugin_asdk_app_6a79cfc7d22081918410284c05c5cdeb",
@@ -116284,7 +116809,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "AI 冲浪预报",
       "legacySummaryOriginal": "Previsão de surf com IA",
@@ -116328,7 +116853,12 @@
         "reviewedAt": "2026-10-26T18:00:23.775Z",
         "translatedAt": "2026-10-26T18:00:23.775Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:21.708Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:21.708Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69e0ace8682481919ed9bce7fb231a52": {
       "id": "plugin_asdk_app_69e0ace8682481919ed9bce7fb231a52",
@@ -116341,7 +116871,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查询你的营销数据仓库",
       "legacySummaryOriginal": "Query your marketing warehouse",
@@ -116386,7 +116916,12 @@
         "reviewedAt": "2026-10-26T18:00:23.608Z",
         "translatedAt": "2026-10-26T18:00:23.608Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:24.093Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:24.093Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a515f15215c819196d35d1462b6c542": {
       "id": "plugin_asdk_app_6a515f15215c819196d35d1462b6c542",
@@ -116399,7 +116934,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "发布商网站分析",
       "legacySummaryOriginal": "Publisher site analytics",
@@ -116444,7 +116979,12 @@
         "reviewedAt": "2026-10-26T18:00:23.678Z",
         "translatedAt": "2026-10-26T18:00:23.678Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:26.319Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:26.319Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a0d6c1e67588191b68c0492dfbfe1da": {
       "id": "plugin_asdk_app_6a0d6c1e67588191b68c0492dfbfe1da",
@@ -116457,7 +116997,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "问你的数据任何问题",
       "legacySummaryOriginal": "Ask your data anything.",
@@ -116501,7 +117041,12 @@
         "reviewedAt": "2026-10-26T18:00:23.620Z",
         "translatedAt": "2026-10-26T18:00:23.620Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:28.682Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:28.682Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a7ddd659a0c8191baa547c058e400bb": {
       "id": "plugin_asdk_app_6a7ddd659a0c8191baa547c058e400bb",
@@ -116514,7 +117059,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "物流运营分析",
       "legacySummaryOriginal": "Logistics operations analytics",
@@ -116562,7 +117107,12 @@
           "total_tokens": 1835
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:30.998Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:30.998Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6970b8cdeb548191ae0bf1a90bf4a5f5": {
       "id": "plugin_asdk_app_6970b8cdeb548191ae0bf1a90bf4a5f5",
@@ -116575,7 +117125,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查询职业板式网球数据",
       "legacySummaryOriginal": "Query professional padel data",
@@ -116620,7 +117170,12 @@
         "reviewedAt": "2026-10-26T18:00:23.731Z",
         "translatedAt": "2026-10-26T18:00:23.731Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:33.322Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:33.322Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a5e636eabcc8191b055490191e2a3ee": {
       "id": "plugin_asdk_app_6a5e636eabcc8191b055490191e2a3ee",
@@ -116633,7 +117188,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "面向 Agent 的会话回放",
       "legacySummaryOriginal": "Session replay for agents",
@@ -116678,7 +117233,12 @@
         "reviewedAt": "2026-10-26T18:00:23.619Z",
         "translatedAt": "2026-10-26T18:00:23.619Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:35.666Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:35.666Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a68a3cbbb9481918cc81087bc39a17a": {
       "id": "plugin_asdk_app_6a68a3cbbb9481918cc81087bc39a17a",
@@ -116691,7 +117251,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "迪拜房地产数据",
       "legacySummaryOriginal": "Dubai Real Estate Data",
@@ -116736,7 +117296,12 @@
         "reviewedAt": "2026-10-26T18:00:23.607Z",
         "translatedAt": "2026-10-26T18:00:23.607Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:38.069Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:38.069Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a90b43d9c3c8191ba99cecd23423232": {
       "id": "plugin_asdk_app_6a90b43d9c3c8191ba99cecd23423232",
@@ -116749,7 +117314,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "真实应用截图与 A/B 测试",
       "legacySummaryOriginal": "Real app screens and A/B tests",
@@ -116793,7 +117358,12 @@
         "reviewedAt": "2026-10-26T18:00:23.706Z",
         "translatedAt": "2026-10-26T18:00:23.706Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:40.942Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:40.942Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a73741a42848191a598382633e8bc0a": {
       "id": "plugin_asdk_app_6a73741a42848191a598382633e8bc0a",
@@ -116806,7 +117376,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "分析 AI 搜索获客",
       "legacySummaryOriginal": "Analyze AI search acquisition",
@@ -116850,7 +117420,12 @@
         "reviewedAt": "2026-10-26T18:00:23.775Z",
         "translatedAt": "2026-10-26T18:00:23.775Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:43.253Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:43.253Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8cc6dc38ac819198b700b1b4e67fb0": {
       "id": "plugin_asdk_app_6a8cc6dc38ac819198b700b1b4e67fb0",
@@ -116929,7 +117504,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "你的零售洞察助手",
       "legacySummaryOriginal": "Your retail insights assistant",
@@ -116974,7 +117549,12 @@
         "reviewedAt": "2026-10-26T18:00:23.731Z",
         "translatedAt": "2026-10-26T18:00:23.731Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:45.655Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:45.655Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a888e2ed7288191b4a7a5789517b783": {
       "id": "plugin_asdk_app_6a888e2ed7288191b4a7a5789517b783",
@@ -116987,7 +117567,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "追踪 AI 可见性、AEO 与 GEO",
       "legacySummaryOriginal": "Track AI Visibility, AEO & GEO",
@@ -117032,7 +117612,12 @@
         "reviewedAt": "2026-10-26T18:00:23.681Z",
         "translatedAt": "2026-10-26T18:00:23.681Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:48.089Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:48.089Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a21d9628cac8191bfe79ebbbf898379": {
       "id": "plugin_asdk_app_6a21d9628cac8191bfe79ebbbf898379",
@@ -117045,7 +117630,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "电商销售分析",
       "legacySummaryOriginal": "E-commerce sales analytics",
@@ -117089,7 +117674,12 @@
         "reviewedAt": "2026-10-26T18:00:23.579Z",
         "translatedAt": "2026-10-26T18:00:23.579Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:52.455Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:52.455Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8163d9224c81919fcf99ae872b223e": {
       "id": "plugin_asdk_app_6a8163d9224c81919fcf99ae872b223e",
@@ -117150,10 +117740,10 @@
           "total_tokens": 1829
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-26T05:21:21.659Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-27T07:50:54.916Z",
       "detailError": {
-        "at": "2026-10-26T04:21:21.659Z",
+        "at": "2026-10-27T05:50:54.916Z",
         "message": "No usable official description reference"
       }
     },
@@ -117168,7 +117758,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "管理客户反馈",
       "legacySummaryOriginal": "Manage customer feedback",
@@ -117213,7 +117803,12 @@
         "reviewedAt": "2026-10-26T18:00:23.752Z",
         "translatedAt": "2026-10-26T18:00:23.752Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-27T06:50:57.793Z",
+      "detailError": {
+        "at": "2026-10-27T05:50:57.793Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a5f43058c0081918bcb6f6c4aeaaaec": {
       "id": "plugin_asdk_app_6a5f43058c0081918bcb6f6c4aeaaaec",
@@ -406998,23 +407593,23 @@
     "runId": "40448357028",
     "runAttempt": "1",
     "startedAt": "2026-10-27T04:12:04.753Z",
-    "updatedAt": "2026-10-27T05:45:52.517Z",
+    "updatedAt": "2026-10-27T05:50:57.888Z",
     "mode": "incremental",
-    "detailRequests": 2225,
+    "detailRequests": 2349,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
     "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 2225,
+    "errors": 2349,
     "stats": {
       "total": 5242,
       "details": 4957,
       "translated": 4856,
       "missing": 30,
       "removed": 326,
-      "pendingDetails": 2343,
+      "pendingDetails": 2462,
       "pendingTranslations": 386
     }
   }
