@@ -266206,9 +266206,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:53:56.788Z",
       "detailFailures": 0,
-      "translationAttemptRun": "40206412107:1",
+      "translationAttemptRun": "40481054924:1",
       "translationError": {
-        "at": "2026-10-25T15:22:43.177Z",
+        "at": "2026-10-27T09:57:48.573Z",
         "message": "Workers AI translation failed: Translation lost protected value 1",
         "transient": true
       }
@@ -268126,9 +268126,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:54:51.079Z",
       "detailFailures": 0,
-      "translationAttemptRun": "40206412107:1",
+      "translationAttemptRun": "40481054924:1",
       "translationError": {
-        "at": "2026-10-25T15:23:18.809Z",
+        "at": "2026-10-27T09:57:53.836Z",
         "message": "Workers AI translation failed: Translation lost protected value 1",
         "transient": true
       }
@@ -270257,9 +270257,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:56:12.122Z",
       "detailFailures": 0,
-      "translationAttemptRun": "40206412107:1",
+      "translationAttemptRun": "40481054924:1",
       "translationError": {
-        "at": "2026-10-25T15:24:24.172Z",
+        "at": "2026-10-27T09:58:52.760Z",
         "message": "Workers AI translation failed: Translation missing or mistranslating confirmation",
         "transient": true
       },
@@ -273224,9 +273224,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:57:34.264Z",
       "detailFailures": 0,
-      "translationAttemptRun": "40206412107:1",
+      "translationAttemptRun": "40481054924:1",
       "translationError": {
-        "at": "2026-10-25T15:24:41.672Z",
+        "at": "2026-10-27T09:58:59.773Z",
         "message": "Workers AI translation failed: Translation missing or mistranslating positions",
         "transient": true
       }
@@ -273821,9 +273821,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:57:52.366Z",
       "detailFailures": 0,
-      "translationAttemptRun": "40206412107:1",
+      "translationAttemptRun": "40481054924:1",
       "translationError": {
-        "at": "2026-10-25T15:24:54.325Z",
+        "at": "2026-10-27T09:59:24.164Z",
         "message": "Workers AI translation failed: Translation lost protected value 300",
         "transient": true
       }
@@ -282767,9 +282767,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:08:19.794Z",
       "detailFailures": 0,
-      "translationAttemptRun": "40206412107:1",
+      "translationAttemptRun": "40481054924:1",
       "translationError": {
-        "at": "2026-10-25T15:25:00.666Z",
+        "at": "2026-10-27T09:59:22.823Z",
         "message": "Workers AI translation failed: Translation lost protected value 3",
         "transient": true
       }
@@ -288818,9 +288818,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:56.419Z",
       "detailFailures": 2,
-      "translationAttemptRun": "40206412107:1",
+      "translationAttemptRun": "40481054924:1",
       "translationError": {
-        "at": "2026-10-25T15:24:12.673Z",
+        "at": "2026-10-27T09:58:22.318Z",
         "message": "Workers AI translation failed: Translation missing or mistranslating positions",
         "transient": true
       },
@@ -293623,9 +293623,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:56.268Z",
       "detailFailures": 2,
-      "translationAttemptRun": "40206412107:1",
+      "translationAttemptRun": "40481054924:1",
       "translationError": {
-        "at": "2026-10-25T15:24:30.535Z",
+        "at": "2026-10-27T09:58:55.270Z",
         "message": "Workers AI translation failed: Translation lost protected value 4",
         "transient": true
       },
@@ -301624,6 +301624,11 @@
       "detailError": {
         "at": "2026-10-27T07:09:00.228Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:55:59.682Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6ac112fa2bb08191bb32ceb318aca497": {
@@ -305835,19 +305840,19 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:52:22.997Z",
       "detailFailures": 1,
-      "translationAttemptRun": "39573652645:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
-        "summary": "搜索受监管的牙科护理",
-        "description": "当用户明确要求牙科护理、牙科卫生护理、预约或清洁服务时，ClinMatch可帮助用户在监督培训诊所中寻找相关服务——不适用于症状咨询、紧急情况或无关请求。\n在ChatGPT中使用此插件可通过城市、地区或国家搜索公开列表，查看各列表提供的服务内容，并跳转至ClinMatch网站请求预约。\n\n该集成功能为只读模式：可在ChatGPT中搜索并展示列表详情，但无法在ChatGPT内创建ClinMatch账户、预订就诊或收集个人信息。\n预约请求需通过clinmatch.io网站，使用各列表页提供的预约页面完成。\n\nClinMatch展示的护理服务均在受监管的临床培训环境中提供。\n列表详情、监管说明及排班步骤均来自各项目官方发布的列表信息。",
-        "sourceHash": "c0fec8ad0e4cef12b7a66e105452fffb61f993cbfddc301643022cb69f96f058",
+        "summary": "监督下的牙科清洁服务",
+        "description": "当用户明确要求牙科护理、牙科卫生护理、预约或清洁时，ClinMatch会帮助人们在监督培训诊所中找到相关服务——不适用于症状描述、紧急情况或无关请求。\n在ChatGPT中使用此插件可通过城市、地区或国家搜索公开列表，查看每个列表提供的服务内容，并打开ClinMatch网站申请预约。\n\n该集成仅支持只读操作：可在ChatGPT中搜索并查看列表详情，但无法在系统内创建ClinMatch账户、预订就诊或收集个人信息。\n所有预约申请需通过clinmatch.io网站，使用各列表页提供的预约页面完成。\n\nClinMatch展示的护理服务均在监督临床培训环境中提供。\n列表详情、监督备注及排班步骤均来自各项目官方发布的信息。",
+        "sourceHash": "baa453e053f501cd7d2229c2692b74d608b2a1514fd7d29549c947ade8ba1b19",
         "status": "translated",
         "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-        "translatedAt": "2026-10-21T09:05:53.734Z",
+        "translatedAt": "2026-10-27T09:57:18.056Z",
         "qualityVersion": 2,
         "usage": {
           "requests": 1,
-          "neurons": 31.15755271911621,
-          "total_tokens": 1824
+          "neurons": 26.743335723876953,
+          "total_tokens": 1680
         }
       },
       "detailNextAttemptAt": "2026-10-27T08:10:09.877Z",
@@ -305917,6 +305922,11 @@
       "detailError": {
         "at": "2026-10-27T07:10:12.269Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:55:59.836Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6ac099f97cfc81918770b93d03f51ab8": {
@@ -307385,19 +307395,19 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:04.401Z",
       "detailFailures": 2,
-      "translationAttemptRun": "39813445048:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
-        "summary": "通过Ava Studio创作",
-        "description": "在Ava Studio中研究短视频参考素材，管理品牌媒体内容，起草活动概念方案，生成图片/视频/音频素材，并对项目进行编辑或导出。通过Ava登录以选择权限设置和月度信用额度预算。操作将使用现有账户信用额度，并返回使用情况信息。",
-        "sourceHash": "749df054c7f68d9c21474f127d0d0676af81c71f3069a659a2330e2f41b81250",
+        "summary": "在Ava Studio中创作",
+        "description": "在Ava Studio中研究短视频参考素材、管理品牌媒体资料、起草活动方案、生成图片/视频/音频内容，并进行项目编辑或导出。\n通过Ava登录可设置权限和月度信用额度。\n操作将消耗账户现有信用额度，并返回使用数据。",
+        "sourceHash": "a2fdd70ce7090486bc611595ad72568698f9ef83e2fd16bab4be2a2701f8b137",
         "status": "translated",
         "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-        "translatedAt": "2026-10-22T16:27:23.639Z",
+        "translatedAt": "2026-10-27T09:57:14.860Z",
         "qualityVersion": 2,
         "usage": {
           "requests": 1,
-          "neurons": 27.011205673217773,
-          "total_tokens": 1587
+          "neurons": 26.75815773010254,
+          "total_tokens": 1577
         }
       },
       "detailNextAttemptAt": "2026-10-27T09:10:40.919Z",
@@ -319623,9 +319633,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:58:06.961Z",
       "detailFailures": 0,
-      "translationAttemptRun": "40206412107:1",
+      "translationAttemptRun": "40481054924:1",
       "translationError": {
-        "at": "2026-10-25T15:23:46.441Z",
+        "at": "2026-10-27T09:57:50.659Z",
         "message": "Workers AI translation failed: Translation lost protected value 1",
         "transient": true
       }
@@ -319856,9 +319866,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:58:14.488Z",
       "detailFailures": 0,
-      "translationAttemptRun": "40206412107:1",
+      "translationAttemptRun": "40481054924:1",
       "translationError": {
-        "at": "2026-10-25T15:23:48.304Z",
+        "at": "2026-10-27T09:58:20.894Z",
         "message": "Workers AI translation failed: Translation lost protected value 100",
         "transient": true
       }
@@ -323229,19 +323239,19 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:00:02.303Z",
       "detailFailures": 2,
-      "translationAttemptRun": "40105570984:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
-        "summary": "管理您的电子邮件别名",
-        "description": "创建、查找和管理虚拟邮箱：Mailphantom邮件别名，可将邮件转发到您的账户。通过名称、电子邮件地址或网站URL搜索别名。查看转发状态、投递次数以及最近发件人和主题的元数据。使用账户可用的已验证域名创建虚拟邮箱，更新标签和网站URL，暂停或恢复转发，并永久删除虚拟邮箱。\n\n通过OAuth连接已验证的Mailphantom账户。访问权限仅限于已连接的账户及其可用域名。Mailphantom不会存储邮件正文，也不会通过此插件提供收件箱。删除虚拟邮箱是不可逆的，其电子邮件地址无法再次使用。",
-        "sourceHash": "3fcbb300a5d701f6dd8a56fff9628544629e673084628c18b4f6ee3cc45965ec",
+        "summary": "可重复使用的私有电子邮件别名",
+        "description": "创建、查找和管理幻影：Mailphantom电子邮件别名会将邮件转发到您的账户。可通过别名名称、电子邮件地址或网站URL搜索别名。查看转发状态、送达次数以及最近发件人和主题元数据。使用账户可用的经过验证的域名创建幻影，更新标签和网站URL，暂停或恢复转发，并永久删除幻影。\n\n通过OAuth连接经过验证的Mailphantom账户。访问权限仅限于已连接账户及其可用域名。Mailphantom通过此插件不存储邮件正文或提供邮箱。删除幻影为永久操作，其电子邮件地址无法被重新使用。",
+        "sourceHash": "a3236e7b1010c9cd0bc19e06fe56e19dd87674ba326ec674fc924a20e5aae204",
         "status": "translated",
         "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-        "translatedAt": "2026-10-24T15:12:47.951Z",
+        "translatedAt": "2026-10-27T09:57:16.535Z",
         "qualityVersion": 2,
         "usage": {
           "requests": 1,
-          "neurons": 35.7377815246582,
-          "total_tokens": 1948
+          "neurons": 31.07513999938965,
+          "total_tokens": 1795
         }
       },
       "detailNextAttemptAt": "2026-10-27T09:11:24.154Z",
@@ -324542,19 +324552,19 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:00:43.055Z",
       "detailFailures": 1,
-      "translationAttemptRun": "40105570984:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
-        "summary": "你的旅程，随时启程",
-        "description": "Compi将您通过ChatGPT规划的旅程转化为可在旅途中使用的旅行伙伴。\n\n请ChatGPT将您的行程保存至Compi，它会在您的Compi账户中创建天数、地点、住宿、行程和清单。\n之后您可以询问某一天的计划内容，添加或调整活动，或检查行程中的缺口，例如无住宿的夜晚、未确认的预订、长途驾驶日或缺失的入境许可。\n\n在Compi网页应用中，您将获得当日计划及下一步导航、包含驾驶时间的地图、您的住宿信息、打包购物清单、共享旅行基金以及行程回顾。\n您的行程在离线状态下仍可阅读。\n\nCompi仅负责规划和保存。\n它不会进行任何预订或支付。\n每次更改都可以撤销，删除行程前Compi会进行确认。",
-        "sourceHash": "577ef288bd336bca957c56a118f90c71dcc540ab26574818fb0ad4d47a7b789e",
+        "summary": "规划行程，保持连贯",
+        "description": "Compi将您通过ChatGPT规划的行程转化为可在旅途中使用的旅行伙伴。\n\n请ChatGPT将您的行程保存至Compi，它将在您的Compi账户中生成每日安排、地点、住宿、车程和清单。\n之后您可以询问某天的计划内容，添加或调整活动，或检查行程中的缺口，例如无住宿的夜晚、开放预订、长距离驾驶日或缺失的入境许可。\n\n在Compi网页应用中，您将获得当天的计划及下一步导航指引、包含车程时间的地图、住宿信息、打包购物清单、共享行程基金以及行程结束后的回顾总结。\n您的行程可离线阅读。\n\nCompi仅提供规划和保存功能。\n它不会进行任何预订或支付。\n所有更改均可撤销，删除行程前Compi会先进行确认。",
+        "sourceHash": "b494440baf986ace7755a6714524d30e1dab749958c18ebc22509a03b7dae8c6",
         "status": "translated",
         "model": "@cf/qwen/qwen3-30b-a3b-fp8",
-        "translatedAt": "2026-10-24T15:13:31.378Z",
+        "translatedAt": "2026-10-27T09:57:22.753Z",
         "qualityVersion": 2,
         "usage": {
           "requests": 1,
-          "neurons": 30.731143951416016,
-          "total_tokens": 1838
+          "neurons": 29.568477630615234,
+          "total_tokens": 1799
         }
       },
       "detailNextAttemptAt": "2026-10-27T08:11:28.807Z",
@@ -326999,9 +327009,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:01:58.897Z",
       "detailFailures": 0,
-      "translationAttemptRun": "40206412107:1",
+      "translationAttemptRun": "40481054924:1",
       "translationError": {
-        "at": "2026-10-25T15:23:57.567Z",
+        "at": "2026-10-27T09:58:33.845Z",
         "message": "Workers AI translation failed: Translation lost protected value 1",
         "transient": true
       }
@@ -417921,30 +417931,86 @@
         "neurons": 27.386150360107422,
         "total_tokens": 1601
       }
+    },
+    "a2fdd70ce7090486bc611595ad72568698f9ef83e2fd16bab4be2a2701f8b137": {
+      "summary": "在Ava Studio中创作",
+      "description": "在Ava Studio中研究短视频参考素材、管理品牌媒体资料、起草活动方案、生成图片/视频/音频内容，并进行项目编辑或导出。\n通过Ava登录可设置权限和月度信用额度。\n操作将消耗账户现有信用额度，并返回使用数据。",
+      "sourceHash": "a2fdd70ce7090486bc611595ad72568698f9ef83e2fd16bab4be2a2701f8b137",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-27T09:57:14.860Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 26.75815773010254,
+        "total_tokens": 1577
+      }
+    },
+    "a3236e7b1010c9cd0bc19e06fe56e19dd87674ba326ec674fc924a20e5aae204": {
+      "summary": "可重复使用的私有电子邮件别名",
+      "description": "创建、查找和管理幻影：Mailphantom电子邮件别名会将邮件转发到您的账户。可通过别名名称、电子邮件地址或网站URL搜索别名。查看转发状态、送达次数以及最近发件人和主题元数据。使用账户可用的经过验证的域名创建幻影，更新标签和网站URL，暂停或恢复转发，并永久删除幻影。\n\n通过OAuth连接经过验证的Mailphantom账户。访问权限仅限于已连接账户及其可用域名。Mailphantom通过此插件不存储邮件正文或提供邮箱。删除幻影为永久操作，其电子邮件地址无法被重新使用。",
+      "sourceHash": "a3236e7b1010c9cd0bc19e06fe56e19dd87674ba326ec674fc924a20e5aae204",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-27T09:57:16.535Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 31.07513999938965,
+        "total_tokens": 1795
+      }
+    },
+    "baa453e053f501cd7d2229c2692b74d608b2a1514fd7d29549c947ade8ba1b19": {
+      "summary": "监督下的牙科清洁服务",
+      "description": "当用户明确要求牙科护理、牙科卫生护理、预约或清洁时，ClinMatch会帮助人们在监督培训诊所中找到相关服务——不适用于症状描述、紧急情况或无关请求。\n在ChatGPT中使用此插件可通过城市、地区或国家搜索公开列表，查看每个列表提供的服务内容，并打开ClinMatch网站申请预约。\n\n该集成仅支持只读操作：可在ChatGPT中搜索并查看列表详情，但无法在系统内创建ClinMatch账户、预订就诊或收集个人信息。\n所有预约申请需通过clinmatch.io网站，使用各列表页提供的预约页面完成。\n\nClinMatch展示的护理服务均在监督临床培训环境中提供。\n列表详情、监督备注及排班步骤均来自各项目官方发布的信息。",
+      "sourceHash": "baa453e053f501cd7d2229c2692b74d608b2a1514fd7d29549c947ade8ba1b19",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-27T09:57:18.056Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 26.743335723876953,
+        "total_tokens": 1680
+      }
+    },
+    "b494440baf986ace7755a6714524d30e1dab749958c18ebc22509a03b7dae8c6": {
+      "summary": "规划行程，保持连贯",
+      "description": "Compi将您通过ChatGPT规划的行程转化为可在旅途中使用的旅行伙伴。\n\n请ChatGPT将您的行程保存至Compi，它将在您的Compi账户中生成每日安排、地点、住宿、车程和清单。\n之后您可以询问某天的计划内容，添加或调整活动，或检查行程中的缺口，例如无住宿的夜晚、开放预订、长距离驾驶日或缺失的入境许可。\n\n在Compi网页应用中，您将获得当天的计划及下一步导航指引、包含车程时间的地图、住宿信息、打包购物清单、共享行程基金以及行程结束后的回顾总结。\n您的行程可离线阅读。\n\nCompi仅提供规划和保存功能。\n它不会进行任何预订或支付。\n所有更改均可撤销，删除行程前Compi会先进行确认。",
+      "sourceHash": "b494440baf986ace7755a6714524d30e1dab749958c18ebc22509a03b7dae8c6",
+      "status": "translated",
+      "model": "@cf/qwen/qwen3-30b-a3b-fp8",
+      "translatedAt": "2026-10-27T09:57:22.753Z",
+      "qualityVersion": 2,
+      "usage": {
+        "requests": 1,
+        "neurons": 29.568477630615234,
+        "total_tokens": 1799
+      }
     }
   },
   "lastRun": {
     "runId": "40481054924",
     "runAttempt": "1",
     "startedAt": "2026-10-27T09:29:15.354Z",
-    "updatedAt": "2026-10-27T09:55:55.447Z",
+    "updatedAt": "2026-10-27T09:59:24.627Z",
     "mode": "translate",
     "detailRequests": 0,
-    "translationRequests": 523,
-    "translationAttempts": 35,
+    "translationRequests": 592,
+    "translationAttempts": 50,
     "translationLimit": 50,
     "aiConfigured": true,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 33,
+    "errors": 46,
     "stats": {
       "total": 5242,
       "details": 4957,
-      "translated": 4904,
+      "translated": 4908,
       "missing": 30,
       "removed": 326,
       "pendingDetails": 4321,
-      "pendingTranslations": 338
+      "pendingTranslations": 334
     }
   }
 }
