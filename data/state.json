@@ -194601,7 +194601,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T05:20:25.941Z",
-      "translationAttemptRun": "40373775641:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "旅行指南与装备精选",
         "description": "VoyageHacks 将多语言旅行资料库引入 ChatGPT：涵盖 11 种语言，每种语言约有 680 篇经过事实核查的指南，涵盖航班、航空公司点评、酒店、目的地、租车、火车、机场接送、eSIM 和旅行装备。\n\n提出旅行问题后，ChatGPT 可以搜索资料库，并附上真实来源 URL 和真实的最后更新日期，而不是依赖可能已经过时一年的训练数据。\n\n询问特定行程该带些什么，它会从 VoyageHacks 旅行装备目录中整理清单：约 320 件产品，精选自约 50 篇已发布的选购指南，每个类别各一篇；每件产品都附有已发布的入选理由以及评测它的指南链接。\n\n每篇指南均有 11 种语言版本：英语、德语、法语、西班牙语、意大利语、波兰语、捷克语、日语、荷兰语、巴西葡萄牙语和简体中文版本；各版本均独立撰写，并非机器翻译，因此读者可以获得自己语言的资料来源。\n\n所有工具均为只读。应用会返回已发布的指南和产品推荐：没有实时机票或房价，不查询可订情况，也不能预订或收款。无需账户或登录。\n\n部分链接为联盟链接。用户购买符合条件的商品时，VoyageHacks 可能会获得佣金，用户无需额外付费。",
@@ -194619,8 +194619,8 @@
         "message": "No usable official description reference"
       },
       "translationError": {
-        "at": "2026-10-26T18:04:11.888Z",
-        "message": "Workers AI translation failed: Translation lost protected value 11",
+        "at": "2026-10-27T09:36:21.958Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
         "transient": true
       }
     },
@@ -213105,7 +213105,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T05:29:14.525Z",
-      "translationAttemptRun": "40265897781:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "你的个人 AI 占星师",
         "description": "Steer Astro 可生成准确且个性化的吠陀出生星盘、行星过境、Dasha 时期和 Panchang，让你直接在 ChatGPT 中获取吠陀占星洞见。\n\n登录 Steer Astro 并连接账户，只需创建一次个人档案，然后即可询问：\n\n你的出生星盘（Kundali）\n- 包括太阳、月亮、火星等在内的全部 9 颗行星的位置\n- 上升星座和行星所在宫位\n- 揭示灵魂使命与人际关系的关键指标\n\nDasha 时期与人生时机\n- 你当前所处的行星时期及其含义\n- 职业、人际关系或个人成长可能发生变化的时间\n- 当前阶段还将持续多久\n\n使用 Panchang 规划每日安排\n- 今天的月相日、nakshatra 和吉祥瑜伽\n- 适合重要活动的最佳时段\n- 应避免的时段，例如 Rahu Kaal\n\n行星过境\n- 当前行星运行如何影响你的星盘\n- 此刻有哪些因素影响你的精力和机会\n\n可以询问：\n- “我什么时候会结婚？”\n- “现在适合换工作吗？”\n- “今天适合约会吗？”\n- “我最突出的 3 个优势是什么？”\n- “我总是在重复哪些模式？”\n- “什么时候适合创业？”\n\n所有计算均使用 Swiss Ephemeris，以确保天文精度。你的个人档案会安全保存；创建一次后即可随时获取个性化洞见。你可以随时询问“Help me edit my profile.”来编辑档案。",
@@ -213123,8 +213123,8 @@
         "message": "No usable official description reference"
       },
       "translationError": {
-        "at": "2026-10-26T04:28:02.862Z",
-        "message": "Workers AI translation failed: Translation lost protected value 9",
+        "at": "2026-10-27T09:38:06.187Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
         "transient": true
       }
     },
@@ -288379,7 +288379,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:46.435Z",
       "detailFailures": 2,
-      "translationAttemptRun": "39016314719:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "代理人的语音AI推理",
         "description": "Hopper为实时语音代理提供开源模型：基于标准聊天补全API的低延迟大语言模型，以及文本转语音和语音转文本功能。\nHopper通过内联音频播放器朗读文本，可为您上传的录音（WAV、MP3、M4A、Ogg、FLAC或WebM格式）添加单词时间戳，列出模型及价格，返回主流语音代理框架的测试集成代码，并审查语音代理的提示内容、工具和客户端代码以定位首次回复延迟原因。\n登录Hopper账户后，可查看使用情况并创建API密钥。\n当插件可执行项目命令时，还会将Hopper集成到语音代理代码库中：在代理的系统提示和工具上进行10轮模拟通话，测量首次标记时间并展示结果（在修改任何代码前），当您说出'go'后仅替换大语言模型。\n发送的文本和音频将通过Hopper的API处理；详情请访问withhopper.com/privacy。",
@@ -288398,6 +288398,11 @@
       "detailError": {
         "at": "2026-10-27T04:27:34.331Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:39:50.774Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6abe87836128819190a0f5a2ea32a8ef": {
@@ -291216,7 +291221,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:58.162Z",
       "detailFailures": 2,
-      "translationAttemptRun": "39016314719:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "随时核查任何引用",
         "description": "随时核查任何引用：检查草稿中的参考文献列表、AI助手建议的来源（包括本次对话中的ChatGPT）、文献综述，或您正在审阅的论文中的参考文献。在期刊核查前先检查您的文稿。\n\n核查参考文献：粘贴参考文献或让ChatGPT检查文件中的参考文献或对话之前的参考文献。每条参考文献会通过Crossref（DOI注册机构）和Retraction Watch进行核查，返回来源信息和核查时间：显示是否已解决、注册于Crossref之外、已被撤稿、存在担忧声明、已发布更正、期刊被标记、指向不同记录、未找到或无法核查。仅发送参考文献，不会发送您的文稿。\n\n期刊AI政策查询：询问期刊对AI作者身份、披露声明、AI生成图像以及审稿人或编辑使用AI的政策。答案来自Manusights的官方政策页面存档记录，并附上该页面链接；当记录过期或页面无法完整读取时，会明确说明并直接链接到页面。在Manusights已测量的范围内，您还能获取该期刊从投稿到接受的平均时长。\n\n文稿预览：上传文稿（PDF、Word、ODT、RTF、TXT、Markdown或LaTeX格式，最大50MB）获取准备度评分、结论以及审稿人可能提出的的主要风险。您还可以查看已保存在Manusights账户中的审稿意见。\n\n面向需要引用文献的研究人员、学生和审稿人。参考文献核查和期刊AI政策查询无需账户。文稿预览和已保存的审稿意见需要Manusights账户；可通过Google、邮件链接或密码登录。\n\n限制条件：核查结果仅反映来源信息。无法判断引用是否支持具体主张，「无法核查」（常见于无DOI的书籍、论文和会议论文）不代表存在问题。「未找到」表示来源中无记录，也可能是输入错误。每次检查最多100条参考文献。期刊政策覆盖Manusights记录中的期刊。Manusights不撰写或重写文稿。",
@@ -299055,7 +299060,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:01:51.782Z",
       "detailFailures": 2,
-      "translationAttemptRun": "39367112890:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "地图数据，已准备好用于QGIS",
         "description": "TerraLab通过对话将地图数据导入QGIS。\n可请求任意地点的建筑物、道路、地址、土地利用、水系、交通站点或保护区数据，以街道或航拍视图在交互式地图上查看，并下载为可直接在QGIS中打开的Shapefile、GeoJSON、KML或CSV格式。\n数据来源于Overture Maps和OpenStreetMap。\n\n文件与坐标转换：打开GeoJSON、KML、KMZ、GPX、压缩的Shapefile、CSV或WKT文件，在地图上查看并转换文件。\n在十进制度数、DMS、UTM、MGRS、Lambert 93和EPSG代码之间转换坐标，并获取项目推荐的本地坐标参考系统（CRS）。\n将单个地点或最多100个地址的列表放在地图上并导出这些点。\n\n地形数据：从Copernicus DEM获取全球任意地点的高程、剖面和等高线。\n在法国，可通过官方地籍数据和Géoportail de l'Urbanisme开放数据，查询地址对应的土地登记地块和城市规划区（PLU）分区；不会返回业主姓名和售价。\n\n无需账户或登录。\n每个回答都会标注数据来源及许可协议（OpenStreetMap、Overture Maps、Copernicus DEM、ESA WorldCover Sentinel-2影像、IGN和DGFiP开放数据），每次下载均包含对应许可协议。\n使用限制：建筑物数据提取上限为20,000个要素和200平方公里（其他图层更大），等高线约10×10平方公里，文件上限50MB，地址列表上限100条。\n高程数据来源于包含建筑物和树木的30米分辨率地表模型。\n结果为近似值，不适用于导航、测绘或法律边界。",
@@ -417787,16 +417792,16 @@
     "runId": "40481054924",
     "runAttempt": "1",
     "startedAt": "2026-10-27T09:29:15.354Z",
-    "updatedAt": "2026-10-27T09:34:32.510Z",
+    "updatedAt": "2026-10-27T09:39:50.774Z",
     "mode": "translate",
     "detailRequests": 0,
-    "translationRequests": 45,
-    "translationAttempts": 3,
+    "translationRequests": 118,
+    "translationAttempts": 8,
     "translationLimit": 50,
     "aiConfigured": true,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 3,
+    "errors": 6,
     "stats": {
       "total": 5242,
       "details": 4957,
