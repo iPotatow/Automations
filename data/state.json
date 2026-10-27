@@ -271359,7 +271359,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:56:41.764Z",
       "detailFailures": 2,
-      "translationAttemptRun": "38765530115:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "关键矿物贸易情报",
         "description": "MiningBridge Intelligence将关键矿物和稀土市场情报带入ChatGPT。\n\n可查询锂、钴、镍、稀土氧化物（NdPr）、镓、锗、锂辉石和电池废料。\n提供以下信息：\n- 某种商品的月度美国贸易流量\n- 商品贸易地位：进口量、出口量、净头寸及主要贸易伙伴\n- 通过赫芬达尔-赫希曼指数评估的供应集中度风险，包含中国敞口情况\n- 按国家或关键词筛选的精选交易对手目录\n- 覆盖贸易地位、风险、运输路线及原生与再生原料的完整采购简报\n- 关键矿物研究报告，以及可搜索的独立采购权证数据库\n\n所有工具均为只读模式。\n无法通过ChatGPT进行修改、发送或购买操作。\n\n使用您的MiningBridge账户登录即可开始。\n每个答案包含的详细程度取决于您的账户权限。\n\n限制说明：贸易数据为美国报告的联合国商品贸易统计数据库（UN Comtrade）数据，仅用于筛查规模，不涉及价格评估、价值估算或投资建议。\n覆盖范围为List tracked commodities工具中列出的15种追踪商品。",
@@ -286576,7 +286576,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:33:01.352Z",
       "detailFailures": 2,
-      "translationAttemptRun": "39016314719:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "在您的照片上预览服装",
         "description": "在附加的人物照片上预览附加的服装。通过全屏、打开和下载功能直接比较原始图像和结果。这是一个视觉概念；它无法确定身体尺寸、尺码或贴合度。需要连接Firemoon账户。",
@@ -286595,6 +286595,11 @@
       "detailError": {
         "at": "2026-10-27T04:26:30.052Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:41:41.573Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6abf5a1409e481919bcfc36e0d9813d3": {
@@ -289342,7 +289347,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:11.456Z",
       "detailFailures": 2,
-      "translationAttemptRun": "39041978072:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "AI可见性与SEO",
         "description": "Searcherries通过单一连接为您的AI代理提供GEO和SEO所需的所有数据：AI助手如何回答客户关于您所在市场的问题，以及您的Google搜索控制台、必应网页管理员工具和GA4数据。\n\n只需连接一次Searcherries，即可用自然语言提问。\n该代理可以制定优先行动方案，发现AI答案中遗漏品牌的问题，查看竞争对手和来源的依赖情况，识别具有最大增长潜力的页面和搜索查询，并检查AI助手为您网站带来的流量及流量来源页面。\n当代理可以操作您网站的代码时，内置功能会将这些发现转化为具体的页面修改，并在您批准后编辑文件。\n\n专为希望网站出现在AI答案中并被搜索引擎收录的创始人、营销人员和SEO专家打造。\n\n限制条件：您需要拥有至少包含一个项目的Searcherries账户，且只有在Searcherries中连接的来源才会显示Search Console、必应网页管理员工具和GA4数据。\n访问权限为只读：该插件无法修改项目、问题或设置，且仅返回Searcherries的定期检查结果，而非执行新检查。\n它仅可见您授权账户的项目。",
@@ -289361,6 +289366,11 @@
       "detailError": {
         "at": "2026-10-27T04:28:09.641Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:41:40.228Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6abfd5de7dcc8191806cb0d66c184ef6": {
@@ -290410,7 +290420,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:34:38.217Z",
       "detailFailures": 2,
-      "translationAttemptRun": "39041978072:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "土耳其法律与源分析",
         "description": "Mütalaa通过立法、立法理由、公共法院判决和土耳其税收管理局（GİB）的私人税务裁决，支持土耳其法律研究，涵盖公法和私法领域。可查找并阅读原始资料，分析法律概念和制度，通过源链接和引用比较条款、司法推理和行政解释。\n\n可用于研究法律主题、绘制规范活动或关系的规则、分析条款的解释与适用，或调查特定文件。支持专业与学术研究、法律教育，以及法律意见、诉状、合同、监管合规评估和组织决策的源研究。研究可涉及实体法与程序法、要求与例外、权限与管辖、权利与义务、责任、处罚和救济措施。\n\n研究范围涵盖民商法、公司法、执行与破产法、劳动与社会保障法、消费者保护、财产法、家庭与继承法、刑法、行政法、税法、宪法法及其他在可用资料中体现的土耳其法律领域。\n\n可通过主题、标题、编号或官方公报详情搜索立法文件。资料包括法律、法令、总统令、法规、公告及可用的废止文件。可阅读全文或特定条款，检查章节和条款结构，在立法文件内搜索，并获取通用或条款级立法理由（如适用）。可区分立法理由与已通过的条款。\n\n可通过法律问题查找公共法院判决，并根据支持的条件查找法院或合议庭、日期和案件或判决编号。资料包括最高民事刑事法庭、行政法院、地区上诉民事法院、一审民事法院、kanun yararına bozma案例集和宪法法院（AYM）的宪法审查及个人申请。可阅读并对比判决的事实、推理和结果与相关立法。研究GİB的私人裁决作为与特定事实和时期相关的行政税务解释。\n\n连接Mütalaa账户并保持研究内容匿名。Mütalaa提供法律信息和源研究；法律代理、提交申请和访问私人UYAP文件不在其服务范围内。仅限外国法研究及地区刑事上诉法院或地区行政法院的搜索不在本次发布范围内。覆盖范围取决于可用资料；不保证全面覆盖、历史版本或即时更新。",
@@ -290429,6 +290439,11 @@
       "detailError": {
         "at": "2026-10-27T04:28:48.859Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:41:42.253Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6ac08d92a78c81918791f46027a4f7f5": {
@@ -291240,6 +291255,11 @@
       "detailError": {
         "at": "2026-10-27T04:29:21.188Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:39:55.006Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6ad26251e37c81919e2aa956a914bfb1": {
@@ -293019,7 +293039,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:35:43.234Z",
       "detailFailures": 2,
-      "translationAttemptRun": "39041978072:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "比较航班和票价",
         "description": "Aviasurf帮助旅行者比较全球参考航班价格和旅行选项。它可查找缓存的参考航线票价，探索价格日历和更便宜日期，比较机场，根据旅行偏好筛选票价样本，从起点发现目的地，将地点解析为城市和机场，检查缓存的航线信息，并打开预填充的Aviasurf实时搜索页面。结果为参考性信息，可能不反映实时可用性或保证票价。Aviasurf不在ChatGPT中处理支付、完成预订、出票或处理票务变更或退款；用户将被重定向到所选航空公司或旅行供应商以完成预订或购买。",
@@ -293038,6 +293058,11 @@
       "detailError": {
         "at": "2026-10-27T04:30:15.865Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:43:29.069Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6abfa2ec494c8191bc7c45dc4ef1fa78": {
@@ -299079,6 +299104,11 @@
       "detailError": {
         "at": "2026-10-27T07:07:37.604Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:39:55.014Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6ac02c03a4248191876ac5cf9e162327": {
@@ -299463,7 +299493,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:02.682Z",
       "detailFailures": 2,
-      "translationAttemptRun": "39367112890:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "CISSP、CISM和CISA考试备考",
         "description": "CertArc通过ChatGPT中的真实场景练习和清晰的进度评估，帮助你准备CISSP、CISM和CISA考试。\n\n无需账户即可练习：\n- 逐题练习CISSP、CISM和CISA情景题\n- 选择答案并标注确定程度：自信/不确定/猜测\n- 查看正确选项及每个选项正确或错误的原因\n- 考试大纲：每个知识域及其权重占比\n\n连接你的CertArc账户，查看所有CertArc认证课程的学习情况：\n- 准备度评分：评分构成规则及哪些重考最有效提升分数\n- 盲点分析：曾自信作答却错误的题目\n- 最薄弱的知识域及原因分析：你掌握的内容、决策方式或阅读理解方式\n- 做题节奏：你的单题耗时与考试标准节奏对比\n- 模拟考试结果记录：每次考试的答题结果、信心值、耗时及错误原因\n- 学习日历：下次学习内容、本周待完成事项及逾期任务\n\n进入全屏视图查看准备度、答题模式和考试结果，并在不同认证间切换查看。\n\n只读且私有模式：助手不会查看你的CertArc问题文本或答案，不会替你作答、结束会话或修改学习计划，你可随时断开连接。\n准备度为学习评估指标，并非通过预测。",
@@ -299482,6 +299512,11 @@
       "detailError": {
         "at": "2026-10-27T07:07:52.228Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:43:27.925Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6ac16151d7508191a214c25ba6a7f90b": {
@@ -300206,7 +300241,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:02:21.600Z",
       "detailFailures": 2,
-      "translationAttemptRun": "39367112890:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "搜索FDA、临床试验和PubMed",
         "description": "Arca Life Sciences会搜索公开的监管、临床和科学记录的精选索引，并返回包含原始来源链接的结果。\n\n可搜索内容包括：\n- FDA药品记录：药品标签、Drugs@FDA审批和审评文件、完整回复信、警告信、483表、检查记录、进口拒绝记录、《橙皮书》《紫皮书》、NDC编码、药品短缺信息及上市后要求\n- FDA器械记录：510(k)、PMA、注册信息、GUDID数据库和MAUDE不良事件报告\n- ClinicalTrials.gov临床试验\n- PubMed和欧洲PMC文献（按引用次数和开放获取状态排序）\n- VAERS、CDC公共卫生数据、欧盟专家小组信息以及BfArM/PMDA器械警戒数据\n\n适用对象：法规事务、质量、药物警戒、临床和医学事务团队，以及所有从事药品、器械或相关证据研究的人员。\n\n使用限制：仅能搜索Arca镜像的公开记录，无法访问您的自有文档、患者数据或非公开的FDA通信记录。\n为只读模式，无法提交报告或文件。\n搜索结果仅限研究资料，不构成医疗建议。",
@@ -300225,6 +300260,11 @@
       "detailError": {
         "at": "2026-10-27T07:08:18.646Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:43:25.630Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6a84c8b6b6c481918824f9cc0fb17cd8": {
@@ -310961,7 +311001,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:47.899Z",
       "detailFailures": 2,
-      "translationAttemptRun": "39752435529:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "真实来源及页码",
         "description": "cytado帮助您将学术写作建立在真实已发表的来源之上。向它提出支持某个论点的要求，它会查找现有出版物——作者、标题、期刊、年份——并返回纸质版页码及该页的简短引用内容，您可以自行核对注释与原始来源。它会搜索学术注册库（OpenAlex、Crossref、DOAJ、DOAB等）以及包含真实页码的全文语料库，还能为章节大纲收集参考资料。当无法找到支持性来源时，它会明确说明情况而非随意推荐。支持英语、波兰语和德语。\n\n限制：cytado会查找来源并展示每个引用如何直接支持论点；在引用前您仍需自行阅读原始资料。它不会撰写或提交您的作品。尚未收录到语料库的主题需要进行背景采集，耗时5-30分钟。",
@@ -311465,7 +311505,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:52:02.455Z",
       "detailFailures": 1,
-      "translationAttemptRun": "39752435529:1",
+      "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "DMARC出站邮件安全",
         "description": "Suped是域名所有者、IT团队和托管服务提供商（MSPs）使用的电子邮件安全插件。其主要功能是通过DMARC报告和认证问题监控电子邮件认证并调查域名伪造风险。连接您的Suped账户可列出所属组织和监控的域名，分析DMARC数据，下载原始DMARC报告XML文件，并查看未解决、已解决和已忽略的电子邮件认证问题。您还可以添加需要监控的域名，如果您是MSP管理员，可为您所属的MSP创建客户组织。访问权限遵循您现有Suped组织的权限设置。添加域名不会更改其DNS记录，且此插件无法解决或驳回问题。",
@@ -311484,6 +311524,11 @@
       "detailError": {
         "at": "2026-10-27T07:10:50.747Z",
         "message": "No usable official description reference"
+      },
+      "translationError": {
+        "at": "2026-10-27T09:45:11.605Z",
+        "message": "Workers AI translation failed: Cloudflare AI HTTP 429",
+        "transient": true
       }
     },
     "plugin_asdk_app_6ad6985191688191855364009929ab72": {
@@ -417792,16 +417837,16 @@
     "runId": "40481054924",
     "runAttempt": "1",
     "startedAt": "2026-10-27T09:29:15.354Z",
-    "updatedAt": "2026-10-27T09:39:50.774Z",
+    "updatedAt": "2026-10-27T09:45:11.606Z",
     "mode": "translate",
     "detailRequests": 0,
-    "translationRequests": 118,
-    "translationAttempts": 8,
+    "translationRequests": 253,
+    "translationAttempts": 17,
     "translationLimit": 50,
     "aiConfigured": true,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 6,
+    "errors": 15,
     "stats": {
       "total": 5242,
       "details": 4957,
