@@ -687,7 +687,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "Notion 文档与工作流",
       "legacySummaryOriginal": "Notion docs and workflows",
@@ -731,7 +731,12 @@
         "reviewedAt": "2026-10-27T17:08:10.614Z",
         "translatedAt": "2026-10-27T17:08:10.614Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-28T08:56:54.196Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:54.196Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69a1d78e929881919bba0dbda1f6436d": {
       "id": "plugin_asdk_app_69a1d78e929881919bba0dbda1f6436d",
@@ -3974,7 +3979,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "让企业财务变简单",
       "legacySummaryOriginal": "Business finances made simple",
@@ -4023,7 +4028,12 @@
           "total_tokens": 1733
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-28T08:57:48.389Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:48.389Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_connector_690ab09fa43c8191bca40280e4563238": {
       "id": "plugin_connector_690ab09fa43c8191bca40280e4563238",
@@ -13533,7 +13543,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "你的记忆保险库",
       "legacySummaryOriginal": "Your memory vault",
@@ -13586,7 +13596,12 @@
           "total_tokens": 1572
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-28T08:57:50.807Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:50.807Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69be2ad795e8819199fff411aa96743f": {
       "id": "plugin_asdk_app_69be2ad795e8819199fff411aa96743f",
@@ -19159,7 +19174,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "部署并管理 AI 智能体",
       "legacySummaryOriginal": "Deploy and manage AI agents",
@@ -19193,7 +19208,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:51.608Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translation": {
         "summary": "创建并测试客服智能体",
         "description": "根据你的网站创建私有客服智能体，在上线前测试其回答，并申请批准后再启用。在 Zeiko 工作区中查看客服质量以及有证据支持的改进建议。",
@@ -19203,6 +19218,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.612Z",
         "translatedAt": "2026-10-27T17:08:10.612Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:56.467Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:56.467Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a969a0d0e808191b67e75d6eefae803": {
@@ -34711,7 +34731,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "增强智能体知识",
       "legacySummaryOriginal": "Augment agent knowledge",
@@ -34745,7 +34765,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:53.413Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translation": {
         "summary": "别再对 AI 重复说明",
         "description": "Socra Cortex 帮助个人和团队不必一遍遍向 ChatGPT 和 Codex 重复相同的偏好、要求和决策。它将这些知识及其原因保存在统一的事实来源中，供智能体在不同对话和工具中采取行动前检索。\n\nModules 记录应该做什么以及原因，并包含责任人和版本历史。Dependencies 用于关联理解这些知识所必需的信息。Flash 会先加载基础内容，再加载相关 Module 及其全部 Dependencies，每个 Module 只加载一次。\n\n团队成员可以分别负责不同主题，同时让各自的知识协同工作。例如，在 ChatGPT 中创建的产品需求 Module 可以依赖由相应负责人维护的架构和安全 Modules。Codex 在实施该需求前可以 Flash 它，并一并获得这些决策。\n\n随着对话和工作产生新知识，智能体会提议修改现有 Modules，让知识始终保持最新。建议的工作流程会要求它们在保存前展示精确的修改前后内容和 Dependencies，供负责人审批。更新会在后续 Flash 时生效，而版本历史会保留早期知识并记录变更。\n\nIssues 将任务与其所依据的 Modules 关联起来，并包含受指派人、工作依赖、评论和证据。收件箱会向相应负责人或智能体显示没有阻塞的工作；已完成的 Issues 会保留结果和历史记录。\n\n个人和团队在自己的 Socra Account 中拥有这些知识，并可为人员和群组设置 Module 权限。请访问 https://cortex.socra.com. 查看 Modules、知识地图和工作情况。你可以将 ChatGPT、Codex 或任何其他 AI 服务商连接到具有 Cortex 访问权限的同一 Account。\n\n设置和智能体说明：https://workspace.socra.com/docs/cortex/installation.md",
@@ -34755,6 +34775,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.579Z",
         "translatedAt": "2026-10-27T17:08:10.579Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:58.867Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:58.867Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a8cd3d6adfc8191b7e01f6fc439da30": {
@@ -39490,7 +39515,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "保持故事连贯性",
       "legacySummaryOriginal": "Preserve story continuity",
@@ -39525,7 +39550,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:55.248Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translation": {
         "summary": "保持角色设定一致",
         "description": "在不同 ChatGPT 对话中保持角色细节、世界规则和故事事件一致。保存已确认的事实与场景摘要，在新聊天续写故事时检索，并检查草稿是否与已保存的正史设定矛盾。还可为未完成场景、悬而未决的问题和后续步骤保存临时检查点。Continuity 只接收你通过其工具并经你许可发送的内容。它不会自动备份完整聊天、找回未保存的细节，也不保证写作绝无错误。需要已有 Continuity 账户，且具备 Pro 方案或有效的试用权限。",
@@ -39535,6 +39560,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.465Z",
         "translatedAt": "2026-10-27T17:08:10.465Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:57:01.297Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:01.297Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a13e34004448191a3d689bf5b356065": {
@@ -52960,7 +52990,12 @@
           "total_tokens": 3520
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-28T08:57:33.814Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:33.814Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a719decf05c8191b8ef62a812686b74": {
       "id": "plugin_asdk_app_6a719decf05c8191b8ef62a812686b74",
@@ -55262,7 +55297,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "无服务器 Postgres",
       "legacySummaryOriginal": "Manage Neon databases",
@@ -55312,7 +55347,12 @@
         "reviewedAt": "2026-10-27T17:08:10.544Z",
         "translatedAt": "2026-10-27T17:08:10.544Z"
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-28T08:57:03.598Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:03.598Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a3c407853888191beddc2151c2b6f8b": {
       "id": "plugin_asdk_app_6a3c407853888191beddc2151c2b6f8b",
@@ -60108,10 +60148,10 @@
           "total_tokens": 2096
         }
       },
-      "detailFailures": 2,
-      "detailNextAttemptAt": "2026-10-27T09:10:36.379Z",
+      "detailFailures": 3,
+      "detailNextAttemptAt": "2026-10-28T11:57:36.119Z",
       "detailError": {
-        "at": "2026-10-27T07:10:36.379Z",
+        "at": "2026-10-28T07:57:36.119Z",
         "message": "No usable official description reference"
       }
     },
@@ -66571,7 +66611,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "开发工具",
       "legacySummaryOriginal": "Trace failures and lineage",
@@ -66624,7 +66664,12 @@
           "total_tokens": 1961
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-28T08:57:53.306Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:53.306Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aaa9b3afcc081918be808a0d8cfd212": {
       "id": "plugin_asdk_app_6aaa9b3afcc081918be808a0d8cfd212",
@@ -82994,7 +83039,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "研究",
       "legacySummaryOriginal": "Track your brand in AI search",
@@ -83048,7 +83093,12 @@
           "total_tokens": 1550
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-28T08:57:38.683Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:38.683Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a5767e1ef9c8191988380c6c1025d30": {
       "id": "plugin_asdk_app_6a5767e1ef9c8191988380c6c1025d30",
@@ -83567,7 +83617,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "信息流工具",
       "legacySummaryOriginal": "Publish X and Email with AI",
@@ -83602,7 +83652,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:58.888Z",
       "translationAttemptRun": "37453076339:1",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translation": {
         "summary": "发布到 X、LinkedIn 和电子邮件",
         "description": "FeedClaw 是 AI 代理的内容收件箱。让 ChatGPT 撰写帖子、X 长帖或新闻邮件，在聊天或收件箱中审阅后，再发布到 X、LinkedIn 或通过电子邮件发送。未经你同意，任何内容都不会发出。首次设置可直接在聊天中完成：为品牌命名、通过链接连接渠道，然后发布。你可以附加照片或视频、提前安排发布时间、管理多个品牌并建立订阅者名单。",
@@ -83612,6 +83662,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.486Z",
         "translatedAt": "2026-10-27T17:08:10.486Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:57:06.044Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:06.044Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_69b0b3d19240819199df11e97559d1d6": {
@@ -92981,7 +93036,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "表单工具",
       "legacySummaryOriginal": "Forms and landing pages",
@@ -93034,7 +93089,12 @@
           "total_tokens": 1506
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-28T08:57:55.632Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:55.632Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69707479f54081919cceb84b1088baf4": {
       "id": "plugin_asdk_app_69707479f54081919cceb84b1088baf4",
@@ -96330,11 +96390,11 @@
           "total_tokens": 1329
         }
       },
-      "detailFailures": 2,
+      "detailFailures": 3,
       "lastMissingAt": "2026-10-23T03:54:39.485Z",
-      "detailNextAttemptAt": "2026-10-27T09:10:38.643Z",
+      "detailNextAttemptAt": "2026-10-28T11:57:57.942Z",
       "detailError": {
-        "at": "2026-10-27T07:10:38.643Z",
+        "at": "2026-10-28T07:57:57.942Z",
         "message": "No usable official description reference"
       }
     },
@@ -100704,7 +100764,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "社交工具",
       "legacySummaryOriginal": "Post to Instagram, TikTok, X",
@@ -100738,7 +100798,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:00.672Z",
       "translationAttemptRun": "37573889568:1",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translation": {
         "summary": "发布到 Facebook、LinkedIn 和 X",
         "description": "通过一条消息，即可安排并发布内容到 Instagram、TikTok、Facebook、LinkedIn、X（Twitter）、Threads 和 Bluesky。1Social 会根据各平台的字数限制调整每条文案，在平台需要图片时提醒你，并可将帖子安排在未来 30 天内发布。\n\n发布后，它会分别报告各个平台的结果——哪些成功发布、哪些失败及原因——还可以仅重试某个平台，不影响其他平台。你也可以编辑或取消仍在计划中的内容。",
@@ -100748,6 +100808,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.508Z",
         "translatedAt": "2026-10-27T17:08:10.508Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:57:08.454Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:08.454Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a840b4bf4cc8191a12c333a0b1dc596": {
@@ -104635,7 +104700,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "电子名片",
       "legacySummaryOriginal": "Enrich and analyze leads",
@@ -104683,7 +104748,12 @@
           "total_tokens": 1760
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-28T08:57:41.180Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:41.180Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a462e4ab8cc81918db7b4fceadbe527": {
       "id": "plugin_asdk_app_6a462e4ab8cc81918db7b4fceadbe527",
@@ -126375,7 +126445,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "询问你的第一方数据",
       "legacySummaryOriginal": "Ask your first-party data",
@@ -126409,7 +126479,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:02.555Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translation": {
         "summary": "查询你的第一方数据",
         "description": "social.plus Agentry 将 ChatGPT 连接到你的应用已生成的第一方数据。你可以用日常语言询问社群、用户、内容、活动和增长情况，并获得清晰答案，以便可视化、制成表格或通过后续问题深入分析。\n\n例如可以询问：\n- 我正在准备一份营销活动简报。上个月哪些内容形式带来了最多活动？哪些用户群体参与度最高？\n- 我们上周二发布了一项新功能。此后几天的用户活动与前一周相比有何变化？\n- 我一小时后要参加 QBR。请概述本季度的增长、活跃用户和表现最佳的内容。\n- 本周的热门话题有哪些？用户讨论内容有什么明显变化吗？\n- 按参与方式细分最活跃的用户群体：谁发帖、谁评论、谁点赞？\n\n你的数据仍由你掌控：Agentry 采用只读模式。它不会发布、修改或删除任何内容。数据每天刷新，涵盖大约最近 90 days 的活动。\n\n要连接，你需要启用了 Agentry 的 social.plus 网络，以及由 Console 超级管理员提供的连接码。",
@@ -126419,6 +126489,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.579Z",
         "translatedAt": "2026-10-27T17:08:10.579Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:57:11.433Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:11.433Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_connector_1p_b1cefad35a80819184ba7ed35d601d34": {
@@ -130872,7 +130947,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "乐谱、TAB 谱与播放",
       "legacySummaryOriginal": "Sheet music, TAB & playback",
@@ -130906,7 +130981,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:04.425Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translation": {
         "summary": "创作乐谱与吉他谱 TAB",
         "description": "Music Block 可将你在 ChatGPT 中的音乐灵感转换为可播放的乐谱和吉他谱 TAB。\n\n你可以请求吉他乐句、钢琴和弦配置、贝斯线、鼓点、旋律、和弦进行、练习曲、编曲或乐理示例；Music Block 会直接在对话中将它们排版成雕版风格的乐谱。\n\n可以尝试这样提问：“给我 5 条适用于 B7alt 的旋律小调乐句”“为 ii–V–I 写一段行进贝斯线”“展示声部连接流畅的爵士钢琴和弦配置”或“把这段旋律改编为弦乐四重奏”。\n\nMusic Block 支持吉他、贝斯、尤克里里、钢琴和键盘、鼓、弦乐、铜管、木管、萨克斯和人声。吉他、贝斯和尤克里里示例包含 TAB；键盘使用大谱表；合奏最多可包含 8 个声部。\n\n每个示例都支持播放，你可以听到自己正在学习的内容、调整速度，并单独静音或独奏各个声部。你还可以使用替代调弦、扩展音域的吉他和贝斯、摇摆和 Shuffle 节奏、连音符、和弦符号，以及推弦、滑弦、击弦和勾弦等常见吉他技巧。\n\nMusic Block 适用于练习、教学、写歌、编曲，以及通过为对话创作的简短原创示例探索乐理。",
@@ -130916,6 +130991,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.543Z",
         "translatedAt": "2026-10-27T17:08:10.543Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:57:13.805Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:13.805Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6948af96247c81919904f9478c34334f": {
@@ -131985,7 +132065,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "搜索笔记并创建考试",
       "legacySummaryOriginal": "Search notes and create exams.",
@@ -132020,7 +132100,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:06.223Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translation": {
         "summary": "查找笔记和学习工具",
         "description": "Studocu 帮助学生查找学习资料、设置课程背景、利用开放网络内容为回答提供依据，并通过 ChatGPT 管理经过身份验证的学习项目——添加来源、阅读材料、创建测验或模拟考试，并保存长期学习记忆。",
@@ -132030,6 +132110,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.585Z",
         "translatedAt": "2026-10-27T17:08:10.585Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:57:16.283Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:16.283Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_69a0d0b83b5881919dd5f0e53b525d31": {
@@ -142667,7 +142752,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "会反问你的抽认卡",
       "legacySummaryOriginal": "Flashcards that quiz you back",
@@ -142715,7 +142800,12 @@
           "total_tokens": 2255
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-28T08:57:43.709Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:43.709Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a32109c78c48191b34aa1bac611e64d": {
       "id": "plugin_asdk_app_6a32109c78c48191b34aa1bac611e64d",
@@ -146855,7 +146945,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "免费数字安全工具",
       "legacySummaryOriginal": "Free digital security tools",
@@ -146903,7 +146993,12 @@
           "total_tokens": 1457
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-28T08:58:00.336Z",
+      "detailError": {
+        "at": "2026-10-28T07:58:00.336Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9": {
       "id": "plugin_asdk_app_6a26c2110a40819196c8c8fcc0d29ae9",
@@ -150054,7 +150149,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "干净的公开基本面数据",
       "legacySummaryOriginal": "Clean public fundamental data",
@@ -150089,7 +150184,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:08.006Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translation": {
         "summary": "研究上市公司",
         "description": "Fiscal.ai 帮助用户利用其 Fiscal.ai 账户可访问的、关联来源的财务报表、比率、价格、申报文件、新闻、所有权、业务分部、KPI、财报事件和基金投资者信来研究上市公司。",
@@ -150099,6 +150194,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.639Z",
         "translatedAt": "2026-10-27T17:08:10.639Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:57:18.843Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:18.843Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_69dec38a167c81918dfcd4a2c1d1bbcf": {
@@ -153275,7 +153375,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "探索房贷利率",
       "legacySummaryOriginal": "Explore home loan rates",
@@ -153309,7 +153409,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:09.830Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translation": {
         "summary": "了解贷款利率",
         "description": "通过 ChatGPT 使用 LendingTree 了解金融产品利率。查看 LendingTree 网络提供的以下产品当前估计利率：\n\n- 住房抵押贷款及抵押贷款再融资\n- 房屋净值贷款\n- 金额介于 $5,000 与 $50,000 之间的个人贷款\n\n可以尝试这样的提示：\n\n@LendingTree 我所在地区的住房抵押贷款利率如何？\n\n@LendingTree 如果在 CA 申请 $100,000 的房屋净值贷款，我的利率会是多少？\n\n@LendingTree 目前 $10,000 的个人贷款利率如何？\n\n根据贷款用途、期限、预估信用状况、所在州及贷款金额筛选结果，了解利率可能如何变化。准备查看个性化报价时，你可以前往 LendingTree 比较各项选择。\n\n此应用不会在 ChatGPT 或 LendingTree 网站上提供特定贷款机构的报价、审批、预审资格、财务建议，或承诺某一具体利率。LendingTree 仅对 LendingTree 应用体验内的 LendingTree 内容和功能负责，不对 ChatGPT 生成的回答或该应用体验之外的任何内容或功能负责。可用筛选条件因金融产品而异。消费者应咨询合资格的财务、税务、法律专业人士，以及在适用情况下咨询住房抵押贷款专业人士，以确定是否有适合自身情况的产品及具体是哪一项。LendingTree, LLC. NMLS #1136。",
@@ -153319,6 +153419,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.625Z",
         "translatedAt": "2026-10-27T17:08:10.625Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:57:21.255Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:21.255Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a21e73e0710819187cded8a61360db9": {
@@ -156128,7 +156233,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "用加密货币买房",
       "legacySummaryOriginal": "Buy real estate with crypto",
@@ -156181,7 +156286,12 @@
           "total_tokens": 1617
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-28T08:58:02.814Z",
+      "detailError": {
+        "at": "2026-10-28T07:58:02.814Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69c985207afc8191aff0489b7c70e7eb": {
       "id": "plugin_asdk_app_69c985207afc8191aff0489b7c70e7eb",
@@ -162342,7 +162452,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "通过 ChatGPT 使用 HelpDol",
       "legacySummaryOriginal": "HelpDol via ChatGPT",
@@ -162376,7 +162486,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:11.775Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translation": {
         "summary": "跟踪企业财务",
         "description": "通过与 ChatGPT 对话管理你的业务。\n\nHelpDol 是由 AI 驱动的财务管理应用，面向销售人员、服务提供商、自雇人士、自由职业者、承包商及小企业主。在 HelpDol 应用中连接一次银行账户，收入和支出便会自动导入，无需手动输入，也不会重复导入。\n\n之后只需提问。查看利润、余额、现金流、应付及应收账款，以及向每位帮工支付了多少费用。处理仍需审核的转账、安排未来付款并设置提醒、为帮工和客户生成收据、调出给会计师的年度报告，并通过银行卡或支付链接向客户收款——全部在对话中完成。",
@@ -162386,6 +162496,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.647Z",
         "translatedAt": "2026-10-27T17:08:10.647Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:57:23.701Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:23.701Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_69fced09915c8191a27ef57328938fec": {
@@ -163275,7 +163390,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查询结构化 SEC 数据",
       "legacySummaryOriginal": "Query structured SEC data",
@@ -163329,7 +163444,12 @@
           "total_tokens": 1548
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-28T08:58:05.186Z",
+      "detailError": {
+        "at": "2026-10-28T07:58:05.186Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69b95433e68c8191beacccc2348ca0ef": {
       "id": "plugin_asdk_app_69b95433e68c8191beacccc2348ca0ef",
@@ -175681,7 +175801,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "AI 卡路里与饮食记录",
       "legacySummaryOriginal": "AI calorie & meal tracker",
@@ -175735,7 +175855,12 @@
           "total_tokens": 1406
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-28T08:58:07.583Z",
+      "detailError": {
+        "at": "2026-10-28T07:58:07.583Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a5f8aa139f88191afa476c7ac305b82": {
       "id": "plugin_asdk_app_6a5f8aa139f88191afa476c7ac305b82",
@@ -187769,7 +187894,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "查找并预订渡轮票",
       "legacySummaryOriginal": "Find and book ferry tickets",
@@ -187803,7 +187928,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:13.566Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translation": {
         "summary": "搜索并比较渡轮航线",
         "description": "Ferryhopper 帮助旅客规划欧洲和地中海地区的渡轮行程。用户可以查询渡轮港口，了解从某港口可直达的目的地，并搜索单程、往返或最多五段的跳岛航程，查看参考价格和各航段的可用选项（客舱、车辆、宠物、电子票）。还可以查看特定航班的船上设施、照片和住宿选项，并查询罢工、天气警报和取消等运营中断通知。搜索结果会链接到 ferryhopper.com，用户可在那里完成预订。",
@@ -187813,6 +187938,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.486Z",
         "translatedAt": "2026-10-27T17:08:10.486Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:57:26.762Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:26.762Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a3bddaef8848191b12ee1232f2278fc": {
@@ -203930,7 +204060,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "梦幻体育 AI：首发/替补决策、交易与数据",
       "legacySummaryOriginal": "AI Start/Sit, Trades & Stats",
@@ -203984,7 +204114,12 @@
           "total_tokens": 2250
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-28T08:58:09.948Z",
+      "detailError": {
+        "at": "2026-10-28T07:58:09.948Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69fb0ed2dbc4819182d9d1f0acb2a256": {
       "id": "plugin_asdk_app_69fb0ed2dbc4819182d9d1f0acb2a256",
@@ -205781,7 +205916,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:15.398Z",
       "translationAttemptRun": "40300276517:1",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translation": {
         "summary": "自行抽取的塔罗牌",
         "description": "Evelyn Tarot将宁静、从容的塔罗体验融入ChatGPT。\n\n您可自行抽卡：Evelyn会询问您的姓名、年龄以及前来占卜的原因，翻开背面朝上的牌阵，等待您选择。\n\nEvelyn Tarot让您自行抽卡。她会询问您的姓名、年龄以及前来占卜的原因，翻开背面朝上的牌阵，等待您选择，随后才翻转牌面。14种占卜类型——爱情、您将嫁娶的人、对方对您的感受、事业、深入灵性占卜、未来一年展望等，每种都以长篇个人化解读形式呈现，支持您选择的语言。还提供免费的牌义解释、每周黄道运势、匹配度分析、月相、数秘术及天使数字。\n\n所有内容完全免费，无需创建账户，所有工具支持十种语言——英语、土耳其语、西班牙语、葡萄牙语、意大利语、阿拉伯语、法语、日语、印地语和印尼语。\n\n以上占卜仅供反思和娱乐用途。不构成医疗、法律或财务建议，不保证任何结果。",
@@ -205796,9 +205931,9 @@
           "total_tokens": 2071
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:10:33.495Z",
+      "detailNextAttemptAt": "2026-10-28T11:57:29.046Z",
       "detailError": {
-        "at": "2026-10-27T07:10:33.495Z",
+        "at": "2026-10-28T07:57:29.046Z",
         "message": "No usable official description reference"
       }
     },
@@ -212792,7 +212927,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "免费八字与运势解读",
       "legacySummaryOriginal": "Free Saju & Fortune Reading",
@@ -212827,7 +212962,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:17.201Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translation": {
         "summary": "免费 AI 四柱命理与八字解读",
         "description": "SAJU 是由 Saju.com 推出的免费 AI 四柱命理解读应用。Saju.com 是 Doctor Fortune（운세박사）的全球版；Doctor Fortune 是 ChatGPT 商店中排名第 #1 的占卜应用，由 50 多位专业命理师打造。Saju（사주，四柱命理，也称 BaZi / 八字）是韩国及东亚传统的出生图体系，根据出生的年、月、日、时解读命运。\n\n只需告诉 ChatGPT 你的出生日期、出生时间、性别和出生城市。SAJU 会根据世界任意城市的真实天文节气、历史时区和经度校正后的当地时间，排出准确的四柱命盘，并以交互式图表展示：日主、天干地支、十神、五行平衡、合冲、吉星与挑战之星，以及 10 年大运、年度运势和每月运势的图示时间线。\n\n之后可以继续用日常语言对话，了解性格与人生道路、事业与财富、爱情、婚姻与匹配、健康、今年和明年运势、适合换工作或搬家的月份，以及某个具体日期是否适合婚礼、签合同或面试——SAJU 会为任意日期查询准确的日柱。支持英语、韩语、日语、中文、西班牙语、葡萄牙语、德语、法语、越南语、泰语、印地语、阿拉伯语、意大利语、土耳其语和印度尼西亚语。\n\n也称：AI Saju · Saju 解读 · 韩国占卜 · 四柱命理 · BaZi · 中国占星术 · 日主 · 사주 · 사주팔자 · AI 사주 · 무료 사주 · 四柱推命 · 八字 · 四柱命理 · 算命 · Tứ Trụ · Bát Tự · Tử vi · ดวงจีน · โป๊ยหยี่ · कोरियाई ज्योतिष · Saju coreano · Cuatro Pilares del Destino · Quatro Pilares do Destino · Vier Säulen des Schicksals · Quatre Piliers de la Destinée · Quattro Pilastri del Destino · Kaderin Dört Sütunu · Ramalan Saju · الأعمدة الأربعة للمصير。\n\nSAJU 除出生信息外不会询问其他内容，且可免费使用。",
@@ -212837,6 +212972,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.570Z",
         "translatedAt": "2026-10-27T17:08:10.570Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:57:31.382Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:31.382Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a85aabb74f48191a4071b151ac4a9c3": {
@@ -239535,7 +239675,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-03T15:25:25.848Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Publish the pages, reports, dashboards, and other artifacts you create with ChatGPT and get a link to share them. Spacefast lets you update existing sites, manage access, connect custom domains, and view or restore earlier versions. Connect your Spacefast account to manage your team's Spaces from the conversation.",
       "information": [
         {
@@ -239583,7 +239723,12 @@
           "total_tokens": 1587
         }
       },
-      "detailFailures": 0
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-10-28T08:57:46.043Z",
+      "detailError": {
+        "at": "2026-10-28T07:57:46.043Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a8ebcc4c4c48191b5a3a53638f7b972": {
       "id": "plugin_asdk_app_6a8ebcc4c4c48191b5a3a53638f7b972",
@@ -244400,7 +244545,7 @@
       "missingCount": 1,
       "lastSeenAt": "2026-10-27T04:14:00.356Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Made In Show (MIS) is the management platform for event production companies — audio, video and lighting service providers. This connector links ChatGPT to your company's MIS installation so your team can work with live production data in plain language.\n\nAsk about productions and their schedules, check warehouse availability for specific dates, spot material and crew conflicts before they happen, review how complete a production is, and read production notes and supplier statistics — and, when your administrator allows it, act on the data: reserve equipment, add locations, create productions, and draft estimate texts.\n\nAccess is off by default and controlled per user by your MIS administrator: each user's AI access can view data, view and act, or nothing at all. Write operations follow the same per-user permission, enforced server-side on every call; tools designed for impactful changes (such as creating a production) add their own two-step confirmation. The connector authenticates with OAuth against your installation; data flows only between ChatGPT and your MIS backend, is never used for model training by Made In Show, and tool calls are logged for 90 days for audit purposes (responses are never stored).\n\nRequires an account on a Made In Show installation with AI access enabled by the administrator.",
       "information": [
         {
@@ -244428,7 +244573,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:55.562Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "查看设备、团队和日程",
@@ -244440,7 +244585,12 @@
         "reviewedAt": "2026-10-27T17:08:10.525Z",
         "translatedAt": "2026-10-27T17:08:10.525Z"
       },
-      "lastMissingAt": "2026-10-28T04:42:53.794Z"
+      "lastMissingAt": "2026-10-28T04:42:53.794Z",
+      "detailNextAttemptAt": "2026-10-28T08:55:48.068Z",
+      "detailError": {
+        "at": "2026-10-28T07:55:48.068Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a9b0d0a63cc8191ab798443d0d498db": {
       "id": "plugin_asdk_app_6a9b0d0a63cc8191ab798443d0d498db",
@@ -244455,7 +244605,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Recruiterflow helps users search and count candidates and jobs, resolve team members, companies, stages, and custom fields, inspect job pipelines, and review candidate activity timelines through ChatGPT.",
       "information": [
         {
@@ -244483,7 +244633,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:57.369Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "搜索招聘记录",
@@ -244494,6 +244644,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.564Z",
         "translatedAt": "2026-10-27T17:08:10.564Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:55:51.053Z",
+      "detailError": {
+        "at": "2026-10-28T07:55:51.053Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a89d92aea648191a628dc00c21171c8": {
@@ -244619,7 +244774,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Statiko brings public Telegram channel data into ChatGPT, so you can research what's happening on Telegram without leaving the conversation.\n\nAsk what's trending across tracked channels in the last 24 hours, then read the actual posts behind a story to see what it's about. Look up any tracked channel for its profile, subscriber count and growth, posting frequency, view rate and engagement - or compare up to ten channels side by side in a single answer. Find channels similar to one you already follow, search a  channel's own posts by keyword or date range, and trace how a specific post's views, forwards and reactions built up hour by hour.\n\nEvery answer links back to the source page on statiko.io, so you can check the numbers yourself.\n\nStatiko is read-only: it looks up public channel data and never posts, joins or messages on your behalf. Connecting requires a Statiko account on the Pro or Business plan.",
       "information": [
         {
@@ -244647,7 +244802,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:59.178Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "搜索 Telegram 频道数据",
@@ -244658,6 +244813,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.432Z",
         "translatedAt": "2026-10-27T17:08:10.432Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:55:53.624Z",
+      "detailError": {
+        "at": "2026-10-28T07:55:53.624Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa5668d53088191bb5d84e110941913": {
@@ -244673,7 +244833,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Connect your The Viral Sauce account to discuss your Instagram performance in ChatGPT. Explore stored account and Reel measurements, review your published TVS findings, and turn your existing recommendations into a practical publishing plan. Choose which Instagram accounts to share and disconnect at any time. Available data depends on your TVS subscription.",
       "information": [
         {
@@ -244701,7 +244861,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:01.097Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "了解 Instagram 数据表现",
@@ -244712,6 +244872,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.591Z",
         "translatedAt": "2026-10-27T17:08:10.591Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:55:55.901Z",
+      "detailError": {
+        "at": "2026-10-28T07:55:55.901Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab10e3e2dd8819183b24a92dd7c6c55": {
@@ -244727,7 +244892,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Explore cell sites, mobile operators, signal measurements and speed-test summaries for an area with SignalCrow. Compare available network observations and inspect individual sites to better understand local mobile connectivity.\n\nRequires a verified SignalCrow account. Available data and usage limits depend on your account. Measurements reflect available observations and do not guarantee coverage, indoor reception or future speeds.",
       "information": [
         {
@@ -244755,7 +244920,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:02.945Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "探索移动网络数据",
@@ -244766,6 +244931,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.574Z",
         "translatedAt": "2026-10-27T17:08:10.574Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:55:58.364Z",
+      "detailError": {
+        "at": "2026-10-28T07:55:58.364Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a9a854867b08191953597c2cfde27e0": {
@@ -244781,7 +244951,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Read and analyse data in ActivityInfo databases. Lists databases, forms and fields, retrieves records, and runs pivot analyses.",
       "information": [
         {
@@ -244809,7 +244979,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:04.826Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "连接你的数据库",
@@ -244820,6 +244990,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.355Z",
         "translatedAt": "2026-10-27T17:08:10.355Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:00.850Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:00.850Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa5b36494c88191946df31c901c796c": {
@@ -244835,7 +245010,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Fun Friday runs more than twenty online team-building games for remote teams, including trivia, drawing, bluffing, typing races, and more. Connect it and ChatGPT can tell you what the team could play, open a room and provide the code and join link to share, check whether everyone has joined and who is winning, and report the standings afterward. The games themselves are played by people in the browser: starting one still requires a human to press Start, and the app cannot answer, vote, guess, or draw on anyone's behalf.",
       "information": [
         {
@@ -244863,7 +245038,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:06.678Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "随时开玩的团队游戏",
@@ -244874,6 +245049,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.493Z",
         "translatedAt": "2026-10-27T17:08:10.493Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:03.144Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:03.144Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a69de26852081918a58fceabac1bd8d": {
@@ -244917,7 +245097,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:08.451Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40448357028:1",
       "translation": {
         "summary": "小型团队的工作聊天工具",
@@ -244933,9 +245113,9 @@
           "total_tokens": 1535
         }
       },
-      "detailNextAttemptAt": "2026-10-27T08:10:26.569Z",
+      "detailNextAttemptAt": "2026-10-28T09:56:05.418Z",
       "detailError": {
-        "at": "2026-10-27T07:10:26.569Z",
+        "at": "2026-10-28T07:56:05.418Z",
         "message": "No usable official description reference"
       }
     },
@@ -244952,7 +245132,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "ChildEdu Studio guides teachers, parents, and therapists through creating printable educational materials in multiple languages. Users select the material language, material type, and learning content, then receive a generated file ready to preview and download.",
       "information": [
         {
@@ -244980,7 +245160,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:10.253Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "创建可打印的学习材料",
@@ -244991,6 +245171,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.458Z",
         "translatedAt": "2026-10-27T17:08:10.458Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:07.876Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:07.876Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a9d56ec6bac819181b134548392acc1": {
@@ -245006,7 +245191,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "FootballGPT helps football coaches use their saved coaching setup (age group, format, club type, formation, experience, qualifications, priorities and squad shape) to get coaching advice, build structured training sessions, search a practice library, and create saved animated practices. Player names, ages, shirt numbers and notes never leave FootballGPT through this app. Coaches remain responsible for reviewing and adapting every recommendation for their players.",
       "information": [
         {
@@ -245034,7 +245219,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:12.099Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "规划更好的足球训练",
@@ -245045,6 +245230,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.490Z",
         "translatedAt": "2026-10-27T17:08:10.490Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:10.305Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:10.305Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aaf70b7172c8191bcfd6a83657aa6f4": {
@@ -245088,7 +245278,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:13.981Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "带进度的指导课程",
@@ -245104,9 +245294,9 @@
           "total_tokens": 1451
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:10:28.842Z",
+      "detailNextAttemptAt": "2026-10-28T11:56:12.749Z",
       "detailError": {
-        "at": "2026-10-27T07:10:28.842Z",
+        "at": "2026-10-28T07:56:12.749Z",
         "message": "No usable official description reference"
       }
     },
@@ -245123,7 +245313,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "ポイトコは、会話の中で見つけた大切な情報を残しておけるパーソナルライブラリです。メモ、要約、引用、リスト、ウェブ記事の抜粋などを、ポイトコに直接保存できます。「これをポイトコに保存して」や「これポイして」と話しかけるだけで、あとからポイトコアプリで読み返せます。\n\npoitoko helps you keep useful information from your conversations. Save notes, summaries, quotes, lists, and web excerpts directly to your personal Poitoko library. Just say “save this to poitoko” or “poi this,” and it will be available in the poitoko app for later reading and reflection.",
       "information": [
         {
@@ -245151,7 +245341,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:15.995Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "把发现的片段投进 poitoko",
@@ -245162,6 +245352,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.556Z",
         "translatedAt": "2026-10-27T17:08:10.556Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:15.043Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:15.043Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa5749a9ac08191bfa8e7ab09cf92dd": {
@@ -245177,7 +245372,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Search Japanese policy documents in Policy Scope and review document text, sources, related materials, ministries, councils, and meeting information. All tools are read-only and cannot create, modify, or delete data.",
       "information": [
         {
@@ -245205,7 +245400,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:17.814Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "搜索日本政策记录",
@@ -245216,6 +245411,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.557Z",
         "translatedAt": "2026-10-27T17:08:10.557Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:17.335Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:17.335Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab1c65beea4819189c5370627176834": {
@@ -245231,7 +245431,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Instant Books is AI bookkeeping for small businesses. Connect your Instant Books company and ask about spending by vendor or category, cash position, unpaid bills, overdue invoices, bank transactions and the profit and loss - the same questions the AI Bookkeeper answers in the portal. Restaurants can also record a Toast or DoorDash payout as a posted journal entry: sales, tax, tips and fees on the accounts the company confirmed on its Integrations page. The app reads your books and records entries; it never moves money, pays anyone or changes what is already booked, and a payout recorded twice is refused.",
       "information": [
         {
@@ -245259,7 +245459,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:19.625Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "向 AI 记账助手提问",
@@ -245271,7 +245471,12 @@
         "reviewedAt": "2026-10-27T17:08:10.621Z",
         "translatedAt": "2026-10-27T17:08:10.621Z"
       },
-      "lastMissingAt": "2026-10-23T03:54:39.485Z"
+      "lastMissingAt": "2026-10-23T03:54:39.485Z",
+      "detailNextAttemptAt": "2026-10-28T08:56:19.739Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:19.739Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6abbf32753248191a0dbf90da0f2a5b6": {
       "id": "plugin_asdk_app_6abbf32753248191a0dbf90da0f2a5b6",
@@ -245286,7 +245491,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Compare every federal repayment plan a loan can elect, estimate a Repayment Assistance Plan (RAP) payment, and compare filing jointly against filing separately, using the same engine Finology Software advisors use for client plans. Figures follow the current federal rules, including the changes in effect since July 1, 2026, and each result states the rule version and date it used. Plans a borrower cannot elect are listed with the rule that excludes them.\n\nAdvisors with a Finology Software account can link it to list their clients, run a projection on a client's imported federal loan file, and chart each plan's balance year by year. Client names can be withheld and replaced with initials.\n\nResults are estimates for education, not financial, legal or tax advice.",
       "information": [
         {
@@ -245314,7 +245519,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:21.434Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "学生贷款还款计算",
@@ -245325,6 +245530,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.636Z",
         "translatedAt": "2026-10-27T17:08:10.636Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:22.051Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:22.051Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab091bf453481919107a89ab06b84ab": {
@@ -245340,7 +245550,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Price a real-estate investment loan without leaving the conversation. 1st Private Capital is a direct private lender for real estate investors: bridge and hard money loans, fix and flip, ground-up construction, DSCR rental loans, and commercial, mixed-use and equity-based term loans, in 40 states.\n\nDescribe the property and the loan. You get the program that fits, the most you can borrow and what limits it, an indicative rate and monthly payment, points and costs, as a quote card in the chat. When the numbers work, request a term sheet and it goes straight to the lending desk.\n\nBusiness-purpose loans on investment and commercial real estate only. Not for a home you will live in, and not for personal, family or household use. Every figure is an indicative estimate, not a commitment to lend. All loans are subject to underwriting. 1st Private Capital, Inc., California DRE Real Estate Corporation License #02254322.",
       "information": [
         {
@@ -245368,7 +245578,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:23.225Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "硬资产抵押与 DSCR 贷款报价",
@@ -245379,6 +245589,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.620Z",
         "translatedAt": "2026-10-27T17:08:10.620Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:24.546Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:24.546Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a94b47a1ffc8191b199c4f4c33619e4": {
@@ -245422,7 +245637,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:25.113Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40265897781:1",
       "translation": {
         "summary": "构建交易策略",
@@ -245438,9 +245653,9 @@
           "total_tokens": 1497
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:10:31.074Z",
+      "detailNextAttemptAt": "2026-10-28T11:56:26.964Z",
       "detailError": {
-        "at": "2026-10-27T07:10:31.074Z",
+        "at": "2026-10-28T07:56:26.964Z",
         "message": "No usable official description reference"
       }
     },
@@ -245517,7 +245732,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Connect your PortfolIQ account to review holdings, realized and unrealized performance, transaction history, trading activity, and factual account alerts. Explore saved strategies, run historical simulations, and review position plans. With the permissions you grant, record or correct transactions, manage portfolios, and save strategies and retrospective reviews. Transaction tools record trades in your tracker; brokerage order execution is not supported. Historical simulations are not predictions of future returns. A PortfolIQ account is required, and some features depend on your account plan.",
       "information": [
         {
@@ -245545,7 +245760,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:26.897Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "追踪投资组合表现",
@@ -245556,6 +245771,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.642Z",
         "translatedAt": "2026-10-27T17:08:10.642Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:29.358Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:29.358Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a8c430b9d0c8191b8834dd80a1cef6b": {
@@ -245571,7 +245791,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Start your Peninsula journey here. Ask about any of our hotels, compare rooms and rates across your preferred dates, discover dining and wellness experiences, and much more across our properties worldwide. When your plans are settled, we'll pass you to Peninsula.com to complete your booking where you’ll find the best available rates and special offers",
       "information": [
         {
@@ -245599,7 +245819,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:28.696Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "规划你的 Peninsula 体验",
@@ -245610,6 +245830,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.591Z",
         "translatedAt": "2026-10-27T17:08:10.591Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:31.852Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:31.852Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab2d6f6a39c8191907d69b1103fe10c": {
@@ -245625,7 +245850,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Search verified vacation rentals across Greece using live availability, detailed property facts, policies, exact prices, and direct-booking links. Compare suitable stays without inventing dates, guest counts, availability, or prices.",
       "information": [
         {
@@ -245653,7 +245878,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:30.578Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "寻找希腊各地住宿",
@@ -245664,6 +245889,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.362Z",
         "translatedAt": "2026-10-27T17:08:10.362Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:34.327Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:34.327Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a974e01b37c81919f0d0f68b4a3a140": {
@@ -245679,7 +245909,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Atly scores close to 2 million places — the great majority across the United States, plus pockets in Mexico, Israel and Thailand — against more than 1,400 specific intents - work friendly, gluten free, great cappuccino, dog friendly, good for a first date - using what real reviewers say. Ask for what you actually want and get a ranked shortlist with a 0-10 score per intent, quotable statements from reviews, and a link to each place. Gluten-free results carry structured safety detail such as dedicated kitchen and cross-contamination risk. Coverage is densest in the United States, with pockets in Mexico, Israel and Thailand.",
       "information": [
         {
@@ -245707,7 +245937,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:32.397Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "寻找值得去的地方",
@@ -245718,6 +245948,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.343Z",
         "translatedAt": "2026-10-27T17:08:10.343Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:36.817Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:36.817Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a2ad16e9824819185f3e87d58515084": {
@@ -245733,7 +245968,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Speed Cameras Radar helps users find nearby speed cameras and speed cameras along bounded driving routes. The app returns capped results with an interactive map, route or radius context, camera type filtering, and localized labels for supported countries.",
       "information": [
         {
@@ -245761,7 +245996,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:38.573Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "查找道路测速摄像头",
@@ -245772,6 +246007,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.581Z",
         "translatedAt": "2026-10-27T17:08:10.581Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:39.269Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:39.269Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a97ce60fbd48191bd9d881bd3e61562": {
@@ -245787,7 +246027,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "bluerails helps users find hotels in Germany, Austria and Switzerland by place, radius, country and hotel classification. For specified dates and guests, it retrieves available room offers, whole-stay totals, average nightly prices, and cancellation terms and photos where supplied. Users can compare offers against a nightly budget and follow booking links to complete reservations on external booking sites; dates and guest details are included where supported. When rates cannot be retrieved, the app reports prices as unknown and provides a booking link where one is available. Confirmed unavailability is distinguished from failed rate lookups. Hotel and room results are displayed inline in the conversation.",
       "information": [
         {
@@ -245815,7 +246055,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:40.416Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "查找并直接预订酒店",
@@ -245826,6 +246066,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.334Z",
         "translatedAt": "2026-10-27T17:08:10.334Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:41.681Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:41.681Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab33ed097a881918fd86f8fdbde5c02": {
@@ -245841,7 +246086,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Search Goldsainte’s live hotel inventory directly in ChatGPT. Travelers can search by destination and dates, compare live rates and availability, view property details and room options, refresh current pricing, and open the full hotel experience on Goldsainte. Users can also securely connect their Goldsainte account for account-aware features.",
       "information": [
         {
@@ -245869,7 +246114,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:42.290Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "搜索实时酒店价格",
@@ -245880,6 +246125,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.496Z",
         "translatedAt": "2026-10-27T17:08:10.496Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:44.070Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:44.070Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a86f955bdfc8191b4d2b210a9e4b385": {
@@ -245895,7 +246145,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Plan a single round or a whole golf trip. Greenfee365 searches live tee times and green fee prices at more than 1,400 bookable golf courses, from the Costa del Sol and the Algarve to Scotland, Thailand and the UAE. Ask for a course, a city or a destination and get the times that are genuinely available, the price per player in local currency and how many spots are left. Prices come straight from the Greenfee365 booking platform, so what you see is what the course is selling right now, not an estimate. When you have found your time you get a link to greenfee365.com with date and party size already filled in, and you complete the booking there. No account needed to search.",
       "information": [
         {
@@ -245923,7 +246173,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:44.075Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "实时高尔夫开球时间与果岭费",
@@ -245934,6 +246184,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.498Z",
         "translatedAt": "2026-10-27T17:08:10.498Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:46.688Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:46.688Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aae98d6eb4c819184f316e096e24ade": {
@@ -245949,7 +246204,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Haz tiradas interactivas de Tarot y Baraja Española directamente en ChatGPT. Elige entre 22 Arcanos Mayores, el mazo completo de 78 cartas o la Baraja Española de 40 cartas. Mezcla, corta y revela tiradas de tres cartas o en cruz de cinco posiciones, y recibe una interpretación que relaciona las cartas, sus posiciones y orientaciones con tu pregunta. Las lecturas son simbólicas y están destinadas a la reflexión y el entretenimiento.",
       "information": [
         {
@@ -245977,7 +246232,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:45.914Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "塔罗牌与西班牙牌",
@@ -245988,6 +246243,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.592Z",
         "translatedAt": "2026-10-27T17:08:10.592Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:49.133Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:49.133Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ab00a7a2c988191a774ed0b87559eb3": {
@@ -246003,7 +246263,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-28T04:42:53.794Z",
       "firstSeenAt": "2026-10-06T05:29:42.497Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Triad Astro reads your birth chart in three astrological traditions at once - Western (Tropical), Vedic (Sidereal), and Chinese (BaZi / Four Pillars) - and shows you where they agree.\n\nGive it a birth date, plus a time and place if you know them, and it calculates all three charts in a single step: Sun, Moon and rising signs, planetary aspects and elemental balance from the Western system; Nakshatra, Navamsa, planetary dignity and the Vimshottari Dasha timeline from the Vedic system; and the Four Pillars, Day Master and ten-year Luck Pillars from the Chinese system.\n\nMost astrology tools give you one system's answer. Triad Astro gives you three, then helps you read the overlap - the themes that show up independently in all three are the ones worth a closer look.\n\nPlanetary positions are computed from ephemeris data aligned to NASA JPL standards, and birth places are resolved to coordinates with automatic timezone handling, so charts are accurate to the minute when the birth time is known. Ambiguous place names can be looked up first so you can confirm the right city.\n\nNo account or sign-in is required. Just ask for a reading - for example: \"Calculate my tri-system birth chart. I was born March 14, 1990 at 7:45am in Bangalore, India.\"",
       "information": [
         {
@@ -246031,7 +246291,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:47.747Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "三体系出生星盘解读",
@@ -246042,6 +246302,11 @@
         "qualityVersion": 2,
         "reviewedAt": "2026-10-27T17:08:10.596Z",
         "translatedAt": "2026-10-27T17:08:10.596Z"
+      },
+      "detailNextAttemptAt": "2026-10-28T08:56:51.653Z",
+      "detailError": {
+        "at": "2026-10-28T07:56:51.653Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a729c5ebe4081919459747399866578": {
@@ -247025,7 +247290,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:05:10.272Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "性能汽车数据与工具",
@@ -247041,9 +247306,9 @@
           "total_tokens": 1771
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:42.890Z",
+      "detailNextAttemptAt": "2026-10-28T11:59:26.764Z",
       "detailError": {
-        "at": "2026-10-27T07:11:42.890Z",
+        "at": "2026-10-28T07:59:26.764Z",
         "message": "No usable official description reference"
       }
     },
@@ -247142,7 +247407,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:05:14.209Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "Amazon、Shopify 与 WooCommerce",
@@ -247158,9 +247423,9 @@
           "total_tokens": 3595
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:45.214Z",
+      "detailNextAttemptAt": "2026-10-28T11:59:29.177Z",
       "detailError": {
-        "at": "2026-10-27T07:11:45.214Z",
+        "at": "2026-10-28T07:59:29.177Z",
         "message": "No usable official description reference"
       }
     },
@@ -247475,7 +247740,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:05:25.621Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40448357028:1",
       "translation": {
         "summary": "加密货币市场情报",
@@ -247491,9 +247756,9 @@
           "total_tokens": 1591
         }
       },
-      "detailNextAttemptAt": "2026-10-27T08:11:47.460Z",
+      "detailNextAttemptAt": "2026-10-28T09:59:31.591Z",
       "detailError": {
-        "at": "2026-10-27T07:11:47.460Z",
+        "at": "2026-10-28T07:59:31.591Z",
         "message": "No usable official description reference"
       }
     },
@@ -247970,7 +248235,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:05:42.962Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "扫雷风格的TNT谜题",
@@ -247986,9 +248251,9 @@
           "total_tokens": 1816
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:49.857Z",
+      "detailNextAttemptAt": "2026-10-28T11:59:33.931Z",
       "detailError": {
-        "at": "2026-10-27T07:11:49.857Z",
+        "at": "2026-10-28T07:59:33.931Z",
         "message": "No usable official description reference"
       }
     },
@@ -266701,7 +266966,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:53:49.837Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40448357028:1",
       "translation": {
         "summary": "谷歌、Meta 和领英广告",
@@ -266717,9 +266982,9 @@
           "total_tokens": 1465
         }
       },
-      "detailNextAttemptAt": "2026-10-27T08:10:55.283Z",
+      "detailNextAttemptAt": "2026-10-28T09:58:29.483Z",
       "detailError": {
-        "at": "2026-10-27T07:10:55.283Z",
+        "at": "2026-10-28T07:58:29.483Z",
         "message": "No usable official description reference"
       }
     },
@@ -267623,7 +267888,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:54:17.785Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40265897781:1",
       "translation": {
         "summary": "您的加密货币研究台",
@@ -267639,9 +267904,9 @@
           "total_tokens": 1906
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:10:57.641Z",
+      "detailNextAttemptAt": "2026-10-28T11:58:32.010Z",
       "detailError": {
-        "at": "2026-10-27T07:10:57.641Z",
+        "at": "2026-10-28T07:58:32.010Z",
         "message": "No usable official description reference"
       }
     },
@@ -268674,7 +268939,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:54:45.934Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "酒店泳池、水疗中心、海滩俱乐部",
@@ -268690,9 +268955,9 @@
           "total_tokens": 2346
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:10:59.886Z",
+      "detailNextAttemptAt": "2026-10-28T11:58:34.919Z",
       "detailError": {
-        "at": "2026-10-27T07:10:59.886Z",
+        "at": "2026-10-28T07:58:34.919Z",
         "message": "No usable official description reference"
       }
     },
@@ -268795,7 +269060,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:54:49.330Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "独家酒店优惠",
@@ -268811,9 +269076,9 @@
           "total_tokens": 1619
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:02.775Z",
+      "detailNextAttemptAt": "2026-10-28T11:58:37.393Z",
       "detailError": {
-        "at": "2026-10-27T07:11:02.775Z",
+        "at": "2026-10-28T07:58:37.393Z",
         "message": "No usable official description reference"
       }
     },
@@ -269585,7 +269850,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:55:32.194Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "构建本地3D场景",
@@ -269601,9 +269866,9 @@
           "total_tokens": 1695
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:05.010Z",
+      "detailNextAttemptAt": "2026-10-28T11:58:39.693Z",
       "detailError": {
-        "at": "2026-10-27T07:11:05.010Z",
+        "at": "2026-10-28T07:58:39.693Z",
         "message": "No usable official description reference"
       },
       "translationError": {
@@ -270258,7 +270523,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:55:51.401Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38677812405:1",
       "translation": {
         "summary": "品牌广告、表情包和视频",
@@ -270273,6 +270538,11 @@
           "neurons": 24.883899688720703,
           "total_tokens": 1563
         }
+      },
+      "detailNextAttemptAt": "2026-10-28T08:58:42.668Z",
+      "detailError": {
+        "at": "2026-10-28T07:58:42.668Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ace783673008191b51a46fdfdc64c9c": {
@@ -271233,7 +271503,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:56:18.943Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "创建品牌短链接",
@@ -271249,9 +271519,9 @@
           "total_tokens": 1732
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:07.401Z",
+      "detailNextAttemptAt": "2026-10-28T11:58:45.115Z",
       "detailError": {
-        "at": "2026-10-27T07:11:07.401Z",
+        "at": "2026-10-28T07:58:45.115Z",
         "message": "No usable official description reference"
       },
       "translationError": {
@@ -271427,7 +271697,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:56:24.167Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "38765530115:1",
       "translation": {
         "summary": "通过ChatGPT构建WeWeb应用",
@@ -271442,6 +271712,11 @@
           "neurons": 29.94792938232422,
           "total_tokens": 1691
         }
+      },
+      "detailNextAttemptAt": "2026-10-28T08:58:47.529Z",
+      "detailError": {
+        "at": "2026-10-28T07:58:47.529Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac4c3b919f48191a49821b96bdc33a2": {
@@ -272102,7 +272377,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:56:41.764Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "关键矿物贸易情报",
@@ -272118,9 +272393,9 @@
           "total_tokens": 2019
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:09.702Z",
+      "detailNextAttemptAt": "2026-10-28T11:58:49.806Z",
       "detailError": {
-        "at": "2026-10-27T07:11:09.702Z",
+        "at": "2026-10-28T07:58:49.806Z",
         "message": "No usable official description reference"
       },
       "translationError": {
@@ -276337,7 +276612,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:03:00.892Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40265897781:1",
       "translation": {
         "summary": "摩尔多瓦保险、贴花",
@@ -276353,9 +276628,9 @@
           "total_tokens": 2087
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:35.755Z",
+      "detailNextAttemptAt": "2026-10-28T11:59:18.888Z",
       "detailError": {
-        "at": "2026-10-27T07:11:35.755Z",
+        "at": "2026-10-28T07:59:18.888Z",
         "message": "No usable official description reference"
       }
     },
@@ -278682,7 +278957,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:04:12.818Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "多站点路线优化器",
@@ -278698,9 +278973,9 @@
           "total_tokens": 1866
         }
       },
-      "detailNextAttemptAt": "2026-10-27T08:11:38.115Z",
+      "detailNextAttemptAt": "2026-10-28T09:59:21.974Z",
       "detailError": {
-        "at": "2026-10-27T07:11:38.115Z",
+        "at": "2026-10-28T07:59:21.974Z",
         "message": "No usable official description reference"
       },
       "translationError": {
@@ -278939,7 +279214,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:04:21.857Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "每日照片猜谜游戏",
@@ -278955,9 +279230,9 @@
           "total_tokens": 1869
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:40.471Z",
+      "detailNextAttemptAt": "2026-10-28T11:59:24.503Z",
       "detailError": {
-        "at": "2026-10-27T07:11:40.471Z",
+        "at": "2026-10-28T07:59:24.503Z",
         "message": "No usable official description reference"
       },
       "translationError": {
@@ -280608,7 +280883,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:06:49.858Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "查询和比较游戏服务器",
@@ -280624,9 +280899,9 @@
           "total_tokens": 1732
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:52.749Z",
+      "detailNextAttemptAt": "2026-10-28T11:59:36.364Z",
       "detailError": {
-        "at": "2026-10-27T07:11:52.749Z",
+        "at": "2026-10-28T07:59:36.364Z",
         "message": "No usable official description reference"
       }
     },
@@ -281230,7 +281505,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:07:09.902Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "Exness API文档",
@@ -281246,9 +281521,9 @@
           "total_tokens": 1585
         }
       },
-      "detailNextAttemptAt": "2026-10-27T08:11:54.991Z",
+      "detailNextAttemptAt": "2026-10-28T09:59:38.768Z",
       "detailError": {
-        "at": "2026-10-27T07:11:54.991Z",
+        "at": "2026-10-28T07:59:38.768Z",
         "message": "No usable official description reference"
       },
       "translationError": {
@@ -283009,7 +283284,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:08:04.856Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "模拟面试，文字或语音",
@@ -283025,9 +283300,9 @@
           "total_tokens": 1622
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:57.238Z",
+      "detailNextAttemptAt": "2026-10-28T11:59:41.135Z",
       "detailError": {
-        "at": "2026-10-27T07:11:57.238Z",
+        "at": "2026-10-28T07:59:41.135Z",
         "message": "No usable official description reference"
       }
     },
@@ -283868,7 +284143,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:08:31.019Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "寻找并比较讲道",
@@ -283884,9 +284159,9 @@
           "total_tokens": 1871
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:59.601Z",
+      "detailNextAttemptAt": "2026-10-28T11:59:43.543Z",
       "detailError": {
-        "at": "2026-10-27T07:11:59.601Z",
+        "at": "2026-10-28T07:59:43.543Z",
         "message": "No usable official description reference"
       }
     },
@@ -284057,7 +284332,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:08:36.961Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "根据研究资料逐段生成科学论文草案",
@@ -284073,9 +284348,9 @@
           "total_tokens": 2445
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:12:01.863Z",
+      "detailNextAttemptAt": "2026-10-28T11:59:45.960Z",
       "detailError": {
-        "at": "2026-10-27T07:12:01.863Z",
+        "at": "2026-10-28T07:59:45.960Z",
         "message": "No usable official description reference"
       },
       "translationError": {
@@ -286584,7 +286859,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:09:50.173Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39094279837:1",
       "translation": {
         "summary": "为你的团体准备的派对游戏",
@@ -286599,6 +286874,11 @@
           "neurons": 27.555837631225586,
           "total_tokens": 1688
         }
+      },
+      "detailNextAttemptAt": "2026-10-28T08:59:48.359Z",
+      "detailError": {
+        "at": "2026-10-28T07:59:48.359Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe7d92416c8191b403cadc58ef107d": {
@@ -308537,7 +308817,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:04.401Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "在Ava Studio中创作",
@@ -308553,9 +308833,9 @@
           "total_tokens": 1577
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:10:40.919Z",
+      "detailNextAttemptAt": "2026-10-28T11:58:12.434Z",
       "detailError": {
-        "at": "2026-10-27T07:10:40.919Z",
+        "at": "2026-10-28T07:58:12.434Z",
         "message": "No usable official description reference"
       }
     },
@@ -310834,7 +311114,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:09.095Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40448357028:1",
       "translation": {
         "summary": "创建品牌图像/视频广告",
@@ -310850,9 +311130,9 @@
           "total_tokens": 1295
         }
       },
-      "detailNextAttemptAt": "2026-10-27T08:10:43.758Z",
+      "detailNextAttemptAt": "2026-10-28T09:58:14.917Z",
       "detailError": {
-        "at": "2026-10-27T07:10:43.758Z",
+        "at": "2026-10-28T07:58:14.917Z",
         "message": "No usable official description reference"
       }
     },
@@ -312079,7 +312359,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:44.451Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "澳大利亚课程与移民",
@@ -312095,9 +312375,9 @@
           "total_tokens": 1402
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:10:46.135Z",
+      "detailNextAttemptAt": "2026-10-28T11:58:17.445Z",
       "detailError": {
-        "at": "2026-10-27T07:10:46.135Z",
+        "at": "2026-10-28T07:58:17.445Z",
         "message": "No usable official description reference"
       }
     },
@@ -312205,7 +312485,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:47.899Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "真实来源及页码",
@@ -312221,9 +312501,9 @@
           "total_tokens": 1784
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:10:48.425Z",
+      "detailNextAttemptAt": "2026-10-28T11:58:19.778Z",
       "detailError": {
-        "at": "2026-10-27T07:10:48.425Z",
+        "at": "2026-10-28T07:58:19.778Z",
         "message": "No usable official description reference"
       },
       "translationError": {
@@ -312651,7 +312931,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:52:00.615Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "单细胞基础模型",
@@ -312666,6 +312946,11 @@
           "neurons": 29.254243850708008,
           "total_tokens": 1759
         }
+      },
+      "detailNextAttemptAt": "2026-10-28T08:58:22.245Z",
+      "detailError": {
+        "at": "2026-10-28T07:58:22.245Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac45c4c07148191b1a11c40e0c0b820": {
@@ -312714,7 +312999,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:52:02.455Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "DMARC出站邮件安全",
@@ -312730,9 +313015,9 @@
           "total_tokens": 1717
         }
       },
-      "detailNextAttemptAt": "2026-10-27T08:10:50.747Z",
+      "detailNextAttemptAt": "2026-10-28T09:58:24.539Z",
       "detailError": {
-        "at": "2026-10-27T07:10:50.747Z",
+        "at": "2026-10-28T07:58:24.539Z",
         "message": "No usable official description reference"
       },
       "translationError": {
@@ -312903,7 +313188,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:52:08.097Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40448357028:1",
       "translation": {
         "summary": "探索并提交咨询",
@@ -312919,9 +313204,9 @@
           "total_tokens": 1824
         }
       },
-      "detailNextAttemptAt": "2026-10-27T08:10:53.012Z",
+      "detailNextAttemptAt": "2026-10-28T09:58:27.050Z",
       "detailError": {
-        "at": "2026-10-27T07:10:53.012Z",
+        "at": "2026-10-28T07:58:27.050Z",
         "message": "No usable official description reference"
       }
     },
@@ -320154,7 +320439,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:57:47.081Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "了解你的聊天模式",
@@ -320170,9 +320455,9 @@
           "total_tokens": 1904
         }
       },
-      "detailNextAttemptAt": "2026-10-27T08:11:12.594Z",
+      "detailNextAttemptAt": "2026-10-28T09:58:52.186Z",
       "detailError": {
-        "at": "2026-10-27T07:11:12.594Z",
+        "at": "2026-10-28T07:58:52.186Z",
         "message": "No usable official description reference"
       },
       "translationError": {
@@ -321066,7 +321351,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:58:16.309Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39897283558:1",
       "translation": {
         "summary": "获取品牌洞察信息",
@@ -321081,6 +321366,11 @@
           "neurons": 28.009519577026367,
           "total_tokens": 1624
         }
+      },
+      "detailNextAttemptAt": "2026-10-28T08:58:54.605Z",
+      "detailError": {
+        "at": "2026-10-28T07:58:54.605Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad8c0f0f9008191897ae9aedec1b003": {
@@ -321628,7 +321918,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:58:33.262Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "两个代理人的共享房间",
@@ -321644,9 +321934,9 @@
           "total_tokens": 1995
         }
       },
-      "detailNextAttemptAt": "2026-10-27T08:11:14.966Z",
+      "detailNextAttemptAt": "2026-10-28T09:58:57.515Z",
       "detailError": {
-        "at": "2026-10-27T07:11:14.966Z",
+        "at": "2026-10-28T07:58:57.515Z",
         "message": "No usable official description reference"
       },
       "translationError": {
@@ -322679,7 +322969,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:59:05.762Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "为你的课程电影提供指导",
@@ -322695,9 +322985,9 @@
           "total_tokens": 1891
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:17.367Z",
+      "detailNextAttemptAt": "2026-10-28T11:58:59.791Z",
       "detailError": {
-        "at": "2026-10-27T07:11:17.367Z",
+        "at": "2026-10-28T07:58:59.791Z",
         "message": "No usable official description reference"
       },
       "translationError": {
@@ -323493,7 +323783,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:59:31.329Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "AI学习路径",
@@ -323509,9 +323799,9 @@
           "total_tokens": 1917
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:19.649Z",
+      "detailNextAttemptAt": "2026-10-28T11:59:02.099Z",
       "detailError": {
-        "at": "2026-10-27T07:11:19.649Z",
+        "at": "2026-10-28T07:59:02.099Z",
         "message": "No usable official description reference"
       },
       "translationError": {
@@ -323755,7 +324045,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:59:38.853Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "探索《AIMPIRES时代》",
@@ -323771,9 +324061,9 @@
           "total_tokens": 1736
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:21.920Z",
+      "detailNextAttemptAt": "2026-10-28T11:59:04.461Z",
       "detailError": {
-        "at": "2026-10-27T07:11:21.920Z",
+        "at": "2026-10-28T07:59:04.461Z",
         "message": "No usable official description reference"
       },
       "translationError": {
@@ -324390,7 +324680,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:00:02.303Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "可重复使用的私有电子邮件别名",
@@ -324406,9 +324696,9 @@
           "total_tokens": 1795
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:24.154Z",
+      "detailNextAttemptAt": "2026-10-28T11:59:06.860Z",
       "detailError": {
-        "at": "2026-10-27T07:11:24.154Z",
+        "at": "2026-10-28T07:59:06.860Z",
         "message": "No usable official description reference"
       }
     },
@@ -325572,7 +325862,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:00:39.217Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "著名酒店，经过研究",
@@ -325588,9 +325878,9 @@
           "total_tokens": 1949
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:26.552Z",
+      "detailNextAttemptAt": "2026-10-28T11:59:09.300Z",
       "detailError": {
-        "at": "2026-10-27T07:11:26.552Z",
+        "at": "2026-10-28T07:59:09.300Z",
         "message": "No usable official description reference"
       },
       "translationError": {
@@ -325703,7 +325993,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:00:43.055Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "规划行程，保持连贯",
@@ -325719,9 +326009,9 @@
           "total_tokens": 1799
         }
       },
-      "detailNextAttemptAt": "2026-10-27T08:11:28.807Z",
+      "detailNextAttemptAt": "2026-10-28T09:59:11.778Z",
       "detailError": {
-        "at": "2026-10-27T07:11:28.807Z",
+        "at": "2026-10-28T07:59:11.778Z",
         "message": "No usable official description reference"
       }
     },
@@ -326580,7 +326870,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:01:09.406Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "与您的AI一起规划儿童活动",
@@ -326596,9 +326886,9 @@
           "total_tokens": 1465
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:31.153Z",
+      "detailNextAttemptAt": "2026-10-28T11:59:14.215Z",
       "detailError": {
-        "at": "2026-10-27T07:11:31.153Z",
+        "at": "2026-10-28T07:59:14.215Z",
         "message": "No usable official description reference"
       },
       "translationError": {
@@ -328214,7 +328504,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:02:00.727Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40448357028:1",
       "translation": {
         "summary": "管理牌组与卡片",
@@ -328230,9 +328520,9 @@
           "total_tokens": 1601
         }
       },
-      "detailNextAttemptAt": "2026-10-27T09:11:33.455Z",
+      "detailNextAttemptAt": "2026-10-28T11:59:16.527Z",
       "detailError": {
-        "at": "2026-10-27T07:11:33.455Z",
+        "at": "2026-10-28T07:59:16.527Z",
         "message": "No usable official description reference"
       }
     },
@@ -427727,23 +428017,23 @@
     "runId": "40633616431",
     "runAttempt": "1",
     "startedAt": "2026-10-28T04:40:56.276Z",
-    "updatedAt": "2026-10-28T07:55:42.428Z",
+    "updatedAt": "2026-10-28T07:59:50.516Z",
     "mode": "incremental",
-    "detailRequests": 4684,
+    "detailRequests": 4783,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
     "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 4684,
+    "errors": 4783,
     "stats": {
       "total": 5516,
       "details": 5003,
       "translated": 4913,
       "missing": 205,
       "removed": 282,
-      "pendingDetails": 4731,
+      "pendingDetails": 4783,
       "pendingTranslations": 603
     }
   }
