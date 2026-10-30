@@ -732,10 +732,10 @@
         "reviewedAt": "2026-10-29T17:50:50.967Z",
         "translatedAt": "2026-10-29T17:50:50.967Z"
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-28T08:56:54.196Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-30T10:19:07.286Z",
       "detailError": {
-        "at": "2026-10-28T07:56:54.196Z",
+        "at": "2026-10-30T08:19:07.286Z",
         "message": "No usable official description reference"
       }
     },
@@ -4037,10 +4037,10 @@
           "total_tokens": 1733
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-28T08:57:48.389Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-30T10:20:02.650Z",
       "detailError": {
-        "at": "2026-10-28T07:57:48.389Z",
+        "at": "2026-10-30T08:20:02.650Z",
         "message": "No usable official description reference"
       }
     },
@@ -13617,10 +13617,10 @@
           "total_tokens": 1572
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-28T08:57:50.807Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-30T10:20:05.306Z",
       "detailError": {
-        "at": "2026-10-28T07:57:50.807Z",
+        "at": "2026-10-30T08:20:05.306Z",
         "message": "No usable official description reference"
       }
     },
@@ -19237,7 +19237,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:51.608Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translation": {
         "summary": "创建并测试客服智能体",
         "description": "根据你的网站创建私有客服智能体，在上线前测试其回答，并申请批准后再启用。在 Zeiko 工作区中查看客服质量以及有证据支持的改进建议。",
@@ -19248,9 +19248,9 @@
         "reviewedAt": "2026-10-29T17:50:50.965Z",
         "translatedAt": "2026-10-29T17:50:50.965Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:56.467Z",
+      "detailNextAttemptAt": "2026-10-30T10:19:09.726Z",
       "detailError": {
-        "at": "2026-10-28T07:56:56.467Z",
+        "at": "2026-10-30T08:19:09.726Z",
         "message": "No usable official description reference"
       }
     },
@@ -34798,7 +34798,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:53.413Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translation": {
         "summary": "别再对 AI 重复说明",
         "description": "Socra Cortex 帮助个人和团队不必一遍遍向 ChatGPT 和 Codex 重复相同的偏好、要求和决策。它将这些知识及其原因保存在统一的事实来源中，供智能体在不同对话和工具中采取行动前检索。\n\nModules 记录应该做什么以及原因，并包含责任人和版本历史。Dependencies 用于关联理解这些知识所必需的信息。Flash 会先加载基础内容，再加载相关 Module 及其全部 Dependencies，每个 Module 只加载一次。\n\n团队成员可以分别负责不同主题，同时让各自的知识协同工作。例如，在 ChatGPT 中创建的产品需求 Module 可以依赖由相应负责人维护的架构和安全 Modules。Codex 在实施该需求前可以 Flash 它，并一并获得这些决策。\n\n随着对话和工作产生新知识，智能体会提议修改现有 Modules，让知识始终保持最新。建议的工作流程会要求它们在保存前展示精确的修改前后内容和 Dependencies，供负责人审批。更新会在后续 Flash 时生效，而版本历史会保留早期知识并记录变更。\n\nIssues 将任务与其所依据的 Modules 关联起来，并包含受指派人、工作依赖、评论和证据。收件箱会向相应负责人或智能体显示没有阻塞的工作；已完成的 Issues 会保留结果和历史记录。\n\n个人和团队在自己的 Socra Account 中拥有这些知识，并可为人员和群组设置 Module 权限。请访问 https://cortex.socra.com. 查看 Modules、知识地图和工作情况。你可以将 ChatGPT、Codex 或任何其他 AI 服务商连接到具有 Cortex 访问权限的同一 Account。\n\n设置和智能体说明：https://workspace.socra.com/docs/cortex/installation.md",
@@ -34809,9 +34809,9 @@
         "reviewedAt": "2026-10-29T17:50:50.939Z",
         "translatedAt": "2026-10-29T17:50:50.939Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:58.867Z",
+      "detailNextAttemptAt": "2026-10-30T10:19:12.228Z",
       "detailError": {
-        "at": "2026-10-28T07:56:58.867Z",
+        "at": "2026-10-30T08:19:12.228Z",
         "message": "No usable official description reference"
       }
     },
@@ -39587,7 +39587,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:55.248Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translation": {
         "summary": "保持角色设定一致",
         "description": "在不同 ChatGPT 对话中保持角色细节、世界规则和故事事件一致。保存已确认的事实与场景摘要，在新聊天续写故事时检索，并检查草稿是否与已保存的正史设定矛盾。还可为未完成场景、悬而未决的问题和后续步骤保存临时检查点。Continuity 只接收你通过其工具并经你许可发送的内容。它不会自动备份完整聊天、找回未保存的细节，也不保证写作绝无错误。需要已有 Continuity 账户，且具备 Pro 方案或有效的试用权限。",
@@ -39598,9 +39598,9 @@
         "reviewedAt": "2026-10-29T17:50:50.855Z",
         "translatedAt": "2026-10-29T17:50:50.855Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:57:01.297Z",
+      "detailNextAttemptAt": "2026-10-30T10:19:14.706Z",
       "detailError": {
-        "at": "2026-10-28T07:57:01.297Z",
+        "at": "2026-10-30T08:19:14.706Z",
         "message": "No usable official description reference"
       }
     },
@@ -53051,10 +53051,10 @@
           "total_tokens": 3428
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-28T08:57:33.814Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-30T10:19:47.005Z",
       "detailError": {
-        "at": "2026-10-28T07:57:33.814Z",
+        "at": "2026-10-30T08:19:47.005Z",
         "message": "No usable official description reference"
       }
     },
@@ -55416,10 +55416,10 @@
         "reviewedAt": "2026-10-29T17:50:50.911Z",
         "translatedAt": "2026-10-29T17:50:50.911Z"
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-28T08:57:03.598Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-30T10:19:17.182Z",
       "detailError": {
-        "at": "2026-10-28T07:57:03.598Z",
+        "at": "2026-10-30T08:19:17.182Z",
         "message": "No usable official description reference"
       }
     },
@@ -60220,10 +60220,10 @@
           "total_tokens": 2096
         }
       },
-      "detailFailures": 3,
-      "detailNextAttemptAt": "2026-10-28T11:57:36.119Z",
+      "detailFailures": 4,
+      "detailNextAttemptAt": "2026-10-30T16:19:49.542Z",
       "detailError": {
-        "at": "2026-10-28T07:57:36.119Z",
+        "at": "2026-10-30T08:19:49.542Z",
         "message": "No usable official description reference"
       }
     },
@@ -66741,10 +66741,10 @@
           "total_tokens": 1961
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-28T08:57:53.306Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-30T10:20:07.779Z",
       "detailError": {
-        "at": "2026-10-28T07:57:53.306Z",
+        "at": "2026-10-30T08:20:07.779Z",
         "message": "No usable official description reference"
       }
     },
@@ -83187,10 +83187,10 @@
           "total_tokens": 1550
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-28T08:57:38.683Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-30T10:19:51.994Z",
       "detailError": {
-        "at": "2026-10-28T07:57:38.683Z",
+        "at": "2026-10-30T08:19:51.994Z",
         "message": "No usable official description reference"
       }
     },
@@ -83746,7 +83746,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:58.888Z",
       "translationAttemptRun": "37453076339:1",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translation": {
         "summary": "发布到 X、LinkedIn 和电子邮件",
         "description": "FeedClaw 是 AI 代理的内容收件箱。让 ChatGPT 撰写帖子、X 长帖或新闻邮件，在聊天或收件箱中审阅后，再发布到 X、LinkedIn 或通过电子邮件发送。未经你同意，任何内容都不会发出。首次设置可直接在聊天中完成：为品牌命名、通过链接连接渠道，然后发布。你可以附加照片或视频、提前安排发布时间、管理多个品牌并建立订阅者名单。",
@@ -83757,9 +83757,9 @@
         "reviewedAt": "2026-10-29T17:50:50.875Z",
         "translatedAt": "2026-10-29T17:50:50.875Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:57:06.044Z",
+      "detailNextAttemptAt": "2026-10-30T10:19:19.757Z",
       "detailError": {
-        "at": "2026-10-28T07:57:06.044Z",
+        "at": "2026-10-30T08:19:19.757Z",
         "message": "No usable official description reference"
       }
     },
@@ -93183,10 +93183,10 @@
           "total_tokens": 1506
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-28T08:57:55.632Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-30T10:20:10.225Z",
       "detailError": {
-        "at": "2026-10-28T07:57:55.632Z",
+        "at": "2026-10-30T08:20:10.225Z",
         "message": "No usable official description reference"
       }
     },
@@ -96484,11 +96484,11 @@
           "total_tokens": 1315
         }
       },
-      "detailFailures": 3,
+      "detailFailures": 4,
       "lastMissingAt": "2026-10-23T03:54:39.485Z",
-      "detailNextAttemptAt": "2026-10-28T11:57:57.942Z",
+      "detailNextAttemptAt": "2026-10-30T16:20:12.684Z",
       "detailError": {
-        "at": "2026-10-28T07:57:57.942Z",
+        "at": "2026-10-30T08:20:12.684Z",
         "message": "No usable official description reference"
       }
     },
@@ -100892,7 +100892,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:00.672Z",
       "translationAttemptRun": "37573889568:1",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translation": {
         "summary": "发布到 Facebook、LinkedIn 和 X",
         "description": "通过一条消息，即可安排并发布内容到 Instagram、TikTok、Facebook、LinkedIn、X（Twitter）、Threads 和 Bluesky。1Social 会根据各平台的字数限制调整每条文案，在平台需要图片时提醒你，并可将帖子安排在未来 30 天内发布。\n\n发布后，它会分别报告各个平台的结果——哪些成功发布、哪些失败及原因——还可以仅重试某个平台，不影响其他平台。你也可以编辑或取消仍在计划中的内容。",
@@ -100903,9 +100903,9 @@
         "reviewedAt": "2026-10-29T17:50:50.890Z",
         "translatedAt": "2026-10-29T17:50:50.890Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:57:08.454Z",
+      "detailNextAttemptAt": "2026-10-30T10:19:22.193Z",
       "detailError": {
-        "at": "2026-10-28T07:57:08.454Z",
+        "at": "2026-10-30T08:19:22.193Z",
         "message": "No usable official description reference"
       }
     },
@@ -104842,10 +104842,10 @@
           "total_tokens": 1760
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-28T08:57:41.180Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-30T10:19:54.522Z",
       "detailError": {
-        "at": "2026-10-28T07:57:41.180Z",
+        "at": "2026-10-30T08:19:54.522Z",
         "message": "No usable official description reference"
       }
     },
@@ -126643,7 +126643,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:02.555Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translation": {
         "summary": "查询你的第一方数据",
         "description": "social.plus Agentry 将 ChatGPT 连接到你的应用已生成的第一方数据。你可以用日常语言询问社群、用户、内容、活动和增长情况，并获得清晰答案，以便可视化、制成表格或通过后续问题深入分析。\n\n例如可以询问：\n- 我正在准备一份营销活动简报。上个月哪些内容形式带来了最多活动？哪些用户群体参与度最高？\n- 我们上周二发布了一项新功能。此后几天的用户活动与前一周相比有何变化？\n- 我一小时后要参加 QBR。请概述本季度的增长、活跃用户和表现最佳的内容。\n- 本周的热门话题有哪些？用户讨论内容有什么明显变化吗？\n- 按参与方式细分最活跃的用户群体：谁发帖、谁评论、谁点赞？\n\n你的数据仍由你掌控：Agentry 采用只读模式。它不会发布、修改或删除任何内容。数据每天刷新，涵盖大约最近 90 days 的活动。\n\n要连接，你需要启用了 Agentry 的 social.plus 网络，以及由 Console 超级管理员提供的连接码。",
@@ -126654,9 +126654,9 @@
         "reviewedAt": "2026-10-29T17:50:50.939Z",
         "translatedAt": "2026-10-29T17:50:50.939Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:57:11.433Z",
+      "detailNextAttemptAt": "2026-10-30T10:19:24.641Z",
       "detailError": {
-        "at": "2026-10-28T07:57:11.433Z",
+        "at": "2026-10-30T08:19:24.641Z",
         "message": "No usable official description reference"
       }
     },
@@ -131152,7 +131152,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:04.425Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translation": {
         "summary": "创作乐谱与吉他谱 TAB",
         "description": "Music Block 可将你在 ChatGPT 中的音乐灵感转换为可播放的乐谱和吉他谱 TAB。\n\n你可以请求吉他乐句、钢琴和弦配置、贝斯线、鼓点、旋律、和弦进行、练习曲、编曲或乐理示例；Music Block 会直接在对话中将它们排版成雕版风格的乐谱。\n\n可以尝试这样提问：“给我 5 条适用于 B7alt 的旋律小调乐句”“为 ii–V–I 写一段行进贝斯线”“展示声部连接流畅的爵士钢琴和弦配置”或“把这段旋律改编为弦乐四重奏”。\n\nMusic Block 支持吉他、贝斯、尤克里里、钢琴和键盘、鼓、弦乐、铜管、木管、萨克斯和人声。吉他、贝斯和尤克里里示例包含 TAB；键盘使用大谱表；合奏最多可包含 8 个声部。\n\n每个示例都支持播放，你可以听到自己正在学习的内容、调整速度，并单独静音或独奏各个声部。你还可以使用替代调弦、扩展音域的吉他和贝斯、摇摆和 Shuffle 节奏、连音符、和弦符号，以及推弦、滑弦、击弦和勾弦等常见吉他技巧。\n\nMusic Block 适用于练习、教学、写歌、编曲，以及通过为对话创作的简短原创示例探索乐理。",
@@ -131163,9 +131163,9 @@
         "reviewedAt": "2026-10-29T17:50:50.910Z",
         "translatedAt": "2026-10-29T17:50:50.910Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:57:13.805Z",
+      "detailNextAttemptAt": "2026-10-30T10:19:27.155Z",
       "detailError": {
-        "at": "2026-10-28T07:57:13.805Z",
+        "at": "2026-10-30T08:19:27.155Z",
         "message": "No usable official description reference"
       }
     },
@@ -132271,7 +132271,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:06.223Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translation": {
         "summary": "查找笔记和学习工具",
         "description": "Studocu 帮助学生查找学习资料、设置课程背景、利用开放网络内容为回答提供依据，并通过 ChatGPT 管理经过身份验证的学习项目——添加来源、阅读材料、创建测验或模拟考试，并保存长期学习记忆。",
@@ -132282,9 +132282,9 @@
         "reviewedAt": "2026-10-29T17:50:50.943Z",
         "translatedAt": "2026-10-29T17:50:50.943Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:57:16.283Z",
+      "detailNextAttemptAt": "2026-10-30T10:19:29.611Z",
       "detailError": {
-        "at": "2026-10-28T07:57:16.283Z",
+        "at": "2026-10-30T08:19:29.611Z",
         "message": "No usable official description reference"
       }
     },
@@ -142975,10 +142975,10 @@
           "total_tokens": 2255
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-28T08:57:43.709Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-30T10:19:57.001Z",
       "detailError": {
-        "at": "2026-10-28T07:57:43.709Z",
+        "at": "2026-10-30T08:19:57.001Z",
         "message": "No usable official description reference"
       }
     },
@@ -147181,10 +147181,10 @@
           "total_tokens": 1457
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-28T08:58:00.336Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-30T10:20:15.138Z",
       "detailError": {
-        "at": "2026-10-28T07:58:00.336Z",
+        "at": "2026-10-30T08:20:15.138Z",
         "message": "No usable official description reference"
       }
     },
@@ -150376,7 +150376,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:08.006Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translation": {
         "summary": "研究上市公司",
         "description": "Fiscal.ai 帮助用户利用其 Fiscal.ai 账户可访问的、关联来源的财务报表、比率、价格、申报文件、新闻、所有权、业务分部、KPI、财报事件和基金投资者信来研究上市公司。",
@@ -150387,9 +150387,9 @@
         "reviewedAt": "2026-10-29T17:50:50.986Z",
         "translatedAt": "2026-10-29T17:50:50.986Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:57:18.843Z",
+      "detailNextAttemptAt": "2026-10-30T10:19:32.071Z",
       "detailError": {
-        "at": "2026-10-28T07:57:18.843Z",
+        "at": "2026-10-30T08:19:32.071Z",
         "message": "No usable official description reference"
       }
     },
@@ -153601,7 +153601,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:09.830Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translation": {
         "summary": "了解贷款利率",
         "description": "通过 ChatGPT 使用 LendingTree 了解金融产品利率。查看 LendingTree 网络提供的以下产品当前估计利率：\n\n- 住房抵押贷款及抵押贷款再融资\n- 房屋净值贷款\n- 金额介于 $5,000 与 $50,000 之间的个人贷款\n\n可以尝试这样的提示：\n\n@LendingTree 我所在地区的住房抵押贷款利率如何？\n\n@LendingTree 如果在 CA 申请 $100,000 的房屋净值贷款，我的利率会是多少？\n\n@LendingTree 目前 $10,000 的个人贷款利率如何？\n\n根据贷款用途、期限、预估信用状况、所在州及贷款金额筛选结果，了解利率可能如何变化。准备查看个性化报价时，你可以前往 LendingTree 比较各项选择。\n\n此应用不会在 ChatGPT 或 LendingTree 网站上提供特定贷款机构的报价、审批、预审资格、财务建议，或承诺某一具体利率。LendingTree 仅对 LendingTree 应用体验内的 LendingTree 内容和功能负责，不对 ChatGPT 生成的回答或该应用体验之外的任何内容或功能负责。可用筛选条件因金融产品而异。消费者应咨询合资格的财务、税务、法律专业人士，以及在适用情况下咨询住房抵押贷款专业人士，以确定是否有适合自身情况的产品及具体是哪一项。LendingTree, LLC. NMLS #1136。",
@@ -153612,9 +153612,9 @@
         "reviewedAt": "2026-10-29T17:50:50.975Z",
         "translatedAt": "2026-10-29T17:50:50.975Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:57:21.255Z",
+      "detailNextAttemptAt": "2026-10-30T10:19:34.518Z",
       "detailError": {
-        "at": "2026-10-28T07:57:21.255Z",
+        "at": "2026-10-30T08:19:34.518Z",
         "message": "No usable official description reference"
       }
     },
@@ -156478,10 +156478,10 @@
           "total_tokens": 1617
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-28T08:58:02.814Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-30T10:20:17.608Z",
       "detailError": {
-        "at": "2026-10-28T07:58:02.814Z",
+        "at": "2026-10-30T08:20:17.608Z",
         "message": "No usable official description reference"
       }
     },
@@ -162694,7 +162694,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:11.775Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translation": {
         "summary": "跟踪企业财务",
         "description": "通过与 ChatGPT 对话管理你的业务。\n\nHelpDol 是由 AI 驱动的财务管理应用，面向销售人员、服务提供商、自雇人士、自由职业者、承包商及小企业主。在 HelpDol 应用中连接一次银行账户，收入和支出便会自动导入，无需手动输入，也不会重复导入。\n\n之后只需提问。查看利润、余额、现金流、应付及应收账款，以及向每位帮工支付了多少费用。处理仍需审核的转账、安排未来付款并设置提醒、为帮工和客户生成收据、调出给会计师的年度报告，并通过银行卡或支付链接向客户收款——全部在对话中完成。",
@@ -162705,9 +162705,9 @@
         "reviewedAt": "2026-10-29T17:50:50.993Z",
         "translatedAt": "2026-10-29T17:50:50.993Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:57:23.701Z",
+      "detailNextAttemptAt": "2026-10-30T10:19:37.061Z",
       "detailError": {
-        "at": "2026-10-28T07:57:23.701Z",
+        "at": "2026-10-30T08:19:37.061Z",
         "message": "No usable official description reference"
       }
     },
@@ -163652,10 +163652,10 @@
           "total_tokens": 1548
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-28T08:58:05.186Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-30T10:20:20.225Z",
       "detailError": {
-        "at": "2026-10-28T07:58:05.186Z",
+        "at": "2026-10-30T08:20:20.225Z",
         "message": "No usable official description reference"
       }
     },
@@ -176071,10 +176071,10 @@
           "total_tokens": 1406
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-28T08:58:07.583Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-30T10:20:22.775Z",
       "detailError": {
-        "at": "2026-10-28T07:58:07.583Z",
+        "at": "2026-10-30T08:20:22.775Z",
         "message": "No usable official description reference"
       }
     },
@@ -188144,7 +188144,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:13.566Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translation": {
         "summary": "搜索并比较渡轮航线",
         "description": "Ferryhopper 帮助旅客规划欧洲和地中海地区的渡轮行程。用户可以查询渡轮港口，了解从某港口可直达的目的地，并搜索单程、往返或最多五段的跳岛航程，查看参考价格和各航段的可用选项（客舱、车辆、宠物、电子票）。还可以查看特定航班的船上设施、照片和住宿选项，并查询罢工、天气警报和取消等运营中断通知。搜索结果会链接到 ferryhopper.com，用户可在那里完成预订。",
@@ -188155,9 +188155,9 @@
         "reviewedAt": "2026-10-29T17:50:50.875Z",
         "translatedAt": "2026-10-29T17:50:50.875Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:57:26.762Z",
+      "detailNextAttemptAt": "2026-10-30T10:19:39.561Z",
       "detailError": {
-        "at": "2026-10-28T07:57:26.762Z",
+        "at": "2026-10-30T08:19:39.561Z",
         "message": "No usable official description reference"
       }
     },
@@ -204333,10 +204333,10 @@
           "total_tokens": 2250
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-28T08:58:09.948Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-30T10:20:25.239Z",
       "detailError": {
-        "at": "2026-10-28T07:58:09.948Z",
+        "at": "2026-10-30T08:20:25.239Z",
         "message": "No usable official description reference"
       }
     },
@@ -206143,7 +206143,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:15.398Z",
       "translationAttemptRun": "40300276517:1",
-      "detailFailures": 3,
+      "detailFailures": 4,
       "translation": {
         "summary": "自行抽取的塔罗牌",
         "description": "Evelyn Tarot将宁静、从容的塔罗体验融入ChatGPT。\n\n您可自行抽卡：Evelyn会询问您的姓名、年龄以及前来占卜的原因，翻开背面朝上的牌阵，等待您选择。\n\nEvelyn Tarot让您自行抽卡。她会询问您的姓名、年龄以及前来占卜的原因，翻开背面朝上的牌阵，等待您选择，随后才翻转牌面。14种占卜类型——爱情、您将嫁娶的人、对方对您的感受、事业、深入灵性占卜、未来一年展望等，每种都以长篇个人化解读形式呈现，支持您选择的语言。还提供免费的牌义解释、每周黄道运势、匹配度分析、月相、数秘术及天使数字。\n\n所有内容完全免费，无需创建账户，所有工具支持十种语言——英语、土耳其语、西班牙语、葡萄牙语、意大利语、阿拉伯语、法语、日语、印地语和印尼语。\n\n以上占卜仅供反思和娱乐用途。不构成医疗、法律或财务建议，不保证任何结果。",
@@ -206158,9 +206158,9 @@
           "total_tokens": 2071
         }
       },
-      "detailNextAttemptAt": "2026-10-28T11:57:29.046Z",
+      "detailNextAttemptAt": "2026-10-30T16:19:42.036Z",
       "detailError": {
-        "at": "2026-10-28T07:57:29.046Z",
+        "at": "2026-10-30T08:19:42.036Z",
         "message": "No usable official description reference"
       }
     },
@@ -213189,7 +213189,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:17.201Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translation": {
         "summary": "免费 AI 四柱命理与八字解读",
         "description": "SAJU 是由 Saju.com 推出的免费 AI 四柱命理解读应用。Saju.com 是 Doctor Fortune（운세박사）的全球版；Doctor Fortune 是 ChatGPT 商店中排名第 #1 的占卜应用，由 50 多位专业命理师打造。Saju（사주，四柱命理，也称 BaZi / 八字）是韩国及东亚传统的出生图体系，根据出生的年、月、日、时解读命运。\n\n只需告诉 ChatGPT 你的出生日期、出生时间、性别和出生城市。SAJU 会根据世界任意城市的真实天文节气、历史时区和经度校正后的当地时间，排出准确的四柱命盘，并以交互式图表展示：日主、天干地支、十神、五行平衡、合冲、吉星与挑战之星，以及 10 年大运、年度运势和每月运势的图示时间线。\n\n之后可以继续用日常语言对话，了解性格与人生道路、事业与财富、爱情、婚姻与匹配、健康、今年和明年运势、适合换工作或搬家的月份，以及某个具体日期是否适合婚礼、签合同或面试——SAJU 会为任意日期查询准确的日柱。支持英语、韩语、日语、中文、西班牙语、葡萄牙语、德语、法语、越南语、泰语、印地语、阿拉伯语、意大利语、土耳其语和印度尼西亚语。\n\n也称：AI Saju · Saju 解读 · 韩国占卜 · 四柱命理 · BaZi · 中国占星术 · 日主 · 사주 · 사주팔자 · AI 사주 · 무료 사주 · 四柱推命 · 八字 · 四柱命理 · 算命 · Tứ Trụ · Bát Tự · Tử vi · ดวงจีน · โป๊ยหยี่ · कोरियाई ज्योतिष · Saju coreano · Cuatro Pilares del Destino · Quatro Pilares do Destino · Vier Säulen des Schicksals · Quatre Piliers de la Destinée · Quattro Pilastri del Destino · Kaderin Dört Sütunu · Ramalan Saju · الأعمدة الأربعة للمصير。\n\nSAJU 除出生信息外不会询问其他内容，且可免费使用。",
@@ -213200,9 +213200,9 @@
         "reviewedAt": "2026-10-29T17:50:50.932Z",
         "translatedAt": "2026-10-29T17:50:50.932Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:57:31.382Z",
+      "detailNextAttemptAt": "2026-10-30T10:19:44.519Z",
       "detailError": {
-        "at": "2026-10-28T07:57:31.382Z",
+        "at": "2026-10-30T08:19:44.519Z",
         "message": "No usable official description reference"
       }
     },
@@ -239976,10 +239976,10 @@
           "total_tokens": 1587
         }
       },
-      "detailFailures": 1,
-      "detailNextAttemptAt": "2026-10-28T08:57:46.043Z",
+      "detailFailures": 2,
+      "detailNextAttemptAt": "2026-10-30T10:20:00.074Z",
       "detailError": {
-        "at": "2026-10-28T07:57:46.043Z",
+        "at": "2026-10-30T08:20:00.074Z",
         "message": "No usable official description reference"
       }
     },
@@ -245178,7 +245178,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:02.945Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "探索移动网络数据",
@@ -245190,9 +245190,9 @@
         "reviewedAt": "2026-10-29T17:50:50.935Z",
         "translatedAt": "2026-10-29T17:50:50.935Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:55:58.364Z",
+      "detailNextAttemptAt": "2026-10-30T10:18:11.599Z",
       "detailError": {
-        "at": "2026-10-28T07:55:58.364Z",
+        "at": "2026-10-30T08:18:11.599Z",
         "message": "No usable official description reference"
       }
     },
@@ -245237,7 +245237,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:04.826Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "连接你的数据库",
@@ -245249,9 +245249,9 @@
         "reviewedAt": "2026-10-29T17:50:50.764Z",
         "translatedAt": "2026-10-29T17:50:50.764Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:00.850Z",
+      "detailNextAttemptAt": "2026-10-30T10:18:14.157Z",
       "detailError": {
-        "at": "2026-10-28T07:56:00.850Z",
+        "at": "2026-10-30T08:18:14.157Z",
         "message": "No usable official description reference"
       }
     },
@@ -245296,7 +245296,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:06.678Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "随时开玩的团队游戏",
@@ -245308,9 +245308,9 @@
         "reviewedAt": "2026-10-29T17:50:50.879Z",
         "translatedAt": "2026-10-29T17:50:50.879Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:03.144Z",
+      "detailNextAttemptAt": "2026-10-30T10:18:16.656Z",
       "detailError": {
-        "at": "2026-10-28T07:56:03.144Z",
+        "at": "2026-10-30T08:18:16.656Z",
         "message": "No usable official description reference"
       }
     },
@@ -245355,7 +245355,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:08.451Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40448357028:1",
       "translation": {
         "summary": "小型团队的工作聊天工具",
@@ -245371,9 +245371,9 @@
           "total_tokens": 1535
         }
       },
-      "detailNextAttemptAt": "2026-10-28T09:56:05.418Z",
+      "detailNextAttemptAt": "2026-10-30T12:18:19.206Z",
       "detailError": {
-        "at": "2026-10-28T07:56:05.418Z",
+        "at": "2026-10-30T08:18:19.206Z",
         "message": "No usable official description reference"
       }
     },
@@ -245418,7 +245418,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:10.253Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "创建可打印的学习材料",
@@ -245430,9 +245430,9 @@
         "reviewedAt": "2026-10-29T17:50:50.849Z",
         "translatedAt": "2026-10-29T17:50:50.849Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:07.876Z",
+      "detailNextAttemptAt": "2026-10-30T10:18:21.713Z",
       "detailError": {
-        "at": "2026-10-28T07:56:07.876Z",
+        "at": "2026-10-30T08:18:21.713Z",
         "message": "No usable official description reference"
       }
     },
@@ -245477,7 +245477,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:12.099Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "规划更好的足球训练",
@@ -245489,9 +245489,9 @@
         "reviewedAt": "2026-10-29T17:50:50.878Z",
         "translatedAt": "2026-10-29T17:50:50.878Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:10.305Z",
+      "detailNextAttemptAt": "2026-10-30T10:18:24.159Z",
       "detailError": {
-        "at": "2026-10-28T07:56:10.305Z",
+        "at": "2026-10-30T08:18:24.159Z",
         "message": "No usable official description reference"
       }
     },
@@ -245536,7 +245536,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:13.981Z",
-      "detailFailures": 3,
+      "detailFailures": 4,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "带进度的指导课程",
@@ -245552,9 +245552,9 @@
           "total_tokens": 1451
         }
       },
-      "detailNextAttemptAt": "2026-10-28T11:56:12.749Z",
+      "detailNextAttemptAt": "2026-10-30T16:18:26.703Z",
       "detailError": {
-        "at": "2026-10-28T07:56:12.749Z",
+        "at": "2026-10-30T08:18:26.703Z",
         "message": "No usable official description reference"
       }
     },
@@ -245659,7 +245659,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:17.814Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "搜索日本政策记录",
@@ -245671,9 +245671,9 @@
         "reviewedAt": "2026-10-29T17:50:50.921Z",
         "translatedAt": "2026-10-29T17:50:50.921Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:17.335Z",
+      "detailNextAttemptAt": "2026-10-30T10:18:29.185Z",
       "detailError": {
-        "at": "2026-10-28T07:56:17.335Z",
+        "at": "2026-10-30T08:18:29.185Z",
         "message": "No usable official description reference"
       }
     },
@@ -245718,7 +245718,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:19.625Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "向 AI 记账助手提问",
@@ -245731,9 +245731,9 @@
         "translatedAt": "2026-10-29T17:50:50.973Z"
       },
       "lastMissingAt": "2026-10-23T03:54:39.485Z",
-      "detailNextAttemptAt": "2026-10-28T08:56:19.739Z",
+      "detailNextAttemptAt": "2026-10-30T10:18:32.334Z",
       "detailError": {
-        "at": "2026-10-28T07:56:19.739Z",
+        "at": "2026-10-30T08:18:32.334Z",
         "message": "No usable official description reference"
       }
     },
@@ -245778,7 +245778,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:21.434Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "学生贷款还款计算",
@@ -245790,9 +245790,9 @@
         "reviewedAt": "2026-10-29T17:50:50.984Z",
         "translatedAt": "2026-10-29T17:50:50.984Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:22.051Z",
+      "detailNextAttemptAt": "2026-10-30T10:18:34.853Z",
       "detailError": {
-        "at": "2026-10-28T07:56:22.051Z",
+        "at": "2026-10-30T08:18:34.853Z",
         "message": "No usable official description reference"
       }
     },
@@ -245837,7 +245837,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:23.225Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "硬资产抵押与 DSCR 贷款报价",
@@ -245849,9 +245849,9 @@
         "reviewedAt": "2026-10-29T17:50:50.972Z",
         "translatedAt": "2026-10-29T17:50:50.972Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:24.546Z",
+      "detailNextAttemptAt": "2026-10-30T10:18:37.306Z",
       "detailError": {
-        "at": "2026-10-28T07:56:24.546Z",
+        "at": "2026-10-30T08:18:37.306Z",
         "message": "No usable official description reference"
       }
     },
@@ -245896,7 +245896,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:25.113Z",
-      "detailFailures": 3,
+      "detailFailures": 4,
       "translationAttemptRun": "40265897781:1",
       "translation": {
         "summary": "构建交易策略",
@@ -245912,9 +245912,9 @@
           "total_tokens": 1497
         }
       },
-      "detailNextAttemptAt": "2026-10-28T11:56:26.964Z",
+      "detailNextAttemptAt": "2026-10-30T16:18:39.911Z",
       "detailError": {
-        "at": "2026-10-28T07:56:26.964Z",
+        "at": "2026-10-30T08:18:39.911Z",
         "message": "No usable official description reference"
       }
     },
@@ -246019,7 +246019,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:26.897Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "追踪投资组合表现",
@@ -246031,9 +246031,9 @@
         "reviewedAt": "2026-10-29T17:50:50.989Z",
         "translatedAt": "2026-10-29T17:50:50.989Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:29.358Z",
+      "detailNextAttemptAt": "2026-10-30T10:18:42.424Z",
       "detailError": {
-        "at": "2026-10-28T07:56:29.358Z",
+        "at": "2026-10-30T08:18:42.424Z",
         "message": "No usable official description reference"
       }
     },
@@ -246078,7 +246078,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:28.696Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "规划你的 Peninsula 体验",
@@ -246090,9 +246090,9 @@
         "reviewedAt": "2026-10-29T17:50:50.948Z",
         "translatedAt": "2026-10-29T17:50:50.948Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:31.852Z",
+      "detailNextAttemptAt": "2026-10-30T10:18:44.899Z",
       "detailError": {
-        "at": "2026-10-28T07:56:31.852Z",
+        "at": "2026-10-30T08:18:44.899Z",
         "message": "No usable official description reference"
       }
     },
@@ -246137,7 +246137,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:30.578Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "寻找希腊各地住宿",
@@ -246149,9 +246149,9 @@
         "reviewedAt": "2026-10-29T17:50:50.770Z",
         "translatedAt": "2026-10-29T17:50:50.770Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:34.327Z",
+      "detailNextAttemptAt": "2026-10-30T10:18:47.324Z",
       "detailError": {
-        "at": "2026-10-28T07:56:34.327Z",
+        "at": "2026-10-30T08:18:47.324Z",
         "message": "No usable official description reference"
       }
     },
@@ -246196,7 +246196,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:32.397Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "寻找值得去的地方",
@@ -246208,9 +246208,9 @@
         "reviewedAt": "2026-10-29T17:50:50.755Z",
         "translatedAt": "2026-10-29T17:50:50.755Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:36.817Z",
+      "detailNextAttemptAt": "2026-10-30T10:18:49.790Z",
       "detailError": {
-        "at": "2026-10-28T07:56:36.817Z",
+        "at": "2026-10-30T08:18:49.790Z",
         "message": "No usable official description reference"
       }
     },
@@ -246255,7 +246255,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:38.573Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "查找道路测速摄像头",
@@ -246267,9 +246267,9 @@
         "reviewedAt": "2026-10-29T17:50:50.941Z",
         "translatedAt": "2026-10-29T17:50:50.941Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:39.269Z",
+      "detailNextAttemptAt": "2026-10-30T10:18:52.237Z",
       "detailError": {
-        "at": "2026-10-28T07:56:39.269Z",
+        "at": "2026-10-30T08:18:52.237Z",
         "message": "No usable official description reference"
       }
     },
@@ -246314,7 +246314,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:40.416Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "查找并直接预订酒店",
@@ -246326,9 +246326,9 @@
         "reviewedAt": "2026-10-29T17:50:50.747Z",
         "translatedAt": "2026-10-29T17:50:50.747Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:41.681Z",
+      "detailNextAttemptAt": "2026-10-30T10:18:54.689Z",
       "detailError": {
-        "at": "2026-10-28T07:56:41.681Z",
+        "at": "2026-10-30T08:18:54.689Z",
         "message": "No usable official description reference"
       }
     },
@@ -246373,7 +246373,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:42.290Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "搜索实时酒店价格",
@@ -246385,9 +246385,9 @@
         "reviewedAt": "2026-10-29T17:50:50.882Z",
         "translatedAt": "2026-10-29T17:50:50.882Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:44.070Z",
+      "detailNextAttemptAt": "2026-10-30T10:18:57.207Z",
       "detailError": {
-        "at": "2026-10-28T07:56:44.070Z",
+        "at": "2026-10-30T08:18:57.207Z",
         "message": "No usable official description reference"
       }
     },
@@ -246432,7 +246432,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:44.075Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "实时高尔夫开球时间与果岭费",
@@ -246444,9 +246444,9 @@
         "reviewedAt": "2026-10-29T17:50:50.883Z",
         "translatedAt": "2026-10-29T17:50:50.883Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:46.688Z",
+      "detailNextAttemptAt": "2026-10-30T10:18:59.649Z",
       "detailError": {
-        "at": "2026-10-28T07:56:46.688Z",
+        "at": "2026-10-30T08:18:59.649Z",
         "message": "No usable official description reference"
       }
     },
@@ -246491,7 +246491,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:45.914Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "塔罗牌与西班牙牌",
@@ -246503,9 +246503,9 @@
         "reviewedAt": "2026-10-29T17:50:50.949Z",
         "translatedAt": "2026-10-29T17:50:50.949Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:49.133Z",
+      "detailNextAttemptAt": "2026-10-30T10:19:02.224Z",
       "detailError": {
-        "at": "2026-10-28T07:56:49.133Z",
+        "at": "2026-10-30T08:19:02.224Z",
         "message": "No usable official description reference"
       }
     },
@@ -246550,7 +246550,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:47.747Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "三体系出生星盘解读",
@@ -246562,9 +246562,9 @@
         "reviewedAt": "2026-10-29T17:50:50.953Z",
         "translatedAt": "2026-10-29T17:50:50.953Z"
       },
-      "detailNextAttemptAt": "2026-10-28T08:56:51.653Z",
+      "detailNextAttemptAt": "2026-10-30T10:19:04.695Z",
       "detailError": {
-        "at": "2026-10-28T07:56:51.653Z",
+        "at": "2026-10-30T08:19:04.695Z",
         "message": "No usable official description reference"
       }
     },
@@ -308774,7 +308774,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Chop It is a UK meal-planning app that does the food admin so you can just cook. Tell it what you fancy, or what’s in the fridge, and it builds your week of dinners from a catalogue of more than 1,000 recipes, then turns them into one sorted shopping list you can send straight to your online basket. The Weekly Diversity Score keeps variety, fibre and plants on the plate without giving up the comfort food you want on a Tuesday night. Plan less, cook more, shop once.",
       "information": [
         {
@@ -308802,7 +308802,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:49:57.612Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "饮食计划器、食谱与美食",
@@ -308817,6 +308817,11 @@
           "neurons": 32.25879669189453,
           "total_tokens": 1805
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:20:27.847Z",
+      "detailError": {
+        "at": "2026-10-30T08:20:27.847Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aaa5e382b048191a73ddae4e9aba8aa": {
@@ -308832,7 +308837,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "MeetNotes turns meetings into minutes. Record in the room on your phone, send the MeetNotes Notetaker into a Zoom, Google Meet or Microsoft Teams call, or capture calls with the desktop app. MeetNotes returns a speaker-labelled transcript plus minutes of meeting — summary, key points, decisions and action items with owners — in 100+ languages, including meetings that switch language mid-sentence.\n\nWith this plugin you connect your MeetNotes account and ask about your meetings in plain words: what was decided, who owes what, and where exactly something was said, with links that open the moment in the app. Attach an audio file to have it transcribed, paste a meeting link to send the notetaker, and export minutes as PDF, Word or Markdown. It only sees meetings your account can already see; you approve the connection on a MeetNotes page and can end it from ChatGPT at any time.",
       "information": [
         {
@@ -308860,7 +308865,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:49:59.376Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "会议记录",
@@ -308875,6 +308880,11 @@
           "neurons": 31.725666046142578,
           "total_tokens": 1863
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:20:30.421Z",
+      "detailError": {
+        "at": "2026-10-30T08:20:30.421Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_69b83f27e1ac8191bdca281901278f17": {
@@ -308890,7 +308900,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Your meetings contain decisions, commitments, and context that your AI assistant can't access. TeamsMaestro changes that by connecting your entire meeting history to ChatGPT.\n\nThe fastest growing AI note taker for Microsoft users, TeamsMaestro joins your calls on Microsoft Teams, Google Meet, and Zoom, automatically capturing everything so nothing gets lost.\n\nWorks great for:\n\n- Proposals and docs grounded in what was actually discussed in meetings\n- Client call preparation by surfacing everything from past sessions, then going deeper with ChatGPT\n- Performance reviews backed by real context and commitments from past conversations\n- Missed meeting catch-ups with the ability to ask ChatGPT follow-up questions\n- Engineering workflows enriched with project background, requirements, and technical decisions from planning meetings\n- Strategic analysis that combines meeting insights with documents and data\n\n\nInstead of copy-pasting transcripts into ChatGPT and hoping it finds the right detail, TeamsMaestro gives your AI direct access to your meeting history. It pulls exactly what it needs, cites the right conversation, and keeps you focused on the work.",
       "information": [
         {
@@ -308918,7 +308928,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:02.556Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "搜索会议和AI笔记",
@@ -308933,6 +308943,11 @@
           "neurons": 32.39931106567383,
           "total_tokens": 1936
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:20:32.905Z",
+      "detailError": {
+        "at": "2026-10-30T08:20:32.905Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad65bd130108191842057e3ffd346c6": {
@@ -308981,7 +308996,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:04.401Z",
-      "detailFailures": 3,
+      "detailFailures": 4,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "在Ava Studio中创作",
@@ -308997,9 +309012,9 @@
           "total_tokens": 1577
         }
       },
-      "detailNextAttemptAt": "2026-10-28T11:58:12.434Z",
+      "detailNextAttemptAt": "2026-10-30T16:20:35.554Z",
       "detailError": {
-        "at": "2026-10-28T07:58:12.434Z",
+        "at": "2026-10-30T08:20:35.554Z",
         "message": "No usable official description reference"
       }
     },
@@ -309016,7 +309031,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "SoeMind creates marketing content for small businesses: short videos, product images, voiceovers and music, organized inside your own brand projects. Connect your SoeMind account to generate content from ChatGPT, check the status of running jobs, browse recent outputs, and get links to finished files. You always see a generation's estimate and approve it before anything runs. Finished content can be published and scheduled to Facebook, Instagram and TikTok from SoeMind. Supports Southeast Asian languages including Burmese and Thai. Requires a SoeMind account.",
       "information": [
         {
@@ -309049,7 +309064,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:06.270Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "AI营销视频与文案",
@@ -309064,6 +309079,11 @@
           "neurons": 23.42300796508789,
           "total_tokens": 1521
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:20:38.070Z",
+      "detailError": {
+        "at": "2026-10-30T08:20:38.070Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd053c1744819191e343d601e3601b": {
@@ -309079,7 +309099,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Create campaign ad concepts from local product photos and brand copy, edit and preview them, and save verified raster files directly in your Codex workspace. Native OAuth connects your account.",
       "information": [
         {
@@ -309112,7 +309132,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:07.939Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "从照片和文案创建广告",
@@ -309127,6 +309147,11 @@
           "neurons": 28.351028442382812,
           "total_tokens": 1614
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:20:40.612Z",
+      "detailError": {
+        "at": "2026-10-30T08:20:40.612Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac10b29d02c819187575adf94f158b6": {
@@ -309142,7 +309167,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "PropertyPrompt turns a floor plan into a 3D model of a property that ChatGPT can build, furnish and change for you.\n\nShare a floor plan or describe the rooms, with at least one real measurement. ChatGPT builds the walls, doors, windows and floors to scale in metres, then furnishes the rooms with real products, modelled from their published dimensions with a link to the retailer's page. A live viewer in the chat shows each change as it is made, and ChatGPT can render a view to check how a room looks.\n\nUse it to plan a move, try furniture before you buy it, check whether a sofa fits or compare layouts. Every change is made against the property's current version and kept in its history, so you can ask ChatGPT to undo it.\n\nFor renters and property owners planning a space, and for interior designers and estate agents who model properties for clients.\n\nYou sign in with a PropertyPrompt account, and the app reaches only that account's properties. Properties are private. Only you can make one public, on propertyprom.pt; ChatGPT can never do it. Open a property on propertyprom.pt to walk through it in the browser or in VR.\n\nLimitations: a model is only as accurate as the plans and measurements it is built from, and is not architectural or engineering advice. Product names, prices and links come from ChatGPT's research and can be out of date; the retailer's own page is what counts. PropertyPrompt does not sell products or take payments, and is not affiliated with the retailers shown. Accounts have a property limit and a fair use policy.",
       "information": [
         {
@@ -309175,7 +309200,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:09.610Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "从平面图到带家具的3D模型",
@@ -309190,6 +309215,11 @@
           "neurons": 36.145931243896484,
           "total_tokens": 2176
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:20:43.094Z",
+      "detailError": {
+        "at": "2026-10-30T08:20:43.094Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac251e3a32c8191805d8b6ef25741d5": {
@@ -309205,7 +309235,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Adly is an AI marketing platform for small businesses and agencies. Tell ChatGPT what you want to promote and Adly designs the post, carousel, video or ad on your brand (your logo, colors, fonts and tone), writes the copy in Arabic or English, and publishes or schedules it to your Facebook Page, Instagram, LinkedIn profile and X account.\n\nWhat you can do:\n- Create single-post designs, tip carousels, product-photo ads, UGC-style and scene-based videos.\n- Write and edit ad copy, then approve it in chat.\n- Check what is ready, preview it, and ask for changes.\n- Publish now or schedule for later, list upcoming posts and cancel one.\n- Open the Adly content board from the sidebar to see your latest content and everything that is scheduled.\n\nLimits to know: creating content counts toward your Adly usage limit. You need an Adly account to connect. Social accounts are connected once on getadly.com. Posts to X have no links, and X posting is not included in every Adly account. TikTok publishing is coming soon.",
       "information": [
         {
@@ -309238,7 +309268,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:11.344Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "创建并发布社交媒体内容",
@@ -309253,6 +309283,11 @@
           "neurons": 36.52075958251953,
           "total_tokens": 2067
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:20:45.588Z",
+      "detailError": {
+        "at": "2026-10-30T08:20:45.588Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac54c46b6dc8191a1cf81a3879b26f6": {
@@ -309268,7 +309303,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Etch Express helps trophy, award, and engraving shops prepare production designs. Create and edit engraving jobs, recipient tables, plate layouts, and bed layouts; reuse saved templates; upload artwork and source documents; validate saved geometry; and export PDF or SVG ZIP files. Manage store inventory, view analytics, and update store and organization settings according to your account permissions.",
       "information": [
         {
@@ -309296,7 +309331,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:13.137Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "雕刻生产设计",
@@ -309311,6 +309346,11 @@
           "neurons": 26.40277671813965,
           "total_tokens": 1584
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:20:48.133Z",
+      "detailError": {
+        "at": "2026-10-30T08:20:48.133Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe04f558508191aa0611c00086c367": {
@@ -309326,7 +309366,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Create coherent sets of 1–6 stylized icons or isolated spot illustrations from named subjects, a shared style and a color palette. Review the asset plan before generation, preview the results in chat, and download a ZIP with transparent full-canvas and cropped WebP plus self-contained SVG files. SVG files contain embedded raster artwork, not editable vector paths. You can also create website-matched illustration packs from a public URL. Requires a Designelier account. Does not edit existing images, trace vectors, create fonts or build websites.",
       "information": [
         {
@@ -309359,7 +309399,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:14.829Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "生成图标和插图",
@@ -309374,6 +309414,11 @@
           "neurons": 28.35340118408203,
           "total_tokens": 1676
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:20:51.227Z",
+      "detailError": {
+        "at": "2026-10-30T08:20:51.227Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac484c617f88191821284bd8dfb8a8d": {
@@ -309389,7 +309434,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "RoomLab.app helps homeowners, interior designers, and real estate professionals visualize changes to rooms and properties using images they provide. Use Virtual Staging to furnish an empty room, Change Style to restyle a furnished room, Declutter Room to remove clutter, or Empty Room to remove furniture. Use Replace Furniture or Replace Material with a reference image, and Wall Colors to compare nine paint colors. Create an Interior Architectural Render or Exterior Architectural Render from a design image. Use Video Walkthrough to animate one photo, Video Transition to animate between two images, or House Tour to combine three to six room images. You can also make an existing RoomLab.app result 4K. Connect an existing RoomLab.app account and provide the images needed for your request. Available actions depend on your connected account's access. Results are visualizations, not construction plans or measurements.",
       "information": [
         {
@@ -309422,7 +309467,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:16.610Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "布置房间并编辑照片",
@@ -309437,6 +309482,11 @@
           "neurons": 29.961685180664062,
           "total_tokens": 1789
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:20:53.700Z",
+      "detailError": {
+        "at": "2026-10-30T08:20:53.700Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad4196fb960819189edf1264310ddf7": {
@@ -309452,7 +309502,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Turn an idea into a custom 3D-printable design with just a few measurements or photos. Make replacement parts, organizers, mounts, holders, adapters, cases, tools and personalized gifts.  Or, design complicated projects simply via chat!\nPreview your design in 3D and download an STL file for your printer right in ChatGPT.  Find examples and instructions at https://printreadyparts.com.",
       "information": [
         {
@@ -309485,7 +309535,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:18.352Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "设计实用的可打印部件",
@@ -309500,6 +309550,11 @@
           "neurons": 31.43763542175293,
           "total_tokens": 1756
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:20:56.206Z",
+      "detailError": {
+        "at": "2026-10-30T08:20:56.206Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac26e6326108191b3dc95ed9119fa50": {
@@ -309515,7 +309570,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Use YouArt to build, edit, run, and review AI creative workflows in your connected workspace. Import source media, compose image, video, and audio nodes, and receive generated results directly in the conversation.",
       "information": [
         {
@@ -309548,7 +309603,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:20.405Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "构建AI媒体工作流程",
@@ -309563,6 +309618,11 @@
           "neurons": 22.49251937866211,
           "total_tokens": 1426
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:20:58.691Z",
+      "detailError": {
+        "at": "2026-10-30T08:20:58.691Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a63091ee9ec8191b6c002a13464ade9": {
@@ -309578,7 +309638,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Find the moments worth sharing in interviews, podcasts, and webinars. OpenClip turns a supported video link into ranked clip previews. Review the moments, choose a caption style, and export the clips you select.\n\nFor an existing short video, add captions to an upload up to three minutes long. Find previous videos and read time-coded transcripts to locate a quote or revisit a moment.\n\nConnect your OpenClip account to work with videos in your current team. New clipping jobs require eligible account access and processing credits; Quick Captions has separate export limits. Processing runs in the background; check its status to see when previews or exports are ready.",
       "information": [
         {
@@ -309606,7 +309666,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:22.176Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "查找并添加视频片段字幕",
@@ -309621,6 +309681,11 @@
           "neurons": 37.29389190673828,
           "total_tokens": 2005
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:01.171Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:01.171Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad1f4029fb48191890fa657955aaf55": {
@@ -309636,7 +309701,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Bring MiriCanvas into ChatGPT to get template recommendations and finish your designs through natural conversation.\n\nWhat you can do with MiriCanvas:\n- Create designs: Make presentations, social media posts, posters, and more from a topic, outline, or script.\n- Get template recommendations: Get templates that match your content or the mood you want, then create a design right away from the one you choose.\n- Change colors: Recreate a template you like in the colors you want (e.g., \"in blue tones\", \"in a warm tone\").\n\nOnce connected, just describe the design you want, or call @MiriCanvas directly.\n\nTry saying:\n- @MiriCanvas Make a 10-slide onboarding deck for new employees\n- @MiriCanvas Turn the attached report into an executive briefing presentation\n- @MiriCanvas Recommend lesson templates for elementary school students\n- @MiriCanvas Make a university group project presentation on environmental issues\n- @MiriCanvas Make a presentation summarizing our family trip itinerary\n- @MiriCanvas Turn a Margherita pizza recipe into a social media post\n- @MiriCanvas Make a poster promoting a flea market\n- @MiriCanvas Make a poster with tips for managing indoor humidity in winter\n- @MiriCanvas Make a social media post announcing our company year-end party schedule\n\nRequirements: You need to connect a MiriCanvas account to use this plugin.\n\nYour designs are saved to your MiriCanvas account. Edit them freely in the editor, or download them as PPTX, PDF, and more.",
       "information": [
         {
@@ -309669,7 +309734,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:23.916Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "创建演示文稿和设计",
@@ -309684,6 +309749,11 @@
           "neurons": 32.69658660888672,
           "total_tokens": 2045
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:03.769Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:03.769Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac4e939a13c8191997bc3bbb8beee3d": {
@@ -309699,7 +309769,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Rawnd opens camera RAW photos inside the conversation. ChatGPT reads JPEG, PNG, WebP and GIF; a NEF, CR3, ARW or RAF file shows it nothing. Rawnd adds a panel where you drop the RAW file. The file is read on your device, inside the panel, and never uploaded: not to Rawnd, not to OpenAI.\n\nWhat it does\n- Shows the JPEG the camera stored inside the RAW file, in under a second, with the shooting data: camera, lens, shutter speed, aperture, ISO and focal length.\n- Lets you keep that JPEG (right-click the preview, \"Save image as…\") or show it to ChatGPT with one click, stripped of its metadata, so you can talk about the photo.\n- Offers eight hand-written looks: Dark film, Warm film, High-contrast B&W, Cool & muted, Golden hour, Matte, Crisp & vivid and Teal & orange. ChatGPT picks the one that matches what you describe, can adjust it within narrow bounds (\"a bit less warm\"), and shows a card that opens it in Rawnd's editor, in the browser.\n\nWho it is for\nPhotographers with RAW files from Nikon, Canon, Sony, Fujifilm, Panasonic, Olympus, Pentax, Samsung, Leica, Phase One and other cameras, who want to see a RAW file, get a JPEG out of it or pick a look for it, without installing anything. Sixteen formats: CR2, CR3, CRW, NEF, NRW, ARW, SRF, SR2, RAF, DNG, RW2, ORF, PEF, SRW, IIQ and RAW.\n\nLimits\n- The panel shows the camera's own rendering, at the size the camera stored: full size on most Nikon and Canon bodies, 1920 × 1280 on Fujifilm. Developing the RAW itself (exposure, white balance) happens in Rawnd's editor.\n- Camera RAW files only: it does not open JPEG, PNG or HEIC.\n- A look opens in the editor; it is not applied inside the conversation.\n- One file at a time.\n\nPrivacy\nRawnd's server receives only the tool arguments, a look's name and slider values, and counts one row per call: the tool and the assistant. No account, no sign-in, no photo.",
       "information": [
         {
@@ -309732,7 +309802,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:25.615Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "在聊天中打开RAW格式照片",
@@ -309747,6 +309817,11 @@
           "neurons": 50.018592834472656,
           "total_tokens": 2761
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:06.235Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:06.235Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac43522108881919ea475040323d6f0": {
@@ -309762,7 +309837,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "LivePair's prompt library — search prompts that are tested against real models, see the exact instruction and the output it produced, copy variations, and open any prompt in the LivePair studio to run it yourself. Search image and video prompts by style, subject, or model. Every prompt shows the result it actually generated, plus variants of the same base prompt with different outcomes.",
       "information": [
         {
@@ -309795,7 +309870,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:27.323Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "AI图像与视频提示",
@@ -309810,6 +309885,11 @@
           "neurons": 27.34749412536621,
           "total_tokens": 1615
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:09.822Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:09.822Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abcf7a5081c8191ab55d65e00e80e29": {
@@ -309825,7 +309905,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Create videos, podcasts, articles, guides, ebooks, slides, infographics and quizzes from your AutoContent projects and selected files. Review your request, choose Create, then preview, download or edit each result. Browse your assets and sources in the shared workspace. Eight focused skills guide the conversation. Requires a connected AutoContent account; options and host features depend on live availability.",
       "information": [
         {
@@ -309858,7 +309938,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:29.066Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "创建并预览媒体内容",
@@ -309873,6 +309953,11 @@
           "neurons": 23.669296264648438,
           "total_tokens": 1496
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:12.364Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:12.364Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac4fab85f7c819186b8af0a2678c076": {
@@ -309888,7 +309973,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Upscale photos, illustrations, and artwork to larger pixel dimensions in ChatGPT. Use Standard at 2x or 4x without connecting an account, or connect an existing Gigapixel AI account to use its available Fidelity and Crystal image-enhancement modes. Review image dimensions and settings before approving an upscale. Track progress, compare the original and enhanced image, download the result, and reuse a completed result. Connected accounts can view recent upscales created through this plugin.",
       "information": [
         {
@@ -309916,7 +310001,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:30.812Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "放大照片和图像",
@@ -309931,6 +310016,11 @@
           "neurons": 28.007030487060547,
           "total_tokens": 1657
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:14.843Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:14.843Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac2da6c86508191b8f71f568a6853e4": {
@@ -309946,7 +310036,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Consulte o catálogo público do Logos do Brasil. Busque uma marca e confira os formatos SVG e PNG, as variantes nativas disponíveis, referências de origem e condições de uso. As ferramentas search e fetch são somente de leitura e não exigem login. Downloads individuais são feitos na página da marca. O plugin não envia arquivos, publica marcas, libera CDN ou concede direitos adicionais sobre marcas.",
       "information": [
         {
@@ -309979,7 +310069,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:32.488Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "品牌、标志和字体。",
@@ -309994,6 +310084,11 @@
           "neurons": 35.2360725402832,
           "total_tokens": 1901
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:17.321Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:17.321Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac905efde2881919da6edb9c10152fb": {
@@ -310009,7 +310104,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Scripter lets you create any show you can imagine, right inside ChatGPT. Create your cast, sets, and props, and keep them in your show's library, ready for the next scene or episode. Give each character a voice. Play the storyboard with its dialogue. Listen for the pause that needs another second, the line that lands better over a different shot. Revise using the built in timeline, until your episode feels right. Then let Scripter render the shots, voices, and cuts together into a finished video.",
       "information": [
         {
@@ -310042,7 +310137,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:34.295Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "打造你想象中的任何节目",
@@ -310057,6 +310152,11 @@
           "neurons": 28.580596923828125,
           "total_tokens": 1686
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:19.816Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:19.816Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac39ca0c6d48191ba0eac9ee040261d": {
@@ -310072,7 +310172,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Turn one photo into a short video: put yourself into trending templates like Hotel Lobby, Couture Crowns, Fan Fits, and NDA Glow Up, see a preview of you in it, then make the full video. Or create and refine faceless videos, UGC-style ads, and explainers from an idea, in the same GoFaceless account.",
       "information": [
         {
@@ -310105,7 +310205,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:36.064Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "融入视频趋势",
@@ -310120,6 +310220,11 @@
           "neurons": 31.696138381958008,
           "total_tokens": 1756
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:22.366Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:22.366Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac4c2973f3c8191bdeb8e055462509f": {
@@ -310135,7 +310240,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Flat is an online music notation editor for writing and reading sheet music. This plugin lets users work with the scores in their own Flat account from ChatGPT. They can turn notation ChatGPT writes or converts (MusicXML, MIDI, ABC, MuseScore, Guitar Pro) into a new score and open it in Flat's editor, search their scores and collections by title, composer or instrumentation, read a score's details (title, composer, instruments, duration, measures), and export a score's notation as MusicXML or MIDI for analysis, arrangement or transposition. New scores are created private or link-only; publishing stays a decision the user makes in Flat.",
       "information": [
         {
@@ -310163,7 +310268,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:37.758Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "创建和阅读乐谱",
@@ -310178,6 +310283,11 @@
           "neurons": 30.942094802856445,
           "total_tokens": 1783
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:24.802Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:24.802Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac40c3aa1c881919374b8a79f131d7c": {
@@ -310193,7 +310303,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Playbook is a media backend for creative teams. This plugin connects your Playbook workspace so you can search images, video and documents by keyword or by what they show, organize them into boards, tag them and fill in custom fields, upload files from a URL, Google Drive or Dropbox, review version history, and share a board through a link or a published page. It acts as the signed-in Playbook user and reaches only the workspaces that account belongs to. It does not download file contents, read text inside images, or extract video captions.",
       "information": [
         {
@@ -310226,7 +310336,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:39.472Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "查找并整理您的资产",
@@ -310241,6 +310351,11 @@
           "neurons": 26.330087661743164,
           "total_tokens": 1613
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:27.269Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:27.269Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac4fa43275c8191a57a7a2c6d132e9d": {
@@ -310256,7 +310371,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Create editable social media graphics from a description. Make an Instagram post, turn supplied content into an Instagram or LinkedIn carousel, or design a YouTube thumbnail, flyer or banner.\n\nUse your Krumzi brand colors, fonts and logo. Find saved designs, refine their text and layout, generate images to use in a design, and open the result in Krumzi to edit individual layers.\n\nSave the displayed preview as a JPG, or export single-image designs as PNG, JPG, WebP or PDF. Carousels and multipage documents export through this connection as individual JPG pages. Their previews show the combined design. Standalone AI images are raster assets. Preview and export links are accessible to anyone who has the URL.\n\nConnect an existing Krumzi account with access to the design tools. Krumzi accounts require users to be 18 or older. AI generation and edits use your account's credits; previews and exports can use trial render allowances. This connection supports still images, carousels and documents; it does not create videos, publish or schedule social posts, or manage billing.",
       "information": [
         {
@@ -310289,7 +310404,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:41.226Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "创建社交媒体图形",
@@ -310304,6 +310419,11 @@
           "neurons": 42.29436492919922,
           "total_tokens": 2259
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:29.751Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:29.751Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac4c2df9c548191b83ea0c156bd9b6a": {
@@ -310319,7 +310439,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "People and company enrichment, AEO and SEO, ads and social data, plus UGC video and images - all in one place, with no provider API keys to manage.",
       "information": [
         {
@@ -310352,7 +310472,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:42.951Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "AI代理的实时数据",
@@ -310367,6 +310487,11 @@
           "neurons": 23.709613800048828,
           "total_tokens": 1460
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:32.290Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:32.290Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad2709477588191a67b64201c6e83fe": {
@@ -310441,7 +310566,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Check TRELAB public service status, discover available public architecture components, and inspect the public MCP interface and authorization boundary. TRELAB exposes three bounded read-only tools. This plugin does not execute code, access private TreVault artifacts, deposit files, or change authorization. Capability is not authority.",
       "information": [
         {
@@ -310469,7 +310594,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:46.457Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "公共状态与架构信息",
@@ -310484,6 +310609,11 @@
           "neurons": 29.9248046875,
           "total_tokens": 1686
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:34.775Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:34.775Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac4e67a23208191b885c90f78f7ef8e": {
@@ -310499,7 +310629,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "For MSPs and teams with existing CyberScore reports. List reports, review dated external observations and stored recommendations, and compare port, CVE and subdomain observations. Missing measurements do not establish safety or an executed correction. This connector cannot start scans, change controls, buy services, certify compliance or determine insurance eligibility. Requires an existing active CyberScore account with accessible reports.",
       "information": [
         {
@@ -310532,7 +310662,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:48.149Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "审查外部安全性",
@@ -310547,6 +310677,11 @@
           "neurons": 24.021120071411133,
           "total_tokens": 1505
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:37.284Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:37.284Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac752d4c640819191c206f9cb0dafad": {
@@ -310562,7 +310697,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Developer tools for working with the Hugging Face Hub. Search model, dataset, and Space repositories; inspect repository metadata, cards, and files; browse research papers; and discover Spaces for a task. Connected accounts can create repositories, invoke supported Spaces, inspect and manage Jobs, and work with hosted sandboxes. Private content and account actions require Hugging Face sign-in and appropriate permissions. Remote compute may require plan access and incur charges.",
       "information": [
         {
@@ -310590,7 +310725,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:49.876Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "探索Hugging Face",
@@ -310605,6 +310740,11 @@
           "neurons": 30.459716796875,
           "total_tokens": 1729
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:39.846Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:39.846Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad7ea51ca988191ac8509a7ea7c182d": {
@@ -310620,7 +310760,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Bundles the Sinch Build skills catalog with the hosted Sinch Docs MCP server. Codex can search authoritative Sinch developer documentation and follow product guides for Conversation API (SMS, RCS, WhatsApp), Voice, Verification, Numbers, Number Lookup, 10DLC, Elastic SIP Trunking, Fax, Mailgun, Provisioning, and Authentication. Documentation search requires no credentials. Optional bundled scripts can call live Sinch APIs, such as sending a test message or managing webhooks, using your own Sinch credentials and only with your approval; these calls may incur charges.",
       "information": [
         {
@@ -310653,7 +310793,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:51.673Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "通过Sinch文档与技能构建",
@@ -310668,6 +310808,11 @@
           "neurons": 33.27288055419922,
           "total_tokens": 1851
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:42.406Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:42.406Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac51f6433748191a3c8d8d63d601a93": {
@@ -310747,7 +310892,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Design circuit boards with AI, from your first idea to the files your manufacturer needs. Describe what you want to build in everyday language, or start with the pin assignments in your firmware.\n\nChoose from over one million electronic components in EasyGerber’s catalog, including LEDs, sensors, connectors, and microcontrollers. Build with real catalog parts, their footprints, and available 3D models—from a simple LED circuit to a custom electronics project.\n\nCreate and edit schematics, generate PCB layouts with automatic component placement and routing, and refine your design through conversation. Adjust board settings, explore copper layers, inspect your board in interactive 3D, and check for blocking layout issues before exporting.\n\nDownload Gerber files, drill files, a bill of materials (BOM), component placement files, and an editable EasyGerber file to continue working on your design.\n\nStart with one guest board without signing up. When you connect your account, your guest design is saved automatically.",
       "information": [
         {
@@ -310780,7 +310925,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:55.064Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "AI PCB设计与布局",
@@ -310795,6 +310940,11 @@
           "neurons": 33.12501525878906,
           "total_tokens": 1942
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:44.873Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:44.873Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad8758eca7c81919e07c50410281e6b": {
@@ -310810,7 +310960,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "mcprush.com is a marketplace and infrastructure for MCP servers and agent skills: developers publish, deploy and host their MCP servers and skills on mcprush.com and follow their usage with built-in analytics, and users find, compare and install them. This plugin searches the mcprush.com catalogue.\n\nAsk for a tool by what it should do — \"an MCP server for Postgres\", \"a skill for working with PDFs\", \"a calendar server\" — and the plugin searches the catalogue's MCP servers and agent skills, compares them by what they do and by their security grade (from a scan of the code, or of the tools a remote server lists), and for a server returns the exact command or config block that adds it to the MCP client you name.\n\nThe plugin only reads the catalogue. It cannot buy, install, publish or change anything in your account.\n\nSign in with your mcprush.com account (email, Google or GitHub). You can disconnect at any time from mcprush.com/oauth/apps.",
       "information": [
         {
@@ -310843,7 +310993,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:56.918Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "查找MCP服务器和技能",
@@ -310858,6 +311008,11 @@
           "neurons": 36.8521842956543,
           "total_tokens": 2066
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:47.458Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:47.458Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad61cf5ca288191b111c9750edcf53c": {
@@ -310937,7 +311092,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "OtaKit delivers over-the-air updates to Capacitor apps on iOS and Android. Connect your OtaKit organization and ask ChatGPT to:\n\n- Look up apps, bundles, release history, and the exact current release on each channel and runtime version\n- Prepare a release, review the plan, then publish it to an exact channel\n- Start a staged rollout or change its percentage\n- Read release health from client-reported events: downloads, applies, errors, and rollbacks\n- Prepare and run a revert to the previous release or the app's built-in bundle\n- Create and revoke preview links for testers\n\nPublishing, rollout changes, reverts, and deletions are annotated as destructive, and every release write is checked against the current release you reviewed, so an outdated plan never replaces a newer release. Access is limited to the one organization and the permissions you approve at sign-in, and you can revoke it at any time in OtaKit under Settings → Agents.\n\nIntended for teams that ship Capacitor apps with OtaKit. Uploading a new web bundle needs your project files, so it is done with the OtaKit CLI, not in ChatGPT. Requires an OtaKit account.",
       "information": [
         {
@@ -310970,7 +311125,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:00.351Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "为Capacitor应用提供OTA更新",
@@ -310986,7 +311141,12 @@
           "total_tokens": 1995
         }
       },
-      "lastMissingAt": "2026-10-23T03:54:39.485Z"
+      "lastMissingAt": "2026-10-23T03:54:39.485Z",
+      "detailNextAttemptAt": "2026-10-30T09:21:49.926Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:49.926Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6ac37e9818a8819181c9f5848a5267a2": {
       "id": "plugin_asdk_app_6ac37e9818a8819181c9f5848a5267a2",
@@ -311065,7 +311225,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Glossa lets ChatGPT work on a project on your computer. Start Glossa in a project folder and ChatGPT can search and read your code, look at images, make careful edits, and, if you allow it, run your tests, builds, Git, and other commands with the tools you already have installed.\n\nYou pick the access for each folder when you start it:\n- Read-only: ChatGPT can list, search, and read files and view PNG, JPEG, and WebP images.\n- Workspace (the default): ChatGPT can also create, edit, move, and delete files inside that folder. Edits check the file's current version first, so your own changes aren't silently overwritten.\n- System: ChatGPT can also run commands. Commands run as your computer account, with its environment, credentials, files, and network access. They aren't sandboxed or limited to the project folder, so turn this on only for an account and machine you're comfortable giving that access.\n\nHow it works: the Glossa CLI on your computer connects out to the Glossa relay, so nothing on your machine accepts incoming connections. The relay passes requests to your computer and doesn't store your file contents, command arguments, or command output. Glossa blocks recognizable passwords, API keys, and tokens in file text, edits, and command output before they leave your computer. Images are passed through as they are.\n\nGlossa doesn't add another AI model or agent. ChatGPT does the work, and your plan's usage limits and available features still apply. Don't use Glossa with payment card data, health records, government ID numbers, or account credentials.\n\nTo get started, install the CLI with npm install -g @ariobarin/glossa, run glossa in your project folder, and pair your computer when it asks.",
       "information": [
         {
@@ -311098,7 +311258,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:03.798Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "在本地项目中协作",
@@ -311114,7 +311274,12 @@
           "total_tokens": 2249
         }
       },
-      "lastMissingAt": "2026-10-23T03:54:39.485Z"
+      "lastMissingAt": "2026-10-23T03:54:39.485Z",
+      "detailNextAttemptAt": "2026-10-30T09:21:52.401Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:52.401Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6a96bcc98c508191abad72dbab07def2": {
       "id": "plugin_asdk_app_6a96bcc98c508191abad72dbab07def2",
@@ -311129,7 +311294,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "HYPD.AI Google Search Console brings data from authorized Search Console properties into ChatGPT, helping site owners, marketers, and SEO teams understand how their sites appear in Google Search.\n\nUse it to:\n\n• Diagnose why a site or URL is not showing on Google by reviewing index status, crawl and fetch state, robots access, sitemaps, canonicals, and mobile usability.\n\n• Explain indexing issues such as Crawled – currently not indexed, Discovered – currently not indexed, duplicate canonicals, noindex, blocked pages, soft 404s, redirects, and server errors.\n\n• Check sitemap processing, errors, warnings, download dates, and URL counts.\n\n• Analyze keywords and rankings using clicks, impressions, CTR, and average position by query, page, country, device, date, or search appearance.\n\n• Compare periods to find traffic gains and losses, CTR opportunities, ranking changes, and the queries driving each page.\n\n• List connected properties and explore Search Console data conversationally through ChatGPT and MCP.\n\nHYPD.AI is read-only. It cannot request indexing, submit sitemaps, add or verify properties, manage users, edit content, or change rankings. It analyzes connected properties, explains findings, and recommends next steps.",
       "information": [
         {
@@ -311157,7 +311322,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:05.504Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "分析Google搜索控制台",
@@ -311172,6 +311337,11 @@
           "neurons": 59.447513580322266,
           "total_tokens": 3531
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:54.899Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:54.899Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6a9c2d7108f08191beb5b3d736be8655": {
@@ -311187,7 +311357,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Connect Groas to explore your Google Ads accounts in ChatGPT. Review campaigns, keywords, search terms, daily performance, account audits, and the changes Groas has made. Ask questions about results and investigate opportunities to improve your campaigns. Account access follows your Groas login. Read access is the default; eligible subscribers can opt into permission to make changes. Authorized changes affect your connected Google Ads account and are recorded in Groas’s action history. A Groas account and connected Google Ads account are required for account analysis.",
       "information": [
         {
@@ -311215,7 +311385,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:07.321Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "管理Google Ads广告活动",
@@ -311230,6 +311400,11 @@
           "neurons": 37.25203323364258,
           "total_tokens": 1968
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:21:57.389Z",
+      "detailError": {
+        "at": "2026-10-30T08:21:57.389Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aa944d20a3081919d9f65692616ff4d": {
@@ -311278,7 +311453,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:09.095Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40448357028:1",
       "translation": {
         "summary": "创建品牌图像/视频广告",
@@ -311294,9 +311469,9 @@
           "total_tokens": 1295
         }
       },
-      "detailNextAttemptAt": "2026-10-28T09:58:14.917Z",
+      "detailNextAttemptAt": "2026-10-30T12:21:59.865Z",
       "detailError": {
-        "at": "2026-10-28T07:58:14.917Z",
+        "at": "2026-10-30T08:21:59.865Z",
         "message": "No usable official description reference"
       }
     },
@@ -311313,7 +311488,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Trend Seeker helps founders and researchers find business problems backed by public market signals. Search or browse ideas, inspect the reasoning behind one idea, compare a shortlist, and open dated source evidence. Trend Seeker scores help prioritize further research. They are not forecasts, financial advice, or guarantees of demand.",
       "information": [
         {
@@ -311341,7 +311516,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:10.832Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "研究商业创意",
@@ -311356,6 +311531,11 @@
           "neurons": 30.98406982421875,
           "total_tokens": 1725
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:02.436Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:02.436Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac48fc25ea081919ca7b4f7271ff804": {
@@ -311371,7 +311551,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Import VES, ERT, and IP survey files into G-RES from ChatGPT. Review source readings and quality flags, choose inversion settings, run real geophysical inversions, and inspect fit and scientific visualisations. G-RES provides measured results, provenance, and figures; ChatGPT writes and styles reports for the user's request and provides their downloads in the conversation without another G-RES authorization. Combine separately inverted, reviewed VES soundings into named GeoSections using supplied positions. GeoSection fill is a correlation of independent 1D models, not a 2D inversion. Results require professional review and independent field validation before operational decisions.",
       "information": [
         {
@@ -311404,7 +311584,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:12.567Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "地球物理勘探分析",
@@ -311419,6 +311599,11 @@
           "neurons": 37.386146545410156,
           "total_tokens": 1997
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:04.994Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:04.994Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac11ab4250881918f6fdc8bf5427c8e": {
@@ -311434,7 +311619,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Business analytics for marketing teams and agencies: measure how your brand appears in AI answers using your naia account. Read GEO reports, share of voice, cited sources and historical measurements. Prepare analyses, execution plans and saved content drafts using your authorized brand context.\n\nSign in with OAuth. Access is limited to brands and resources allowed by your account. Stateful operations use existing entitlements and credits, with the permissions and confirmations required by each workflow. External publishing requires an authorized integration and confirmation. Results describe observed answers and do not guarantee future rankings or recommendations.\n\nThird-party advertising dataset tools are not exposed by this MCP connection.",
       "information": [
         {
@@ -311467,7 +311652,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:14.239Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "为您的品牌提供AI可见性",
@@ -311482,6 +311667,11 @@
           "neurons": 31.80380630493164,
           "total_tokens": 1824
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:07.516Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:07.516Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abd02aab8208191bebe34feaaae52bb": {
@@ -311497,7 +311687,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Knowi is an AI-native business intelligence platform. This plugin connects ChatGPT and Codex to your Knowi account so you can ask questions of your data, build and update dashboards, and manage reports and alerts without leaving the conversation.\n\nWhat you can do:\n- Ask questions in plain English. Knowi resolves the right datasets, runs the query, and returns results, with a chart when one helps.\n- Explore what already exists: search dashboards, widgets, datasets, queries, and alerts; pull the data behind any widget; trace lineage and see how a business term was resolved.\n- Build: create datasources and queries (Cloud9QL or your database's native language), create and lay out widgets and dashboards, and export results to CSV or PDF.\n- Automate: create and test alerts, schedule and update reports, and deliver them by email, Slack, or Microsoft Teams.\n- Manage the semantic layer: define, map, and publish glossary terms so questions resolve consistently across your team.\n- Work with documents: ingest PDFs, Word, Excel, CSV, and images, ask questions about their contents, and extract structured data from them.\n\nEvery tool runs as you, so data access follows your Knowi role and asset permissions. Tools that create, modify, or delete Knowi assets are marked as write or destructive, so the assistant confirms before making changes; read-only tools run without prompts.\n\nRequirements: a Knowi account. Sign in with OAuth when you connect; there are no API keys to copy.",
       "information": [
         {
@@ -311530,7 +311720,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:16.358Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "查询数据，构建仪表盘",
@@ -311545,6 +311735,11 @@
           "neurons": 35.16670608520508,
           "total_tokens": 2104
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:10.064Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:10.064Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac3b91d134c81918295e3e66dd58440": {
@@ -311560,7 +311755,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Analyze public community measurements of coding-workflow performance. Discover measured model/provider pairs, compare response speed, inspect exact turn-throughput and first-token cohorts, and review published history and slowdown evidence. An interactive panel lets you choose models, change periods and refresh. Results show freshness, sample coverage and measurement limitations. A separate token-use indicator describes observed tokens per request. Public queries require no Tokrate account or desktop installation. Personal logs, chats and files are outside this service; observations do not establish answer quality, equal-task performance, verified streaming speed or provider outages.",
       "information": [
         {
@@ -311593,7 +311788,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:18.137Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "在上下文中分析编码模型速度",
@@ -311608,6 +311803,11 @@
           "neurons": 25.08251953125,
           "total_tokens": 1578
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:12.846Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:12.846Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abff543f10081919c6b9e1c8d1647a1": {
@@ -311623,7 +311823,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Audienzes Pro answers audience questions in ChatGPT and keeps the live campaign tools from the Audienzes connector. Describe a segment such as women 18-24 in Denmark and see which interests and themes over-index for it, on which platforms. Compare audience definitions side by side, check whether a segment can be addressed and where, see how interests combine or overlap, read what competitors claim in their ads, follow the direction of trends, see where an audience congregates and what it searches for, and get a behavioural archetype built from the evidence. Results are shown as percentages and indices, never head-counts. Where a platform cannot measure something, the answer says so instead of showing zero. Interpretations are labelled as interpretations. The connector also lists your connected advertising accounts and campaigns and reads impressions, clicks, spend, and daily trends. Usage is limited per hour. It never changes campaigns or anything in your accounts.",
       "information": [
         {
@@ -311656,7 +311856,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:19.894Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "受众洞察与营销活动",
@@ -311671,6 +311871,11 @@
           "neurons": 30.005203247070312,
           "total_tokens": 1804
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:15.331Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:15.331Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad5cba5fb748191be4370524313db68": {
@@ -311686,7 +311891,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Connect Fospha's daily, full-funnel measurement into ChatGPT, so you can use natural language to understand the impact of every channel across everywhere you sell without dashboards or manual reports.",
       "information": [
         {
@@ -311719,7 +311924,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:21.579Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "提出问题，获取答案，在数据上采取行动。",
@@ -311734,6 +311939,11 @@
           "neurons": 24.545475006103516,
           "total_tokens": 1501
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:17.935Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:17.935Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac3d0d92f04819190c6569a2362e104": {
@@ -311749,7 +311959,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "PokeFocus tracks Pokémon card and sealed product market prices from TCGplayer, refreshed daily, verified eBay sales, and active eBay listings with photo-based centering measurements. This plugin gives ChatGPT read-only tools that return what pokefocus.com shows.\n\n- Cards: search the catalog by name, number, or set, then get a card's market price with 7- and 30-day change, eBay sold medians for raw, PSA 9, and PSA 10, and its recent verified eBay sales for a grade.\n- Sets and sealed: find a set and its most valuable cards and sealed products, or look up a booster box, Elite Trainer Box, or other sealed product with its market price, lowest listing, price per pack, and 30 days of history.\n- Market Pulse: the daily market report with its movers, sets, and sealed rankings.\n- Listings: active eBay listings with every pokefocus.com/listings filter: card, raw or graded (PSA 9, PSA 10), front centering, price, free shipping, era, seller, and sorts such as cheapest first or furthest under market.\n\nUseful for questions like what a card is worth raw or graded, what a PSA 10 recently sold for, what a booster box or Elite Trainer Box costs, and where to find a well-centered copy on eBay.\n\nEvery result states when it was captured and links to its PokeFocus page. Links to eBay and TCGplayer are affiliate links, and each response includes the disclosure. PokeFocus does not sell, buy, or bid, and nothing it returns is purchase advice. No account or sign-in is needed.",
       "information": [
         {
@@ -311782,7 +311992,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:23.306Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "宝可梦卡牌价格与商品信息",
@@ -311797,6 +312007,11 @@
           "neurons": 37.738800048828125,
           "total_tokens": 2213
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:20.346Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:20.346Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac422727ddc8191bd051be452f4a13a": {
@@ -311812,7 +312027,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "ClientReport is a data and analytics tool for agencies and freelancers: it analyzes performance data and turns it into a branded PDF report for clients. Upload an export from Google Analytics, Google Ads, Meta, Shopify, HubSpot or any CSV, or just type this week's numbers.\n\nClientReport finds the date column and metrics, groups them by week (or day/month), and compares this period with the last. The PDF has KPI cards with week-over-week changes (it knows that falling costs are good news), trend charts, a plain-language summary, highlights and next steps, all under your agency's name, logo and colors.\n\nWhen you sign in, ClientReport remembers each client's numbers and your branding, so next week's report can be compared with the previous one from a single message. It can also draft the cover email.",
       "information": [
         {
@@ -311845,7 +312060,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:25.078Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "品牌化客户PDF报告",
@@ -311860,6 +312075,11 @@
           "neurons": 29.00226402282715,
           "total_tokens": 1766
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:22.835Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:22.835Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad722127d2c819189e2b538f1e34ca0": {
@@ -311875,7 +312095,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Explore official Singapore economic, population, household, industry, trade, and social statistics. Find relevant SingStat tables, inspect metadata, retrieve data, and compare figures with citations to the source tables and periods.",
       "information": [
         {
@@ -311908,7 +312128,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:26.903Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "探索新加坡统计数据",
@@ -311923,6 +312143,11 @@
           "neurons": 20.167186737060547,
           "total_tokens": 1348
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:25.963Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:25.963Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac3e51c910081918482d44bf8968cc4": {
@@ -311938,7 +312163,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Kracey computes running and HYROX race predictions, HYROX pacing targets, and comparisons between your saved HYROX races. Estimate a finish time from a running result, work back from a HYROX goal to lap and station times, or see where time changed between races. You can also review your training volume, best running efforts and session pace-zone minutes, and find upcoming HYROX and hybrid fitness races. A Kracey account is required. Personal training views need training data connected to Kracey through intervals.icu; calculators work from the numbers you provide. The plugin reads only your connected account and changes nothing. Predictions are estimates, not guaranteed results.",
       "information": [
         {
@@ -311971,7 +312196,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:28.590Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "HYROX预测与配速",
@@ -311986,6 +312211,11 @@
           "neurons": 27.818965911865234,
           "total_tokens": 1689
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:28.394Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:28.394Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac454fc237481918bc99cce6a04b25f": {
@@ -312001,7 +312231,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "CompSniper shows what items have actually sold for on eBay. Ask about any product and get recent completed sales with sold price, shipping, condition and sale date, plus a price summary: median, typical range and number of sales. Results filter out accessories and mismatched listings. You can price several items at once, compare products side by side, compare prices across eight eBay marketplaces (US, UK, Germany, France, Italy, Spain, Canada and Australia), check current eBay asking prices, and look up Mercari US listings. Useful for sourcing inventory, valuing a collection, or pricing an item to sell. Requires a CompSniper account; each search uses one search from your monthly CompSniper quota.",
       "information": [
         {
@@ -312029,7 +312259,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:30.345Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "真实 eBay 卖出价格",
@@ -312044,6 +312274,11 @@
           "neurons": 32.53520202636719,
           "total_tokens": 1848
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:31.129Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:31.129Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac3b4cd00048191a6e154ee7b90bc11": {
@@ -312059,7 +312294,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "InboxFamily gives a family email addresses on its own domain. This plugin works with an existing InboxFamily account.\n\nIf you run the family's domain, you can ask ChatGPT to show the mailboxes and shared addresses, add a mailbox, change a name or role, add or remove a shared address, and remove a mailbox after a clear warning and your confirmation. A panel inside ChatGPT shows the same screens as the InboxFamily panel.\n\nIf you have an InboxFamily mailbox, sign in with your email address and password and ChatGPT can find and read your messages, summarize them, move them to folders, archive them, mark them read, flagged or spam, and save a draft reply for you to review. Mail it moves can be moved back.\n\nWhat it cannot do: it cannot send mail and it cannot delete mail for good. The mail server itself refuses both. It never sees or sets a password. It cannot buy, change or cancel a plan. It works only with accounts that already exist; new accounts are made on inboxfamily.com.\n\nWhat ChatGPT reads in your mailbox, it reads at your request, and you can disconnect it at any time in your webmail settings.",
       "information": [
         {
@@ -312092,7 +312327,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:32.081Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "家庭邮箱，源自您的聊天",
@@ -312107,6 +312342,11 @@
           "neurons": 41.47640609741211,
           "total_tokens": 2261
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:34.038Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:34.038Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abfb35a6494819194fd95fbdcc9b9e9": {
@@ -312122,7 +312362,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "MailReach is an email deliverability tool for teams that send sales, outreach and marketing emails. It warms up sending mailboxes, monitors their reputation and runs spam tests, so emails land in the inbox instead of the spam folder. This plugin connects ChatGPT to your MailReach project so you can check and improve your deliverability in plain language, without opening the dashboard.\n\nWhat you can do:\n- See how your mailboxes are doing: reputation score, inbox and spam rates, SPF, DKIM and DMARC checks, and open alerts.\n- Follow your inbox rate over time, for the whole project or one mailbox.\n- Check an email draft for spam words, risky links and images before you send it. Nothing is sent.\n- Run a spam test and see where your email landed at Gmail, Outlook and other providers.\n- When a test lands in spam, let Autofix find what in the email triggers the filters and suggest a reviewed rewrite.\n- Pause or resume a mailbox, change its warming settings, organise mailboxes with tags and set up Slack or webhook alerts.\n\nChatGPT only reaches the one MailReach project you pick when you connect, with the permissions of your role on it. Removing a mailbox always asks for your confirmation first. New mailboxes are connected on the MailReach dashboard, so you never paste a password in the chat.\n\nA MailReach account is required. Sign in with your MailReach email and password.",
       "information": [
         {
@@ -312155,7 +312395,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:33.806Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "让您的邮件远离垃圾邮件",
@@ -312170,6 +312410,11 @@
           "neurons": 36.82514953613281,
           "total_tokens": 2144
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:36.555Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:36.555Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac525cfdb388191acf298ec67d5281c": {
@@ -312185,7 +312430,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Find courses and sections in supported university catalogs, compare class times, and build a conflict-free draft schedule. Calculate semester or cumulative GPA on a 4.0 or 5.0 scale, or prepare a schedule wallpaper layout. The tools provide information and calculations only: they do not register for courses, save schedules, retrieve grades you have not provided, make payments, or render wallpaper images.",
       "information": [
         {
@@ -312218,7 +312463,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:35.620Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "大学课表与GPA",
@@ -312233,6 +312478,11 @@
           "neurons": 30.561220169067383,
           "total_tokens": 1723
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:39.047Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:39.047Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad6461667ac81919bd7f0d4a4d538e1": {
@@ -312248,7 +312498,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Search 1500+ business articles on legal structure, funding, marketing, operations, HR, and technology. Get business guides for 28 global cities. Follow the 13-step Business Journey roadmap from research through exit strategy. Access tools and calculators.",
       "information": [
         {
@@ -312276,7 +312526,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:37.347Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "创业者研究枢纽",
@@ -312291,6 +312541,11 @@
           "neurons": 26.528234481811523,
           "total_tokens": 1572
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:41.532Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:41.532Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6abe118ca51481919ad20b412856738b": {
@@ -312306,7 +312561,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Talent Augmentation OS (TAOS) is a personal skills coach that works inside ChatGPT. It keeps a short profile of what you already know and what you are still learning, and decides per task whether to just do the work or ask for your approach first.\n\nA five minute check builds your profile. After that: fast on the parts of your job you already know well, and coached on the parts you are growing into, so you keep the judgement that AI would otherwise do for you.\n\nWhat TAOS can do from the chat:\n- Run or resume your expertise assessment\n- Coach you through a task, calibrated to your own profile\n- Switch to ship mode when you just need speed, no coaching friction\n- Update your profile as your skills and goals change, always with your confirmation first\n\nYour profile is a portable markdown file that follows you across tools. You sign in once, with Google or an emailed code.",
       "information": [
         {
@@ -312339,7 +312594,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:39.198Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "通过AI提升你的技能",
@@ -312354,6 +312609,11 @@
           "neurons": 32.59852600097656,
           "total_tokens": 1912
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:43.980Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:43.980Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac2f093eb548191a41b2295887c22e2": {
@@ -312369,7 +312629,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "An educational calculator for mass divided by final solution volume. Converts mg and mcg, supports mL and microliters, and returns concentration in mg/mL and mcg/mL. It does not recommend amounts, fluids, doses, schedules, or administration methods. Includes an interactive syringe and vial reference with selectable U-100 and mL-marked syringe capacities and links to the Peptara Labs website and lab reports.",
       "information": [
         {
@@ -312402,7 +312662,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:40.873Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "肽浓度计算",
@@ -312417,6 +312677,11 @@
           "neurons": 29.77267074584961,
           "total_tokens": 1709
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:47.073Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:47.073Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac50501c820819199fc4ae9a1265021": {
@@ -312432,7 +312697,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Learn AI filmmaking and AI video from lessons in the Wonder Community's Education Library. Ask how to direct an AI film shot by shot, keep characters consistent, make footage cinematic, create anime, ads and trailers, pitch a film, or pick the right tool for each step, and get the lesson that answers it. Taught by Marcus Grip and guests including Hal Watmough, PJ Ace, Kavan The Kid, Junky Cream, Lion El Aton and Ben Everard. Wonder is the community for AI filmmakers: weekly live sessions, challenges and the people making this new kind of film.",
       "information": [
         {
@@ -312465,7 +312730,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:42.703Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "学习AI电影制作与视频",
@@ -312480,6 +312745,11 @@
           "neurons": 24.657772064208984,
           "total_tokens": 1570
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:49.531Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:49.531Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6aba60ae0a1081919e5c0e66889f179b": {
@@ -312523,7 +312793,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:44.451Z",
-      "detailFailures": 3,
+      "detailFailures": 4,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "澳大利亚课程与移民",
@@ -312539,9 +312809,9 @@
           "total_tokens": 1402
         }
       },
-      "detailNextAttemptAt": "2026-10-28T11:58:17.445Z",
+      "detailNextAttemptAt": "2026-10-30T16:22:52.065Z",
       "detailError": {
-        "at": "2026-10-28T07:58:17.445Z",
+        "at": "2026-10-30T08:22:52.065Z",
         "message": "No usable official description reference"
       }
     },
@@ -312558,7 +312828,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Aisystant Open helps learners, researchers, and practitioners explore Anatoly Levenchuk's First Principles Framework (FPF) library. Search for concepts and pattern IDs, read source patterns and sections, browse publications and their contents, find literal mentions of a pattern, and check the current corpus edition. Results include source references.\n\nThe plugin accesses the public FPF library and does not require an Aisystant account. Requests are forwarded through Aisystant's public endpoint to the FPF Library service at fpf.tools. It does not access personal IWE notes, calendars, or account data and cannot change content. Search is keyword based and does not automatically translate queries; English terms or exact identifiers work best with the English source material. Library coverage changes as the source repository is updated.\n\nSource links should open the cited passage. Prefer version-pinned or repository source links when a general citation link is stale.",
       "information": [
         {
@@ -312591,7 +312861,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:46.153Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "搜索并阅读FPF图书馆",
@@ -312606,6 +312876,11 @@
           "neurons": 30.798614501953125,
           "total_tokens": 1847
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:54.603Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:54.603Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac4c584c15c8191b249430ea4880606": {
@@ -312649,7 +312924,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:47.899Z",
-      "detailFailures": 3,
+      "detailFailures": 4,
       "translationAttemptRun": "40670327334:1",
       "translation": {
         "summary": "带页码的引用",
@@ -312665,9 +312940,9 @@
           "total_tokens": 1733
         }
       },
-      "detailNextAttemptAt": "2026-10-28T11:58:19.778Z",
+      "detailNextAttemptAt": "2026-10-30T16:22:57.084Z",
       "detailError": {
-        "at": "2026-10-28T07:58:19.778Z",
+        "at": "2026-10-30T08:22:57.084Z",
         "message": "No usable official description reference"
       }
     },
@@ -312684,7 +312959,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Find an online music teacher for your child. Explore Thoven teachers by instrument, learner age and musical interests. Discuss teaching approaches, compare public profiles and choose which teacher to explore further. Open a teacher’s Thoven page to continue with signup and intro availability. Discovery works before you create a Thoven account. This plugin does not create accounts, show live intro slots or book lessons in chat.",
       "information": [
         {
@@ -312717,7 +312992,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:49.687Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "寻找在线音乐老师",
@@ -312732,6 +313007,11 @@
           "neurons": 24.845836639404297,
           "total_tokens": 1538
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:22:59.650Z",
+      "detailError": {
+        "at": "2026-10-30T08:22:59.650Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac3d6b140808191845a18a8507aecb6": {
@@ -312747,7 +313027,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Helps actors learn their lines and rehearse. Find original two-person practice scenes in 33 languages and short English solo monologues. Read exact authored dialogue, partner cues or complete monologue paragraphs, and plan how to learn lines or get off book. Filter monologues by genre, playing-age category, difficulty and estimated duration; their Free Rehearsal License includes permitted uses and restrictions. Actors can choose routines for cue listening, memorization, cold reads or selftape preparation. Plan preparation for existing theatre and film/TV casts, or help agents' and managers' clients build a daily practice routine while keeping personal material private. Two-person scene links open blablabla, where the actor chooses their role and rehearsal mode. Monologue tools currently support reading, with a published page link; native opening is not yet offered. Selftape routines cover rehearsal and landscape setup checks; recording uses the app's normal controls. The current tools read published practice material and suggest routines; they cannot import private audition files, access accounts, save rehearsals, check actor readiness or provide a live voice reader inside ChatGPT.",
       "information": [
         {
@@ -312780,7 +313060,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:51.603Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "场景、独白与练习",
@@ -312795,6 +313075,11 @@
           "neurons": 29.626935958862305,
           "total_tokens": 1834
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:23:02.113Z",
+      "detailError": {
+        "at": "2026-10-30T08:23:02.113Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ad39f892c8c81918cfe815227d1dc2d": {
@@ -312810,7 +313095,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Manulyx is a writing platform for LaTeX manuscripts, from the first draft through submission, reviewers' comments and revision. This plugin lets ChatGPT work on your Manulyx projects directly.\n\nAsk ChatGPT to find a project, read and search its files, tighten an abstract, rewrite a section or fix a table, then compile the paper and fix any LaTeX errors it reports. It can also find a published paper at Crossref and add it to the document's references by DOI, in the style the document already uses. You can search across your projects and get each passage back with a link to the file in Manulyx.\n\nChanges are made as small, exact replacements. They appear live in the Manulyx editor for you and your co-authors, and are recorded as tracked changes labelled with your name and \"(ChatGPT)\", which you and your co-owners can accept or reject. A restore point is saved before ChatGPT's first change.\n\nChatGPT acts as you, with your role on each project: where you are a viewer or commenter it can only read. Each project has its own ChatGPT switch in the editor (Integrations, ChatGPT) to turn access off, separately from any other assistant. ChatGPT cannot delete, share or submit a project, or change who has access; those stay in Manulyx.\n\nRequires a Manulyx account.",
       "information": [
         {
@@ -312843,7 +313128,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:53.523Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "与你一同编辑LaTeX论文",
@@ -312858,6 +313143,11 @@
           "neurons": 34.86278533935547,
           "total_tokens": 2083
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:23:04.579Z",
+      "detailError": {
+        "at": "2026-10-30T08:23:04.579Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac4f56346508191b70d3bd85b76c6ce": {
@@ -312873,7 +313163,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Axiom brings real exam practice into your chat. Ask for a question in IGCSE Mathematics, Additional Mathematics, Physics, Chemistry or Biology, A-Level Pure Mathematics or SPM Matematik, and Axiom shows a past-paper style question in an interactive card.\n\nAnswer in the card or in the chat. Axiom marks your answer against the mark scheme — exact matches straight away, other wording by AI marking — and shows your marks, the model answer and a worked explanation. Ask the assistant to explain any step you missed, then go on to the next question. A strip at the top keeps your score for the session so you can look back.\n\nYou can practise without an account. If you connect your Axiom account, your answers are saved to your Axiom progress and count towards your topic mastery, and you can open your progress page from the card. You can disconnect at any time from Connected apps in Axiom.",
       "information": [
         {
@@ -312906,7 +313196,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:55.334Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "真实历年试题，已批改",
@@ -312921,6 +313211,11 @@
           "neurons": 30.395090103149414,
           "total_tokens": 1838
         }
+      },
+      "detailNextAttemptAt": "2026-10-30T09:23:07.177Z",
+      "detailError": {
+        "at": "2026-10-30T08:23:07.177Z",
+        "message": "No usable official description reference"
       }
     },
     "plugin_asdk_app_6ac4f53a64208191ab1a6621a50898e1": {
@@ -312936,7 +313231,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-10-30T04:55:10.236Z",
       "firstSeenAt": "2026-10-22T03:49:52.633Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "Connect your Unclass teacher account to browse courses, create draft language lessons, and revise lesson pages and exercises directly in your school. Preview saved lessons in Unclass and mark them ready when reviewed. Requires an Unclass teacher account. Access is limited to the connected school; frozen classroom lesson copies cannot be edited. Audio uploads use the Unclass website.",
       "information": [
         {
@@ -312969,7 +313264,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:57.143Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "创建和编辑您的课程",
@@ -312985,7 +313280,12 @@
           "total_tokens": 1707
         }
       },
-      "lastMissingAt": "2026-10-29T04:55:44.767Z"
+      "lastMissingAt": "2026-10-29T04:55:44.767Z",
+      "detailNextAttemptAt": "2026-10-30T09:23:09.753Z",
+      "detailError": {
+        "at": "2026-10-30T08:23:09.753Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6aa97962d37c8191808859db9c59ae75": {
       "id": "plugin_asdk_app_6aa97962d37c8191808859db9c59ae75",
@@ -438913,23 +439213,23 @@
     "runId": "41005286066",
     "runAttempt": "1",
     "startedAt": "2026-10-30T04:53:09.439Z",
-    "updatedAt": "2026-10-30T08:18:05.718Z",
+    "updatedAt": "2026-10-30T08:23:09.841Z",
     "mode": "incremental",
-    "detailRequests": 4715,
+    "detailRequests": 4833,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
     "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 4715,
+    "errors": 4833,
     "stats": {
       "total": 5516,
       "details": 4788,
       "translated": 4738,
       "missing": 21,
       "removed": 522,
-      "pendingDetails": 4813,
+      "pendingDetails": 4873,
       "pendingTranslations": 778
     }
   }
