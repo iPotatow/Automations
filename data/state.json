@@ -732,10 +732,10 @@
         "reviewedAt": "2026-10-30T17:31:47.639Z",
         "translatedAt": "2026-10-30T17:31:47.639Z"
       },
-      "detailFailures": 2,
-      "detailNextAttemptAt": "2026-10-30T10:19:07.286Z",
+      "detailFailures": 3,
+      "detailNextAttemptAt": "2026-10-31T11:45:32.437Z",
       "detailError": {
-        "at": "2026-10-30T08:19:07.286Z",
+        "at": "2026-10-31T07:45:32.437Z",
         "message": "No usable official description reference"
       }
     },
@@ -4041,10 +4041,10 @@
           "total_tokens": 1733
         }
       },
-      "detailFailures": 2,
-      "detailNextAttemptAt": "2026-10-30T10:20:02.650Z",
+      "detailFailures": 3,
+      "detailNextAttemptAt": "2026-10-31T11:46:20.252Z",
       "detailError": {
-        "at": "2026-10-30T08:20:02.650Z",
+        "at": "2026-10-31T07:46:20.252Z",
         "message": "No usable official description reference"
       }
     },
@@ -13621,10 +13621,10 @@
           "total_tokens": 1572
         }
       },
-      "detailFailures": 2,
-      "detailNextAttemptAt": "2026-10-30T10:20:05.306Z",
+      "detailFailures": 3,
+      "detailNextAttemptAt": "2026-10-31T11:46:22.939Z",
       "detailError": {
-        "at": "2026-10-30T08:20:05.306Z",
+        "at": "2026-10-31T07:46:22.939Z",
         "message": "No usable official description reference"
       }
     },
@@ -19249,7 +19249,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:51.608Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translation": {
         "summary": "创建并测试客服智能体",
         "description": "根据你的网站创建私有客服智能体，在上线前测试其回答，并申请批准后再启用。在 Zeiko 工作区中查看客服质量以及有证据支持的改进建议。",
@@ -19260,9 +19260,9 @@
         "reviewedAt": "2026-10-30T17:31:47.637Z",
         "translatedAt": "2026-10-30T17:31:47.637Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:19:09.726Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:34.494Z",
       "detailError": {
-        "at": "2026-10-30T08:19:09.726Z",
+        "at": "2026-10-31T07:45:34.494Z",
         "message": "No usable official description reference"
       }
     },
@@ -34810,7 +34810,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:53.413Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translation": {
         "summary": "别再对 AI 重复说明",
         "description": "Socra Cortex 帮助个人和团队不必一遍遍向 ChatGPT 和 Codex 重复相同的偏好、要求和决策。它将这些知识及其原因保存在统一的事实来源中，供智能体在不同对话和工具中采取行动前检索。\n\nModules 记录应该做什么以及原因，并包含责任人和版本历史。Dependencies 用于关联理解这些知识所必需的信息。Flash 会先加载基础内容，再加载相关 Module 及其全部 Dependencies，每个 Module 只加载一次。\n\n团队成员可以分别负责不同主题，同时让各自的知识协同工作。例如，在 ChatGPT 中创建的产品需求 Module 可以依赖由相应负责人维护的架构和安全 Modules。Codex 在实施该需求前可以 Flash 它，并一并获得这些决策。\n\n随着对话和工作产生新知识，智能体会提议修改现有 Modules，让知识始终保持最新。建议的工作流程会要求它们在保存前展示精确的修改前后内容和 Dependencies，供负责人审批。更新会在后续 Flash 时生效，而版本历史会保留早期知识并记录变更。\n\nIssues 将任务与其所依据的 Modules 关联起来，并包含受指派人、工作依赖、评论和证据。收件箱会向相应负责人或智能体显示没有阻塞的工作；已完成的 Issues 会保留结果和历史记录。\n\n个人和团队在自己的 Socra Account 中拥有这些知识，并可为人员和群组设置 Module 权限。请访问 https://cortex.socra.com. 查看 Modules、知识地图和工作情况。你可以将 ChatGPT、Codex 或任何其他 AI 服务商连接到具有 Cortex 访问权限的同一 Account。\n\n设置和智能体说明：https://workspace.socra.com/docs/cortex/installation.md",
@@ -34821,9 +34821,9 @@
         "reviewedAt": "2026-10-30T17:31:47.611Z",
         "translatedAt": "2026-10-30T17:31:47.611Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:19:12.228Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:36.670Z",
       "detailError": {
-        "at": "2026-10-30T08:19:12.228Z",
+        "at": "2026-10-31T07:45:36.670Z",
         "message": "No usable official description reference"
       }
     },
@@ -39599,7 +39599,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:55.248Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translation": {
         "summary": "保持角色设定一致",
         "description": "在不同 ChatGPT 对话中保持角色细节、世界规则和故事事件一致。保存已确认的事实与场景摘要，在新聊天续写故事时检索，并检查草稿是否与已保存的正史设定矛盾。还可为未完成场景、悬而未决的问题和后续步骤保存临时检查点。Continuity 只接收你通过其工具并经你许可发送的内容。它不会自动备份完整聊天、找回未保存的细节，也不保证写作绝无错误。需要已有 Continuity 账户，且具备 Pro 方案或有效的试用权限。",
@@ -39610,9 +39610,9 @@
         "reviewedAt": "2026-10-30T17:31:47.528Z",
         "translatedAt": "2026-10-30T17:31:47.528Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:19:14.706Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:38.773Z",
       "detailError": {
-        "at": "2026-10-30T08:19:14.706Z",
+        "at": "2026-10-31T07:45:38.773Z",
         "message": "No usable official description reference"
       }
     },
@@ -53064,10 +53064,10 @@
           "total_tokens": 3428
         }
       },
-      "detailFailures": 2,
-      "detailNextAttemptAt": "2026-10-30T10:19:47.005Z",
+      "detailFailures": 3,
+      "detailNextAttemptAt": "2026-10-31T11:46:07.518Z",
       "detailError": {
-        "at": "2026-10-30T08:19:47.005Z",
+        "at": "2026-10-31T07:46:07.518Z",
         "message": "No usable official description reference"
       }
     },
@@ -55429,10 +55429,10 @@
         "reviewedAt": "2026-10-30T17:31:47.584Z",
         "translatedAt": "2026-10-30T17:31:47.584Z"
       },
-      "detailFailures": 2,
-      "detailNextAttemptAt": "2026-10-30T10:19:17.182Z",
+      "detailFailures": 3,
+      "detailNextAttemptAt": "2026-10-31T11:45:40.938Z",
       "detailError": {
-        "at": "2026-10-30T08:19:17.182Z",
+        "at": "2026-10-31T07:45:40.938Z",
         "message": "No usable official description reference"
       }
     },
@@ -60237,10 +60237,10 @@
           "total_tokens": 2096
         }
       },
-      "detailFailures": 4,
-      "detailNextAttemptAt": "2026-10-30T16:19:49.542Z",
+      "detailFailures": 5,
+      "detailNextAttemptAt": "2026-10-31T23:46:09.588Z",
       "detailError": {
-        "at": "2026-10-30T08:19:49.542Z",
+        "at": "2026-10-31T07:46:09.588Z",
         "message": "No usable official description reference"
       }
     },
@@ -66758,10 +66758,10 @@
           "total_tokens": 1961
         }
       },
-      "detailFailures": 2,
-      "detailNextAttemptAt": "2026-10-30T10:20:07.779Z",
+      "detailFailures": 3,
+      "detailNextAttemptAt": "2026-10-31T11:46:25.051Z",
       "detailError": {
-        "at": "2026-10-30T08:20:07.779Z",
+        "at": "2026-10-31T07:46:25.051Z",
         "message": "No usable official description reference"
       }
     },
@@ -83224,10 +83224,10 @@
           "total_tokens": 1550
         }
       },
-      "detailFailures": 2,
-      "detailNextAttemptAt": "2026-10-30T10:19:51.994Z",
+      "detailFailures": 3,
+      "detailNextAttemptAt": "2026-10-31T11:46:11.649Z",
       "detailError": {
-        "at": "2026-10-30T08:19:51.994Z",
+        "at": "2026-10-31T07:46:11.649Z",
         "message": "No usable official description reference"
       }
     },
@@ -83783,7 +83783,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:58.888Z",
       "translationAttemptRun": "37453076339:1",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translation": {
         "summary": "发布到 X、LinkedIn 和电子邮件",
         "description": "FeedClaw 是 AI 代理的内容收件箱。让 ChatGPT 撰写帖子、X 长帖或新闻邮件，在聊天或收件箱中审阅后，再发布到 X、LinkedIn 或通过电子邮件发送。未经你同意，任何内容都不会发出。首次设置可直接在聊天中完成：为品牌命名、通过链接连接渠道，然后发布。你可以附加照片或视频、提前安排发布时间、管理多个品牌并建立订阅者名单。",
@@ -83794,9 +83794,9 @@
         "reviewedAt": "2026-10-30T17:31:47.548Z",
         "translatedAt": "2026-10-30T17:31:47.548Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:19:19.757Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:43.142Z",
       "detailError": {
-        "at": "2026-10-30T08:19:19.757Z",
+        "at": "2026-10-31T07:45:43.142Z",
         "message": "No usable official description reference"
       }
     },
@@ -93224,10 +93224,10 @@
           "total_tokens": 1506
         }
       },
-      "detailFailures": 2,
-      "detailNextAttemptAt": "2026-10-30T10:20:10.225Z",
+      "detailFailures": 3,
+      "detailNextAttemptAt": "2026-10-31T11:46:27.169Z",
       "detailError": {
-        "at": "2026-10-30T08:20:10.225Z",
+        "at": "2026-10-31T07:46:27.169Z",
         "message": "No usable official description reference"
       }
     },
@@ -96525,11 +96525,11 @@
           "total_tokens": 1315
         }
       },
-      "detailFailures": 4,
+      "detailFailures": 5,
       "lastMissingAt": "2026-10-23T03:54:39.485Z",
-      "detailNextAttemptAt": "2026-10-30T16:20:12.684Z",
+      "detailNextAttemptAt": "2026-10-31T23:46:29.318Z",
       "detailError": {
-        "at": "2026-10-30T08:20:12.684Z",
+        "at": "2026-10-31T07:46:29.318Z",
         "message": "No usable official description reference"
       }
     },
@@ -100937,7 +100937,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:00.672Z",
       "translationAttemptRun": "37573889568:1",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translation": {
         "summary": "发布到 Facebook、LinkedIn 和 X",
         "description": "通过一条消息，即可安排并发布内容到 Instagram、TikTok、Facebook、LinkedIn、X（Twitter）、Threads 和 Bluesky。1Social 会根据各平台的字数限制调整每条文案，在平台需要图片时提醒你，并可将帖子安排在未来 30 天内发布。\n\n发布后，它会分别报告各个平台的结果——哪些成功发布、哪些失败及原因——还可以仅重试某个平台，不影响其他平台。你也可以编辑或取消仍在计划中的内容。",
@@ -100948,9 +100948,9 @@
         "reviewedAt": "2026-10-30T17:31:47.563Z",
         "translatedAt": "2026-10-30T17:31:47.563Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:19:22.193Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:45.217Z",
       "detailError": {
-        "at": "2026-10-30T08:19:22.193Z",
+        "at": "2026-10-31T07:45:45.217Z",
         "message": "No usable official description reference"
       }
     },
@@ -104887,10 +104887,10 @@
           "total_tokens": 1760
         }
       },
-      "detailFailures": 2,
-      "detailNextAttemptAt": "2026-10-30T10:19:54.522Z",
+      "detailFailures": 3,
+      "detailNextAttemptAt": "2026-10-31T11:46:13.813Z",
       "detailError": {
-        "at": "2026-10-30T08:19:54.522Z",
+        "at": "2026-10-31T07:46:13.813Z",
         "message": "No usable official description reference"
       }
     },
@@ -126692,7 +126692,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:02.555Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translation": {
         "summary": "查询你的第一方数据",
         "description": "social.plus Agentry 将 ChatGPT 连接到你的应用已生成的第一方数据。你可以用日常语言询问社群、用户、内容、活动和增长情况，并获得清晰答案，以便可视化、制成表格或通过后续问题深入分析。\n\n例如可以询问：\n- 我正在准备一份营销活动简报。上个月哪些内容形式带来了最多活动？哪些用户群体参与度最高？\n- 我们上周二发布了一项新功能。此后几天的用户活动与前一周相比有何变化？\n- 我一小时后要参加 QBR。请概述本季度的增长、活跃用户和表现最佳的内容。\n- 本周的热门话题有哪些？用户讨论内容有什么明显变化吗？\n- 按参与方式细分最活跃的用户群体：谁发帖、谁评论、谁点赞？\n\n你的数据仍由你掌控：Agentry 采用只读模式。它不会发布、修改或删除任何内容。数据每天刷新，涵盖大约最近 90 days 的活动。\n\n要连接，你需要启用了 Agentry 的 social.plus 网络，以及由 Console 超级管理员提供的连接码。",
@@ -126703,9 +126703,9 @@
         "reviewedAt": "2026-10-30T17:31:47.611Z",
         "translatedAt": "2026-10-30T17:31:47.611Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:19:24.641Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:47.453Z",
       "detailError": {
-        "at": "2026-10-30T08:19:24.641Z",
+        "at": "2026-10-31T07:45:47.453Z",
         "message": "No usable official description reference"
       }
     },
@@ -131201,7 +131201,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:04.425Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translation": {
         "summary": "创作乐谱与吉他谱 TAB",
         "description": "Music Block 可将你在 ChatGPT 中的音乐灵感转换为可播放的乐谱和吉他谱 TAB。\n\n你可以请求吉他乐句、钢琴和弦配置、贝斯线、鼓点、旋律、和弦进行、练习曲、编曲或乐理示例；Music Block 会直接在对话中将它们排版成雕版风格的乐谱。\n\n可以尝试这样提问：“给我 5 条适用于 B7alt 的旋律小调乐句”“为 ii–V–I 写一段行进贝斯线”“展示声部连接流畅的爵士钢琴和弦配置”或“把这段旋律改编为弦乐四重奏”。\n\nMusic Block 支持吉他、贝斯、尤克里里、钢琴和键盘、鼓、弦乐、铜管、木管、萨克斯和人声。吉他、贝斯和尤克里里示例包含 TAB；键盘使用大谱表；合奏最多可包含 8 个声部。\n\n每个示例都支持播放，你可以听到自己正在学习的内容、调整速度，并单独静音或独奏各个声部。你还可以使用替代调弦、扩展音域的吉他和贝斯、摇摆和 Shuffle 节奏、连音符、和弦符号，以及推弦、滑弦、击弦和勾弦等常见吉他技巧。\n\nMusic Block 适用于练习、教学、写歌、编曲，以及通过为对话创作的简短原创示例探索乐理。",
@@ -131212,9 +131212,9 @@
         "reviewedAt": "2026-10-30T17:31:47.583Z",
         "translatedAt": "2026-10-30T17:31:47.583Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:19:27.155Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:49.535Z",
       "detailError": {
-        "at": "2026-10-30T08:19:27.155Z",
+        "at": "2026-10-31T07:45:49.535Z",
         "message": "No usable official description reference"
       }
     },
@@ -132320,7 +132320,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:06.223Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translation": {
         "summary": "查找笔记和学习工具",
         "description": "Studocu 帮助学生查找学习资料、设置课程背景、利用开放网络内容为回答提供依据，并通过 ChatGPT 管理经过身份验证的学习项目——添加来源、阅读材料、创建测验或模拟考试，并保存长期学习记忆。",
@@ -132331,9 +132331,9 @@
         "reviewedAt": "2026-10-30T17:31:47.615Z",
         "translatedAt": "2026-10-30T17:31:47.615Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:19:29.611Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:51.626Z",
       "detailError": {
-        "at": "2026-10-30T08:19:29.611Z",
+        "at": "2026-10-31T07:45:51.626Z",
         "message": "No usable official description reference"
       }
     },
@@ -143024,10 +143024,10 @@
           "total_tokens": 2255
         }
       },
-      "detailFailures": 2,
-      "detailNextAttemptAt": "2026-10-30T10:19:57.001Z",
+      "detailFailures": 3,
+      "detailNextAttemptAt": "2026-10-31T11:46:15.868Z",
       "detailError": {
-        "at": "2026-10-30T08:19:57.001Z",
+        "at": "2026-10-31T07:46:15.868Z",
         "message": "No usable official description reference"
       }
     },
@@ -147235,10 +147235,10 @@
           "total_tokens": 1457
         }
       },
-      "detailFailures": 2,
-      "detailNextAttemptAt": "2026-10-30T10:20:15.138Z",
+      "detailFailures": 3,
+      "detailNextAttemptAt": "2026-10-31T11:46:31.517Z",
       "detailError": {
-        "at": "2026-10-30T08:20:15.138Z",
+        "at": "2026-10-31T07:46:31.517Z",
         "message": "No usable official description reference"
       }
     },
@@ -150430,7 +150430,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:08.006Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translation": {
         "summary": "研究上市公司",
         "description": "Fiscal.ai 帮助用户利用其 Fiscal.ai 账户可访问的、关联来源的财务报表、比率、价格、申报文件、新闻、所有权、业务分部、KPI、财报事件和基金投资者信来研究上市公司。",
@@ -150441,9 +150441,9 @@
         "reviewedAt": "2026-10-30T17:31:47.658Z",
         "translatedAt": "2026-10-30T17:31:47.658Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:19:32.071Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:53.716Z",
       "detailError": {
-        "at": "2026-10-30T08:19:32.071Z",
+        "at": "2026-10-31T07:45:53.716Z",
         "message": "No usable official description reference"
       }
     },
@@ -153655,7 +153655,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:09.830Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translation": {
         "summary": "了解贷款利率",
         "description": "通过 ChatGPT 使用 LendingTree 了解金融产品利率。查看 LendingTree 网络提供的以下产品当前估计利率：\n\n- 住房抵押贷款及抵押贷款再融资\n- 房屋净值贷款\n- 金额介于 $5,000 与 $50,000 之间的个人贷款\n\n可以尝试这样的提示：\n\n@LendingTree 我所在地区的住房抵押贷款利率如何？\n\n@LendingTree 如果在 CA 申请 $100,000 的房屋净值贷款，我的利率会是多少？\n\n@LendingTree 目前 $10,000 的个人贷款利率如何？\n\n根据贷款用途、期限、预估信用状况、所在州及贷款金额筛选结果，了解利率可能如何变化。准备查看个性化报价时，你可以前往 LendingTree 比较各项选择。\n\n此应用不会在 ChatGPT 或 LendingTree 网站上提供特定贷款机构的报价、审批、预审资格、财务建议，或承诺某一具体利率。LendingTree 仅对 LendingTree 应用体验内的 LendingTree 内容和功能负责，不对 ChatGPT 生成的回答或该应用体验之外的任何内容或功能负责。可用筛选条件因金融产品而异。消费者应咨询合资格的财务、税务、法律专业人士，以及在适用情况下咨询住房抵押贷款专业人士，以确定是否有适合自身情况的产品及具体是哪一项。LendingTree, LLC. NMLS #1136。",
@@ -153666,9 +153666,9 @@
         "reviewedAt": "2026-10-30T17:31:47.647Z",
         "translatedAt": "2026-10-30T17:31:47.647Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:19:34.518Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:55.759Z",
       "detailError": {
-        "at": "2026-10-30T08:19:34.518Z",
+        "at": "2026-10-31T07:45:55.759Z",
         "message": "No usable official description reference"
       }
     },
@@ -156532,10 +156532,10 @@
           "total_tokens": 1617
         }
       },
-      "detailFailures": 2,
-      "detailNextAttemptAt": "2026-10-30T10:20:17.608Z",
+      "detailFailures": 3,
+      "detailNextAttemptAt": "2026-10-31T11:46:33.599Z",
       "detailError": {
-        "at": "2026-10-30T08:20:17.608Z",
+        "at": "2026-10-31T07:46:33.599Z",
         "message": "No usable official description reference"
       }
     },
@@ -162748,7 +162748,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:11.775Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translation": {
         "summary": "跟踪企业财务",
         "description": "通过与 ChatGPT 对话管理你的业务。\n\nHelpDol 是由 AI 驱动的财务管理应用，面向销售人员、服务提供商、自雇人士、自由职业者、承包商及小企业主。在 HelpDol 应用中连接一次银行账户，收入和支出便会自动导入，无需手动输入，也不会重复导入。\n\n之后只需提问。查看利润、余额、现金流、应付及应收账款，以及向每位帮工支付了多少费用。处理仍需审核的转账、安排未来付款并设置提醒、为帮工和客户生成收据、调出给会计师的年度报告，并通过银行卡或支付链接向客户收款——全部在对话中完成。",
@@ -162759,9 +162759,9 @@
         "reviewedAt": "2026-10-30T17:31:47.665Z",
         "translatedAt": "2026-10-30T17:31:47.665Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:19:37.061Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:58.438Z",
       "detailError": {
-        "at": "2026-10-30T08:19:37.061Z",
+        "at": "2026-10-31T07:45:58.438Z",
         "message": "No usable official description reference"
       }
     },
@@ -163706,10 +163706,10 @@
           "total_tokens": 1548
         }
       },
-      "detailFailures": 2,
-      "detailNextAttemptAt": "2026-10-30T10:20:20.225Z",
+      "detailFailures": 3,
+      "detailNextAttemptAt": "2026-10-31T11:46:35.690Z",
       "detailError": {
-        "at": "2026-10-30T08:20:20.225Z",
+        "at": "2026-10-31T07:46:35.690Z",
         "message": "No usable official description reference"
       }
     },
@@ -176130,10 +176130,10 @@
           "total_tokens": 1406
         }
       },
-      "detailFailures": 2,
-      "detailNextAttemptAt": "2026-10-30T10:20:22.775Z",
+      "detailFailures": 3,
+      "detailNextAttemptAt": "2026-10-31T11:46:37.768Z",
       "detailError": {
-        "at": "2026-10-30T08:20:22.775Z",
+        "at": "2026-10-31T07:46:37.768Z",
         "message": "No usable official description reference"
       }
     },
@@ -188203,7 +188203,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:13.566Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translation": {
         "summary": "搜索并比较渡轮航线",
         "description": "Ferryhopper 帮助旅客规划欧洲和地中海地区的渡轮行程。用户可以查询渡轮港口，了解从某港口可直达的目的地，并搜索单程、往返或最多五段的跳岛航程，查看参考价格和各航段的可用选项（客舱、车辆、宠物、电子票）。还可以查看特定航班的船上设施、照片和住宿选项，并查询罢工、天气警报和取消等运营中断通知。搜索结果会链接到 ferryhopper.com，用户可在那里完成预订。",
@@ -188214,9 +188214,9 @@
         "reviewedAt": "2026-10-30T17:31:47.548Z",
         "translatedAt": "2026-10-30T17:31:47.548Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:19:39.561Z",
+      "detailNextAttemptAt": "2026-10-31T11:46:00.501Z",
       "detailError": {
-        "at": "2026-10-30T08:19:39.561Z",
+        "at": "2026-10-31T07:46:00.501Z",
         "message": "No usable official description reference"
       }
     },
@@ -204401,10 +204401,10 @@
           "total_tokens": 2250
         }
       },
-      "detailFailures": 2,
-      "detailNextAttemptAt": "2026-10-30T10:20:25.239Z",
+      "detailFailures": 3,
+      "detailNextAttemptAt": "2026-10-31T11:46:39.938Z",
       "detailError": {
-        "at": "2026-10-30T08:20:25.239Z",
+        "at": "2026-10-31T07:46:39.938Z",
         "message": "No usable official description reference"
       }
     },
@@ -206211,7 +206211,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:15.398Z",
       "translationAttemptRun": "40300276517:1",
-      "detailFailures": 4,
+      "detailFailures": 5,
       "translation": {
         "summary": "自行抽取的塔罗牌",
         "description": "Evelyn Tarot将宁静、从容的塔罗体验融入ChatGPT。\n\n您可自行抽卡：Evelyn会询问您的姓名、年龄以及前来占卜的原因，翻开背面朝上的牌阵，等待您选择。\n\nEvelyn Tarot让您自行抽卡。她会询问您的姓名、年龄以及前来占卜的原因，翻开背面朝上的牌阵，等待您选择，随后才翻转牌面。14种占卜类型——爱情、您将嫁娶的人、对方对您的感受、事业、深入灵性占卜、未来一年展望等，每种都以长篇个人化解读形式呈现，支持您选择的语言。还提供免费的牌义解释、每周黄道运势、匹配度分析、月相、数秘术及天使数字。\n\n所有内容完全免费，无需创建账户，所有工具支持十种语言——英语、土耳其语、西班牙语、葡萄牙语、意大利语、阿拉伯语、法语、日语、印地语和印尼语。\n\n以上占卜仅供反思和娱乐用途。不构成医疗、法律或财务建议，不保证任何结果。",
@@ -206226,9 +206226,9 @@
           "total_tokens": 2071
         }
       },
-      "detailNextAttemptAt": "2026-10-30T16:19:42.036Z",
+      "detailNextAttemptAt": "2026-10-31T23:46:02.640Z",
       "detailError": {
-        "at": "2026-10-30T08:19:42.036Z",
+        "at": "2026-10-31T07:46:02.640Z",
         "message": "No usable official description reference"
       }
     },
@@ -213261,7 +213261,7 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:56:17.201Z",
       "translationAttemptRun": "37134929786",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translation": {
         "summary": "免费 AI 四柱命理与八字解读",
         "description": "SAJU 是由 Saju.com 推出的免费 AI 四柱命理解读应用。Saju.com 是 Doctor Fortune（운세박사）的全球版；Doctor Fortune 是 ChatGPT 商店中排名第 #1 的占卜应用，由 50 多位专业命理师打造。Saju（사주，四柱命理，也称 BaZi / 八字）是韩国及东亚传统的出生图体系，根据出生的年、月、日、时解读命运。\n\n只需告诉 ChatGPT 你的出生日期、出生时间、性别和出生城市。SAJU 会根据世界任意城市的真实天文节气、历史时区和经度校正后的当地时间，排出准确的四柱命盘，并以交互式图表展示：日主、天干地支、十神、五行平衡、合冲、吉星与挑战之星，以及 10 年大运、年度运势和每月运势的图示时间线。\n\n之后可以继续用日常语言对话，了解性格与人生道路、事业与财富、爱情、婚姻与匹配、健康、今年和明年运势、适合换工作或搬家的月份，以及某个具体日期是否适合婚礼、签合同或面试——SAJU 会为任意日期查询准确的日柱。支持英语、韩语、日语、中文、西班牙语、葡萄牙语、德语、法语、越南语、泰语、印地语、阿拉伯语、意大利语、土耳其语和印度尼西亚语。\n\n也称：AI Saju · Saju 解读 · 韩国占卜 · 四柱命理 · BaZi · 中国占星术 · 日主 · 사주 · 사주팔자 · AI 사주 · 무료 사주 · 四柱推命 · 八字 · 四柱命理 · 算命 · Tứ Trụ · Bát Tự · Tử vi · ดวงจีน · โป๊ยหยี่ · कोरियाई ज्योतिष · Saju coreano · Cuatro Pilares del Destino · Quatro Pilares do Destino · Vier Säulen des Schicksals · Quatre Piliers de la Destinée · Quattro Pilastri del Destino · Kaderin Dört Sütunu · Ramalan Saju · الأعمدة الأربعة للمصير。\n\nSAJU 除出生信息外不会询问其他内容，且可免费使用。",
@@ -213272,9 +213272,9 @@
         "reviewedAt": "2026-10-30T17:31:47.604Z",
         "translatedAt": "2026-10-30T17:31:47.604Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:19:44.519Z",
+      "detailNextAttemptAt": "2026-10-31T11:46:05.299Z",
       "detailError": {
-        "at": "2026-10-30T08:19:44.519Z",
+        "at": "2026-10-31T07:46:05.299Z",
         "message": "No usable official description reference"
       }
     },
@@ -240060,10 +240060,10 @@
           "total_tokens": 1587
         }
       },
-      "detailFailures": 2,
-      "detailNextAttemptAt": "2026-10-30T10:20:00.074Z",
+      "detailFailures": 3,
+      "detailNextAttemptAt": "2026-10-31T11:46:17.989Z",
       "detailError": {
-        "at": "2026-10-30T08:20:00.074Z",
+        "at": "2026-10-31T07:46:17.989Z",
         "message": "No usable official description reference"
       }
     },
@@ -244265,7 +244265,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:36.651Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "简历、求职信与职位",
@@ -244277,9 +244277,9 @@
         "reviewedAt": "2026-10-30T17:31:47.574Z",
         "translatedAt": "2026-10-30T17:31:47.574Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:17:40.562Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:18.086Z",
       "detailError": {
-        "at": "2026-10-30T08:17:40.562Z",
+        "at": "2026-10-31T07:44:18.086Z",
         "message": "No usable official description reference"
       }
     },
@@ -244379,7 +244379,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:38.519Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "创建图片、视频和音频",
@@ -244391,9 +244391,9 @@
         "reviewedAt": "2026-10-30T17:31:47.637Z",
         "translatedAt": "2026-10-30T17:31:47.637Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:17:43.009Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:20.317Z",
       "detailError": {
-        "at": "2026-10-30T08:17:43.009Z",
+        "at": "2026-10-31T07:44:20.317Z",
         "message": "No usable official description reference"
       }
     },
@@ -244438,7 +244438,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:40.378Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "生成图像、视频和 PDF",
@@ -244450,9 +244450,9 @@
         "reviewedAt": "2026-10-30T17:31:47.507Z",
         "translatedAt": "2026-10-30T17:31:47.507Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:17:45.461Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:22.474Z",
       "detailError": {
-        "at": "2026-10-30T08:17:45.461Z",
+        "at": "2026-10-31T07:44:22.474Z",
         "message": "No usable official description reference"
       }
     },
@@ -244497,7 +244497,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:42.176Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "受控的远程计算",
@@ -244509,9 +244509,9 @@
         "reviewedAt": "2026-10-30T17:31:47.572Z",
         "translatedAt": "2026-10-30T17:31:47.572Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:17:48.006Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:24.583Z",
       "detailError": {
-        "at": "2026-10-30T08:17:48.006Z",
+        "at": "2026-10-31T07:44:24.583Z",
         "message": "No usable official description reference"
       }
     },
@@ -244556,7 +244556,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:43.986Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "部署应用并管理服务器",
@@ -244568,9 +244568,9 @@
         "reviewedAt": "2026-10-30T17:31:47.562Z",
         "translatedAt": "2026-10-30T17:31:47.562Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:17:50.436Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:26.673Z",
       "detailError": {
-        "at": "2026-10-30T08:17:50.436Z",
+        "at": "2026-10-31T07:44:26.673Z",
         "message": "No usable official description reference"
       }
     },
@@ -244615,7 +244615,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:45.824Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "AI 服务状态，来源分开呈现",
@@ -244627,9 +244627,9 @@
         "reviewedAt": "2026-10-30T17:31:47.585Z",
         "translatedAt": "2026-10-30T17:31:47.585Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:17:52.977Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:28.887Z",
       "detailError": {
-        "at": "2026-10-30T08:17:52.977Z",
+        "at": "2026-10-31T07:44:28.887Z",
         "message": "No usable official description reference"
       }
     },
@@ -244674,7 +244674,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:47.612Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "在瑞士部署和托管",
@@ -244686,9 +244686,9 @@
         "reviewedAt": "2026-10-30T17:31:47.617Z",
         "translatedAt": "2026-10-30T17:31:47.617Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:17:55.475Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:31.570Z",
       "detailError": {
-        "at": "2026-10-30T08:17:55.475Z",
+        "at": "2026-10-31T07:44:31.570Z",
         "message": "No usable official description reference"
       }
     },
@@ -244733,7 +244733,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:49.362Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "40820211594:1",
       "translation": {
         "summary": "营销数据与AI可视化",
@@ -244749,9 +244749,9 @@
           "total_tokens": 1409
         }
       },
-      "detailNextAttemptAt": "2026-10-30T10:17:58.103Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:33.665Z",
       "detailError": {
-        "at": "2026-10-30T08:17:58.103Z",
+        "at": "2026-10-31T07:44:33.665Z",
         "message": "No usable official description reference"
       }
     },
@@ -244979,7 +244979,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:57.369Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "搜索招聘记录",
@@ -244991,9 +244991,9 @@
         "reviewedAt": "2026-10-30T17:31:47.599Z",
         "translatedAt": "2026-10-30T17:31:47.599Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:00.636Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:35.769Z",
       "detailError": {
-        "at": "2026-10-30T08:18:00.636Z",
+        "at": "2026-10-31T07:44:35.769Z",
         "message": "No usable official description reference"
       }
     },
@@ -245148,7 +245148,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:59.178Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "搜索 Telegram 频道数据",
@@ -245160,9 +245160,9 @@
         "reviewedAt": "2026-10-30T17:31:47.504Z",
         "translatedAt": "2026-10-30T17:31:47.504Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:03.160Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:37.879Z",
       "detailError": {
-        "at": "2026-10-30T08:18:03.160Z",
+        "at": "2026-10-31T07:44:37.879Z",
         "message": "No usable official description reference"
       }
     },
@@ -245207,7 +245207,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:01.097Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "了解 Instagram 数据表现",
@@ -245219,9 +245219,9 @@
         "reviewedAt": "2026-10-30T17:31:47.620Z",
         "translatedAt": "2026-10-30T17:31:47.620Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:05.606Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:40.140Z",
       "detailError": {
-        "at": "2026-10-30T08:18:05.606Z",
+        "at": "2026-10-31T07:44:40.140Z",
         "message": "No usable official description reference"
       }
     },
@@ -245266,7 +245266,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:02.945Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "探索移动网络数据",
@@ -245278,9 +245278,9 @@
         "reviewedAt": "2026-10-30T17:31:47.608Z",
         "translatedAt": "2026-10-30T17:31:47.608Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:11.599Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:43.943Z",
       "detailError": {
-        "at": "2026-10-30T08:18:11.599Z",
+        "at": "2026-10-31T07:44:43.943Z",
         "message": "No usable official description reference"
       }
     },
@@ -245325,7 +245325,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:04.826Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "连接你的数据库",
@@ -245337,9 +245337,9 @@
         "reviewedAt": "2026-10-30T17:31:47.440Z",
         "translatedAt": "2026-10-30T17:31:47.440Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:14.157Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:46.157Z",
       "detailError": {
-        "at": "2026-10-30T08:18:14.157Z",
+        "at": "2026-10-31T07:44:46.157Z",
         "message": "No usable official description reference"
       }
     },
@@ -245384,7 +245384,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:06.678Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "随时开玩的团队游戏",
@@ -245396,9 +245396,9 @@
         "reviewedAt": "2026-10-30T17:31:47.553Z",
         "translatedAt": "2026-10-30T17:31:47.553Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:16.656Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:48.275Z",
       "detailError": {
-        "at": "2026-10-30T08:18:16.656Z",
+        "at": "2026-10-31T07:44:48.275Z",
         "message": "No usable official description reference"
       }
     },
@@ -245443,7 +245443,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:08.451Z",
-      "detailFailures": 3,
+      "detailFailures": 4,
       "translationAttemptRun": "40448357028:1",
       "translation": {
         "summary": "小型团队的工作聊天工具",
@@ -245459,9 +245459,9 @@
           "total_tokens": 1535
         }
       },
-      "detailNextAttemptAt": "2026-10-30T12:18:19.206Z",
+      "detailNextAttemptAt": "2026-10-31T15:44:50.401Z",
       "detailError": {
-        "at": "2026-10-30T08:18:19.206Z",
+        "at": "2026-10-31T07:44:50.401Z",
         "message": "No usable official description reference"
       }
     },
@@ -245506,7 +245506,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:10.253Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "创建可打印的学习材料",
@@ -245518,9 +245518,9 @@
         "reviewedAt": "2026-10-30T17:31:47.523Z",
         "translatedAt": "2026-10-30T17:31:47.523Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:21.713Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:52.492Z",
       "detailError": {
-        "at": "2026-10-30T08:18:21.713Z",
+        "at": "2026-10-31T07:44:52.492Z",
         "message": "No usable official description reference"
       }
     },
@@ -245565,7 +245565,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:12.099Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "规划更好的足球训练",
@@ -245577,9 +245577,9 @@
         "reviewedAt": "2026-10-30T17:31:47.551Z",
         "translatedAt": "2026-10-30T17:31:47.551Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:24.159Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:54.759Z",
       "detailError": {
-        "at": "2026-10-30T08:18:24.159Z",
+        "at": "2026-10-31T07:44:54.759Z",
         "message": "No usable official description reference"
       }
     },
@@ -245624,7 +245624,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:13.981Z",
-      "detailFailures": 4,
+      "detailFailures": 5,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "带进度的指导课程",
@@ -245640,9 +245640,9 @@
           "total_tokens": 1451
         }
       },
-      "detailNextAttemptAt": "2026-10-30T16:18:26.703Z",
+      "detailNextAttemptAt": "2026-10-31T23:44:56.912Z",
       "detailError": {
-        "at": "2026-10-30T08:18:26.703Z",
+        "at": "2026-10-31T07:44:56.912Z",
         "message": "No usable official description reference"
       }
     },
@@ -245747,7 +245747,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:17.814Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "搜索日本政策记录",
@@ -245759,9 +245759,9 @@
         "reviewedAt": "2026-10-30T17:31:47.593Z",
         "translatedAt": "2026-10-30T17:31:47.593Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:29.185Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:59.003Z",
       "detailError": {
-        "at": "2026-10-30T08:18:29.185Z",
+        "at": "2026-10-31T07:44:59.003Z",
         "message": "No usable official description reference"
       }
     },
@@ -245806,7 +245806,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:19.625Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "向 AI 记账助手提问",
@@ -245819,9 +245819,9 @@
         "translatedAt": "2026-10-30T17:31:47.644Z"
       },
       "lastMissingAt": "2026-10-23T03:54:39.485Z",
-      "detailNextAttemptAt": "2026-10-30T10:18:32.334Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:01.122Z",
       "detailError": {
-        "at": "2026-10-30T08:18:32.334Z",
+        "at": "2026-10-31T07:45:01.122Z",
         "message": "No usable official description reference"
       }
     },
@@ -245866,7 +245866,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:21.434Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "学生贷款还款计算",
@@ -245878,9 +245878,9 @@
         "reviewedAt": "2026-10-30T17:31:47.656Z",
         "translatedAt": "2026-10-30T17:31:47.656Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:34.853Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:03.208Z",
       "detailError": {
-        "at": "2026-10-30T08:18:34.853Z",
+        "at": "2026-10-31T07:45:03.208Z",
         "message": "No usable official description reference"
       }
     },
@@ -245925,7 +245925,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:23.225Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "硬资产抵押与 DSCR 贷款报价",
@@ -245937,9 +245937,9 @@
         "reviewedAt": "2026-10-30T17:31:47.643Z",
         "translatedAt": "2026-10-30T17:31:47.643Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:37.306Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:05.331Z",
       "detailError": {
-        "at": "2026-10-30T08:18:37.306Z",
+        "at": "2026-10-31T07:45:05.331Z",
         "message": "No usable official description reference"
       }
     },
@@ -245984,7 +245984,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:25.113Z",
-      "detailFailures": 4,
+      "detailFailures": 5,
       "translationAttemptRun": "40265897781:1",
       "translation": {
         "summary": "构建交易策略",
@@ -246000,9 +246000,9 @@
           "total_tokens": 1497
         }
       },
-      "detailNextAttemptAt": "2026-10-30T16:18:39.911Z",
+      "detailNextAttemptAt": "2026-10-31T23:45:07.437Z",
       "detailError": {
-        "at": "2026-10-30T08:18:39.911Z",
+        "at": "2026-10-31T07:45:07.437Z",
         "message": "No usable official description reference"
       }
     },
@@ -246107,7 +246107,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:26.897Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "追踪投资组合表现",
@@ -246119,9 +246119,9 @@
         "reviewedAt": "2026-10-30T17:31:47.661Z",
         "translatedAt": "2026-10-30T17:31:47.661Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:42.424Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:09.610Z",
       "detailError": {
-        "at": "2026-10-30T08:18:42.424Z",
+        "at": "2026-10-31T07:45:09.610Z",
         "message": "No usable official description reference"
       }
     },
@@ -246166,7 +246166,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:28.696Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "规划你的 Peninsula 体验",
@@ -246178,9 +246178,9 @@
         "reviewedAt": "2026-10-30T17:31:47.620Z",
         "translatedAt": "2026-10-30T17:31:47.620Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:44.899Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:11.668Z",
       "detailError": {
-        "at": "2026-10-30T08:18:44.899Z",
+        "at": "2026-10-31T07:45:11.668Z",
         "message": "No usable official description reference"
       }
     },
@@ -246225,7 +246225,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:30.578Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "寻找希腊各地住宿",
@@ -246237,9 +246237,9 @@
         "reviewedAt": "2026-10-30T17:31:47.446Z",
         "translatedAt": "2026-10-30T17:31:47.446Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:47.324Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:13.839Z",
       "detailError": {
-        "at": "2026-10-30T08:18:47.324Z",
+        "at": "2026-10-31T07:45:13.839Z",
         "message": "No usable official description reference"
       }
     },
@@ -246284,7 +246284,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:32.397Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "寻找值得去的地方",
@@ -246296,9 +246296,9 @@
         "reviewedAt": "2026-10-30T17:31:47.430Z",
         "translatedAt": "2026-10-30T17:31:47.430Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:49.790Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:15.943Z",
       "detailError": {
-        "at": "2026-10-30T08:18:49.790Z",
+        "at": "2026-10-31T07:45:15.943Z",
         "message": "No usable official description reference"
       }
     },
@@ -246343,7 +246343,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:38.573Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "查找道路测速摄像头",
@@ -246355,9 +246355,9 @@
         "reviewedAt": "2026-10-30T17:31:47.613Z",
         "translatedAt": "2026-10-30T17:31:47.613Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:52.237Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:19.612Z",
       "detailError": {
-        "at": "2026-10-30T08:18:52.237Z",
+        "at": "2026-10-31T07:45:19.612Z",
         "message": "No usable official description reference"
       }
     },
@@ -246402,7 +246402,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:40.416Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "查找并直接预订酒店",
@@ -246414,9 +246414,9 @@
         "reviewedAt": "2026-10-30T17:31:47.423Z",
         "translatedAt": "2026-10-30T17:31:47.423Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:54.689Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:21.741Z",
       "detailError": {
-        "at": "2026-10-30T08:18:54.689Z",
+        "at": "2026-10-31T07:45:21.741Z",
         "message": "No usable official description reference"
       }
     },
@@ -246461,7 +246461,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:42.290Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "搜索实时酒店价格",
@@ -246473,9 +246473,9 @@
         "reviewedAt": "2026-10-30T17:31:47.555Z",
         "translatedAt": "2026-10-30T17:31:47.555Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:57.207Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:23.833Z",
       "detailError": {
-        "at": "2026-10-30T08:18:57.207Z",
+        "at": "2026-10-31T07:45:23.833Z",
         "message": "No usable official description reference"
       }
     },
@@ -246520,7 +246520,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:44.075Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "实时高尔夫开球时间与果岭费",
@@ -246532,9 +246532,9 @@
         "reviewedAt": "2026-10-30T17:31:47.556Z",
         "translatedAt": "2026-10-30T17:31:47.556Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:18:59.649Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:25.945Z",
       "detailError": {
-        "at": "2026-10-30T08:18:59.649Z",
+        "at": "2026-10-31T07:45:25.945Z",
         "message": "No usable official description reference"
       }
     },
@@ -246579,7 +246579,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:45.914Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "塔罗牌与西班牙牌",
@@ -246591,9 +246591,9 @@
         "reviewedAt": "2026-10-30T17:31:47.621Z",
         "translatedAt": "2026-10-30T17:31:47.621Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:19:02.224Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:28.154Z",
       "detailError": {
-        "at": "2026-10-30T08:19:02.224Z",
+        "at": "2026-10-31T07:45:28.154Z",
         "message": "No usable official description reference"
       }
     },
@@ -246638,7 +246638,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:55:47.747Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "37418628815:1",
       "translation": {
         "summary": "三体系出生星盘解读",
@@ -246650,9 +246650,9 @@
         "reviewedAt": "2026-10-30T17:31:47.625Z",
         "translatedAt": "2026-10-30T17:31:47.625Z"
       },
-      "detailNextAttemptAt": "2026-10-30T10:19:04.695Z",
+      "detailNextAttemptAt": "2026-10-31T11:45:30.339Z",
       "detailError": {
-        "at": "2026-10-30T08:19:04.695Z",
+        "at": "2026-10-31T07:45:30.339Z",
         "message": "No usable official description reference"
       }
     },
@@ -265250,7 +265250,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:23.559Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "38354216619:1",
       "translation": {
         "summary": "查找附近停车位",
@@ -265266,9 +265266,9 @@
           "total_tokens": 1369
         }
       },
-      "detailNextAttemptAt": "2026-10-30T10:17:21.703Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:02.230Z",
       "detailError": {
-        "at": "2026-10-30T08:17:21.703Z",
+        "at": "2026-10-31T07:44:02.230Z",
         "message": "No usable official description reference"
       }
     },
@@ -265313,7 +265313,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:25.703Z",
-      "detailFailures": 4,
+      "detailFailures": 5,
       "translationAttemptRun": "40265897781:1",
       "translation": {
         "summary": "公路旅行、签证及燃油",
@@ -265329,9 +265329,9 @@
           "total_tokens": 1511
         }
       },
-      "detailNextAttemptAt": "2026-10-30T16:17:24.143Z",
+      "detailNextAttemptAt": "2026-10-31T23:44:04.437Z",
       "detailError": {
-        "at": "2026-10-30T08:17:24.143Z",
+        "at": "2026-10-31T07:44:04.437Z",
         "message": "No usable official description reference"
       }
     },
@@ -265376,7 +265376,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:27.598Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "38354216619:1",
       "translation": {
         "summary": "航班状态和登机口警报",
@@ -265392,9 +265392,9 @@
           "total_tokens": 1904
         }
       },
-      "detailNextAttemptAt": "2026-10-30T10:17:26.599Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:06.614Z",
       "detailError": {
-        "at": "2026-10-30T08:17:26.599Z",
+        "at": "2026-10-31T07:44:06.614Z",
         "message": "No usable official description reference"
       }
     },
@@ -265439,7 +265439,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:29.371Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "38389319833:1",
       "translation": {
         "summary": "KiedyKoncert.pl 是波兰的演唱会日历",
@@ -265455,9 +265455,9 @@
           "total_tokens": 2334
         }
       },
-      "detailNextAttemptAt": "2026-10-30T10:17:29.229Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:08.731Z",
       "detailError": {
-        "at": "2026-10-30T08:17:29.229Z",
+        "at": "2026-10-31T07:44:08.731Z",
         "message": "No usable official description reference"
       }
     },
@@ -265502,7 +265502,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:31.154Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "38354216619:1",
       "translation": {
         "summary": "撰写故事和章节",
@@ -265518,9 +265518,9 @@
           "total_tokens": 3449
         }
       },
-      "detailNextAttemptAt": "2026-10-30T10:17:32.329Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:10.958Z",
       "detailError": {
-        "at": "2026-10-30T08:17:32.329Z",
+        "at": "2026-10-31T07:44:10.958Z",
         "message": "No usable official description reference"
       }
     },
@@ -265565,7 +265565,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:32.944Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "38389319833:1",
       "translation": {
         "summary": "查看你的爱情温度",
@@ -265581,9 +265581,9 @@
           "total_tokens": 1612
         }
       },
-      "detailNextAttemptAt": "2026-10-30T10:17:35.384Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:13.157Z",
       "detailError": {
-        "at": "2026-10-30T08:17:35.384Z",
+        "at": "2026-10-31T07:44:13.157Z",
         "message": "No usable official description reference"
       }
     },
@@ -265628,7 +265628,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-21T03:54:34.823Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "38354216619:1",
       "translation": {
         "summary": "通过声音发现音乐",
@@ -265644,9 +265644,9 @@
           "total_tokens": 1594
         }
       },
-      "detailNextAttemptAt": "2026-10-30T10:17:38.006Z",
+      "detailNextAttemptAt": "2026-10-31T11:44:15.879Z",
       "detailError": {
-        "at": "2026-10-30T08:17:38.006Z",
+        "at": "2026-10-31T07:44:15.879Z",
         "message": "No usable official description reference"
       }
     },
@@ -308913,7 +308913,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:49:57.612Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "饮食计划器、食谱与美食",
@@ -308929,9 +308929,9 @@
           "total_tokens": 1805
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:20:27.847Z",
+      "detailNextAttemptAt": "2026-10-31T09:46:42.128Z",
       "detailError": {
-        "at": "2026-10-30T08:20:27.847Z",
+        "at": "2026-10-31T07:46:42.128Z",
         "message": "No usable official description reference"
       }
     },
@@ -308976,7 +308976,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:49:59.376Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "会议记录",
@@ -308992,9 +308992,9 @@
           "total_tokens": 1863
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:20:30.421Z",
+      "detailNextAttemptAt": "2026-10-31T09:46:44.233Z",
       "detailError": {
-        "at": "2026-10-30T08:20:30.421Z",
+        "at": "2026-10-31T07:46:44.233Z",
         "message": "No usable official description reference"
       }
     },
@@ -309039,7 +309039,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:02.556Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "搜索会议和AI笔记",
@@ -309055,9 +309055,9 @@
           "total_tokens": 1936
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:20:32.905Z",
+      "detailNextAttemptAt": "2026-10-31T09:46:46.502Z",
       "detailError": {
-        "at": "2026-10-30T08:20:32.905Z",
+        "at": "2026-10-31T07:46:46.502Z",
         "message": "No usable official description reference"
       }
     },
@@ -309107,7 +309107,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:04.401Z",
-      "detailFailures": 4,
+      "detailFailures": 5,
       "translationAttemptRun": "40481054924:1",
       "translation": {
         "summary": "在Ava Studio中创作",
@@ -309123,9 +309123,9 @@
           "total_tokens": 1577
         }
       },
-      "detailNextAttemptAt": "2026-10-30T16:20:35.554Z",
+      "detailNextAttemptAt": "2026-10-31T23:46:48.638Z",
       "detailError": {
-        "at": "2026-10-30T08:20:35.554Z",
+        "at": "2026-10-31T07:46:48.638Z",
         "message": "No usable official description reference"
       }
     },
@@ -309175,7 +309175,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:06.270Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "AI营销视频与文案",
@@ -309191,9 +309191,9 @@
           "total_tokens": 1521
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:20:38.070Z",
+      "detailNextAttemptAt": "2026-10-31T09:46:50.756Z",
       "detailError": {
-        "at": "2026-10-30T08:20:38.070Z",
+        "at": "2026-10-31T07:46:50.756Z",
         "message": "No usable official description reference"
       }
     },
@@ -309243,7 +309243,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:07.939Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "从照片和文案创建广告",
@@ -309259,9 +309259,9 @@
           "total_tokens": 1614
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:20:40.612Z",
+      "detailNextAttemptAt": "2026-10-31T09:46:52.878Z",
       "detailError": {
-        "at": "2026-10-30T08:20:40.612Z",
+        "at": "2026-10-31T07:46:52.878Z",
         "message": "No usable official description reference"
       }
     },
@@ -309311,7 +309311,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:09.610Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "从平面图到带家具的3D模型",
@@ -309327,9 +309327,9 @@
           "total_tokens": 2176
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:20:43.094Z",
+      "detailNextAttemptAt": "2026-10-31T09:46:54.998Z",
       "detailError": {
-        "at": "2026-10-30T08:20:43.094Z",
+        "at": "2026-10-31T07:46:54.998Z",
         "message": "No usable official description reference"
       }
     },
@@ -309379,7 +309379,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:11.344Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "创建并发布社交媒体内容",
@@ -309395,9 +309395,9 @@
           "total_tokens": 2067
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:20:45.588Z",
+      "detailNextAttemptAt": "2026-10-31T09:46:57.079Z",
       "detailError": {
-        "at": "2026-10-30T08:20:45.588Z",
+        "at": "2026-10-31T07:46:57.079Z",
         "message": "No usable official description reference"
       }
     },
@@ -309442,7 +309442,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:13.137Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "雕刻生产设计",
@@ -309458,9 +309458,9 @@
           "total_tokens": 1584
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:20:48.133Z",
+      "detailNextAttemptAt": "2026-10-31T09:46:59.167Z",
       "detailError": {
-        "at": "2026-10-30T08:20:48.133Z",
+        "at": "2026-10-31T07:46:59.167Z",
         "message": "No usable official description reference"
       }
     },
@@ -309510,7 +309510,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:14.829Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "生成图标和插图",
@@ -309526,9 +309526,9 @@
           "total_tokens": 1676
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:20:51.227Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:01.434Z",
       "detailError": {
-        "at": "2026-10-30T08:20:51.227Z",
+        "at": "2026-10-31T07:47:01.434Z",
         "message": "No usable official description reference"
       }
     },
@@ -309578,7 +309578,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:16.610Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "布置房间并编辑照片",
@@ -309594,9 +309594,9 @@
           "total_tokens": 1789
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:20:53.700Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:03.593Z",
       "detailError": {
-        "at": "2026-10-30T08:20:53.700Z",
+        "at": "2026-10-31T07:47:03.593Z",
         "message": "No usable official description reference"
       }
     },
@@ -309646,7 +309646,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:18.352Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "设计实用的可打印部件",
@@ -309662,9 +309662,9 @@
           "total_tokens": 1756
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:20:56.206Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:05.763Z",
       "detailError": {
-        "at": "2026-10-30T08:20:56.206Z",
+        "at": "2026-10-31T07:47:05.763Z",
         "message": "No usable official description reference"
       }
     },
@@ -309714,7 +309714,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:20.405Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "构建AI媒体工作流程",
@@ -309730,9 +309730,9 @@
           "total_tokens": 1426
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:20:58.691Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:07.965Z",
       "detailError": {
-        "at": "2026-10-30T08:20:58.691Z",
+        "at": "2026-10-31T07:47:07.965Z",
         "message": "No usable official description reference"
       }
     },
@@ -309777,7 +309777,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:22.176Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "查找并添加视频片段字幕",
@@ -309793,9 +309793,9 @@
           "total_tokens": 2005
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:01.171Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:10.672Z",
       "detailError": {
-        "at": "2026-10-30T08:21:01.171Z",
+        "at": "2026-10-31T07:47:10.672Z",
         "message": "No usable official description reference"
       }
     },
@@ -309845,7 +309845,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:23.916Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "创建演示文稿和设计",
@@ -309861,9 +309861,9 @@
           "total_tokens": 2045
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:03.769Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:12.718Z",
       "detailError": {
-        "at": "2026-10-30T08:21:03.769Z",
+        "at": "2026-10-31T07:47:12.718Z",
         "message": "No usable official description reference"
       }
     },
@@ -309913,7 +309913,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:25.615Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "在聊天中打开RAW格式照片",
@@ -309929,9 +309929,9 @@
           "total_tokens": 2761
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:06.235Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:15.386Z",
       "detailError": {
-        "at": "2026-10-30T08:21:06.235Z",
+        "at": "2026-10-31T07:47:15.386Z",
         "message": "No usable official description reference"
       }
     },
@@ -309981,7 +309981,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:27.323Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "AI图像与视频提示",
@@ -309997,9 +309997,9 @@
           "total_tokens": 1615
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:09.822Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:17.534Z",
       "detailError": {
-        "at": "2026-10-30T08:21:09.822Z",
+        "at": "2026-10-31T07:47:17.534Z",
         "message": "No usable official description reference"
       }
     },
@@ -310049,7 +310049,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:29.066Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "创建并预览媒体内容",
@@ -310065,9 +310065,9 @@
           "total_tokens": 1496
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:12.364Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:19.596Z",
       "detailError": {
-        "at": "2026-10-30T08:21:12.364Z",
+        "at": "2026-10-31T07:47:19.596Z",
         "message": "No usable official description reference"
       }
     },
@@ -310112,7 +310112,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:30.812Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "放大照片和图像",
@@ -310128,9 +310128,9 @@
           "total_tokens": 1657
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:14.843Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:21.834Z",
       "detailError": {
-        "at": "2026-10-30T08:21:14.843Z",
+        "at": "2026-10-31T07:47:21.834Z",
         "message": "No usable official description reference"
       }
     },
@@ -310180,7 +310180,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:32.488Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "品牌、标志和字体。",
@@ -310196,9 +310196,9 @@
           "total_tokens": 1901
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:17.321Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:24.021Z",
       "detailError": {
-        "at": "2026-10-30T08:21:17.321Z",
+        "at": "2026-10-31T07:47:24.021Z",
         "message": "No usable official description reference"
       }
     },
@@ -310248,7 +310248,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:34.295Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "打造你想象中的任何节目",
@@ -310264,9 +310264,9 @@
           "total_tokens": 1686
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:19.816Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:26.815Z",
       "detailError": {
-        "at": "2026-10-30T08:21:19.816Z",
+        "at": "2026-10-31T07:47:26.815Z",
         "message": "No usable official description reference"
       }
     },
@@ -310316,7 +310316,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:36.064Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "融入视频趋势",
@@ -310332,9 +310332,9 @@
           "total_tokens": 1756
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:22.366Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:29.453Z",
       "detailError": {
-        "at": "2026-10-30T08:21:22.366Z",
+        "at": "2026-10-31T07:47:29.453Z",
         "message": "No usable official description reference"
       }
     },
@@ -310379,7 +310379,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:37.758Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "创建和阅读乐谱",
@@ -310395,9 +310395,9 @@
           "total_tokens": 1783
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:24.802Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:31.561Z",
       "detailError": {
-        "at": "2026-10-30T08:21:24.802Z",
+        "at": "2026-10-31T07:47:31.561Z",
         "message": "No usable official description reference"
       }
     },
@@ -310447,7 +310447,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:39.472Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "查找并整理您的资产",
@@ -310463,9 +310463,9 @@
           "total_tokens": 1613
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:27.269Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:34.279Z",
       "detailError": {
-        "at": "2026-10-30T08:21:27.269Z",
+        "at": "2026-10-31T07:47:34.279Z",
         "message": "No usable official description reference"
       }
     },
@@ -310515,7 +310515,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:41.226Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "创建社交媒体图形",
@@ -310531,9 +310531,9 @@
           "total_tokens": 2259
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:29.751Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:36.330Z",
       "detailError": {
-        "at": "2026-10-30T08:21:29.751Z",
+        "at": "2026-10-31T07:47:36.330Z",
         "message": "No usable official description reference"
       }
     },
@@ -310583,7 +310583,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:42.951Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "AI代理的实时数据",
@@ -310599,9 +310599,9 @@
           "total_tokens": 1460
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:32.290Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:38.552Z",
       "detailError": {
-        "at": "2026-10-30T08:21:32.290Z",
+        "at": "2026-10-31T07:47:38.552Z",
         "message": "No usable official description reference"
       }
     },
@@ -310705,7 +310705,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:46.457Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "公共状态与架构信息",
@@ -310721,9 +310721,9 @@
           "total_tokens": 1686
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:34.775Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:40.679Z",
       "detailError": {
-        "at": "2026-10-30T08:21:34.775Z",
+        "at": "2026-10-31T07:47:40.679Z",
         "message": "No usable official description reference"
       }
     },
@@ -310773,7 +310773,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:48.149Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "审查外部安全性",
@@ -310789,9 +310789,9 @@
           "total_tokens": 1505
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:37.284Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:42.772Z",
       "detailError": {
-        "at": "2026-10-30T08:21:37.284Z",
+        "at": "2026-10-31T07:47:42.772Z",
         "message": "No usable official description reference"
       }
     },
@@ -310836,7 +310836,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:49.876Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "探索Hugging Face",
@@ -310852,9 +310852,9 @@
           "total_tokens": 1729
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:39.846Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:44.897Z",
       "detailError": {
-        "at": "2026-10-30T08:21:39.846Z",
+        "at": "2026-10-31T07:47:44.897Z",
         "message": "No usable official description reference"
       }
     },
@@ -310904,7 +310904,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:51.673Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "通过Sinch文档与技能构建",
@@ -310920,9 +310920,9 @@
           "total_tokens": 1851
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:42.406Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:47.107Z",
       "detailError": {
-        "at": "2026-10-30T08:21:42.406Z",
+        "at": "2026-10-31T07:47:47.107Z",
         "message": "No usable official description reference"
       }
     },
@@ -311036,7 +311036,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:55.064Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "AI PCB设计与布局",
@@ -311052,9 +311052,9 @@
           "total_tokens": 1942
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:44.873Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:49.245Z",
       "detailError": {
-        "at": "2026-10-30T08:21:44.873Z",
+        "at": "2026-10-31T07:47:49.245Z",
         "message": "No usable official description reference"
       }
     },
@@ -311104,7 +311104,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:50:56.918Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "查找MCP服务器和技能",
@@ -311120,9 +311120,9 @@
           "total_tokens": 2066
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:47.458Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:51.367Z",
       "detailError": {
-        "at": "2026-10-30T08:21:47.458Z",
+        "at": "2026-10-31T07:47:51.367Z",
         "message": "No usable official description reference"
       }
     },
@@ -311236,7 +311236,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:00.351Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "为Capacitor应用提供OTA更新",
@@ -311253,9 +311253,9 @@
         }
       },
       "lastMissingAt": "2026-10-23T03:54:39.485Z",
-      "detailNextAttemptAt": "2026-10-30T09:21:49.926Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:53.585Z",
       "detailError": {
-        "at": "2026-10-30T08:21:49.926Z",
+        "at": "2026-10-31T07:47:53.585Z",
         "message": "No usable official description reference"
       }
     },
@@ -311369,7 +311369,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:03.798Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "在本地项目中协作",
@@ -311386,9 +311386,9 @@
         }
       },
       "lastMissingAt": "2026-10-23T03:54:39.485Z",
-      "detailNextAttemptAt": "2026-10-30T09:21:52.401Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:55.664Z",
       "detailError": {
-        "at": "2026-10-30T08:21:52.401Z",
+        "at": "2026-10-31T07:47:55.664Z",
         "message": "No usable official description reference"
       }
     },
@@ -311433,7 +311433,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:05.504Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "分析Google搜索控制台",
@@ -311449,9 +311449,9 @@
           "total_tokens": 3531
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:54.899Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:57.727Z",
       "detailError": {
-        "at": "2026-10-30T08:21:54.899Z",
+        "at": "2026-10-31T07:47:57.727Z",
         "message": "No usable official description reference"
       }
     },
@@ -311496,7 +311496,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:07.321Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "管理Google Ads广告活动",
@@ -311512,9 +311512,9 @@
           "total_tokens": 1968
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:21:57.389Z",
+      "detailNextAttemptAt": "2026-10-31T09:47:59.827Z",
       "detailError": {
-        "at": "2026-10-30T08:21:57.389Z",
+        "at": "2026-10-31T07:47:59.827Z",
         "message": "No usable official description reference"
       }
     },
@@ -311564,7 +311564,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:09.095Z",
-      "detailFailures": 3,
+      "detailFailures": 4,
       "translationAttemptRun": "40448357028:1",
       "translation": {
         "summary": "创建品牌图像/视频广告",
@@ -311580,9 +311580,9 @@
           "total_tokens": 1295
         }
       },
-      "detailNextAttemptAt": "2026-10-30T12:21:59.865Z",
+      "detailNextAttemptAt": "2026-10-31T15:48:02.051Z",
       "detailError": {
-        "at": "2026-10-30T08:21:59.865Z",
+        "at": "2026-10-31T07:48:02.051Z",
         "message": "No usable official description reference"
       }
     },
@@ -311627,7 +311627,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:10.832Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "研究商业创意",
@@ -311643,9 +311643,9 @@
           "total_tokens": 1725
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:02.436Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:04.736Z",
       "detailError": {
-        "at": "2026-10-30T08:22:02.436Z",
+        "at": "2026-10-31T07:48:04.736Z",
         "message": "No usable official description reference"
       }
     },
@@ -311695,7 +311695,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:12.567Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "地球物理勘探分析",
@@ -311711,9 +311711,9 @@
           "total_tokens": 1997
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:04.994Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:06.846Z",
       "detailError": {
-        "at": "2026-10-30T08:22:04.994Z",
+        "at": "2026-10-31T07:48:06.846Z",
         "message": "No usable official description reference"
       }
     },
@@ -311763,7 +311763,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:14.239Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "为您的品牌提供AI可见性",
@@ -311779,9 +311779,9 @@
           "total_tokens": 1824
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:07.516Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:09.119Z",
       "detailError": {
-        "at": "2026-10-30T08:22:07.516Z",
+        "at": "2026-10-31T07:48:09.119Z",
         "message": "No usable official description reference"
       }
     },
@@ -311831,7 +311831,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:16.358Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "查询数据，构建仪表盘",
@@ -311847,9 +311847,9 @@
           "total_tokens": 2104
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:10.064Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:11.758Z",
       "detailError": {
-        "at": "2026-10-30T08:22:10.064Z",
+        "at": "2026-10-31T07:48:11.758Z",
         "message": "No usable official description reference"
       }
     },
@@ -311899,7 +311899,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:18.137Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "在上下文中分析编码模型速度",
@@ -311915,9 +311915,9 @@
           "total_tokens": 1578
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:12.846Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:13.995Z",
       "detailError": {
-        "at": "2026-10-30T08:22:12.846Z",
+        "at": "2026-10-31T07:48:13.995Z",
         "message": "No usable official description reference"
       }
     },
@@ -311967,7 +311967,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:19.894Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "受众洞察与营销活动",
@@ -311983,9 +311983,9 @@
           "total_tokens": 1804
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:15.331Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:16.843Z",
       "detailError": {
-        "at": "2026-10-30T08:22:15.331Z",
+        "at": "2026-10-31T07:48:16.843Z",
         "message": "No usable official description reference"
       }
     },
@@ -312035,7 +312035,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:21.579Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "提出问题，获取答案，在数据上采取行动。",
@@ -312051,9 +312051,9 @@
           "total_tokens": 1501
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:17.935Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:19.005Z",
       "detailError": {
-        "at": "2026-10-30T08:22:17.935Z",
+        "at": "2026-10-31T07:48:19.005Z",
         "message": "No usable official description reference"
       }
     },
@@ -312103,7 +312103,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:23.306Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "宝可梦卡牌价格与商品信息",
@@ -312119,9 +312119,9 @@
           "total_tokens": 2213
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:20.346Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:21.196Z",
       "detailError": {
-        "at": "2026-10-30T08:22:20.346Z",
+        "at": "2026-10-31T07:48:21.196Z",
         "message": "No usable official description reference"
       }
     },
@@ -312171,7 +312171,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:25.078Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "品牌化客户PDF报告",
@@ -312187,9 +312187,9 @@
           "total_tokens": 1766
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:22.835Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:23.433Z",
       "detailError": {
-        "at": "2026-10-30T08:22:22.835Z",
+        "at": "2026-10-31T07:48:23.433Z",
         "message": "No usable official description reference"
       }
     },
@@ -312239,7 +312239,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:26.903Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "探索新加坡统计数据",
@@ -312255,9 +312255,9 @@
           "total_tokens": 1348
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:25.963Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:25.613Z",
       "detailError": {
-        "at": "2026-10-30T08:22:25.963Z",
+        "at": "2026-10-31T07:48:25.613Z",
         "message": "No usable official description reference"
       }
     },
@@ -312307,7 +312307,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:28.590Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "HYROX预测与配速",
@@ -312323,9 +312323,9 @@
           "total_tokens": 1689
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:28.394Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:27.761Z",
       "detailError": {
-        "at": "2026-10-30T08:22:28.394Z",
+        "at": "2026-10-31T07:48:27.761Z",
         "message": "No usable official description reference"
       }
     },
@@ -312370,7 +312370,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:30.345Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "真实 eBay 卖出价格",
@@ -312386,9 +312386,9 @@
           "total_tokens": 1848
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:31.129Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:30.042Z",
       "detailError": {
-        "at": "2026-10-30T08:22:31.129Z",
+        "at": "2026-10-31T07:48:30.042Z",
         "message": "No usable official description reference"
       }
     },
@@ -312438,7 +312438,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:32.081Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "家庭邮箱，源自您的聊天",
@@ -312454,9 +312454,9 @@
           "total_tokens": 2261
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:34.038Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:32.167Z",
       "detailError": {
-        "at": "2026-10-30T08:22:34.038Z",
+        "at": "2026-10-31T07:48:32.167Z",
         "message": "No usable official description reference"
       }
     },
@@ -312506,7 +312506,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:33.806Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "让您的邮件远离垃圾邮件",
@@ -312522,9 +312522,9 @@
           "total_tokens": 2144
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:36.555Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:34.262Z",
       "detailError": {
-        "at": "2026-10-30T08:22:36.555Z",
+        "at": "2026-10-31T07:48:34.262Z",
         "message": "No usable official description reference"
       }
     },
@@ -312574,7 +312574,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:35.620Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "大学课表与GPA",
@@ -312590,9 +312590,9 @@
           "total_tokens": 1723
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:39.047Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:36.299Z",
       "detailError": {
-        "at": "2026-10-30T08:22:39.047Z",
+        "at": "2026-10-31T07:48:36.299Z",
         "message": "No usable official description reference"
       }
     },
@@ -312637,7 +312637,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:37.347Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "创业者研究枢纽",
@@ -312653,9 +312653,9 @@
           "total_tokens": 1572
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:41.532Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:38.483Z",
       "detailError": {
-        "at": "2026-10-30T08:22:41.532Z",
+        "at": "2026-10-31T07:48:38.483Z",
         "message": "No usable official description reference"
       }
     },
@@ -312705,7 +312705,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:39.198Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "通过AI提升你的技能",
@@ -312721,9 +312721,9 @@
           "total_tokens": 1912
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:43.980Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:40.614Z",
       "detailError": {
-        "at": "2026-10-30T08:22:43.980Z",
+        "at": "2026-10-31T07:48:40.614Z",
         "message": "No usable official description reference"
       }
     },
@@ -312773,7 +312773,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:40.873Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "肽浓度计算",
@@ -312789,9 +312789,9 @@
           "total_tokens": 1709
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:47.073Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:43.327Z",
       "detailError": {
-        "at": "2026-10-30T08:22:47.073Z",
+        "at": "2026-10-31T07:48:43.327Z",
         "message": "No usable official description reference"
       }
     },
@@ -312841,7 +312841,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:42.703Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "学习AI电影制作与视频",
@@ -312857,9 +312857,9 @@
           "total_tokens": 1570
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:49.531Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:45.427Z",
       "detailError": {
-        "at": "2026-10-30T08:22:49.531Z",
+        "at": "2026-10-31T07:48:45.427Z",
         "message": "No usable official description reference"
       }
     },
@@ -312904,7 +312904,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:44.451Z",
-      "detailFailures": 4,
+      "detailFailures": 5,
       "translationAttemptRun": "40373775641:1",
       "translation": {
         "summary": "澳大利亚课程与移民",
@@ -312920,9 +312920,9 @@
           "total_tokens": 1402
         }
       },
-      "detailNextAttemptAt": "2026-10-30T16:22:52.065Z",
+      "detailNextAttemptAt": "2026-10-31T23:48:47.580Z",
       "detailError": {
-        "at": "2026-10-30T08:22:52.065Z",
+        "at": "2026-10-31T07:48:47.580Z",
         "message": "No usable official description reference"
       }
     },
@@ -312972,7 +312972,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:46.153Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "搜索并阅读FPF图书馆",
@@ -312988,9 +312988,9 @@
           "total_tokens": 1847
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:54.603Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:49.616Z",
       "detailError": {
-        "at": "2026-10-30T08:22:54.603Z",
+        "at": "2026-10-31T07:48:49.616Z",
         "message": "No usable official description reference"
       }
     },
@@ -313035,7 +313035,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:47.899Z",
-      "detailFailures": 4,
+      "detailFailures": 5,
       "translationAttemptRun": "40670327334:1",
       "translation": {
         "summary": "带页码的引用",
@@ -313051,9 +313051,9 @@
           "total_tokens": 1733
         }
       },
-      "detailNextAttemptAt": "2026-10-30T16:22:57.084Z",
+      "detailNextAttemptAt": "2026-10-31T23:48:51.810Z",
       "detailError": {
-        "at": "2026-10-30T08:22:57.084Z",
+        "at": "2026-10-31T07:48:51.810Z",
         "message": "No usable official description reference"
       }
     },
@@ -313103,7 +313103,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:49.687Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39718789524:1",
       "translation": {
         "summary": "寻找在线音乐老师",
@@ -313119,9 +313119,9 @@
           "total_tokens": 1538
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:22:59.650Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:54.089Z",
       "detailError": {
-        "at": "2026-10-30T08:22:59.650Z",
+        "at": "2026-10-31T07:48:54.089Z",
         "message": "No usable official description reference"
       }
     },
@@ -313171,7 +313171,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:51.603Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "场景、独白与练习",
@@ -313187,9 +313187,9 @@
           "total_tokens": 1834
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:23:02.113Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:56.221Z",
       "detailError": {
-        "at": "2026-10-30T08:23:02.113Z",
+        "at": "2026-10-31T07:48:56.221Z",
         "message": "No usable official description reference"
       }
     },
@@ -313239,7 +313239,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:53.523Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39813445048:1",
       "translation": {
         "summary": "与你一同编辑LaTeX论文",
@@ -313255,9 +313255,9 @@
           "total_tokens": 2083
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:23:04.579Z",
+      "detailNextAttemptAt": "2026-10-31T09:48:58.321Z",
       "detailError": {
-        "at": "2026-10-30T08:23:04.579Z",
+        "at": "2026-10-31T07:48:58.321Z",
         "message": "No usable official description reference"
       }
     },
@@ -313307,7 +313307,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-22T03:51:55.334Z",
-      "detailFailures": 1,
+      "detailFailures": 2,
       "translationAttemptRun": "39752435529:1",
       "translation": {
         "summary": "真实历年试题，已批改",
@@ -313323,9 +313323,9 @@
           "total_tokens": 1838
         }
       },
-      "detailNextAttemptAt": "2026-10-30T09:23:07.177Z",
+      "detailNextAttemptAt": "2026-10-31T09:49:00.620Z",
       "detailError": {
-        "at": "2026-10-30T08:23:07.177Z",
+        "at": "2026-10-31T07:49:00.620Z",
         "message": "No usable official description reference"
       }
     },
@@ -443277,16 +443277,16 @@
     "runId": "41169404653",
     "runAttempt": "1",
     "startedAt": "2026-10-31T04:39:10.682Z",
-    "updatedAt": "2026-10-31T07:43:56.774Z",
+    "updatedAt": "2026-10-31T07:49:00.694Z",
     "mode": "incremental",
-    "detailRequests": 4784,
+    "detailRequests": 4919,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
     "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 4784,
+    "errors": 4919,
     "stats": {
       "total": 5601,
       "details": 4775,
