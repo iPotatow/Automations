@@ -276338,7 +276338,7 @@
       "detailFailures": 3,
       "translationAttemptRun": "41440299275:1",
       "translationError": {
-        "at": "2026-11-02T06:40:44.253Z",
+        "at": "2026-11-02T12:00:01.008Z",
         "message": "Workers AI translation failed: Translation lost protected value 300",
         "transient": true
       },
@@ -299655,9 +299655,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-19T03:49:51.199Z",
       "detailFailures": 7,
-      "translationAttemptRun": "41391393464:1",
+      "translationAttemptRun": "41440299275:1",
       "translationError": {
-        "at": "2026-11-02T06:41:37.371Z",
+        "at": "2026-11-02T12:00:43.891Z",
         "message": "Workers AI translation failed: Translation lost protected value 320",
         "transient": true
       },
@@ -301166,7 +301166,7 @@
       "detailFailures": 6,
       "translationAttemptRun": "41440299275:1",
       "translationError": {
-        "at": "2026-11-02T06:40:47.499Z",
+        "at": "2026-11-02T12:00:05.894Z",
         "message": "Workers AI translation failed: Translation missing or mistranslating cost",
         "transient": true
       },
@@ -332138,9 +332138,9 @@
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:01:58.897Z",
       "detailFailures": 3,
-      "translationAttemptRun": "41391393464:1",
+      "translationAttemptRun": "41440299275:1",
       "translationError": {
-        "at": "2026-11-02T06:40:54.526Z",
+        "at": "2026-11-02T12:00:44.709Z",
         "message": "Workers AI translation failed: Translation lost protected value 1",
         "transient": true
       },
@@ -449144,16 +449144,16 @@
     "runId": "41440299275",
     "runAttempt": "1",
     "startedAt": "2026-11-02T11:54:33.207Z",
-    "updatedAt": "2026-11-02T11:59:33.968Z",
+    "updatedAt": "2026-11-02T12:00:45.541Z",
     "mode": "translate",
     "detailRequests": 0,
-    "translationRequests": 35,
-    "translationAttempts": 13,
+    "translationRequests": 45,
+    "translationAttempts": 15,
     "translationLimit": 50,
     "aiConfigured": true,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 11,
+    "errors": 15,
     "stats": {
       "total": 5597,
       "details": 4748,
