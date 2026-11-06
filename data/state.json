@@ -28339,7 +28339,7 @@
       ],
       "status": "active",
       "missingCount": 0,
-      "detailDue": false,
+      "detailDue": true,
       "seeded": true,
       "legacySummary": "巴西法律研究",
       "legacySummaryOriginal": "Brazilian legal research",
@@ -28383,8 +28383,13 @@
         "reviewedAt": "2026-11-05T19:18:31.330Z",
         "translatedAt": "2026-11-05T19:18:31.330Z"
       },
-      "detailFailures": 0,
-      "lastMissingAt": "2026-10-27T04:14:00.356Z"
+      "detailFailures": 1,
+      "lastMissingAt": "2026-10-27T04:14:00.356Z",
+      "detailNextAttemptAt": "2026-11-06T07:00:39.656Z",
+      "detailError": {
+        "at": "2026-11-06T06:00:39.656Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_69ea134ec95081919ca504910c93915e": {
       "id": "plugin_asdk_app_69ea134ec95081919ca504910c93915e",
@@ -38137,11 +38142,11 @@
           "total_tokens": 1657
         }
       },
-      "detailFailures": 3,
+      "detailFailures": 4,
       "lastMissingAt": "2026-10-13T06:01:17.120Z",
-      "detailNextAttemptAt": "2026-11-05T10:53:04.411Z",
+      "detailNextAttemptAt": "2026-11-06T14:00:27.251Z",
       "detailError": {
-        "at": "2026-11-05T06:53:04.411Z",
+        "at": "2026-11-06T06:00:27.251Z",
         "message": "No usable official description reference"
       }
     },
@@ -101998,10 +102003,10 @@
         "reviewedAt": "2026-11-05T19:18:31.355Z",
         "translatedAt": "2026-11-05T19:18:31.355Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:02:47.140Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:00:42.352Z",
       "detailError": {
-        "at": "2026-11-03T08:02:47.140Z",
+        "at": "2026-11-06T06:00:42.352Z",
         "message": "No usable official description reference"
       },
       "lastMissingAt": "2026-11-05T05:45:02.952Z"
@@ -124299,10 +124304,10 @@
         "reviewedAt": "2026-11-05T19:18:31.362Z",
         "translatedAt": "2026-11-05T19:18:31.362Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:15:28.489Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:00:44.956Z",
       "detailError": {
-        "at": "2026-11-03T08:15:28.489Z",
+        "at": "2026-11-06T06:00:44.956Z",
         "message": "No usable official description reference"
       }
     },
@@ -124361,10 +124366,10 @@
         "reviewedAt": "2026-11-05T19:18:31.332Z",
         "translatedAt": "2026-11-05T19:18:31.332Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:15:31.553Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:00:47.664Z",
       "detailError": {
-        "at": "2026-11-03T08:15:31.553Z",
+        "at": "2026-11-06T06:00:47.664Z",
         "message": "No usable official description reference"
       }
     },
@@ -124427,10 +124432,10 @@
           "total_tokens": 1661
         }
       },
-      "detailFailures": 8,
-      "detailNextAttemptAt": "2026-11-04T08:15:34.201Z",
+      "detailFailures": 9,
+      "detailNextAttemptAt": "2026-11-07T06:00:50.332Z",
       "detailError": {
-        "at": "2026-11-03T08:15:34.201Z",
+        "at": "2026-11-06T06:00:50.332Z",
         "message": "No usable official description reference"
       }
     },
@@ -124489,10 +124494,10 @@
         "reviewedAt": "2026-11-05T19:18:31.235Z",
         "translatedAt": "2026-11-05T19:18:31.235Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:15:36.876Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:00:53.382Z",
       "detailError": {
-        "at": "2026-11-03T08:15:36.876Z",
+        "at": "2026-11-06T06:00:53.382Z",
         "message": "No usable official description reference"
       }
     },
@@ -124551,10 +124556,10 @@
         "reviewedAt": "2026-11-05T19:18:31.235Z",
         "translatedAt": "2026-11-05T19:18:31.235Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:15:39.435Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:00:56.634Z",
       "detailError": {
-        "at": "2026-11-03T08:15:39.435Z",
+        "at": "2026-11-06T06:00:56.634Z",
         "message": "No usable official description reference"
       }
     },
@@ -124613,10 +124618,10 @@
         "reviewedAt": "2026-11-05T19:18:31.206Z",
         "translatedAt": "2026-11-05T19:18:31.206Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:15:42.608Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:00:59.313Z",
       "detailError": {
-        "at": "2026-11-03T08:15:42.608Z",
+        "at": "2026-11-06T06:00:59.313Z",
         "message": "No usable official description reference"
       }
     },
@@ -124679,10 +124684,10 @@
           "total_tokens": 2001
         }
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:15:45.675Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:02.348Z",
       "detailError": {
-        "at": "2026-11-03T08:15:45.675Z",
+        "at": "2026-11-06T06:01:02.348Z",
         "message": "No usable official description reference"
       }
     },
@@ -124745,10 +124750,10 @@
           "total_tokens": 1963
         }
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:15:48.199Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:05.136Z",
       "detailError": {
-        "at": "2026-11-03T08:15:48.199Z",
+        "at": "2026-11-06T06:01:05.136Z",
         "message": "No usable official description reference"
       }
     },
@@ -124807,10 +124812,10 @@
         "reviewedAt": "2026-11-05T19:18:31.364Z",
         "translatedAt": "2026-11-05T19:18:31.364Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:15:50.818Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:08.409Z",
       "detailError": {
-        "at": "2026-11-03T08:15:50.818Z",
+        "at": "2026-11-06T06:01:08.409Z",
         "message": "No usable official description reference"
       }
     },
@@ -124869,10 +124874,10 @@
         "reviewedAt": "2026-11-05T19:18:31.270Z",
         "translatedAt": "2026-11-05T19:18:31.270Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:15:54.382Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:11.876Z",
       "detailError": {
-        "at": "2026-11-03T08:15:54.382Z",
+        "at": "2026-11-06T06:01:11.876Z",
         "message": "No usable official description reference"
       },
       "lastMissingAt": "2026-11-06T05:42:37.636Z"
@@ -124932,10 +124937,10 @@
         "reviewedAt": "2026-11-05T19:18:31.305Z",
         "translatedAt": "2026-11-05T19:18:31.305Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:15:56.950Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:14.599Z",
       "detailError": {
-        "at": "2026-11-03T08:15:56.950Z",
+        "at": "2026-11-06T06:01:14.599Z",
         "message": "No usable official description reference"
       }
     },
@@ -124994,10 +124999,10 @@
         "reviewedAt": "2026-11-05T19:18:31.271Z",
         "translatedAt": "2026-11-05T19:18:31.271Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:15:59.994Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:17.809Z",
       "detailError": {
-        "at": "2026-11-03T08:15:59.994Z",
+        "at": "2026-11-06T06:01:17.809Z",
         "message": "No usable official description reference"
       }
     },
@@ -125056,10 +125061,10 @@
         "reviewedAt": "2026-11-05T19:18:31.268Z",
         "translatedAt": "2026-11-05T19:18:31.268Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:03.031Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:20.517Z",
       "detailError": {
-        "at": "2026-11-03T08:16:03.031Z",
+        "at": "2026-11-06T06:01:20.517Z",
         "message": "No usable official description reference"
       }
     },
@@ -125118,10 +125123,10 @@
         "reviewedAt": "2026-11-05T19:18:31.242Z",
         "translatedAt": "2026-11-05T19:18:31.242Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:05.549Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:23.719Z",
       "detailError": {
-        "at": "2026-11-03T08:16:05.549Z",
+        "at": "2026-11-06T06:01:23.719Z",
         "message": "No usable official description reference"
       }
     },
@@ -125180,10 +125185,10 @@
         "reviewedAt": "2026-11-05T19:18:31.226Z",
         "translatedAt": "2026-11-05T19:18:31.226Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:08.628Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:26.454Z",
       "detailError": {
-        "at": "2026-11-03T08:16:08.628Z",
+        "at": "2026-11-06T06:01:26.454Z",
         "message": "No usable official description reference"
       }
     },
@@ -125242,10 +125247,10 @@
         "reviewedAt": "2026-11-05T19:18:31.152Z",
         "translatedAt": "2026-11-05T19:18:31.152Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:11.664Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:29.175Z",
       "detailError": {
-        "at": "2026-11-03T08:16:11.664Z",
+        "at": "2026-11-06T06:01:29.175Z",
         "message": "No usable official description reference"
       }
     },
@@ -125304,10 +125309,10 @@
         "reviewedAt": "2026-11-05T19:18:31.420Z",
         "translatedAt": "2026-11-05T19:18:31.420Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:14.368Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:31.863Z",
       "detailError": {
-        "at": "2026-11-03T08:16:14.368Z",
+        "at": "2026-11-06T06:01:31.863Z",
         "message": "No usable official description reference"
       }
     },
@@ -125366,10 +125371,10 @@
         "reviewedAt": "2026-11-05T19:18:31.251Z",
         "translatedAt": "2026-11-05T19:18:31.251Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:17.059Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:34.798Z",
       "detailError": {
-        "at": "2026-11-03T08:16:17.059Z",
+        "at": "2026-11-06T06:01:34.798Z",
         "message": "No usable official description reference"
       }
     },
@@ -125428,10 +125433,10 @@
         "reviewedAt": "2026-11-05T19:18:31.184Z",
         "translatedAt": "2026-11-05T19:18:31.184Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:19.566Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:37.418Z",
       "detailError": {
-        "at": "2026-11-03T08:16:19.566Z",
+        "at": "2026-11-06T06:01:37.418Z",
         "message": "No usable official description reference"
       }
     },
@@ -125490,10 +125495,10 @@
         "reviewedAt": "2026-11-05T19:18:31.232Z",
         "translatedAt": "2026-11-05T19:18:31.232Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:22.156Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:40.616Z",
       "detailError": {
-        "at": "2026-11-03T08:16:22.156Z",
+        "at": "2026-11-06T06:01:40.616Z",
         "message": "No usable official description reference"
       }
     },
@@ -125552,10 +125557,10 @@
         "reviewedAt": "2026-11-05T19:18:31.159Z",
         "translatedAt": "2026-11-05T19:18:31.159Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:24.744Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:43.628Z",
       "detailError": {
-        "at": "2026-11-03T08:16:24.744Z",
+        "at": "2026-11-06T06:01:43.628Z",
         "message": "No usable official description reference"
       }
     },
@@ -125614,10 +125619,10 @@
         "reviewedAt": "2026-11-05T19:18:31.230Z",
         "translatedAt": "2026-11-05T19:18:31.230Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:27.405Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:46.996Z",
       "detailError": {
-        "at": "2026-11-03T08:16:27.405Z",
+        "at": "2026-11-06T06:01:46.996Z",
         "message": "No usable official description reference"
       }
     },
@@ -125676,10 +125681,10 @@
         "reviewedAt": "2026-11-05T19:18:31.273Z",
         "translatedAt": "2026-11-05T19:18:31.273Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:30.641Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:49.701Z",
       "detailError": {
-        "at": "2026-11-03T08:16:30.641Z",
+        "at": "2026-11-06T06:01:49.701Z",
         "message": "No usable official description reference"
       }
     },
@@ -125738,10 +125743,10 @@
         "reviewedAt": "2026-11-05T19:18:31.268Z",
         "translatedAt": "2026-11-05T19:18:31.268Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:33.324Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:52.493Z",
       "detailError": {
-        "at": "2026-11-03T08:16:33.324Z",
+        "at": "2026-11-06T06:01:52.493Z",
         "message": "No usable official description reference"
       }
     },
@@ -125800,10 +125805,10 @@
         "reviewedAt": "2026-11-05T19:18:31.372Z",
         "translatedAt": "2026-11-05T19:18:31.372Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:36.429Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:55.296Z",
       "detailError": {
-        "at": "2026-11-03T08:16:36.429Z",
+        "at": "2026-11-06T06:01:55.296Z",
         "message": "No usable official description reference"
       }
     },
@@ -125862,10 +125867,10 @@
         "reviewedAt": "2026-11-05T19:18:31.370Z",
         "translatedAt": "2026-11-05T19:18:31.370Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:38.976Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:01:58.497Z",
       "detailError": {
-        "at": "2026-11-03T08:16:38.976Z",
+        "at": "2026-11-06T06:01:58.497Z",
         "message": "No usable official description reference"
       }
     },
@@ -125925,10 +125930,10 @@
         "reviewedAt": "2026-11-05T19:18:31.433Z",
         "translatedAt": "2026-11-05T19:18:31.433Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:41.564Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:02:01.225Z",
       "detailError": {
-        "at": "2026-11-03T08:16:41.564Z",
+        "at": "2026-11-06T06:02:01.225Z",
         "message": "No usable official description reference"
       }
     },
@@ -125987,10 +125992,10 @@
         "reviewedAt": "2026-11-05T19:18:31.389Z",
         "translatedAt": "2026-11-05T19:18:31.389Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:44.121Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:02:03.956Z",
       "detailError": {
-        "at": "2026-11-03T08:16:44.121Z",
+        "at": "2026-11-06T06:02:03.956Z",
         "message": "No usable official description reference"
       }
     },
@@ -126111,10 +126116,10 @@
           "total_tokens": 2017
         }
       },
-      "detailFailures": 8,
-      "detailNextAttemptAt": "2026-11-04T08:16:47.324Z",
+      "detailFailures": 9,
+      "detailNextAttemptAt": "2026-11-07T06:02:07.282Z",
       "detailError": {
-        "at": "2026-11-03T08:16:47.324Z",
+        "at": "2026-11-06T06:02:07.282Z",
         "message": "No usable official description reference"
       }
     },
@@ -126173,10 +126178,10 @@
         "reviewedAt": "2026-11-05T19:18:31.225Z",
         "translatedAt": "2026-11-05T19:18:31.225Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:50.424Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:02:10.016Z",
       "detailError": {
-        "at": "2026-11-03T08:16:50.424Z",
+        "at": "2026-11-06T06:02:10.016Z",
         "message": "No usable official description reference"
       }
     },
@@ -126235,10 +126240,10 @@
         "reviewedAt": "2026-11-05T19:18:31.421Z",
         "translatedAt": "2026-11-05T19:18:31.421Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:53.643Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:02:13.402Z",
       "detailError": {
-        "at": "2026-11-03T08:16:53.643Z",
+        "at": "2026-11-06T06:02:13.402Z",
         "message": "No usable official description reference"
       }
     },
@@ -126297,10 +126302,10 @@
         "reviewedAt": "2026-11-05T19:18:31.357Z",
         "translatedAt": "2026-11-05T19:18:31.357Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:56.729Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:02:16.242Z",
       "detailError": {
-        "at": "2026-11-03T08:16:56.729Z",
+        "at": "2026-11-06T06:02:16.242Z",
         "message": "No usable official description reference"
       }
     },
@@ -126359,10 +126364,10 @@
         "reviewedAt": "2026-11-05T19:18:31.433Z",
         "translatedAt": "2026-11-05T19:18:31.433Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:16:59.959Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:02:19.326Z",
       "detailError": {
-        "at": "2026-11-03T08:16:59.959Z",
+        "at": "2026-11-06T06:02:19.326Z",
         "message": "No usable official description reference"
       }
     },
@@ -126421,10 +126426,10 @@
         "reviewedAt": "2026-11-05T19:18:31.264Z",
         "translatedAt": "2026-11-05T19:18:31.264Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:17:02.652Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:02:22.498Z",
       "detailError": {
-        "at": "2026-11-03T08:17:02.652Z",
+        "at": "2026-11-06T06:02:22.498Z",
         "message": "No usable official description reference"
       }
     },
@@ -126483,10 +126488,10 @@
         "reviewedAt": "2026-11-05T19:18:31.327Z",
         "translatedAt": "2026-11-05T19:18:31.327Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:17:05.255Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:02:25.154Z",
       "detailError": {
-        "at": "2026-11-03T08:17:05.255Z",
+        "at": "2026-11-06T06:02:25.154Z",
         "message": "No usable official description reference"
       }
     },
@@ -126545,10 +126550,10 @@
         "reviewedAt": "2026-11-05T19:18:31.314Z",
         "translatedAt": "2026-11-05T19:18:31.314Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:17:07.839Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:02:28.894Z",
       "detailError": {
-        "at": "2026-11-03T08:17:07.839Z",
+        "at": "2026-11-06T06:02:28.894Z",
         "message": "No usable official description reference"
       }
     },
@@ -126607,10 +126612,10 @@
         "reviewedAt": "2026-11-05T19:18:31.167Z",
         "translatedAt": "2026-11-05T19:18:31.167Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:17:10.937Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:02:32.082Z",
       "detailError": {
-        "at": "2026-11-03T08:17:10.937Z",
+        "at": "2026-11-06T06:02:32.082Z",
         "message": "No usable official description reference"
       }
     },
@@ -126669,10 +126674,10 @@
         "reviewedAt": "2026-11-05T19:18:31.183Z",
         "translatedAt": "2026-11-05T19:18:31.183Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:17:13.541Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:02:34.772Z",
       "detailError": {
-        "at": "2026-11-03T08:17:13.541Z",
+        "at": "2026-11-06T06:02:34.772Z",
         "message": "No usable official description reference"
       }
     },
@@ -126731,10 +126736,10 @@
         "reviewedAt": "2026-11-05T19:18:31.219Z",
         "translatedAt": "2026-11-05T19:18:31.219Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:17:16.660Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:02:37.986Z",
       "detailError": {
-        "at": "2026-11-03T08:17:16.660Z",
+        "at": "2026-11-06T06:02:37.986Z",
         "message": "No usable official description reference"
       }
     },
@@ -126793,10 +126798,10 @@
         "reviewedAt": "2026-11-05T19:18:31.333Z",
         "translatedAt": "2026-11-05T19:18:31.333Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:17:19.728Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:02:41.162Z",
       "detailError": {
-        "at": "2026-11-03T08:17:19.728Z",
+        "at": "2026-11-06T06:02:41.162Z",
         "message": "No usable official description reference"
       }
     },
@@ -126855,10 +126860,10 @@
         "reviewedAt": "2026-11-05T19:18:31.329Z",
         "translatedAt": "2026-11-05T19:18:31.329Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:17:22.369Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:02:44.115Z",
       "detailError": {
-        "at": "2026-11-03T08:17:22.369Z",
+        "at": "2026-11-06T06:02:44.115Z",
         "message": "No usable official description reference"
       }
     },
@@ -126917,10 +126922,10 @@
         "reviewedAt": "2026-11-05T19:18:31.317Z",
         "translatedAt": "2026-11-05T19:18:31.317Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:17:25.494Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:02:47.011Z",
       "detailError": {
-        "at": "2026-11-03T08:17:25.494Z",
+        "at": "2026-11-06T06:02:47.011Z",
         "message": "No usable official description reference"
       }
     },
@@ -127047,10 +127052,10 @@
         "reviewedAt": "2026-11-05T19:18:31.178Z",
         "translatedAt": "2026-11-05T19:18:31.178Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:17:28.048Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:02:49.699Z",
       "detailError": {
-        "at": "2026-11-03T08:17:28.048Z",
+        "at": "2026-11-06T06:02:49.699Z",
         "message": "No usable official description reference"
       }
     },
@@ -127115,10 +127120,10 @@
         "reviewedAt": "2026-11-05T19:18:31.407Z",
         "translatedAt": "2026-11-05T19:18:31.407Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:17:30.470Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:02:52.326Z",
       "detailError": {
-        "at": "2026-11-03T08:17:30.470Z",
+        "at": "2026-11-06T06:02:52.326Z",
         "message": "No usable official description reference"
       }
     },
@@ -127178,10 +127183,10 @@
         "reviewedAt": "2026-11-05T19:18:31.329Z",
         "translatedAt": "2026-11-05T19:18:31.329Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:17:33.086Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:02:55.615Z",
       "detailError": {
-        "at": "2026-11-03T08:17:33.086Z",
+        "at": "2026-11-06T06:02:55.615Z",
         "message": "No usable official description reference"
       }
     },
@@ -127241,10 +127246,10 @@
         "reviewedAt": "2026-11-05T19:18:31.432Z",
         "translatedAt": "2026-11-05T19:18:31.432Z"
       },
-      "detailFailures": 7,
-      "detailNextAttemptAt": "2026-11-04T08:17:36.168Z",
+      "detailFailures": 8,
+      "detailNextAttemptAt": "2026-11-07T06:03:00.295Z",
       "detailError": {
-        "at": "2026-11-03T08:17:36.168Z",
+        "at": "2026-11-06T06:03:00.295Z",
         "message": "No usable official description reference"
       }
     },
@@ -183551,11 +183556,11 @@
         "reviewedAt": "2026-11-05T19:18:31.172Z",
         "translatedAt": "2026-11-05T19:18:31.172Z"
       },
-      "detailFailures": 1,
+      "detailFailures": 2,
       "lastMissingAt": "2026-10-16T03:42:44.196Z",
-      "detailNextAttemptAt": "2026-11-05T07:53:35.245Z",
+      "detailNextAttemptAt": "2026-11-06T08:00:30.545Z",
       "detailError": {
-        "at": "2026-11-05T06:53:35.245Z",
+        "at": "2026-11-06T06:00:30.545Z",
         "message": "No usable official description reference"
       }
     },
@@ -273652,7 +273657,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-17T03:41:21.275Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "39041978072:1",
       "translation": {
         "summary": "让人工智能赋能现实世界",
@@ -273669,9 +273674,9 @@
         }
       },
       "lastMissingAt": "2026-10-26T03:51:22.235Z",
-      "detailNextAttemptAt": "2026-11-05T09:06:12.909Z",
+      "detailNextAttemptAt": "2026-11-06T10:00:33.251Z",
       "detailError": {
-        "at": "2026-11-05T07:06:12.909Z",
+        "at": "2026-11-06T06:00:33.251Z",
         "message": "No usable official description reference"
       }
     },
@@ -299233,7 +299238,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-18T03:40:25.631Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "39094279837:1",
       "translation": {
         "summary": "查看并管理财务",
@@ -299250,9 +299255,9 @@
         }
       },
       "lastMissingAt": "2026-10-27T04:14:00.356Z",
-      "detailNextAttemptAt": "2026-11-05T09:07:15.280Z",
+      "detailNextAttemptAt": "2026-11-06T10:00:36.474Z",
       "detailError": {
-        "at": "2026-11-05T07:07:15.280Z",
+        "at": "2026-11-06T06:00:36.474Z",
         "message": "No usable official description reference"
       }
     },
@@ -360102,6 +360107,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:57:59.185Z",
+      "detailError": {
+        "at": "2026-11-06T05:57:59.185Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6add70cec2ec81918f17599650d2bc9e": {
@@ -360117,6 +360129,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:02.180Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:02.180Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6adfe80e75208191be5fb232b079a45c": {
@@ -360132,6 +360151,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:05.464Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:05.464Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ade54f297448191a4b2098af37cc67e": {
@@ -360147,6 +360173,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:08.097Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:08.097Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ade46fddbb48191b3a265cfa2e50df7": {
@@ -360162,6 +360195,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:10.861Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:10.861Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ade250261b881919135651c345c77ff": {
@@ -360177,6 +360217,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:13.582Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:13.582Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6abd6cf6a55c8191bd281de4ffa0fc69": {
@@ -360192,6 +360239,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:16.798Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:16.798Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6adcdd33bba881918ad84bcacbf45668": {
@@ -360207,6 +360261,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:19.610Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:19.610Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad8fa8544808191a3162978c25ec288": {
@@ -360222,6 +360283,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:22.457Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:22.457Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6adac6e43f4481918fceac5ade2df2c6": {
@@ -360237,6 +360305,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:25.656Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:25.656Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6abd954a4e3c8191985245f32d9fd913": {
@@ -360252,6 +360327,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:28.305Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:28.305Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6abf0c2ff08c8191aff6cccf56a7f3df": {
@@ -360267,6 +360349,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:31.640Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:31.640Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6accd2786b5081918e2891d8cf1e358a": {
@@ -360282,6 +360371,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:34.690Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:34.690Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6adbc83f36308191a4730b9d4251806a": {
@@ -360297,6 +360393,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:38.004Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:38.004Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac4eeca7898819198906285082b8027": {
@@ -360312,6 +360415,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:40.809Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:40.809Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ae035b8ef30819197036b2635940fe0": {
@@ -360327,6 +360437,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:44.087Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:44.087Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ade90299b788191a94d82c488ef6aae": {
@@ -360342,6 +360459,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:46.780Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:46.780Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6aca99dbd5ac8191952d0be9c3013662": {
@@ -360357,6 +360481,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:49.676Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:49.676Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ade478dcbbc8191a6884395a0926e26": {
@@ -360372,6 +360503,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:52.878Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:52.878Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6aaf5b60db80819199cdaf5299792763": {
@@ -360387,6 +360525,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:55.683Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:55.683Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ada54ba8b6c8191918ddf42dad012c4": {
@@ -360402,6 +360547,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:58:58.465Z",
+      "detailError": {
+        "at": "2026-11-06T05:58:58.465Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad5d8f54ea881918aea2081f5ccc067": {
@@ -360417,6 +360569,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:01.177Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:01.177Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6accd220cc4c8191b68fe65b0d4418cc": {
@@ -360432,6 +360591,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:04.376Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:04.376Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6adfd5d5ef088191a563454b0afecb1e": {
@@ -360447,6 +360613,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:07.035Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:07.035Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6aded07f0b0c8191a87ecb48d2edffd5": {
@@ -360462,6 +360635,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:09.734Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:09.734Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6adc76f599748191b48a916499b93396": {
@@ -360477,6 +360657,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:12.377Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:12.377Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6adcbe7590c08191b622b152f9f994aa": {
@@ -360492,6 +360679,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:15.030Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:15.030Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad257c413c4819187e53171f5911795": {
@@ -360507,6 +360701,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:17.685Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:17.685Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ade4b6937b88191b8368d3af05a0f53": {
@@ -360522,6 +360723,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:20.925Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:20.925Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad2c4a899b48191a376274cb255050e": {
@@ -360537,6 +360745,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:24.535Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:24.535Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6adcb1ac1cbc8191979f4b5cb74e785a": {
@@ -360552,6 +360767,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:27.324Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:27.324Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac4c735d98c8191b9068c255393ddeb": {
@@ -360567,6 +360789,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:30.519Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:30.519Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ada9c8b4ffc819193e2c6fa07742cc7": {
@@ -360582,6 +360811,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:34.049Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:34.049Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad9dc0d80a48191a020f32330204ae1": {
@@ -360597,6 +360833,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:37.398Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:37.398Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6add1e0a76548191871624c3fd26cf52": {
@@ -360612,6 +360855,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:40.560Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:40.560Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ade10ff19f88191887b6cf1ad5db992": {
@@ -360627,6 +360877,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:43.768Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:43.768Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad8873724a481918bdcf72cb47856df": {
@@ -360642,6 +360899,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:46.937Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:46.937Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ade2c4ac20081919ea1d8a8b27e7dd3": {
@@ -360657,6 +360921,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:50.260Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:50.260Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ae41875fd248191b713a143d1617738": {
@@ -360672,6 +360943,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:53.447Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:53.447Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad85751004c81919e99c3ab12b97b69": {
@@ -360687,6 +360965,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:56.238Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:56.238Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6adf025fc9c081919b613d0ba81a332e": {
@@ -360702,6 +360987,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T06:59:58.961Z",
+      "detailError": {
+        "at": "2026-11-06T05:59:58.961Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ae46f44768c8191b5ef10398ab3385a": {
@@ -360717,6 +361009,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T07:00:02.179Z",
+      "detailError": {
+        "at": "2026-11-06T06:00:02.179Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6adfbb08d8548191a470b2b292503941": {
@@ -360732,6 +361031,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T07:00:05.351Z",
+      "detailError": {
+        "at": "2026-11-06T06:00:05.351Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac3db119cac81918a2c73592fb955fc": {
@@ -360747,6 +361053,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T07:00:08.000Z",
+      "detailError": {
+        "at": "2026-11-06T06:00:08.000Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6adaa34a4c2881919ab07f5b67dbeb7f": {
@@ -360762,6 +361075,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T07:00:10.664Z",
+      "detailError": {
+        "at": "2026-11-06T06:00:10.664Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac3d9d9861c8191aa8c116a87d4f470": {
@@ -360777,6 +361097,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T07:00:14.802Z",
+      "detailError": {
+        "at": "2026-11-06T06:00:14.802Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ad4a7e9d7e48191a99e742739580909": {
@@ -360792,6 +361119,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T07:00:18.014Z",
+      "detailError": {
+        "at": "2026-11-06T06:00:18.014Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ac1056462fc81919d3ff555df7c53b9": {
@@ -360807,6 +361141,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T07:00:20.876Z",
+      "detailError": {
+        "at": "2026-11-06T06:00:20.876Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     },
     "plugin_asdk_app_6ade319dfaec819188c17a13e8e98d2f": {
@@ -360822,6 +361163,13 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-06T05:42:37.636Z",
       "firstSeenAt": "2026-11-06T05:42:37.636Z",
+      "detailDue": true,
+      "detailFailures": 1,
+      "detailNextAttemptAt": "2026-11-06T07:00:24.101Z",
+      "detailError": {
+        "at": "2026-11-06T06:00:24.101Z",
+        "message": "No usable official description reference"
+      },
       "information": []
     }
   },
@@ -463051,23 +463399,23 @@
     "runId": "42169713222",
     "runAttempt": "1",
     "startedAt": "2026-11-06T05:40:24.754Z",
-    "updatedAt": "2026-11-06T05:57:52.646Z",
+    "updatedAt": "2026-11-06T06:03:00.375Z",
     "mode": "incremental",
-    "detailRequests": 311,
+    "detailRequests": 412,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
     "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 311,
+    "errors": 412,
     "stats": {
       "total": 5791,
       "details": 4668,
       "translated": 4645,
       "missing": 65,
       "removed": 716,
-      "pendingDetails": 5790,
+      "pendingDetails": 5791,
       "pendingTranslations": 1146
     }
   }
