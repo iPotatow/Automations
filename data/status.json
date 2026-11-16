@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-11-15T18:23:18.309Z",
-  "total": 5837,
-  "details": 4504,
-  "translated": 4493,
-  "missing": 33,
-  "removed": 974,
-  "pendingDetails": 5837,
-  "pendingTranslations": 1344,
+  "generatedAt": "2026-11-16T05:29:11.676Z",
+  "total": 5823,
+  "details": 4495,
+  "translated": 4481,
+  "missing": 14,
+  "removed": 997,
+  "pendingDetails": 5823,
+  "pendingTranslations": 1342,
   "lastRun": {
-    "runId": "43745986765",
+    "runId": "43810169570",
     "runAttempt": "1",
-    "startedAt": "2026-11-15T18:19:51.095Z",
-    "updatedAt": "2026-11-15T18:23:12.906Z",
-    "mode": "translate",
+    "startedAt": "2026-11-16T05:26:59.949Z",
+    "updatedAt": "2026-11-16T05:29:11.081Z",
+    "mode": "incremental",
     "detailRequests": 0,
-    "translationRequests": 33,
-    "translationAttempts": 11,
-    "translationLimit": 50,
-    "aiConfigured": true,
+    "translationRequests": 0,
+    "translationAttempts": 0,
+    "translationLimit": 250,
+    "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 11,
+    "errors": 0,
     "stats": {
-      "total": 5837,
-      "details": 4504,
-      "translated": 4493,
-      "missing": 33,
-      "removed": 974,
-      "pendingDetails": 5837,
-      "pendingTranslations": 1344
+      "total": 5823,
+      "details": 4495,
+      "translated": 4481,
+      "missing": 14,
+      "removed": 997,
+      "pendingDetails": 5823,
+      "pendingTranslations": 1342
     }
   },
   "lastScan": {
-    "id": "43681139761",
-    "at": "2026-11-15T05:30:21.032Z",
+    "id": "43810169570",
+    "at": "2026-11-16T05:29:11.039Z",
     "complete": true,
-    "seen": 5804,
-    "previous": 5895,
+    "seen": 5809,
+    "previous": 5837,
     "categories": [
       {
         "category": "featured",
@@ -55,7 +55,7 @@
       },
       {
         "category": "productivity",
-        "count": 618,
+        "count": 619,
         "status": "stable-observed"
       },
       {
@@ -65,7 +65,7 @@
       },
       {
         "category": "developer-tools",
-        "count": 439,
+        "count": 440,
         "status": "stable-observed"
       },
       {
@@ -75,7 +75,7 @@
       },
       {
         "category": "data-and-analytics",
-        "count": 653,
+        "count": 655,
         "status": "stable-observed"
       },
       {
@@ -105,7 +105,7 @@
       },
       {
         "category": "healthcare",
-        "count": 251,
+        "count": 252,
         "status": "stable-observed"
       },
       {
