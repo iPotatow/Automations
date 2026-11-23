@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-11-22T12:14:18.049Z",
-  "total": 5913,
-  "details": 4408,
-  "translated": 4370,
-  "missing": 12,
-  "removed": 1126,
-  "pendingDetails": 5913,
-  "pendingTranslations": 1543,
+  "generatedAt": "2026-11-23T06:29:32.453Z",
+  "total": 5915,
+  "details": 4401,
+  "translated": 4359,
+  "missing": 11,
+  "removed": 1136,
+  "pendingDetails": 5915,
+  "pendingTranslations": 1556,
   "lastRun": {
-    "runId": "45020859040",
+    "runId": "45124051123",
     "runAttempt": "1",
-    "startedAt": "2026-11-22T12:11:53.713Z",
-    "updatedAt": "2026-11-22T12:14:12.358Z",
-    "mode": "translate",
+    "startedAt": "2026-11-23T06:27:27.880Z",
+    "updatedAt": "2026-11-23T06:29:31.907Z",
+    "mode": "incremental",
     "detailRequests": 0,
-    "translationRequests": 114,
-    "translationAttempts": 38,
-    "translationLimit": 50,
-    "aiConfigured": true,
+    "translationRequests": 0,
+    "translationAttempts": 0,
+    "translationLimit": 250,
+    "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 38,
+    "errors": 0,
     "stats": {
-      "total": 5913,
-      "details": 4408,
-      "translated": 4370,
-      "missing": 12,
-      "removed": 1126,
-      "pendingDetails": 5913,
-      "pendingTranslations": 1543
+      "total": 5915,
+      "details": 4401,
+      "translated": 4359,
+      "missing": 11,
+      "removed": 1136,
+      "pendingDetails": 5915,
+      "pendingTranslations": 1556
     }
   },
   "lastScan": {
-    "id": "44990463471",
-    "at": "2026-11-22T05:44:21.670Z",
+    "id": "45124051123",
+    "at": "2026-11-23T06:29:31.887Z",
     "complete": true,
-    "seen": 5901,
+    "seen": 5904,
     "previous": 5913,
     "categories": [
       {
@@ -60,7 +60,7 @@
       },
       {
         "category": "creativity",
-        "count": 568,
+        "count": 569,
         "status": "stable-observed"
       },
       {
@@ -70,7 +70,7 @@
       },
       {
         "category": "business-and-operations",
-        "count": 659,
+        "count": 657,
         "status": "stable-observed"
       },
       {
@@ -80,7 +80,7 @@
       },
       {
         "category": "communication",
-        "count": 227,
+        "count": 229,
         "status": "stable-observed"
       },
       {
@@ -105,7 +105,7 @@
       },
       {
         "category": "healthcare",
-        "count": 275,
+        "count": 278,
         "status": "stable-observed"
       },
       {
@@ -115,7 +115,7 @@
       },
       {
         "category": "other",
-        "count": 624,
+        "count": 623,
         "status": "stable-observed"
       }
     ]
