@@ -378916,6 +378916,14 @@
           "status": "stable-observed"
         }
       ]
+    },
+    {
+      "id": "45360571951",
+      "at": "2026-11-24T08:59:10.362Z",
+      "complete": false,
+      "seen": 0,
+      "previous": 5915,
+      "categories": []
     }
   ],
   "events": [
@@ -491650,19 +491658,19 @@
     }
   },
   "lastRun": {
-    "runId": "45188511384",
+    "runId": "45360571951",
     "runAttempt": "1",
-    "startedAt": "2026-11-23T13:55:52.314Z",
-    "updatedAt": "2026-11-23T13:58:19.955Z",
-    "mode": "translate",
+    "startedAt": "2026-11-24T08:58:28.394Z",
+    "updatedAt": "2026-11-24T08:59:10.365Z",
+    "mode": "incremental",
     "detailRequests": 0,
-    "translationRequests": 126,
-    "translationAttempts": 42,
-    "translationLimit": 50,
-    "aiConfigured": true,
-    "blocked": false,
+    "translationRequests": 0,
+    "translationAttempts": 0,
+    "translationLimit": 250,
+    "aiConfigured": false,
+    "blocked": true,
     "aiBlocked": false,
-    "errors": 42,
+    "errors": 1,
     "stats": {
       "total": 5915,
       "details": 4401,
