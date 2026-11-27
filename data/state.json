@@ -82779,10 +82779,10 @@
         "reviewedAt": "2026-11-26T13:25:39.838Z",
         "translatedAt": "2026-11-26T13:25:39.838Z"
       },
-      "detailFailures": 17,
-      "detailNextAttemptAt": "2026-11-26T11:05:36.461Z",
+      "detailFailures": 18,
+      "detailNextAttemptAt": "2026-11-28T10:48:54.229Z",
       "detailError": {
-        "at": "2026-11-25T11:05:36.461Z",
+        "at": "2026-11-27T10:48:54.229Z",
         "message": "No usable official description reference"
       }
     },
@@ -263696,7 +263696,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-20T04:03:26.759Z",
-      "detailFailures": 3,
+      "detailFailures": 4,
       "translationAttemptRun": "38205938574:1",
       "translation": {
         "summary": "邮件分类与回复草稿",
@@ -263712,9 +263712,9 @@
           "total_tokens": 1673
         }
       },
-      "detailNextAttemptAt": "2026-11-26T13:49:33.729Z",
+      "detailNextAttemptAt": "2026-11-27T18:48:56.957Z",
       "detailError": {
-        "at": "2026-11-26T09:49:33.729Z",
+        "at": "2026-11-27T10:48:56.957Z",
         "message": "No usable official description reference"
       },
       "lastMissingAt": "2026-10-29T04:55:44.767Z"
@@ -284797,7 +284797,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T04:07:17.252Z",
-      "detailFailures": 2,
+      "detailFailures": 3,
       "translationAttemptRun": "38846672078:1",
       "translation": {
         "summary": "寻找本地工匠和工作机会",
@@ -284814,9 +284814,9 @@
         }
       },
       "lastMissingAt": "2026-10-29T04:55:44.767Z",
-      "detailNextAttemptAt": "2026-11-26T12:38:11.880Z",
+      "detailNextAttemptAt": "2026-11-27T14:49:02.431Z",
       "detailError": {
-        "at": "2026-11-26T10:38:11.880Z",
+        "at": "2026-11-27T10:49:02.431Z",
         "message": "No usable official description reference"
       }
     },
@@ -322859,7 +322859,7 @@
       "missingCount": 0,
       "lastSeenAt": "2026-11-27T07:23:20.259Z",
       "firstSeenAt": "2026-10-23T03:54:39.485Z",
-      "detailDue": false,
+      "detailDue": true,
       "description": "ThunderPhone builds, tests and runs AI phone agents. From ChatGPT or Codex you can create an agent from a plain-language brief, attach a phone number, add knowledge documents, generate and run test conversations, and review call results. Every action is scoped to the ThunderPhone organization you authorize with OAuth. Billable or irreversible actions, such as placing calls, starting campaigns or deleting an agent, ask for your confirmation first. No tool asks for passwords, API keys or payment details.",
       "information": [
         {
@@ -322892,7 +322892,7 @@
       ],
       "extractionMethod": "rendered-description-metadata-match",
       "detailCheckedAt": "2026-10-23T03:56:51.483Z",
-      "detailFailures": 0,
+      "detailFailures": 1,
       "translationAttemptRun": "39928402626:1",
       "translation": {
         "summary": "构建并运行AI电话代理",
@@ -322908,7 +322908,12 @@
           "total_tokens": 1644
         }
       },
-      "lastMissingAt": "2026-10-30T04:55:10.236Z"
+      "lastMissingAt": "2026-10-30T04:55:10.236Z",
+      "detailNextAttemptAt": "2026-11-27T11:48:59.751Z",
+      "detailError": {
+        "at": "2026-11-27T10:48:59.751Z",
+        "message": "No usable official description reference"
+      }
     },
     "plugin_asdk_app_6abf2061a1248191a70d61197a20542a": {
       "id": "plugin_asdk_app_6abf2061a1248191a70d61197a20542a",
@@ -497889,23 +497894,23 @@
     "runId": "45957721551",
     "runAttempt": "1",
     "startedAt": "2026-11-27T07:21:23.253Z",
-    "updatedAt": "2026-11-27T10:48:47.423Z",
+    "updatedAt": "2026-11-27T10:49:04.809Z",
     "mode": "incremental",
-    "detailRequests": 3095,
+    "detailRequests": 3099,
     "translationRequests": 0,
     "translationAttempts": 0,
     "translationLimit": 250,
     "aiConfigured": false,
     "blocked": false,
     "aiBlocked": false,
-    "errors": 3095,
+    "errors": 3099,
     "stats": {
       "total": 5990,
       "details": 4342,
       "translated": 4260,
       "missing": 21,
       "removed": 1218,
-      "pendingDetails": 5989,
+      "pendingDetails": 5990,
       "pendingTranslations": 1730
     }
   }
